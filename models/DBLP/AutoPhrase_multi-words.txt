@@ -1,0 +1,81 @@
+0.9579076313	data mining
+0.9516933455	object oriented
+0.9484933455	logic programming
+0.9480512821	programming language
+0.9256623932	natural language
+0.9206239927	database systems
+0.9139573260	database design
+0.8580012821	query processing
+0.8381012821	knowledge discovery
+0.8308346154	range images
+0.7991017705	information systems
+0.7506628816	data model
+0.6298858974	object oriented database
+0.6143684371	range data
+0.5727319292	range image
+0.5708520757	experimental results
+0.5078216117	oriented database
+0.4864187424	paper presents
+0.4800877900	real time
+0.3956605006	database system
+0.3890255800	an introduction
+0.3690544567	three dimensional
+0.3418409646	an overview
+0.3092692308	an object oriented
+0.2888533578	the art
+0.2837142857	3 d
+0.2758258852	based on
+0.2602131868	this paper presents
+0.2599846154	this paper
+0.2426105006	number of
+0.2340465201	this chapter
+0.2287216117	in order to
+0.2240390720	such as
+0.2088168498	as well as
+0.2000465201	this book
+0.1776454212	shape from
+0.1755819292	3d reconstruction
+0.1752009768	reconstruction from
+0.1572327228	introduction to
+0.1558914530	3d model
+0.1548914530	3d models
+0.1475216117	a set of
+0.1460771673	method for
+0.1399544567	due to
+0.1335216117	the problem of
+0.1329390720	the same
+0.1215216117	the use of
+0.1185819292	from multiple
+0.1084549451	techniques for
+0.1080819292	a single
+0.1076493895	development of
+0.1040771673	framework for
+0.1031882784	approach to
+0.0961009768	a novel
+0.0956692308	the internet
+0.0940819292	the book
+0.0939946276	set of
+0.0865692308	an object
+0.0806493895	analysis of
+0.0800493895	methods for
+0.0795660562	reconstruction of
+0.0784771673	used to
+0.0693549451	a new
+0.0651882784	by using
+0.0635660562	model for
+0.0579946276	modeling of
+0.0533358974	the design
+0.0518358974	the surface
+0.0518358974	the object
+0.0510493895	algorithms for
+0.0480493895	approach for
+0.0479946276	design of
+0.0479946276	model of
+0.0478549451	the first
+0.0456930403	the problem
+0.0406560440	as well
+0.0388358974	the method
+0.0345882784	system for
+0.0292644689	a 3d
+0.0284263736	a method
+0.0196168498	use of
