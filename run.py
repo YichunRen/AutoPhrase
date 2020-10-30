@@ -13,6 +13,11 @@ def main():
 	except:
 		print('=> data-params.json not found!')
 		return
+
+	# Check if 'default_data' exists
+	default_data = False
+	if os.listdir('default_data'):
+		default_data = True
 	
 	# Check if txt files are ready
 	data_dict = data_params['data']
@@ -21,6 +26,8 @@ def main():
 	download_needed = False
 	for key, file_lst in data_dict.items():
 		for filepath in file_lst:
+			if default_data:
+				filepath = filepath.replace('data', 'default_data')
 			try:
 				tmp_file = open(filepath, "r")
 				tmp_file.close()
