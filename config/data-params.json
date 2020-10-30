@@ -1,0 +1,7 @@
+{
+	"data":{
+		"Chinese": ["./data/CN/wiki_all.txt", "./data/CN/wiki_quality.txt", "./data/CN/stopwords.txt"],
+		"English": ["./data/EN/DBLP.5K.txt", "./data/EN/DBLP.txt", "./data/EN/wiki_all.txt", "./data/EN/wiki_quality.txt", "./data/EN/stopwords.txt"],
+		"Spanish": ["./data/ES/wiki_all.txt", "./data/ES/wiki_quality.txt", "./data/ES/stopwords.txt"]
+	}
+}
