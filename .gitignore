@@ -1,0 +1,11 @@
+data/corpus.txt
+data/EN/DBLP.txt
+models/MyModel/
+Python/
+results/
+tmp/
+
+*/.DS_Store
+*.DS_Store
+*.orig
+*.pyc
