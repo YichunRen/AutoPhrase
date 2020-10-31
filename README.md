@@ -23,3 +23,9 @@ sudo docker run -v $PWD/models:/autophrase/models -it -e ENABLE_POS_TAGGING=1 -e
 ```
 ./auto_phrase.sh
 ```
+
+### Responsibilities 
+
+* Joey Hou is responsible for code.
+* Yichun Ren is responsible for report.
+* Group members discussed the problems together
