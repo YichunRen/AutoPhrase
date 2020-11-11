@@ -5,6 +5,10 @@ Python/
 results/
 tmp/
 
+
+*/.ipynb_checkpoints/*
+*/__pycache__/*
+.DS_Store
 */.DS_Store
 *.DS_Store
 *.orig

@@ -21,13 +21,14 @@ FROM openjdk:8
 
 MAINTAINER Joey Hou <z9hou@ucsd.edu>
 
-RUN \   
+RUN \
     echo "===> install g++" && \
     apt-get update && apt-get install -y --force-yes g++
 
 RUN \
     echo "===> install make, curl, perl" && \
     apt-get update && apt-get install -y --force-yes make curl perl
+    apt-get install vim
 
 ARG repo
 ARG branch
