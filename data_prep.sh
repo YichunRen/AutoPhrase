@@ -6,10 +6,7 @@
 # -- Joey 10/29/2020
 # Reference: shangjingbo1226/AutoPhrase (https://github.com/shangjingbo1226/AutoPhrase/blob/master/auto_phrase.sh)
 
-############ Part 1. Configure Needed Files ############
-
-
-############ Part 2. Preparing Data ############
+############  Preparing Data ############
 
 # The comment below are directly from AutoPhrase repo.
 # DATA_DIR is the default directory for reading data files.  Because this directory contains not only the default

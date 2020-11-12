@@ -3,7 +3,11 @@ import json
 
 
 def main():
-	print("========= Running data preparation... =========")
+	print("========= Step 1. Collecting needed resources... =========")
+	command = './resources.sh'
+	os.system(command)
+
+	print("========= Step 2. Running data preparation... =========")
 	# Check if data-params.json is ready
 	try:
 		with open("config/data-params.json", "r") as read_file:
@@ -16,7 +20,7 @@ def main():
 
 	# Check if 'default_data' exists
 	default_data = False
-	if os.listdir('default_data'):
+	if 'default_data' in os.listdir('.'):
 		default_data = True
 
 	# Check if txt files are ready

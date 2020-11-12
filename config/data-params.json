@@ -1,5 +1,5 @@
 {
-	"data_dir": "AutoPhrase/data/",
+	"data_dir": "./data/",
 	"data":{
 		"Chinese": ["/CN/wiki_all.txt", "/CN/wiki_quality.txt", "/CN/stopwords.txt"],
 		"English": ["/EN/DBLP.5K.txt", "/EN/DBLP.txt", "/EN/wiki_all.txt", "/EN/wiki_quality.txt", "/EN/stopwords.txt"],

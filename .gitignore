@@ -5,7 +5,7 @@ Python/
 results/
 tmp/
 
-
+resources/*
 */.ipynb_checkpoints/*
 */__pycache__/*
 .DS_Store
