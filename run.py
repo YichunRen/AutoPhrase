@@ -61,11 +61,14 @@ def data_prep():
 		print('  Finished downloading DBLP.txt!')
 
 def main():
+	# Getting the target
+	# If no target is given, then run 'all'
 	if len(sys.argv) == 1:
 		target = 'all'
 	else:
 		target = sys.argv[1]
 
+	# Building corresponding target
 	if target == "data_prep":
 		data_prep()
 	elif target == "all":
