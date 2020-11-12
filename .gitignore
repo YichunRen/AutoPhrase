@@ -5,9 +5,13 @@ Python/
 results/
 tmp/
 
+resources
 resources/*
+src
 src/*
+data
 data/*
+tools
 tools/*
 auto_phrase.sh
 
