@@ -11,21 +11,23 @@ def main():
 		    data_params = json.load(read_file)
 		read_file.close()
 	except:
-		print('=> data-params.json not found!')
+		print('=> Failed to read file: data-params.json')
 		return
 
 	# Check if 'default_data' exists
 	default_data = False
 	if os.listdir('default_data'):
 		default_data = True
-	
+
 	# Check if txt files are ready
+	data_dir = data_params['data_dir']
 	data_dict = data_params['data']
 	found_lst = []
 	unfount_lst = []
 	download_needed = False
 	for key, file_lst in data_dict.items():
 		for filepath in file_lst:
+			filepath = data_dir + filepath
 			if default_data:
 				filepath = filepath.replace('data', 'default_data')
 			try:
@@ -51,4 +53,16 @@ def main():
 
 		os.system(command)
 		print('  Finished downloading DBLP.txt!')
-main()
+
+
+
+
+
+
+
+
+
+
+
+
+main();

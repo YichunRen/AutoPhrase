@@ -1,12 +1,17 @@
 #!/bin/bash
 
-# Note: 
-# This is a simplied version for DSC180A Checkpoint #1. 
+# Note:
+# This is a simplied version for DSC180A Checkpoint #1.
 # As a shortened version from auto_phrase.sh, this script only prepares data needed to auto phrase training.
 # -- Joey 10/29/2020
 # Reference: shangjingbo1226/AutoPhrase (https://github.com/shangjingbo1226/AutoPhrase/blob/master/auto_phrase.sh)
 
-# The comment below are directly from AutoPhrase repo. 
+############ Part 1. Configure Needed Files ############
+
+
+############ Part 2. Preparing Data ############
+
+# The comment below are directly from AutoPhrase repo.
 # DATA_DIR is the default directory for reading data files.  Because this directory contains not only the default
 # dataset, but also language-specific files and "BAD_POS_TAGS.TXT", in most cases it's a bad idea to change it.
 # However, when this script is run from a Docker container, it's perfectly fine for the user to mount an external

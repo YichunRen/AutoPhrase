@@ -34,18 +34,21 @@ ARG repo
 ARG branch
 ADD "${repo}/archive/${branch}.zip" /
 
+##### Unziping project file from github #####
 RUN \
     unzip ${branch} && \
     rm ${branch}.zip && \
-    mv DSC180A_Replication-${branch} autophrase
+    mv DSC180A_Replication-${branch} autophrase_dsc180
 
+##### Compiling #####
 RUN \
     echo "===> compile" &&\
-    cd /autophrase && bash compile.sh &&\
+    cd /autophrase_dsc180 && bash compile.sh &&\
     chmod 755 tools/treetagger/bin/tree-tagger && \
     mv data default_data && \
     mv models default_models
 
+##### Cleaning up #####
 RUN \
     echo "===> clean up..."  && \
     apt-get purge -y --force-yes make && \
@@ -56,4 +59,4 @@ RUN \
 
 ENV COMPILE 0
 
-WORKDIR /autophrase
+WORKDIR /autophrase_dsc180
