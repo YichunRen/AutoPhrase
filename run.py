@@ -1,12 +1,14 @@
 import os
 import json
+import sys
 
-
-def main():
+def data_prep():
+	############  Downloading Resources ############
 	print("========= Step 1. Collecting needed resources... =========")
 	command = './resources.sh'
 	os.system(command)
 
+	############  Preparing Data ############
 	print("========= Step 2. Running data preparation... =========")
 	# Check if data-params.json is ready
 	try:
@@ -58,15 +60,15 @@ def main():
 		os.system(command)
 		print('  Finished downloading DBLP.txt!')
 
+def main():
+	if len(sys.argv) == 1:
+		target = 'all'
+	else:
+		target = sys.argv[1]
 
-
-
-
-
-
-
-
-
-
+	if target == "data_prep":
+		data_prep()
+	elif target == "all":
+		data_prep()
 
 main();
