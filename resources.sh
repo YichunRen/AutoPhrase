@@ -5,9 +5,21 @@
 ############ Configure Needed Files ############
 # Dowload from autophrase
 echo ' => Downloading needed files...'
+if [ -d "resources" ]; then
+    echo ' => resources dir exists!'
+else
+    mkdir resources
+fi
 cd resources
-git clone https://github.com/shangjingbo1226/AutoPhrase
+
+
+if [ -d "AutoPhrase" ]; then
+    echo ' => AutoPhrase exists!'
+else
+    git clone https://github.com/shangjingbo1226/AutoPhrase
+fi
 cd ..
+
 
 # Creating symbolic link
 ln -s resources/AutoPhrase/src src
