@@ -5,8 +5,7 @@ Python/
 results/
 tmp/
 
-resources
-resources/*
+resources/AutoPhrase/*
 src
 src/*
 data
