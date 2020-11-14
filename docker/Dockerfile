@@ -27,7 +27,7 @@ RUN \
 
 RUN \
     echo "===> install vim" && \
-    apt-get update && apt-get install vim
+    apt-get update && apt-get install vim -y --force-yes
 
 RUN \
     echo "===> install make, curl, perl" && \
