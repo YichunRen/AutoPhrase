@@ -73,5 +73,8 @@ def main():
 		data_prep()
 	elif target == "all":
 		data_prep()
+	elif target == "auto_phrase":
+		command = './auto_phrase.sh'
+		os.system(command)
 
 main();

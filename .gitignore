@@ -13,7 +13,8 @@ data
 data/*
 tools
 tools/*
-auto_phrase.sh
+models/*
+bin/*
 
 */.ipynb_checkpoints/*
 */__pycache__/*
