@@ -27,7 +27,7 @@ RUN \
 
 RUN \
     echo "===> install make, curl, perl, vim" && \
-    apt-get update && apt-get install -y --force-yes make curl perl
+    apt-get update && apt-get install -y --force-yes make curl perl \
     apt-get install vim
 
 ARG repo
