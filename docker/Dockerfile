@@ -46,7 +46,7 @@ RUN \
 ##### Compiling #####
 RUN \
     echo "===> compile" &&\
-    cd /autophrase_dsc180 && bash compile.sh &&\
+    cd /autophrase_dsc180 && bash resources/compile.sh &&\
     chmod 755 tools/treetagger/bin/tree-tagger && \
     mv data default_data && \
     mv models default_models
