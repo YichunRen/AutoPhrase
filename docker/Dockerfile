@@ -26,9 +26,12 @@ RUN \
     apt-get update && apt-get install -y --force-yes g++
 
 RUN \
-    echo "===> install make, curl, perl, vim" && \
-    apt-get update && apt-get install -y --force-yes make curl perl \
-    apt-get install vim
+    echo "===> install vim" && \
+    apt-get update && apt-get install vim
+
+RUN \
+    echo "===> install make, curl, perl" && \
+    apt-get update && apt-get install -y --force-yes make curl perl
 
 ARG repo
 ARG branch
