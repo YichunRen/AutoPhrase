@@ -51,7 +51,9 @@ RUN \
 ##### Compiling #####
 RUN \
     echo "===> compile" &&\
-    bash compile.sh &&\
+    bash compile.sh
+
+RUN \
     chmod 755 tools/treetagger/bin/tree-tagger && \
     mv data default_data && \
     mv models default_models
