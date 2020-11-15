@@ -18,10 +18,10 @@ cd ..
 # ln -s resources/AutoPhrase/data data
 
 mkdir src
-cp resources/AutoPhrase/src/* src
+cp -r resources/AutoPhrase/src/* src
 
 mkdir tools
-cp resources/AutoPhrase/tools/* tools
+cp -r resources/AutoPhrase/tools/* tools
 
 mkdir data
-cp resources/AutoPhrase/data/* data
+cp -r resources/AutoPhrase/data/* data
