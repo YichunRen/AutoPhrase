@@ -7,6 +7,10 @@
 echo ' => Creating data and recourses dir'
 mkdir resources
 mkdir data
+cd data
+mkdir tmp
+mkdir raw
+mkdir output
 echo ' => Downloading needed files...'
 
 
@@ -19,7 +23,7 @@ cd ..
 ln -s resources/AutoPhrase/src src
 # ln -s resources/AutoPhrase/tools tools
 # ln -s resources/AutoPhrase/auto_phrase.sh auto_phrase.sh
-ln -s resources/AutoPhrase/data data/raw
+# ln -s resources/AutoPhrase/data data/raw
 ln -s data/tmp resources/AutoPhrase/tmp
 ln -s data/tmp tmp
 
