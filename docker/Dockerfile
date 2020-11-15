@@ -50,6 +50,10 @@ RUN \
 
 ##### Compiling #####
 RUN \
+    for entry in "./*"
+    do
+      echo "$entry"
+    done
     echo "===> compile" &&\
     bash compile.sh &&\
     chmod 755 resources/AutoPhrase/tools/treetagger/bin/tree-tagger && \
