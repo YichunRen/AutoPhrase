@@ -4,7 +4,6 @@
 # It also creates needed symbolic link into the root directory
 ############ Configure Needed Files ############
 # Dowload from autophrase
-mkdir tmp
 echo ' => Downloading needed files...'
 mkdir resources
 cd resources
@@ -16,8 +15,9 @@ cd ..
 ln -s resources/AutoPhrase/src src
 # ln -s resources/AutoPhrase/tools tools
 # ln -s resources/AutoPhrase/auto_phrase.sh auto_phrase.sh
-ln -s resources/AutoPhrase/data data
-ln -s tmp resources/AutoPhrase/tmp
+ln -s resources/AutoPhrase/data data/raw
+ln -s data/tmp resources/AutoPhrase/tmp
+ln -s data/tmp tmp
 
 # mkdir src
 # cp -r resources/AutoPhrase/src/* src

@@ -28,7 +28,7 @@ else
 fi
 MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
 # RAW_TRAIN is the input of AutoPhrase, where each line is a single document.
-DEFAULT_TRAIN=${DATA_DIR}/EN/DBLP.txt
+DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.txt
 RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
 
 green=`tput setaf 2`

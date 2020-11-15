@@ -8,8 +8,7 @@ tmp/
 resources/*
 src
 src/*
-data
-data/*
+data/raw/DBLP.txt
 tools
 tools/*
 models/*
