@@ -7,8 +7,8 @@
 # Reference: shangjingbo1226/AutoPhrase (https://github.com/shangjingbo1226/AutoPhrase/blob/master/auto_phrase.sh)
 
 ############  Preparing Data ############
-# cd /autophrase
-cd ../../
+cd /autophrase
+# cd ../../
 echo ' => Creating folders in data dir'
 mkdir data
 cd data
@@ -43,7 +43,7 @@ MODELS_DIR=data/models/
 MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
 
 # RAW_TRAIN is the input of AutoPhrase, where each line is a single document.
-cp resources/AutoPhrase/data/EN/DBLP.5K.txt ${DATA_DIR}/raw/
+cp /autophrase/resources/AutoPhrase/data/EN/DBLP.5K.txt ${DATA_DIR}/raw/
 # DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.5k.txt
 DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.txt
 RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
