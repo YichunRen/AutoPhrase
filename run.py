@@ -1,6 +1,9 @@
 import os
 import json
 import sys
+sys.path.insert(0, 'src/eda')
+from eda import generate_stats
+from utils import convert_notebook
 
 def data_prep():
 	# ############  Downloading Resources ############
@@ -94,10 +97,27 @@ def main():
 		data_prep()
 	# elif target == "compile":
 	# 	compile()
+    
+    # run the method
+    elif target == "autophrase":
+        compile()
+        autophrase()
+    
+    #run eda, the result will be saved as html in data/out 
+    elif target == "eda":
+        eda_config = json.load(open('config/eda-params.json'))
+        generate_stats(**eda_config)
+        # execute notebook / convert to html
+        convert_notebook(**eda_config)
+        
 	elif target == "all":
 		data_prep()
 		compile()
 		autophrase()
+        eda_config = json.load(open('config/eda-params.json'))
+        generate_stats(**eda_config)
+        # execute notebook / convert to html
+        convert_notebook(**eda_config)
 		cleanup()
 
 
