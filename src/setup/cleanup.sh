@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /autophrase
 
 if [ -d "bin" ]; then
     rm -rf bin/

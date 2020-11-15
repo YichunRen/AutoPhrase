@@ -100,7 +100,5 @@ def main():
 		autophrase()
 		cleanup()
 
-	# Clean Up
-
 
 main();

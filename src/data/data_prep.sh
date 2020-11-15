@@ -44,6 +44,8 @@ MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
 
 # RAW_TRAIN is the input of AutoPhrase, where each line is a single document.
 cp /autophrase/resources/AutoPhrase/data/EN/* ${DATA_DIR}/raw/
+cp /autophrase/resources/AutoPhrase/data/BAD_POS_TAGS.txt ${DATA_DIR}/
+
 # DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.5k.txt
 DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.txt
 RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
