@@ -9,7 +9,7 @@ cd data
 mkdir tmp
 mkdir models
 mkdir raw
-mkdir output
+mkdir out
 mkdir report
 cd ..
 

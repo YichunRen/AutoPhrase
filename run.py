@@ -85,7 +85,7 @@ def run_eda():
     convert_notebook(**eda_config)
 
 def main():
-
+    model_name = 'DBLP'
     try:
         with open("config/runtime.json", "r") as read_file:
             print("=> Loading runtime status...")
