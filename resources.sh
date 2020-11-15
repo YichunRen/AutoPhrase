@@ -5,19 +5,9 @@
 ############ Configure Needed Files ############
 # Dowload from autophrase
 echo ' => Downloading needed files...'
-if [ -d "resources" ]; then
-    echo ' => resources dir exists!'
-else
-    mkdir resources
-fi
+mkdir resources
 cd resources
-
-
-if [ -d "AutoPhrase" ]; then
-    echo ' => AutoPhrase exists!'
-else
-    git clone https://github.com/shangjingbo1226/AutoPhrase
-fi
+git clone https://github.com/shangjingbo1226/AutoPhrase
 cd ..
 
 
