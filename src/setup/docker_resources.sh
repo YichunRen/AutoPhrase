@@ -6,7 +6,6 @@
 # Creating resources structure
 echo ' => Creating data and recourses dir'
 cd /autophrase
-mkdir resources
 
 # Dowload from autophrase
 echo ' => Downloading needed files...'

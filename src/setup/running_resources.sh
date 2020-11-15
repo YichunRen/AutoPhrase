@@ -15,4 +15,4 @@ echo ' => Copying tools from AutoPhrase...'
 cp -r resources/AutoPhrase/tools/* tools
 
 # Copying makefile
-cp recourses/Makefile .
+cp resources/Makefile .
