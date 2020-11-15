@@ -62,8 +62,8 @@ def data_prep():
 
 def compile():
 	print(' => Preparing model & compiling...')
-	command = 'apt-get update && apt-get install -y --force-yes make curl perl\
-				cp /autophrase/src/setup/compile.sh /autophrase; \
+	command = 'apt-get update && apt-get install -y make;\
+				cp /autophrase/src/setup/compile.sh /autophrase/ ;\
 				bash compile.sh; rm /autophrase/compile.sh'
 	os.system(command)
 

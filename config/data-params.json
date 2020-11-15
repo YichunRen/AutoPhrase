@@ -1,6 +1,6 @@
 {
 	"data_dir": "./data/raw/",
 	"data":{
-		"English": ["/DBLP.5K.txt", "/DBLP.txt"]
+		"English": ["/DBLP.5K.txt", "/DBLP.txt", "/wiki_all.txt", "/wiki_quality.txt", "/stopwords.txt"]
 	}
 }

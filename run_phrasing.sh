@@ -1,5 +1,16 @@
 #!/bin/bash
 
+DATA_DIR=data
+MODELS_DIR=data/models/
+MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
+FIRST_RUN=${FIRST_RUN:- 1}
+MIN_SUP=${MIN_SUP:- 10}
+THREAD=${THREAD:- 10}
+MAX_POSITIVES=-1
+DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.txt
+RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
+
+
 TOKENIZER="-cp .:resources/AutoPhrase/tools/tokenizer/lib/*:tools/tokenizer/resources/:tools/tokenizer/build/ Tokenizer"
 #TOKENIZER="-cp .;tools/tokenizer/lib/*;tools/tokenizer/resources/;tools/tokenizer/build/ Tokenizer"
 TOKEN_MAPPING=tmp/token_mapping.txt
