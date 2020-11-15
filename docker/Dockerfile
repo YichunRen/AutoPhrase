@@ -43,11 +43,16 @@ RUN \
     rm ${branch}.zip && \
     mv DSC180A_Replication-${branch} autophrase_dsc180
 
+##### Preparing resources #####
+RUN \
+    echo "===> downloading resources" &&\
+    cd autophrase_dsc180 && bash resources.sh
+
 ##### Compiling #####
 RUN \
     echo "===> compile" &&\
-    cd autophrase_dsc180 && bash compile.sh &&\
-    chmod 755 tools/treetagger/bin/tree-tagger && \
+    bash compile.sh &&\
+    chmod 755 resources/AutoPhrase/tools/treetagger/bin/tree-tagger && \
     mv data default_data && \
     mv models default_models
 
