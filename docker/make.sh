@@ -14,5 +14,4 @@ echo $REPO
 # In a Windows bash shell, "sudo" won't work.  Note that the shell itself
 # must be elevated, though.
 su 2> /dev/null
-docker build --build-arg repo=$REPO --build-arg branch=$BRANCH \
-    -t test .
+docker build --build-arg repo=$REPO --build-arg branch=$BRANCH -t test .

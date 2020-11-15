@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo ' ==> in compile.sh'
 if [ "$(uname)" == "Darwin" ]; then
     make all CXX=g++-6 | grep -v "Nothing to be done for"
