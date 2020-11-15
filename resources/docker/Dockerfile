@@ -27,13 +27,15 @@ RUN \
 ##### Preparing resources #####
 RUN \
     echo "===> downloading resources..." &&\
-    bash /autophrase/src/setup/docker_resources.sh
+    bash /autophrase/src/setup/docker_resources.sh &&\
+    chmod 755 /autophrase/src/setup/*.sh
 
 ##### Compiling #####
 #RUN \
 #    echo "===> compile" &&\
 #    cd /autophrase/src/setup/ && bash compile.sh &&\
 #    chmod 755 tools/treetagger/bin/tree-tagger
+
 
 ##### Cleaning up #####
 RUN \

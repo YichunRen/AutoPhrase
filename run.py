@@ -62,7 +62,7 @@ def data_prep():
 
 def compile():
 	print(' => Preparing model & compiling...')
-	command = './src/setup/model_prep.sh'
+	command = 'cp /autophrase/src/setup/compile.sh /autophrase; bash compile.sh;rm /autophrase/compile.sh'
 	os.system(command)
 
 def autophrase():
