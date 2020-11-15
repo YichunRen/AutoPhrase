@@ -1,3 +1,5 @@
+#!/bin/bash
+
 TOKENIZER="-cp .:resources/AutoPhrase/tools/tokenizer/lib/*:tools/tokenizer/resources/:tools/tokenizer/build/ Tokenizer"
 #TOKENIZER="-cp .;tools/tokenizer/lib/*;tools/tokenizer/resources/;tools/tokenizer/build/ Tokenizer"
 TOKEN_MAPPING=tmp/token_mapping.txt

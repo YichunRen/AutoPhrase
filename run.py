@@ -62,12 +62,18 @@ def data_prep():
 
 def compile():
 	print(' => Preparing model & compiling...')
-	command = 'cp /autophrase/src/setup/compile.sh /autophrase; bash compile.sh;rm /autophrase/compile.sh'
+	command = 'apt-get update && apt-get install -y --force-yes make curl perl\
+				cp /autophrase/src/setup/compile.sh /autophrase; \
+				bash compile.sh; rm /autophrase/compile.sh'
 	os.system(command)
 
 def autophrase():
 	print(' => Running AutoPhrase...')
-	command = './run_phrasing.sh'
+	command = 'chmod 755 run_phrasing.sh; ./run_phrasing.sh'
+	os.system(command)
+
+def cleanup():
+	command = 'chmod 755 src/setup/cleanup.sh; ./src/setup/cleanup.sh'
 	os.system(command)
 
 def main():
