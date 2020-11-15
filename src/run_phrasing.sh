@@ -1,12 +1,12 @@
 #!/bin/bash
 
-# Note: this is the file that handles the running time 
+# Note: this is the file that handles the running time
 
 ######### Setting runtime variables #########
 DATA_DIR=data
 MODELS_DIR=data/models/
 MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
-DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.txt
+DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.5K.txt
 RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
 
 FIRST_RUN=${FIRST_RUN:- 1}
