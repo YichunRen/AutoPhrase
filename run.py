@@ -72,7 +72,7 @@ def autophrase():
 
 def main():
 	# Setting up environment
-	print(' => Setting up environment...'')
+	print(' => Setting up environment...')
 	command = './src/setup/running_resources.sh'
 	os.system(command)
 
