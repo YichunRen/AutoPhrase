@@ -12,7 +12,11 @@ RUN \
 
 RUN \
     echo "===> install make, curl, perl" && \
-    apt-get update && apt-get install -y --force-yes make curl perl
+    apt-get update && apt-get install -y --force-yes make curl perl python3-pip
+
+RUN \
+    echo "===> install python packages" && \
+    pip3 install pandas numpy seaborn scipy tqdm matplotlib
 
 ARG repo
 ARG branch

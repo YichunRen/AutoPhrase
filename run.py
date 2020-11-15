@@ -111,7 +111,7 @@ def main():
 
     # Building corresponding target
     if target == "data_prep":
-        if runtime_status['data_prep'] = 0:
+        if runtime_status['data_prep'] == 0:
             print('  => building data_prep...')
             data_prep()
             runtime_status['data_prep'] = 1
