@@ -54,7 +54,7 @@ def data_prep():
 
 	# Downloading data
 	if download_needed:
-		command = './data_prep.sh'
+		command = './src/data/data_prep.sh'
 		# command = 'sudo docker run -v $PWD/models:/autophrase/models -it -e ENABLE_POS_TAGGING=1 -e MIN_SUP=30 -e THREAD=10 joeyhou10/autophrase_replication; ./auto_phrase.sh'
 
 		os.system(command)

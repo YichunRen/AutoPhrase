@@ -1,8 +1,6 @@
 {
-	"data_dir": "./data/",
+	"data_dir": "./data/raw/",
 	"data":{
-		"Chinese": ["/CN/wiki_all.txt", "/CN/wiki_quality.txt", "/CN/stopwords.txt"],
-		"English": ["/EN/DBLP.5K.txt", "/EN/DBLP.txt", "/EN/wiki_all.txt", "/EN/wiki_quality.txt", "/EN/stopwords.txt"],
-		"Spanish": ["/ES/wiki_all.txt", "/ES/wiki_quality.txt", "/ES/stopwords.txt"]
+		"English": ["/DBLP.5K.txt", "/DBLP.txt"]
 	}
 }

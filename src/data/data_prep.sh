@@ -7,6 +7,17 @@
 # Reference: shangjingbo1226/AutoPhrase (https://github.com/shangjingbo1226/AutoPhrase/blob/master/auto_phrase.sh)
 
 ############  Preparing Data ############
+# cd /autophrase
+cd ../../
+echo ' => Creating folders in data dir'
+mkdir data
+cd data
+mkdir tmp
+mkdir models
+mkdir raw
+mkdir output
+mkdir report
+cd ..
 
 # The comment below are directly from AutoPhrase repo.
 # DATA_DIR is the default directory for reading data files.  Because this directory contains not only the default
@@ -14,20 +25,26 @@
 # However, when this script is run from a Docker container, it's perfectly fine for the user to mount an external
 # directory called "data" and read the corpus from there, since the directory holding the language-specific files
 # and "BAD_POS_TAGS.txt" will have been renamed to "default_data".
-if [ -d "default_data" ]; then
-    DATA_DIR=${DATA_DIR:- default_data}
-else
-    DATA_DIR=${DATA_DIR:- data}
-
-fi
+# if [ -d "default_data" ]; then
+#     DATA_DIR=${DATA_DIR:- default_data}
+# else
+#     DATA_DIR=${DATA_DIR:- data}
+#
+# fi
+DATA_DIR=data
 # MODEL is the directory in which the resulting model will be saved.
-if [ -d "models" ]; then
-    MODELS_DIR=${MODELS_DIR:- models}
-else
-    MODELS_DIR=${MODELS_DIR:- default_models}
-fi
+# if [ -d "models" ]; then
+#     MODELS_DIR=${MODELS_DIR:- models}
+# else
+#     MODELS_DIR=${MODELS_DIR:- default_models}
+# fi
+
+MODELS_DIR=data/models/
 MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
+
 # RAW_TRAIN is the input of AutoPhrase, where each line is a single document.
+cp recourses/AutoPhrase/data/EN/DBLP.5k.txt ${DATA_DIR}/raw/
+# DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.5k.txt
 DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.txt
 RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
 
