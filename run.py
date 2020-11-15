@@ -5,6 +5,7 @@ sys.path.insert(0, 'src/eda')
 from utils import convert_notebook
 
 def initialization():
+    print(">>>>>>>>>>>>>>>>>>>>>>>> Initialization... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     try:
         with open("config/runtime.json", "r") as read_file:
             print("=> Loading runtime status...")
@@ -35,7 +36,7 @@ def data_prep(runtime_status):
         return
 
     ############  Preparing Data ############
-    print("========= Step 2. Running data preparation... =========")
+    print(">>>>>>>>>>>>>>>>>>>>>>>> Running data preparation... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     # Check if data-params.json is ready
     try:
         with open("config/data-params.json", "r") as read_file:
@@ -90,7 +91,7 @@ def compile(runtime_status):
         print('  => build data_prep first...')
         data_prep()
         runtime_status['data_prep'] = 1
-    print(' => Preparing model & compiling...')
+    print(">>>>>>>>>>>>>>>>>>>>>>>> Preparing model & compiling... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     command = 'apt-get update && apt-get install -y make;\
                 cp /autophrase/src/setup/compile.sh /autophrase/ ;\
                 bash compile.sh; rm /autophrase/compile.sh'
@@ -102,7 +103,7 @@ def autophrase(runtime_status):
         compile(runtime_status)
         runtime_status['compile'] = 1
 
-    print(' => Running AutoPhrase...')
+    print(">>>>>>>>>>>>>>>>>>>>>>>> Running AutoPhrase... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; ./run_phrasing.sh'
     os.system(command)
 
@@ -116,6 +117,9 @@ def run_eda(runtime_status):
         autophrase(runtime_status)
         runtime_status['autophrase'] = 1
     cleanup()
+
+
+    print(">>>>>>>>>>>>>>>>>>>>>>>> Running EDA... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     from eda import generate_stats
     eda_config = json.load(open('config/eda-params.json'))
     generate_stats(**eda_config)
