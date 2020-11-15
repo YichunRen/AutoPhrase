@@ -4,8 +4,12 @@
 # It also creates needed symbolic link into the root directory
 ############ Configure Needed Files ############
 # Dowload from autophrase
-echo ' => Downloading needed files...'
+echo ' => Creating data and recourses dir'
 mkdir resources
+mkdir data
+echo ' => Downloading needed files...'
+
+
 cd resources
 git clone https://github.com/shangjingbo1226/AutoPhrase
 cd ..
