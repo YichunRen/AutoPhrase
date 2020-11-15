@@ -27,7 +27,6 @@ RUN \
 ##### Preparing resources #####
 RUN \
     echo "===> downloading resources..." &&\
-#    cd /autophrase/src/setup/ && bash docker_resources.sh
     bash /autophrase/src/setup/docker_resources.sh
 
 ##### Compiling #####

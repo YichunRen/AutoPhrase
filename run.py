@@ -61,6 +61,11 @@ def data_prep():
 		print('  Finished downloading DBLP.txt!')
 
 def main():
+	# Setting up environment
+	print(' => Setting up environment...'')
+	command = './src/setup/running_resources.sh'
+	os.system(command)
+
 	# Getting the target
 	# If no target is given, then run 'all'
 	if len(sys.argv) == 1:
@@ -76,5 +81,8 @@ def main():
 		os.system(command)
 	elif target == "all":
 		data_prep()
+
+	# Clean Up
+	
 
 main();
