@@ -9,15 +9,6 @@
 ############  Preparing Data ############
 cd /autophrase
 # cd ../../
-echo ' => Creating folders in data dir'
-mkdir data
-cd data
-mkdir tmp
-mkdir models
-mkdir raw
-mkdir output
-mkdir report
-cd ..
 
 # The comment below are directly from AutoPhrase repo.
 # DATA_DIR is the default directory for reading data files.  Because this directory contains not only the default

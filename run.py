@@ -72,11 +72,11 @@ def compile():
 
 def autophrase():
 	print(' => Running AutoPhrase...')
-	command = 'chmod 755 run_phrasing.sh; ./run_phrasing.sh'
+	command = './run_phrasing.sh'
 	os.system(command)
 
 def cleanup():
-	command = 'chmod 755 src/setup/cleanup.sh; ./src/setup/cleanup.sh'
+	command = './src/setup/cleanup.sh'
 	os.system(command)
 
 def main():
@@ -97,19 +97,19 @@ def main():
 		data_prep()
 	# elif target == "compile":
 	# 	compile()
-    
+
     # run the method
     elif target == "autophrase":
         compile()
         autophrase()
-    
-    #run eda, the result will be saved as html in data/out 
+
+    #run eda, the result will be saved as html in data/out
     elif target == "eda":
         eda_config = json.load(open('config/eda-params.json'))
         generate_stats(**eda_config)
         # execute notebook / convert to html
         convert_notebook(**eda_config)
-        
+
 	elif target == "all":
 		data_prep()
 		compile()
