@@ -92,12 +92,13 @@ def main():
 	# Building corresponding target
 	if target == "data_prep":
 		data_prep()
-	elif target == "compile":
-		compile()
+	# elif target == "compile":
+	# 	compile()
 	elif target == "all":
 		data_prep()
 		compile()
 		autophrase()
+		cleanup()
 
 	# Clean Up
 

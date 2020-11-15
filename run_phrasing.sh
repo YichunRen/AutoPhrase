@@ -10,6 +10,8 @@ MAX_POSITIVES=-1
 DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.txt
 RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
 
+mkdir /autophrase/data/EN
+cp /autophrase/data/raw/* /autophrase/data/EN/
 
 TOKENIZER="-cp .:resources/AutoPhrase/tools/tokenizer/lib/*:tools/tokenizer/resources/:tools/tokenizer/build/ Tokenizer"
 #TOKENIZER="-cp .;tools/tokenizer/lib/*;tools/tokenizer/resources/;tools/tokenizer/build/ Tokenizer"
