@@ -2,7 +2,6 @@ import os
 import json
 import sys
 sys.path.insert(0, 'src/eda')
-from eda import generate_stats
 from utils import convert_notebook
 
 def data_prep():
@@ -79,6 +78,7 @@ def cleanup():
     os.system(command)
 
 def run_eda():
+    from eda import generate_stats
     eda_config = json.load(open('config/eda-params.json'))
     generate_stats(**eda_config)
     # execute notebook / convert to html
