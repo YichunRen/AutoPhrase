@@ -20,7 +20,7 @@ RUN \
 
 RUN \
     echo "===> install python packages" && \
-    pip3 install pandas numpy seaborn scipy tqdm matplotlib nbformat nbconvert
+    pip3 install pandas numpy seaborn scipy tqdm matplotlib nbformat nbconvert jupyter
 
 ARG repo
 ARG branch

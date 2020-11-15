@@ -4,11 +4,35 @@ import sys
 sys.path.insert(0, 'src/eda')
 from utils import convert_notebook
 
-def data_prep():
-    # ############  Downloading Resources ############
-    # print("========= Step 1. Collecting needed resources... =========")
-    # command = './resources.sh'
-    # os.system(command)
+def initialization():
+    try:
+        with open("config/runtime.json", "r") as read_file:
+            print("=> Loading runtime status...")
+            runtime_status = json.load(read_file)
+        read_file.close()
+    except:
+        print('=> Failed to read runtime status! Check if you have "runtime.json in config/ !"')
+        return
+
+    if runtime_status['initialzed'] == 0:
+        # Setting up environment
+        print(' => Setting up environment...')
+        command = './src/setup/running_resources.sh'
+        os.system(command)
+        runtime_status['initialzed'] = 1
+
+    # Saving runtime status
+    with open("config/runtime.json", "w") as outfile:
+        json.dump(runtime_status, outfile)
+    return runtime_status
+
+def data_prep(runtime_status):
+    if runtime_status['data_prep'] == 0:
+        print('  => building data_prep...')
+        runtime_status['data_prep'] = 1
+    else:
+        print('  => data_prep has been built already!')
+        return
 
     ############  Preparing Data ############
     print("========= Step 2. Running data preparation... =========")
@@ -61,14 +85,23 @@ def data_prep():
         os.system(command)
         print('  Finished downloading DBLP.txt!')
 
-def compile():
+def compile(runtime_status):
+    if runtime_status['data_prep'] == 0:
+        print('  => build data_prep first...')
+        data_prep()
+        runtime_status['data_prep'] = 1
     print(' => Preparing model & compiling...')
     command = 'apt-get update && apt-get install -y make;\
                 cp /autophrase/src/setup/compile.sh /autophrase/ ;\
                 bash compile.sh; rm /autophrase/compile.sh'
     os.system(command)
 
-def autophrase():
+def autophrase(runtime_status):
+    if runtime_status['compile'] == 0:
+        print('  => compile first...')
+        compile(runtime_status)
+        runtime_status['compile'] = 1
+
     print(' => Running AutoPhrase...')
     command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; ./run_phrasing.sh'
     os.system(command)
@@ -77,7 +110,12 @@ def cleanup():
     command = './src/setup/cleanup.sh'
     os.system(command)
 
-def run_eda():
+def run_eda(runtime_status):
+    if runtime_status['autophrase'] == 0:
+        print('  => run autophrase first...')
+        autophrase(runtime_status)
+        runtime_status['autophrase'] = 1
+    cleanup()
     from eda import generate_stats
     eda_config = json.load(open('config/eda-params.json'))
     generate_stats(**eda_config)
@@ -86,21 +124,7 @@ def run_eda():
 
 def main():
     model_name = 'DBLP'
-    try:
-        with open("config/runtime.json", "r") as read_file:
-            print("=> Loading runtime status...")
-            runtime_status = json.load(read_file)
-        read_file.close()
-    except:
-        print('=> Failed to read runtime status! Check if you have "runtime.json in config/ !"')
-        return
-
-    if runtime_status['initialzed'] == 0:
-        # Setting up environment
-        print(' => Setting up environment...')
-        command = './src/setup/running_resources.sh'
-        os.system(command)
-        runtime_status['initialzed'] = 1
+    runtime_status = initialization()
 
     # Getting the target
     # If no target is given, then run 'all'
@@ -111,48 +135,18 @@ def main():
 
     # Building corresponding target
     if target == "data_prep":
-        if runtime_status['data_prep'] == 0:
-            print('  => building data_prep...')
-            data_prep()
-            runtime_status['data_prep'] = 1
-        else:
-            print('  => data_prep has been built already!')
+        data_prep(runtime_status)
 
     # run the method
     elif target == "autophrase":
-        if runtime_status['data_prep'] == 0:
-            print('  => build data_prep first...')
-            data_prep()
-            runtime_status['data_prep'] = 1
-        if runtime_status['compile'] == 0:
-            print('  => compile first...')
-            compile()
-            runtime_status['compile'] = 1
-        autophrase()
+        autophrase(runtime_status)
 
     #run eda, the result will be saved as html in data/out
     elif target == "eda":
-        if runtime_status['data_prep'] == 0:
-            print('  => build data_prep first...')
-            data_prep()
-            runtime_status['data_prep'] = 1
-        run_eda()
+        run_eda(runtime_status)
 
     elif target == "all":
-        if runtime_status['data_prep'] == 0:
-            print('  => build data_prep first...')
-            data_prep()
-            runtime_status['data_prep'] = 1
-        if runtime_status['compile'] == 0:
-            print('  => compile first...')
-            compile()
-            runtime_status['compile'] = 1
-        autophrase()
-        cleanup()
-        run_eda()
-
-        runtime_status['data_prep'] = 1
-        runtime_status['compiled'] = 1
+        run_eda(runtime_status)
 
     # Saving runtime status
     with open("config/runtime.json", "w") as outfile:
