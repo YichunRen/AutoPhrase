@@ -46,13 +46,13 @@ RUN \
 ##### Preparing resources #####
 RUN \
     echo "===> downloading resources" &&\
-    cd autophrase_dsc180 && bash resources.sh
+    cd /autophrase_dsc180 && bash resources.sh
 
 ##### Compiling #####
 RUN \
     echo "===> compile" &&\
     bash compile.sh &&\
-    chmod 755 resources/AutoPhrase/tools/treetagger/bin/tree-tagger && \
+    chmod 755 tools/treetagger/bin/tree-tagger && \
     mv data default_data && \
     mv models default_models
 
