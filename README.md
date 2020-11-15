@@ -19,7 +19,24 @@ python run.py # This will check and prepare needed data for the project.
 sudo docker run -v $PWD/models:/autophrase/models -it -e ENABLE_POS_TAGGING=1 -e MIN_SUP=30 -e THREAD=10 joeyhou10/autophrase_replication
 ```
 
-### Default Run
+### Default Run (run all the targets)
 ```
-./auto_phrase.sh
+python run.py
+```
+
+### Target 1: Prepare data
+```
+python run.py data_prep
+```
+### Target 2: Run autophrase
+```
+python run.py autophrase
+```
+### Target 3: Run EDA 
+```
+python run.py eda
+```
+### Target 4: Run All the targets 
+```
+python run.py all
 ```
