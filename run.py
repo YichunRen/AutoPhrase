@@ -3,10 +3,10 @@ import json
 import sys
 
 def data_prep():
-	############  Downloading Resources ############
-	print("========= Step 1. Collecting needed resources... =========")
-	command = './resources.sh'
-	os.system(command)
+	# ############  Downloading Resources ############
+	# print("========= Step 1. Collecting needed resources... =========")
+	# command = './resources.sh'
+	# os.system(command)
 
 	############  Preparing Data ############
 	print("========= Step 2. Running data preparation... =========")

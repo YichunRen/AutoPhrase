@@ -48,4 +48,4 @@ RUN \
 
 ENV COMPILE 0
 
-WORKDIR /autophrase_dsc180
+WORKDIR /autophrase
