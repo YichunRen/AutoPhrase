@@ -10,10 +10,11 @@ if [ -d "tmp" ]; then
 fi
 
 if [ -d "tools" ]; then
-    rm -rf tmp/
+    rm -rf tools/
 fi
 
 rm Makefile
 rm tmp
+rm run_phrasing.sh
 
 cp -r data/models/ data/output/
