@@ -32,9 +32,7 @@ RUN \
 ##### Compiling #####
 RUN \
     echo "===> compile" &&\
-    cd /autophrase && bash compile.sh
-
-RUN \
+    cd /autophrase && bash compile.sh &&\
     chmod 755 tools/treetagger/bin/tree-tagger && \
     mv data default_data && \
     mv models default_models
