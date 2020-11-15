@@ -14,7 +14,7 @@ mkdir report
 cd ..
 
 # Set directory permissions
-chmod 755 run_phrasing.sh;
+chmod 755 src/run_phrasing.sh;
 chmod 755 src/setup/*.sh
 chmod 755 src/data/*.sh
 
