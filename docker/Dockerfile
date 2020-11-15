@@ -51,7 +51,7 @@ RUN \
 ##### Compiling #####
 RUN \
     echo "===> compile" &&\
-    bash compile.sh
+    bash compile_tools.sh.sh
 
 RUN \
     chmod 755 tools/treetagger/bin/tree-tagger && \
