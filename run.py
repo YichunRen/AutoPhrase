@@ -148,8 +148,9 @@ def main():
             compile()
             runtime_status['compile'] = 1
         autophrase()
-        run_eda()
         cleanup()
+        run_eda()
+
         runtime_status['data_prep'] = 1
         runtime_status['compiled'] = 1
 

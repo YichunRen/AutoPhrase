@@ -17,4 +17,4 @@ rm Makefile
 rm tmp
 rm run_phrasing.sh
 
-cp -r data/models/ data/output/
+cp -r data/models/ data/out/
