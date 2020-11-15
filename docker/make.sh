@@ -6,6 +6,7 @@ if REPO_URL=$(git remote get-url origin) 2> /dev/null; then
     REPO=$(echo $REPO_URL | sed "s/\.git//")
     BRANCH=$(git rev-parse --abbrev-ref HEAD)
 else
+    echo $REPO
     # REPO=https://github.com/shangjingbo1226/AutoPhrase
     REPO=https://github.com/JoeyHou/DSC180A_Replication
     BRANCH=master
@@ -14,7 +15,7 @@ fi
 # REPO=https://github.com/JoeyHou/DSC180A_Replication
 # BRANCH=master
 
-echo $REPO
+
 # In a Windows bash shell, "sudo" won't work.  Note that the shell itself
 # must be elevated, though.
 su 2> /dev/null

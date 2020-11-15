@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo ' ==> in compile.sh'
+mkdir models
 if [ "$(uname)" == "Darwin" ]; then
     make all CXX=g++-6 | grep -v "Nothing to be done for"
     cp tools/treetagger/bin/tree-tagger-mac tools/treetagger/bin/tree-tagger
