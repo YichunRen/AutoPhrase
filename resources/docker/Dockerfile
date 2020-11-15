@@ -32,9 +32,11 @@ RUN \
 
 ##### Compiling #####
 #RUN \
-#    echo "===> compile" &&\
-#    cd /autophrase/src/setup/ && bash compile.sh &&\
-#    chmod 755 tools/treetagger/bin/tree-tagger
+    echo "===> compile" &&\
+    cp /autophrase/src/setup/compile.sh /autophrase/ &&\
+    cp /autophrase/resources/Makefile /autophrase/ &&\
+    bash compile.sh &&\
+    chmod 755 tools/treetagger/bin/tree-tagger
 
 
 ##### Cleaning up #####
