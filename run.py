@@ -60,6 +60,16 @@ def data_prep():
 		os.system(command)
 		print('  Finished downloading DBLP.txt!')
 
+def compile():
+	print(' => Preparing model & compiling...')
+	command = './src/setup/model_prep.sh'
+	os.system(command)
+
+def autophrase():
+	print(' => Running AutoPhrase...')
+	command = './run_phrasing.sh'
+	os.system(command)
+
 def main():
 	# Setting up environment
 	print(' => Setting up environment...'')
@@ -76,13 +86,14 @@ def main():
 	# Building corresponding target
 	if target == "data_prep":
 		data_prep()
-	elif target == "auto_phrase":
-		command = './auto_phrase.sh'
-		os.system(command)
+	elif target == "compile":
+		compile()
 	elif target == "all":
 		data_prep()
+		compile()
+		autophrase()
 
 	# Clean Up
-	
+
 
 main();
