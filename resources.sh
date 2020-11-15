@@ -14,7 +14,7 @@ cd ..
 # Creating symbolic link
 ln -s resources/AutoPhrase/src src
 ln -s resources/AutoPhrase/tools tools
-ln -s resources/AutoPhrase/auto_phrase.sh auto_phrase.sh
+# ln -s resources/AutoPhrase/auto_phrase.sh auto_phrase.sh
 ln -s resources/AutoPhrase/data data
 
 # mkdir src
