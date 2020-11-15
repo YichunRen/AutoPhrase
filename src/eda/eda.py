@@ -8,7 +8,8 @@ import matplotlib.pyplot as plt
 import os
 
 # import data
-raw_train_fp = 'data/raw/DBLP.txt'
+# raw_train_fp = 'data/raw/DBLP.txt'
+raw_train_fp = 'data/raw/DBLP.5K.txt'
 dblp_raw = open(raw_train_fp, 'r').readlines()
 # result
 output_dir = 'data/out/DBLP/'
