@@ -9,8 +9,8 @@ import os
 
 # import data
 # raw_train_fp = 'data/raw/DBLP.txt'
-raw_train_fp = 'data/raw/DBLP.5K.txt'
-dblp_raw = open(raw_train_fp, 'r').readlines()
+raw_train_fp = 'data/raw/DBLP.txt'
+dblp_raw = open(raw_train_fp, 'r')
 # result
 output_dir = 'data/out/DBLP/'
 multi_word = open(output_dir + 'AutoPhrase_multi-words.txt').readlines()
@@ -23,7 +23,11 @@ def count_frequency(outdir):
     #find all documents
     tmp_doc = ''
     all_doc = []
-    for sent in tqdm(dblp_raw):
+    # for sent in tqdm(dblp_raw):
+    while True:
+        sent = dblp_raw.readline()
+        if not sent:
+            break
         if sent == '.\n':
             if len(tmp_doc) != 0:
                 all_doc.append(tmp_doc.replace('\n', ' '))
