@@ -17,11 +17,13 @@ ln -s resources/AutoPhrase/src src
 # ln -s resources/AutoPhrase/tools tools
 # ln -s resources/AutoPhrase/auto_phrase.sh auto_phrase.sh
 ln -s resources/AutoPhrase/data data
+ln -s tmp resources/AutoPhrase/tmp
 
 # mkdir src
 # cp -r resources/AutoPhrase/src/* src
 #
 mkdir tools
+echo ' => Copying tools from AutoPhrase...'
 cp -r resources/AutoPhrase/tools/* tools
 #
 # mkdir data

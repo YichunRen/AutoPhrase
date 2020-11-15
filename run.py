@@ -71,10 +71,10 @@ def main():
 	# Building corresponding target
 	if target == "data_prep":
 		data_prep()
-	elif target == "all":
-		data_prep()
 	elif target == "auto_phrase":
 		command = './auto_phrase.sh'
 		os.system(command)
+	elif target == "all":
+		data_prep()
 
 main();
