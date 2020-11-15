@@ -6,7 +6,6 @@ cd /autophrase
 ln -s data/tmp tmp
 
 # Copying src
-mkdir src
 cp -r resources/AutoPhrase/src/* src/
 
 # Getting tools setted up

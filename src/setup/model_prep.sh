@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Start compiling
-cp compile.sh /autophrase
+cp /autophrase/src/setup/compile.sh /autophrase
 bash compile.sh
 
 # Cleanning up
