@@ -59,7 +59,7 @@ fi
 
 ### END Compilation###
 
-TOKENIZER="-cp .:resources/AutoPhrase/tools/tokenizer/lib/*:tools/tokenizer/resources/:tools/tokenizer/build/ Tokenizer"
+TOKENIZER="-cp .:tools/tokenizer/lib/*:tools/tokenizer/resources/:tools/tokenizer/build/ Tokenizer"
 #TOKENIZER="-cp .;tools/tokenizer/lib/*;tools/tokenizer/resources/;tools/tokenizer/build/ Tokenizer"
 TOKEN_MAPPING=tmp/token_mapping.txt
 
@@ -102,7 +102,7 @@ if [ ! $LANGUAGE == "JA" ] && [ ! $LANGUAGE == "CN" ]  && [ ! $LANGUAGE == "OTHE
     echo ${green}===Part-Of-Speech Tagging===${reset}
     RAW=tmp/raw_tokenized_train.txt
     export THREAD LANGUAGE RAW
-    bash resources/AutoPhrase/tools/treetagger/pos_tag.sh
+    bash tools/treetagger/pos_tag.sh
     mv tmp/pos_tags.txt tmp/pos_tags_tokenized_train.txt
 fi
 

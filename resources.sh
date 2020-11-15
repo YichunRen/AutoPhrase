@@ -4,6 +4,7 @@
 # It also creates needed symbolic link into the root directory
 ############ Configure Needed Files ############
 # Dowload from autophrase
+mkdir tmp
 echo ' => Downloading needed files...'
 mkdir resources
 cd resources
