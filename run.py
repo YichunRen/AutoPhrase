@@ -114,7 +114,7 @@ def autophrase(runtime_status):
         print('=> Failed to read file: method-params.json')
         return
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running AutoPhrase... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
-    command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; cd /autophrase; ./run_phrasing.sh; '
+    command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; cd /autophrase; ./run_phrasing.sh '
     for key in method_params.keys():
         command += key
         command += '='

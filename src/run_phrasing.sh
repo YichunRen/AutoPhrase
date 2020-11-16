@@ -3,12 +3,12 @@
 # Note: this is the file that handles the running time
 
 ######### Setting runtime variables #########
-# DATA_DIR=data
-# MODELS_DIR=data/models/
-# MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
-# DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.5K.txt
-# RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
-#
+DATA_DIR=data
+MODELS_DIR=data/models/
+MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
+DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.5K.txt
+RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
+
 FIRST_RUN=${FIRST_RUN:- 1}
 ENABLE_POS_TAGGING=${ENABLE_POS_TAGGING:- 1}
 MIN_SUP=${MIN_SUP:- 10}
@@ -18,7 +18,9 @@ LABEL_METHOD=DPDN
 
 mkdir /autophrase/data/EN
 cp /autophrase/data/raw/* /autophrase/data/EN/
-
+# ln -s data/tmp tmp
+# echo 'Model dir:'
+# echo ${MODEL}
 
 ######### Tokenization #########
 TOKENIZER="-cp .:resources/AutoPhrase/tools/tokenizer/lib/*:tools/tokenizer/resources/:tools/tokenizer/build/ Tokenizer"
