@@ -12,7 +12,7 @@ sudo docker run -v $PWD/models:/autophrase/models -it -e ENABLE_POS_TAGGING=1 -e
 ```
 python run.py
 ```
-##### All the target could change parameters' values in the corresponding configuration files
+##### Note: All the targets' parameters could be changed in the corresponding configuration files
 ### Target 1: Prepare data
 ```
 python run.py data_prep
