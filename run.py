@@ -105,7 +105,6 @@ def autophrase(runtime_status):
         runtime_status['compile'] = 1
 
     # parsing run time parameters
-
     try:
         with open("config/method-params.json", "r") as read_file:
             print("=> Loading data-params.json...")
@@ -122,6 +121,8 @@ def autophrase(runtime_status):
         command += method_params[key]
         command += ' '
     os.system(command)
+
+    runtime_status['autophrase'] = 1
 
 def cleanup():
     command = './src/setup/cleanup.sh'

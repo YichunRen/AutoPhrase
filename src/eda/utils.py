@@ -32,4 +32,4 @@ def convert_notebook(eda_in_path, eda_out_path, **kwargs):
     with open(eda_out_path, 'w') as fh:
         fh.write(body)
     
-    print(' => Done! See the result HTML file in' + eda_out_path)
+    print(' => Done! See the result HTML file in ' + eda_out_path)
