@@ -9,6 +9,7 @@ sudo docker run -v $PWD/models:/autophrase/models -it -e ENABLE_POS_TAGGING=1 -e
 ```
 
 ### Default Run (run all the targets)
+**Use python3 instead of python because the default python on the docker is python2**
 ```
 python3 run.py
 ```
@@ -22,6 +23,7 @@ python3 run.py data_prep
 python3 run.py autophrase
 ```
 ### Target 3: Run EDA 
+**The minimum memory of Docker need to be 8GB to run the code now. We will modified the way to read files in the future**
 ```
 python3 run.py eda
 ```
