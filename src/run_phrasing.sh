@@ -3,17 +3,17 @@
 # Note: this is the file that handles the running time
 
 ######### Setting runtime variables #########
-DATA_DIR=data
-MODELS_DIR=data/models/
-MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
-DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.5K.txt
-RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
-
-FIRST_RUN=${FIRST_RUN:- 1}
-ENABLE_POS_TAGGING=${ENABLE_POS_TAGGING:- 1}
-MIN_SUP=${MIN_SUP:- 10}
-THREAD=${THREAD:- 10}
-MAX_POSITIVES=-1
+# DATA_DIR=data
+# MODELS_DIR=data/models/
+# MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
+# DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.5K.txt
+# RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
+#
+# FIRST_RUN=${FIRST_RUN:- 1}
+# ENABLE_POS_TAGGING=${ENABLE_POS_TAGGING:- 1}
+# MIN_SUP=${MIN_SUP:- 10}
+# THREAD=${THREAD:- 10}
+# MAX_POSITIVES=-1
 LABEL_METHOD=DPDN
 
 mkdir /autophrase/data/EN
