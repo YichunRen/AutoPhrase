@@ -98,13 +98,29 @@ def compile(runtime_status):
     os.system(command)
 
 def autophrase(runtime_status):
+    # Check compiling status
     if runtime_status['compile'] == 0:
         print('  => compile first...')
         compile(runtime_status)
         runtime_status['compile'] = 1
 
+    # parsing run time parameters
+
+    try:
+        with open("config/method-params.json", "r") as read_file:
+            print("=> Loading data-params.json...")
+            method_params = json.load(read_file)
+        read_file.close()
+    except:
+        print('=> Failed to read file: data-params.json')
+        return
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running AutoPhrase... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
-    command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; ./run_phrasing.sh'
+    command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; ./run_phrasing.sh; '
+    for key in method_params.keys():
+        command += key
+        command += '='
+        command += method_params[key]
+        command += ' '
     os.system(command)
 
 def cleanup():

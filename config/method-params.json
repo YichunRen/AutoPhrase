@@ -9,5 +9,4 @@
     "MIN_SUP": 10,
     "THREAD": 10,
     "MAX_POSITIVES": -1,
-    "LABEL_METHOD": "DPDN"
 }
