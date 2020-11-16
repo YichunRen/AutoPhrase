@@ -15,7 +15,7 @@ output_dir = 'data/out/DBLP/'
 multi_word = open(output_dir + 'AutoPhrase_multi-words.txt').readlines()
 single_word = open(output_dir + 'AutoPhrase_single-word.txt').readlines()
 
-print(' => Running EDA')
+print(' => Generating Data for eda')
 #save the count result into a dataframe and convert it into csv
 def count_frequency(outdir):
     print('  => Checking raw frequency count...')

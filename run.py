@@ -89,7 +89,7 @@ def data_prep(runtime_status):
 def compile(runtime_status):
     if runtime_status['data_prep'] == 0:
         print('  => build data_prep first...')
-        data_prep()
+        data_prep(runtime_status)
         runtime_status['data_prep'] = 1
     print(">>>>>>>>>>>>>>>>>>>>>>>> Preparing model & compiling... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     command = 'apt-get update && apt-get install -y make;\
