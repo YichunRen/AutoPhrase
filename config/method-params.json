@@ -8,5 +8,5 @@
     "ENABLE_POS_TAGGING": 1,
     "MIN_SUP": 10,
     "THREAD": 10,
-    "MAX_POSITIVES": -1,
+    "MAX_POSITIVES": -1
 }

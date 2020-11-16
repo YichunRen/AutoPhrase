@@ -107,11 +107,11 @@ def autophrase(runtime_status):
     # parsing run time parameters
     try:
         with open("config/method-params.json", "r") as read_file:
-            print("=> Loading data-params.json...")
+            print("=> Loading method-params.json...")
             method_params = json.load(read_file)
         read_file.close()
     except:
-        print('=> Failed to read file: data-params.json')
+        print('=> Failed to read file: method-params.json')
         return
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running AutoPhrase... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; ./run_phrasing.sh; '
