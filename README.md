@@ -6,10 +6,6 @@
 python run.py # This will check and prepare needed data for the project.
 ```
 
-### Purpose
-- The prepared data are stored in data folder for later training, with files for one language in seperate folders.
-
-
 ## Further Functions
 
 ### Entering Docker
@@ -21,7 +17,7 @@ sudo docker run -v $PWD/models:/autophrase/models -it -e ENABLE_POS_TAGGING=1 -e
 ```
 python run.py
 ```
-
+#### All the target could change parameters' values in the corresponding configuration files
 ### Target 1: Prepare data
 ```
 python run.py data_prep
