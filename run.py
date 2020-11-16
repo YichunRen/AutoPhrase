@@ -5,7 +5,7 @@ sys.path.insert(0, 'src/eda')
 from utils import convert_notebook
 
 def initialization():
-    print(">>>>>>>>>>>>>>>>>>>>>>>> Initialization... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
+
     try:
         with open("src/runtime.json", "r") as read_file:
             print("=> Loading runtime status...")
@@ -17,7 +17,7 @@ def initialization():
 
     if runtime_status['initialzed'] == 0:
         # Setting up environment
-        print(' => Setting up environment...')
+        print(">>>>>>>>>>>>>>>>>>>>>>>> Initialization... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
         command = './src/setup/running_resources.sh'
         os.system(command)
         runtime_status['initialzed'] = 1
@@ -114,7 +114,7 @@ def autophrase(runtime_status):
         print('=> Failed to read file: method-params.json')
         return
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running AutoPhrase... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
-    command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; ./run_phrasing.sh; '
+    command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; cd /autophrase; ./run_phrasing.sh; '
     for key in method_params.keys():
         command += key
         command += '='
@@ -135,8 +135,8 @@ def run_eda(runtime_status):
         print('  => run autophrase first...')
         autophrase(runtime_status)
         runtime_status['autophrase'] = 1
-    cleanup()
-
+    command = 'cd /autophrase; cp -r data/models/* data/out/'
+    os.system(command)
 
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running EDA... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     from eda import generate_stats
@@ -144,6 +144,8 @@ def run_eda(runtime_status):
     generate_stats(**eda_config)
     # execute notebook / convert to html
     convert_notebook(**eda_config)
+
+    cleanup()
 
 def main():
     model_name = 'DBLP'

@@ -19,5 +19,3 @@ rm run_phrasing.sh
 
 rm -rf data/EN
 rm data/BAD_POS_TAGS.txt
-
-cp -r data/models/* data/out/
