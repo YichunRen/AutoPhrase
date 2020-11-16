@@ -10,22 +10,22 @@ sudo docker run -v $PWD/models:/autophrase/models -it -e ENABLE_POS_TAGGING=1 -e
 
 ### Default Run (run all the targets)
 ```
-python run.py
+python3 run.py
 ```
 ##### Note: All the targets' parameters could be changed in the corresponding configuration files
 ### Target 1: Prepare data
 ```
-python run.py data_prep
+python3 run.py data_prep
 ```
 ### Target 2: Run autophrase
 ```
-python run.py autophrase
+python3 run.py autophrase
 ```
 ### Target 3: Run EDA 
 ```
-python run.py eda
+python3 run.py eda
 ```
 ### Target 4: Run All the targets 
 ```
-python run.py all
+python3 run.py all
 ```
