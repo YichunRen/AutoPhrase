@@ -7,7 +7,7 @@ from utils import convert_notebook
 def initialization():
     print(">>>>>>>>>>>>>>>>>>>>>>>> Initialization... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     try:
-        with open("config/runtime.json", "r") as read_file:
+        with open("src/runtime.json", "r") as read_file:
             print("=> Loading runtime status...")
             runtime_status = json.load(read_file)
         read_file.close()
@@ -23,7 +23,7 @@ def initialization():
         runtime_status['initialzed'] = 1
 
     # Saving runtime status
-    with open("config/runtime.json", "w") as outfile:
+    with open("src/runtime.json", "w") as outfile:
         json.dump(runtime_status, outfile)
     return runtime_status
 
@@ -120,7 +120,9 @@ def autophrase(runtime_status):
         command += '='
         command += method_params[key]
         command += ' '
+    print('  => Running command:', command)
     os.system(command)
+
 
     runtime_status['autophrase'] = 1
 
@@ -170,7 +172,7 @@ def main():
         run_eda(runtime_status)
 
     # Saving runtime status
-    with open("config/runtime.json", "w") as outfile:
+    with open("src/runtime.json", "w") as outfile:
         json.dump(runtime_status, outfile)
 
 main();

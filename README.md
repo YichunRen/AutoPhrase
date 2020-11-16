@@ -5,7 +5,7 @@
 
 ### Entering Docker
 ```
-sudo docker run -v $PWD/models:/autophrase/models -it -e ENABLE_POS_TAGGING=1 -e MIN_SUP=30 -e THREAD=10 joeyhou10/autophrase_replication
+sudo docker run -v $PWD/data/out:/autophrase/data/out -it joeyhou10/autophrase_replication
 ```
 
 ### Default Run (run all the targets)
@@ -22,12 +22,12 @@ python3 run.py data_prep
 ```
 python3 run.py autophrase
 ```
-### Target 3: Run EDA 
+### Target 3: Run EDA
 **The minimum memory of Docker need to be 8GB to run the code now. We will modify the way to read files in the future**
 ```
 python3 run.py eda
 ```
-### Target 4: Run All the targets 
+### Target 4: Run All the targets
 ```
 python3 run.py all
 ```
