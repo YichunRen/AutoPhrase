@@ -3,10 +3,5 @@
     "MODELS_DIR": "data/models/",
     "MODEL": "data/models/DBLP/",
     "DEFAULT_TRAIN": "data/raw/DBLP.txt",
-    "RAW_TRAIN": "data/raw/DBLP.txt",
-    "FIRST_RUN": 1,
-    "ENABLE_POS_TAGGING": 1,
-    "MIN_SUP": 10,
-    "THREAD": 10,
-    "MAX_POSITIVES": -1
+    "RAW_TRAIN": "data/raw/DBLP.txt"
 }
