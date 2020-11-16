@@ -118,7 +118,7 @@ def autophrase(runtime_status):
     for key in method_params.keys():
         command += key
         command += '='
-        command += method_params[key]
+        command += str(method_params[key])
         command += ' '
     print('  => Running command:', command)
     os.system(command)
