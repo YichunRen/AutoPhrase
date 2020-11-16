@@ -10,6 +10,7 @@ results/
 
 resources/AutoPhrase
 resources/AutoPhrase/*
+resources/docker/data/*
 
 data/raw/*
 
