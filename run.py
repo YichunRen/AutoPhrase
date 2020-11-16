@@ -103,6 +103,7 @@ def autophrase(runtime_status):
         compile(runtime_status)
         runtime_status['compile'] = 1
 
+    runtime_status['autophrase'] == 1
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running AutoPhrase... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; ./run_phrasing.sh'
     os.system(command)
