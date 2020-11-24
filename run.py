@@ -116,13 +116,13 @@ def autophrase(runtime_status):
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running AutoPhrase... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; cd /autophrase; ./run_phrasing.sh '
     for key in method_params.keys():
-        command += key
-        command += '='
-        command += str(method_params[key])
-        command += ' '
-    print('  => Running command:', command)
+        # command += key
+        # command += '='
+        # command += str(method_params[key])
+        # command += ' '
+        os.system('export ' + key + '=' + str(method_params[key]))
+    # print('  => Running command:', command)
     os.system(command)
-
 
     runtime_status['autophrase'] = 1
 
@@ -144,8 +144,10 @@ def run_eda(runtime_status):
     generate_stats(**eda_config)
     # execute notebook / convert to html
     convert_notebook(**eda_config)
-
     cleanup()
+
+def run_test(runtime_status):
+
 
 def main():
     model_name = 'DBLP'
@@ -161,18 +163,18 @@ def main():
     # Building corresponding target
     if target == "data_prep":
         data_prep(runtime_status)
-
     # run the method
     elif target == "autophrase":
         autophrase(runtime_status)
-
     #run eda, the result will be saved as html in data/out
     elif target == "eda":
         run_eda(runtime_status)
-
     elif target == "all":
         run_eda(runtime_status)
-
+    elif target == "test":
+        run_test(runtime_status)
+    else:
+        print(" [Error!] No rule to make target: '", target, "' , please check your input!")
     # Saving runtime status
     with open("src/runtime.json", "w") as outfile:
         json.dump(runtime_status, outfile)
