@@ -31,7 +31,7 @@ def initialization():
         json.dump(runtime_status, outfile)
     return runtime_status
 
-def data_prep(runtime_status, testing = False):
+def data_prep(runtime_status):
     if runtime_status['data_prep'] == 0:
         print('  => building data_prep...')
         runtime_status['data_prep'] = 1
@@ -84,18 +84,16 @@ def data_prep(runtime_status, testing = False):
             print('  - ' + fp.split('/')[-1])
 
     # Downloading data
-    if download_needed and not testing and runtime_status['dblp_downloaded'] == 0:
+    if download_needed and not runtime_status['testing'] == 1: and runtime_status['dblp_downloaded'] == 0:
         command = './src/data/data_prep.sh'
         os.system(command)
         print('  Finished downloading DBLP.txt!')
         runtime_status['dblp_downloaded'] = 1
-        with open("src/runtime.json", "w") as outfile:
-            json.dump(runtime_status, outfile)
 
-def compile(runtime_status, testing = False):
+def compile(runtime_status):
     if runtime_status['data_prep'] == 0:
         print('  => build data_prep first...')
-        data_prep(runtime_status, testing)
+        data_prep(runtime_status)
         runtime_status['data_prep'] = 1
     print(">>>>>>>>>>>>>>>>>>>>>>>> Preparing model & compiling... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     command = 'apt-get update && apt-get install -y make;\
@@ -103,7 +101,7 @@ def compile(runtime_status, testing = False):
                 bash compile.sh; rm /autophrase/compile.sh'
     os.system(command)
 
-def autophrase(runtime_status, testing = False):
+def autophrase(runtime_status):
     # Check compiling status
     if runtime_status['compile'] == 0:
         print('  => compile first...')
@@ -121,16 +119,18 @@ def autophrase(runtime_status, testing = False):
         return
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running AutoPhrase... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; cd /autophrase; ./run_phrasing.sh '
+    if runtime_status['testing'] == 1:
+        print(" => Running in test mode!")
+        # bash_call('export RAW_TRAIN=data/test/testdata/DBLP.5K.txt')
+        method_params['RAW_TRAIN'] = "data/raw/DBLP.5K.txt"
     for key in method_params.keys():
         # command += key
         # command += '='
-        # command += str(method_params[key])
-        # command += ' '
-        print('export ' + key + '=' + str(method_params[key]))
-        bash_call('export ' + key + '=' + str(method_params[key]))
-    if testing:
-        print(" => Running in test mode!")
-        bash_call('export RAW_TRAIN=data/test/testdata/DBLP.5K.txt')
+        command += str(method_params[key])
+        command += ' '
+        # print('export ' + key + '=' + str(method_params[key]))
+        # bash_call('export ' + key + '=' + str(method_params[key]))
+
     # print('  => Running command:', command)
     os.system(command)
 
@@ -179,7 +179,9 @@ def main():
     elif target == "all":
         run_eda(runtime_status)
     elif target == "test":
-        autophrase(runtime_status, testing = True)
+        runtime_status['testing'] = 1
+        autophrase(runtime_status)
+        runtime_status['testing'] = 0
     else:
         print(" [Error!] No rule to make target: '", target, "' , please check your input!")
     # Saving runtime status

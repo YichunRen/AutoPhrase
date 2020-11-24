@@ -3,11 +3,13 @@
 # Note: this is the file that handles the running time
 
 ######### Setting runtime variables #########
-# DATA_DIR=data
-# MODELS_DIR=data/models/
-# MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
+DATA_DIR=data
+MODELS_DIR=data/models/
+MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
 # DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.txt
+DEFAULT_TRAIN=$1
 # RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
+RAW_TRAIN=$2
 
 FIRST_RUN=${FIRST_RUN:- 1}
 ENABLE_POS_TAGGING=${ENABLE_POS_TAGGING:- 1}
