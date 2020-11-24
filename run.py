@@ -27,7 +27,7 @@ def initialization():
         json.dump(runtime_status, outfile)
     return runtime_status
 
-def data_prep(runtime_status):
+def data_prep(runtime_status, testing = False):
     if runtime_status['data_prep'] == 0:
         print('  => building data_prep...')
         runtime_status['data_prep'] = 1
@@ -80,16 +80,15 @@ def data_prep(runtime_status):
             print('  - ' + fp.split('/')[-1])
 
     # Downloading data
-    if download_needed:
+    if download_needed and not testing:
         command = './src/data/data_prep.sh'
-
         os.system(command)
         print('  Finished downloading DBLP.txt!')
 
-def compile(runtime_status):
+def compile(runtime_status, testing = False):
     if runtime_status['data_prep'] == 0:
         print('  => build data_prep first...')
-        data_prep(runtime_status)
+        data_prep(runtime_status, testing)
         runtime_status['data_prep'] = 1
     print(">>>>>>>>>>>>>>>>>>>>>>>> Preparing model & compiling... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     command = 'apt-get update && apt-get install -y make;\
