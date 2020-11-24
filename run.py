@@ -3,6 +3,10 @@ import json
 import sys
 sys.path.insert(0, 'src/eda')
 from utils import convert_notebook
+import subprocess
+
+def bash_call(command):
+    subprocess.call(command.split())
 
 def initialization():
 
@@ -80,10 +84,13 @@ def data_prep(runtime_status, testing = False):
             print('  - ' + fp.split('/')[-1])
 
     # Downloading data
-    if download_needed and not testing:
+    if download_needed and not testing and runtime_status['dblp_downloaded'] == 0:
         command = './src/data/data_prep.sh'
         os.system(command)
         print('  Finished downloading DBLP.txt!')
+        runtime_status['dblp_downloaded'] = 1
+        with open("src/runtime.json", "w") as outfile:
+            json.dump(runtime_status, outfile)
 
 def compile(runtime_status, testing = False):
     if runtime_status['data_prep'] == 0:
@@ -119,10 +126,11 @@ def autophrase(runtime_status, testing = False):
         # command += '='
         # command += str(method_params[key])
         # command += ' '
-        os.system('export ' + key + '=' + str(method_params[key]))
+        print('export ' + key + '=' + str(method_params[key]))
+        bash_call('export ' + key + '=' + str(method_params[key]))
     if testing:
         print(" => Running in test mode!")
-        os.system('export RAW_TRAIN=data/test/testdata/DBLP.5K.txt')
+        bash_call('export RAW_TRAIN=data/test/testdata/DBLP.5K.txt')
     # print('  => Running command:', command)
     os.system(command)
 
