@@ -22,6 +22,9 @@ RUN \
     echo "===> install python packages" && \
     pip3 install pandas numpy seaborn scipy tqdm matplotlib nbformat nbconvert jupyter
 
+RUN \
+    alias python=python3
+
 ARG repo
 ARG branch
 ADD "${repo}/archive/${branch}.zip" /

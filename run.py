@@ -127,7 +127,7 @@ def autophrase(runtime_status):
     if runtime_status['testing'] == 1:
         print(" => Running in test mode!")
         # bash_call('export RAW_TRAIN=data/test/testdata/DBLP.5K.txt')
-        method_params['RAW_TRAIN'] = "data/raw/DBLP.5K.txt"
+        method_params['RAW_TRAIN'] = "test/testdata/DBLP.5K.txt"
     for key in method_params.keys():
         # command += key
         # command += '='
@@ -136,7 +136,7 @@ def autophrase(runtime_status):
         # print('export ' + key + '=' + str(method_params[key]))
         # bash_call('export ' + key + '=' + str(method_params[key]))
 
-    # print('  => Running command:', command)
+    print('  => Running command:', command)
     os.system(command)
 
     runtime_status['autophrase'] = 1
