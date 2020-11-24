@@ -97,7 +97,7 @@ def compile(runtime_status):
                 bash compile.sh; rm /autophrase/compile.sh'
     os.system(command)
 
-def autophrase(runtime_status):
+def autophrase(runtime_status, testing = False):
     # Check compiling status
     if runtime_status['compile'] == 0:
         print('  => compile first...')
@@ -107,11 +107,11 @@ def autophrase(runtime_status):
     # parsing run time parameters
     try:
         with open("config/method-params.json", "r") as read_file:
-            print("=> Loading method-params.json...")
+            print(" => Loading method-params.json...")
             method_params = json.load(read_file)
         read_file.close()
     except:
-        print('=> Failed to read file: method-params.json')
+        print(' => Failed to read file: method-params.json')
         return
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running AutoPhrase... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; cd /autophrase; ./run_phrasing.sh '
@@ -121,6 +121,9 @@ def autophrase(runtime_status):
         # command += str(method_params[key])
         # command += ' '
         os.system('export ' + key + '=' + str(method_params[key]))
+    if testing:
+        print(" => Running in test mode!")
+        os.system('export RAW_TRAIN=data/test/testdata/DBLP.5K.txt')
     # print('  => Running command:', command)
     os.system(command)
 
@@ -146,9 +149,6 @@ def run_eda(runtime_status):
     convert_notebook(**eda_config)
     cleanup()
 
-def run_test(runtime_status):
-
-
 def main():
     model_name = 'DBLP'
     runtime_status = initialization()
@@ -172,7 +172,7 @@ def main():
     elif target == "all":
         run_eda(runtime_status)
     elif target == "test":
-        run_test(runtime_status)
+        autophrase(runtime_status, testing = True)
     else:
         print(" [Error!] No rule to make target: '", target, "' , please check your input!")
     # Saving runtime status
