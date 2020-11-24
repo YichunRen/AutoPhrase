@@ -21,6 +21,14 @@ LABEL_METHOD=DPDN
 
 mkdir /autophrase/data/EN
 cp /autophrase/data/raw/* /autophrase/data/EN/
+
+mkdir test
+cd test
+mkdir testdata
+cp /autophrase/data/raw/DBLP.5K.txt /autophrase/test/testdata/
+cd ..
+cd ..
+
 # ln -s data/tmp tmp
 # echo 'Model dir:'
 # echo ${MODEL}

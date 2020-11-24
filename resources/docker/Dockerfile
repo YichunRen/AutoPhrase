@@ -23,7 +23,7 @@ RUN \
     pip3 install pandas numpy seaborn scipy tqdm matplotlib nbformat nbconvert jupyter
 
 RUN \
-    alias python=python3
+    ln -s /usr/bin/python /usr/bin/python3
 
 ARG repo
 ARG branch
