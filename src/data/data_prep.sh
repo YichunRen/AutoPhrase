@@ -47,7 +47,8 @@ reset=`tput sgr0`
 mkdir -p tmp
 mkdir -p ${MODEL}
 
-if [ $RAW_TRAIN == $DEFAULT_TRAIN ] && [ ! -e $DEFAULT_TRAIN ]; then
+# Note: if the first argument is 1, then we need to download dblp.ext
+if [ $1 == 1 ]; then
     echo ${green}===Downloading Toy Dataset===${reset}
     curl http://dmserv2.cs.illinois.edu/data/DBLP.txt.gz --output ${DEFAULT_TRAIN}.gz
     gzip -d ${DEFAULT_TRAIN}.gz -f

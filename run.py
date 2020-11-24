@@ -61,7 +61,7 @@ def data_prep(runtime_status):
     data_dict = data_params['data']
     found_lst = []
     unfount_lst = []
-    download_needed = False
+    dblp_unfound = False
     for key, file_lst in data_dict.items():
         for filepath in file_lst:
             filepath = data_dir + filepath
@@ -74,7 +74,7 @@ def data_prep(runtime_status):
             except:
                 unfount_lst.append(filepath)
                 if 'DBLP.txt' in filepath:
-                    download_needed = True
+                    dblp_unfound = True
 
     if len(unfount_lst) == 0:
         print('=> Done checking txt files! All needed files are found!')
@@ -84,11 +84,16 @@ def data_prep(runtime_status):
             print('  - ' + fp.split('/')[-1])
 
     # Downloading data
-    if download_needed and not runtime_status['testing'] == 1: and runtime_status['dblp_downloaded'] == 0:
-        command = './src/data/data_prep.sh'
-        os.system(command)
-        print('  Finished downloading DBLP.txt!')
-        runtime_status['dblp_downloaded'] = 1
+    command = './src/data/data_prep.sh'
+    if dblp_unfound:
+        if not runtime_status['testing'] == 1 and runtime_status['dblp_downloaded'] == 0:
+            command += ' 1'
+            print('  => Going to download DBLP.txt!')
+            runtime_status['dblp_downloaded'] = 1
+        else:
+            command += ' 0'
+    os.system(command)
+
 
 def compile(runtime_status):
     if runtime_status['data_prep'] == 0:
