@@ -2,7 +2,7 @@
 - Note: this is a replication of [AutoPhrase](https://github.com/shangjingbo1226/AutoPhrase) by Jingbo Shang.
 
 ## To Run
-### Warning: The pipeline only support a full run for one dataset now. 
+#### Warning: The pipeline only support a full run for one dataset now. Please reset the repo if you want to try another dataset.
 
 ### Docker
 ```
