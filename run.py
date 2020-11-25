@@ -151,7 +151,8 @@ def run_eda(runtime_status):
     eda_config = json.load(open('config/eda-params.json'))
     
     if runtime_status['testing'] == 1:
-        eda_config['data_path'] = "test/testdata/test_raw.txt"
+        #eda_config['data_path'] = "test/testdata/test_raw.txt"
+        eda_config['data_path'] = "/EN/test_raw.txt"
     
     generate_stats(**eda_config)
     # execute notebook / convert to html
