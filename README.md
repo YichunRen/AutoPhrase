@@ -24,7 +24,6 @@ python run.py data_prep
 python run.py autophrase
 ```
 ### Target 3: Run EDA
-**The minimum memory of Docker need to be 8GB to run the code now. We will modify the way to read files in the future**
 ```
 python run.py eda
 ```
