@@ -2,6 +2,7 @@
 - Note: this is a replication of [AutoPhrase](https://github.com/shangjingbo1226/AutoPhrase) by Jingbo Shang.
 
 ## To Run
+### Warning: The pipeline only support a full run for one dataset now. 
 
 ### Docker
 ```
@@ -14,7 +15,7 @@ docker run joeyhou10/dsc180_docker_hw
 ```
 python run.py
 ```
-##### Note: All the targets' parameters could be changed in the corresponding configuration files
+##### Note: The first three targets' parameters could be changed in the corresponding configuration files
 ### Target 1: Prepare data
 ```
 python run.py data_prep
