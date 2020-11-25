@@ -195,6 +195,8 @@ def main():
     #remove unnecessary files/directory
     if runtime_status['autophrase'] == 1:
         os.system('rm -rf models')
+        os.system('rm -rf data/raws')
+        os.system('rm -rf data/models')
 
     # Saving runtime status
     with open("src/runtime.json", "w") as outfile:
