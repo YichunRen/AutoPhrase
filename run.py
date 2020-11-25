@@ -185,6 +185,7 @@ def main():
         runtime_status['testing'] = 1
         run_eda(runtime_status)
         runtime_status['testing'] = 0
+        print(" => Done! See your test result in data directory.")
         
     #reset json file before pushing
     elif target == "reset_run":
