@@ -16,8 +16,12 @@ THREAD=${THREAD:- 10}
 MAX_POSITIVES=-1
 LABEL_METHOD=DPDN
 
-mkdir /autophrase/data/EN
-cp /autophrase/data/raw/* /autophrase/data/EN/
+# mkdir /autophrase/data/EN
+# cp /autophrase/data/raw/* /autophrase/data/EN/
+
+mkdir data/EN
+cp data/raw/* data/EN/
+
 # ln -s data/tmp tmp
 # echo 'Model dir:'
 # echo ${MODEL}

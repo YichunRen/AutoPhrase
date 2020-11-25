@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Start compiling
-cp /autophrase/src/setup/compile.sh /autophrase
+cp compile.sh ../../
 bash compile.sh
 
 # Cleanning up
-rm /autophrase/compile.sh
+rm ../../compile.sh

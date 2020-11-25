@@ -1,6 +1,11 @@
 #!/bin/bash
 
-cd /autophrase
+# cd /autophrase
+
+# Clone the resources from AutoPhrase
+cd resources
+git clone https://github.com/shangjingbo1226/AutoPhrase
+cd ..
 
 # Setting up run time directories
 mkdir models

@@ -7,7 +7,7 @@
 # Reference: shangjingbo1226/AutoPhrase (https://github.com/shangjingbo1226/AutoPhrase/blob/master/auto_phrase.sh)
 
 ############  Preparing Data ############
-cd /autophrase
+# cd /autophrase
 # cd ../../
 
 # The comment below are directly from AutoPhrase repo.
@@ -34,8 +34,8 @@ MODELS_DIR=data/models/
 MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
 
 # RAW_TRAIN is the input of AutoPhrase, where each line is a single document.
-cp /autophrase/resources/AutoPhrase/data/EN/* ${DATA_DIR}/raw/
-cp /autophrase/resources/AutoPhrase/data/BAD_POS_TAGS.txt ${DATA_DIR}/
+cp resources/AutoPhrase/data/EN/* ${DATA_DIR}/raw/
+cp resources/AutoPhrase/data/BAD_POS_TAGS.txt ${DATA_DIR}/
 
 # DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.5k.txt
 DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.txt
