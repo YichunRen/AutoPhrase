@@ -187,12 +187,9 @@ def main():
         runtime_status['testing'] = 0
         print(" => Done! See your test result in data directory.")
         
-    #reset json file before pushing
+    #reset the repo
     elif target == "reset_run":
-        for key in runtime_status.keys():
-            runtime_status[key] = 0
-        with open("src/runtime.json", "w") as outfile:
-            json.dump(runtime_status, outfile)
+        os.system('git reset --hard')
             
     #remove unnecessary files/directory
     if runtime_status['autophrase'] == 1:
