@@ -1,6 +1,7 @@
 #!/bin/bash
 # cd /autophrase
 
+# Remove files from running_resources
 if [ -d "bin" ]; then
     rm -rf bin/
 fi
@@ -19,3 +20,4 @@ rm run_phrasing.sh
 
 rm -rf data/EN
 rm data/BAD_POS_TAGS.txt
+rm
