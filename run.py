@@ -92,8 +92,7 @@ def compile(runtime_status):
         data_prep(runtime_status)
         runtime_status['data_prep'] = 1
     print(">>>>>>>>>>>>>>>>>>>>>>>> Preparing model & compiling... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
-    command = 'apt-get update && apt-get install -y make;\
-                cp src/setup/compile.sh . ;\
+    command = 'cp src/setup/compile.sh . ;\
                 bash compile.sh; rm compile.sh'
     os.system(command)
 
