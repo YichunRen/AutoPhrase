@@ -93,8 +93,8 @@ def compile(runtime_status):
         runtime_status['data_prep'] = 1
     print(">>>>>>>>>>>>>>>>>>>>>>>> Preparing model & compiling... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     command = 'apt-get update && apt-get install -y make;\
-                cp /autophrase/src/setup/compile.sh /autophrase/ ;\
-                bash compile.sh; rm /autophrase/compile.sh'
+                cp src/setup/compile.sh . ;\
+                bash compile.sh; rm compile.sh'
     os.system(command)
 
 def autophrase(runtime_status):
@@ -114,7 +114,7 @@ def autophrase(runtime_status):
         print('=> Failed to read file: method-params.json')
         return
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running AutoPhrase... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
-    command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; cd /autophrase; ./run_phrasing.sh '
+    command = 'cp src/run_phrasing.sh . ; ./run_phrasing.sh '
     for key in method_params.keys():
         command += key
         command += '='
@@ -135,7 +135,7 @@ def run_eda(runtime_status):
         print('  => run autophrase first...')
         autophrase(runtime_status)
         runtime_status['autophrase'] = 1
-    command = 'cd /autophrase; cp -r data/models/* data/out/'
+    command = 'cp -r data/models/* data/out/'
     os.system(command)
 
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running EDA... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
