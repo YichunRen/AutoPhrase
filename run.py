@@ -196,8 +196,9 @@ def main():
     elif target == "reset_run":
         os.system('git reset --hard')
 
-    elif target == "cleanup":
-
+    elif target == "reset":
+        command = './src/setup/reset.sh'
+        os.system(command)
 
     # Saving runtime status
     with open("src/runtime.json", "w") as outfile:
