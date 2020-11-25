@@ -116,7 +116,7 @@ def autophrase(runtime_status):
     
     if runtime_status['testing'] == 1:
         print(" => Running test data...")
-        method_params['RAW_TRAIN'] = "${DATA_DIR}/EN/test_raw.txt"
+        method_params['RAW_TRAIN'] = "data/EN/test_raw.txt"
         
     command = 'cp src/run_phrasing.sh . ; ./run_phrasing.sh '
     for key in method_params.keys():
