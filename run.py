@@ -185,6 +185,16 @@ def main():
         runtime_status['testing'] = 1
         run_eda(runtime_status)
         runtime_status['testing'] = 0
+        
+    elif target == "reset_run":
+        for key in runtime_status.keys():
+            runtime_status[key] = 0
+        with open("src/runtime.json", "w") as outfile:
+            json.dump(runtime_status, outfile)
+            
+    #remove unnecessary files/directory
+    if runtime_status['autophrase'] == 1:
+        os.system('rm -rf models')
 
     # Saving runtime status
     with open("src/runtime.json", "w") as outfile:
