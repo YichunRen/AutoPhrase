@@ -3,10 +3,6 @@ import json
 import sys
 sys.path.insert(0, 'src/eda')
 from utils import convert_notebook
-import subprocess
-
-def bash_call(command):
-    subprocess.call(command.split())
 
 def initialization():
 
@@ -61,7 +57,7 @@ def data_prep(runtime_status):
     data_dict = data_params['data']
     found_lst = []
     unfount_lst = []
-    dblp_unfound = False
+    download_needed = False
     for key, file_lst in data_dict.items():
         for filepath in file_lst:
             filepath = data_dir + filepath
@@ -74,7 +70,7 @@ def data_prep(runtime_status):
             except:
                 unfount_lst.append(filepath)
                 if 'DBLP.txt' in filepath:
-                    dblp_unfound = True
+                    download_needed = True
 
     if len(unfount_lst) == 0:
         print('=> Done checking txt files! All needed files are found!')
@@ -84,16 +80,11 @@ def data_prep(runtime_status):
             print('  - ' + fp.split('/')[-1])
 
     # Downloading data
-    command = './src/data/data_prep.sh'
-    if dblp_unfound:
-        if not runtime_status['testing'] == 1 and runtime_status['dblp_downloaded'] == 0:
-            command += ' 1'
-            print('  => Going to download DBLP.txt!')
-            runtime_status['dblp_downloaded'] = 1
-        else:
-            command += ' 0'
-    os.system(command)
+    if download_needed:
+        command = './src/data/data_prep.sh'
 
+        os.system(command)
+        print('  Finished downloading DBLP.txt!')
 
 def compile(runtime_status):
     if runtime_status['data_prep'] == 0:
@@ -101,9 +92,8 @@ def compile(runtime_status):
         data_prep(runtime_status)
         runtime_status['data_prep'] = 1
     print(">>>>>>>>>>>>>>>>>>>>>>>> Preparing model & compiling... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
-    command = 'apt-get update && apt-get install -y make;\
-                cp /autophrase/src/setup/compile.sh /autophrase/ ;\
-                bash compile.sh; rm /autophrase/compile.sh'
+    command = 'cp src/setup/compile.sh . ;\
+                bash compile.sh; rm compile.sh'
     os.system(command)
 
 def autophrase(runtime_status):
@@ -116,49 +106,57 @@ def autophrase(runtime_status):
     # parsing run time parameters
     try:
         with open("config/method-params.json", "r") as read_file:
-            print(" => Loading method-params.json...")
+            print("=> Loading method-params.json...")
             method_params = json.load(read_file)
         read_file.close()
     except:
-        print(' => Failed to read file: method-params.json')
+        print('=> Failed to read file: method-params.json')
         return
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running AutoPhrase... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
-    command = 'cp /autophrase/src/run_phrasing.sh /autophrase/; cd /autophrase; ./run_phrasing.sh '
+
     if runtime_status['testing'] == 1:
-        print(" => Running in test mode!")
-        # bash_call('export RAW_TRAIN=data/test/testdata/DBLP.5K.txt')
-        method_params['RAW_TRAIN'] = "test/testdata/DBLP.5K.txt"
+        print(" => Running test data...")
+        method_params['RAW_TRAIN'] = "data/EN/test_raw.txt"
+
+    command = 'cp src/run_phrasing.sh . ; ./run_phrasing.sh '
     for key in method_params.keys():
         # command += key
         # command += '='
         command += str(method_params[key])
-        command += ' '
-        # print('export ' + key + '=' + str(method_params[key]))
-        # bash_call('export ' + key + '=' + str(method_params[key]))
-
+        # command += ' '
     print('  => Running command:', command)
     os.system(command)
+
 
     runtime_status['autophrase'] = 1
 
 def cleanup():
     command = './src/setup/cleanup.sh'
     os.system(command)
+    os.system('rm -rf models')
+    os.system('rm -rf data/raw')
+    os.system('rm -rf data/models')
+    os.system('mv data/out/DBLP data/out/AutoPhrase_Result')
 
 def run_eda(runtime_status):
     if runtime_status['autophrase'] == 0:
         print('  => run autophrase first...')
         autophrase(runtime_status)
         runtime_status['autophrase'] = 1
-    command = 'cd /autophrase; cp -r data/models/* data/out/'
+    command = 'cp -r data/models/* data/out/'
     os.system(command)
 
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running EDA... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     from eda import generate_stats
     eda_config = json.load(open('config/eda-params.json'))
+
+    if runtime_status['testing'] == 1:
+        eda_config['data_path'] = "test/testdata/test_raw.txt"
+
     generate_stats(**eda_config)
     # execute notebook / convert to html
     convert_notebook(**eda_config)
+
     cleanup()
 
 def main():
@@ -175,20 +173,29 @@ def main():
     # Building corresponding target
     if target == "data_prep":
         data_prep(runtime_status)
+
     # run the method
     elif target == "autophrase":
         autophrase(runtime_status)
+
     #run eda, the result will be saved as html in data/out
     elif target == "eda":
         run_eda(runtime_status)
+
+
     elif target == "all":
         run_eda(runtime_status)
+
     elif target == "test":
         runtime_status['testing'] = 1
-        autophrase(runtime_status)
+        run_eda(runtime_status)
         runtime_status['testing'] = 0
-    else:
-        print(" [Error!] No rule to make target: '", target, "' , please check your input!")
+        print(" => Done! See your test result in data directory.")
+
+    #reset the repo
+    elif target == "reset_run":
+        os.system('git reset --hard')
+
     # Saving runtime status
     with open("src/runtime.json", "w") as outfile:
         json.dump(runtime_status, outfile)

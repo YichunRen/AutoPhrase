@@ -1,4 +1,4 @@
 {
-    "DEFAULT_TRAIN": "data/raw/DBLP.txt",
-    "RAW_TRAIN": "data/raw/DBLP.txt"
+    "RAW_TRAIN": "data/raw/DBLP.txt",
+    "ENABLE_POS_TAGGING": 1
 }
