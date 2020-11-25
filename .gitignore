@@ -13,6 +13,7 @@ resources/AutoPhrase/*
 resources/docker/data/*
 
 data/raw/*
+data
 
 tools
 tools/*
