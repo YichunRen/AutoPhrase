@@ -1,6 +1,12 @@
 #!/bin/bash
 
-cd /autophrase
+# cd /autophrase
+
+# Dowload from autophrase
+echo ' => Downloading needed files...'
+cd resources
+git clone https://github.com/shangjingbo1226/AutoPhrase
+cd ..
 
 # Setting up run time directories
 mkdir models

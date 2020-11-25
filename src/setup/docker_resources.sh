@@ -4,8 +4,8 @@
 # It also creates needed symbolic link into the root directory
 ############ Configure Needed Files ############
 # Creating resources structure
-echo ' => Creating data and recourses dir'
-cd /autophrase
+# echo ' => Creating data and recourses dir'
+# cd /autophrase
 
 # Dowload from autophrase
 echo ' => Downloading needed files...'

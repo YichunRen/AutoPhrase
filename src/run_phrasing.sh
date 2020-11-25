@@ -20,14 +20,14 @@ THREAD=${THREAD:- 10}
 MAX_POSITIVES=-1
 LABEL_METHOD=DPDN
 
-mkdir /autophrase/data/EN
-cp /autophrase/data/raw/* /autophrase/data/EN/
+mkdir data/EN
+cp data/raw/* data/EN/
 
-mkdir test
-cd test
-mkdir testdata
-cp /autophrase/data/raw/DBLP.5K.txt /autophrase/test/testdata/
-cd ..
+# mkdir test
+# cd test
+# mkdir testdata
+# cp data/raw/DBLP.5K.txt test/testdata/
+# cd ..
 
 # ln -s data/tmp tmp
 # echo 'Model dir:'
