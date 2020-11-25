@@ -196,7 +196,7 @@ def main():
     #remove unnecessary files/directory
     if runtime_status['autophrase'] == 1:
         os.system('rm -rf models')
-        os.system('rm -rf data/raws')
+        os.system('rm -rf data/raw')
         os.system('rm -rf data/models')
         os.system('mv /data/out/DBLP /data/out/AutoPhrase_Result')
 
