@@ -186,6 +186,7 @@ def main():
         run_eda(runtime_status)
         runtime_status['testing'] = 0
         
+    #reset json file before pushing
     elif target == "reset_run":
         for key in runtime_status.keys():
             runtime_status[key] = 0
