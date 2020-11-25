@@ -199,7 +199,7 @@ def main():
         os.system('rm -rf models')
         os.system('rm -rf data/raw')
         os.system('rm -rf data/models')
-        os.system('mv /data/out/DBLP /data/out/AutoPhrase_Result')
+        os.system('mv data/out/DBLP data/out/AutoPhrase_Result')
 
     # Saving runtime status
     with open("src/runtime.json", "w") as outfile:
