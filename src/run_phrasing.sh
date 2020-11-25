@@ -7,7 +7,7 @@ DATA_DIR=data
 MODELS_DIR=data/models/
 MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
 DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.txt
-RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
+RAW_TRAIN=${DATA_DIR}/EN/test_raw.txt
 
 FIRST_RUN=${FIRST_RUN:- 1}
 ENABLE_POS_TAGGING=${ENABLE_POS_TAGGING:- 1}
@@ -21,6 +21,7 @@ LABEL_METHOD=DPDN
 
 mkdir data/EN
 cp data/raw/* data/EN/
+cp test/testdata/* data/EN/
 
 # ln -s data/tmp tmp
 # echo 'Model dir:'

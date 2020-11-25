@@ -113,6 +113,11 @@ def autophrase(runtime_status):
         print('=> Failed to read file: method-params.json')
         return
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running AutoPhrase... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
+    
+    if runtime_status['testing'] == 1:
+        print(" => Running test data...")
+        method_params['RAW_TRAIN'] = "data/EN/test_raw.txt"
+        
     command = 'cp src/run_phrasing.sh . ; ./run_phrasing.sh '
     for key in method_params.keys():
         command += key
@@ -140,6 +145,10 @@ def run_eda(runtime_status):
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running EDA... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     from eda import generate_stats
     eda_config = json.load(open('config/eda-params.json'))
+    
+    if runtime_status['testing'] == 1:
+        eda_config['data_path'] = "test/testdata/test_raw.txt"
+    
     generate_stats(**eda_config)
     # execute notebook / convert to html
     convert_notebook(**eda_config)
@@ -171,6 +180,11 @@ def main():
 
     elif target == "all":
         run_eda(runtime_status)
+        
+    elif target == "test":
+        runtime_status['testing'] = 1
+        run_eda(runtime_status)
+        runtime_status['testing'] = 0
 
     # Saving runtime status
     with open("src/runtime.json", "w") as outfile:
