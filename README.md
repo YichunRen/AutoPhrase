@@ -3,34 +3,35 @@
 
 ## To Run
 
-### Entering Docker
+### Docker
 ```
-sudo docker run -v $PWD/data/out:/autophrase/data/out -it joeyhou10/autophrase_replication
 
-docker run yichunren/dsc180a_docker
+docker run joeyhou10/dsc180_docker_hw
 
 ```
 
 ### Default Run (run all the targets)
-**Use python3 instead of python because the default python on the docker is python2**
 ```
-python3 run.py
+python run.py
 ```
 ##### Note: All the targets' parameters could be changed in the corresponding configuration files
 ### Target 1: Prepare data
 ```
-python3 run.py data_prep
+python run.py data_prep
 ```
 ### Target 2: Run autophrase
 ```
-python3 run.py autophrase
+python run.py autophrase
 ```
 ### Target 3: Run EDA
 **The minimum memory of Docker need to be 8GB to run the code now. We will modify the way to read files in the future**
 ```
-python3 run.py eda
+python run.py eda
 ```
 ### Target 4: Run All the targets
 ```
-python3 run.py all
+python run.py all
 ```
+### Target 5: Run All the targets on test data
+```
+python run.py test
