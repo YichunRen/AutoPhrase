@@ -80,11 +80,11 @@ def data_prep(runtime_status):
             print('  - ' + fp.split('/')[-1])
 
     # Downloading data
-    if download_needed:
+    if download_needed and not runtime_status['testing'] and not runtime_status['dblp_downloaded']:
         command = './src/data/data_prep.sh'
-
         os.system(command)
         print('  Finished downloading DBLP.txt!')
+        runtime_status['dblp_downloaded'] = 1
 
 def compile(runtime_status):
     if runtime_status['data_prep'] == 0:
@@ -120,8 +120,6 @@ def autophrase(runtime_status):
 
     command = 'cp src/run_phrasing.sh . ; ./run_phrasing.sh '
     for key in method_params.keys():
-        # command += key
-        # command += '='
         command += str(method_params[key])
         command += ' '
     print('  => Running command:', command)
