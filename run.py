@@ -123,7 +123,7 @@ def autophrase(runtime_status):
         # command += key
         # command += '='
         command += str(method_params[key])
-        # command += ' '
+        command += ' '
     print('  => Running command:', command)
     os.system(command)
 
@@ -197,6 +197,9 @@ def main():
         os.system('git reset --hard')
 
     elif target == "reset":
+        print(">>>>>>>>>>>>>>>>>>>>>>>> Resetting... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
+        for key in runtime_status.keys():
+            runtime_status[key] = 0
         command = './src/setup/reset.sh'
         os.system(command)
 
