@@ -6,6 +6,9 @@
 ### Entering Docker
 ```
 sudo docker run -v $PWD/data/out:/autophrase/data/out -it joeyhou10/autophrase_replication
+
+docker run yichunren/dsc180a_docker
+
 ```
 
 ### Default Run (run all the targets)
