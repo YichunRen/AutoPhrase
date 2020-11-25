@@ -48,7 +48,7 @@ mkdir -p tmp
 mkdir -p ${MODEL}
 
 # Note: if the first argument is 1, then we need to download dblp.ext
-if [ $1 == 1 ]; then
+if [ $2 == 1 ]; then
     echo ${green}===Downloading Toy Dataset===${reset}
     curl http://dmserv2.cs.illinois.edu/data/DBLP.txt.gz --output ${DEFAULT_TRAIN}.gz
     gzip -d ${DEFAULT_TRAIN}.gz -f
