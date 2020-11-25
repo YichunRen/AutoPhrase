@@ -116,7 +116,7 @@ def autophrase(runtime_status):
     
     if runtime_status['testing'] == 1:
         print(" => Running test data...")
-        method_params['RAW_TRAIN'] = "data/EN/test_raw.txt"
+        method_params['RAW_TRAIN'] = "${DATA_DIR}/EN/test_raw.txt"
         
     command = 'cp src/run_phrasing.sh . ; ./run_phrasing.sh '
     for key in method_params.keys():
@@ -151,8 +151,7 @@ def run_eda(runtime_status):
     eda_config = json.load(open('config/eda-params.json'))
     
     if runtime_status['testing'] == 1:
-        #eda_config['data_path'] = "test/testdata/test_raw.txt"
-        eda_config['data_path'] = "/EN/test_raw.txt"
+        eda_config['data_path'] = "test/testdata/test_raw.txt"
     
     generate_stats(**eda_config)
     # execute notebook / convert to html
