@@ -5,10 +5,9 @@
 #### Warning: The pipeline only support a full run for one dataset now. Please reload the repo if you want to try another dataset (including test run).
 
 ### Docker
+#### Note: The docker use dsmlp base container, please login to dsmlp if you want to use docker to run
 ```
-
-docker run joeyhou10/dsc180_docker_hw
-
+launch-scipy-ml.sh -i joeyhou10/dsc180_docker_hw
 ```
 
 ### Default Run (run all the targets)
