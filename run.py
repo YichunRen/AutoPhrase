@@ -116,12 +116,12 @@ def autophrase(runtime_status):
     
     if runtime_status['testing'] == 1:
         print(" => Running test data...")
-        method_params['RAW_TRAIN'] = "data/EN/test_raw.txt"
+        #os.system('sed -i "s/RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN} \n/RAW_TRAIN=${DATA_DIR}/EN/test_raw.txt \n/" src/run_phrasing.sh')
+                  
+        method_params['RAW_TRAIN'] = 'data/EN/test_raw.txt'
         
     command = 'cp src/run_phrasing.sh . ; ./run_phrasing.sh '
     for key in method_params.keys():
-        command += key
-        command += '='
         command += str(method_params[key])
         command += ' '
     print('  => Running command:', command)
