@@ -158,6 +158,7 @@ def run_eda(runtime_status):
     # execute notebook / convert to html
     convert_notebook(**eda_config)
 
+    os.system('cp tmp/* data/tmp')
     cleanup()
 
 def main():
