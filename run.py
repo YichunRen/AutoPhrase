@@ -160,7 +160,7 @@ def run_eda(runtime_status):
 
     #save version data if testing
     if runtime_status['testing'] == 1:
-        os.system('mkdir data/tmp2')
+        os.system('mkdir data/tmp_test')
         os.system('cp tmp/* data/tmp_test')
         
     cleanup()
