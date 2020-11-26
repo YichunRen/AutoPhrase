@@ -131,6 +131,7 @@ def autophrase(runtime_status):
     runtime_status['autophrase'] = 1
 
 def cleanup():
+    print(">>>>>>>>>>>>>>>>>>>>>>>> Cleanning Output <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     command = './src/setup/cleanup.sh'
     os.system(command)
     os.system('rm -rf models')
