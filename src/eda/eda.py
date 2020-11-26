@@ -7,18 +7,22 @@ from tqdm import tqdm # Visualization of loop progress
 import matplotlib.pyplot as plt
 import os
 
-# import data
-raw_train_fp = 'data/raw/DBLP.txt'
-dblp_raw = open(raw_train_fp, 'r')
 # result
 output_dir = 'data/out/DBLP/'
 multi_word = open(output_dir + 'AutoPhrase_multi-words.txt').readlines()
 single_word = open(output_dir + 'AutoPhrase_single-word.txt').readlines()
 
+#raw_train_fp = 'test/testdata/test_raw.txt'
+#dblp_raw = open(raw_train_fp, 'r')
+
+
 print(' => Generating Data for eda')
 #save the count result into a dataframe and convert it into csv
-def count_frequency(outdir):
+def count_frequency(data_path, outdir):
     print('  => Checking raw frequency count...')
+    # import data
+    raw_train_fp = data_path
+    dblp_raw = open(raw_train_fp, 'r')
     #find all documents
     tmp_doc = ''
     all_doc = []
@@ -158,6 +162,8 @@ def check_scores(outdir):
     print('  => Checking output quality scores...')
     multi_word_scores = []
     single_word_scores = []
+
+    # Updated for memory concerns
     for line in multi_word:
         multi_word_scores.append(float(line.split()[0]))
     for line in single_word:
@@ -170,10 +176,10 @@ def check_scores(outdir):
     df_multi_score.to_csv(os.path.join(outdir, 'multi_score.csv'))
     df_single_score.to_csv(os.path.join(outdir, 'single_score.csv'))
 
-def generate_stats(outdir, **kwargs):
+def generate_stats(data_path, outdir,**kwargs):
 
     os.makedirs(outdir, exist_ok=True)
-    df_doc, df_sent = count_frequency(outdir)
+    df_doc, df_sent = count_frequency(data_path, outdir)
     check_doc_dist(df_doc, outdir)
     check_sent_dist(df_sent, outdir)
     check_token_dist(df_sent, outdir)
