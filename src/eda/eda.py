@@ -7,14 +7,15 @@ from tqdm import tqdm # Visualization of loop progress
 import matplotlib.pyplot as plt
 import os
 
-# result
-output_dir = 'data/out/DBLP/'
-multi_word = open(output_dir + 'AutoPhrase_multi-words.txt').readlines()
-single_word = open(output_dir + 'AutoPhrase_single-word.txt').readlines()
+
 
 #raw_train_fp = 'test/testdata/test_raw.txt'
 #dblp_raw = open(raw_train_fp, 'r')
 
+
+output_dir = 'data/out/DBLP/'
+multi_word = open(output_dir + 'AutoPhrase_multi-words.txt').readlines()
+single_word = open(output_dir + 'AutoPhrase_single-word.txt').readlines()
 
 print(' => Generating Data for eda')
 #save the count result into a dataframe and convert it into csv
@@ -136,7 +137,6 @@ def check_token_dist(df_sent, outdir):
         if token_pair[1] < 5:
             in_frequent_tokens.append(token_pair[0])
 
-
     df_all_token = pd.DataFrame()
     df_all_token['Count'] = all_token_count
     #df_infrequent_token = pd.DataFrame(in_frequent_tokens)
@@ -157,7 +157,6 @@ def check_token_dist(df_sent, outdir):
                                num_infrequent, infrequent_rate, num_frequent]
     df_token_stats.to_csv(os.path.join(outdir, 'token_stats.csv'))
 
-
 def check_scores(outdir):
     print('  => Checking output quality scores...')
     multi_word_scores = []
@@ -177,12 +176,10 @@ def check_scores(outdir):
     df_single_score.to_csv(os.path.join(outdir, 'single_score.csv'))
 
 def generate_stats(data_path, outdir,**kwargs):
-
     os.makedirs(outdir, exist_ok=True)
     df_doc, df_sent = count_frequency(data_path, outdir)
     check_doc_dist(df_doc, outdir)
     check_sent_dist(df_sent, outdir)
     check_token_dist(df_sent, outdir)
     check_scores(outdir)
-
     return
