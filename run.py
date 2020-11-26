@@ -158,8 +158,15 @@ def run_eda(runtime_status):
     # execute notebook / convert to html
     convert_notebook(**eda_config)
 
-    os.system('cp tmp/* data/tmp')
+    #save version data if testing
+    if runtime_status['testing'] == 1:
+        os.system('mkdir data/tmp2')
+        os.system('cp tmp/* data/tmp2')
+        
     cleanup()
+    
+    if runtime_status['testing'] == 1:
+        os.system('mv data/tmp2 data/tmp')
 
 def main():
     model_name = 'DBLP'
