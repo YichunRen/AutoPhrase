@@ -8,9 +8,9 @@ import matplotlib.pyplot as plt
 import os
 
 # result
-output_dir = 'data/out/DBLP/'
-multi_word = open(output_dir + 'AutoPhrase_multi-words.txt').readlines()
-single_word = open(output_dir + 'AutoPhrase_single-word.txt').readlines()
+#output_dir = 'data/out/DBLP/'
+#multi_word = open(output_dir + 'AutoPhrase_multi-words.txt').readlines()
+#single_word = open(output_dir + 'AutoPhrase_single-word.txt').readlines()
 
 #raw_train_fp = 'test/testdata/test_raw.txt'
 #dblp_raw = open(raw_train_fp, 'r')
@@ -174,8 +174,8 @@ def check_scores(outdir):
     df_multi_score.to_csv(os.path.join(outdir, 'multi_score.csv'))
     df_single_score.to_csv(os.path.join(outdir, 'single_score.csv'))
 
-def generate_stats(data_path, outdir,**kwargs):
-    
+def generate_stats(data_path, outerdir, outdir,**kwargs):
+    os.makedirs(outerdir, exist_ok=True)
     os.makedirs(outdir, exist_ok=True)
     df_doc, df_sent = count_frequency(data_path, outdir)
     check_doc_dist(df_doc, outdir)

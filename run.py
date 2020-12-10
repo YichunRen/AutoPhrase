@@ -1,8 +1,9 @@
 import os
 import json
 import sys
-sys.path.insert(0, 'src/eda')
+sys.path.insert(0, 'src/notebook')
 from utils import convert_notebook
+from utils import convert_notebook_report
 
 def initialization():
 
@@ -204,9 +205,18 @@ def main():
     elif target == "autophrase":
         autophrase(runtime_status)
 
-    #run eda, the result will be saved as html in data/out
+    #run eda, the result will be saved as html in data/eda
     elif target == "eda":
         run_eda(runtime_status)
+        
+    #run report notebook, the result will be saved as html in data/report
+    elif target == "report":
+        print(">>>>>>>>>>>>>>>>>>>>>>>> Running Report... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
+        from report import generate_model
+        report_config = json.load(open('config/report-params.json'))
+        generate_model(**report_config)
+        # execute notebook / convert to html
+        convert_notebook_report(**report_config)
 
 
     elif target == "all":
