@@ -113,13 +113,12 @@ def autophrase(runtime_status):
         print('=> Failed to read file: method-params.json')
         return
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running AutoPhrase... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
-    
+
     if runtime_status['testing'] == 1:
         print(" => Running test data...")
         #os.system('sed -i "s/RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN} \n/RAW_TRAIN=${DATA_DIR}/EN/test_raw.txt \n/" src/run_phrasing.sh')
-                  
         method_params['RAW_TRAIN'] = 'data/EN/test_raw.txt'
-        
+
     command = 'cp src/run_phrasing.sh . ; ./run_phrasing.sh '
     for key in method_params.keys():
         command += str(method_params[key])
@@ -127,16 +126,16 @@ def autophrase(runtime_status):
     print('  => Running command:', command)
     os.system(command)
 
-
     runtime_status['autophrase'] = 1
 
 def cleanup():
     print(">>>>>>>>>>>>>>>>>>>>>>>> Cleanning Output <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
-    command = './src/setup/cleanup.sh'
-    os.system(command)
-    os.system('rm -rf models')
-    os.system('rm -rf data/raw')
-    os.system('rm -rf data/models')
+    # Note: haven't finish on this part yet
+    # command = './src/setup/cleanup.sh'
+    # os.system(command)
+    # os.system('rm -rf models')
+    # os.system('rm -rf data/raw')
+    # os.system('rm -rf data/models')
     os.system('mv data/out/DBLP data/out/AutoPhrase_Result')
 
 def run_eda(runtime_status):
@@ -150,10 +149,10 @@ def run_eda(runtime_status):
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running EDA... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     from eda import generate_stats
     eda_config = json.load(open('config/eda-params.json'))
-    
+
     if runtime_status['testing'] == 1:
         eda_config['data_path'] = "test/testdata/test_raw.txt"
-    
+
     generate_stats(**eda_config)
     # execute notebook / convert to html
     convert_notebook(**eda_config)
@@ -162,9 +161,9 @@ def run_eda(runtime_status):
     if runtime_status['testing'] == 1:
         os.system('mkdir data/tmp_test')
         os.system('cp tmp/* data/tmp_test')
-        
+
     cleanup()
-    
+
     if runtime_status['testing'] == 1:
         os.system('mv data/tmp_test data/tmp')
 
@@ -194,17 +193,17 @@ def main():
 
     elif target == "all":
         run_eda(runtime_status)
-        
+
     elif target == "test":
         runtime_status['testing'] = 1
         run_eda(runtime_status)
         runtime_status['testing'] = 0
         print(" => Done! See your test result in data directory.")
-        
+
     #reset the repo
     elif target == "reset_run":
         os.system('git reset --hard')
-            
+
     # Saving runtime status
     with open("src/runtime.json", "w") as outfile:
         json.dump(runtime_status, outfile)
