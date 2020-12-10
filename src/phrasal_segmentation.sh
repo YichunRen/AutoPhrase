@@ -2,7 +2,7 @@
 # As in "auto_phrase.sh", make the default model amd data directories depend on whether or not we're running
 # from a Docker container.
 
-MODELS_DIR=data/models/
+MODELS_DIR=data/models
 MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
 DATA_DIR=${DATA_DIR:- data}
 
@@ -30,33 +30,33 @@ reset=`tput sgr0`
 # mkdir -p tmp
 # mkdir -p ${MODEL}
 #
-# ### END Compilation###
-#
-# echo ${green}===Tokenization===${reset}
-#
-# TOKENIZER="-cp .:tools/tokenizer/lib/*:tools/tokenizer/resources/:tools/tokenizer/build/ Tokenizer"
-# TOKENIZED_TEXT_TO_SEG=tmp/tokenized_text_to_seg.txt
-# # CASE=tmp/case_tokenized_text_to_seg.txt
-#
-#
-# echo -ne "Current step: Tokenizing input file...\033[0K\r"
-# time java $TOKENIZER -m direct_test -i $TEXT_TO_SEG -o $TOKENIZED_TEXT_TO_SEG -t $TOKEN_MAPPING -c N -thread $THREAD
-#
-# LANGUAGE=`cat ${MODEL}/language.txt`
-# echo -ne "Detected Language: $LANGUAGE\033[0K\n"
-#
-# ### END Tokenization ###
-#
-# echo ${green}===Part-Of-Speech Tagging===${reset}
-#
-# if [ ! $LANGUAGE == "JA" ] && [ ! $LANGUAGE == "CN" ]  && [ ! $LANGUAGE == "OTHER" ]  && [ $ENABLE_POS_TAGGING -eq 1 ]; then
-# 	RAW=tmp/raw_tokenized_text_to_seg.txt # TOKENIZED_TEXT_TO_SEG is the suffix name after "raw_"
-# 	export THREAD LANGUAGE RAW
-# 	bash ./tools/treetagger/pos_tag.sh
-# 	mv tmp/pos_tags.txt tmp/pos_tags_tokenized_text_to_seg.txt
-# fi
-#
-# POS_TAGS=tmp/pos_tags_tokenized_text_to_seg.txt
+### END Compilation###
+
+echo ${green}===Tokenization===${reset}
+
+TOKENIZER="-cp .:tools/tokenizer/lib/*:tools/tokenizer/resources/:tools/tokenizer/build/ Tokenizer"
+TOKENIZED_TEXT_TO_SEG=tmp/tokenized_text_to_seg.txt
+# CASE=tmp/case_tokenized_text_to_seg.txt
+
+
+echo -ne "Current step: Tokenizing input file...\033[0K\r"
+time java $TOKENIZER -m direct_test -i $TEXT_TO_SEG -o $TOKENIZED_TEXT_TO_SEG -t $TOKEN_MAPPING -c N -thread $THREAD
+
+LANGUAGE=`cat ${MODEL}/language.txt`
+echo -ne "Detected Language: $LANGUAGE\033[0K\n"
+
+### END Tokenization ###
+
+echo ${green}===Part-Of-Speech Tagging===${reset}
+
+if [ ! $LANGUAGE == "JA" ] && [ ! $LANGUAGE == "CN" ]  && [ ! $LANGUAGE == "OTHER" ]  && [ $ENABLE_POS_TAGGING -eq 1 ]; then
+	RAW=tmp/raw_tokenized_text_to_seg.txt # TOKENIZED_TEXT_TO_SEG is the suffix name after "raw_"
+	export THREAD LANGUAGE RAW
+	bash ./tools/treetagger/pos_tag.sh
+	mv tmp/pos_tags.txt tmp/pos_tags_tokenized_text_to_seg.txt
+fi
+
+POS_TAGS=tmp/pos_tags_tokenized_text_to_seg.txt
 
 ### END Part-Of-Speech Tagging ###
 

@@ -132,6 +132,7 @@ def autophrase(runtime_status):
     os.system(command)
 
     runtime_status['autophrase'] = 1
+    phrasal_segmentation(runtime_status)
 
 def phrasal_segmentation(runtime_status):
     command = './src/phrasal_segmentation.sh'
