@@ -12,6 +12,8 @@ resources/AutoPhrase
 resources/AutoPhrase/*
 resources/docker/data/*
 
+notebooks/final.ipynb
+
 data/raw/*
 data/out/*
 

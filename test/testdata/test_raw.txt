@@ -1,60 +1,60 @@
-This is test data that checks the correctness of the codes before running on the real data set.
+Phrase mining is a fundamental task of text analysis that extracts high-quality phrases from a text corpus.
 .
-Test data is useful for testing steps of the pipeline.
+It improve computational models for many applications.
 .
-Finish Methodology 7.
+The applications are information extraction, information retrieval, taxonomy construction, and topic modeling.
 .
-This is test data that checks the correctness of the codes before running on the real data set.
+Phrase mining is a fundamental task of text analysis that extracts high-quality phrases from a text corpus.
 .
-Test data is useful for testing steps of the pipeline.
+It improve computational models for many applications.
 .
-Finish Methodology 7.
+The applications are information extraction, information retrieval, taxonomy construction, and topic modeling.
 .
-This is test data that checks the correctness of the codes before running on the real data set.
+Phrase mining is a fundamental task of text analysis that extracts high-quality phrases from a text corpus.
 .
-Test data is useful for testing steps of the pipeline.
+It improve computational models for many applications.
 .
-Finish Methodology 7.
+The applications are information extraction, information retrieval, taxonomy construction, and topic modeling.
 .
-This is test data that checks the correctness of the codes before running on the real data set.
+Phrase mining is a fundamental task of text analysis that extracts high-quality phrases from a text corpus.
 .
-Test data is useful for testing steps of the pipeline.
+It improve computational models for many applications.
 .
-Finish Methodology 7.
+The applications are information extraction, information retrieval, taxonomy construction, and topic modeling.
 .
-This is test data that checks the correctness of the codes before running on the real data set.
+Phrase mining is a fundamental task of text analysis that extracts high-quality phrases from a text corpus.
 .
-Test data is useful for testing steps of the pipeline.
+It improve computational models for many applications.
 .
-Finish Methodology 7.
+The applications are information extraction, information retrieval, taxonomy construction, and topic modeling.
 .
-This is test data that checks the correctness of the codes before running on the real data set.
+Phrase mining is a fundamental task of text analysis that extracts high-quality phrases from a text corpus.
 .
-Test data is useful for testing steps of the pipeline.
+It improve computational models for many applications.
 .
-Finish Methodology 7.
+The applications are information extraction, information retrieval, taxonomy construction, and topic modeling.
 .
-This is test data that checks the correctness of the codes before running on the real data set.
+Phrase mining is a fundamental task of text analysis that extracts high-quality phrases from a text corpus.
 .
-Test data is useful for testing steps of the pipeline.
+It improve computational models for many applications.
 .
-Finish Methodology 7.
+The applications are information extraction, information retrieval, taxonomy construction, and topic modeling.
 .
-This is test data that checks the correctness of the codes before running on the real data set.
+Phrase mining is a fundamental task of text analysis that extracts high-quality phrases from a text corpus.
 .
-Test data is useful for testing steps of the pipeline.
+It improve computational models for many applications.
 .
-Finish Methodology 7.
+The applications are information extraction, information retrieval, taxonomy construction, and topic modeling.
 .
-This is test data that checks the correctness of the codes before running on the real data set.
+Phrase mining is a fundamental task of text analysis that extracts high-quality phrases from a text corpus.
 .
-Test data is useful for testing steps of the pipeline.
+It improve computational models for many applications.
 .
-Finish Methodology 7.
+The applications are information extraction, information retrieval, taxonomy construction, and topic modeling.
 .
-This is test data that checks the correctness of the codes before running on the real data set.
+Phrase mining is a fundamental task of text analysis that extracts high-quality phrases from a text corpus.
 .
-Test data is useful for testing steps of the pipeline.
+It improve computational models for many applications.
 .
-Finish Methodology 7.
+The applications are information extraction, information retrieval, taxonomy construction, and topic modeling.
 .
