@@ -81,9 +81,12 @@ def data_prep(runtime_status):
 
     # Downloading data
     if download_needed:
+        if runtime_status['testing'] == 1:
+            print('  Testing, no need to download toy dataset!')
+            return
         command = './src/data/data_prep.sh'
-
         os.system(command)
+        runtime_status['dblp_downloaded'] = 1
         print('  Finished downloading DBLP.txt!')
 
 def compile(runtime_status):
