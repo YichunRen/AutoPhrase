@@ -3,5 +3,5 @@
     "MODELS_DIR": "data/models/",
     "MODEL": "data/models/DBLP/",
     "DEFAULT_TRAIN": "data/raw/DBLP.txt",
-    "RAW_TRAIN": "data/raw/DBLP.5K.txt"
+    "RAW_TRAIN": "data/raw/DBLP.txt"
 }

@@ -16,6 +16,9 @@ rm -rf tools
 # Remove data folder
 rm -rf data
 
+# Remove resources
+rm -rf resources/AutoPhrase
+
 # Remove other files
 rm Makefile
 rm run_phrasing.sh

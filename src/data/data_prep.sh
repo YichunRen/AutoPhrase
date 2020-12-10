@@ -22,6 +22,7 @@
 #     DATA_DIR=${DATA_DIR:- data}
 #
 # fi
+echo '      => Running data_prep.sh!'
 DATA_DIR=data
 # MODEL is the directory in which the resulting model will be saved.
 # if [ -d "models" ]; then
@@ -32,6 +33,7 @@ DATA_DIR=data
 
 MODELS_DIR=data/models/
 MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
+
 
 # RAW_TRAIN is the input of AutoPhrase, where each line is a single document.
 cp resources/AutoPhrase/data/EN/* ${DATA_DIR}/raw/
@@ -47,7 +49,7 @@ reset=`tput sgr0`
 mkdir -p tmp
 mkdir -p ${MODEL}
 
-if [ $RAW_TRAIN == $DEFAULT_TRAIN ] && [ ! -e $DEFAULT_TRAIN ]; then
+if [ $1 == 1 ]; then
     echo ${green}===Downloading Toy Dataset===${reset}
     curl http://dmserv2.cs.illinois.edu/data/DBLP.txt.gz --output ${DEFAULT_TRAIN}.gz
     gzip -d ${DEFAULT_TRAIN}.gz -f
