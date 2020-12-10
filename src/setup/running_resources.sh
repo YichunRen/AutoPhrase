@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# cd /autophrase
-
 # Clone the resources from AutoPhrase
 cd resources
 git clone https://github.com/shangjingbo1226/AutoPhrase
@@ -22,6 +20,7 @@ cd ..
 chmod 755 src/run_phrasing.sh;
 chmod 755 src/setup/*.sh
 chmod 755 src/data/*.sh
+chmod 755 src/*.sh
 
 # Creating symbolic link
 ln -s data/tmp tmp

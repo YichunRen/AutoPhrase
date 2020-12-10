@@ -129,10 +129,15 @@ def autophrase(runtime_status):
     runtime_status['autophrase'] = 1
 
 def phrasal_segmentation(runtime_status):
-    if runtime_status['compile'] == 0:
-        print('  => compile first...')
-        compile(runtime_status)
-        runtime_status['compile'] = 1
+    command = './src/phrasal_segmentation.sh'
+    print('  => Running command:', command)
+    os.system(command)
+    return 1
+
+def reset():
+    command = './src/setup/reset.sh'
+    print('  => Resetting...')
+    os.system(command)
 
 def cleanup():
     print(">>>>>>>>>>>>>>>>>>>>>>>> Cleanning Output <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
@@ -209,6 +214,10 @@ def main():
     elif target == "reset_run":
         os.system('git reset --hard')
 
+    elif target == "reset":
+        for k in runtime_status.keys():
+            runtime_status[k] = 0
+        reset()
     # Saving runtime status
     with open("src/runtime.json", "w") as outfile:
         json.dump(runtime_status, outfile)
