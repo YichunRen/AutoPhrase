@@ -7,20 +7,25 @@ results/
 */.DS_Store
 *.orig
 *.pyc
+core.*
 
 resources/AutoPhrase
 resources/AutoPhrase/*
 resources/docker/data/*
+Makefile
+run_phrasing.sh
+phrasal_segmentation.sh
 
 notebooks/final.ipynb
 
-data/raw/*
-data/out/*
+data/*
 
 tools/*
 models/*
 bin/*
-core.*
+tmp
+tmp/*
+
 
 *.h
 *.cpp
