@@ -135,7 +135,7 @@ def autophrase(runtime_status):
     phrasal_segmentation(method_params['RAW_TRAIN'])
 
 def phrasal_segmentation(raw_train_fp):
-    command = './src/phrasal_segmentation.sh ' + raw_train_fp 
+    command = './src/phrasal_segmentation.sh ' + raw_train_fp
     print('  => Running command:', command)
     os.system(command)
     return 1
@@ -176,11 +176,13 @@ def run_eda(runtime_status):
 
     #save version data if testing
     if runtime_status['testing'] == 1:
-        # os.system('mkdir data/tmp_test')
-        os.system('cp tmp/* data/tmp')
-        # os.system('mv data/tmp_test data/tmp')
+        os.system('mkdir data/tmp_test')
+        os.system('cp tmp/* data/tmp_test')
 
     cleanup()
+
+    if runtime_status['testing'] == 1:
+        os.system('mv data/tmp_test data/tmp')
 
 
 def main():
