@@ -132,10 +132,10 @@ def autophrase(runtime_status):
     os.system(command)
 
     runtime_status['autophrase'] = 1
-    phrasal_segmentation(runtime_status)
+    phrasal_segmentation(method_params['RAW_TRAIN'])
 
-def phrasal_segmentation(runtime_status):
-    command = './src/phrasal_segmentation.sh'
+def phrasal_segmentation(raw_train_fp):
+    command = './src/phrasal_segmentation.sh ' + raw_train_fp 
     print('  => Running command:', command)
     os.system(command)
     return 1
