@@ -7,7 +7,7 @@ MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
 DATA_DIR=${DATA_DIR:- data}
 
 # Change this filepath name in method-params
-TEXT_TO_SEG=$5
+TEXT_TO_SEG=data/raw/DBLP.txt
 HIGHLIGHT_MULTI=${HIGHLIGHT_MULTI:- 0.5}
 HIGHLIGHT_SINGLE=${HIGHLIGHT_SINGLE:- 0.8}
 
