@@ -128,6 +128,12 @@ def autophrase(runtime_status):
 
     runtime_status['autophrase'] = 1
 
+def phrasal_segmentation(runtime_status):
+    if runtime_status['compile'] == 0:
+        print('  => compile first...')
+        compile(runtime_status)
+        runtime_status['compile'] = 1
+
 def cleanup():
     print(">>>>>>>>>>>>>>>>>>>>>>>> Cleanning Output <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     # Note: haven't finish on this part yet
@@ -159,13 +165,12 @@ def run_eda(runtime_status):
 
     #save version data if testing
     if runtime_status['testing'] == 1:
-        os.system('mkdir data/tmp_test')
-        os.system('cp tmp/* data/tmp_test')
+        # os.system('mkdir data/tmp_test')
+        os.system('cp tmp/* data/tmp')
+        # os.system('mv data/tmp_test data/tmp')
 
     cleanup()
 
-    if runtime_status['testing'] == 1:
-        os.system('mv data/tmp_test data/tmp')
 
 def main():
     model_name = 'DBLP'

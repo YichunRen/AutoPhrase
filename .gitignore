@@ -13,9 +13,8 @@ resources/AutoPhrase/*
 resources/docker/data/*
 
 data/raw/*
-data
+data/out/*
 
-tools
 tools/*
 models/*
 bin/*

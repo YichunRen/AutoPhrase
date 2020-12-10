@@ -22,10 +22,10 @@ reset=`tput sgr0`
 
 echo ${green}===Compilation===${reset}
 
-COMPILE=${COMPILE:- 1}
-if [ $COMPILE -eq 1 ]; then
-    bash compile.sh
-fi
+# COMPILE=${COMPILE:- 1}
+# if [ $COMPILE -eq 1 ]; then
+#     bash compile.sh
+# fi
 
 mkdir -p tmp
 mkdir -p ${MODEL}
