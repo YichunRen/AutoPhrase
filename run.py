@@ -148,11 +148,11 @@ def reset():
 def cleanup():
     print(">>>>>>>>>>>>>>>>>>>>>>>> Cleanning Output <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     # Note: haven't finish on this part yet
-    # command = './src/setup/cleanup.sh'
-    # os.system(command)
-    # os.system('rm -rf models')
-    # os.system('rm -rf data/raw')
-    # os.system('rm -rf data/models')
+    command = './src/setup/cleanup.sh'
+    os.system(command)
+    os.system('rm -rf models')
+    os.system('rm -rf data/raw')
+    os.system('rm -rf data/models')
     os.system('mv data/out/DBLP data/out/AutoPhrase_Result')
 
 def run_eda(runtime_status):
