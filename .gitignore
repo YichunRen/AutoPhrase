@@ -18,6 +18,7 @@ data/out/*
 tools/*
 models/*
 bin/*
+core.*
 
 *.h
 *.cpp
