@@ -36,7 +36,7 @@ echo ${green}===Tokenization===${reset}
 
 TOKENIZER="-cp .:tools/tokenizer/lib/*:tools/tokenizer/resources/:tools/tokenizer/build/ Tokenizer"
 TOKENIZED_TEXT_TO_SEG=tmp/tokenized_text_to_seg.txt
-CASE=tmp/case_tokenized_text_to_seg.txt
+# CASE=tmp/case_tokenized_text_to_seg.txt
 
 
 echo -ne "Current step: Tokenizing input file...\033[0K\r"
