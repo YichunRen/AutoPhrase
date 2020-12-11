@@ -8,12 +8,6 @@ import matplotlib.pyplot as plt
 import os
 
 # result
-<<<<<<< HEAD
-output_dir = 'data/out/DBLP/'
-multi_word = open(output_dir + 'AutoPhrase_multi-words.txt').readlines()
-single_word = open(output_dir + 'AutoPhrase_single-word.txt').readlines()
-=======
->>>>>>> d482b113219cd632f9a714e8888d857204a6f3ba
 
 #raw_train_fp = 'test/testdata/test_raw.txt'
 #dblp_raw = open(raw_train_fp, 'r')
