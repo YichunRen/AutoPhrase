@@ -1,7 +1,5 @@
 {
-    "DATA_DIR": "data",
-    "MODELS_DIR": "data/models/",
-    "MODEL": "data/models/DBLP/",
-    "DEFAULT_TRAIN": "data/raw/DBLP.txt",
-    "RAW_TRAIN": "data/raw/DBLP.txt"
+    
+    "RAW_TRAIN": "data/raw/DBLP.txt",
+    "LABEL_FILE": "tmp/labels.txt"
 }
