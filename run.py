@@ -150,6 +150,8 @@ def run_report(runtime_status):
     print(">>>>>>>>>>>>>>>>>>>>>>>> Running Report... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     from report import generate_model
     report_config = json.load(open('config/report-params.json'))
+    os.makedirs('data/report/report_files', exist_ok=True)
+    
     if runtime_status['testing'] == 1:
         os.system('cp test/test_result.csv data/report/report_files/sample_scores.csv')
     else:
