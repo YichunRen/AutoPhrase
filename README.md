@@ -11,7 +11,7 @@ launch-scipy-ml.sh -i joeyhou10/dsc180_docker_hw
 ```
 python run.py
 ```
-##### Note: The first three targets' parameters could be changed in the corresponding configuration files
+##### Note: The first four targets' parameters could be changed in the corresponding configuration files
 ### Target 1: Prepare data
 ```
 python run.py data_prep
