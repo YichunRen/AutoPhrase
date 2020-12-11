@@ -8,9 +8,6 @@ import matplotlib.pyplot as plt
 import os
 
 # result
-output_dir = 'data/out/DBLP/'
-multi_word = open(output_dir + 'AutoPhrase_multi-words.txt').readlines()
-single_word = open(output_dir + 'AutoPhrase_single-word.txt').readlines()
 
 #raw_train_fp = 'test/testdata/test_raw.txt'
 #dblp_raw = open(raw_train_fp, 'r')
@@ -162,6 +159,9 @@ def check_token_dist(df_sent, outdir):
 
 def check_scores(outdir):
     print('  => Checking output quality scores...')
+    output_dir = 'data/out/DBLP/'
+    multi_word = open(output_dir + 'AutoPhrase_multi-words.txt')
+    single_word = open(output_dir + 'AutoPhrase_single-word.txt')
     multi_word_scores = []
     single_word_scores = []
     for line in multi_word:
