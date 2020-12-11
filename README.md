@@ -23,15 +23,18 @@ python run.py data_prep
 ```
 python run.py autophrase
 ```
+**Note:Target 3&4 require the AutoPhrase results.**
 ### Target 3: Run EDA
+The writings in the output html file explains the statistics of DBLP.txt dataset and its AutoPhrase results. Only look the graphs/tables if you use another dataset.
 ```
 python run.py eda
 ```
-### Target 4: Run Report
+### Target 4: Run Report 
+The writings in the output html file explains and investigates AutoPhrase results of DBLP.txt dataset. Only look the graphs/tables if you use another dataset.
 ```
 python run.py report
 ```
-### Target 5: Run All the targets on test data
+### Target 5: Run All previous targets on test data
 ```
 python run.py test
 ```
