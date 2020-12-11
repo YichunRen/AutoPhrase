@@ -121,8 +121,8 @@ def check_doc_dist(df_doc, outdir):
     for i in tqdm(range(len(doc_length))):
         if doc_length[i] > outlier_cutoff:
             outlier_count += 1
-            if len(outlier_samples) < 20:
-                outlier_samples.append(all_doc[i])
+#             if len(outlier_samples) < 20:
+#                 outlier_samples.append(doc_length[i])
 
     df_doc_stats = pd.DataFrame()
     df_doc_stats['Statistics'] = ['Skewness', 'Percentile_10', 'Percentile_25', 'Percentile_50',
