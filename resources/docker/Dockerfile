@@ -1,7 +1,28 @@
-FROM openjdk:8
+# 1) choose base container
+# generally use the most recent tag
 
-MAINTAINER Joey Hou <z9hou@ucsd.edu>
+# data science notebook
+# https://hub.docker.com/repository/docker/ucsdets/datascience-notebook/tags
+ARG BASE_CONTAINER=ucsdets/datascience-notebook:2020.2-stable
 
+# scipy/machine learning (tensorflow)
+# https://hub.docker.com/repository/docker/ucsdets/scipy-ml-notebook/tags
+# ARG BASE_CONTAINER=ucsdets/scipy-ml-notebook:2020.2-stable
+
+FROM $BASE_CONTAINER
+
+LABEL maintainer="UC San Diego ITS/ETS <ets-consult@ucsd.edu>"
+
+# 2) change to root to install packages
+USER root
+
+RUN	apt-get install -y htop aria2 nmap traceroute
+
+# 3) install packages
+RUN pip install --no-cache-dir networkx scipy python-louvain babypandas
+#RUN conda install --yes geopandas
+
+## This part is for AutoPhrase
 RUN \
     echo "===> install g++" && \
     apt-get update && apt-get install -y --force-yes g++
@@ -20,42 +41,20 @@ RUN \
 
 RUN \
     echo "===> install python packages" && \
-    pip3 install pandas numpy seaborn scipy tqdm matplotlib nbformat nbconvert jupyter
+    pip3 install pandas numpy seaborn scipy tqdm matplotlib nbformat nbconvert jupyter gensim
 
-ARG repo
-ARG branch
-ADD "${repo}/archive/${branch}.zip" /
+# Install OpenJDK-8
+RUN apt-get update && \
+    apt-get install -y openjdk-8-jdk && \
+    apt-get install -y ant && \
+    apt-get clean
 
-##### Unziping project file from github #####
-RUN \
-    unzip ${branch} && \
-    rm ${branch}.zip && \
-    mv DSC180A_Replication-${branch} autophrase
+##END
 
-##### Preparing resources #####
-RUN \
-    echo "===> downloading resources..." &&\
-    bash /autophrase/src/setup/docker_resources.sh &&\
-    chmod 755 /autophrase/src/setup/*.sh
+# 4) change back to notebook user
+COPY /run_jupyter.sh /
+RUN chmod 755 /run_jupyter.sh
+USER $NB_UID
 
-##### Compiling #####
-#RUN \
-#    echo "===> compile" &&\
-#    cp /autophrase/src/setup/compile.sh /autophrase/ &&\
-#    cp /autophrase/resources/Makefile /autophrase/ &&\
-#    bash /autophrase/compile.sh &&\
-#    chmod 755 tools/treetagger/bin/tree-tagger
-
-
-##### Cleaning up #####
-RUN \
-    echo "===> clean up..."  && \
-    apt-get purge -y --force-yes make && \
-    apt-get autoremove -y --purge make && \
-    rm -rf /var/cache/oracle-jdk8-installer  && \
-    apt-get clean && \
-    rm -rf /var/lib/apt/lists/*
-
-ENV COMPILE 0
-
-WORKDIR /autophrase
+# Override command to disable running jupyter notebook at launch
+# CMD ["/bin/bash"]

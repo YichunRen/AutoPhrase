@@ -208,7 +208,7 @@ def main():
     #run eda, the result will be saved as html in data/eda
     elif target == "eda":
         run_eda(runtime_status)
-        
+
     #run report notebook, the result will be saved as html in data/report
     elif target == "report":
         print(">>>>>>>>>>>>>>>>>>>>>>>> Running Report... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
