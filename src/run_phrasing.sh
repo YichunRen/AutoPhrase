@@ -7,7 +7,7 @@ DATA_DIR=data
 MODELS_DIR=data/models/
 MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
 DEFAULT_TRAIN=${DATA_DIR}/raw/DBLP.txt
-RAW_TRAIN=$5
+RAW_TRAIN=$1
 #RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
 
 FIRST_RUN=${FIRST_RUN:- 1}
@@ -40,7 +40,8 @@ if [ $FIRST_RUN -eq 1 ]; then
 fi
 
 LANGUAGE=`cat tmp/language.txt`
-LABEL_FILE=tmp/labels.txt
+#LABEL_FILE=tmp/labels.txt
+LABEL_FILE=$2
 
 if [ $FIRST_RUN -eq 1 ]; then
     echo -ne "Detected Language: $LANGUAGE\033[0K\n"
