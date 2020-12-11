@@ -49,7 +49,11 @@ def convert_notebook_report(report_in_path, report_out_path, **kwargs):
 
     nb = nbformat.read(open(report_in_path), as_version=4)
     html_exporter = HTMLExporter(config=config)
-
+    
+    # Preparing the manual runned 
+    
+    
+    
     # change dir to notebook dir, to execute notebook
     os.chdir(indir)
     body, resources = (
