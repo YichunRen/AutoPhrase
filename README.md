@@ -27,10 +27,15 @@ python run.py autophrase
 ```
 python run.py eda
 ```
-### Target 4: Run All the targets
+### Target 4: Run Report
 ```
-python run.py all
+python run.py report
 ```
 ### Target 5: Run All the targets on test data
 ```
 python run.py test
+```
+### Target 6: Run All the targets
+```
+python run.py all
+```
