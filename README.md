@@ -1,7 +1,7 @@
 # DSC180A - Replication Assignment (Fall 2020)
 - Note: this is a replication of [AutoPhrase](https://github.com/shangjingbo1226/AutoPhrase) by Jingbo Shang.
 
-### Docker
+### Docker: joeyhou10/dsc180_docker_hw
 #### Note: The docker uses dsmlp base container. Please login to a dsmlp jumpbox before entering the command below.
 ```
 launch-scipy-ml.sh -i joeyhou10/dsc180_docker_hw
@@ -11,7 +11,7 @@ launch-scipy-ml.sh -i joeyhou10/dsc180_docker_hw
 ```
 python run.py
 ```
-##### Note: The first three targets' parameters could be changed in the corresponding configuration files
+##### Note: The first four targets' parameters could be changed in the corresponding configuration files
 ### Target 1: Prepare data
 ```
 python run.py data_prep
