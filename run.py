@@ -139,7 +139,26 @@ def phrasal_segmentation(raw_train_fp):
     command = './src/phrasal_segmentation.sh ' + raw_train_fp
     print('  => Running command:', command)
     os.system(command)
-    return 1
+    return 0
+
+def run_report(runtime_status):
+    if runtime_status['eda'] == 0:
+        print('  => run eda first...')
+        run_eda(runtime_status)
+        runtime_status['eda'] = 1
+    
+    print(">>>>>>>>>>>>>>>>>>>>>>>> Running Report... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
+    from report import generate_model
+    report_config = json.load(open('config/report-params.json'))
+    if runtime_status['testing'] == 1:
+        os.system('cp test/test_result.csv data/tmp/sample_scores.csv')
+    else:
+        os.system('cp references/sample_scores.csv data/tmp/sample_scores.csv')
+    # Run the code to build word2vec model
+    generate_model(**report_config)
+    # execute notebook / convert to html
+    convert_notebook_report(**report_config)
+    return 0
 
 def reset():
     command = './src/setup/reset.sh'
@@ -211,20 +230,14 @@ def main():
 
     #run report notebook, the result will be saved as html in data/report
     elif target == "report":
-        print(">>>>>>>>>>>>>>>>>>>>>>>> Running Report... <<<<<<<<<<<<<<<<<<<<<<<<<<<<")
-        from report import generate_model
-        report_config = json.load(open('config/report-params.json'))
-        generate_model(**report_config)
-        # execute notebook / convert to html
-        convert_notebook_report(**report_config)
-
+        run_report(runtime_status)
 
     elif target == "all":
-        run_eda(runtime_status)
+        run_report(runtime_status)
 
     elif target == "test":
         runtime_status['testing'] = 1
-        run_eda(runtime_status)
+        run_report(runtime_status)
         runtime_status['testing'] = 0
         print(" => Done! See your test result in data directory.")
 

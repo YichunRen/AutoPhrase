@@ -13,7 +13,6 @@ import pickle
 import warnings
 warnings.filterwarnings("ignore") 
 
-
 def search_single_line(line):
     if '<phrase>' in line:
         curr_phrases = []
@@ -49,8 +48,7 @@ def generate_model(data_path, outerdir, outdir,**kwargs):
     #model = Word2Vec(all_sents, min_count = 5, size = 50, workers = 2, window = 5, sg = 0)
     model = Word2Vec(all_sents)
     #model.train(all_sents, total_examples=len(all_sents))
-#     model.save("data/report/word2vec.model")
-    print(" => Done! Model is saved in data/report")
-        
+    model.save("data/report/word2vec.model")
+    print(" => Done! Model is saved in data/report")      
     return
 
