@@ -3,5 +3,6 @@
     "outerdir": "data/report",
     "outdir": "data/report/report_files",
     "report_in_path": "notebooks/report_notebook.ipynb",
-    "report_out_path": "data/report/report_notebook.html"
+    "report_out_path": "data/report/report_notebook.html",
+    "manually_inspected_path": "data/tmp/sample_scores.csv"
 }

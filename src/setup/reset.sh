@@ -19,6 +19,9 @@ rm -rf data
 # Remove resources
 rm -rf resources/AutoPhrase
 
+# Remove models 
+rm -rf models
+
 # Remove other files
 rm Makefile
 rm run_phrasing.sh
