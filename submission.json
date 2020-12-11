@@ -1,7 +1,4 @@
 {
-    "config": ["config/data-params.json", "config/method-params.json", "config/eda-params.json"], 
-    "build": "run.py", 
-    "library": ["src"], 
-    "notebook": ["notebooks/eda_notebook.ipynb"], 
-    "targets": ["data_prep", "autophrase", "eda"] 
+    "dockerhub-id": "joeyhou10/dsc180_docker_hw:latest",
+    "repository-id": "https://github.com/JoeyHou/DSC180A_Replication.git"
 }
