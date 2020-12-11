@@ -151,9 +151,9 @@ def run_report(runtime_status):
     from report import generate_model
     report_config = json.load(open('config/report-params.json'))
     if runtime_status['testing'] == 1:
-        os.system('cp test/test_result.csv data/report/sample_scores.csv')
+        os.system('cp test/test_result.csv data/report/report_files/sample_scores.csv')
     else:
-        os.system('cp references/sample_scores.csv data/report/sample_scores.csv')
+        os.system('cp references/sample_scores.csv data/report/report_files/sample_scores.csv')
     # Run the code to build word2vec model
     generate_model(**report_config)
     # execute notebook / convert to html
