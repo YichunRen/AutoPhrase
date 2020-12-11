@@ -58,10 +58,10 @@ def count_frequency(data_path, outdir):
 
     df_doc = pd.DataFrame()
     df_doc['Document'] = all_doc
-    df_doc['Document_len'] = [len(doc.split()) for doc in doc_df['Document']]
+    df_doc['Document_len'] = [len(doc.split()) for doc in df_doc['Document']]
     df_sent = pd.DataFrame()
     df_sent['Sentence'] = all_sent
-    df_doc['Sentence_len'] = [len(sent.split()) for sent in sent_df['Sentence']]
+    df_sent['Sentence_len'] = [len(sent.split()) for sent in df_sent['Sentence']]
     #df_token = pd.DataFrame(all_token)
 
     df_counts.to_csv(os.path.join(outdir, 'count_stats.csv'))
