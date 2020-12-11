@@ -241,14 +241,12 @@ def main():
         runtime_status['testing'] = 0
         print(" => Done! See your test result in data directory.")
 
-    #reset the repo
-    elif target == "reset_run":
-        os.system('git reset --hard')
-
+    #reset the whole repo before starting a new run
     elif target == "reset":
         for k in runtime_status.keys():
             runtime_status[k] = 0
         reset()
+        
     # Saving runtime status
     with open("src/runtime.json", "w") as outfile:
         json.dump(runtime_status, outfile)
