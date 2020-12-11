@@ -158,9 +158,6 @@ def run_report(runtime_status):
     generate_model(**report_config)
     # execute notebook / convert to html
     convert_notebook_report(**report_config)
-    os.system('mv data/out/report/* data/out/report/report_files')
-    os.system('rm -rf data/out/report/report_files/report_files')
-    os.system('mv data/out/report/report_files/report_notebook.html data/out/report')
     
     return 0
 
