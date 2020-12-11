@@ -8,9 +8,12 @@ import matplotlib.pyplot as plt
 import os
 
 # result
+<<<<<<< HEAD
 output_dir = 'data/out/DBLP/'
 multi_word = open(output_dir + 'AutoPhrase_multi-words.txt').readlines()
 single_word = open(output_dir + 'AutoPhrase_single-word.txt').readlines()
+=======
+>>>>>>> d482b113219cd632f9a714e8888d857204a6f3ba
 
 #raw_train_fp = 'test/testdata/test_raw.txt'
 #dblp_raw = open(raw_train_fp, 'r')
@@ -58,8 +61,10 @@ def count_frequency(data_path, outdir):
 
     df_doc = pd.DataFrame()
     df_doc['Document'] = all_doc
+    df_doc['Document_len'] = [len(doc.split()) for doc in df_doc['Document']]
     df_sent = pd.DataFrame()
     df_sent['Sentence'] = all_sent
+    df_sent['Sentence_len'] = [len(sent.split()) for sent in df_sent['Sentence']]
     #df_token = pd.DataFrame(all_token)
 
     df_counts.to_csv(os.path.join(outdir, 'count_stats.csv'))
@@ -160,6 +165,9 @@ def check_token_dist(df_sent, outdir):
 
 def check_scores(outdir):
     print('  => Checking output quality scores...')
+    output_dir = 'data/out/DBLP/'
+    multi_word = open(output_dir + 'AutoPhrase_multi-words.txt')
+    single_word = open(output_dir + 'AutoPhrase_single-word.txt')
     multi_word_scores = []
     single_word_scores = []
     for line in multi_word:
