@@ -6,6 +6,7 @@ from scipy.stats import skew
 from tqdm import tqdm # Visualization of loop progress
 import matplotlib.pyplot as plt
 import os
+import re
 
 # result
 
@@ -16,63 +17,64 @@ import os
 print(' => Generating Data for eda')
 #save the count result into a dataframe and convert it into csv
 def count_frequency(data_path, outdir):
-    print('  => Checking raw frequency count...')
-    # import data
     raw_train_fp = data_path
-    dblp_raw = open(raw_train_fp, 'r')
-    #find all documents
-    tmp_doc = ''
-    all_doc = []
-    # for sent in tqdm(dblp_raw):
-    while True:
-        sent = dblp_raw.readline()
-        if not sent:
-            break
-        if sent == '.\n':
-            if len(tmp_doc) != 0:
-                all_doc.append(tmp_doc.replace('\n', ' '))
-            tmp_doc = ''
-        elif sent != '\n':
-            tmp_doc += sent
-
-    #find all sentences
-    all_sent = []
-    for doc in tqdm(all_doc):
-        for sent in doc.split('. '):
-            if len(sent) != 0:
-                all_sent.append(sent)
-
-    #find all tokens
-    all_token = []
-    for sent in tqdm(all_sent):
-        for token in sent.split():
-            if len(token) != 0:
-                all_token.append(token)
-
+    count_d = 0
+    count_s = 0
+    count_t = 0
+    abstract = False
+    doc_len = []
+    sent_len = []
+    token_dict = defaultdict(int)
+    print('  => Checking raw frequency count...')
+    with open(raw_train_fp, 'r') as file:
+        for line in file:
+            if line == '\n' or line == '.\n':
+                continue
+                
+            next_line = next(file, None)
+            if next_line == '\n':
+                abstract = True
+            elif next_line == '.\n':
+                abstract = False
+                count_d += 1
+                
+            s_lst = line.split('. ')
+            count_s += len(s_lst)
+            
+            for sent in s_lst:
+                sent = sent.lower()
+                token_lst = sent.split()
+                token_lst = [t[:-1] if t[-1] in [',', ':', '?', ';', '!'] else t for t in token_lst]
+                
+                token_lst = ''.join(sent).strip().split()
+                count_t += len(token_lst)
+                
+                if abstract == False:
+                    doc_len.append(len(token_lst))
+                else:
+                    doc_len[-1] += len(token_lst)
+                sent_len.append(len(token_lst))
+                
+                for token in token_lst:
+                    token_dict[token] += 1
+                
+            
     df_counts = pd.DataFrame()
     df_counts['Type'] = ['Document', 'Sentence', 'Token']
-    df_counts['Count'] = [len(all_doc), len(all_sent), len(all_token)]
-
+    df_counts['Count'] = [count_d, count_s, count_t] 
+    
     df_doc = pd.DataFrame()
-    #df_doc['Document'] = all_doc
-    df_doc['Document_len'] = [len(doc.split()) for doc in all_doc]
+    df_doc['Document_len'] = doc_len
+    
     df_sent = pd.DataFrame()
-    #df_sent['Sentence'] = all_sent
-    df_sent['Sentence_len'] = [len(sent.split()) for sent in all_sent]
-    #df_token = pd.DataFrame(all_token)
-
+    df_sent['Sentence_len'] = sent_len
+    
     df_counts.to_csv(os.path.join(outdir, 'count_stats.csv'))
     df_doc.to_csv(os.path.join(outdir, 'all_doc.csv'))
     df_sent.to_csv(os.path.join(outdir, 'all_sent.csv'))
-    #df_token.to_csv(os.path.join(outdir, 'all_token.csv'))
-    
-    print('  => Checking token info...')
-    token_count = defaultdict(lambda : 0)
-    for sent in tqdm(all_sent):
-        for token in sent.split():
-            token_count[token] += 1
 
-    token_count_dict = dict(token_count)
+    print('  => Checking token info...')
+    token_count_dict = dict(token_dict)
     token_count_lst = [pair[1] for pair in tqdm(token_count_dict.items())]
     perc_10, perc_25, perc_50, token_mean, perc_75, perc_90, skew_value = np.percentile(token_count_lst, 10), np.percentile(token_count_lst, 25), np.percentile(token_count_lst, 50), np.mean(token_count_lst),np.percentile(token_count_lst, 75), np.percentile(token_count_lst, 90), skew(token_count_lst)
 
