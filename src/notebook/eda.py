@@ -144,8 +144,7 @@ def check_sent_dist(df_sent, outdir):
     for i in tqdm(range(len(sent_length))):
         if sent_length[i] > outlier_cutoff:
             outlier_count += 1
-            if len(outlier_samples) < 20:
-                outlier_samples.append(all_sent[i])
+           
 
     df_sent_stats = pd.DataFrame()
     df_sent_stats['Statistics'] = ['Skewness', 'Percentile_10', 'Percentile_25', 'Percentile_50',
