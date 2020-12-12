@@ -36,12 +36,12 @@ RUN \
     apt-get update && apt-get install -y --force-yes make curl perl
 
 RUN \
-    echo "===> install pip3" && \
+    echo "===> install pip" && \
     apt-get update && apt-get install -y python3-pip
 
 RUN \
     echo "===> install python packages" && \
-    pip3 install pandas numpy seaborn scipy tqdm matplotlib nbformat nbconvert jupyter gensim
+    pip install pandas numpy seaborn scipy tqdm matplotlib nbformat nbconvert jupyter gensim
 
 # Install OpenJDK-8
 RUN apt-get update && \
