@@ -155,49 +155,6 @@ def check_sent_dist(df_sent, outdir):
     df_sent_stats.to_csv(os.path.join(outdir, 'sent_stats.csv'))
 
 
-#def check_token_dist(df_sent, outdir):
-#     print('  => Checking token info...')
-#     all_sent = list(df_sent['Sentence'])
-#     token_count = defaultdict(lambda : 0)
-#     for sent in tqdm(all_sent):
-#         for token in sent.split():
-#             token_count[token] += 1
-
-#     token_count_dict = dict(token_count)
-#     token_count_lst = [pair[1] for pair in tqdm(token_count_dict.items())]
-#     perc_10, perc_25, perc_50, token_mean, perc_75, perc_90, skew_value = np.percentile(token_count_lst, 10), np.percentile(token_count_lst, 25), np.percentile(token_count_lst, 50), np.mean(token_count_lst),np.percentile(token_count_lst, 75), np.percentile(token_count_lst, 90), skew(token_count_lst)
-
-#     in_frequent_tokens = []
-#     all_token_count = []
-
-#     for token_pair in tqdm(token_count_dict.items()):
-#         all_token_count.append(token_pair[1])
-#         if token_pair[1] < 5:
-#             in_frequent_tokens.append(token_pair[0])
-
-
-#     df_all_token = pd.DataFrame()
-#     df_all_token['Count'] = all_token_count
-#     #df_infrequent_token = pd.DataFrame(in_frequent_tokens)
-
-#     df_all_token.to_csv(os.path.join(outdir, 'all_token_counts.csv'))
-#     #df_infrequent_token.to_csv(os.path.join(outdir, 'infrequent_token_counts.csv'))
-
-#     num_infrequent = len(in_frequent_tokens)
-#     infrequent_rate = len(in_frequent_tokens) / len(all_token_count)
-#     num_token = len(all_token_count)
-#     num_frequent = num_token - num_infrequent
-
-#     df_token_stats = pd.DataFrame()
-#     df_token_stats['Statistics'] = ['Skewness', 'Percentile_10', 'Percentile_25', 'Percentile_50',
-#                                   'Percentile_75', 'Percentile_90', 'Mean_Count', 'Num_Infrequent',
-#                                     'Infrequent_Ratio', 'Num_Frequent']
-#     df_token_stats['Value'] = [skew_value, perc_10, perc_25, perc_50, perc_75, perc_90, token_mean,
-#                                num_infrequent, infrequent_rate, num_frequent]
-#     df_token_stats.to_csv(os.path.join(outdir, 'token_stats.csv'))
-   
-
-
 def check_scores(outdir):
     print('  => Checking output quality scores...')
     output_dir = 'data/out/DBLP/'
