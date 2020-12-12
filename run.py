@@ -200,12 +200,14 @@ def run_eda(runtime_status):
     #save version data if testing
     if runtime_status['testing'] == 1:
         os.system('mkdir data/tmp_test')
-        os.system('cp tmp/* data/tmp_test')
+        os.system('cp -r data/tmp/* data/tmp_test/')
 
     cleanup()
 
     if runtime_status['testing'] == 1:
-        os.system('mv data/tmp_test data/tmp')
+        os.system('mkdir data/tmp')
+        os.system('cp -r data/tmp_test/* data/tmp/')
+        os.system('rm -rf data/tmp_test')
 
 
 def main():
