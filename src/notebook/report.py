@@ -31,7 +31,7 @@ def search_single_line(line):
     else:
         return line.split()
 
-def generate_model(data_path, outerdir, outdir,**kwargs):
+def generate_model(outerdir, outdir,**kwargs):
     os.makedirs(outerdir, exist_ok=True)
     os.makedirs(outdir, exist_ok=True)
     
