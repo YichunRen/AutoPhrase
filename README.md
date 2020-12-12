@@ -27,13 +27,14 @@ The writings in the output html file explain the statistics of DBLP.txt dataset 
 python run.py eda
 ```
 ### Target 4: Run Report 
-- Note: Report requires manual labeling high-quality phrases. The result CSV file for DBLP.txt is stored in references directory and the result CSV file for test_raw.txt is stored in test directory.
+- Note: 
+  - Report requires manual labeling high-quality phrases. The result CSV file for DBLP.txt is stored in references directory and the result CSV file for test_raw.txt is stored in test directory.
 - The writings in the output html file explain and investigate AutoPhrase results of DBLP.txt dataset. Only look the graphs/tables if you use another dataset.
 ```
 python run.py report
 ```
 ### Target 5: Test All previous targets on test data
-Note: For the test run, data versions will be recorded in data directory.
+Note: For the test run, raw test data is in test/testdata directory.
 ```
 python run.py test
 ```
