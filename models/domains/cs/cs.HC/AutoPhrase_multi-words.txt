@@ -1,0 +1,6331 @@
+0.9685390703	decision tree
+0.9654659151	collaborative filtering
+0.9628469794	reinforcement learning
+0.9619012460	programming languages
+0.9618130446	mixed reality
+0.9617655296	software engineering
+0.9597071445	social media
+0.9595287267	ubiquitous computing
+0.9593459101	neural networks
+0.9589179090	affective computing
+0.9587928784	hidden markov models
+0.9571925829	web browser
+0.9570086235	visual analytics
+0.9564623221	cognitive load
+0.9564128919	virtual worlds
+0.9560478124	augmented reality
+0.9544931901	high fidelity
+0.9543547929	natural language
+0.9539452138	neural network
+0.9538554802	humanoid robot
+0.9537754301	gesture recognition
+0.9533303835	natural language processing
+0.9530201895	recommender systems
+0.9524119470	support vector machine
+0.9523212364	smart home
+0.9522501022	heart rate
+0.9518466463	principal component analysis
+0.9513766248	developing countries
+0.9513028410	cyber security
+0.9507502135	decision trees
+0.9504722844	support vector machines
+0.9501530080	error rate
+0.9499093684	robotic arm
+0.9498453735	touch screen
+0.9497126565	computational intelligence
+0.9496254389	knowledge base
+0.9495657605	individual differences
+0.9493815568	eye contact
+0.9489437810	literature review
+0.9489326891	exploratory search
+0.9486170047	home automation
+0.9482552095	facial expression
+0.9481076720	amazon mechanical turk
+0.9480440576	random forest
+0.9480137694	hidden markov model
+0.9479177609	social networking
+0.9476899692	virtual reality
+0.9474111721	collective intelligence
+0.9473308811	source code
+0.9471582783	recurrent neural network
+0.9470727813	musical instrument
+0.9467842861	linear regression
+0.9462920699	convolutional neural network
+0.9461126333	mental workload
+0.9456982004	smart phones
+0.9450866367	deep learning
+0.9443714767	automatic speech recognition
+0.9443337952	sentiment analysis
+0.9443119149	eye tracking
+0.9440414426	autonomous driving
+0.9432626107	wearable sensors
+0.9432529731	risk assessment
+0.9428616824	head movement
+0.9428416806	citizen science
+0.9428099138	deep neural networks
+0.9425108202	markov chain
+0.9423837546	dimensionality reduction
+0.9423465244	health care
+0.9417470638	information retrieval
+0.9414656510	signal processing
+0.9413520612	cultural heritage
+0.9412633602	world wide web
+0.9412141775	graphical user interface
+0.9411344707	autonomous vehicle
+0.9407520681	mobile phone
+0.9405962304	artificial intelligence
+0.9405788074	eye gaze
+0.9403073739	autonomous vehicles
+0.9402469923	mobile phones
+0.9397292802	emotion recognition
+0.9394249905	differential privacy
+0.9389983295	grounded theory
+0.9389963494	humanoid robots
+0.9383897605	anomaly detection
+0.9383420392	mental health
+0.9379911890	direct manipulation
+0.9377486353	power law
+0.9373955702	logistic regression
+0.9373455842	electronic health records
+0.9372781097	immersive analytics
+0.9372040083	graph drawing
+0.9371996537	feature extraction
+0.9370187728	convolutional neural networks
+0.9369598489	spoken language
+0.9368578877	sensor fusion
+0.9363062644	question answering
+0.9360683508	conversational agent
+0.9359219843	heart rate variability
+0.9358569620	socially assistive
+0.9357888384	recurrent neural networks
+0.9357321691	smart cities
+0.9355139941	speech recognition
+0.9354392700	head movements
+0.9353497587	resource allocation
+0.9352668759	sign language
+0.9349905451	high school
+0.9349262787	young children
+0.9346748020	web browsing
+0.9343419323	public health
+0.9343399968	eeg signals
+0.9343304436	bluetooth low energy
+0.9341851589	risk management
+0.9341847744	user interfaces
+0.9340757778	signal strength
+0.9339780655	pose estimation
+0.9337780556	counterfactual explanations
+0.9334591155	turing test
+0.9333347893	text entry
+0.9333140657	smart watch
+0.9333047081	deep neural network
+0.9332748511	live streaming
+0.9330504992	open source software
+0.9325543489	medical imaging
+0.9324510727	big data
+0.9322660095	search engine
+0.9322361101	conflict resolution
+0.9320544571	gaze estimation
+0.9318756177	google glass
+0.9318336454	activity recognition
+0.9313691134	autism spectrum disorder
+0.9306477489	gene expression
+0.9305847357	mobile apps
+0.9303719823	google play
+0.9302640446	web browsers
+0.9298837167	dark patterns
+0.9298465194	exploratory data analysis
+0.9295046346	head mounted display
+0.9288597389	smart homes
+0.9287533169	mental states
+0.9285402153	social networks
+0.9283407654	machine learning
+0.9283247730	motor imagery
+0.9283030844	data science
+0.9279318552	multi party
+0.9279065979	general data protection regulation
+0.9278792627	recurrent neural
+0.9277076305	generative adversarial networks
+0.9275932665	usability testing
+0.9271693221	older adults
+0.9264353886	research agenda
+0.9262769028	smart phone
+0.9261372048	haptic rendering
+0.9260168748	playback speed
+0.9255934398	case study
+0.9255031184	haptic feedback
+0.9253393273	eye movements
+0.9250953611	situational awareness
+0.9248714548	virtual environment
+0.9248315693	problem solving
+0.9248085666	wearable device
+0.9246564329	air quality
+0.9245207901	human factors
+0.9241177853	physical activity
+0.9238373594	social commerce
+0.9237502163	human computation
+0.9232930176	explainable ai
+0.9232277227	advanced driver assistance systems
+0.9231795297	continuous affect prediction
+0.9229988762	feature selection
+0.9226559792	higher education
+0.9224897240	command line
+0.9224703444	conversational agents
+0.9224106122	mechanical turk
+0.9222512796	physiological signals
+0.9217849316	microsoft kinect
+0.9215346781	eye movement
+0.9213623443	musical instruments
+0.9212289156	force feedback
+0.9206225886	game mechanics
+0.9206039208	long short term memory
+0.9205793314	foreign language
+0.9205226057	privacy concerns
+0.9203637824	air pollution
+0.9203271925	ground truth
+0.9202831722	generative adversarial
+0.9198584330	internal states
+0.9196569422	deep convolutional neural networks
+0.9193773512	game engine
+0.9187831958	smart city
+0.9186283569	hand pose estimation
+0.9184469243	steady state
+0.9181134737	brain waves
+0.9180858602	artificial neural networks
+0.9180339802	personality traits
+0.9179459546	cloud computing
+0.9178872118	galvanic skin
+0.9177827424	future directions
+0.9177489773	active learning
+0.9177296050	peer review
+0.9176721530	systematic literature review
+0.9176010563	digital library
+0.9172572698	peer production
+0.9171943149	spoken dialogue
+0.9167543222	profile pictures
+0.9161949964	contact tracing
+0.9159884190	thermal imaging
+0.9158411378	social network
+0.9155741389	online deliberation
+0.9155120387	thermal comfort
+0.9151605420	user authentication
+0.9149385834	expert interviews
+0.9148903752	early stage
+0.9137183959	user interface
+0.9135679876	assistive technology
+0.9134782683	decision making
+0.9134469156	context aware
+0.9132136641	participatory design
+0.9131158372	rapid prototyping
+0.9130262694	information processing
+0.9129796973	theorem provers
+0.9129412189	mobile computing
+0.9128056917	low fidelity
+0.9127548501	robot arm
+0.9127438947	data acquisition
+0.9126778877	facial action units
+0.9126316580	data mining
+0.9125914231	instant messaging
+0.9122852364	transfer learning
+0.9121039864	science fiction
+0.9120194766	usability issues
+0.9119945116	fake news
+0.9119735064	behavior change
+0.9113651012	pervasive computing
+0.9113388803	visual search
+0.9112533691	empirical studies
+0.9107201484	low cost
+0.9106623470	home appliances
+0.9103591914	convolutional neural
+0.9102195807	amazon echo
+0.9096599316	alexa prize
+0.9092193271	emergency response
+0.9090749499	eye blink
+0.9085433339	object oriented
+0.9084949636	automated vehicles
+0.9084026178	social science
+0.9083397693	hand gesture recognition
+0.9078883941	web sites
+0.9077691538	situation awareness
+0.9074218071	electrodermal activity
+0.9073515650	privacy preserving
+0.9073160795	attention mechanism
+0.9071964006	graphical user interfaces
+0.9069681371	virtual agents
+0.9065066537	domain specific
+0.9064737884	monte carlo
+0.9064016412	usability evaluation
+0.9059048072	facial expressions
+0.9053709367	event sequences
+0.9050273578	scatter plots
+0.9048660774	web page
+0.9047800694	microsoft hololens
+0.9046702708	virtual environments
+0.9044495871	bayesian inference
+0.9043331328	information seeking
+0.9040841534	user experience
+0.9040086876	point clouds
+0.9038134001	success factors
+0.9037894402	track xplorer
+0.9037881379	smart glasses
+0.9034609685	emotion detection
+0.9033564524	driver drowsiness
+0.9033250758	action recognition
+0.9028862717	energy harvesting
+0.9028628517	hand gestures
+0.9027921825	upper body
+0.9027868948	imagined speech
+0.9027367213	driving simulator
+0.9026910962	kinect sensor
+0.9025139990	pilot study
+0.9024090844	deep reinforcement learning
+0.9022716461	saliency maps
+0.9019851265	programming language
+0.9015277154	black box
+0.9014018459	quality control
+0.9009417718	everyday life
+0.9008757853	mobile crowd sensing
+0.9008631548	support vector
+0.9008309215	photo sharing
+0.9006954664	pgx cds
+0.9003479483	question pools
+0.9003124667	f1 score
+0.9000716942	social distancing
+0.8998754289	mobile device
+0.8996387121	digital nudging
+0.8995318312	heuristic evaluation
+0.8993543458	digital libraries
+0.8990485874	breast cancer
+0.8989541556	wearable devices
+0.8988791176	healthy eating
+0.8988121940	semi automated
+0.8987424567	consumer grade
+0.8987128647	cell phone
+0.8986664090	open online courses
+0.8982669248	dialogue systems
+0.8981679218	affect recognition
+0.8979540292	high dimensional
+0.8979142462	automatically generated
+0.8978921515	head mounted
+0.8978222764	upper limb
+0.8977690791	video game
+0.8975737310	mental state
+0.8972673990	red packets
+0.8968629529	online community
+0.8968420641	intelligent systems
+0.8967753574	spreadsheet errors
+0.8965935791	user acceptance
+0.8963543065	parallel coordinates
+0.8961387574	semi autonomous
+0.8961083448	semi automatic
+0.8960777489	random forests
+0.8960597606	open access
+0.8958426433	small multiples
+0.8958241830	intelligent tutoring
+0.8955838820	markov decision
+0.8953130817	incentive mechanisms
+0.8946928241	web search
+0.8944798194	web pages
+0.8942522715	autonomous systems
+0.8940599327	search engines
+0.8938734499	machine translation
+0.8937209549	hand gesture
+0.8935637614	object detection
+0.8930442337	voice controlled
+0.8925095304	user engagement
+0.8924595105	pocket code
+0.8923981379	user generated content
+0.8922517157	knowledge transfer
+0.8918475285	topic modeling
+0.8915814172	health behavior change
+0.8914155181	design patterns
+0.8912148225	personal assistants
+0.8906690040	shared control
+0.8898129999	psychophysiology primer
+0.8894083931	emotion classification
+0.8888848729	mental models
+0.8888425325	generative models
+0.8887663960	correlation analysis
+0.8887540292	bar charts
+0.8886834372	automated vehicle
+0.8886822429	human mobility
+0.8886629313	factors affecting
+0.8884060339	mobile app
+0.8881524048	floor plans
+0.8880088361	low power
+0.8879531296	theorem proving
+0.8877349560	event sequence
+0.8875383183	personal information
+0.8873887955	student learning
+0.8872828588	privacy policies
+0.8872603233	human intelligence
+0.8871862323	p300 speller
+0.8863376647	head mounted displays
+0.8861939625	exploratory analysis
+0.8861648354	knowledge management
+0.8860962792	decision makers
+0.8851972949	blood pressure
+0.8851890203	battery life
+0.8846995273	social interactions
+0.8844283779	supervised learning
+0.8843759099	user satisfaction
+0.8842548690	social computing
+0.8842093642	decision support
+0.8838817132	depth perception
+0.8838296709	iot devices
+0.8833794033	mobile health
+0.8831384643	crowd sourced
+0.8831095086	graph visualization
+0.8830743993	virtual world
+0.8828345353	event related potentials
+0.8826051950	open domain
+0.8825643136	building blocks
+0.8824431007	road safety
+0.8823283942	event related potential
+0.8822772887	autonomous cars
+0.8820785310	data exploration
+0.8820545293	shoulder surfing
+0.8818698086	dialogue management
+0.8815142271	lessons learned
+0.8814731633	domain adaptation
+0.8812876540	assistive robots
+0.8807871811	eye trackers
+0.8806876078	working memory
+0.8806852784	learning management systems
+0.8803766409	mobile sensing
+0.8800505786	minimally invasive
+0.8796519002	induced impairments
+0.8794287609	visual programming
+0.8791833036	multi class
+0.8791121762	pervasive games
+0.8789938616	motor learning
+0.8787471629	gaze direction
+0.8786328756	majority voting
+0.8784119175	information extraction
+0.8784051521	multi touch
+0.8782555274	end user computing
+0.8781554194	software developers
+0.8775027262	multi person
+0.8770665337	goal directed
+0.8769192353	exploratory study
+0.8763764172	internet access
+0.8762737377	social influence
+0.8762199094	natural language understanding
+0.8755322794	web application
+0.8753770133	word embeddings
+0.8751246062	crowd powered
+0.8750938292	software development
+0.8750440390	touch screens
+0.8749689826	input device
+0.8747717066	wrist worn
+0.8747560914	social robots
+0.8740588880	multi view
+0.8740529057	speech synthesis
+0.8738283130	wi fi
+0.8736658360	social welfare
+0.8735274942	gender bias
+0.8734884145	multi modal
+0.8733866639	mi bci
+0.8725053445	affective states
+0.8723356261	human centered
+0.8722686795	mobile robot
+0.8721177907	autism spectrum
+0.8721018818	open source
+0.8718972002	steady state visual evoked
+0.8717269970	human activity recognition
+0.8714825682	eyes free
+0.8713114477	haptic guidance
+0.8712788960	daily life
+0.8710117828	domain experts
+0.8703010223	multimodal interaction
+0.8701646432	voice assistants
+0.8698832204	english language
+0.8695524620	food journaling
+0.8695132054	multi agent
+0.8694379197	security questions
+0.8683217888	line charts
+0.8681574580	task allocation
+0.8678132224	ai systems
+0.8670971212	crowdsourcing systems
+0.8670401700	motion planning
+0.8666572768	rule based
+0.8664037040	peer assessment
+0.8663805097	spatio temporal
+0.8661313258	massive open online
+0.8656892754	data driven
+0.8656064132	visuo haptic
+0.8655087694	intelligent tutoring systems
+0.8653015147	conceptual framework
+0.8651531887	browsing behavior
+0.8651348363	game jams
+0.8650514969	cyber physical
+0.8650464171	design principles
+0.8650362695	information visualization
+0.8649511219	objective function
+0.8649011319	bio sensing
+0.8648712106	bci speller
+0.8643289219	motion capture
+0.8643027501	crowdsourcing platform
+0.8640474507	machine intelligence
+0.8638510277	open data
+0.8636381447	predictive models
+0.8636002523	virtual reality headset
+0.8635591525	head pose
+0.8633799025	choropleth maps
+0.8628997597	error rates
+0.8628105579	mutual information
+0.8627551183	sign language recognition
+0.8626016381	user centred
+0.8623364518	feedback loop
+0.8621932145	energy efficiency
+0.8619332760	student engagement
+0.8619164557	hidden markov
+0.8615813256	game design
+0.8614458910	human activity
+0.8612355124	learning analytics
+0.8610177626	socio technical
+0.8609828225	gaze tracking
+0.8605594944	breathing rate
+0.8602401171	cognitive science
+0.8601950875	ad hoc
+0.8601607379	search tasks
+0.8601174778	user behaviour
+0.8600835722	input methods
+0.8599728948	multi scale
+0.8599019886	behavioral patterns
+0.8598300697	speech emotion recognition
+0.8598099996	hand movement
+0.8596228011	dynamic time warping
+0.8595308609	longitudinal study
+0.8595158100	image analysis
+0.8594926534	mid air
+0.8594481091	mixed initiative
+0.8592688826	path planning
+0.8591262292	multi turn
+0.8591062288	sensor data
+0.8590519648	free form
+0.8590399310	binary classification
+0.8589880516	networking sites
+0.8586431313	information security
+0.8585999382	vision based
+0.8585895397	online games
+0.8581110525	frequency domain
+0.8580045402	valence arousal
+0.8579488842	brain signals
+0.8579320400	interactive visualization
+0.8578999878	medical diagnosis
+0.8578811343	cross cultural
+0.8575513647	immersive virtual reality
+0.8575395754	node link
+0.8573290157	smart healthcare
+0.8569006363	end user
+0.8564825118	motion tracking
+0.8563483361	implicit feedback
+0.8560846215	data visualizations
+0.8559149948	object manipulation
+0.8554450039	multimodal emotion recognition
+0.8552290883	participatory sensing
+0.8550870720	gold standard
+0.8550606498	image segmentation
+0.8548910918	knowledge graph
+0.8548075147	game development
+0.8547159622	linked data
+0.8545696554	context awareness
+0.8542222228	wide angle
+0.8539656302	human body
+0.8539172891	multi label
+0.8535012558	user preferences
+0.8534624706	multiple choice
+0.8530172044	bi directional
+0.8530038211	multi faceted
+0.8523375924	iterative design process
+0.8521272807	voice commands
+0.8519478502	user centered design
+0.8517631509	driving intentions
+0.8516379217	high speed
+0.8516276811	human machine
+0.8515002981	sequence analysis
+0.8514411638	artificial agents
+0.8513961799	software design
+0.8512917103	large scale
+0.8512772975	user centered
+0.8510504313	goal oriented
+0.8507648204	web applications
+0.8507503669	natural images
+0.8504939961	mobile game
+0.8502901300	hands free
+0.8502722471	low dimensional
+0.8499914089	human robot cooperation
+0.8496649624	hand pose
+0.8495430472	learning environment
+0.8494305252	usability study
+0.8491793750	task oriented
+0.8491513016	video games
+0.8490688687	manual annotation
+0.8489128103	empirical evidence
+0.8488543216	medium sized
+0.8487317363	knowledge representation
+0.8486187955	gait analysis
+0.8480688063	access control
+0.8477800914	face recognition
+0.8475768997	touchscreen devices
+0.8474385900	semi supervised
+0.8472774763	virtual assistant
+0.8471784527	intensive care
+0.8469959142	automated driving
+0.8469786297	program comprehension
+0.8465867562	location based
+0.8465076755	representation learning
+0.8464772221	software engineers
+0.8464187397	quality assessment
+0.8461380846	user generated
+0.8460901915	recent advances
+0.8458802032	virtual body
+0.8456589119	visual presentation
+0.8455096815	design considerations
+0.8444893475	management systems
+0.8444589144	field tests
+0.8444488502	collaborative tasks
+0.8444447787	human robot interaction
+0.8444199946	information theoretic
+0.8443698864	mental model
+0.8442588276	machine generated
+0.8441443887	scientific papers
+0.8440833638	encoder decoder
+0.8438419231	social bots
+0.8436585540	text input
+0.8436348098	united states
+0.8435782522	immersive environments
+0.8435064695	visualization design
+0.8432187696	human robot collaboration
+0.8430054734	advanced driver assistance
+0.8425190235	gaze information
+0.8424635320	collaborative learning
+0.8424338500	cognitive workload
+0.8417766179	health monitoring
+0.8417544691	multi sensory
+0.8416692295	crowdsourced labels
+0.8415443200	conversational systems
+0.8414357062	attention level
+0.8413947499	interview study
+0.8413699654	common sense
+0.8412081978	multi task
+0.8411564279	research directions
+0.8411514138	multi objective
+0.8410925609	robotic systems
+0.8409123771	learning environments
+0.8407820078	social robot
+0.8406958976	data visualization
+0.8406296316	knowledge workers
+0.8405093700	sign language translation
+0.8403039892	cyber attacks
+0.8402903830	cluster analysis
+0.8401059642	network visualization
+0.8398622806	remote control
+0.8395015649	objective optimization
+0.8393009385	human feedback
+0.8392640591	daily living
+0.8391838889	brain computer interfacing
+0.8391541218	digital traces
+0.8384896131	design studio
+0.8384057960	web interface
+0.8383261906	interactive visual
+0.8382053183	interval valued
+0.8379813896	brain computer interfaces
+0.8377601223	task assignment
+0.8375795208	information technology
+0.8375196612	social context
+0.8373847279	health interventions
+0.8370799366	data scientists
+0.8367623542	multi channel
+0.8362769386	smartphone usage
+0.8361314546	visual analysis
+0.8358426271	gaze behavior
+0.8357427487	adversarial examples
+0.8353521496	text generation
+0.8351133399	eye tracker
+0.8350020019	driver behavior
+0.8349091979	usage data
+0.8346760385	rating systems
+0.8344291395	algorithmic decision making
+0.8343419961	conversational style
+0.8343396307	web based
+0.8343006348	security apis
+0.8338959297	inertial measurement
+0.8338248253	interactive music
+0.8338218522	road users
+0.8337936598	human agent
+0.8335971382	single switch
+0.8332079391	camera based
+0.8331453130	knowledge graphs
+0.8330116898	language learning
+0.8329613890	web content
+0.8325388704	human robot interactions
+0.8318880693	agent based
+0.8317379574	closed loop
+0.8316390171	cost effective
+0.8315586971	significantly outperforms
+0.8314996075	user behaviors
+0.8314631118	wearable sensor
+0.8314450451	input output
+0.8312772841	socio cognitive
+0.8312666936	pattern recognition
+0.8312598363	social web
+0.8312367431	interface design
+0.8311319565	human error
+0.8310465708	environmental factors
+0.8308016641	mathematical model
+0.8306195973	multi user
+0.8305131181	adaptive learning
+0.8301575493	user trust
+0.8301430793	audio visual
+0.8298404090	tactile display
+0.8295491066	interactive systems
+0.8294813623	content generation
+0.8291250380	design guidelines
+0.8290955979	imitation learning
+0.8290197885	university students
+0.8289062171	data collection
+0.8286723274	transformer based
+0.8285121239	soft keyboard
+0.8281690555	conversational search
+0.8280407275	dialog systems
+0.8280056383	online learning
+0.8279218590	image guided
+0.8276748182	negative emotions
+0.8273280662	computational model
+0.8272605501	cross modal
+0.8271861181	keystroke dynamics
+0.8269709177	manipulation tasks
+0.8269584117	life cycle
+0.8268379066	machine teaching
+0.8268223454	human centred
+0.8263043229	interactive machine learning
+0.8261156861	machine interface
+0.8260695205	clustering analysis
+0.8255738596	hci research
+0.8254715007	subjective experience
+0.8254340581	predictive model
+0.8253040012	energy efficient
+0.8251919057	eye fixation
+0.8248607851	machine interfaces
+0.8247157883	smart speakers
+0.8246438981	brain computer interface
+0.8243645576	response times
+0.8239301850	energy consumption
+0.8237952148	crowdsourcing platforms
+0.8236687251	usage patterns
+0.8236667133	high dimensional data
+0.8232430274	mobile augmented reality
+0.8228634857	cross validation
+0.8226645340	field experiment
+0.8225268068	decision maker
+0.8220525424	power consumption
+0.8217441442	first person shooter
+0.8216528912	product development
+0.8215108230	urban design
+0.8213624921	user attention
+0.8212240687	cognitive biases
+0.8212135673	field experiments
+0.8209458573	personalized learning
+0.8207592339	deception detection
+0.8206476014	network traffic
+0.8205980688	human collective
+0.8205271017	cyber physical systems
+0.8204874390	machine learning systems
+0.8198180900	general purpose
+0.8196856498	mobile learning
+0.8194193363	facial expression recognition
+0.8193850945	privacy risks
+0.8193818200	information management
+0.8193038825	prior knowledge
+0.8192739438	graph layout
+0.8192303194	speaker identification
+0.8192106358	adaptive interface
+0.8188548551	task completion
+0.8185238924	previous works
+0.8184377349	end user development
+0.8183643318	context dependent
+0.8182985507	dynamic networks
+0.8180956642	ui design
+0.8179592090	usability scale
+0.8174616472	child robot
+0.8172754636	human robot teaming
+0.8172338789	autonomous agents
+0.8170333999	reward function
+0.8169188736	skill levels
+0.8168108934	smartphone users
+0.8167541543	intelligent agents
+0.8166102251	pre trained
+0.8164836894	open ended
+0.8163973651	social sciences
+0.8163280330	player model
+0.8162702718	pre processing
+0.8160964076	haptic interaction
+0.8159943115	graph exploration
+0.8158379702	mobile technology
+0.8157780476	daily activities
+0.8157281153	visual question
+0.8154781078	predictive power
+0.8154695797	personal data
+0.8152196114	online labor
+0.8150360943	common ground
+0.8149381043	mobile devices
+0.8146338860	gesture generation
+0.8145027077	architectural design
+0.8143164415	probability distribution
+0.8135248950	mouse movement
+0.8135226805	long short term
+0.8129461985	experience sampling
+0.8127660084	clinical decision
+0.8127126131	assistive technologies
+0.8126564080	indoor environment
+0.8124333701	software tool
+0.8124264484	lane change
+0.8123048667	formal methods
+0.8122051661	feature learning
+0.8118183352	formal models
+0.8118139296	human robot
+0.8117078307	appearance based
+0.8116908898	user modelling
+0.8113856363	development environment
+0.8113397535	affective state
+0.8112641254	domain expertise
+0.8112377613	driving experience
+0.8111941000	electronic devices
+0.8109432674	visual question answering
+0.8106013962	text analysis
+0.8104988322	complex tasks
+0.8104102506	negative effects
+0.8103927631	subject matter
+0.8103842027	iot device
+0.8103453606	service providers
+0.8103034460	loss function
+0.8102074695	starting point
+0.8101396169	visualization research
+0.8100376338	mouse cursor
+0.8098852158	information foraging
+0.8098234653	lstm based
+0.8098157937	small group
+0.8094999594	visually impaired
+0.8094660991	ai assisted
+0.8094268501	error prone
+0.8094201128	exploration process
+0.8090924486	event sequence data
+0.8090781504	enabling rapid
+0.8089078208	widespread adoption
+0.8087339229	peer reviewed
+0.8083348568	visual evoked potential
+0.8078157121	robot team
+0.8075628322	high stakes
+0.8073893088	user feedback
+0.8070376543	ultimate goal
+0.8070210918	crowd workers
+0.8067811140	emotional state
+0.8067526075	human uncertainty
+0.8066288937	crowd sourcing
+0.8066226645	semantic web
+0.8065066276	context sensitive
+0.8064683322	data management
+0.8064349641	user interface design
+0.8059682733	user friendly
+0.8058847645	social ties
+0.8058797603	recommendation systems
+0.8058547848	multi level
+0.8057444717	evoked potential
+0.8056952127	robotic agent
+0.8055606366	real life
+0.8053822468	human eye
+0.8052072184	body movements
+0.8051902054	dynamic graphs
+0.8050994448	specialized hardware
+0.8050081994	frame rate
+0.8049900586	human machine interactions
+0.8044428229	app usage
+0.8044186251	main results
+0.8043134044	social cues
+0.8042798757	image retrieval
+0.8040541151	pre defined
+0.8038967035	conversational ai
+0.8037567844	information sharing
+0.8034027471	online courses
+0.8032176703	everyday activities
+0.8031340829	years ago
+0.8031096073	event related
+0.8026542483	high resolution
+0.8026051956	behavioral cues
+0.8026009804	human machine interface
+0.8021903340	educational systems
+0.8021473915	evaluation metric
+0.8021189984	collaborative research
+0.8021177214	human centric
+0.8021059917	great potential
+0.8017981356	human machine interaction
+0.8016518764	language models
+0.8014880974	robot assisted
+0.8014184771	deep convolutional
+0.8012629532	tangible interaction
+0.8012237186	model agnostic
+0.8011730816	natural language interface
+0.8008239224	deep learning models
+0.8006144653	vr experience
+0.8004047740	eeg based
+0.8003772602	central role
+0.8002796396	information theory
+0.8001626883	image processing
+0.8001409839	tagging systems
+0.7997145769	virtual objects
+0.7993870407	form factor
+0.7993819251	human action recognition
+0.7993695352	human trust
+0.7992312377	driver assistance
+0.7991227208	game based
+0.7990954907	cognitive abilities
+0.7990360585	post hoc
+0.7989533463	gaining popularity
+0.7988279085	data quality
+0.7985578011	structured interviews
+0.7983534918	everyday lives
+0.7983181917	intention recognition
+0.7978605152	remains unclear
+0.7977994480	spatial pattern
+0.7977974638	significant differences
+0.7977889445	subjective measures
+0.7976773335	mobile ir
+0.7975304658	application domains
+0.7974962382	interaction paradigms
+0.7974324397	gui based
+0.7971806980	human judgment
+0.7970730113	assistance systems
+0.7968300997	key factors
+0.7968071465	widely adopted
+0.7963917933	brain responses
+0.7961188783	authoring tools
+0.7959843433	ar vr
+0.7957077411	case studies
+0.7956176607	feed forward
+0.7952836484	design study
+0.7951435692	emotional states
+0.7949193216	statistically significant
+0.7948562060	video chat
+0.7946941467	two factor authentication
+0.7943582783	crowdsourced data
+0.7942417144	movement behavior
+0.7941761790	geographic information
+0.7939118376	context information
+0.7936613436	current practices
+0.7936428306	peer learning
+0.7934495228	user interactions
+0.7933897011	subject specific
+0.7928860105	visual query
+0.7927802002	wide adoption
+0.7924734977	viewing angle
+0.7924549314	design pattern
+0.7924231863	inter subject
+0.7924082617	ontology based
+0.7923603671	software agents
+0.7921354681	feature sets
+0.7920638430	tactile feedback
+0.7917027647	domain knowledge
+0.7916623253	visual comparison
+0.7916611219	ambulatory psychophysiology
+0.7915608291	deep reinforcement
+0.7915344276	multi dimensional
+0.7914738917	clinical practice
+0.7912717049	person specific
+0.7911009656	physics based
+0.7908621914	ai enabled
+0.7908514977	eye tracking data
+0.7908397998	emotion aware
+0.7908084533	human interaction
+0.7905948476	neural network model
+0.7904828552	facial action
+0.7904126790	ssvep based
+0.7901467438	emotional valence
+0.7901463096	multimodal approach
+0.7900620196	main contributions
+0.7899172051	emerging technologies
+0.7896272325	fine grained
+0.7895767119	interaction logs
+0.7895564286	interactive visualizations
+0.7894614765	educational game
+0.7889836002	chronic diseases
+0.7886580203	fine tuning
+0.7886253406	light weight
+0.7884468975	visual appearance
+0.7884060882	social presence
+0.7883635853	news articles
+0.7883336066	ai teams
+0.7882343215	takes place
+0.7879943292	body gestures
+0.7878834168	online social media
+0.7877945454	spatial auditory
+0.7877107791	success rate
+0.7873761559	reality environment
+0.7868614291	language processing
+0.7868170296	physical objects
+0.7863907789	inter rater
+0.7862481621	human ai
+0.7861902461	media platforms
+0.7859387625	visual analytic
+0.7859099361	novice users
+0.7856851077	facial affect
+0.7847874050	ground truth labels
+0.7844913537	node link diagrams
+0.7843980017	blind users
+0.7841288974	network based
+0.7841173590	mining techniques
+0.7839460948	neural network architecture
+0.7837312107	parameter space
+0.7835655028	gaze tracker
+0.7832977388	automatic recognition
+0.7829824992	short term memory
+0.7824454981	mediated communication
+0.7823356079	daily lives
+0.7822678605	extensive experiments
+0.7822213752	interactive visualization tool
+0.7820178097	human swarm
+0.7819323696	automatically generating
+0.7816743832	large datasets
+0.7815301987	information systems
+0.7813945383	social media platforms
+0.7813492229	controlled interfaces
+0.7811753661	spatial temporal
+0.7810972117	immersive environment
+0.7807404309	short term
+0.7806705918	multi device
+0.7806392708	word level
+0.7804849175	` `
+0.7804309910	voice input
+0.7802834337	human beings
+0.7802525137	semi structured
+0.7801752612	language understanding
+0.7798708679	utility function
+0.7798468175	ui elements
+0.7798279805	potential benefits
+0.7795100279	hand crafted
+0.7792488493	semi structured interviews
+0.7789326185	crowdsourcing tasks
+0.7785117007	skill level
+0.7782108151	brain signal
+0.7779782414	personal health
+0.7778608777	auditory icon
+0.7776574469	user studies
+0.7776365920	healthy subjects
+0.7775191741	task execution
+0.7772166576	subjective evaluation
+0.7768551340	medical images
+0.7768007874	task difficulty
+0.7767711657	cloud based
+0.7767434213	security awareness
+0.7761858842	affect sensing
+0.7757155338	speech driven
+0.7751688404	smartphone based
+0.7748957032	inertial sensors
+0.7746248462	shot learning
+0.7743980364	component analysis
+0.7742191158	visual stimuli
+0.7741818205	small scale
+0.7729831513	eeg signal
+0.7727837111	literature reviews
+0.7726720919	deep generative
+0.7720231157	robo taxi
+0.7720113024	amazon mechanical
+0.7716024819	benchmark dataset
+0.7714035618	visual impairments
+0.7709880325	long term
+0.7708080377	audio features
+0.7707375181	cognitive model
+0.7707299494	family members
+0.7704580576	verbal cues
+0.7704507890	expression recognition
+0.7703514896	multiplayer online
+0.7703268300	gaze based
+0.7702789602	hand held
+0.7699404465	online social
+0.7695657078	team performance
+0.7693393664	fully autonomous
+0.7692456483	user modeling
+0.7691920660	statistical analysis
+0.7691566850	action units
+0.7690804117	human drone
+0.7686927582	multi sensor
+0.7682099751	software crowdsourcing
+0.7681778017	taking place
+0.7676659182	cognitive processes
+0.7676370368	research challenges
+0.7676026773	user centric
+0.7670323902	visualization designs
+0.7668984415	image based
+0.7668971149	technical report
+0.7667243690	user interaction
+0.7666313088	visualization tools
+0.7665463544	motor imagery based
+0.7663757165	tree search
+0.7661246445	upper bound
+0.7660114190	hazard recognition
+0.7659586138	social media sites
+0.7658162637	deep learning approach
+0.7655354446	autonomous robots
+0.7653099489	semantic information
+0.7649400867	user reviews
+0.7646602065	high level
+0.7646224813	dialogue generation
+0.7645333589	mobile ar
+0.7644527462	voice based
+0.7641417131	design opportunities
+0.7638957805	automatically generates
+0.7636607141	recent years
+0.7636505043	feature values
+0.7636097626	affect prediction
+0.7633716228	low level
+0.7631666257	decision making processes
+0.7629019114	quantitative analysis
+0.7626956358	free text
+0.7623832954	immersive vr
+0.7623649909	machine learning models
+0.7621351107	collaborative search
+0.7620759563	mixed methods
+0.7620366699	vr ar
+0.7618167972	conceptual model
+0.7613710590	significantly higher
+0.7613379128	multi player
+0.7606761554	language generation
+0.7605663786	video based
+0.7605147731	multi platform
+0.7601464979	virtual agent
+0.7600877548	experimental evaluation
+0.7600502781	feature set
+0.7597805485	social robotics
+0.7592077050	analytics tool
+0.7586765562	human computer interaction
+0.7584334298	low quality
+0.7582313190	health concerns
+0.7579344546	intelligent transportation
+0.7576747448	heterogeneous data
+0.7574522634	object recognition
+0.7567598972	social interaction
+0.7566569013	integrated development
+0.7561872653	data analysis
+0.7561800272	brain activity
+0.7558570583	visually impaired users
+0.7555781854	electronic health
+0.7554539649	interaction paradigm
+0.7552138817	gaze controlled
+0.7547723114	positive impact
+0.7544939426	machine interaction
+0.7540650988	software architecture
+0.7534793352	coarse grained
+0.7534710129	multi domain
+0.7534361204	hybrid approach
+0.7533127178	controlled natural
+0.7530045448	paper argues
+0.7529782642	ml models
+0.7528927052	multimodal features
+0.7528838534	open challenges
+0.7524188874	machine learning model
+0.7521735478	network analysis
+0.7521194472	activities of daily living
+0.7520827586	support tools
+0.7518828974	significantly improved
+0.7517476822	data sets
+0.7515778458	multiple modalities
+0.7512786004	temporal features
+0.7511336121	recent studies
+0.7505851500	key idea
+0.7503675358	regression models
+0.7498984801	multi robot
+0.7491591862	speech controlled
+0.7491113685	communication technologies
+0.7489025252	wearable haptic
+0.7482940116	driving performance
+0.7480137028	ai driven
+0.7478574928	continuous emotion
+0.7474561316	screen devices
+0.7473914233	human ai interaction
+0.7473828497	comparative study
+0.7473103910	data wrangling
+0.7471882485	preliminary results
+0.7471705405	data type
+0.7458442831	internet based
+0.7457270733	visual cues
+0.7455337469	social media data
+0.7455304561	cognitive activities
+0.7451984130	evaluation metrics
+0.7451122174	twitter users
+0.7450983690	cross platform
+0.7450965217	emotional responses
+0.7449820521	touch interaction
+0.7448284209	open source platform
+0.7443548768	preliminary study
+0.7443467643	driven approach
+0.7441269506	mobile interaction
+0.7440491147	visual attention
+0.7440093640	trade offs
+0.7439916654	principal component
+0.7437247177	content based
+0.7436501647	social norms
+0.7434030622	collaborative robots
+0.7432468454	input devices
+0.7429776611	search space
+0.7428407839	data set
+0.7428398628	higher level
+0.7418189505	search results
+0.7416904902	future research directions
+0.7415438457	social engineering
+0.7411799951	findings suggest
+0.7410716637	including 12 similar chapters
+0.7410191976	artificial neural
+0.7409739721	human cognition
+0.7404566422	search process
+0.7404270494	analysis tools
+0.7395755563	cognitive processing
+0.7387334783	human operators
+0.7382916043	decision process
+0.7380667828	eeg based bcis
+0.7378289867	driving scenarios
+0.7376076428	study comparing
+0.7360291467	evaluation methods
+0.7360263440	user behavior
+0.7359333994	hand tracking
+0.7356578124	real world
+0.7355295916	supported collaborative
+0.7354243104	significant role
+0.7353196720	online communities
+0.7343281955	theoretical framework
+0.7337515007	human behaviour
+0.7330182679	increasing popularity
+0.7329285541	activity tracking
+0.7328932948	search task
+0.7325845891	shape changing
+0.7325167573	information flow
+0.7324594146	sensing technologies
+0.7323966487	recent developments
+0.7323700170	topological data
+0.7321625269	high quality
+0.7317763359	focus group
+0.7316048693	science research
+0.7314162313	interactive visual analytics
+0.7310096653	previous studies
+0.7308736740	context specific
+0.7308610416	paper discusses
+0.7306416317	intelligent personal
+0.7304228917	task based
+0.7300448554	cognitive behavioral
+0.7299348830	current state
+0.7295796056	smartphone data
+0.7293773063	learning outcomes
+0.7292790064	data protection regulation
+0.7280611674	superior performance
+0.7274983581	human machine interfaces
+0.7273315979	graphical user
+0.7271641281	machine learning approach
+0.7270331598	learning models
+0.7270051357	group level
+0.7262500362	learning curve
+0.7261561040	empirical evaluation
+0.7259564166	paper concludes
+0.7258164013	classification accuracy
+0.7251775109	user driven
+0.7242838519	visual feedback
+0.7242446412	role playing
+0.7238185982	paper proposes
+0.7233421863	online experiments
+0.7223431313	future smart personalised systems
+0.7219009100	device interaction
+0.7206416389	adversarial networks
+0.7203857919	online news
+0.7200545701	results showed
+0.7199040187	negative impact
+0.7197239277	dimensional space
+0.7194550009	gesture based
+0.7189555536	web site
+0.7184654409	scientific research
+0.7183852617	ml model
+0.7183765800	gaussian mixture
+0.7181770851	x ray
+0.7179298457	visual perception
+0.7176356788	game playing
+0.7172969139	signal to noise ratio
+0.7163797722	human emotions
+0.7161119283	neural network architectures
+0.7153477280	thematic analysis
+0.7153430916	human annotation
+0.7153385653	visualization tool
+0.7152496219	user perspective
+0.7151780499	based authentication
+0.7151493900	information transfer
+0.7136318488	machine learning based
+0.7127178426	evaluation results
+0.7124856953	mobile technologies
+0.7123576036	experimental design
+0.7123307902	automatically detect
+0.7123298887	online video
+0.7122279728	accelerometer data
+0.7121599774	high degree
+0.7118727145	a triz based analysis
+0.7105331595	online privacy
+0.7105022265	practical implications
+0.7102698314	brain controlled
+0.7102354434	prediction accuracy
+0.7101097929	visual exploration
+0.7099501625	quantitative evaluation
+0.7097690287	data protection
+0.7097242984	e commerce websites
+0.7094305506	optimal policy
+0.7091246509	significantly improve
+0.7088096733	mobile applications
+0.7080769653	deep neural
+0.7080759615	research area
+0.7079222743	theory based
+0.7078718269	application areas
+0.7077447192	knowledge based
+0.7077342674	impaired persons
+0.7075801518	latent space
+0.7072414831	objective measures
+0.7071316828	wizard of oz
+0.7068243543	computing systems
+0.7056433994	smart devices
+0.7048443517	complex systems
+0.7047200049	speech based
+0.7043832563	human behavior
+0.7043552165	real world scenarios
+0.7039705557	digital media
+0.7039056477	supervised machine learning
+0.7037173258	haptic devices
+0.7036581711	optimization problem
+0.7033573810	human perception
+0.7028761697	visual encoding
+0.7018087868	interaction scenarios
+0.7014463909	text based
+0.7013491333	multi dimensional data
+0.7012178021	ml systems
+0.7011846635	existing tools
+0.6999745930	human brain
+0.6997764746	machine learning algorithms
+0.6993994790	usage scenarios
+0.6991836413	multivariate data
+0.6991379770	safety critical
+0.6987549139	human computer interface
+0.6981214800	attention based
+0.6978915236	facebook users
+0.6974861857	speech interfaces
+0.6973124416	video stream
+0.6968271414	aerial vehicles
+0.6965820103	visual information
+0.6960340290	p300 based
+0.6958300526	performance metrics
+0.6957685776	potential applications
+0.6949673848	task performance
+0.6947567319	peer to peer
+0.6939595070	software quality
+0.6937625034	training set
+0.6935015348	design recommendations
+0.6928152820	text to speech
+0.6926319291	controlled experiments
+0.6919205484	protection regulation
+0.6918595171	classification tasks
+0.6915774597	visualization techniques
+0.6911187245	real world datasets
+0.6910247609	level design
+0.6909133353	systematic review
+0.6908962730	sensor based
+0.6907608219	visually impaired people
+0.6903014357	physical world
+0.6901576841	learning processes
+0.6894537958	artificial agent
+0.6893942757	vector machine
+0.6893695210	transportation systems
+0.6889539394	results suggest
+0.6886902387	pre training
+0.6883647750	mobile users
+0.6877998581	machine learning approaches
+0.6877395899	speech emotion
+0.6877142213	design choices
+0.6875967565	portable devices
+0.6874912542	unmanned aerial
+0.6870073766	based bci
+0.6866388155	evaluation shows
+0.6862535385	spectrum disorder
+0.6860768810	model based
+0.6852967356	significant improvements
+0.6851737415	input modalities
+0.6845039529	design science
+0.6844045328	computer mediated communication
+0.6842898873	virtual reality environment
+0.6836725268	test set
+0.6833076051	spatial information
+0.6824753499	person shooter
+0.6821560997	field studies
+0.6820637674	analysis tool
+0.6819470935	domain expert
+0.6817460686	users prefer
+0.6815861769	autonomous agent
+0.6812329667	human subject
+0.6811943666	experimental results
+0.6809461343	learning systems
+0.6808248791	learning materials
+0.6807830976	extracted features
+0.6799852393	touch based
+0.6799763935	performance prediction
+0.6797755724	physiological responses
+0.6781979932	automation systems
+0.6780717991	working co editors
+0.6779649542	user activity
+0.6778152793	automatic detection
+0.6773673561	taking into account
+0.6772835190	research community
+0.6771021276	neural network based
+0.6764353500	screen objects
+0.6764241603	times faster
+0.6762193927	knowledge sharing
+0.6759945373	brain regions
+0.6757423723	recognition tasks
+0.6757187529	based brain computer interfaces
+0.6756211772	main contribution
+0.6753829024	classification results
+0.6753762388	takes into account
+0.6751163645	recognition accuracy
+0.6751003130	data augmentation
+0.6749472376	data processing
+0.6744113949	evidence based
+0.6743378835	analysis reveals
+0.6738973414	significantly improves
+0.6737783826	based gesture recognition
+0.6731994728	activity patterns
+0.6727961250	brain machine
+0.6727071589	evaluation framework
+0.6725006690	design elements
+0.6722641443	degree of freedom
+0.6720258530	control group
+0.6716878927	sars cov 2
+0.6716320537	high performance
+0.6713863830	prediction models
+0.6704945732	degrees of freedom
+0.6704184546	children with autism
+0.6704027443	learning based
+0.6699640344	article describes
+0.6695278988	health related
+0.6694930799	eeg trials
+0.6688258209	autonomous robot
+0.6682939062	covid 19 pandemic
+0.6679351657	helping users
+0.6678740466	learning experience
+0.6677285897	network architecture
+0.6671876862	test results
+0.6670530136	rapid growth
+0.6670243991	training samples
+0.6670117984	feature engineering
+0.6661992774	decision making process
+0.6660768010	general data protection
+0.6660753480	prediction model
+0.6659508247	navigation systems
+0.6659144384	data sources
+0.6657252543	high accuracy
+0.6655605782	communication technology
+0.6652751923	mobile application
+0.6651521760	non verbal communication
+0.6649973195	technical challenges
+0.6649861328	spatial data
+0.6649452254	human and machine
+0.6648252425	dataset collected
+0.6647826397	patent database
+0.6644686396	end users
+0.6639690526	based approach
+0.6637133804	support systems
+0.6635536337	real world applications
+0.6625998415	social signals
+0.6625220033	science projects
+0.6624442036	empirical results
+0.6618680910	co creative systems
+0.6602636790	search and rescue
+0.6598323500	design space
+0.6585955648	deep convolutional neural
+0.6577994836	negative affect
+0.6573324676	experiments conducted
+0.6572165984	future research
+0.6571798917	human performance
+0.6568404685	powerful tool
+0.6565893961	data analytics
+0.6562524430	higher quality
+0.6556574329	empirical research
+0.6555737697	ai based
+0.6555286204	study shows
+0.6553944002	input method
+0.6549786320	promising results
+0.6548043195	solve problems
+0.6542752196	visual representation
+0.6542001370	baseline models
+0.6541779806	individual level
+0.6534598463	an exploratory study
+0.6532010913	current research
+0.6523827097	interaction modalities
+0.6522824124	recognition rates
+0.6503951217	latest core concepts
+0.6502424039	article illustrates 10 inventions
+0.6496242703	design process
+0.6488759143	step by step
+0.6488663896	results confirm
+0.6487619135	learning approach
+0.6483968366	communication channels
+0.6481961086	data points
+0.6480615255	e commerce
+0.6474064893	relevant information
+0.6468871672	physiological data
+0.6465786436	communication channel
+0.6459502745	detection accuracy
+0.6457567566	increasingly important
+0.6454369962	speech signal
+0.6451670270	prototype implementation
+0.6445281158	game elements
+0.6444289149	biometric data
+0.6442025889	labeled data
+0.6439580991	user assistance
+0.6435973480	motor performance
+0.6428200920	interaction design
+0.6423853683	body movement
+0.6422242119	models trained
+0.6421588662	results reveal
+0.6416151134	higher accuracy
+0.6408257277	study examines
+0.6405328297	position paper
+0.6401068160	provide evidence
+0.6391496394	think aloud
+0.6384650265	explicit feedback
+0.6379500379	human motion
+0.6377123596	an empirical study
+0.6376425673	usability problems
+0.6375846751	design methods
+0.6372193216	previous research
+0.6362973779	highly dynamic
+0.6360624313	online services
+0.6359884675	human input
+0.6356022817	cognitive state
+0.6353707680	predictive performance
+0.6347716982	haptic interface
+0.6344488502	human attention
+0.6339553662	spreadsheet error
+0.6331883673	drag and drop
+0.6323022808	fully automated
+0.6320620894	public datasets
+0.6317132290	contextual information
+0.6312336382	human subjects
+0.6307168066	data obtained
+0.6305376988	virtual and augmented reality
+0.6303399814	digital games
+0.6298574730	empirical study
+0.6295181555	f formations
+0.6291956619	pick and place
+0.6289791116	recognition rate
+0.6288541216	design processes
+0.6286451264	robot teaming
+0.6284873791	sense making
+0.6282776766	traditional methods
+0.6274528783	based method
+0.6267663701	machine learning techniques
+0.6262455826	graph based
+0.6246750058	network structure
+0.6236750353	learning method
+0.6236261412	personal space
+0.6233634828	text data
+0.6231800328	high risk
+0.6231659974	recent research
+0.6230909150	deep learning model
+0.6228660562	development process
+0.6222415205	self organizing
+0.6222414272	raw data
+0.6221880917	paper explores
+0.6213312838	learning problem
+0.6206627364	user models
+0.6203014815	computer aided
+0.6201351339	input modality
+0.6197114621	markov models
+0.6196283615	theory of mind
+0.6193601634	hand movements
+0.6184776671	learning management
+0.6179316728	data collected
+0.6174407357	automated systems
+0.6170621806	world wide
+0.6170010230	user input
+0.6169642955	mean square
+0.6163958433	co editors
+0.6161400726	reality games
+0.6158563223	human observers
+0.6156360906	low energy
+0.6154412023	detection method
+0.6147061197	training data
+0.6141416239	algorithmic systems
+0.6137814189	automatic speech
+0.6136880773	gain insights
+0.6135751164	emotion expression
+0.6126154546	interaction patterns
+0.6120085198	crucial role
+0.6114676468	human emotion
+0.6112920570	existing approaches
+0.6110964840	authentication method
+0.6104526482	based approaches
+0.6101005611	graphical objects
+0.6100058680	design implications
+0.6097630784	online platform
+0.6091961612	software tools
+0.6090050180	spatial patterns
+0.6090016552	zero velocity
+0.6089712311	web usability
+0.6085849840	quantitative data
+0.6079370473	computing applications
+0.6064224723	data streams
+0.6063126968	design tool
+0.6056549707	physical activities
+0.6049053258	user study
+0.6046230278	video content
+0.6045097442	learning algorithms
+0.6042515974	internet of things
+0.6031257708	auditory brain computer
+0.6028715116	content analysis
+0.6025586068	patient data
+0.6022898096	visual interface
+0.6021974972	guidelines and systematic review
+0.6018118387	emotional response
+0.6013836127	real world data
+0.6013758925	results highlight
+0.6011478546	machine learning methods
+0.6008264288	human cognitive
+0.6005100469	increasingly popular
+0.5999829150	visual complexity
+0.5998781271	visual design
+0.5994804362	low vision
+0.5986398477	past few years
+0.5983158045	mobile robots
+0.5982476078	hard of hearing
+0.5977716058	proposed methodology
+0.5970533039	private information
+0.5970513981	based game
+0.5966719536	massive open
+0.5961410717	health data
+0.5959615949	visualization technique
+0.5957841384	provide insights
+0.5943314903	a visual analytics framework
+0.5942276246	existing works
+0.5939635528	application development
+0.5923999909	method outperforms
+0.5921466865	research topic
+0.5917024901	non intrusive
+0.5913168869	qualitative evaluation
+0.5910631247	serious games
+0.5909801101	context based
+0.5909654563	million users
+0.5905364722	human generated
+0.5904029197	verbal communication
+0.5900489688	deep learning based
+0.5896626210	physical environment
+0.5894293582	interaction techniques
+0.5893425557	whole body
+0.5892300220	ot and crdt
+0.5890927143	eeg based brain
+0.5889379719	bci based
+0.5889319227	common clinical or sports
+0.5887359108	indoor and outdoor
+0.5884979944	basic emotions
+0.5883748636	online survey
+0.5880519473	user profiles
+0.5879676050	potential for future smart personalised
+0.5879545410	visual p300
+0.5877802321	expert knowledge
+0.5875873371	directions for future research
+0.5872678379	player behavior
+0.5872499225	important aspects
+0.5864156634	average accuracy
+0.5863243820	research project
+0.5857977767	learning process
+0.5855199694	emerging field
+0.5850647053	important features
+0.5845841608	near infrared
+0.5843262297	controlled experiment
+0.5842857731	previous methods
+0.5842359108	academia and industry
+0.5839174921	additional information
+0.5835774547	computing devices
+0.5829809658	advantages and disadvantages
+0.5826088851	design research
+0.5823188956	software systems
+0.5822435923	proof of concept
+0.5818822652	real world settings
+0.5817849031	comparative analysis
+0.5817227193	significant difference
+0.5814849410	existing research
+0.5811811889	research questions
+0.5808737025	interactive machine
+0.5806659501	pre existing
+0.5802956606	ai agent
+0.5801657526	trial and error
+0.5799482923	point and click
+0.5791083648	driver assistance systems
+0.5790863083	an experimental study
+0.5787432810	provide feedback
+0.5786371162	prior studies
+0.5785633944	quality of experience
+0.5784310237	based classification
+0.5781279120	study proposes
+0.5779010449	classification performance
+0.5769588123	application scenarios
+0.5769270899	neural network models
+0.5768822910	an open source
+0.5766628693	social aspects
+0.5763456430	visualization methods
+0.5761276547	creative process
+0.5761107448	data driven approaches
+0.5759651635	subjects performing
+0.5758412045	digital devices
+0.5758378236	research question
+0.5757833129	visualization systems
+0.5748314179	general framework
+0.5745411953	existing methods
+0.5742755848	eye based
+0.5737880649	takes advantage
+0.5736998426	visual representations
+0.5734454123	physiological sensors
+0.5731679465	user evaluation
+0.5727958630	simulation based
+0.5723631347	results revealed
+0.5715866971	gaze data
+0.5709973023	raw eeg
+0.5707979377	mounted display
+0.5707410613	learning from demonstration
+0.5706935906	physiological signals and analysis techniques
+0.5706837744	input data
+0.5706516446	online experiment
+0.5703880649	article illustrates
+0.5703131007	research efforts
+0.5702522019	qualitative analysis
+0.5701217824	paper describes
+0.5693726244	phone usage
+0.5692254632	individual users
+0.5677727260	prior research
+0.5676612464	collected data
+0.5674324930	existing systems
+0.5672618029	findings reveal
+0.5668755895	findings provide
+0.5664074359	tasks involving
+0.5662303620	feature space
+0.5660633225	computer mediated
+0.5657623789	a visual analytics approach
+0.5656440098	number of keys
+0.5654705922	visualization community
+0.5654249775	recognition task
+0.5654104139	computational cost
+0.5650877138	web 2.0
+0.5648382281	important factor
+0.5648351415	based methods
+0.5646345191	end to end
+0.5644881510	learning model
+0.5633543030	human decision making
+0.5631338518	core concepts
+0.5624062491	current methods
+0.5620968909	classification model
+0.5617533193	growing field with significant
+0.5616408145	results demonstrate
+0.5615652603	current approaches
+0.5610204831	lab study
+0.5610193660	current study
+0.5610011378	sequence to sequence
+0.5609488702	task specific
+0.5609225949	study investigates
+0.5609195172	online bci
+0.5597695029	digital technologies
+0.5595604090	field of view
+0.5583647717	next generation
+0.5583376110	team based
+0.5577505400	research gap
+0.5572795546	experiment results
+0.5570870567	model predictions
+0.5569551006	motion data
+0.5562750113	research areas
+0.5559334870	gait based
+0.5559166465	based techniques
+0.5554797026	screen space
+0.5553528405	proposed method
+0.5552851503	study showed
+0.5552230331	interaction methods
+0.5550923839	important role
+0.5550112261	public spaces
+0.5543018332	design goals
+0.5530720848	specifically designed
+0.5524857547	a case study
+0.5521218334	valence and arousal
+0.5516391143	key features
+0.5512048430	paper outlines
+0.5507875239	computer vision
+0.5506768512	key challenges
+0.5505417445	human values
+0.5503740594	proposed model
+0.5502536158	point of view
+0.5501605428	analysis shows
+0.5492500363	one shot
+0.5492019738	qualitative feedback
+0.5491005835	face to face interactions
+0.5488419332	face to face
+0.5487290197	human pose
+0.5485883270	media sites
+0.5485078452	previous approaches
+0.5483262570	performance evaluation
+0.5482556770	k nearest
+0.5479061729	re finding
+0.5478499201	generation process
+0.5476912238	human experts
+0.5474635812	user survey
+0.5474217984	proposed approach
+0.5473630680	temporal dynamics
+0.5473239062	key components
+0.5462505960	existing studies
+0.5461245497	markov model
+0.5453982622	research communities
+0.5449346118	increasingly complex
+0.5449072187	proposed framework
+0.5448253671	covid 19
+0.5447718611	traditional approaches
+0.5445643834	paper presents
+0.5443508143	robot control
+0.5437322851	behavior based
+0.5434070828	human activities
+0.5433224089	ethical issues
+0.5432777237	deep learning techniques
+0.5427869019	this article illustrates
+0.5422210605	user groups
+0.5421364735	based interface
+0.5419342111	annotated data
+0.5417605972	bluetooth low
+0.5417274716	a systematic literature review
+0.5415732573	increasing attention
+0.5415504928	research methods
+0.5413781946	simulation environment
+0.5404150369	recently proposed
+0.5402229555	paper introduces
+0.5394711504	learning framework
+0.5394197789	significant impact
+0.5392160506	human interactions
+0.5385165453	current tools
+0.5371421387	rgb d
+0.5368531977	regression model
+0.5363606575	computational methods
+0.5363483702	practical application
+0.5362588436	study involving
+0.5359207715	human control
+0.5358990569	practical applications
+0.5357488415	important implications
+0.5356935109	question and answer
+0.5351809021	browser based
+0.5351224973	visualization researchers
+0.5351063894	state of art
+0.5348726817	interactive learning
+0.5346493625	decision processes
+0.5345277274	simulation results
+0.5339667853	findings highlight
+0.5338803139	interaction model
+0.5338701344	human preferences
+0.5338238763	user control
+0.5331954989	results provide
+0.5327953199	online study
+0.5327909389	software applications
+0.5320275163	existing literature
+0.5319273186	improved performance
+0.5318748245	multiple levels
+0.5317149479	co creation
+0.5311735712	computational models
+0.5308025362	video playback
+0.5302066658	human affect
+0.5301993714	underlying data
+0.5297204997	participants reported
+0.5294710834	time series
+0.5294450778	experimental results demonstrate
+0.5291351438	real users
+0.5288477194	interactive tools
+0.5285840720	a natural language interface
+0.5275101553	collaborative design
+0.5274553865	immersive experience
+0.5270495567	experiments showed
+0.5265682682	cognitive systems
+0.5265499092	challenging task
+0.5247466010	existing solutions
+0.5247027968	multimodal emotion
+0.5241767134	local and global
+0.5237213733	social behavior
+0.5236616096	keyboard and mouse
+0.5235738022	design decisions
+0.5235084896	laboratory study
+0.5235044748	relevant data
+0.5235023456	computer science
+0.5234269886	statistical models
+0.5232464076	design methodology
+0.5230346945	paper addresses
+0.5229628005	online platforms
+0.5224435201	challenging problem
+0.5220731255	a comparative study
+0.5220171199	eeg data
+0.5218845812	significant improvement
+0.5214565372	internet users
+0.5199672349	important aspect
+0.5197058512	learning algorithm
+0.5187946840	past decade
+0.5187861353	past research
+0.5186516673	potential users
+0.5185054735	visual features
+0.5183446441	aims at providing
+0.5180022050	health and wellbeing
+0.5174951319	deaf and hard
+0.5173765444	model parameters
+0.5173190450	field study
+0.5172677225	person to person
+0.5168213789	rapid development
+0.5163306189	helps users
+0.5161493427	results demonstrated
+0.5153451004	cognitive states
+0.5143301943	practical scenarios
+0.5141665994	participants performed
+0.5137321563	supervised machine
+0.5125777559	results obtained
+0.5118610340	robot dialogue
+0.5113258462	data analysts
+0.5096756335	third party
+0.5089208435	value sensitive
+0.5082807934	quality of life
+0.5080549200	controlled study
+0.5074368926	promising approach
+0.5073760356	quantified self
+0.5070283778	t sne
+0.5069678960	proposed algorithm
+0.5067927944	research opportunities
+0.5066931785	collect data
+0.5065680086	12 similar chapters
+0.5063061754	positive and negative
+0.5059755155	optical see through
+0.5057297081	self tracking
+0.5051075264	paper investigates
+0.5049845700	initial results
+0.5033447335	early stages
+0.5026028934	synthetic and real
+0.5025819551	a systematic review
+0.5025086347	research field
+0.5021148354	communities of practice
+0.5019269298	human actions
+0.5013499796	a field study
+0.4989443825	non invasive
+0.4981033095	us patent database
+0.4977990994	iot systems
+0.4968255942	an information theoretic
+0.4967586341	quantitative and qualitative
+0.4959134467	ten years
+0.4946283355	user test
+0.4944975234	computer graphics
+0.4939592736	human users
+0.4928791859	performance based
+0.4926662557	360 degree
+0.4924825238	able bodied
+0.4922680069	reality headset
+0.4911773591	article presents
+0.4900169938	human participants
+0.4895713766	classification task
+0.4889367320	broad range
+0.4888390612	user performance
+0.4885693654	measurement unit
+0.4884491398	behavioral data
+0.4883550022	self assessment
+0.4877703132	qualitative and quantitative
+0.4873383006	major challenge
+0.4865288000	based communication
+0.4846287103	iterative design
+0.4845578108	input and output
+0.4843834136	co located
+0.4843619383	best practices
+0.4834256707	an eye tracking
+0.4832707520	synthetic data
+0.4819532313	co occurrence
+0.4818574864	3d printing
+0.4811298649	an augmented reality
+0.4811291680	researchers and practitioners
+0.4810009858	provide additional
+0.4802641671	paper contributes
+0.4799060582	based visualization
+0.4796819311	self contained
+0.4789091487	practitioners and researchers
+0.4787175270	collecting data
+0.4781228806	security and privacy
+0.4779318780	a pilot study
+0.4759200812	school students
+0.4756718758	design approach
+0.4750368372	a large scale
+0.4745773929	\ pm
+0.4745097439	active research
+0.4731797248	visual data
+0.4730837206	hardware and software
+0.4730240054	e learning
+0.4727447332	objective and subjective
+0.4723163674	non trivial
+0.4717018279	training and testing
+0.4716069670	source software
+0.4713736494	150 307
+0.4709716590	emotion recognition using
+0.4698818628	\ em
+0.4697778333	offline and online
+0.4688085894	information and communication
+0.4678780951	learning tasks
+0.4672472326	language based
+0.4667321310	privacy and security
+0.4666903681	human operator
+0.4664163655	research studies
+0.4662049887	humans and machines
+0.4661205421	wide range
+0.4658154623	sensitive information
+0.4657140079	open research
+0.4656307990	directions for future
+0.4649899674	non native
+0.4640633679	temporal information
+0.4640243845	health applications
+0.4636556328	tracking systems
+0.4636368528	data structure
+0.4631465848	simulated and real
+0.4631179235	a qualitative study
+0.4609394502	continuous affect
+0.4599901460	k 12
+0.4597311937	p 0.001
+0.4587868140	experimental study
+0.4586781729	\ textbf
+0.4586572039	software and hardware
+0.4584899350	order to develop
+0.4571572039	opportunities and challenges
+0.4569141930	general public
+0.4563172844	algorithmic decision
+0.4561732650	front end
+0.4559448626	p 0.05
+0.4552946553	implications for future
+0.4547231464	aims to develop
+0.4543341738	\ deg
+0.4540346075	the united states
+0.4534489811	challenges faced
+0.4525813648	human to human
+0.4522708079	advanced driver
+0.4521780966	user actions
+0.4518360825	spatial and temporal
+0.4517405860	audio and video
+0.4516052792	using deep neural
+0.4513557232	challenges and opportunities
+0.4509193801	learning approaches
+0.4509140784	factor authentication
+0.4508863198	real and virtual
+0.4507554302	virtual and augmented
+0.4506668218	computer supported
+0.4505067094	a short review
+0.4503807149	empirical data
+0.4502991492	virtual human
+0.4498595395	teaching and learning
+0.4496460095	recommender system
+0.4496338656	ar applications
+0.4494763549	a conversational agent
+0.4493448322	et al
+0.4486016685	recognition performance
+0.4476946108	model outperforms
+0.4474495139	based bcis
+0.4471501117	\ emph
+0.4462297314	wide web
+0.4459698751	data distribution
+0.4459032572	human action
+0.4459022502	design and implementation
+0.4451522492	the latest core
+0.4442097111	area of research
+0.4441928728	groups of users
+0.4439476435	based brain computer
+0.4431414590	vast majority of
+0.4422317259	blind people
+0.4421636738	present preliminary
+0.4419039080	well suited
+0.4414926039	first person
+0.4412161035	design and evaluation
+0.4402959031	exploration and analysis
+0.4401415475	health records
+0.4399517231	design and development
+0.4393322429	clinical or sports uses of psychophysiology
+0.4392376918	steady state visual
+0.4387308545	experimental data
+0.4382254545	vr 360
+0.4381176691	took place
+0.4372380925	support users
+0.4358634653	activity data
+0.4358002160	conversational user
+0.4354260024	keep track
+0.4354030518	feasibility study
+0.4352557021	exploratory data
+0.4346962773	challenges and future
+0.4340421320	main challenges
+0.4340280458	learning activity
+0.4339001117	\ textit
+0.4334061906	learning activities
+0.4310628952	design and implement
+0.4308972379	this article presents
+0.4307939423	methods and tools
+0.4306562368	each other's
+0.4299315013	based learning
+0.4293099899	a user centric
+0.4292394255	self reported
+0.4283208928	key element
+0.4280504333	brain computer
+0.4280344076	network architectures
+0.4279183339	tree based
+0.4272852000	user experiments
+0.4271525860	large scale data
+0.4266843238	design and evaluate
+0.4257483411	controlled user
+0.4250976540	reaction time
+0.4241361176	noise ratio
+0.4236758727	gain insight
+0.4236426410	dwell time
+0.4228503090	a deep learning based
+0.4227664129	collaborative information
+0.4220273413	two case studies
+0.4215067792	the vast majority
+0.4213295619	large and complex
+0.4208061245	time cube
+0.4208047835	ai interaction
+0.4204525727	qualitative data
+0.4199876816	designed and developed
+0.4197564280	co creative
+0.4196393213	design tools
+0.4189781365	a human centered
+0.4186983754	design studies
+0.4186816109	a game based
+0.4182990396	historical data
+0.4180112469	analysis and visualization
+0.4175744916	leave one
+0.4174676572	research and development
+0.4171319609	on amazon mechanical turk
+0.4162671852	real time feedback
+0.4151299130	a mobile phone
+0.4129501694	information provided
+0.4128490256	tutoring systems
+0.4106176465	serious game
+0.4100194332	qualitative study
+0.4098341164	future human
+0.4095738927	to gain insight
+0.4091991985	human communication
+0.4089122690	^ \ circ
+0.4081797582	right hand
+0.4075238026	the past decade
+0.4071279581	data gathered
+0.4071116331	analysis tasks
+0.4069386321	impaired users
+0.4059477318	non expert
+0.4055409768	log data
+0.4050296170	3d printed
+0.4044050685	enables users
+0.4028503343	mobile crowd
+0.4025331861	becoming increasingly
+0.4024577881	ever increasing
+0.4011861429	$ \ pm
+0.4002227955	shown to improve
+0.3998472028	data recorded
+0.3989871626	task learning
+0.3988999406	training process
+0.3987377283	well established
+0.3983921390	three dimensional
+0.3964605471	time consuming
+0.3956652696	a graphical user interface
+0.3955706052	robot interaction
+0.3951185277	paper reports
+0.3942347610	based brain computer interface
+0.3934202501	interactive graph
+0.3933210000	m learning
+0.3927110046	this position paper
+0.3926164351	challenges faced by
+0.3925720161	this article describes
+0.3921842339	non linear
+0.3903684458	second life
+0.3887618911	learning methods
+0.3878338864	design challenges
+0.3876980056	a high fidelity
+0.3875621003	interactive data
+0.3862915836	no longer
+0.3861317753	growing field with significant potential for
+0.3857025062	last decade
+0.3856606570	bci systems
+0.3855878284	significant potential
+0.3855081887	everyday human computer
+0.3853667265	non verbal
+0.3838014569	processing techniques
+0.3832207778	disabled people
+0.3825194824	designed to support
+0.3824677931	computer interfaces
+0.3823340834	analysis techniques
+0.3810059188	collaborative data
+0.3809846736	future design
+0.3799182284	interactive information
+0.3797948880	compared to traditional
+0.3795693291	time spent
+0.3776616885	full body
+0.3776069738	based framework
+0.3775413298	computer assisted
+0.3775136354	specific information
+0.3763360164	paper reviews
+0.3754359612	plus application
+0.3753318335	tracking data
+0.3752405094	human computer
+0.3748122612	a web browser
+0.3729901289	an increasing number
+0.3728788342	a feasibility study
+0.3724115908	this paper proposes
+0.3722256491	compared to previous
+0.3721871391	available at https
+0.3721565755	a wide variety
+0.3718260074	this paper presents
+0.3717726055	take into account
+0.3705460013	this short paper
+0.3697912707	survey data
+0.3691959383	taken into account
+0.3690694390	vector machines
+0.3690052702	large amounts
+0.3686927328	dimensional data
+0.3685445586	provide support
+0.3684128216	study participants
+0.3679659609	crowd work
+0.3674845531	graphical user interface for
+0.3655526695	self attention
+0.3653056079	this paper describes
+0.3652269893	learning techniques
+0.3636493797	well defined
+0.3633663672	non experts
+0.3631001895	based model
+0.3630316071	not necessarily
+0.3626729673	analysis process
+0.3626069738	based applications
+0.3622185168	q learning
+0.3616203567	an end user
+0.3612788725	general data
+0.3610775414	large data
+0.3588963369	a qualitative analysis
+0.3585853786	interaction data
+0.3582306144	computer generated
+0.3569045950	complex data
+0.3549612100	a user study
+0.3540551492	\ `
+0.3535238620	this paper introduces
+0.3507284986	recent advancements
+0.3494378579	present results
+0.3492679396	recommendation system
+0.3489202624	interactive tool
+0.3487301289	a large dataset
+0.3480022883	the large number
+0.3479058775	short review
+0.3478138502	a major challenge
+0.3472917735	a visual analytics
+0.3460877997	large amounts of
+0.3455023905	sub optimal
+0.3449452867	features extracted
+0.3447543477	experimental results show
+0.3446787673	interaction applications
+0.3445729465	trade off
+0.3445726485	a primer
+0.3437835172	operating system
+0.3431135120	based analysis
+0.3430549753	task completion time
+0.3426657477	beliefs about
+0.3424672123	an eye tracker
+0.3419711207	wide range of
+0.3416075243	performance data
+0.3411309117	a low cost
+0.3389478253	time series data
+0.3368262235	subjects study
+0.3365294169	large numbers of
+0.3356689364	human user
+0.3352393320	an online survey
+0.3348699018	the latest core concepts
+0.3346918809	reduction techniques
+0.3346758754	in situ
+0.3345695461	dialogue system
+0.3344890005	recent advancements in
+0.3342309452	well understood
+0.3339281960	more nuanced
+0.3338653437	emon go
+0.3332923424	interface applications to distinguish from
+0.3330070316	based systems
+0.3308551501	task model
+0.3305897538	provide insight into
+0.3300444256	qualitative user
+0.3299927908	commercially available
+0.3293525551	small number
+0.3286953482	wide variety of
+0.3286074006	collaborative work
+0.3281378670	from us patent
+0.3279389075	steps towards
+0.3278851626	following reference
+0.3277452114	with autism spectrum
+0.3277202668	a head mounted display
+0.3276712061	this emerging field requires comprehension of
+0.3272778016	computer vision algorithms
+0.3259600365	freely available
+0.3258530269	very large
+0.3253369547	switch between
+0.3248887353	generated content
+0.3243492988	in recent years
+0.3240798475	allowing users
+0.3236458590	immersive virtual
+0.3234809336	enable users
+0.3234768152	based training
+0.3226808954	emotion recognition from
+0.3225604427	readily available
+0.3224880308	any citation
+0.3222189307	study conducted
+0.3219922046	from us patent database
+0.3217048946	f1 score of
+0.3202860102	an immersive
+0.3202676728	obtained results
+0.3198912950	varying levels of
+0.3193704362	the virtual environment
+0.3185825320	model to predict
+0.3175254890	a non intrusive
+0.3173657721	a deep neural network
+0.3173499877	computer games
+0.3158118010	computer based
+0.3143007654	decide whether
+0.3132891777	dialog system
+0.3115849325	pok \
+0.3113637359	real time
+0.3108590716	the art methods
+0.3106429650	intelligent user
+0.3103795025	follow up
+0.3100508978	3 dimensional
+0.3100156508	two dimensional
+0.3095308735	assistance system
+0.3094093079	this paper explores
+0.3091113798	management system
+0.3079826486	last few years
+0.3077441788	interface based
+0.3068324609	an investigation
+0.3059973345	multiple users
+0.3058269133	recent advances in
+0.3054057048	a key challenge
+0.3053665807	bottom up
+0.3052815110	this paper investigates
+0.3048250045	millions of users
+0.3048144640	most importantly
+0.3047506727	an empirical
+0.3046206423	this paper examines
+0.3046146055	potential for future
+0.3039709639	carried out
+0.3031991170	attitude towards
+0.3029278786	this paper discusses
+0.3025278534	an interactive
+0.3016979833	computer interaction
+0.3011223272	a virtual world
+0.3001917199	top down
+0.3001016474	a user friendly
+0.2999876417	into account
+0.2998351667	` s
+0.2997097371	visual evoked
+0.2987209639	publicly available
+0.2977934367	use cases
+0.2975761074	so called
+0.2971074277	a web based
+0.2965416691	recent developments in
+0.2962423617	a natural language
+0.2959872175	an important role
+0.2954837401	does not require
+0.2954359951	become increasingly
+0.2950827214	interactive exploration
+0.2950133144	impaired people
+0.2945897748	a key element
+0.2943829180	visual analytics framework
+0.2943583440	robotic system
+0.2939124026	improve performance
+0.2939100681	the general public
+0.2937560010	work in progress
+0.2925299916	take place
+0.2913142863	learning applications
+0.2906146386	assist users
+0.2905412107	analysis of user
+0.2903726102	a serious game
+0.2896408605	the human machine
+0.2894524007	based speech
+0.2892630616	provide information
+0.2889217125	software based
+0.2883232915	at large
+0.2881070202	three case studies
+0.2880186136	on demand
+0.2875411384	at home
+0.2867753968	towards understanding
+0.2862153287	divided into
+0.2853746013	an intelligent
+0.2849447538	while maintaining
+0.2848103964	p =
+0.2832253015	amounts of data
+0.2829564627	growing number of
+0.2828771113	new paradigm
+0.2827677226	with domain experts
+0.2827082057	computer screen
+0.2824754716	elderly people
+0.2822868290	non expert users
+0.2820797338	computer interface
+0.2817370287	deeper understanding of
+0.2816302899	analyze data
+0.2810806925	with visual impairments
+0.2808000366	mismatch between
+0.2803645033	paper examines
+0.2794166424	3 4
+0.2792677961	support system
+0.2791231819	range of applications
+0.2789596351	rich set of
+0.2786283271	uses of psychophysiology
+0.2777474391	video data
+0.2777139679	v & v
+0.2774022058	look like
+0.2771539957	every day
+0.2758296098	q &
+0.2753892935	takes advantage of
+0.2746274810	a controlled experiment
+0.2743730719	a physical robot
+0.2733958504	tutoring system
+0.2733895869	shed light
+0.2730311174	visual analytics approach
+0.2727590702	large number of
+0.2721470496	limited number
+0.2718341247	two step
+0.2712661969	real time data
+0.2702185108	study to evaluate
+0.2697754673	more importantly
+0.2696708636	large numbers
+0.2696165888	further investigation
+0.2694186655	a deep learning
+0.2688410666	an exploration
+0.2682467888	build upon
+0.2678066128	lessons learned from
+0.2678005976	approach towards
+0.2677999001	digital musical
+0.2675825693	the proposed method
+0.2675415935	based features
+0.2672609231	side by side
+0.2669951283	reason about
+0.2666832226	health behavior
+0.2666771118	detailed analysis of
+0.2665264693	reading time
+0.2650474440	time warping
+0.2650174817	time varying
+0.2649476614	growing field
+0.2648034291	on real world datasets
+0.2642296187	on amazon mechanical
+0.2637915912	this paper outlines
+0.2637346740	an affective
+0.2636159152	monitoring system
+0.2634684993	the human body
+0.2628220598	design of future
+0.2620817511	see through
+0.2615111001	an exploratory
+0.2612605294	for visually impaired
+0.2597404584	an in depth
+0.2594923427	behavior data
+0.2584165021	important problem
+0.2583927051	go beyond
+0.2573322004	a design study
+0.2572201736	a black box
+0.2567241191	high levels of
+0.2565960835	many real world
+0.2560948737	looking at
+0.2559664159	commonly used
+0.2552595453	two real world
+0.2542435354	a visual analytics system
+0.2533843338	a wide range
+0.2532606688	n =
+0.2527180829	evaluation study
+0.2519078631	doing so
+0.2517997492	widely used
+0.2514568996	significant impact on
+0.2508227032	the art approaches
+0.2504494321	a crucial role
+0.2492520720	an embodied
+0.2492081004	based models
+0.2488038903	users interact
+0.2485606623	3d scenes
+0.2484957835	two factor
+0.2483005818	an open
+0.2478099281	the proposed framework
+0.2477632529	features extracted from
+0.2477341654	the proposed model
+0.2475143726	proposed solution
+0.2472572836	recognition models
+0.2470241235	broad range of
+0.2464027705	translated into
+0.2463939611	workshop on
+0.2460675158	varying levels
+0.2459431187	an algorithmic
+0.2452801994	connection between
+0.2451563016	even though
+0.2448594486	a general purpose
+0.2448066277	the virtual reality
+0.2445637769	the proposed approach
+0.2438779481	rapid growth of
+0.2438558045	image data
+0.2436203550	use case
+0.2432566465	a human operator
+0.2429953638	data collected from
+0.2423558527	comparative analysis of
+0.2422173855	achieve high
+0.2420289141	the early stages
+0.2419999241	a triz
+0.2406515397	put special emphasis on
+0.2400720893	attitudes towards
+0.2399810710	this paper contributes
+0.2393066826	take advantage
+0.2391076400	the hud
+0.2389562210	people with disabilities
+0.2387389882	this paper reports
+0.2383994650	crowd sensing
+0.2380149749	plug in
+0.2378641293	there exist
+0.2376273285	two fold
+0.2375185678	dataset consisting of
+0.2368198260	technology use
+0.2362827452	built on top
+0.2362100108	at risk
+0.2358770266	control system
+0.2357118454	a driving simulator
+0.2355660209	so far
+0.2353876840	this study aims
+0.2350182788	data acquired
+0.2349346360	aimed at
+0.2348392492	a data driven
+0.2345691256	co design
+0.2339021866	the present study
+0.2333693246	interplay between
+0.2332720781	the user interface
+0.2331228592	this chapter
+0.2324688560	left and right
+0.2324613661	work related
+0.2321971446	increasing number of
+0.2318687414	differentiate between
+0.2315613660	current state of
+0.2310854004	to switch
+0.2304950039	spreadsheet use
+0.2302418747	comprehensive review
+0.2295335514	network model
+0.2295271890	issues related to
+0.2293166294	region of interest
+0.2286969630	early stages of
+0.2277479291	10 inventions on
+0.2275992942	visualization system
+0.2274315962	most frequent
+0.2273712325	a toolkit
+0.2272665961	three main
+0.2269677605	integrated into
+0.2265415810	an overview
+0.2262380745	an improved
+0.2261769833	a reinforcement learning
+0.2261037061	a level
+0.2259639887	emotion recognition in
+0.2257203415	common clinical or sports uses of
+0.2255309472	waiting time
+0.2251485471	a proposal
+0.2250457306	without requiring
+0.2250364096	movement data
+0.2249403168	day to day
+0.2246481359	insight into
+0.2235176642	on social media
+0.2234985160	a large number
+0.2228273414	user based
+0.2223762322	in real life
+0.2218113657	significant difference in
+0.2218072016	interactive 3d
+0.2217292254	two user studies
+0.2214912284	five years
+0.2204821009	an interactive system
+0.2200632074	relationship between
+0.2200186905	arrive at
+0.2199155201	a survey
+0.2198330754	time based
+0.2191071789	well known
+0.2189123239	virtual 3d
+0.2188556910	this paper
+0.2187591445	did not
+0.2187425395	understanding of human
+0.2185855838	step towards
+0.2170283161	little attention
+0.2167925604	between subjects
+0.2163804419	limited number of
+0.2163740831	on line
+0.2163488484	quantitative evaluation of
+0.2158775056	this paper addresses
+0.2157357999	trade off between
+0.2156544019	number of users
+0.2153728720	collaboration between
+0.2152419623	better decisions
+0.2151189765	for human robot interaction
+0.2149460589	two dimensions
+0.2145328439	a declarative
+0.2143992873	a brain computer interface
+0.2143643863	made publicly
+0.2143605958	the rapid growth
+0.2141322278	self report
+0.2137812901	physical robot
+0.2137730012	distinction between
+0.2136146316	2d and 3d
+0.2129307507	field of human
+0.2128160209	rather than
+0.2127378010	on mobile devices
+0.2126328402	variety of applications
+0.2126224239	self driving
+0.2120945903	a challenging problem
+0.2120331992	this article
+0.2116348338	deeper understanding
+0.2116181089	issues related
+0.2116041680	specific models
+0.2113559009	the art deep
+0.2113137268	an evaluation
+0.2112395617	knowledge work
+0.2107924012	better understand
+0.2105093265	paper focuses on
+0.2104020590	dealing with
+0.2101662149	correlation between
+0.2100834478	a systematic
+0.2098662304	results indicate
+0.2091974599	diverse set
+0.2091363755	for long term
+0.2089867485	the art techniques
+0.2088321369	based application
+0.2085256939	a comparative
+0.2085107672	a longitudinal
+0.2081867997	quantitative analysis of
+0.2081567435	various forms
+0.2076469376	a real world
+0.2075348295	the long term
+0.2072769348	a deep learning model
+0.2069826808	for future research
+0.2060578278	extensive experiments on
+0.2059148302	suffers from
+0.2057364564	while preserving
+0.2057295486	a user centered
+0.2056853905	users understand
+0.2056290208	automatic detection of
+0.2052492543	from eeg signals
+0.2051028826	well studied
+0.2050228589	r \
+0.2049370511	based emotion
+0.2048483762	machine interactions
+0.2048402879	a case
+0.2048203091	system design
+0.2047660561	a challenging task
+0.2045245894	an in depth analysis
+0.2040987616	new methods
+0.2038957714	a convolutional neural network
+0.2038388453	touch less
+0.2037424615	scientific data
+0.2031431350	in other words
+0.2030192311	first results
+0.2028550025	the design process
+0.2027338997	a statistically significant
+0.2024464095	a human user
+0.2022508715	ranging from
+0.2012786642	two decades
+0.2010603370	a long term
+0.2010480486	insights into
+0.2007007573	these results suggest
+0.2006970915	creative work
+0.2006522526	the real world
+0.2005920291	this paper shows
+0.2005241351	an interactive visualization
+0.2005128926	for motor imagery
+0.2003482307	design tasks
+0.2002468907	in human robot interaction
+0.1998013570	computer scientists
+0.1995762006	based evaluation
+0.1994291607	important aspect of
+0.1993084848	a web application
+0.1988568150	better support
+0.1987064748	this thesis
+0.1986613552	a conceptual
+0.1981911937	a mobile device
+0.1981772262	a deeper understanding
+0.1978968364	a difficult task
+0.1975245250	does not
+0.1972657441	an efficient
+0.1972430793	suffer from
+0.1971979431	users tend to
+0.1968662304	prior work
+0.1968557136	the social sciences
+0.1964281323	visual analytics system
+0.1963534229	in depth analysis
+0.1958619442	$ p
+0.1958199261	suffering from
+0.1957043276	the art models
+0.1952054780	at least
+0.1950913011	the human brain
+0.1950436021	a context
+0.1948487034	aims at
+0.1946899955	reasoning about
+0.1945045779	this paper reviews
+0.1944609058	the ground truth
+0.1944431113	foundations and trends in
+0.1944051981	difficult task
+0.1939542946	stems from
+0.1934627547	a machine learning model
+0.1932173574	temporal event
+0.1927673382	a bayesian
+0.1927094072	a generic
+0.1925854682	visual analytics approach to
+0.1921805878	the learning process
+0.1920192248	experimental results on
+0.1915855701	visual analysis of
+0.1914222718	a high level
+0.1913868397	the covid 19 pandemic
+0.1909761345	the va
+0.1906247815	imagery based
+0.1905496920	physical systems
+0.1904120098	rely on
+0.1903789380	3d city
+0.1901458427	language interfaces
+0.1899876590	previous work
+0.1899411575	computational models of
+0.1898382265	the proposed technique
+0.1898254235	focusing on
+0.1896298414	information system
+0.1894087830	presented here
+0.1893553203	an accurate
+0.1893413752	a conceptual framework
+0.1890873908	across multiple
+0.1886663113	first attempt
+0.1884757151	structured interviews with
+0.1878789516	in daily life
+0.1878062850	very few
+0.1876768256	analytics systems
+0.1876448001	a multi
+0.1869981252	main contribution of
+0.1866920217	ease of use
+0.1862942391	relationships between
+0.1862779276	more accurate
+0.1861634205	response time
+0.1859529937	the art
+0.1857946931	people with motor
+0.1857329030	the obtained results
+0.1856101037	very difficult
+0.1852446745	correlations between
+0.1850570646	last years
+0.1848382265	the proposed solution
+0.1846042947	different datasets
+0.1844544648	qualitative analysis of
+0.1842976457	depending on
+0.1841683853	a machine learning
+0.1839547816	the virtual world
+0.1836807104	vision techniques
+0.1835922388	a virtual reality
+0.1828161294	a mobile app
+0.1824801212	differences between
+0.1823731883	the physical world
+0.1823389541	short paper
+0.1823232509	creative systems
+0.1819943173	accompanied by
+0.1818800185	a neural network
+0.1818691498	the training process
+0.1816319146	a training
+0.1815433790	users interact with
+0.1814906907	significant differences in
+0.1814329308	within subject
+0.1813781934	the results obtained
+0.1812383731	the main challenges
+0.1808923816	characterized by
+0.1808350704	future directions for
+0.1800251314	the proposed algorithm
+0.1798698581	$ \
+0.1796395257	into consideration
+0.1794848055	specific design
+0.1794287061	a knowledge
+0.1791129545	a systematic literature
+0.1787543109	a first step towards
+0.1787094467	visual exploration of
+0.1787030078	balance between
+0.1786502225	work contributes
+0.1786192100	to date
+0.1784662133	between group
+0.1784442986	design guidelines for
+0.1784095951	a first step
+0.1784063888	stemming from
+0.1782036158	the crowdsourcing
+0.1780858945	a head mounted
+0.1780079156	an adaptive
+0.1775780994	a multimodal
+0.1775188358	feedback data
+0.1774768704	interactive exploration of
+0.1771345015	difference between
+0.1770612930	the paper presents
+0.1770127662	non technical
+0.1769403202	of fake news
+0.1768955167	cognitive biases in
+0.1768813760	recognition model
+0.1761595472	a mixed reality
+0.1760744900	faster than
+0.1759953201	the paper describes
+0.1756956947	significant improvement in
+0.1756507879	classification accuracy of
+0.1755878566	visual analytics for
+0.1748796516	most suitable
+0.1748392762	a fuzzy
+0.1748311411	the research community
+0.1747538025	sequence data
+0.1747139803	shed light on
+0.1740996920	agent interaction
+0.1737421799	study aims to
+0.1733799483	a scalable
+0.1733607622	classification using
+0.1732581981	while minimizing
+0.1731969693	novel approach
+0.1731458195	for human robot
+0.1729673888	a performance
+0.1729486082	a holistic
+0.1728427185	based tools
+0.1728134440	visualization tool for
+0.1725947912	paper aims to
+0.1722751435	user study with
+0.1721029204	the contrary
+0.1717831717	aiming at
+0.1717326505	at scale
+0.1717230793	caused by
+0.1712298173	in decision making
+0.1707934546	signal processing and
+0.1707780148	within subjects
+0.1705181626	an individual's
+0.1703994700	four main
+0.1699171288	emotion from
+0.1697774105	a mobile application
+0.1696412462	based interaction
+0.1696055275	a purpose
+0.1695743873	world scenarios
+0.1695403829	based on user
+0.1695113936	the development process
+0.1693840028	human trust in
+0.1692394995	intelligent system
+0.1689250553	an integrated
+0.1688703635	deals with
+0.1686128494	serves as
+0.1682054399	computer programs
+0.1681685136	not always
+0.1681212850	applications to distinguish from
+0.1678346478	the creative process
+0.1677451436	the human computer interaction
+0.1676581793	+ +
+0.1672797966	important role in
+0.1672519642	research aims to
+0.1670407821	a virtual
+0.1668653427	recognition using
+0.1666940209	crowdsourcing system
+0.1666685403	with high accuracy
+0.1665723399	common clinical
+0.1664775788	a new tool
+0.1664605001	method based on
+0.1663886990	analytics approach
+0.1663419220	on real world
+0.1662649228	preliminary user
+0.1662620696	corresponds to
+0.1661807363	multitude of
+0.1658904317	influenced by
+0.1658249352	to collect data
+0.1657323635	design implications for
+0.1655182957	periods of time
+0.1655169806	human perception of
+0.1653241852	some cases
+0.1652325472	more broadly
+0.1652108809	focuses on
+0.1648073650	depend on
+0.1647861777	look at
+0.1645428173	the art machine
+0.1644969039	order to achieve
+0.1644221200	enables users to
+0.1643462091	a social robot
+0.1633139659	feature extraction and
+0.1632428468	key challenge
+0.1627936483	a virtual environment
+0.1624248877	a preliminary
+0.1621600713	an integral part
+0.1621412821	depends on
+0.1620780129	a semi
+0.1618947275	the decision making
+0.1617187987	the existing literature
+0.1616441419	an interactive visual
+0.1609873080	visual representation of
+0.1607453261	an unsupervised
+0.1602695393	just in time
+0.1602535969	a comprehensive review
+0.1600458256	recognition accuracy of
+0.1599405595	integral part of
+0.1597278765	user data
+0.1596521486	very popular
+0.1595474333	known about
+0.1594981485	interacts with
+0.1594602976	communication system
+0.1591805064	regarded as
+0.1590907178	the visually impaired
+0.1589459425	familiarisation with
+0.1588507726	approach based on
+0.1587854460	interacted with
+0.1584312670	an active
+0.1583698535	relies on
+0.1583663675	serve as
+0.1582010305	more complicated
+0.1581972651	step toward
+0.1579764768	estimation using
+0.1579619018	an end to end
+0.1578847134	an automated
+0.1569557286	study design
+0.1569537620	for end users
+0.1569515277	two main
+0.1569468790	small number of
+0.1569365740	an alternative
+0.1567306654	a review
+0.1567098247	for emotion recognition
+0.1566233157	wearable computer
+0.1564858326	a deep neural
+0.1562863185	an initial
+0.1556998705	present results from
+0.1556514232	user interface for
+0.1552001011	model based on
+0.1551023920	similarities between
+0.1549567938	dataset contains
+0.1549221008	a dataset
+0.1548803104	and user friendly
+0.1545233526	learning framework for
+0.1544295867	diverse set of
+0.1542830435	a visual
+0.1541832703	two stage
+0.1541417873	the preprint version of
+0.1540330951	an ontology
+0.1537564637	significant potential for
+0.1536070372	machine learning techniques to
+0.1534958104	the trust
+0.1533865202	relying on
+0.1533497180	real data
+0.1533312981	to create
+0.1532650028	an interdisciplinary
+0.1531611178	recognition systems
+0.1531157248	algorithm based
+0.1530387617	this end
+0.1530251571	investigate whether
+0.1529805616	an innovative
+0.1527613107	the shelf
+0.1525324068	not available
+0.1523880261	in many cases
+0.1523589991	vr system
+0.1523411485	analysis system
+0.1523114389	a secure
+0.1522102083	the influence
+0.1521793015	order to provide
+0.1518306987	this issue
+0.1513896789	bridge between
+0.1513257792	a distributed
+0.1513073458	the order
+0.1511914498	very little
+0.1501872599	connections between
+0.1499601893	the significant
+0.1496897214	this emerging field
+0.1494112592	one time
+0.1493819165	developed based on
+0.1490937323	optical see
+0.1488735916	with asd
+0.1488160511	art methods
+0.1486696880	a taxonomy
+0.1486053861	this study
+0.1480481857	inspired by
+0.1480163357	allowing users to
+0.1478263937	transfer learning for
+0.1477330463	while keeping
+0.1474079742	evaluated based on
+0.1471716410	user interfaces for
+0.1469092152	less than
+0.1468961552	an important
+0.1466262198	per second
+0.1466169579	focused on
+0.1465843308	findings indicate
+0.1465323823	provide insight
+0.1462972169	this purpose
+0.1462858935	different social
+0.1457387476	the user experience
+0.1457245923	technical systems
+0.1456511836	of web pages
+0.1455794250	art performance
+0.1455556545	the rapid development
+0.1454810226	the review
+0.1452238759	a brain
+0.1451636448	derived from
+0.1449716552	work together
+0.1448213846	few studies
+0.1446112997	dynamic time
+0.1446015177	a key role
+0.1445887130	of machine learning models
+0.1445307918	interacting with
+0.1444956100	much attention
+0.1443521075	concentrate on
+0.1442881641	a comprehensive
+0.1442049516	the covid 19
+0.1441549901	more attention
+0.1439061472	this article illustrates 10
+0.1438285432	determine whether
+0.1437700143	empirical study on
+0.1437301772	based approach to
+0.1436002507	decision making in
+0.1432359242	in many domains
+0.1431602393	paper shows
+0.1429789267	more efficient
+0.1428621153	to achieve
+0.1428023760	prediction system
+0.1427598516	even if
+0.1427000828	in addition
+0.1425529555	generated using
+0.1425243988	a smartwatch
+0.1422668822	eye tracking in
+0.1422185838	an optimization
+0.1422077060	frequently used
+0.1420972006	plethora of
+0.1420023450	many existing
+0.1419424691	to improve
+0.1418454911	high levels
+0.1416722771	no prior
+0.1415859627	four types
+0.1414155254	the user study
+0.1408942854	a new data
+0.1408291224	no significant
+0.1407697058	a flexible
+0.1407483918	of daily living
+0.1406843926	enable users to
+0.1401293828	do not
+0.1398895319	focus on
+0.1397169970	the training data
+0.1396601281	future work
+0.1395955155	making process
+0.1395080719	referred to as
+0.1394366609	the other hand
+0.1393086027	the current state
+0.1391044507	new features
+0.1389854504	$ n =
+0.1388685826	easy to use
+0.1388312981	to learn
+0.1386911871	affected by
+0.1386096458	different groups
+0.1384821776	powered by
+0.1384689649	motivated by
+0.1384212081	$ n
+0.1383575050	faster and more
+0.1383134767	a conversational
+0.1382227486	run time
+0.1378781835	the loop
+0.1376780624	neural networks for
+0.1374575790	able to recognize
+0.1374141675	navigation system
+0.1373225719	incorporated into
+0.1370137185	a cyber
+0.1369278556	well designed
+0.1369255710	over trust
+0.1368041658	natural way
+0.1366819286	results show
+0.1365991611	10 inventions
+0.1360391338	this work presents
+0.1359545190	refers to
+0.1359540565	analytics system
+0.1357818154	devoted to
+0.1353033206	the results showed
+0.1348577111	a significant impact
+0.1348272556	new generation
+0.1347980060	between ot and
+0.1347639853	a wearable
+0.1347566278	interactive visualization system
+0.1347417716	few years
+0.1346903250	expert users
+0.1344327948	relied on
+0.1342370256	very limited
+0.1341463033	living with
+0.1340305642	the wild
+0.1337727469	number of
+0.1334333464	the secret
+0.1333533048	this paper aims to serve as
+0.1324275402	to understand
+0.1321020793	deep learning for
+0.1320454484	most likely
+0.1318434939	make sense
+0.1315397201	make decisions
+0.1315140402	an attention
+0.1314604677	reliance on
+0.1314003273	able to achieve
+0.1313692387	recognition system
+0.1312855051	these findings
+0.1312644757	case study on
+0.1309940974	extracted from
+0.1308743431	complex human
+0.1308169260	distinguish between
+0.1307665209	this manuscript
+0.1305871350	based language
+0.1304749671	adhere to
+0.1303154034	contrary to
+0.1302967621	a tree
+0.1302273694	an easy
+0.1302063714	literature review of
+0.1300383619	a subjective
+0.1299929089	social interactions in
+0.1298257831	computer interactions
+0.1296555862	primer for
+0.1294709961	the entire field of
+0.1292301767	a first person
+0.1292280755	an android
+0.1292214230	as far as
+0.1291458598	equipped with
+0.1289793375	decisions made
+0.1289132304	widely available
+0.1288505527	key role in
+0.1286513395	an abstract
+0.1283966392	to address
+0.1283413315	detailed analysis
+0.1281113977	empirical study of
+0.1279727006	conjunction with
+0.1279293712	quality data
+0.1278726255	two use cases
+0.1273056290	different ways
+0.1269667597	communication between
+0.1268356742	to detect
+0.1268233134	new knowledge
+0.1267257714	a definition
+0.1267034477	the collected data
+0.1266658768	with humans in
+0.1266575004	total number of
+0.1265612574	bci system
+0.1263174660	the open source
+0.1262826327	this regard
+0.1261438919	an essential
+0.1260792802	the scale
+0.1260457407	of training data
+0.1259205231	benefit from
+0.1258321992	data set of
+0.1257652441	language recognition
+0.1257545042	an average
+0.1257326000	using crowdsourcing
+0.1256379820	more robust
+0.1254310431	an online
+0.1250710490	case study of
+0.1250575146	further study
+0.1250132926	currently available
+0.1249923566	3d gaze
+0.1249242660	a short review and primer on
+0.1246714782	a privacy
+0.1245821924	the eye tracking
+0.1245136303	intention to use
+0.1245017839	an experimental
+0.1244882545	more important
+0.1242416759	refer to
+0.1241491111	a new way
+0.1240802074	new method
+0.1240604473	augmented reality for
+0.1239885415	higher than
+0.1238944343	series data
+0.1238603946	3d model
+0.1236523874	more realistic
+0.1234183496	away from
+0.1234128727	the end users
+0.1233897413	an intuitive
+0.1233700306	each subject
+0.1231315993	the data collected
+0.1230283165	toolbox for
+0.1230142888	body of work
+0.1226499757	based on
+0.1226091450	the design space
+0.1225531525	to support
+0.1224475153	completion time
+0.1224176694	results indicated
+0.1222392862	to build
+0.1222311566	two user
+0.1221428167	ongoing work
+0.1220690500	the function
+0.1220072411	interact with
+0.1218533634	produced by
+0.1218118673	3d objects
+0.1217790205	each participant
+0.1217683274	between users and
+0.1216166871	deal with
+0.1214677949	to provide
+0.1212371672	help researchers
+0.1212351518	approaches based
+0.1211921288	a novel framework
+0.1211429944	each worker
+0.1208627736	space and time
+0.1207806507	think about
+0.1204240169	arises from
+0.1203724724	evidence from
+0.1203422306	not require
+0.1202351518	based video
+0.1199385224	to trust
+0.1197419573	the most informative
+0.1197400668	due to
+0.1196597339	3d object
+0.1196267815	the user
+0.1195931527	more than
+0.1195413644	of human activities
+0.1191904808	determine if
+0.1191733355	inventions on
+0.1191556191	task using
+0.1190847798	user experience of
+0.1190660073	tend to
+0.1190069802	based gesture
+0.1189701761	other domains
+0.1189624092	a single
+0.1189205231	supported by
+0.1187700369	a minimum
+0.1187258808	different factors
+0.1186950267	existing state
+0.1186484783	full potential
+0.1184286665	state of
+0.1183646834	of crowd workers
+0.1183493657	acts as
+0.1182611708	before and after
+0.1181737789	a graphical user
+0.1181166582	do not know
+0.1181008501	this gap
+0.1179939509	and visualization of
+0.1179723003	the mass
+0.1179545997	whether or not
+0.1178624644	reality system
+0.1176896160	a word
+0.1176161752	visual analytics of
+0.1173497227	between human and
+0.1172755701	a novel approach
+0.1171863681	similarity between
+0.1170889923	used to train
+0.1169417009	other applications
+0.1169276158	user needs
+0.1167674303	two distinct
+0.1166110625	very important
+0.1165792189	proposed technique
+0.1163042025	a qualitative
+0.1162290015	information about
+0.1162193010	3d space
+0.1161933355	near future
+0.1161837838	more effective
+0.1161663716	more specifically
+0.1161191598	further propose
+0.1160974473	the user's
+0.1160546118	use of social
+0.1159905758	rapid development of
+0.1158815582	algorithm based on
+0.1158606883	cope with
+0.1157631068	natural user
+0.1156700197	do so
+0.1156253874	new opportunities
+0.1155009423	experiments show
+0.1152671555	of data points
+0.1152481831	human behavior in
+0.1150920787	large amount of
+0.1149400195	information needs
+0.1149070852	most effective
+0.1148112865	approaches based on
+0.1148088596	arising from
+0.1147670938	to suggest
+0.1146766912	link between
+0.1146224815	user experience in
+0.1145524387	high level of
+0.1144430676	growing interest in
+0.1144278860	to obtain
+0.1144268057	of end user
+0.1143905744	an educational
+0.1142874886	the p300
+0.1142790279	an extract from
+0.1141636851	a b
+0.1141014465	available datasets
+0.1139543758	links between
+0.1139275889	different levels
+0.1139172343	by proposing
+0.1138999903	awareness among
+0.1138043158	past few
+0.1137842390	a soft
+0.1136070924	long time
+0.1135589399	widespread use
+0.1131785138	3d virtual
+0.1130640102	able to predict
+0.1130504973	computer systems
+0.1129779427	of e learning
+0.1129362925	a total
+0.1127929461	and hard of hearing
+0.1125552049	first time
+0.1125106675	very challenging
+0.1125042685	human like
+0.1123922180	analysis using
+0.1123765476	to perform
+0.1122647928	leads to
+0.1121427883	the engagement
+0.1120523253	the important
+0.1119437635	two major
+0.1118297551	all over
+0.1116557404	millions of people
+0.1116238878	an iot
+0.1113906865	the chi
+0.1113291366	lead to
+0.1111050621	of up to
+0.1109900838	insights about
+0.1108559639	human decision
+0.1108244970	in spite of
+0.1107873897	knowledge about
+0.1106542945	overall accuracy
+0.1105085128	the so called
+0.1104895086	by exploiting
+0.1104524240	short time
+0.1103821122	the last decade
+0.1102974226	challenging because
+0.1102555542	this work introduces
+0.1102040639	followed by
+0.1101985940	a recurrent
+0.1101505820	a corpus
+0.1101466620	these patterns
+0.1101228273	models based on
+0.1101054393	among others
+0.1100683151	one hand
+0.1099561435	to enable
+0.1099471787	by demonstration
+0.1099313903	large dataset
+0.1098928882	framework based on
+0.1098066251	in human computer interaction
+0.1097535808	the experimental results
+0.1097507503	reflection on
+0.1097455883	an extensive
+0.1095601634	to identify
+0.1095034406	the computer vision
+0.1094176667	each step
+0.1093947842	first present
+0.1093800106	help designers
+0.1093045993	based simulation
+0.1093021994	to determine
+0.1091800028	a user interface
+0.1090341067	growing interest
+0.1089500028	an extended
+0.1088984477	a computational
+0.1087627436	not only
+0.1087461746	then present
+0.1083432662	the single
+0.1083346789	relations between
+0.1082041878	more intuitive
+0.1080523801	need to understand
+0.1080280964	better than
+0.1080255572	over time
+0.1077820402	to assess
+0.1076531144	more complex
+0.1076155301	to experience
+0.1075723873	different subjects
+0.1075683207	to protect
+0.1075218868	these technologies
+0.1074557405	an event
+0.1074186345	drawn from
+0.1073672761	new tasks
+0.1072874737	two methods
+0.1067749593	possible solutions
+0.1065860218	other methods
+0.1065824166	the last few years
+0.1065565255	the classification accuracy
+0.1065468075	most recent
+0.1064730741	everyday human
+0.1064655516	to solve
+0.1064001298	as opposed to
+0.1063332496	most existing
+0.1062041217	a proof
+0.1061210585	the data
+0.1060875522	online question
+0.1059962344	large dataset of
+0.1059460003	the advantages and
+0.1059143005	starting from
+0.1058875357	greater than
+0.1058724308	such applications
+0.1058704637	the european
+0.1058690408	recent work
+0.1058560370	increasing interest
+0.1058442761	the results suggest
+0.1056044212	most commonly
+0.1054839660	better performance
+0.1049121618	the validity
+0.1049067388	re use
+0.1049014084	kinds of
+0.1047828993	space time
+0.1047080093	by leveraging
+0.1042698245	the most important
+0.1042580382	an iterative
+0.1042415335	significant amount of
+0.1041224197	as well as
+0.1040784304	method based
+0.1039705356	new dataset
+0.1038730241	this limitation
+0.1037627289	most important
+0.1036694928	a tangible
+0.1036314669	the extended
+0.1036298356	new tools
+0.1036061472	any other
+0.1035528236	to tackle
+0.1034357162	certain level
+0.1031686345	determined by
+0.1029785793	better understanding
+0.1029608422	to enhance
+0.1028368607	various techniques
+0.1027167036	consists of
+0.1027008240	works well
+0.1026383710	listen to
+0.1025587328	a prototype system
+0.1022951327	able to learn
+0.1022545179	in air
+0.1021716239	of people in
+0.1020375029	three major
+0.1020312646	interaction using
+0.1019749697	reality applications
+0.1019184509	aim at
+0.1019068282	this dissertation
+0.1017668916	correspond to
+0.1015744151	and time consuming
+0.1015175018	significantly better
+0.1014195365	most relevant
+0.1013738495	to evaluate
+0.1013131956	a gaze
+0.1011719208	a hybrid
+0.1011460003	the difficulty of
+0.1011460003	the contributions of
+0.1011379326	language interface
+0.1011180151	a synthesis
+0.1010929700	the dynamics of
+0.1010929700	the cost of
+0.1010929700	the implications of
+0.1010630409	user study of
+0.1009995794	the importance
+0.1009889506	one or more
+0.1008994193	the next generation
+0.1007717239	to overcome
+0.1006508240	long way
+0.1006147115	apart from
+0.1003959148	such tools
+0.1003738764	the most common
+0.1002514851	one way
+0.1001634399	perform well
+0.1001568603	a cross
+0.1001460003	the safety of
+0.1001460003	the act of
+0.1001460003	the light of
+0.1000929700	the behavior of
+0.1000929700	the needs of
+0.1000015160	this work proposes
+0.0999690479	last few
+0.0999470287	study based on
+0.0999395486	the human computer
+0.0998571131	a robot's
+0.0998037818	the case study
+0.0998007068	user interface of
+0.0997504272	to project
+0.0996243834	an analysis
+0.0995348892	the risks of
+0.0994932143	to generate
+0.0994869973	a risk
+0.0994337122	first step
+0.0993238476	the resulting
+0.0992096853	concerned with
+0.0991460003	the principles of
+0.0990929700	the help of
+0.0990388541	an audio
+0.0989519101	millions of
+0.0989381855	design space of
+0.0989094489	work done
+0.0988554547	to explore
+0.0986087605	a cost
+0.0986011956	3d visualization
+0.0985348892	the behaviour of
+0.0984679962	reality based
+0.0984604563	by providing
+0.0984432143	to develop
+0.0984391803	concerns about
+0.0981914556	questions about
+0.0981481095	many studies
+0.0978730635	by combining
+0.0978151042	recorded during
+0.0978134182	environment using
+0.0977896364	more reliable
+0.0977543713	more sophisticated
+0.0977245259	to assist
+0.0976904998	work addresses
+0.0976579990	by observing
+0.0976460003	the motivation of
+0.0975929700	the domain of
+0.0975557560	able to
+0.0972378400	a large
+0.0971933398	often requires
+0.0971663553	consist of
+0.0971460003	a guide to methods and
+0.0971460003	the concepts of
+0.0971460003	the intent of
+0.0970929700	the perspective of
+0.0970427909	this approach
+0.0969818589	the advantages of
+0.0969655813	very high
+0.0969285238	take advantage of
+0.0968535082	various tasks
+0.0967819225	present study
+0.0967763170	a usability
+0.0967348148	for instance
+0.0967293337	the visualization of
+0.0967152593	a lightweight
+0.0966636460	by conducting
+0.0965929700	in response to
+0.0964745396	by employing
+0.0964100972	a convolutional neural
+0.0963958362	most popular
+0.0963895718	mapping between
+0.0961509072	the map
+0.0961188878	a framework
+0.0961056970	little research
+0.0960929700	the limitations of
+0.0960929700	the location of
+0.0960444812	compared to
+0.0959103735	to predict
+0.0959103735	to facilitate
+0.0957293337	the features of
+0.0957293337	the output of
+0.0956795698	a proof of concept
+0.0955929700	the capabilities of
+0.0955841935	also discuss
+0.0953110102	personality in
+0.0952727405	not significantly
+0.0952293337	the goals of
+0.0952187912	participated in
+0.0951997609	the concept
+0.0951771763	a behavior
+0.0951700202	the present work
+0.0951460003	the age of
+0.0951460003	the areas of
+0.0950976163	a location
+0.0950929700	a function of
+0.0950929700	the end of
+0.0950929700	the findings of
+0.0950929700	the challenges of
+0.0950929700	the recognition of
+0.0950782740	detection using
+0.0950752311	often require
+0.0950063869	a crowdsourcing
+0.0949726249	control over
+0.0947356013	two steps
+0.0946942458	a practical
+0.0946182225	the detection of
+0.0946182225	the usage of
+0.0945751665	the blind
+0.0945751665	the history
+0.0945348892	the space of
+0.0944579144	to ensure
+0.0944342397	offered by
+0.0943753595	interactive web
+0.0943504918	evaluated based
+0.0942293337	the experience of
+0.0942293337	the control of
+0.0942293337	the prediction of
+0.0942293337	the training of
+0.0941460003	the security of
+0.0941460003	the frequency of
+0.0941460003	the position of
+0.0941251257	the past few years
+0.0940929700	the focus of
+0.0940858451	an objective
+0.0940295307	many applications
+0.0939872226	20 participants
+0.0939818589	the challenge of
+0.0938799888	these data
+0.0938000407	for use in
+0.0937671595	on smartphone
+0.0936182225	in light of
+0.0935125747	a better understanding
+0.0933083485	coping with
+0.0932341571	on board
+0.0932293337	the usability and
+0.0932293337	the challenges in
+0.0932293337	the framework of
+0.0931496484	but also
+0.0931464546	the rise
+0.0931460003	the movements of
+0.0931460003	a community of
+0.0931460003	and control of
+0.0931460003	the work of
+0.0931460003	the face of
+0.0931460003	the outcome of
+0.0931460003	the problems of
+0.0931404536	classified into
+0.0930929700	the content of
+0.0930878817	allows researchers
+0.0930496504	neural network for
+0.0929836392	exploratory study of
+0.0929818589	the way for
+0.0928820776	issues such as
+0.0928270159	more difficult
+0.0928000407	more and more
+0.0927293337	the details of
+0.0926713978	a comprehensive review of
+0.0926460003	the management of
+0.0926182225	the paper also
+0.0926182225	the fields of
+0.0925398270	a generalized
+0.0925090033	discussion about
+0.0924765459	the matrix
+0.0924763943	large amount
+0.0924573871	a design
+0.0924143573	various applications
+0.0923316450	based brain
+0.0922427043	in many ways
+0.0922293337	the question of
+0.0922293337	the movement of
+0.0922008716	wisdom of
+0.0921562185	work presents
+0.0921460003	the environment and
+0.0921460003	the knowledge of
+0.0919948429	more powerful
+0.0919839295	possible future
+0.0919303862	two important
+0.0919043522	viewed as
+0.0918917054	by introducing
+0.0918466912	a dynamic
+0.0918433635	the art of
+0.0918263033	in order to
+0.0917583597	various domains
+0.0917293337	the addition of
+0.0917293337	the classification of
+0.0915929700	the risk of
+0.0915735615	case studies of
+0.0915348892	the study also
+0.0914667345	at https
+0.0913360589	provided by
+0.0913203946	with different levels
+0.0913120633	generated by
+0.0912787313	each other
+0.0912293337	the example of
+0.0912293337	the time of
+0.0910854998	associated with
+0.0910513867	^ \
+0.0910314766	a collective
+0.0909459828	not fully
+0.0908169899	with and without
+0.0907955272	used to analyze
+0.0907946425	first study
+0.0907293337	the way in
+0.0907293337	the ways in
+0.0906460003	a measure of
+0.0906182225	and so on
+0.0906178473	a user
+0.0905348892	and challenges of
+0.0904993953	related to
+0.0904955893	by analyzing
+0.0904777296	on screen
+0.0903585576	the quality
+0.0903378551	of user behavior
+0.0902540271	comparison between
+0.0901535237	during interaction
+0.0901184967	to reduce
+0.0901087834	become one of
+0.0900698512	different forms
+0.0899915571	capable of
+0.0899818589	in comparison to
+0.0899319991	a novel data
+0.0896202405	these insights
+0.0895538392	unaware of
+0.0895348892	in support of
+0.0894377788	to realize
+0.0893739794	the use
+0.0893581904	the first step
+0.0893530710	the source of
+0.0893199696	the national
+0.0892828970	these problems
+0.0892740437	further research
+0.0891600012	an integral part of
+0.0891487693	the main
+0.0891356274	a smart
+0.0890785256	so as to
+0.0890378104	efficient way
+0.0889910168	differs from
+0.0889528704	targeted at
+0.0889432998	to maximize
+0.0889128248	obtained through
+0.0888893464	challenging due to
+0.0888409970	performance using
+0.0888000407	and limitations of
+0.0887051001	a priori
+0.0886447147	to educate
+0.0885348892	a source of
+0.0884975928	new interaction
+0.0884539773	by enabling
+0.0883269150	these scenarios
+0.0882833250	the contemporary
+0.0882544093	increasing interest in
+0.0882473714	the model to
+0.0881794787	an experiment
+0.0880477844	gathered from
+0.0879766108	obtained from
+0.0878978988	insights from
+0.0878898394	an optimal
+0.0877790452	paper gives
+0.0875781619	conclude by
+0.0875662460	a range
+0.0875295683	these interactions
+0.0875200432	used to assess
+0.0874340136	to drive
+0.0873982527	to acquire
+0.0873530710	this results in
+0.0873391326	interactions between
+0.0873080993	these issues
+0.0869361202	by exploring
+0.0867566151	work demonstrates
+0.0867168461	an application
+0.0866730244	among multiple
+0.0866125931	also present
+0.0865474128	the uk
+0.0864971891	based on deep
+0.0861505911	analysis of
+0.0860964601	an automatic
+0.0858257139	a hierarchical
+0.0857620722	this position
+0.0857442821	an effective
+0.0857160061	distance between
+0.0856706975	system architecture
+0.0856359300	interface allows
+0.0855848274	represented as
+0.0855751307	more similar
+0.0854685582	benefits over
+0.0854546346	this research
+0.0853961816	easy to
+0.0853409126	various aspects
+0.0853017624	the university
+0.0852639851	allows users
+0.0852523731	the discovery of
+0.0852523731	and usage of
+0.0852211777	while providing
+0.0850653491	while performing
+0.0850499223	this problem
+0.0850114021	of oz
+0.0848991330	more on
+0.0847741798	in terms of
+0.0847528353	hands on
+0.0846476516	these challenges
+0.0845961974	also introduce
+0.0844078622	act as
+0.0843726276	these questions
+0.0842299577	a benchmark
+0.0841751184	new technologies
+0.0841246658	the design and development
+0.0840678395	gap between
+0.0840124168	the trade off between
+0.0839099899	the trade off
+0.0838085009	prone to
+0.0837256516	a human
+0.0835963184	set of
+0.0835798028	captured by
+0.0835469083	to better understand
+0.0835187670	problems such as
+0.0835175771	access to
+0.0833774896	an agent's
+0.0833328640	these tools
+0.0833227345	and trends in
+0.0829634552	an emerging
+0.0829562478	to infer
+0.0827648402	fraction of
+0.0822534952	3d models
+0.0822523731	in case of
+0.0822262919	these methods
+0.0822004512	the proposed
+0.0821860853	report on
+0.0821816281	thousands of
+0.0821599780	also provide
+0.0821496462	more likely to
+0.0820880817	various types
+0.0820818942	this setting
+0.0820786999	these results
+0.0820536762	significantly more
+0.0820269886	the human
+0.0819920113	many users
+0.0819598760	to record
+0.0818448139	on body
+0.0817212958	a quantitative
+0.0816884657	system usability
+0.0816792142	system to support
+0.0815888785	findings show
+0.0815824843	a person's
+0.0815689572	a web
+0.0814963760	to visualize
+0.0814907381	two experiments
+0.0814868018	in order to achieve
+0.0814761568	consisting of
+0.0813762686	devices such as
+0.0813016400	an ar
+0.0812526857	correlated with
+0.0812057551	the step
+0.0810380807	becoming more
+0.0809940883	two groups
+0.0807815426	a novel
+0.0806626197	emerged as
+0.0806363200	accounting for
+0.0805012766	with respect to
+0.0804704475	on device
+0.0804236540	by evaluating
+0.0803942876	by measuring
+0.0803887837	two studies
+0.0803347637	to capture
+0.0803135027	combined with
+0.0802424914	two datasets
+0.0801268645	much less
+0.0801237018	the u.s
+0.0800627610	the design and implementation
+0.0800044911	learn about
+0.0799225387	on site
+0.0798322353	a game
+0.0797331530	also presented
+0.0797284712	relate to
+0.0796893833	to avoid
+0.0796667699	configuration of
+0.0795687791	a robot
+0.0795604936	to recognize
+0.0795555494	the number
+0.0795501996	to focus
+0.0795457804	better understanding of
+0.0795409917	training time
+0.0795040309	an ongoing
+0.0794856873	existing work
+0.0794520475	from home
+0.0793926213	most common
+0.0790482366	an understanding
+0.0790477644	a dedicated
+0.0790395116	a proof of
+0.0789968378	at hand
+0.0787718999	an opportunity
+0.0787640788	more engaging
+0.0787456791	collected from
+0.0787166625	as well as for
+0.0786785674	in order to improve
+0.0786758692	the ultimate
+0.0786374536	emphasis on
+0.0785824765	different areas
+0.0785382782	well being
+0.0783303803	navigate through
+0.0783257739	new challenges
+0.0782595313	a concrete
+0.0781920452	each task
+0.0781380995	decisions about
+0.0780483946	while simultaneously
+0.0779560036	more natural
+0.0776890923	increasingly used
+0.0775448109	to bridge
+0.0775445470	reflect on
+0.0774430337	a brain computer
+0.0773480863	an explanation
+0.0772982504	work focuses on
+0.0771962919	to accomplish
+0.0770559819	each individual
+0.0770379554	well suited for
+0.0770269886	the model
+0.0770138016	but rather
+0.0769857626	first experiment
+0.0769144746	the human in
+0.0768785142	work shows
+0.0768686606	framework using
+0.0767491182	defined by
+0.0766905562	all participants
+0.0764139314	three key
+0.0763946161	the robot
+0.0763586686	the complexity
+0.0762579634	first introduce
+0.0762065553	to comprehend
+0.0760797954	do not provide
+0.0760094166	new insights
+0.0759964932	impact on
+0.0759958740	more easily
+0.0758888865	a sensor
+0.0758641008	the state
+0.0757724121	imposed by
+0.0756905658	used to compare
+0.0756444088	to go
+0.0755815268	during training
+0.0754325924	a variety of applications
+0.0754031177	continues to
+0.0753482140	these approaches
+0.0753035377	interested in
+0.0752035345	a primer for
+0.0751537509	the fly
+0.0749398782	a voice
+0.0749306801	all users
+0.0749023273	relation between
+0.0748765883	different domains
+0.0748264564	do not support
+0.0747759467	for further research
+0.0746635389	these datasets
+0.0746449501	understanding of
+0.0745455101	unable to
+0.0744843274	an overview of
+0.0743689460	a well known
+0.0743588173	many ways
+0.0742477051	a wide range of
+0.0742465032	such systems
+0.0742009687	an expert
+0.0741274556	these systems
+0.0741126382	guidelines for
+0.0740912681	the near future
+0.0740514970	effective than
+0.0740398013	the results
+0.0739801805	including 12
+0.0738994850	does not need
+0.0738141456	between humans
+0.0737378581	the area
+0.0737321661	these devices
+0.0737197059	the game
+0.0736556390	reflecting on
+0.0736089408	this area
+0.0735759104	aspects of
+0.0735303801	performed by
+0.0734061241	a novel method
+0.0733173040	in computer science
+0.0732167856	more advanced
+0.0732090923	design of new
+0.0730982816	the case
+0.0730843124	a matter of
+0.0730536661	case study with
+0.0729925850	assigned to
+0.0729257658	a crowd
+0.0729199811	research into
+0.0728799037	in 3d space
+0.0728728281	to minimize
+0.0728688817	a key role in
+0.0728585701	a simple
+0.0728230504	different types of
+0.0727744850	most widely used
+0.0727538676	such as
+0.0727325566	different kinds
+0.0726825523	an effective way
+0.0726544530	this experiment
+0.0726142188	these objectives
+0.0725982242	machine learning for
+0.0725777512	a series of
+0.0725459572	by applying
+0.0725403840	used to predict
+0.0725004466	the performance
+0.0725004061	a new
+0.0724905745	system performance
+0.0724729185	hundreds of
+0.0724657626	further improve
+0.0723838937	the international
+0.0723833483	interaction between
+0.0723659710	more accurately
+0.0723524807	many aspects
+0.0723112218	aims to
+0.0722834568	a process
+0.0722753213	achieved through
+0.0720392991	a novel deep
+0.0720197822	represented by
+0.0719708640	research work
+0.0719092097	not just
+0.0718376937	most widely
+0.0718077253	second study
+0.0717457808	the listener
+0.0716927319	to teach
+0.0716479247	the flow
+0.0715143039	each user
+0.0714427565	this work
+0.0714251772	the same
+0.0713426209	to design
+0.0713358247	a discussion
+0.0712409201	at present
+0.0711969842	the task
+0.0711811754	responds to
+0.0711469380	these behaviors
+0.0711286433	perform better
+0.0709852938	an app
+0.0709834381	related work
+0.0709735080	new ways
+0.0709717261	along with
+0.0709467296	two approaches
+0.0709386197	informed by
+0.0709092114	on average
+0.0708712887	lead to better
+0.0708163402	different approaches
+0.0708053234	an image
+0.0707457779	the world's
+0.0707018324	criteria for
+0.0706999771	the form
+0.0705964932	compared with
+0.0705508828	each group
+0.0705375814	the last years
+0.0705164015	only provide
+0.0704528265	data as well
+0.0704340138	using smartphones
+0.0703509724	these components
+0.0703476257	used to detect
+0.0703443973	for representing
+0.0702836987	to discover
+0.0701867962	dependent on
+0.0701624523	studies show
+0.0701389175	development of new
+0.0701038106	different categories
+0.0700026765	an emotion
+0.0699588680	by creating
+0.0699569831	to help researchers
+0.0699517191	from demonstration
+0.0699466401	a variety of
+0.0699399267	two way
+0.0699273903	the impact
+0.0698953181	useful information
+0.0697420564	different methods
+0.0695991964	the center
+0.0695200122	by building
+0.0695152679	these techniques
+0.0695045367	achieved by
+0.0694153089	compatible with
+0.0693311412	the data from
+0.0692813502	such devices
+0.0692477755	data from
+0.0692435744	led to
+0.0692255667	conclude with
+0.0691666625	the system in
+0.0691592025	this model
+0.0691181758	posed by
+0.0690420831	used to create
+0.0690409469	more likely
+0.0688205729	react to
+0.0687564527	the robustness
+0.0687447498	an early
+0.0687322667	one major
+0.0686334325	an interesting
+0.0685763275	by comparing
+0.0685568423	these models
+0.0684773999	by increasing
+0.0684086085	from speech
+0.0683608202	an increased
+0.0683150382	approach allows
+0.0682987473	the first study
+0.0682615663	the application
+0.0682242175	tools for
+0.0681880453	evaluation of
+0.0681623009	these algorithms
+0.0681075473	an agent
+0.0679497913	new approach
+0.0679165645	responsible for
+0.0678550831	ubiquity of
+0.0677231954	a new form
+0.0677018902	effect on
+0.0676768063	an increasing
+0.0676029466	a mobile
+0.0676025824	coming from
+0.0675780809	based upon
+0.0674780003	to plan
+0.0674741964	the strength
+0.0674513590	first step towards
+0.0674090060	coupled with
+0.0673507151	system called
+0.0671963675	experimented with
+0.0671229252	different classifiers
+0.0671004979	the system to
+0.0670394462	to verify
+0.0669541216	while most
+0.0669403287	an area
+0.0669300428	realization of
+0.0669119134	these factors
+0.0668797738	in lab
+0.0668183571	this document
+0.0667934886	the most relevant
+0.0667396769	12 students
+0.0667379424	a consequence
+0.0666995356	applied to
+0.0666672366	consistent with
+0.0666375186	designed to help
+0.0666227060	the design
+0.0665883233	performance than
+0.0665740508	many other
+0.0665548334	this platform
+0.0664482030	an end
+0.0664382248	analysis based on
+0.0664173247	in front of
+0.0663644746	a model to
+0.0663025044	in progress
+0.0662872720	these limitations
+0.0662479705	most informative
+0.0662341817	an array of
+0.0662275880	different contexts
+0.0661743420	framework for
+0.0660764867	a wide variety of
+0.0660028889	a number
+0.0658657472	used to identify
+0.0658089721	work introduces
+0.0657800810	in order to provide
+0.0657705651	lack of
+0.0657634547	a personalized
+0.0657611001	a unified
+0.0657177195	driven by
+0.0656845901	the context
+0.0656019553	performance during
+0.0655989654	other users
+0.0655946559	widely used in
+0.0655780746	ideas from
+0.0654916981	willingness to
+0.0654466028	also allows
+0.0653033635	a human computer
+0.0653019918	an approach
+0.0652550847	features from
+0.0652293325	an architecture
+0.0652275543	the similarity
+0.0652245306	arise from
+0.0652234326	a modular
+0.0651884352	a collection
+0.0651644898	respond to
+0.0651452109	makes use of
+0.0650850665	the analyst
+0.0650048880	a model
+0.0649759163	working on
+0.0648508832	used to evaluate
+0.0648162618	overall performance
+0.0647833408	used to generate
+0.0647408355	preferred by
+0.0647376936	a given task
+0.0646645142	this kind
+0.0646565857	two types
+0.0646488007	a reinforcement
+0.0645720754	the internet of things
+0.0644823246	these platforms
+0.0644765058	the most popular
+0.0644632214	a broad range of
+0.0643502556	an unprecedented
+0.0643008190	the story
+0.0641411779	the model's
+0.0641074085	to calculate
+0.0640874922	methods based on
+0.0639828150	an assistive
+0.0639682877	begin by
+0.0639672765	to automate
+0.0639326929	to cope
+0.0639317756	to help users
+0.0639197665	much more
+0.0639197641	different tasks
+0.0639064430	such models
+0.0638440006	by identifying
+0.0638313399	these metrics
+0.0637867680	these features
+0.0637802360	an ai
+0.0636888920	not yet
+0.0636744319	a guide to
+0.0636145332	fields such as
+0.0636130785	considered as
+0.0635650751	consists of two
+0.0635073153	of state of
+0.0634697170	the same time
+0.0633885331	an ensemble
+0.0633775101	a user's
+0.0633768645	very useful
+0.0632550831	portion of
+0.0632226455	continue to
+0.0632190975	the power
+0.0632157455	an individual
+0.0632079129	an effort
+0.0631992859	for constructing
+0.0631587794	made available
+0.0631503987	a real
+0.0631126422	end to
+0.0631118336	inferred from
+0.0630992799	an engaging
+0.0630922198	used to develop
+0.0630812433	based system
+0.0630523830	the average
+0.0630265960	new research
+0.0629831480	a portable
+0.0629681414	to talk
+0.0629547140	the real time
+0.0629509690	a foundation
+0.0629473984	by changing
+0.0629428935	resulted in
+0.0629133883	nature of
+0.0629001552	to adopt
+0.0628717523	in order to evaluate
+0.0628308312	an improvement
+0.0628293427	the human's
+0.0627991429	to face
+0.0626817165	irrespective of
+0.0626073517	variety of
+0.0626025009	used for training
+0.0625786971	the well known
+0.0625326070	to program
+0.0625182794	a group
+0.0624617286	significantly different
+0.0624454683	to research
+0.0624439777	activities such as
+0.0623710322	allow users
+0.0623311412	a tool to
+0.0623259932	to point
+0.0622982520	an additional
+0.0622918345	these applications
+0.0622785424	to manage
+0.0622637875	a pilot
+0.0622431904	information from
+0.0621644179	the design of
+0.0621644179	a set of
+0.0621343627	to explain
+0.0621190983	the web
+0.0621053482	by allowing
+0.0620808995	interactive system
+0.0620768824	to convey
+0.0620428394	this methodology
+0.0620142026	the most appropriate
+0.0620067513	a markov
+0.0619758543	a plan
+0.0619472032	obtained using
+0.0619203166	more effectively
+0.0619075475	work proposes
+0.0618270707	responses from
+0.0617976391	the full potential
+0.0617760264	to interpret
+0.0617602388	to classify
+0.0617456242	a smartphone
+0.0616977310	the meaning
+0.0616964187	the capacity
+0.0615785374	this topic
+0.0615347369	evaluated through
+0.0614999222	measured by
+0.0614549401	a person
+0.0614484709	a window
+0.0614456040	with minimal
+0.0614344175	one subject
+0.0614214848	types of
+0.0613452930	novel interactive
+0.0613347308	different modalities
+0.0613256526	an object
+0.0613103079	the set of
+0.0612736582	these studies
+0.0612309200	conference on
+0.0612135220	a small
+0.0611952806	a balance
+0.0611644179	the impact of
+0.0611644179	the context of
+0.0611246095	to produce
+0.0610040939	on going
+0.0609308181	obtained by
+0.0609225315	the viewer
+0.0608771038	the internet of
+0.0608574617	collected through
+0.0608496387	approach to
+0.0608263940	identified as
+0.0608053941	but only
+0.0607288610	to extract
+0.0607288610	to estimate
+0.0606578445	to prevent
+0.0606404724	learn from
+0.0606343971	of interaction with
+0.0605810408	this paradigm
+0.0605384164	consisted of
+0.0604914045	this report
+0.0603070717	differ from
+0.0602733620	to content
+0.0602205253	adopted by
+0.0601998812	used to design
+0.0601821792	kind of
+0.0601747530	for example
+0.0601053482	by performing
+0.0600464022	the target
+0.0600239129	the role
+0.0599898359	help people
+0.0599453470	applications such as
+0.0598240599	technologies such as
+0.0597760473	an input
+0.0597480692	different application
+0.0597442219	system uses
+0.0597422588	platforms such as
+0.0597133138	the reader
+0.0596658463	suitable for
+0.0596367469	a comparison
+0.0596169629	by means of
+0.0596150406	from scratch
+0.0595836996	in depth
+0.0595779491	many cases
+0.0595542264	a human in
+0.0594559172	used to improve
+0.0594314225	as early
+0.0594154706	amount of information
+0.0592669629	on top of
+0.0591732999	to rank
+0.0591644179	the field of
+0.0591211244	to respond
+0.0591048960	often used
+0.0589926832	amount of
+0.0589551974	an algorithm
+0.0589366697	available at
+0.0588975415	to handle
+0.0588757792	prototype system
+0.0588277311	many different
+0.0588200833	proposed system
+0.0588198904	contribute to
+0.0586984018	a feasibility
+0.0586775553	also highlight
+0.0586707630	to set
+0.0586650007	to inform
+0.0586610846	a total of
+0.0586416381	an emotional
+0.0586271900	evaluated by
+0.0586084297	an action
+0.0585644295	the absence
+0.0585169629	make use of
+0.0584598096	a brief
+0.0584315562	more accessible
+0.0584059448	a new approach
+0.0583656328	compared to other
+0.0583247277	the most effective
+0.0582560761	to enrich
+0.0582479914	generated from
+0.0581483110	to gather
+0.0581452073	an important part of
+0.0581385316	levels of
+0.0580278445	to deliver
+0.0579184768	new tool
+0.0579022235	a shared
+0.0578637689	commonly used in
+0.0578497565	difficult to
+0.0578472612	created by
+0.0578167323	an arbitrary
+0.0578064785	regardless of
+0.0577378921	an information
+0.0577234441	impacted by
+0.0576662047	a system to
+0.0576577830	a service
+0.0575649377	explained by
+0.0575245759	examples from
+0.0575043617	an answer
+0.0574595272	the total number of
+0.0574545496	input from
+0.0574156390	a new method
+0.0573678573	to make
+0.0572895622	two case
+0.0572704336	the wrist
+0.0572576835	the lack
+0.0572518095	by doing
+0.0572313904	bound on
+0.0572298255	for communicating
+0.0572276153	to collect
+0.0571973224	used to provide
+0.0571767138	paper provides
+0.0571679413	to display
+0.0571429011	an ideal
+0.0571309750	learning from
+0.0570804458	the current
+0.0570768618	an eye
+0.0570578199	begun to
+0.0570369194	to alleviate
+0.0570186696	an easy to
+0.0569839493	acquired from
+0.0569713769	effective way to
+0.0569488110	to adapt
+0.0569140040	an artificial
+0.0568727306	current work
+0.0568391318	by integrating
+0.0568353441	individuals with
+0.0568205592	controlled by
+0.0567883609	the view
+0.0567477032	by incorporating
+0.0567380298	these tasks
+0.0567064767	a use case
+0.0566444179	the aim of
+0.0565765519	majority of
+0.0565612431	the definition
+0.0565483473	development of
+0.0565291984	a lack
+0.0565240507	for controlling
+0.0565112277	this framework
+0.0565052866	communicate with
+0.0564761501	learned from
+0.0564729936	a literature
+0.0564624900	these kinds
+0.0564561594	this challenge
+0.0564057865	a small number of
+0.0563719608	an environment
+0.0563413302	a dialog
+0.0563128536	a spreadsheet
+0.0562933310	the daily
+0.0562727266	using eye
+0.0562552022	the extent to
+0.0561876803	learning approach to
+0.0561848827	by adding
+0.0561653035	to navigate
+0.0561491443	percentage of
+0.0561311349	different aspects
+0.0559866234	to investigate
+0.0559473890	information on
+0.0559162086	more general
+0.0558793386	with regard to
+0.0558188859	used to control
+0.0558146067	this project
+0.0557673505	effective use of
+0.0557374900	work focuses
+0.0557299347	the field
+0.0557058550	tens of
+0.0557057263	a massive
+0.0556758183	by investigating
+0.0556504917	these agents
+0.0556289438	help users
+0.0555602276	interaction with
+0.0555379466	a machine
+0.0554768500	participating in
+0.0554400144	a command
+0.0554112277	this method
+0.0553876580	a description
+0.0553779662	the crowd
+0.0553586290	from raw
+0.0553391982	the chosen
+0.0553338840	other hand
+0.0553142000	to connect
+0.0552454132	also known as
+0.0552439915	this effect
+0.0552144818	start of
+0.0551945177	the effects
+0.0551148647	two new
+0.0550552300	parts of
+0.0550309466	foundation for
+0.0549904718	induced by
+0.0549786865	across different
+0.0549601856	new model
+0.0549509201	defined as
+0.0549491681	three case
+0.0549354196	look into
+0.0548798730	a matrix
+0.0547928879	this context
+0.0547782791	different levels of
+0.0546764289	advances in
+0.0545860758	to process
+0.0545762580	the cursor
+0.0545375405	to simplify
+0.0545327198	the ideal
+0.0544696542	the use of
+0.0544643297	an adequate
+0.0544440673	demonstrated by
+0.0543556150	type of
+0.0543503079	the user in
+0.0543499060	opportunities for
+0.0543162183	a proxy
+0.0543035615	the length
+0.0541904340	or lack
+0.0541768683	the state of
+0.0541718894	tends to
+0.0540948398	the internet
+0.0540316099	effects on
+0.0539725197	directly from
+0.0539100607	propose to use
+0.0538866515	the ability
+0.0538191318	by utilizing
+0.0538086927	the ground
+0.0538066370	to empower
+0.0537590281	drawing on
+0.0537500084	a custom
+0.0537098677	at least one
+0.0537013696	perceived as
+0.0536897584	the car
+0.0536829597	of millions of
+0.0536788244	than others
+0.0536408110	a humanoid
+0.0535903431	tasks such as
+0.0535606898	methods such as
+0.0535525767	as input
+0.0535321255	the world
+0.0535141964	the delivery
+0.0534995432	this question
+0.0534737431	the roles
+0.0534488796	building on
+0.0534366238	to model
+0.0534363663	faced by
+0.0534244747	accurate than
+0.0533964129	this process
+0.0533697059	the key
+0.0532988215	a series
+0.0532891812	a personal
+0.0531644179	the quality of
+0.0531128657	right to
+0.0530696152	a considerable
+0.0530628945	to derive
+0.0530422201	the beginning
+0.0529533931	the right time
+0.0529350955	a novel system
+0.0529111609	degrees of
+0.0529089000	to eliminate
+0.0528974157	the difference
+0.0528740688	design and evaluation of
+0.0528526113	to act
+0.0528330357	a story
+0.0528009897	to promote
+0.0527635364	a gui
+0.0527406551	an autonomous
+0.0527024264	in real time
+0.0526530009	the problem
+0.0526102495	a high
+0.0525819255	an overall
+0.0525703339	to ask
+0.0525598388	a collaborative
+0.0525510241	engage with
+0.0524994344	the robot's
+0.0524778347	trained on
+0.0524709405	for improving
+0.0523787451	the results of
+0.0523295500	features such as
+0.0523086714	the last few
+0.0522941866	to look
+0.0522891676	by presenting
+0.0522705791	to propose
+0.0522558000	interface based on
+0.0522540183	piece of
+0.0521867400	notion of
+0.0521668669	a depth
+0.0521644179	the role of
+0.0521314302	implications for
+0.0521286610	the art in
+0.0521230474	in real time and
+0.0521195155	interactions with
+0.0520753765	respect to
+0.0520260324	a new dataset
+0.0520237137	in combination with
+0.0519121839	a common
+0.0519120265	different types
+0.0518954107	feasibility of using
+0.0518852144	two ways
+0.0518247655	recognition based on
+0.0518189953	rise to
+0.0517903001	incorporation of
+0.0517676839	a formal
+0.0517293729	to do so
+0.0516931157	to select
+0.0516895734	a deep
+0.0516887230	agree on
+0.0516128269	but also in
+0.0515987198	implemented as
+0.0515605678	by developing
+0.0515523286	emergence of
+0.0515113404	wanted to
+0.0515084488	performance over
+0.0514789684	need to
+0.0514696542	the development of
+0.0514578007	the agent's
+0.0514301598	this concept
+0.0513845962	or sports
+0.0513756067	the past few
+0.0513331295	drawing from
+0.0511273642	findings from
+0.0511047393	the particular
+0.0510934946	the effect
+0.0510071636	interviews with
+0.0509458342	many domains
+0.0509313597	these effects
+0.0508951683	design and development of
+0.0508841047	walking in
+0.0508626161	the effectiveness of
+0.0508518442	across various
+0.0508260990	this review
+0.0507610107	a black
+0.0507039238	intend to
+0.0506916803	improved by
+0.0506705592	to express
+0.0506573284	a viable
+0.0506014442	data as well as
+0.0505919600	avenues for
+0.0505834914	level of
+0.0505707098	to noise
+0.0505520364	to imitate
+0.0505430482	a combination
+0.0505059538	of such systems
+0.0504554449	time series of
+0.0504517400	this pilot
+0.0504505435	system using
+0.0504471424	to exchange
+0.0504336035	guided by
+0.0504281357	the designer
+0.0503434214	to render
+0.0503345862	the semantic
+0.0503338840	given task
+0.0503103079	the robot to
+0.0501276899	exposed to
+0.0501035898	to measure
+0.0500534026	testbed for
+0.0500385997	not very
+0.0500187816	commonly used to
+0.0499852349	mixture of
+0.0499774052	the original
+0.0498677741	a focus
+0.0498307551	the covid
+0.0498255268	to analyze
+0.0498129717	typology of
+0.0497856302	an important part
+0.0497800607	an existing
+0.0497548996	based system for
+0.0497061412	of trust in
+0.0496300327	a desktop
+0.0496213052	subject to
+0.0495721843	experiments with
+0.0495294070	but not
+0.0494719674	resulting from
+0.0494696542	the performance of
+0.0494630208	calls for
+0.0494343894	to evoke
+0.0494235528	factors such as
+0.0493867094	acting as
+0.0493797366	applicable to
+0.0493541876	model for
+0.0493373012	also found
+0.0493287113	to represent
+0.0492921992	designed to
+0.0492779676	a broad
+0.0492529003	the one hand
+0.0492187322	this case
+0.0492138926	a scene
+0.0491617322	the extent
+0.0491382494	this task
+0.0491293851	to mitigate
+0.0491189868	right time
+0.0491050674	a website
+0.0491038624	close to
+0.0490968532	a movie
+0.0489954953	an implementation
+0.0489742189	feedback from
+0.0489574739	ability to
+0.0489282166	three different
+0.0488977134	relates to
+0.0488962378	the total
+0.0488503068	a team
+0.0488420482	further show
+0.0488284186	known as
+0.0488123958	characterization of
+0.0487734201	domains such as
+0.0487321577	for assessing
+0.0486998640	addressed by
+0.0486785610	likelihood of
+0.0485796381	a pair
+0.0485639262	techniques such as
+0.0485577160	vulnerable to
+0.0485545488	not rely on
+0.0485530166	other words
+0.0484966166	cycle of
+0.0484547473	a method
+0.0484473888	the united
+0.0484469158	a binary
+0.0483968970	this dataset
+0.0483793030	to simulate
+0.0483278922	an interface
+0.0483269265	the university of
+0.0482850948	working with
+0.0482832337	an optical
+0.0482739542	to determine whether
+0.0482497699	presented as
+0.0482300009	a vast
+0.0482137222	a diverse set of
+0.0481644179	the problem of
+0.0481438668	a subset
+0.0481402131	this survey
+0.0481209167	game with
+0.0480995832	the hmd
+0.0480641594	involved in
+0.0480337659	appropriateness of
+0.0480289966	an important role in
+0.0480140638	datasets from
+0.0480125153	for measuring
+0.0479786238	other forms of
+0.0479488391	the classroom
+0.0478757530	the situation
+0.0478201994	to elicit
+0.0478160609	the first time
+0.0478092188	samples from
+0.0478018665	novel method
+0.0477367202	to aggregate
+0.0477127323	a probabilistic
+0.0477041443	comparison of
+0.0476901145	the surrounding
+0.0476900190	to study
+0.0476683274	systems such as
+0.0476014215	step by
+0.0475860125	all possible
+0.0475684975	to demonstrate
+0.0475454970	this tool
+0.0475231652	to bring
+0.0474741303	click on
+0.0474544727	to differentiate
+0.0474099281	novel visualization
+0.0474063926	these new
+0.0473895239	a major
+0.0473882146	intends to
+0.0472970939	to test
+0.0472810469	to train
+0.0472800078	method for
+0.0472572862	plan to
+0.0472293818	three types of
+0.0472205882	people use
+0.0471339343	perceived by
+0.0471300831	with autism
+0.0470918511	for detecting
+0.0470878274	the latter
+0.0470634436	a state of
+0.0470400875	the player's
+0.0470000412	to filter
+0.0469802254	to operate
+0.0469795928	the aim
+0.0469743505	a field
+0.0469623527	probability of
+0.0469603265	an extension
+0.0469194267	taking into
+0.0469179369	a patient
+0.0468805839	to guide
+0.0468748057	amount of data
+0.0468363303	an external
+0.0468194466	contact with
+0.0467502276	the website
+0.0467453688	notions of
+0.0467326888	design and implementation of
+0.0466945112	to compute
+0.0466856653	a participatory
+0.0466577310	to peer
+0.0466082259	amounts of
+0.0466013558	to implement
+0.0465916039	tool for
+0.0465859317	gained from
+0.0465649540	by taking
+0.0465058100	suited to
+0.0464995904	by showing
+0.0464871219	contributes to
+0.0464815120	to recommend
+0.0464798302	similar to
+0.0464780365	built on
+0.0464378377	existence of
+0.0463772632	the current state of
+0.0463348369	the convergence
+0.0463313988	a prototype
+0.0462730504	the advent of
+0.0462612667	used to
+0.0462556680	the pandemic
+0.0462257186	the necessity
+0.0462062112	limited to
+0.0461587674	become more
+0.0461531946	to optimize
+0.0461382446	to establish
+0.0461339320	the necessity of
+0.0461244972	the left
+0.0461159295	this result
+0.0461051765	images from
+0.0461018510	inability to
+0.0460744973	the second
+0.0460733791	a worker
+0.0460732376	this idea
+0.0460610287	perceptions of
+0.0460133411	research on
+0.0460105756	the understanding of
+0.0459268774	seen as
+0.0459067466	integration with
+0.0458917937	a specific
+0.0458585771	the learner
+0.0458268711	mapping from
+0.0458043010	together with
+0.0457891481	this technique
+0.0457312374	then used
+0.0457196380	the evolution
+0.0456420512	although many
+0.0455913510	support for
+0.0455783600	other forms
+0.0455635456	in doing so
+0.0455569596	various types of
+0.0455502090	builds on
+0.0455369307	aspect of
+0.0455334908	the entire
+0.0455161626	characteristics of
+0.0455132478	feedback on
+0.0454963807	communicating with
+0.0454813536	for optimizing
+0.0454573416	the name
+0.0454438935	the elderly
+0.0454435332	different input
+0.0454234583	to analyse
+0.0453305131	to gain
+0.0453285209	widely used to
+0.0453109191	taken into
+0.0452251368	the first to
+0.0451985597	representation of
+0.0451785863	a proper
+0.0451740963	developed by
+0.0451499987	not understand
+0.0451266942	to update
+0.0451147554	strive to
+0.0450506688	collaborating with
+0.0449630821	novel framework for
+0.0449382830	the value
+0.0448876975	such as amazon
+0.0448443891	a rich
+0.0448236580	approaches to
+0.0448170160	information through
+0.0447974494	visual analytics system to
+0.0447945118	to speed
+0.0447631150	in conjunction
+0.0447606736	to use
+0.0447603084	asked to
+0.0447314744	properties of
+0.0446809066	composed of
+0.0446360892	becomes more
+0.0446358876	a robotic
+0.0446223881	solely on
+0.0445975029	subset of
+0.0445436479	with respect
+0.0445349834	an interview
+0.0445311640	with disabilities
+0.0444950158	to control
+0.0444612526	the basis
+0.0444413386	to deal
+0.0444260625	rate of
+0.0444219599	a closed
+0.0444077792	the dominant
+0.0443871934	this leads to
+0.0443787451	the effect of
+0.0443757138	to receive
+0.0443595253	under various
+0.0443531973	impacts on
+0.0443489273	absence of
+0.0443355841	a platform for
+0.0443275709	to cope with
+0.0443267366	to combine
+0.0442987694	estimation from
+0.0441965402	the driver's
+0.0441531946	to incorporate
+0.0441015791	to participate
+0.0440798992	to work
+0.0440364325	a significant
+0.0440285778	by focusing
+0.0440164767	little work
+0.0440133603	by discussing
+0.0439879199	results from
+0.0439753844	used for
+0.0439632928	accuracy of
+0.0439409473	the final
+0.0439374544	a principled
+0.0439310335	familiar with
+0.0439158177	two real
+0.0438806099	of children with
+0.0438632168	to validate
+0.0438541605	understood as
+0.0438535094	improvements on
+0.0438411839	various aspects of
+0.0438251162	to debug
+0.0438244255	an established
+0.0437857802	platform for
+0.0437760966	to remove
+0.0437760966	to enter
+0.0437736784	a subject
+0.0437298039	an advanced
+0.0437293337	decrease in
+0.0436920666	an experiment to
+0.0436855349	to preserve
+0.0436623958	exposure to
+0.0436453213	detected by
+0.0436026984	this workshop
+0.0435964884	a user study to
+0.0435775395	the difference in
+0.0435718679	tended to
+0.0435711261	to account
+0.0435564325	a key
+0.0435280415	proliferation of
+0.0434449811	essential for
+0.0434365280	to meet
+0.0434021243	suited for
+0.0433799878	to choose
+0.0433543000	limited by
+0.0433516004	the requester
+0.0433472537	a user to
+0.0432819093	distinct from
+0.0432365220	experiences with
+0.0432224088	delivered to
+0.0432153412	in particular
+0.0431535243	design of
+0.0431508251	to design and
+0.0431163110	to communicate
+0.0431113514	to label
+0.0430448860	several different
+0.0430238564	evaluated on
+0.0429929693	the user experience of
+0.0429137711	the user with
+0.0429083850	different forms of
+0.0428842753	pieces of
+0.0428760280	the order of
+0.0428757890	information into
+0.0428350880	ever more
+0.0428099641	an accuracy of
+0.0427585144	the ease of
+0.0427361442	proceedings of
+0.0427198045	this field
+0.0427147343	the least
+0.0426789976	the efficiency
+0.0426496432	the strengths
+0.0426443389	tracking system
+0.0425621723	summary of
+0.0425563592	novel framework
+0.0425391704	new type
+0.0425183925	the size
+0.0425126995	this goal
+0.0425063288	adopted in
+0.0424935516	use with
+0.0424916414	linked to
+0.0424913741	a simulated
+0.0424141512	to carry
+0.0424026620	an integral
+0.0423859850	the author
+0.0423572965	by demonstrating
+0.0423552022	the basis of
+0.0423485610	quantity of
+0.0423473270	to articulate
+0.0422819093	enhanced by
+0.0422554513	attached to
+0.0422342753	utilization of
+0.0421808825	more suitable
+0.0421773712	labels from
+0.0421429807	the driver
+0.0421173239	adapt to
+0.0421055395	to inspect
+0.0420479792	threat to
+0.0420357219	emotions from
+0.0420191029	knowledge from
+0.0419961224	to encourage
+0.0419751513	to install
+0.0419671680	a lot of
+0.0419654186	a multitude of
+0.0418892151	opposed to
+0.0418880580	a chatbot
+0.0418651981	to follow
+0.0418585431	a number of
+0.0418499535	point of
+0.0417985889	an array
+0.0416734339	an accuracy
+0.0416309779	implemented by
+0.0416022033	this direction
+0.0415995832	the child
+0.0415994957	a graphical
+0.0415550936	as well as in
+0.0415533068	the need for
+0.0415391704	three types
+0.0414293576	to integrate
+0.0414241769	this type
+0.0413816063	a metric
+0.0413485610	indicator of
+0.0413275505	crucial for
+0.0413251787	come from
+0.0413129918	a car
+0.0413063298	to compare
+0.0412992523	to guess
+0.0412909358	selected from
+0.0412901676	learned by
+0.0412099072	new forms of
+0.0411898048	to exploit
+0.0411531946	to maintain
+0.0411300167	to help
+0.0411096140	located in
+0.0411018510	attributed to
+0.0410846800	advent of
+0.0410734564	the forearm
+0.0410707459	effects of
+0.0410187214	a server
+0.0409935309	performance of
+0.0409828567	a substantial
+0.0409809719	rounds of
+0.0409745745	this observation
+0.0409188930	tested on
+0.0408986633	a means to
+0.0408787112	perception of
+0.0407192106	to motivate
+0.0407115858	in conjunction with
+0.0407058371	other types
+0.0406907361	to quantify
+0.0406644179	a range of
+0.0406644179	the feasibility of
+0.0406508251	and design of
+0.0406207712	same time
+0.0405977537	the interaction with
+0.0405971778	attention from
+0.0405299641	a group of
+0.0404918213	introduced by
+0.0404677905	built in
+0.0404652763	a majority
+0.0404427971	a real time
+0.0404364590	the screen
+0.0404341418	front of
+0.0404182167	part of
+0.0403736600	these changes
+0.0403625236	of people with
+0.0403175378	by contrast
+0.0403096806	comment on
+0.0402906211	a sense
+0.0402878755	the interplay
+0.0402821576	numbers of
+0.0402497902	faster and
+0.0402436902	enabled by
+0.0402021138	adapted to
+0.0401853079	the differences in
+0.0401827112	concludes with
+0.0401800049	the potential
+0.0401681283	recognition from
+0.0400769781	to increase
+0.0400670546	with regard
+0.0400506688	correlate with
+0.0400485007	the system
+0.0399735426	light on
+0.0399489944	a database
+0.0398758119	helpful to
+0.0398595370	prevalence of
+0.0398563622	draw on
+0.0398367574	the existence
+0.0397918131	not possible
+0.0397843024	far as
+0.0397677041	a pair of
+0.0397606344	for estimating
+0.0397347416	a realistic
+0.0397084396	to determine if
+0.0396386843	a questionnaire
+0.0396274808	conducted by
+0.0395869591	willing to
+0.0395494776	to seek
+0.0395189493	the number of
+0.0394996488	to illustrate
+0.0394717548	collected by
+0.0394684453	than other
+0.0394584435	an attempt
+0.0394046307	a fixed
+0.0393444832	the system's
+0.0393216741	engine for
+0.0392957652	a strong
+0.0392815569	a general
+0.0392578334	to monitor
+0.0392497328	fail to
+0.0392464958	to wear
+0.0392211008	a random
+0.0391911345	the future
+0.0391621767	set for
+0.0391415474	examination of
+0.0391136142	by asking
+0.0390956692	the significance of
+0.0390891325	patients with
+0.0390826476	if not
+0.0390689425	the interpretation of
+0.0390686366	the scene
+0.0390401305	the notion
+0.0390338551	tailored to
+0.0389696432	trust in
+0.0389695381	an increase
+0.0389072138	system provides
+0.0388936309	a low
+0.0388832361	signals from
+0.0388742691	recorded by
+0.0388264678	perspectives on
+0.0388060660	requirements for
+0.0387839791	this phenomenon
+0.0387761380	details on
+0.0387476683	a sequence
+0.0387064912	inclusion of
+0.0387002244	differences in
+0.0386933743	to raise
+0.0386843592	to complete
+0.0386728628	the importance of
+0.0386710180	the interplay between
+0.0386615945	the minimum
+0.0386195694	versions of
+0.0386132827	gap by
+0.0386049597	interface for
+0.0385972698	engaged in
+0.0385761225	to grow
+0.0385707459	effectiveness of
+0.0385299641	the purpose of
+0.0385003006	recognized as
+0.0384885309	as much
+0.0384714728	a list
+0.0384711317	work provides
+0.0384383453	effective way
+0.0384344506	experiments on
+0.0384229955	identity of
+0.0384007828	a guide
+0.0383798379	a modern
+0.0383601982	to construct
+0.0383571467	to advance
+0.0383423733	to engage
+0.0382696709	the rest
+0.0382606013	a short
+0.0382587214	a tool
+0.0382376736	by considering
+0.0382166118	a query
+0.0381942951	quality of
+0.0381825976	series of
+0.0381760486	a thorough
+0.0381725923	the promise of
+0.0381535222	mediated by
+0.0381281925	rise of
+0.0381239201	approach through
+0.0381132306	to distinguish between
+0.0380721205	the first
+0.0380710182	restricted to
+0.0380289490	to retrieve
+0.0380270167	while still
+0.0380181483	modality for
+0.0380089322	a target
+0.0379633862	the best
+0.0379593692	conversations with
+0.0379430316	suggestions for
+0.0379274782	this approach to
+0.0379171259	phases of
+0.0379131365	to fill
+0.0378952396	among other
+0.0378906109	the description of
+0.0378836211	a study
+0.0378763753	study on
+0.0378352004	the process of
+0.0378043153	pool of
+0.0377966961	definition of
+0.0377864346	the literature
+0.0377837568	choice for
+0.0377570221	preference for
+0.0377488762	new type of
+0.0377445863	guidance on
+0.0377316049	the suitability of
+0.0377097332	to aid
+0.0376889255	developments in
+0.0376745994	the course of
+0.0376617228	seem to
+0.0376241871	to foster
+0.0376123088	performed on
+0.0375992455	the representation of
+0.0375950301	of research on
+0.0375866662	the connection
+0.0375604942	to guarantee
+0.0375299641	the creation of
+0.0375257573	to apply
+0.0374946566	potential to
+0.0374890874	coordination in
+0.0374839032	advocate for
+0.0374766288	generalizability of
+0.0374670147	aligned with
+0.0374310499	two different
+0.0374199312	struggle to
+0.0374132964	directly on
+0.0373667063	faced with
+0.0373115232	very different
+0.0373086019	the applicability
+0.0372950219	the effects of
+0.0372460541	a recommender
+0.0372426754	contrast to
+0.0372423941	the respective
+0.0372126504	overview of
+0.0371847575	experience with
+0.0371387964	a stimulus
+0.0371244201	information such as
+0.0370998482	well as
+0.0370956692	the beginning of
+0.0370543153	participate in
+0.0370392879	identified by
+0.0370058969	introduction to
+0.0369960280	the applicability of
+0.0369603287	algorithm for
+0.0369475991	proof of
+0.0369466961	modes of
+0.0368710627	to form
+0.0368560430	methods for
+0.0368557891	the promise
+0.0368432963	this contribution
+0.0368304484	increase in
+0.0368268522	instrument for
+0.0368125667	an increasing number of
+0.0368073382	still not
+0.0367977217	and ease of
+0.0367646688	growth of
+0.0367429887	variant of
+0.0367234404	promotion of
+0.0366947634	toolkit for
+0.0366932544	to define
+0.0366890147	to reconstruct
+0.0366649092	hard to
+0.0366588298	a popular
+0.0366508251	of research in
+0.0366283335	a frame
+0.0366048783	more suitable for
+0.0365893416	appears to
+0.0365234830	make sense of
+0.0365183459	survey on
+0.0364859888	a lot
+0.0364645567	approach for
+0.0364596796	favor of
+0.0364552074	reports on
+0.0364316347	attempt to
+0.0364245994	the power of
+0.0364231834	among different
+0.0363986007	usage by
+0.0363969884	a seamless
+0.0363712074	choose to
+0.0363545697	concepts from
+0.0363234830	different kinds of
+0.0363019436	also provides
+0.0362802214	as well
+0.0362562530	the transformation
+0.0362452442	the assumption
+0.0362356270	more often
+0.0362237257	the default
+0.0362020126	technology for
+0.0361936703	attempted to
+0.0361764359	and subsequently
+0.0361712034	an augmented
+0.0361571526	dedicated to
+0.0361415889	grounded in
+0.0361365416	to track
+0.0361187250	performance on
+0.0361086925	for future
+0.0361009877	to write
+0.0360753211	to achieve better
+0.0360641082	half of
+0.0360543282	extent to
+0.0360517011	the improvement of
+0.0360196796	a promising
+0.0360164567	disadvantages of
+0.0360118181	a perceptual
+0.0360116357	or even
+0.0360070459	forms of
+0.0360033817	a supervised
+0.0359806407	to cover
+0.0359770167	across many
+0.0359705631	achieve better
+0.0359351937	the proliferation
+0.0359143511	less time
+0.0358697853	a case study of
+0.0358394170	the preprint
+0.0358333682	shown to
+0.0358032900	difference in
+0.0357999010	to annotate
+0.0357978645	allowed to
+0.0357936684	to perceive
+0.0357735669	search for
+0.0357429887	orders of
+0.0357319239	to draw
+0.0357148257	required for
+0.0357141740	often not
+0.0357053863	to decide
+0.0356495507	experiment with
+0.0356334680	the range of
+0.0356296916	than just
+0.0356100460	study of
+0.0356100460	research in
+0.0355911373	the principle
+0.0355861111	assumed to
+0.0355720827	experts from
+0.0355413330	to ease
+0.0355287475	aesthetics of
+0.0355188339	much as
+0.0355081421	influence on
+0.0355033042	relative to
+0.0355010555	assessment of
+0.0354854659	top of
+0.0354614081	much work
+0.0354603914	then describe
+0.0354585355	the concept of
+0.0354002302	a 2d
+0.0353716902	to answer
+0.0353481054	the evaluation of
+0.0353337958	solutions for
+0.0353296210	an example
+0.0353247111	the superiority
+0.0352989057	views on
+0.0352930064	easier for
+0.0352916807	and implementation of
+0.0352472504	sent to
+0.0352423941	the rationale
+0.0352356020	students with
+0.0352270597	the ubiquity
+0.0352270597	the viability
+0.0352178156	a variety
+0.0351951880	contributed to
+0.0351523948	a result
+0.0350989069	accounts for
+0.0350820041	the properties of
+0.0350619883	a customized
+0.0350574666	demand for
+0.0350544575	rest of
+0.0350415317	awareness of
+0.0350106322	a period
+0.0350080312	applicability in
+0.0349960280	to work with
+0.0349899720	place in
+0.0348842966	the development
+0.0348632974	the majority of
+0.0348548966	a prototype of
+0.0348449011	made by
+0.0347953698	system capable of
+0.0347622533	the teacher
+0.0347414710	for assisting
+0.0347406109	the assessment of
+0.0347329938	in order to make
+0.0347109985	to add
+0.0346760055	to edit
+0.0346671680	as part of
+0.0346489509	to share
+0.0346240734	precision of
+0.0345901961	important for
+0.0345771904	the past
+0.0345724499	recommendations for
+0.0345695741	comparable to
+0.0344962578	problem of
+0.0344795996	role in
+0.0344728665	application of
+0.0344678088	an appropriate
+0.0344245994	the case of
+0.0344058644	a natural
+0.0343622715	failure of
+0.0343570368	more appropriate
+0.0343557338	advancement of
+0.0343384809	view of
+0.0343027915	the maximum
+0.0342799718	annotated with
+0.0342763672	to accelerate
+0.0342648243	the presence
+0.0342583763	a reasonable
+0.0342397659	amount of time
+0.0342126504	combination of
+0.0341975898	to refine
+0.0341897429	group of
+0.0341841354	to continue
+0.0341634876	intensity of
+0.0341506278	motivation for
+0.0341451367	a list of
+0.0341394404	running on
+0.0341394404	displayed on
+0.0341334680	the results from
+0.0341185752	collaborate with
+0.0340839911	a prototypical
+0.0340795750	accessibility of
+0.0340763157	used in
+0.0340719259	scenario with
+0.0340704110	a detailed
+0.0340367519	the usual
+0.0340202609	five different
+0.0340191049	an increase in
+0.0340012388	the globe
+0.0339975305	children with
+0.0339961112	new approach to
+0.0339845277	to read
+0.0339783577	as possible
+0.0339758633	a safe
+0.0339476223	concern for
+0.0339298358	the form of
+0.0339144679	study with
+0.0338606224	hierarchy of
+0.0338579466	a wireless
+0.0338309578	literature on
+0.0337584680	the rate of
+0.0337491810	a survey of
+0.0337253093	moments of
+0.0336941959	relationship with
+0.0336440787	engaged with
+0.0336112115	the amount
+0.0336094641	to grasp
+0.0336080547	many people
+0.0335985567	four different
+0.0335911688	shortcomings of
+0.0335887316	done by
+0.0335866199	the spread
+0.0335658216	and ultimately
+0.0335328032	relevant to
+0.0335305061	implementation of
+0.0335019854	for managing
+0.0335013967	dataset from
+0.0334979398	a mechanism
+0.0334281574	capacity to
+0.0333485747	occurs in
+0.0333366959	gaze as
+0.0332623015	weaknesses of
+0.0332554342	conducted on
+0.0332541330	in order
+0.0332532278	to query
+0.0332079716	the reconstruction
+0.0331978507	engagement in
+0.0331711836	these kinds of
+0.0331707369	impossible to
+0.0331685614	discussion on
+0.0331499532	a modified
+0.0331451552	perspective on
+0.0331444435	to transform
+0.0331347345	to replace
+0.0331229103	view on
+0.0330941277	reasons for
+0.0330913464	desire to
+0.0330711865	a medium
+0.0330391792	scenarios with
+0.0330162005	to start
+0.0330140492	two types of
+0.0330087710	persons with
+0.0329960280	the result of
+0.0329839863	the developer
+0.0329750658	a given
+0.0329725382	to serve as
+0.0329563774	the intersection
+0.0329444646	feeling of
+0.0329307541	score for
+0.0329177007	to conclude
+0.0329134890	a valuable
+0.0329092859	the difference between
+0.0329032660	a set
+0.0328695946	the purpose
+0.0328688032	hope to
+0.0328481928	instead of
+0.0328303221	means of
+0.0328192015	aim to
+0.0328152407	a clear
+0.0327889135	in contrast
+0.0327602854	to learn about
+0.0327581984	exploration of
+0.0327454166	a valid
+0.0327213433	to rely
+0.0327202018	identification of
+0.0327054663	a special
+0.0326990531	benchmark for
+0.0326695389	by means
+0.0326587221	the drone
+0.0326379957	designing for
+0.0326110342	the former
+0.0325866199	the probability
+0.0325835408	to adapt to
+0.0325783932	attempts to
+0.0325541450	to induce
+0.0325397140	a framework to
+0.0325273032	combinations of
+0.0325059220	the creation
+0.0324707077	this paper focuses on
+0.0324675065	a few
+0.0324664032	use of
+0.0324620571	the task of
+0.0324459322	different aspects of
+0.0324380296	designed for
+0.0324288540	takes into
+0.0324268085	extension to
+0.0323594191	description of
+0.0323529213	call for
+0.0323475038	referred to
+0.0323264723	the utility
+0.0323180997	change in
+0.0323035175	the size of
+0.0322937204	a reference
+0.0322494635	the popularity of
+0.0322232085	in turn
+0.0321667900	this paper provides
+0.0320864398	significance of
+0.0320839136	novel approach to
+0.0320695462	this gap by
+0.0320650878	to satisfy
+0.0320497193	a laboratory
+0.0319790063	a model of
+0.0319656636	frameworks for
+0.0319392855	used as
+0.0319314850	the effectiveness
+0.0319298358	the potential of
+0.0319262434	course of
+0.0319077792	the late
+0.0318611991	a way of
+0.0318594641	for characterizing
+0.0318450634	diversity of
+0.0318371172	needed for
+0.0318120889	and report on
+0.0318072715	relevant for
+0.0317605804	this kind of
+0.0317520392	to come
+0.0317440711	evolution of
+0.0317406109	the types of
+0.0317317622	work with
+0.0317182135	a sequence of
+0.0317068552	terms of
+0.0316899827	effect of
+0.0316786268	a controlled
+0.0316695389	from smartphone
+0.0316371172	allowing for
+0.0316292392	advancements in
+0.0316175502	a means
+0.0316149717	a central
+0.0316023503	most appropriate
+0.0315847665	validity of
+0.0315785976	a prominent
+0.0315737052	work aims to
+0.0315295387	also help
+0.0315220855	likely to
+0.0314975172	to access
+0.0314910202	acceptance of
+0.0314905696	the history of
+0.0314748902	the classical
+0.0314604471	version of
+0.0314526604	other types of
+0.0314171458	to replicate
+0.0313861523	to employ
+0.0313710497	a complete
+0.0313529980	a technique for
+0.0313494954	developed for
+0.0313489026	to conduct
+0.0313346652	to reveal
+0.0313282874	the realization
+0.0313269479	tested with
+0.0312807622	consideration of
+0.0312744293	for collecting
+0.0312620571	the lack of
+0.0312611161	for evaluating
+0.0312182135	the functionality of
+0.0312182135	the relevance of
+0.0312108872	to reach
+0.0311832896	element of
+0.0311555377	promise for
+0.0311468889	the goal
+0.0311347698	result in
+0.0311222146	solution for
+0.0311126465	written in
+0.0311125601	a representative
+0.0310995265	seems to
+0.0310939751	to fulfill
+0.0310905286	the possibility
+0.0310853650	pairs of
+0.0310830294	prototype with
+0.0310830294	database for
+0.0310758583	changes in
+0.0310741551	available through
+0.0310676834	even more
+0.0310525459	for promoting
+0.0310320885	to serve
+0.0310032719	a sample
+0.0310020595	the fact
+0.0309790063	the degree of
+0.0309790063	the sense of
+0.0309493956	obtained with
+0.0309444646	interpretations of
+0.0309436081	optimized for
+0.0309370691	encountered in
+0.0309298358	the usability of
+0.0309298358	the goal of
+0.0309245994	the success of
+0.0308975379	to locate
+0.0308602748	requirement for
+0.0308585473	to characterize
+0.0308454530	the micro
+0.0308134883	the efficacy of
+0.0308064451	added to
+0.0307978645	simulator for
+0.0307911905	the perception of
+0.0307849802	diagnosis of
+0.0307843024	thanks to
+0.0307415283	a city
+0.0307381463	vital to
+0.0307278156	an analysis of
+0.0307129760	introduction of
+0.0307005284	embedded in
+0.0306851885	loss of
+0.0306698875	using only
+0.0306694716	out of
+0.0306496772	this short
+0.0306425693	interpretability of
+0.0306393936	each time
+0.0306000834	benefit of
+0.0305829729	the widespread
+0.0305780416	a predefined
+0.0305763220	mapped to
+0.0305715895	advantage of
+0.0305594409	trained with
+0.0305474582	new generation of
+0.0305364011	come to
+0.0304513724	the timing
+0.0304385744	to uncover
+0.0304323278	this lack
+0.0304285663	the emergence
+0.0304191049	the scope of
+0.0304171458	to decode
+0.0304138056	impact of
+0.0304095738	a significant impact on
+0.0304016884	the rise of
+0.0303859988	to reason
+0.0303792392	contained in
+0.0303575396	advancement in
+0.0303480899	the job
+0.0303423527	a powerful
+0.0303096408	the raw
+0.0303042342	the choice of
+0.0303012643	the area of
+0.0302977748	reflected in
+0.0302851018	a close
+0.0302738888	given by
+0.0302714142	the specification
+0.0302659750	seeks to
+0.0302626607	to fit
+0.0302498720	visualisation of
+0.0302486112	recall of
+0.0302110403	designed with
+0.0302052414	for selecting
+0.0301917392	proved to
+0.0301893416	proven to
+0.0301587158	a big
+0.0301436369	with varying
+0.0301122339	the transition
+0.0301033115	as part
+0.0300751799	a user study with
+0.0300607678	to attract
+0.0300251548	ease of
+0.0300213137	the progression of
+0.0300209091	account for
+0.0299778696	paradigm for
+0.0299758662	searching for
+0.0299728696	or not
+0.0299533996	intended for
+0.0299258600	qualities of
+0.0299245994	the utility of
+0.0299008085	done to
+0.0298991462	periods of
+0.0298613409	feasibility of
+0.0298527128	viewpoint of
+0.0298512670	the meaning of
+0.0298099621	provision of
+0.0298099621	calculation of
+0.0297889750	landscape of
+0.0297705791	essential to
+0.0297651632	not able to
+0.0297578880	the need to
+0.0297555202	system allows
+0.0297333384	for motor
+0.0297144960	the most
+0.0296948779	spectrum of
+0.0296916816	to allow for
+0.0296897007	videos from
+0.0296632420	component of
+0.0296317402	the future of
+0.0296190170	take into
+0.0296168334	the user to
+0.0296168334	the analysis of
+0.0295967302	meant to
+0.0295881278	shift in
+0.0295864581	a distance
+0.0295830294	intention to
+0.0295658129	leveraged to
+0.0295202822	a baseline
+0.0295094110	a framework of
+0.0295012643	the influence of
+0.0294982368	the transformation of
+0.0294873195	discussion of
+0.0294807632	field of
+0.0294735055	interventions for
+0.0294643339	the system uses
+0.0294393618	collections of
+0.0293844073	an attempt to
+0.0293758680	to examine
+0.0293656029	stored in
+0.0293587162	a vital
+0.0293517855	used by
+0.0293006914	the primary
+0.0292704669	to translate
+0.0292620571	the accuracy of
+0.0292250727	to stay
+0.0292153238	not know
+0.0292088528	the aforementioned
+0.0292047747	the proposal
+0.0291971507	to find
+0.0291661433	principles for
+0.0291363109	variations in
+0.0291146454	a robust
+0.0290850966	degree of
+0.0290834476	ahead of
+0.0290420190	lies in
+0.0290397140	and comparison of
+0.0290348972	task at
+0.0290309715	to map
+0.0290012643	the potential to
+0.0289559457	wants to
+0.0289476223	demands for
+0.0289328601	to clarify
+0.0289245994	the possibility of
+0.0288939345	evidence of
+0.0288808604	to include
+0.0288658932	consequences of
+0.0288568138	the actual
+0.0288276284	context of
+0.0288240787	regard to
+0.0288218669	quantification of
+0.0287989439	a solution to
+0.0287598598	to formulate
+0.0287351056	a fine
+0.0287199495	a crucial
+0.0287073817	to help people
+0.0286960231	the first two
+0.0286797726	the inherent
+0.0286676802	duration of
+0.0286550768	to collaborate
+0.0286443347	placed on
+0.0286408733	possibilities for
+0.0286400168	trend in
+0.0285865684	the application of
+0.0285765369	opportunity for
+0.0285543282	answers to
+0.0285535397	a great
+0.0285498236	to leverage
+0.0285207212	developed to
+0.0285102854	an extension of
+0.0284898372	the gap between
+0.0284879249	the desired
+0.0284835105	the likelihood
+0.0284781244	the relationship between
+0.0284709251	length of
+0.0284610858	the ability to
+0.0284538107	to get
+0.0284332420	integration of
+0.0284261165	to allow
+0.0284255163	a consistent
+0.0284234771	conducted with
+0.0284016232	the exact
+0.0283765867	resulting in
+0.0283649328	the automotive
+0.0283389031	important to
+0.0283287205	to manipulate
+0.0283170263	to look at
+0.0283133073	the level of
+0.0283029818	rules for
+0.0283012643	the ability of
+0.0282614345	helpful for
+0.0282610854	the superiority of
+0.0282250727	to stimulate
+0.0282164723	the capability
+0.0282066547	scheme for
+0.0282012643	the core of
+0.0281938634	to run
+0.0281840035	structure of
+0.0281769143	to extend
+0.0281760531	to accommodate
+0.0281692897	a deeper understanding of
+0.0281466034	to observe
+0.0281265854	dataset with
+0.0281202158	a technique
+0.0281147190	the audience
+0.0281130531	the need
+0.0281126845	sequence of
+0.0281103552	the benefit of
+0.0281103552	the issue of
+0.0280896788	a large number of
+0.0280810246	suite of
+0.0280522827	to tell
+0.0280517011	the comparison of
+0.0280175494	availability of
+0.0280094110	the variety of
+0.0279960280	a review of
+0.0279877280	the literature on
+0.0279705613	for inferring
+0.0279464224	engagement with
+0.0279436081	medium for
+0.0279256830	to rely on
+0.0279234936	a wide
+0.0279090503	wish to
+0.0279079938	the existence of
+0.0278663441	new form of
+0.0278656110	for implementing
+0.0278399430	the consensus
+0.0278389267	the presence of
+0.0278361491	the theory of
+0.0278267676	limits of
+0.0278189300	integrated with
+0.0277934883	the proposed system
+0.0277780301	to expand
+0.0277134969	viability of
+0.0276859167	investigation of
+0.0276733806	needs for
+0.0276630900	symptoms of
+0.0276603116	the type of
+0.0276371873	article provides
+0.0276324929	a huge
+0.0276188004	the interactions between
+0.0276002608	to match
+0.0275920715	to do
+0.0275310624	means for
+0.0275118270	usefulness of
+0.0275111714	objective of
+0.0274929329	correlation with
+0.0274617373	the design and evaluation of
+0.0274608409	prevalent in
+0.0274336383	freedom of
+0.0274263449	the availability
+0.0273453552	to place
+0.0273281295	lot of
+0.0273194176	a typical
+0.0273057463	for designing
+0.0272936931	difficult for
+0.0272934883	the spread of
+0.0272865684	the value of
+0.0272739565	not well
+0.0272614345	magnitude of
+0.0272506309	the scope
+0.0272325143	the objective of
+0.0272296449	a mixed
+0.0272285451	a system
+0.0272254093	consequence of
+0.0272201488	to utilize
+0.0272175225	learning through
+0.0272030447	a methodology
+0.0272018892	to participate in
+0.0271991962	the quantity
+0.0271944712	to reflect
+0.0271917392	beneficial for
+0.0271884213	study provides
+0.0271586662	variability in
+0.0271541258	accuracies of
+0.0271353287	techniques for
+0.0271316959	beneficial to
+0.0270910642	to deploy
+0.0270813448	reduction in
+0.0270689853	presented with
+0.0270651722	learns to
+0.0270648823	included in
+0.0270358450	so as
+0.0270306899	proxy for
+0.0270067524	not able
+0.0269878433	the trade
+0.0269790063	the amount of
+0.0269567017	superior to
+0.0269191049	a period of
+0.0268797251	intersection of
+0.0268792311	an opportunity to
+0.0268585949	the operator
+0.0268261228	the flexibility
+0.0267906842	collaboration with
+0.0267843770	a weighted
+0.0267835175	a dataset of
+0.0267823273	line of
+0.0267391832	seek to
+0.0267347579	robust to
+0.0267339178	build on
+0.0267244773	paid to
+0.0267187027	order to
+0.0267103552	the emergence of
+0.0267046306	work from
+0.0266603116	the nature of
+0.0266458293	methodologies for
+0.0265967058	option for
+0.0265852399	to distinguish
+0.0265802610	importance of
+0.0265597659	a proxy for
+0.0265549950	range of
+0.0265506830	to contribute
+0.0265304762	and evaluation of
+0.0265081432	to encode
+0.0264946968	to resolve
+0.0264905696	the reliability of
+0.0264854620	possible by
+0.0264790063	a result of
+0.0264643781	hours of
+0.0264498273	improvement of
+0.0264444329	developed using
+0.0264372818	the first one
+0.0264240510	participation in
+0.0264032221	engage in
+0.0263529980	a method to
+0.0263373149	choice of
+0.0263325143	a study of
+0.0263133073	the implementation of
+0.0263133073	the study of
+0.0263042342	the accessibility of
+0.0263035175	a method of
+0.0262831328	workflow for
+0.0262821538	a unique
+0.0262662794	metric for
+0.0262276707	to try
+0.0262165370	to interact
+0.0262103552	the capability of
+0.0261977329	and efficiency of
+0.0261958306	guidance for
+0.0261942526	comes with
+0.0261839558	a basis
+0.0261804730	crucial to
+0.0261785892	argue for
+0.0261695610	intended to
+0.0261683146	inherent in
+0.0261221336	sense of
+0.0260647011	the usefulness
+0.0260620353	people with
+0.0260509316	new way
+0.0260356398	provided with
+0.0260329142	fairness in
+0.0260286039	challenging for
+0.0260090477	suitability of
+0.0260038401	area of
+0.0259994075	implemented on
+0.0259790063	the definition of
+0.0259699757	to highlight
+0.0259614869	process by
+0.0259592300	achieved with
+0.0259497491	for interacting with
+0.0259329422	the relation between
+0.0259243960	coverage of
+0.0258831770	mode of
+0.0258729103	evidence for
+0.0258436735	the findings from
+0.0258360284	indicators of
+0.0258038043	as follows
+0.0258012643	the complexity of
+0.0257998346	to personalize
+0.0257944646	definitions of
+0.0257621291	this study aims to
+0.0257610680	minutes of
+0.0257588053	strength of
+0.0257494635	the need of
+0.0257297452	the feasibility
+0.0257139320	the identification of
+0.0257103552	the idea of
+0.0256827225	a fundamental
+0.0256741957	an impact
+0.0256717849	an evaluation of
+0.0256368597	a solution
+0.0256155473	the suitability
+0.0256062485	new way of
+0.0255954558	new ways of
+0.0255828301	the majority
+0.0255519854	a commercial
+0.0255007265	described by
+0.0254865370	needed to
+0.0254660293	the road
+0.0254632359	to organize
+0.0254614869	problem by
+0.0254146717	picture of
+0.0253765646	comparison with
+0.0253673825	to deal with
+0.0253560284	growth in
+0.0253343973	a new form of
+0.0253264552	basis for
+0.0253133073	the structure of
+0.0253012643	the notion of
+0.0252975238	proportion of
+0.0252949908	to augment
+0.0252710672	a pre
+0.0252016432	the market
+0.0251957534	allowed for
+0.0251917392	started to
+0.0251820171	the distribution of
+0.0251756200	a reliable
+0.0251681821	the inner
+0.0251277539	a convenient
+0.0251037992	in isolation
+0.0251004938	allow users to
+0.0250927475	to prove
+0.0250540272	to complement
+0.0250455405	to offer
+0.0250331169	reconstruction of
+0.0250084060	a suite
+0.0249511537	scope of
+0.0249340492	in contrast to
+0.0249218675	metrics for
+0.0249214032	a lack of
+0.0248511813	taxonomy of
+0.0248443124	central to
+0.0248296903	work on
+0.0248143892	category of
+0.0247835175	the evolution of
+0.0247717644	a quick
+0.0247563666	to execute
+0.0247494635	the validity of
+0.0247311487	the rapid development of
+0.0247182135	a discussion of
+0.0247182135	a collection of
+0.0247153737	array of
+0.0246957534	involvement in
+0.0246901532	the efficiency of
+0.0246873286	this paper aims to
+0.0246438203	the idea
+0.0246292392	barrier to
+0.0246179571	volume of
+0.0246124749	delivery of
+0.0246120051	augmented with
+0.0245901532	the design and implementation of
+0.0245669374	the presentation of
+0.0245634538	a rigorous
+0.0245562763	to change
+0.0245546526	mainly on
+0.0245367385	available on
+0.0245340492	allows users to
+0.0245272130	for creating
+0.0243979740	an ensemble of
+0.0243967871	to check
+0.0243939451	limitation of
+0.0243757512	the course
+0.0243465399	an empirical study of
+0.0243440104	to adjust
+0.0243358363	an approach to
+0.0243193521	the limits of
+0.0242872339	generalization of
+0.0242614345	correctness of
+0.0242315532	inputs for
+0.0242171352	interaction through
+0.0242165652	in relation to
+0.0241830987	this type of
+0.0241801978	the first work
+0.0241183524	a need for
+0.0241169065	in addition to
+0.0241092439	a joint
+0.0241004938	to communicate with
+0.0240978645	sessions with
+0.0240964173	factor for
+0.0240946456	diversity in
+0.0240839220	enough to
+0.0240782553	a description of
+0.0240752826	sought to
+0.0240722173	employed to
+0.0240686980	improvements in
+0.0240655383	a long
+0.0240504010	to learn from
+0.0240485038	success of
+0.0240399834	to interact with
+0.0240166143	functionality of
+0.0240109722	a better understanding of
+0.0240031191	presented in
+0.0239916838	variation in
+0.0239678743	composition of
+0.0239417565	ability of
+0.0239038293	help from
+0.0238504170	stages of
+0.0238325143	the benefits of
+0.0238176118	the authors
+0.0238088294	occur in
+0.0237865684	the integration of
+0.0237862977	utility of
+0.0237696871	mechanism for
+0.0237671044	a core
+0.0237543624	the relationship
+0.0237135004	challenge for
+0.0237078156	a combination of
+0.0237032747	used in many
+0.0236515235	dimension of
+0.0236409383	the right
+0.0236231248	a subset of
+0.0236053751	and utility of
+0.0235871018	potential for
+0.0235661062	possibility of
+0.0235595931	form of
+0.0235565312	a challenging
+0.0235557037	theories of
+0.0234681169	a final
+0.0234485852	total of
+0.0234343628	implementations of
+0.0234125336	presentation of
+0.0234024166	protocol for
+0.0233883350	an understanding of
+0.0233841419	interpretation of
+0.0233678951	a system for
+0.0233630532	connected to
+0.0233575077	a team of
+0.0232881021	the strength of
+0.0232720108	the robustness of
+0.0232699831	timing of
+0.0232642356	ratio of
+0.0232318453	point to
+0.0231856199	run on
+0.0231747450	stability of
+0.0231453042	principle of
+0.0231443389	sufficient to
+0.0231439603	pipeline for
+0.0231158596	a majority of
+0.0231108975	progress in
+0.0230600586	off between
+0.0230525637	to respond to
+0.0230425778	far from
+0.0230397429	theory of
+0.0229988668	a topic
+0.0229824008	a new approach for
+0.0229651052	the next generation of
+0.0229639316	gaps in
+0.0229495249	relevance of
+0.0229002805	critical for
+0.0228990855	to move
+0.0228960966	correlated to
+0.0228593005	the prevalence
+0.0228533029	accessible to
+0.0228479856	deployed in
+0.0228478951	a tool for
+0.0228329741	process of
+0.0227782962	a focus on
+0.0227642664	opportunity to
+0.0227527421	the core
+0.0227510098	review of
+0.0227384360	the efficacy
+0.0227244773	variants of
+0.0227198050	this problem by
+0.0226836347	investigated in
+0.0226605714	for future work
+0.0226395505	relation to
+0.0226389365	an impact on
+0.0226214032	the usefulness of
+0.0225830294	captured in
+0.0225474927	issue in
+0.0225251035	instance of
+0.0225232198	the potential for
+0.0225150144	using data from
+0.0224977537	the advantage of
+0.0224973593	a year
+0.0224971030	the rapid
+0.0224421163	benefits of
+0.0224199467	comes to
+0.0224081820	try to
+0.0224063814	to play
+0.0223972773	proposal for
+0.0223785039	goal of
+0.0223480532	strategy for
+0.0223438878	creation of
+0.0223412879	property of
+0.0222812969	a study on
+0.0222699831	considerations for
+0.0222389545	and complexity of
+0.0221794621	required to
+0.0221605492	expected to
+0.0221291885	a high level of
+0.0221039323	difficulties in
+0.0220792441	a way to
+0.0220633638	a novel method for
+0.0220529383	corpus of
+0.0220383801	addition to
+0.0220324187	the delivery of
+0.0220312624	score of
+0.0220250132	different from
+0.0220170201	the viability of
+0.0220120105	the growth of
+0.0220111714	complexity of
+0.0219969134	a need to
+0.0219905696	the construction of
+0.0219679472	role of
+0.0219502436	a novel method to
+0.0219485728	directions for
+0.0219280887	abstraction of
+0.0219111714	survey of
+0.0218953223	progression of
+0.0218881782	and sometimes
+0.0218480701	era of
+0.0218052408	none of
+0.0217527132	architecture for
+0.0217297014	to take
+0.0216960768	want to
+0.0216908420	the differences between
+0.0216521110	the vast
+0.0215936110	distribution of
+0.0215742056	a novel approach for
+0.0215623185	tries to
+0.0215557673	system for
+0.0215318813	the extent of
+0.0215069485	size of
+0.0215009514	a particular
+0.0214994144	the availability of
+0.0214880888	a framework for
+0.0214682157	sensitivity of
+0.0214345126	the capacity of
+0.0214161556	begin to
+0.0213834680	the deployment of
+0.0213297189	concern in
+0.0213261623	to contribute to
+0.0213091721	needs to
+0.0213028963	ambiguity in
+0.0212998656	for children with
+0.0212975518	to account for
+0.0212835175	the adoption of
+0.0212461736	formulation of
+0.0212309551	the design space of
+0.0212172869	of thousands of
+0.0212139320	the exploration of
+0.0211987342	efficacy of
+0.0211860907	especially for
+0.0211851885	reliability of
+0.0211835070	improvement in
+0.0211684422	useful for
+0.0211402017	the results show
+0.0211299056	as compared to
+0.0211183524	a means of
+0.0211162217	basis of
+0.0210323875	history of
+0.0210316859	fails to
+0.0210221389	evaluated in
+0.0210076865	in comparison with
+0.0209796171	class of
+0.0209755066	the proliferation of
+0.0209543212	technique for
+0.0209389849	in collaboration with
+0.0209204881	integrated in
+0.0209184428	collection of
+0.0209142969	usability of
+0.0209112639	an exploratory study of
+0.0208959470	a global
+0.0208653394	done on
+0.0208369470	the system allows
+0.0208313465	the possibility to
+0.0208277391	capacity of
+0.0208163819	plan for
+0.0208114120	the absence of
+0.0207936884	the inclusion of
+0.0207873782	to specify
+0.0207554573	a method for
+0.0207374743	the burden of
+0.0207342422	both in terms of
+0.0207211504	an example of
+0.0206924064	a study with
+0.0206818124	extension of
+0.0206813388	combination with
+0.0206784969	evaluated with
+0.0206238856	period of
+0.0206099511	methodology for
+0.0205862906	the collection of
+0.0205839766	to engage in
+0.0205413953	a suitable
+0.0205301793	the prevalence of
+0.0205190277	attributes of
+0.0204902211	an alternative to
+0.0204796843	utilized in
+0.0204790063	the contribution of
+0.0204766540	examined in
+0.0204265665	idea of
+0.0203876371	for people with
+0.0203719642	discussed in
+0.0203678951	the combination of
+0.0203678951	the diversity of
+0.0203658859	taken by
+0.0203538856	status of
+0.0203513465	a sample of
+0.0203321843	requirement of
+0.0202905349	to keep
+0.0202874451	outside of
+0.0202849583	presence of
+0.0202837193	variability of
+0.0201753496	this way
+0.0201731231	an application of
+0.0201519965	an interface for
+0.0201158596	a corpus of
+0.0200954514	the feasibility of using
+0.0200929905	an algorithm for
+0.0200896307	a comparison of
+0.0200871024	a methodology for
+0.0200776959	to put
+0.0200667846	vary in
+0.0200499293	to see
+0.0200263640	assist in
+0.0199993800	deployment of
+0.0199982368	the center of
+0.0199685675	critical to
+0.0199183756	a challenge for
+0.0199172280	a non
+0.0199079456	result of
+0.0198968199	work in
+0.0198524238	sensitive to
+0.0198364385	the relative
+0.0197814641	generation of
+0.0197652674	performed with
+0.0197032747	then used to
+0.0195980492	organization of
+0.0195534164	name of
+0.0195507713	transformation of
+0.0195230535	adoption of
+0.0195167774	between humans and
+0.0194981197	helps to
+0.0194750999	list of
+0.0194543436	a challenge
+0.0194391259	popularity of
+0.0193654331	expressed in
+0.0193172646	meaning of
+0.0192992592	purpose of
+0.0192939212	system based on
+0.0192218869	a class of
+0.0191967280	a survey on
+0.0191593604	operate in
+0.0191313177	the results indicate
+0.0190841172	aim of
+0.0190791265	and interpretation of
+0.0190190939	allows for
+0.0189534520	to focus on
+0.0188982497	the era of
+0.0188741526	efficiency of
+0.0188102026	the intersection of
+0.0188007180	a successful
+0.0187413018	an experiment with
+0.0187245408	the incorporation of
+0.0186835837	known to
+0.0186825583	employed in
+0.0186820969	an e
+0.0186524064	a form of
+0.0186372908	applicability of
+0.0186338003	to give
+0.0186054690	trend of
+0.0186038601	to show
+0.0185910917	exist in
+0.0185830294	valuable to
+0.0185800679	a basis for
+0.0185476575	to think
+0.0185441790	representative of
+0.0184895303	fusion of
+0.0183947907	with different levels of
+0.0183678951	the generation of
+0.0183433498	phase of
+0.0183302627	promise of
+0.0183251030	works in
+0.0183140956	enough for
+0.0183064882	a way
+0.0182959513	and usability of
+0.0182425034	the characteristics of
+0.0182405492	trends in
+0.0182122152	superiority of
+0.0181200937	a novel approach to
+0.0180750171	variation of
+0.0180602877	internet of
+0.0180117131	the basis for
+0.0180101793	a taxonomy of
+0.0180044275	a sub
+0.0179671442	the opportunity to
+0.0179584275	applied in
+0.0179510225	the introduction of
+0.0178898903	an approach for
+0.0178557601	a part of
+0.0178141917	owing to
+0.0178066012	a positive
+0.0177964252	the interaction between
+0.0177794201	introduced in
+0.0177320048	appear in
+0.0176824415	the whole
+0.0176636500	seen in
+0.0176327862	confidence in
+0.0176256733	a conversation
+0.0175909394	a new method for
+0.0175866609	explored in
+0.0174701119	influence of
+0.0174618188	measured in
+0.0174265765	orientation of
+0.0173961365	assistant for
+0.0173759265	way to
+0.0173678951	a model for
+0.0173172646	comprehension of
+0.0173020872	aid in
+0.0172796683	expensive to
+0.0172449536	means to
+0.0172033170	to know
+0.0171754791	descriptions of
+0.0171639170	placed in
+0.0171018810	issue of
+0.0170719293	adopted to
+0.0170222650	the corresponding
+0.0170133984	explanation for
+0.0168798280	appearance of
+0.0167544201	difficulty in
+0.0167544201	studied in
+0.0165959751	the last
+0.0165642014	a new approach to
+0.0165483261	robustness of
+0.0164913746	utilized to
+0.0164472118	region of
+0.0164159603	construction of
+0.0163832610	to describe
+0.0163801964	contribution of
+0.0161789589	particularly for
+0.0161408997	the probability of
+0.0161370884	appear to
+0.0160443431	possibility to
+0.0159899093	a good
+0.0159386733	a sense of
+0.0157964908	appropriate for
+0.0157024215	a whole
+0.0157023849	allow for
+0.0156737155	necessity of
+0.0155576038	to consider
+0.0155094385	need for
+0.0153734008	implemented in
+0.0153689531	spread of
+0.0152738329	cause of
+0.0152718895	a certain
+0.0152682436	center of
+0.0151884213	pair of
+0.0150776718	interest in
+0.0150130904	capability of
+0.0149186801	a serious
+0.0146979609	tried to
+0.0145426732	the next
+0.0143882243	value of
+0.0141529688	corresponding to
+0.0140816456	described in
+0.0140509540	looking for
+0.0138897865	aimed to
+0.0136814428	possible to
+0.0136398519	necessary for
+0.0135251735	matter of
+0.0134261559	concept of
+0.0133909919	beginning of
+0.0132056978	burden of
+0.0127501689	done in
+0.0125034742	necessary to
+0.0122854683	the above
+0.0122056978	allocation in
+0.0121191260	a full
+0.0119727519	to become
+0.0116436402	a mean

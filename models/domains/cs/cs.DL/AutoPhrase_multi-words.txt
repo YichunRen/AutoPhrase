@@ -1,0 +1,2943 @@
+0.9833523863	open access
+0.9821932276	logistic regression
+0.9807103791	machine learning
+0.9794274765	computational linguistics
+0.9790213271	wayback machine
+0.9785292443	cultural heritage
+0.9779558285	natural language
+0.9772489132	higher education
+0.9771078295	artificial intelligence
+0.9763357260	united states
+0.9760468017	natural sciences
+0.9752215859	deep learning
+0.9748293064	latin american
+0.9738365318	dublin core
+0.9736129307	random forest
+0.9728936269	google scholar
+0.9725771389	thomson reuters
+0.9724393426	natural language processing
+0.9719261652	principal component analysis
+0.9714527803	preferential attachment
+0.9709376734	linked data
+0.9705719857	impact factor
+0.9705408563	digital library
+0.9705052708	medical subject headings
+0.9693286936	information retrieval
+0.9691188037	knowledge graph
+0.9666473188	neural network
+0.9653532936	digital libraries
+0.9637809719	high energy physics
+0.9637698768	multidimensional scaling
+0.9633753351	nobel prize
+0.9623956764	condensed matter
+0.9619537091	american physical society
+0.9610511631	particle physics
+0.9606415963	big data
+0.9598175852	open source software
+0.9584599435	los alamos
+0.9581892050	semantic web
+0.9571362791	digital humanities
+0.9569145193	confidence intervals
+0.9568420466	research assessment exercise
+0.9566587569	statistical significance
+0.9566402282	life cycle
+0.9565083817	technology transfer
+0.9563980407	literature review
+0.9542437711	climate change
+0.9540856855	social networking
+0.9540563157	scientific literature
+0.9539985637	intellectual property
+0.9533948350	nobel laureates
+0.9523547086	digital preservation
+0.9520126451	sentiment analysis
+0.9516948320	social sciences
+0.9515797015	open source
+0.9513218944	physical review
+0.9509600678	neural networks
+0.9507461703	data mining
+0.9499455353	journal citation reports
+0.9469487619	hol light
+0.9467957532	social science
+0.9467846818	knowledge base
+0.9465857505	social media
+0.9456538265	sleeping beauties
+0.9449224563	nuclear physics
+0.9446657150	molecular biology
+0.9432529264	information science
+0.9428690858	half life
+0.9428151713	social network analysis
+0.9417228211	open science
+0.9414856743	plagiarism detection
+0.9414782457	condensed matter physics
+0.9413414723	text mining
+0.9413088725	percentile ranks
+0.9411798669	semi automatic
+0.9410315330	principal investigators
+0.9403706338	subject category
+0.9397540677	open data
+0.9397209247	science citation index
+0.9392012103	social networks
+0.9389007988	rights statements
+0.9381753855	digital object
+0.9372167400	recommender systems
+0.9365605549	classification scheme
+0.9349904570	knowledge management
+0.9347569245	web pages
+0.9343354989	peer review
+0.9341779504	topic modeling
+0.9339955029	web archives
+0.9339952937	matthew effect
+0.9330235072	systematic reviews
+0.9321430418	microsoft academic
+0.9320743296	journal impact factor
+0.9307575376	digital objects
+0.9301876758	book chapters
+0.9288569777	double blind
+0.9285479802	software engineering
+0.9285323003	search engine
+0.9278618446	file format
+0.9276347550	world wide web
+0.9274702969	triple helix
+0.9265177558	mathematical formulae
+0.9258223042	impact factors
+0.9242568587	web archive
+0.9235286972	sao nasa
+0.9233310500	systematic review
+0.9232192471	delayed recognition
+0.9229066161	web services
+0.9226365680	oai ore
+0.9224668676	web archiving
+0.9220110503	log normal
+0.9201993068	university rankings
+0.9201620583	ad hoc
+0.9196825333	linked open data
+0.9185930322	pre print
+0.9184749265	multi dimensional
+0.9182932052	public health
+0.9181695935	life sciences
+0.9171549578	citation index
+0.9170830417	collaborative tagging
+0.9168167987	domain specific
+0.9167865855	virtual observatory
+0.9164199864	subject area
+0.9163451644	knowledge organization systems
+0.9162516117	machine translation
+0.9161483837	information extraction
+0.9152161018	university industry
+0.9141211572	gender disparities
+0.9140295106	journal impact factors
+0.9134217273	literary fiction
+0.9128854036	astrophysics source code library
+0.9118438969	power law
+0.9116964349	citation analysis
+0.9115160344	controlled vocabularies
+0.9106625898	subject categories
+0.9099308155	google scholar metrics
+0.9096252158	oai pmh
+0.9094401312	web service
+0.9088365744	peer reviewed
+0.9080964538	field normalization
+0.9079352559	working group
+0.9069146654	digital assets
+0.9067547360	gold oa
+0.9066720977	mobile ir
+0.9063587443	scholarly communication
+0.9061670569	decision makers
+0.9050328579	mendeley reader counts
+0.9046666412	open archives initiative
+0.9038301817	metadata harvesting
+0.9031045289	sci hub
+0.9030817839	scientific impact
+0.9026683230	citation networks
+0.9017464377	eastern european
+0.9015770221	study group
+0.9007461359	small world
+0.9006684111	named entity
+0.8999271455	building blocks
+0.8997815364	network analysis
+0.8995581303	web search
+0.8995481230	integrated impact indicator
+0.8994932858	green oa
+0.8992803692	long term
+0.8990963648	complex network
+0.8988673218	open access publishing
+0.8984563462	source code
+0.8979776115	user interface
+0.8963922066	coauthorship network
+0.8961086460	community detection
+0.8957221187	microsoft academic graph
+0.8956711968	gold standard
+0.8954337280	fine grained
+0.8947272099	fractional counting
+0.8946570484	graph embedding
+0.8939867338	formal mathematics
+0.8938216687	degree distribution
+0.8934593283	knowledge discovery
+0.8922811303	mutual information
+0.8912918305	astro wise
+0.8910656482	machine readable
+0.8910242125	meta analysis
+0.8908372542	institutional repositories
+0.8901356395	large scale
+0.8894120583	ground truth
+0.8885426886	english language
+0.8878832279	data management
+0.8877085073	search engines
+0.8872407219	short term
+0.8865196040	empirical evidence
+0.8860936864	retrieval sessions
+0.8855440329	subject headings
+0.8853778310	national research assessment exercises
+0.8844831054	bibliographic coupling
+0.8837292018	user friendly
+0.8835590399	content based
+0.8830695063	scholarly impact
+0.8828473685	bibliometric enhanced information retrieval
+0.8823458483	resource discovery
+0.8821416394	social media platforms
+0.8805829936	citation indexes
+0.8802777514	source normalized
+0.8800805873	intellectual organization
+0.8798602496	mathematical knowledge
+0.8796729805	network science
+0.8795242609	content analysis
+0.8785632342	data model
+0.8768782824	crown indicator
+0.8765816932	decision making
+0.8765390771	cross disciplinary
+0.8763893361	entity recognition
+0.8761131760	socio economic
+0.8760217858	knowledge transfer
+0.8759413896	hot topics
+0.8749427680	editorial board
+0.8749290665	ontology engineering
+0.8745236630	information systems
+0.8744032011	news media
+0.8714308842	early career
+0.8713762059	practical implications
+0.8710175413	conference proceedings
+0.8710087204	internet archive
+0.8703282196	social network
+0.8701880041	sloan digital sky
+0.8694794396	library science
+0.8683101020	digital archives
+0.8676668605	web resources
+0.8675606201	` `
+0.8674256071	f1 score
+0.8674041647	real world
+0.8671862208	agent based
+0.8667495681	reference publication year spectroscopy
+0.8667267974	citation rates
+0.8662152805	search term
+0.8648990797	cited references
+0.8644373849	discretised lognormal
+0.8637993248	hooked power law
+0.8634839891	convergent validity
+0.8623606334	data quality
+0.8619495566	core collection
+0.8617754402	policy makers
+0.8615524706	exponential growth
+0.8614312950	semantic similarity
+0.8613485087	twitter mentions
+0.8601570898	long standing
+0.8597297267	public domain
+0.8575594973	aggregated journal journal
+0.8572583799	citation patterns
+0.8566171400	digital age
+0.8564827608	query language
+0.8562330881	percentile rank classes
+0.8549899284	high energy
+0.8548288602	world wide
+0.8546313485	author name disambiguation
+0.8542700404	centrality measures
+0.8532316176	mendeley readership
+0.8529825127	article level
+0.8515866258	research assessment
+0.8509613564	academic search
+0.8508862603	coauthorship networks
+0.8503735262	title words
+0.8499430788	career advancement
+0.8487714296	complex networks
+0.8470551292	aggregated journal journal citation
+0.8470321922	information flow
+0.8463700632	eastern european countries
+0.8452757542	biomedical literature
+0.8452484033	complex systems
+0.8452304652	predictive power
+0.8449780400	scholar metrics
+0.8439442544	sars cov
+0.8438797654	manually curated
+0.8428878990	sky survey
+0.8423889485	knowledge graphs
+0.8420866976	semantic web technologies
+0.8409823503	temporal evolution
+0.8408696113	snip indicator
+0.8407496709	astro ph
+0.8403326246	pagerank algorithm
+0.8400992958	hirsch index
+0.8385584908	statistically significant
+0.8384776758	scale free
+0.8383189155	highly cited publications
+0.8381603150	rapid growth
+0.8375329667	bibliographic database
+0.8372415851	software citation
+0.8368711828	percentile rank
+0.8367940766	citation recommendation
+0.8326133789	faculty members
+0.8325325505	multi disciplinary
+0.8320240032	knowledge bases
+0.8320093421	acceptance rate
+0.8318140810	statistical analysis
+0.8316719628	book citation index
+0.8316505901	publication year spectroscopy
+0.8312201070	life science
+0.8309958191	general purpose
+0.8309779904	bibliometric analysis
+0.8299347847	knowledge organization
+0.8298662963	recently proposed
+0.8295064694	crucial role
+0.8280748566	materials science
+0.8262183679	regression analysis
+0.8259237283	years ago
+0.8256578132	recent advances
+0.8234211843	relational database
+0.8227700524	author names
+0.8226319398	subject matter
+0.8221128730	publication years
+0.8219339173	team size
+0.8217836743	comparative analysis
+0.8215943037	mendeley readers
+0.8204042046	growth rate
+0.8190415669	highly correlated
+0.8170252028	structural properties
+0.8169974074	archived web pages
+0.8163076538	data intensive
+0.8154977557	user queries
+0.8151257111	online information
+0.8150288226	takes place
+0.8150137871	higher order
+0.8149278016	knowledge diffusion
+0.8142697673	field normalized
+0.8142055932	data driven
+0.8137739807	funding agencies
+0.8130964365	post publication peer review
+0.8125516738	central role
+0.8110550111	citation score
+0.8105930500	highly cited
+0.8105265943	bibliometric enhanced
+0.8101321183	journal level
+0.8099151526	size independent
+0.8098351603	google scholar citations
+0.8091319051	scholarly articles
+0.8068550628	citation statistics
+0.8066190403	e book
+0.8063244074	italian university
+0.8052825663	derivative articles
+0.8050349197	research output
+0.8049364515	scientific journals
+0.8047613103	academic journals
+0.8034180739	international collaboration
+0.8028197788	statistical properties
+0.8018497655	research impact
+0.8017815817	data preservation
+0.8017791355	topic model
+0.8013501443	language processing
+0.8012113155	user generated
+0.8008871264	bibliographic records
+0.8007032787	research area
+0.8003977249	web application
+0.7999771290	scientific publication
+0.7999432990	publication venues
+0.7994820299	principal component
+0.7983355014	biomedical domain
+0.7982874360	italian academic
+0.7975092330	factor analysis
+0.7974864920	data set
+0.7964227384	public web archives
+0.7958316042	case study
+0.7950265769	subject areas
+0.7929107383	scientific progress
+0.7928539786	end users
+0.7920382879	citation advantage
+0.7915900418	external links
+0.7912995124	significant difference
+0.7905875885	italian universities
+0.7903923142	field differences
+0.7888944898	social media attention
+0.7887147629	scientific articles
+0.7876144603	astronomical community
+0.7873813272	knowledge network
+0.7868804599	modern science
+0.7846063303	patent citation
+0.7844895377	bibliographic databases
+0.7841720696	comparative study
+0.7841112205	news articles
+0.7839851875	citation counts
+0.7837547872	peer reviewed journals
+0.7836375795	single author
+0.7836055981	physical society
+0.7835988895	citation based metrics
+0.7823823598	academic publishing
+0.7813094696	research trends
+0.7808283201	statistical methods
+0.7807020494	media attention
+0.7796241189	citation rate
+0.7790427581	citation indices
+0.7778753317	text based
+0.7771461631	case studies
+0.7769481979	publication output
+0.7766516267	citation impact
+0.7756680013	research data
+0.7750597953	knowledge creation
+0.7748440863	research object
+0.7744236997	special attention
+0.7740551045	user behavior
+0.7735339875	national research
+0.7733771147	rule based
+0.7731093344	recently developed
+0.7728933813	isi web
+0.7719247287	impact indicators
+0.7715392995	policy implications
+0.7692364701	scientific collaborations
+0.7689449147	journal citation
+0.7688928029	gender differences
+0.7683276826	percentile based
+0.7680413063	language resources
+0.7671752967	digital collections
+0.7669534251	scholarly knowledge
+0.7665419573	sars cov 2
+0.7664655920	web site
+0.7662892484	scientific knowledge
+0.7657975056	energy physics
+0.7654557738	high impact
+0.7643685074	impact measurement
+0.7637911483	research collaboration
+0.7631082407	citation matching
+0.7627663488	self archiving
+0.7623657467	high quality
+0.7620558742	citation count
+0.7616898339	open research
+0.7616366134	european countries
+0.7609922801	web page
+0.7600262207	highly cited papers
+0.7598976194	societal impact
+0.7597766663	nasa astrophysics data
+0.7597586301	citation window
+0.7595120348	global level
+0.7593693399	document types
+0.7586521848	web search engines
+0.7566389109	knowledge maps
+0.7564420916	normalized impact
+0.7558605700	research projects
+0.7529871144	country level
+0.7524220331	academic institutions
+0.7520526440	document sets
+0.7515600597	individual level
+0.7511639351	bibliometric analyses
+0.7496784450	individual researcher
+0.7492674004	significant differences
+0.7488690054	science studies
+0.7472741145	similarity measures
+0.7468655240	hard sciences
+0.7462104832	h index
+0.7454322939	visualization techniques
+0.7452853372	paper discusses
+0.7451804635	search strategies
+0.7447825199	bibliometric indicators
+0.7444479044	collaboration networks
+0.7440020579	knowledge flows
+0.7439581503	scientometric analysis
+0.7435371127	information resources
+0.7434014190	bibliometric study
+0.7420261732	exploratory study
+0.7407135674	web based
+0.7404815503	total citations
+0.7399274814	scholarly papers
+0.7398648496	ontology based
+0.7397591937	data analysis
+0.7382050548	linked open
+0.7379136602	tagging systems
+0.7375821952	domain experts
+0.7363514344	regression models
+0.7358990196	web sites
+0.7358489607	meta data
+0.7352467540	discipline specific
+0.7349465945	relevant literature
+0.7348422733	end user
+0.7340434638	biomedical research
+0.7337506075	alternative metrics
+0.7336400435	publication patterns
+0.7334200145	research topics
+0.7304940690	older articles
+0.7286781876	topic models
+0.7284993396	journal articles
+0.7280803881	design methodology approach
+0.7272904618	high level
+0.7264083226	frequently cited
+0.7254388383	post publication
+0.7252292199	web archive collections
+0.7249892366	historical documents
+0.7249403108	previous studies
+0.7246238619	multiple authors
+0.7235416209	citation distributions
+0.7233999445	scientific journal
+0.7232508832	scientific collaboration
+0.7229355807	library and information science
+0.7224262990	relative citation
+0.7221162289	journal rankings
+0.7216046415	covid 19 pandemic
+0.7215627897	academic rank
+0.7215610986	data sets
+0.7203516163	bibliometric techniques
+0.7197122872	scientific publishing
+0.7196563990	empirical study
+0.7191638977	media platforms
+0.7186219374	live web
+0.7179979058	social platforms
+0.7174978906	positive and negative
+0.7172857248	based search
+0.7172018669	counting methods
+0.7171318802	reference lists
+0.7164226559	low cited
+0.7163293116	findings suggest
+0.7160743198	citation contexts
+0.7159574537	highly cited documents
+0.7145128006	journal ranking
+0.7137895360	general public
+0.7136068333	performance indicators
+0.7134260152	world average
+0.7129718898	research evaluation
+0.7128629756	scientific communication
+0.7124467462	citation databases
+0.7116008940	article presents
+0.7114905890	bibliometric networks
+0.7114447198	taking into account
+0.7113866118	research field
+0.7111791988	scientific papers
+0.7110623495	scientometric indicators
+0.7101244821	author impact
+0.7099400117	simple knowledge organization system
+0.7084760603	patent citations
+0.7084157699	starting point
+0.7079564388	elite journals
+0.7079332635	review process
+0.7078662764	systematic literature
+0.7075501766	social media metrics
+0.7066596329	usage based
+0.7065395338	publication practices
+0.7063416594	e learning
+0.7061635554	takes into account
+0.7060614546	publication records
+0.7047821128	study investigates
+0.7044494460	sloan digital
+0.7042191241	cited paper
+0.7039821941	citation based
+0.7039372702	publication venue
+0.7037793861	national level
+0.7013967095	journal journal citation
+0.7009720250	reader counts
+0.7002946414	covid 19
+0.6997473962	journal rank
+0.6996153501	science citation
+0.6991177424	academic age
+0.6986669232	scientific production
+0.6986365882	research assessment exercises
+0.6979265465	research fields
+0.6979246319	citation network
+0.6977900567	research objects
+0.6971945429	data curation
+0.6969213887	science mapping
+0.6967553189	individual scientists
+0.6952238849	results reveal
+0.6948400818	knowledge production
+0.6948228706	wikipedia articles
+0.6940534086	collaboration patterns
+0.6939598456	citation indicators
+0.6938993135	publication date
+0.6938033880	future impact
+0.6930192590	citation relations
+0.6919196704	research activity
+0.6913157948	field specific
+0.6911744765	bibliographic analysis
+0.6908951183	research leadership
+0.6905648745	citation impact indicators
+0.6905592125	conference papers
+0.6903215078	citation based indicators
+0.6902558118	based approach
+0.6898215571	leiden ranking
+0.6887783786	search process
+0.6881164861	research excellence
+0.6876120156	higher impact
+0.6874569273	mpeg 21
+0.6874371453	network centrality
+0.6872929998	bibliometric data
+0.6870463523	nasa astrophysics data system
+0.6857341797	journal journal citations
+0.6852589113	impact indicator
+0.6851886206	citation links
+0.6848490314	network based
+0.6837568254	results confirm
+0.6837205521	description framework
+0.6835436406	policy documents
+0.6824608691	publication process
+0.6818155406	knowledge translation
+0.6812822663	search results
+0.6788293517	research outputs
+0.6787502251	literature based
+0.6787441035	current research
+0.6784323529	search terms
+0.6780492655	web content
+0.6777568364	american physical
+0.6760850100	web 2.0
+0.6749444619	scientific documents
+0.6748103529	scientific community
+0.6730129538	hooked power
+0.6724262154	scientific fields
+0.6712550484	software tools
+0.6711050939	information retrieval systems
+0.6694437617	scientific output
+0.6686911515	nasa astrophysics
+0.6683963859	scientific research
+0.6682249003	self organization
+0.6679398340	citation distribution
+0.6671422448	increasingly important
+0.6662887804	analysis reveals
+0.6662335672	digital repositories
+0.6655839827	scientific concepts
+0.6651166363	field level
+0.6643372695	citation metrics
+0.6643276500	author level
+0.6642183323	interdisciplinary research
+0.6640360076	basic research
+0.6637554046	social tagging
+0.6636114348	non parametric
+0.6630504300	subject fields
+0.6628658793	citation context
+0.6625420513	impact measurements
+0.6622748173	paper level
+0.6613041044	assessment exercises
+0.6609874315	previous study
+0.6603393011	scientific publications
+0.6596446536	results obtained
+0.6593911687	graph based
+0.6582730095	journal impact
+0.6578968702	research community
+0.6576970162	name disambiguation
+0.6572510397	scientific influence
+0.6571707027	scientific performance
+0.6571265964	astrophysics data system
+0.6568438837	recent years
+0.6557389097	research group
+0.6554115894	research performance
+0.6553770110	co authorships
+0.6552409860	co occurrence
+0.6535799917	network structure
+0.6533028960	technological impact
+0.6528300195	citation behavior
+0.6519104047	citation data
+0.6515697538	proposed method
+0.6512923031	literature search
+0.6512427782	data collection
+0.6509233317	scientific disciplines
+0.6506263343	citation dynamics
+0.6505203342	citation numbers
+0.6501210549	impact metrics
+0.6494664554	highly cited articles
+0.6494496001	million articles
+0.6487731781	academic libraries
+0.6486006139	experimental results
+0.6476650725	preliminary results
+0.6475539420	research productivity
+0.6471689230	bibliometric studies
+0.6460151472	academic publications
+0.6455720420	normalized citation impact
+0.6450904161	proposed approach
+0.6447687304	academic papers
+0.6444136200	paper introduces
+0.6430202696	journal publication
+0.6428488426	results suggest
+0.6422618267	humanities and social sciences
+0.6412490545	proof of concept
+0.6404545022	open access journals
+0.6402818292	training data
+0.6395870683	oa journals
+0.6387481595	research areas
+0.6384497503	proposed model
+0.6382581691	collaboration network
+0.6381488293	paper examines
+0.6381187732	citation potential
+0.6376612737	citation practices
+0.6366106073	social sciences and humanities
+0.6365323346	astrophysics source code
+0.6349039339	end to end
+0.6338972525	individual researchers
+0.6324258700	co word
+0.6320805699	scientific evaluation
+0.6315274402	research reports
+0.6302173717	journals covered
+0.6301416259	direct citation
+0.6293847307	cited papers
+0.6291847789	2004 2008
+0.6291352308	paper describes
+0.6288826251	mendeley reader
+0.6272388486	papers published
+0.6265225365	scientific communities
+0.6262648071	usage data
+0.6252828424	individual articles
+0.6251653482	analysis shows
+0.6249544225	co authored
+0.6246585822	data sharing
+0.6245859134	citation graph
+0.6233982440	scholarly literature
+0.6231433657	classification systems
+0.6224351278	science policy
+0.6209042240	research articles
+0.6204069715	systematic analysis
+0.6192710572	research groups
+0.6184185093	scientific information
+0.6164002119	individual authors
+0.6147123344	national research assessment
+0.6146190320	h_ \ alpha
+0.6145485396	scientific data
+0.6134648428	institutional level
+0.6133127954	top tier
+0.6131170255	data source
+0.6121410149	data repositories
+0.6116839430	data science
+0.6115718050	non competitive
+0.6113976024	data archives
+0.6109519589	data sources
+0.6106806864	scholarly journals
+0.6098901120	text analysis
+0.6095543052	empirical analysis
+0.6089313730	average citation
+0.6088902208	based methods
+0.6086826500	individual papers
+0.6085398198	g index
+0.6082233460	research questions
+0.6076783090	research assessments
+0.6069142999	management software
+0.6060345523	research institutions
+0.6056890334	published papers
+0.6054675202	next generation
+0.6053813888	scholarly data
+0.6053584429	citation reports
+0.6047180422	million publications
+0.6037177218	research directions
+0.6029516350	research funding
+0.6012035201	raw data
+0.5972118287	bibliographic data
+0.5970192126	research policy
+0.5969280495	citation number
+0.5966318382	research fronts
+0.5960932692	r & d
+0.5956657363	citation scores
+0.5953813610	scientific field
+0.5947241561	e prints
+0.5938917328	real data
+0.5933077552	web technologies
+0.5932487664	non elite
+0.5932273851	computer science
+0.5920997140	existing methods
+0.5912831408	academic ranking
+0.5907223852	most frequently cited
+0.5902291261	co authorship networks
+0.5900460041	research quality
+0.5897226034	articles published
+0.5897115246	published articles
+0.5895558170	value added
+0.5882624567	point of view
+0.5877417717	strengths and weaknesses
+0.5876746819	related documents
+0.5872134863	research papers
+0.5869891090	philosophy of science
+0.5868175508	research organizations
+0.5863905228	h indices
+0.5858262739	full text
+0.5854746684	e print
+0.5851059582	paper proposes
+0.5847257637	information sources
+0.5829862231	assessment exercise
+0.5829596885	future research
+0.5828966798	important role
+0.5808734203	empirical results
+0.5803262421	citations received
+0.5779310881	altmetric data
+0.5773036795	web of science
+0.5740537427	scholarly publishing
+0.5737463989	research results
+0.5733632493	based method
+0.5713695154	full texts
+0.5701372625	national scientific
+0.5689980158	unit of analysis
+0.5672756580	scientific productivity
+0.5657836028	precision and recall
+0.5654496388	journal article
+0.5653681816	data citation
+0.5653278111	character recognition
+0.5618720353	publication level
+0.5599712884	new zealand
+0.5582859292	research paper
+0.5565093240	user study
+0.5551431290	experimental data
+0.5530726544	scientific works
+0.5529313552	million papers
+0.5514900706	best practices
+0.5509065152	provide insights
+0.5499073303	scholarly publications
+0.5451389818	similar results
+0.5439884681	public research
+0.5417215760	arts and humanities
+0.5395226656	covid 19 related
+0.5388112125	wide web
+0.5382158111	scientific discipline
+0.5376039975	research publications
+0.5372842529	co authorship
+0.5359914779	$ h_ \ alpha
+0.5359090076	order to provide
+0.5324468108	so called
+0.5285387935	originality value
+0.5277204093	sciences and humanities
+0.5277098803	research activities
+0.5268602753	archive collections
+0.5267500069	knowledge based
+0.5263038620	based approaches
+0.5229585380	journal classification
+0.5226423454	$ \ alpha
+0.5226377652	normalized citation
+0.5221762487	empirical data
+0.5188895277	knowledge domain
+0.5187156554	quantitative and qualitative
+0.5184121527	researchers working
+0.5182561244	funded research
+0.5177616851	et al
+0.5152542541	research interests
+0.5148262954	time consuming
+0.5144191620	authorship and citation
+0.5139966742	based tools
+0.5123199045	best performing
+0.5122379643	international scientific
+0.5107537989	\ `
+0.5106715934	$ c ^ 3
+0.5105898284	medical subject
+0.5093596344	web of science and scopus
+0.5092785119	the open archives initiative
+0.5087442713	science and scopus
+0.5086115692	recommender system
+0.5075489580	recent publications
+0.5063429855	impact measures
+0.5058919944	top ranked
+0.5051812913	twitter data
+0.5049650710	library and information
+0.5046934010	\ alpha
+0.5035018003	science and engineering
+0.5029024659	national science
+0.5014021619	academic graph
+0.4996885961	semantic information
+0.4992717789	excellence framework
+0.4987973252	reference publication year
+0.4982089812	research and development
+0.4977830270	scholarly information
+0.4974006295	code and data
+0.4972139215	scientific and technical
+0.4970887109	cited articles
+0.4964505241	based metrics
+0.4964483911	\ em
+0.4956214812	data and software
+0.4955817376	science and technology
+0.4948642052	research units
+0.4939044135	\ sqrt
+0.4925472549	productivity and impact
+0.4921877789	challenging task
+0.4917812282	bibliometric approach
+0.4915360887	web of science database
+0.4915314406	scopus database
+0.4912046758	core journals
+0.4908619407	based indicators
+0.4907235080	science and social
+0.4901381479	publications and citations
+0.4899614506	funding data
+0.4896069077	e books
+0.4892001648	non linear
+0.4881812563	academic impact
+0.4875559409	co citation
+0.4869614057	italian research
+0.4868702097	science of science
+0.4842548145	fields of research
+0.4834988011	information and communication
+0.4808126506	scientific results
+0.4798381479	publication and citation
+0.4794911620	fields of science
+0.4781631832	$ index
+0.4778625093	\ emph
+0.4773571291	archived web
+0.4765798215	research project
+0.4763308007	community based
+0.4755297948	research collaborations
+0.4752631293	a case study
+0.4676744339	two dimensional
+0.4669169965	\ textit
+0.4665702276	science fields
+0.4661752137	open archives
+0.4647227481	cited publications
+0.4647043687	becoming increasingly
+0.4611714624	number of co authors
+0.4578131702	share of publications
+0.4575876214	plos one
+0.4552629966	technology studies
+0.4510409830	impact analysis
+0.4492352534	no longer
+0.4489781494	science journals
+0.4488658567	author name
+0.4476212120	present paper
+0.4475308852	traditional citation
+0.4472942287	bottom up
+0.4468305993	integrated impact
+0.4464651491	number of references
+0.4461143932	the past decade
+0.4456225964	management systems
+0.4449733484	maps of science
+0.4444084152	well established
+0.4432633045	historical roots of
+0.4409962485	this brief communication
+0.4403111928	component analysis
+0.4379690765	research communities
+0.4329686602	the historical roots
+0.4314418639	a & hci
+0.4310379787	text documents
+0.4308520405	number of citations
+0.4297612276	taken into account
+0.4295593839	the world wide web
+0.4294890032	well defined
+0.4276542921	time series
+0.4272522427	citing papers
+0.4253208384	the journal impact factor
+0.4250602463	physics papers
+0.4249299539	high degree
+0.4201979546	time span
+0.4192937672	network model
+0.4191539602	physics journals
+0.4136376743	scholar citations
+0.4114101271	research question
+0.4079159878	a large scale
+0.4078422812	follow up
+0.4064671915	historical data
+0.4050935415	academic research
+0.4044584690	normalized indicators
+0.4031203353	non oa
+0.4026359817	the book citation
+0.4018675593	published research
+0.4017140141	$ h_
+0.4010000736	re ranking
+0.4006712089	co author
+0.4003177129	large amounts of
+0.3983800924	present study
+0.3976520978	ever increasing
+0.3943157731	take into account
+0.3934960027	top down
+0.3926383957	knowledge organization system
+0.3915628441	data collected
+0.3873018385	co authorship network
+0.3866800941	freely available
+0.3862025821	citation information
+0.3852652130	total number of citations
+0.3847279755	first step
+0.3846785286	number of citations received
+0.3821671942	covid 19 research
+0.3814492450	open citation
+0.3801498663	number of authors
+0.3794943885	differences in citation
+0.3787497649	^ 2
+0.3782657519	international research
+0.3778163869	publicly available
+0.3772099081	time window
+0.3762025823	detailed analysis
+0.3702602678	results demonstrate
+0.3697371827	research teams
+0.3696497236	top 10
+0.3675843829	quantitative analysis
+0.3660062611	a web based
+0.3655539155	number of publications
+0.3651656414	sub fields
+0.3646222336	not necessarily
+0.3616542748	faster than
+0.3589688224	the leiden ranking
+0.3567451620	a challenging task
+0.3555175572	published in journals
+0.3553252577	bibliometric enhanced information
+0.3549969462	published scientific
+0.3532788991	a bibliometric analysis
+0.3524212183	scholarly research
+0.3523822826	total number of
+0.3497366101	most productive
+0.3489898863	journal based
+0.3483416426	journal citations
+0.3463793436	non english
+0.3451006822	large scale analysis of
+0.3445338306	peer review process
+0.3443370404	the united states
+0.3438651917	r =
+0.3422095785	number of papers
+0.3417878959	this paper presents
+0.3409518835	scientific paper
+0.3397843535	research topic
+0.3370727847	widely used
+0.3363535473	access journals
+0.3357084716	ten years
+0.3354443474	large scale analysis
+0.3338753120	co authors
+0.3330769486	evaluation of research
+0.3326868792	access publishing
+0.3323567193	current state
+0.3266234559	\ cite
+0.3263797980	most highly cited
+0.3263706384	scientific citations
+0.3259788453	the peer review process
+0.3256321714	go beyond
+0.3251954972	large set
+0.3250350716	wide range of
+0.3250196696	wide variety of
+0.3249033094	peer review system
+0.3241845914	insight into
+0.3233014002	field of research
+0.3220890900	oa articles
+0.3216634942	scientific development
+0.3216200464	co citation analysis
+0.3209219540	retrieval systems
+0.3206300473	n =
+0.3180910571	classification system
+0.3160883806	even though
+0.3155145459	publication data
+0.3144012371	the american physical society
+0.3138571964	year period
+0.3126136248	impact of research
+0.3120735251	$ k
+0.3116151917	$ j
+0.3070636629	model based
+0.3061454840	a starting point
+0.3044003214	20 years
+0.3037863128	geometric mean
+0.3025327450	related research
+0.3024266975	commonly used
+0.3018788568	so far
+0.3018621699	this paper describes
+0.3014125282	in high energy physics
+0.3010931937	shed light
+0.3000623750	the period 2004
+0.2979943226	paper reports
+0.2971629363	top cited
+0.2942707473	$ h
+0.2938844812	recommendation system
+0.2938615514	50 years
+0.2938425377	this paper explores
+0.2920417276	simple knowledge
+0.2913434437	issues related to
+0.2908688758	text data
+0.2901645695	divided into
+0.2880958494	last decade
+0.2872662466	a large corpus
+0.2870281773	public web
+0.2856731923	information system
+0.2848829054	five years
+0.2845249331	an open source
+0.2826138598	rank classes
+0.2817800278	re use
+0.2811237975	the national science
+0.2801221251	the semantic web
+0.2801135345	into account
+0.2799605921	research information
+0.2795713522	shed light on
+0.2791261020	university research
+0.2788910579	web of science data
+0.2781133828	gender differences in
+0.2760764938	doing so
+0.2754351890	self citations
+0.2749426987	does not require
+0.2749027848	increasing number of
+0.2747834664	on line
+0.2736128622	individual publications
+0.2727296728	most frequent
+0.2724072318	evaluation results
+0.2720978775	few years
+0.2710610251	quantitative analysis of
+0.2708415620	this paper investigates
+0.2705149526	an ontology
+0.2701495152	well known
+0.2701290002	study aims to
+0.2693304683	a machine learning
+0.2685997343	in natural language processing
+0.2684316693	$ g
+0.2668566888	citations received by
+0.2663659569	insights into
+0.2654455301	long term citation
+0.2624308329	the paper presents
+0.2604227193	web of data
+0.2587304122	quality of scientific
+0.2583877771	level of individual
+0.2583459609	papers published in
+0.2572599890	the open archives
+0.2569607677	impact values
+0.2567141826	aimed at
+0.2565641496	in recent years
+0.2564659325	research systems
+0.2561854216	use cases
+0.2551674520	learning techniques
+0.2550260924	impact of papers
+0.2549686825	an important role
+0.2543304138	the open access
+0.2527570661	this paper examines
+0.2527567307	cited authors
+0.2524041891	growing number of
+0.2509021821	+ +
+0.2487038183	management system
+0.2485633072	detailed analysis of
+0.2481837097	this paper introduces
+0.2471465207	this paper analyzes
+0.2449268332	the nasa astrophysics data system
+0.2430407855	study presents
+0.2426647004	the discretised lognormal
+0.2425391198	second part
+0.2416435575	the hard sciences
+0.2412479320	conjunction with
+0.2412475166	impact research
+0.2409978529	study shows
+0.2409431355	real time
+0.2406708650	an introduction
+0.2400421895	number of documents
+0.2397557506	cope with
+0.2391994415	articles published in
+0.2390461604	this paper discusses
+0.2390216624	paper shows
+0.2389649477	digital data
+0.2380376735	small number of
+0.2375820575	issues related
+0.2375173038	the science citation index
+0.2373908606	the internet archive
+0.2371218633	most cited papers
+0.2357587924	main objective of
+0.2354037851	the journal citation
+0.2350121303	a power law
+0.2345271607	a simple model
+0.2335231586	this paper proposes
+0.2326473814	high degree of
+0.2319995696	number of citations per
+0.2303289871	the total number
+0.2295271303	search system
+0.2292903379	one hand
+0.2286319150	articles published by
+0.2283743317	per year
+0.2271584783	level metrics
+0.2269481953	accompanied by
+0.2261899679	rather than
+0.2259991751	female first
+0.2252291405	the book citation index
+0.2236313985	emergence of new
+0.2232545322	information provided by
+0.2217169030	the long term
+0.2215780333	statistical analysis of
+0.2205300616	this paper aims
+0.2198650370	better understand
+0.2196802913	use case
+0.2192066731	organization systems
+0.2187140560	journals indexed in
+0.2182005140	science database
+0.2181082377	large number of
+0.2168728598	looking at
+0.2165244551	integral part
+0.2163901740	the journal citation reports
+0.2152269840	this paper
+0.2140896463	the iff
+0.2114639880	investigate whether
+0.2109778623	dominated by
+0.2103764607	time periods
+0.2099753488	do not
+0.2096344668	scopus citation
+0.2090100439	the current study
+0.2077891505	top 1
+0.2076394714	become increasingly
+0.2066997129	determine if
+0.2061414733	per paper
+0.2057916077	information provided
+0.2055732815	this study
+0.2053919964	period of time
+0.2046466457	a digital library
+0.2045184096	a bibliometric approach
+0.2021912601	at least
+0.2015708875	aims at
+0.2015172960	based on citation
+0.2013199704	a novel approach
+0.2011715509	19 pandemic
+0.2008338473	metrics based
+0.2005789703	learning based
+0.1998841195	impact of scientific
+0.1989744973	rely on
+0.1988904162	two decades
+0.1982558419	publication year
+0.1968021210	paper analyzes
+0.1966709185	the world average
+0.1960742397	top scientists
+0.1958682926	based on
+0.1947962067	bibliometric analysis of
+0.1941982152	serve as
+0.1935204511	the value of
+0.1923135236	the live web
+0.1913462087	the process of
+0.1910941881	first author
+0.1907259042	more accurate
+0.1903462087	the size of
+0.1900077252	correlations between
+0.1897562617	based indicator
+0.1894948892	^ 3
+0.1887069333	does not
+0.1883462087	the problem of
+0.1875440908	there exist
+0.1875176332	dealing with
+0.1871275830	few studies
+0.1867877758	focuses on
+0.1867543134	publication output of
+0.1865981600	the number of citations received
+0.1864291257	as well as
+0.1864234751	the scientific community
+0.1860149756	an interactive
+0.1858415833	most cited
+0.1857177485	the ads
+0.1853462087	the content of
+0.1851549605	data preservation and
+0.1848369554	very small
+0.1846935763	fractional counting of
+0.1844244120	more or less
+0.1839811650	based research
+0.1839582819	related work
+0.1838448778	the institutional level
+0.1835564987	$ \
+0.1833614613	relationship between
+0.1830724791	higher citation
+0.1822305962	relying on
+0.1820814266	focusing on
+0.1812507672	cited documents
+0.1812450377	important role in
+0.1810761257	did not
+0.1810204511	the time of
+0.1790598363	ranging from
+0.1788536050	serves as
+0.1787824096	over time
+0.1787679074	an investigation
+0.1787443844	an in depth
+0.1787003034	the impact factor
+0.1777486887	the social sciences
+0.1776114649	large number
+0.1775773570	an alternative
+0.1771324501	cited journals
+0.1769278507	the research process
+0.1769185694	the h index
+0.1765964399	the hirsch index
+0.1764020132	a digital object
+0.1759031053	number of articles
+0.1744995354	previous work
+0.1741669306	the research community
+0.1735507454	depending on
+0.1734942606	in order to
+0.1734408564	an overview
+0.1730204511	the work of
+0.1717140191	according to
+0.1717111674	focus on
+0.1712731394	impact of scholarly
+0.1709447538	at least one
+0.1705982771	citation counts from
+0.1705277621	citation impact of
+0.1704781564	to resolve
+0.1686806858	able to
+0.1685800957	top level
+0.1683462087	the network of
+0.1679045333	caused by
+0.1676490631	in software engineering
+0.1670150283	self citation
+0.1656745944	10 years
+0.1655204511	the help of
+0.1644045333	relies on
+0.1641161543	correlation between
+0.1638813886	results indicate
+0.1635888470	a small number
+0.1632444602	the power law
+0.1625204511	of interest to
+0.1625138633	much higher
+0.1621391132	data set of
+0.1617443814	based model
+0.1617346442	a large number
+0.1617184309	of references in
+0.1612353739	an empirical
+0.1605214699	the covid 19 pandemic
+0.1602904308	large data
+0.1600429075	an individual's
+0.1600238804	relationships among
+0.1600157797	due to
+0.1598903766	more likely to
+0.1593462087	the prestige of
+0.1593099396	research front
+0.1590712667	better understanding
+0.1579837260	derived from
+0.1579814564	affected by
+0.1578687698	r ^
+0.1576449345	an analytical
+0.1576395108	in spite of
+0.1565204511	more and more
+0.1562517860	results show
+0.1560350196	retrieval system
+0.1559983217	differences between
+0.1556311339	this article
+0.1555750383	belonging to
+0.1554039573	the total number of citations
+0.1553498012	very little
+0.1547292883	very few
+0.1533462087	the end of
+0.1527001355	a new approach
+0.1523567483	time period
+0.1515492581	the scopus database
+0.1513805854	relations among
+0.1511005127	higher than
+0.1510005522	across multiple
+0.1508462087	the domain of
+0.1508462087	the extraction of
+0.1501429280	integrated into
+0.1501280943	extracted from
+0.1498462087	the university of
+0.1496899292	tend to
+0.1494842652	refers to
+0.1493875715	information needs
+0.1492551774	large corpus
+0.1488462087	the interdisciplinarity of
+0.1488462087	the structure and
+0.1485225041	integral part of
+0.1483387642	citation dynamics of
+0.1478462087	the contribution of
+0.1477613181	differences among
+0.1477191741	the ascl
+0.1474814564	characterized by
+0.1472927676	current study
+0.1468688684	larger than
+0.1468462087	of millions of
+0.1463462087	the core of
+0.1463462087	the ranking of
+0.1463436799	one or more
+0.1462711541	relationships between
+0.1460017642	of research in
+0.1459284982	five year
+0.1458858920	two main
+0.1458462087	the rank of
+0.1458462087	the user to
+0.1458462087	the question of
+0.1450817964	most frequently
+0.1450628191	apart from
+0.1450091772	term impact
+0.1448462087	the age of
+0.1448462087	the publication of
+0.1448462087	the usage of
+0.1448462087	the discovery of
+0.1446091029	and dynamics of
+0.1446091029	the benefits of
+0.1446091029	of papers in
+0.1446072222	years after
+0.1443756526	belongs to
+0.1437769174	gap between
+0.1436625174	indicators based on
+0.1432717868	more than
+0.1428462087	the popularity of
+0.1425003778	so as to
+0.1424189177	to identify
+0.1420674564	distance between
+0.1418462087	the future of
+0.1417619705	much less
+0.1416767025	to understand
+0.1411951733	look at
+0.1411464452	in press
+0.1408462087	the organization of
+0.1407809008	difference between
+0.1406288297	number of
+0.1404383564	with regard to
+0.1403462087	the design and
+0.1403462087	the focus of
+0.1401808257	in research evaluation
+0.1396997702	greater than
+0.1396897322	current state of
+0.1394619327	specific research
+0.1391211208	the art
+0.1389315795	the italian
+0.1388462087	the integration of
+0.1388462087	the issue of
+0.1384942606	in terms of
+0.1384310020	of citation dynamics
+0.1383386155	accounting for
+0.1383023397	an important
+0.1382279038	questions about
+0.1378756736	publication peer review
+0.1368128753	the practice of
+0.1367395068	an integrated
+0.1356106480	an assessment
+0.1354356382	per article
+0.1353462087	the behavior of
+0.1350449997	focused on
+0.1348462087	the similarity of
+0.1348462087	the task of
+0.1340438014	depends on
+0.1340044280	quality of research
+0.1337968436	an open access
+0.1331197184	referred to as
+0.1328462087	and limitations of
+0.1328462087	in comparison to
+0.1326660074	not only
+0.1322945704	lower than
+0.1319123980	$ author
+0.1317263789	three main
+0.1315903739	the citation network
+0.1315531993	better understanding of
+0.1314533367	agreement between
+0.1310778282	computer scientists
+0.1308462087	a ranking of
+0.1308462087	a group of
+0.1308462087	a source of
+0.1299892253	various types
+0.1298462087	the perspective of
+0.1295509749	journal journal
+0.1289206964	$ r
+0.1288942350	compared to
+0.1287757025	new methods
+0.1286077378	connections between
+0.1285767800	well cited
+0.1277802167	made available
+0.1272665103	the scientific literature
+0.1270534190	analysis based
+0.1266421787	a single
+0.1264415981	a new method
+0.1260731165	related to
+0.1258495120	new indicators
+0.1257004822	as indicators of
+0.1256947124	each country
+0.1256754636	brief communication
+0.1254681617	for instance
+0.1250481854	with respect to
+0.1249094687	in favor of
+0.1247729117	convergent validity of
+0.1245282322	simple model
+0.1244409651	peer review in
+0.1240213524	three types
+0.1240170774	across disciplines
+0.1238444508	the italian university
+0.1237813839	the current state of
+0.1237333067	consisting of
+0.1236499334	wants to
+0.1232210606	relations between
+0.1230283483	number of published
+0.1227922577	model based on
+0.1222625784	approach based
+0.1221876283	network analysis of
+0.1216777708	than half of
+0.1215094542	the mpeg 21
+0.1211193185	long time
+0.1210760281	not always
+0.1196760281	among others
+0.1195276151	in most cases
+0.1193469456	paper presents
+0.1192388905	future work
+0.1190547212	followed by
+0.1180822303	citation counts for
+0.1179819590	distinguish between
+0.1178690852	a research field
+0.1176093970	this end
+0.1175177151	less than
+0.1174914712	per publication
+0.1174228320	by means of
+0.1174141489	approach based on
+0.1168847993	to shed light
+0.1168263113	for research evaluation
+0.1167282789	many cases
+0.1165510532	such as
+0.1157019963	$ c
+0.1153556879	a longitudinal
+0.1153264886	consists of
+0.1150421359	the web
+0.1146933900	very large
+0.1146927732	the isi
+0.1146243771	scientific production of
+0.1139911399	science research
+0.1127541567	not clear
+0.1125892833	co citations
+0.1124681424	information about
+0.1120643342	takes into
+0.1110837538	to assess
+0.1110693735	access to
+0.1104795904	the current state
+0.1094729045	the nasa astrophysics
+0.1094019046	a collaborative
+0.1091708870	by proposing
+0.1087160322	the web of data
+0.1086961549	refer to
+0.1086240266	to detect
+0.1083957647	a hybrid
+0.1081861289	based upon
+0.1072424382	take advantage
+0.1066628647	on covid 19
+0.1065708726	research process
+0.1064947490	not just
+0.1064752668	new index
+0.1064514437	analysis based on
+0.1063913901	scale analysis
+0.1060309852	depend on
+0.1060241426	the life sciences
+0.1057975429	three major
+0.1057071204	aims to
+0.1056646761	provided by
+0.1054619711	leads to
+0.1051313427	considered as
+0.1049914058	a virtual
+0.1049685897	the other hand
+0.1045982233	portion of
+0.1045727087	review journals
+0.1043053593	the number of citations
+0.1042234991	two distinct
+0.1041956263	scientific impact of
+0.1040435538	of research performance
+0.1040407616	the american physical
+0.1037975429	find evidence
+0.1037775070	a simple
+0.1037664525	at http
+0.1037518039	an experiment
+0.1032860083	the co authorship network
+0.1029303643	data system
+0.1028720695	the most popular
+0.1026339721	relation between
+0.1024735260	large corpus of
+0.1022698864	produced by
+0.1018429312	lead to
+0.1006462790	to improve
+0.1000975579	the memento
+0.0999165191	the total citations
+0.0995932008	by leveraging
+0.0994611943	the oai
+0.0994484642	an efficient
+0.0994445602	drawing on
+0.0992795470	the citation distribution
+0.0988768289	the digital library
+0.0988709652	a taxonomy
+0.0987439715	allows users
+0.0986851903	influenced by
+0.0982975590	state of
+0.0982448337	a complete
+0.0975535577	the number of
+0.0973759610	the nasa astrophysics data
+0.0973352494	a wide range of
+0.0966168663	correlated with
+0.0965627229	motivated by
+0.0964506356	the article level
+0.0961742759	an author's
+0.0960019551	to determine
+0.0959333190	a case
+0.0957194827	a proposal
+0.0953861285	the web of science
+0.0951187778	an article
+0.0948746966	an opportunity
+0.0946346798	two years
+0.0946043745	an integral
+0.0944417059	comparison between
+0.0942085675	a novel method
+0.0941736453	covered by
+0.0941388571	in addition
+0.0940647986	collaboration among
+0.0936516875	an effective
+0.0933786493	the top 1
+0.0933141194	contribute to
+0.0932863211	open access to
+0.0932201744	deal with
+0.0926156340	a new metric
+0.0923439499	various disciplines
+0.0921373517	applied to
+0.0920568582	knowledge about
+0.0920183771	continue to
+0.0915417487	the same
+0.0913363647	the most influential
+0.0912289597	citation impact in
+0.0912003965	scientific output of
+0.0911179117	obtained from
+0.0910963014	drawn from
+0.0910835937	the open
+0.0910585319	data from
+0.0910492283	make use of
+0.0909000676	a unified
+0.0908569707	aim at
+0.0908123398	a decade
+0.0903382682	the rise
+0.0902697443	of research publications
+0.0902351571	to obtain
+0.0892855775	social sciences and
+0.0890442110	the large scale
+0.0883875037	but also
+0.0882913960	an index
+0.0878747780	two datasets
+0.0877849137	take advantage of
+0.0877449797	used to assess
+0.0875962655	regardless of
+0.0874886622	the convergent validity
+0.0873917430	inspired by
+0.0864403308	the last decade
+0.0863250367	three years
+0.0861741164	different disciplines
+0.0860627229	deals with
+0.0860075411	organization system
+0.0859002906	other domains
+0.0856806263	impact factor of
+0.0855248520	across fields
+0.0854075602	case study of
+0.0853137325	for covid 19
+0.0847527587	first results
+0.0847025539	supported by
+0.0846894080	of journal impact
+0.0844488976	similarity between
+0.0842639710	used to
+0.0841637602	proposed system
+0.0839691517	a dataset
+0.0839659137	data preservation in
+0.0839310747	of research data
+0.0838507026	explained by
+0.0832615989	a citation network
+0.0832319829	trained on
+0.0830067090	findings show
+0.0828317710	the dblp
+0.0826487159	associated with
+0.0825579652	a link
+0.0821218500	written by
+0.0820076648	this gap
+0.0818676915	a survey
+0.0818076914	from scopus
+0.0814072873	a new
+0.0813201665	comment on
+0.0810536360	the time evolution
+0.0804367242	the citation based
+0.0802301162	better than
+0.0801476491	current work
+0.0800145764	the top 10
+0.0799997148	the most important
+0.0794360533	an initial
+0.0792278002	the use of
+0.0790720344	a distributed
+0.0788174052	an overview of
+0.0787949370	a set of
+0.0786433737	used to identify
+0.0782657968	impact on
+0.0780283156	paper provides
+0.0777300944	an application
+0.0776559403	the covid 19
+0.0771989613	correlates with
+0.0771926915	the ocr
+0.0771889597	research performance of
+0.0771885376	this chapter
+0.0771625907	the peer review
+0.0771359545	the number of publications
+0.0770682933	an information
+0.0769952929	an online
+0.0769234961	different approaches
+0.0768228279	links between
+0.0764505407	available online
+0.0764189496	compared with
+0.0762258086	correspond to
+0.0758046857	analysis of
+0.0758039321	c +
+0.0756771570	offered by
+0.0755867696	a systematic
+0.0754876086	the most common
+0.0754173777	widely used to
+0.0751717084	the scholarly communication
+0.0748466159	last few
+0.0748361760	an extensive
+0.0745797459	more complex
+0.0745415021	journals based on
+0.0744991349	different fields
+0.0744216882	of web resources
+0.0742171292	even if
+0.0741555105	in spain
+0.0739237178	different ways
+0.0738550053	interact with
+0.0738207989	a paper
+0.0737293810	first authors
+0.0735396224	a quantitative
+0.0734721252	of research articles
+0.0734228821	collaboration between
+0.0731383814	measured by
+0.0730926685	the scimago
+0.0729661866	a semi
+0.0727702929	an author
+0.0727455692	by analyzing
+0.0727266021	each year
+0.0725900138	in depth
+0.0725797137	research on
+0.0723656280	concerned with
+0.0723489700	data available
+0.0722621165	each author
+0.0719925734	to evaluate
+0.0718629241	by peers
+0.0717572581	more specifically
+0.0717045560	after publication
+0.0716130831	the g index
+0.0716112473	science system
+0.0712989613	builds on
+0.0712106520	an algorithm
+0.0712025129	other hand
+0.0709391634	the journal
+0.0708489973	known about
+0.0708028610	the mizar
+0.0706051446	different types of
+0.0706022178	funded by
+0.0705231437	two approaches
+0.0704728219	an open
+0.0704267146	this work
+0.0704008401	an exploratory
+0.0702197651	of research papers
+0.0702184716	a consequence
+0.0700035533	tends to
+0.0700025738	coming from
+0.0697670642	each paper
+0.0697666115	a large number of
+0.0696059219	a conceptual
+0.0693536339	a network
+0.0691523618	of science
+0.0686785914	a new indicator
+0.0684099711	to adopt
+0.0683888338	a variety of
+0.0682840734	two sets
+0.0681359545	the number of papers
+0.0680699906	different measures
+0.0680025738	gathered from
+0.0675212153	the level of individual
+0.0674231098	a study
+0.0671818669	under study
+0.0670347930	citation network of
+0.0668361058	this approach
+0.0667653197	publish or
+0.0666630647	an emerging
+0.0664766377	to foster
+0.0660255417	to predict
+0.0659896411	to measure
+0.0659488175	in computer science
+0.0658916476	the same time
+0.0658819598	efficacy of
+0.0658447061	to provide
+0.0658108661	captured by
+0.0652457572	scientific work
+0.0652432456	a scientometric
+0.0652408564	controlling for
+0.0650412629	different kinds of
+0.0649442323	a preliminary
+0.0647483578	to overcome
+0.0646228875	other disciplines
+0.0644274358	this problem
+0.0641383146	published between
+0.0641018238	to achieve
+0.0640994027	other countries
+0.0638499449	the average number of
+0.0637068256	the u.s
+0.0637023298	different methods
+0.0636950631	referred to
+0.0636680840	a novel
+0.0635968353	different countries
+0.0632957239	an essential
+0.0631487415	a wide variety of
+0.0629216882	the citation count
+0.0627833115	by applying
+0.0627526243	determined by
+0.0627422246	published by
+0.0624254240	taking into
+0.0623522801	the european
+0.0621819124	report on
+0.0620709566	this paper aims to
+0.0619237125	the research output
+0.0618964179	to better understand
+0.0617055279	a global
+0.0616122248	attempt to
+0.0615603994	to gather
+0.0611837828	& d
+0.0611538826	a publication
+0.0609353425	a visual
+0.0609274860	affiliated with
+0.0608888338	the basis of
+0.0608535536	many countries
+0.0607709521	more effective
+0.0607295123	devoted to
+0.0602540003	on twitter
+0.0601395334	indexed by
+0.0600642306	the length of
+0.0600537401	the semantic
+0.0599738181	the main
+0.0599707732	cited by
+0.0599538059	ever more
+0.0598244400	retrieved from
+0.0598185848	defined as
+0.0596676797	a better understanding
+0.0595507104	the netherlands
+0.0595235293	the opencitations
+0.0595048820	benefit from
+0.0594494715	set of
+0.0591062941	a lot of
+0.0589673000	to quantify
+0.0589255371	this purpose
+0.0589170224	to locate
+0.0588821720	the last few
+0.0588131195	many studies
+0.0588017128	modes of
+0.0586323264	amount of data
+0.0585099123	the german
+0.0584572076	the cost
+0.0584510018	a hierarchical
+0.0581862105	to avoid
+0.0580707821	proxy for
+0.0580437174	two databases
+0.0578337642	the number of authors
+0.0577045169	emerged as
+0.0576314736	a statistical analysis
+0.0575746433	the internet
+0.0575080761	a comparison
+0.0574777116	to preserve
+0.0574522214	an important role in
+0.0574142046	seem to
+0.0573600931	framework for
+0.0573299017	significantly different
+0.0573177795	responsible for
+0.0573033726	the eu
+0.0572982372	an institution
+0.0571887727	the main objective of
+0.0571671334	the case
+0.0570948941	differences in
+0.0569690031	away from
+0.0568729567	first year
+0.0567030680	among fields
+0.0566409369	a robust
+0.0565073802	a framework
+0.0564674431	this issue
+0.0563959792	a large
+0.0563489785	an academic
+0.0563366023	by examining
+0.0563001263	not yet
+0.0562882682	a platform
+0.0558446274	a query
+0.0557984377	the leiden
+0.0557715046	of science database
+0.0557202244	the field of
+0.0553683547	authored by
+0.0551375964	several years
+0.0551025287	along with
+0.0550936758	a dynamic
+0.0550308922	various fields
+0.0547552363	unable to
+0.0547100790	an indicator
+0.0546535577	the impact of
+0.0545696208	published in
+0.0545469239	different areas
+0.0544839134	belong to
+0.0541448822	to create
+0.0538538039	contributes to
+0.0538165985	most important
+0.0536660199	light on
+0.0535182520	information from
+0.0534087228	the normalization
+0.0533910299	to support
+0.0532643570	two major
+0.0532295123	contrary to
+0.0530089689	the scientific production
+0.0529165493	universality of
+0.0527145970	of co authors
+0.0526777226	a total of
+0.0526091064	a journal
+0.0522919841	do so
+0.0522182618	to implement
+0.0521433534	to assist
+0.0520609488	but rather
+0.0520555004	the aim of
+0.0520219552	impact of
+0.0518444162	on average
+0.0518062941	the possibility of
+0.0518062255	continues to
+0.0516473541	the box
+0.0515518650	an increase
+0.0514926426	driven by
+0.0512062941	a series of
+0.0510135892	an average
+0.0509515459	a specific
+0.0508734495	the quality of research
+0.0506535577	the level of
+0.0505333873	all italian
+0.0505003561	most relevant
+0.0503972032	the first part of
+0.0502868271	a comprehensive
+0.0502740891	many citations
+0.0502717274	the usa
+0.0502221671	the purpose of
+0.0500926357	the geometric mean
+0.0498470148	the uk
+0.0496020222	to answer
+0.0495555004	an analysis of
+0.0492182618	to solve
+0.0492025007	to develop
+0.0486872185	to add
+0.0485638698	the course of
+0.0485598585	a brief
+0.0485348425	interested in
+0.0484807947	a scientist's
+0.0484019963	approach to
+0.0483636490	an approach
+0.0482970092	attempted to
+0.0482662629	as measured by
+0.0479959813	two important
+0.0478699925	the most appropriate
+0.0478673771	the hirsch
+0.0478585942	a practical
+0.0477971410	addressed by
+0.0477775293	a high
+0.0477110560	the ratio of
+0.0474854332	the journal impact
+0.0474209218	time evolution
+0.0474013119	the usual
+0.0473515743	approach for
+0.0471575097	majority of
+0.0471245326	new knowledge
+0.0471141681	other fields
+0.0470198001	to uncover
+0.0469608365	an individual
+0.0469023185	to do so
+0.0467785163	a small number of
+0.0467483578	to ensure
+0.0465687466	a measure
+0.0465346128	the first
+0.0465107350	difficult to
+0.0465060802	the most relevant
+0.0464616037	the case of
+0.0464269582	for example
+0.0462830587	proportional to
+0.0461756766	a lot
+0.0461350214	consistent with
+0.0459607486	this method
+0.0456908005	to analyze
+0.0452957307	the design of
+0.0452893112	this phenomenon
+0.0451872391	each other
+0.0448015092	kind of
+0.0447297906	support for
+0.0447110560	the potential to
+0.0446731294	this indicator
+0.0444277226	a corpus of
+0.0440181059	generated by
+0.0437910383	a proxy
+0.0436535577	the quality of
+0.0436396274	the existence of
+0.0435715946	involved in
+0.0435557145	used to study
+0.0434933785	a small
+0.0434794301	fail to
+0.0434404848	the past
+0.0433530985	the scientific output
+0.0431980765	to build
+0.0430639505	capable of
+0.0429839251	by discipline
+0.0428947427	in conjunction with
+0.0428896274	the robustness of
+0.0427598924	this question
+0.0427206513	to compare
+0.0426639307	received by
+0.0425886143	favour of
+0.0425260160	want to
+0.0424290274	significantly more
+0.0423580062	an analysis
+0.0423358575	becoming more
+0.0423232297	resulted in
+0.0419610560	a review of
+0.0418695186	by combining
+0.0413279058	represented by
+0.0411254778	tool for
+0.0411098201	relate to
+0.0409008821	a significant
+0.0408141596	starting with
+0.0407384044	led to
+0.0407129165	many years
+0.0406876203	fraction of
+0.0406535577	the development of
+0.0405832594	this process
+0.0405149781	to handle
+0.0402598372	generated from
+0.0402390194	to enable
+0.0401899781	to tackle
+0.0400445252	working with
+0.0399700038	achieved by
+0.0397690787	respect to
+0.0396396274	a combination of
+0.0395963066	contributing to
+0.0392838516	r &
+0.0392004129	included in
+0.0390622317	equal to
+0.0390035577	the distribution of
+0.0388896213	different kinds
+0.0388734495	the impact of scientific
+0.0388161693	this topic
+0.0387202244	the evolution of
+0.0387202244	the context of
+0.0386842895	adopted by
+0.0385737878	to verify
+0.0385535577	a number of
+0.0385509118	constructed from
+0.0384738616	h index for
+0.0384499530	at scale
+0.0384466827	agreement with
+0.0384272176	created by
+0.0384187730	lies in
+0.0384146216	a scientist
+0.0382665915	extraction from
+0.0382608829	evaluation of
+0.0381743616	seen as
+0.0381708853	to calculate
+0.0379747329	an interesting
+0.0379713259	the full text of
+0.0378891634	the field
+0.0378718113	two types of
+0.0377885054	an automatic
+0.0377740245	to facilitate
+0.0377305092	types of
+0.0377202244	the role of
+0.0376571682	come from
+0.0376116912	attributed to
+0.0375147749	the average
+0.0375133695	more likely
+0.0374443893	the extent to
+0.0374378800	an interdisciplinary
+0.0373435333	developed by
+0.0373110560	the meaning of
+0.0372598372	built on
+0.0372006062	a field
+0.0371928834	to discover
+0.0371352984	the first time
+0.0369530616	different types
+0.0369182878	of papers from
+0.0368982492	the most
+0.0368977015	the entire
+0.0368950025	a web
+0.0367202244	the effect of
+0.0366005719	increase in
+0.0365911487	two different
+0.0365147749	the period
+0.0364616037	the creation of
+0.0364430030	to learn
+0.0362675388	implications for
+0.0362477816	represented as
+0.0362445542	the analysis of
+0.0361779619	obtained by
+0.0361374197	dependent on
+0.0360729607	the feasibility of
+0.0360676220	amount of
+0.0360341596	an institutional
+0.0360276132	evidence from
+0.0358986106	as well
+0.0358422030	insights from
+0.0357775496	development of
+0.0357199158	model for
+0.0357191168	attention from
+0.0356708650	identified by
+0.0356590704	understanding of
+0.0355316963	building on
+0.0355153562	not significantly
+0.0353451207	method for
+0.0352396274	in relation to
+0.0350826066	level of
+0.0349975320	interaction with
+0.0347483956	assigned to
+0.0347362103	used as
+0.0346395339	absence of
+0.0345873013	to classify
+0.0345860457	the current
+0.0345085147	identification of
+0.0345030728	to make
+0.0344708606	a methodology
+0.0344616037	the effectiveness of
+0.0342807328	a major
+0.0342536365	a bibliometric
+0.0342511972	the world
+0.0341443893	a basis for
+0.0340127505	performance of
+0.0339414368	much more
+0.0339396505	persistence of
+0.0339085300	to explore
+0.0338664068	introduced by
+0.0338321408	in science and technology
+0.0337728459	need to
+0.0337439600	applicable to
+0.0336266576	to address
+0.0335156867	but not
+0.0334657560	in contrast
+0.0333573937	to perform
+0.0333519651	as part of
+0.0333457143	study of
+0.0332987770	taken into
+0.0332598870	this model
+0.0332476937	influence on
+0.0332231631	collected from
+0.0331694764	this task
+0.0331443692	a common
+0.0331041580	the convergent validity of
+0.0329907772	a digital
+0.0329828025	the well known
+0.0329651491	reported by
+0.0329424750	structure of
+0.0329230765	this area
+0.0329041331	infrastructure for
+0.0328911989	easy to
+0.0328738599	to promote
+0.0328109004	evaluated by
+0.0327555823	tries to
+0.0326539692	range of
+0.0326326339	part of
+0.0326317727	a country's
+0.0325039185	perspective on
+0.0323062982	hard to
+0.0322530139	defined by
+0.0322495933	consist of
+0.0322094703	deposited in
+0.0321567727	to infer
+0.0321521044	indexed in
+0.0321443893	the possibility to
+0.0321196662	conclude with
+0.0321154224	a researcher's
+0.0321121961	by providing
+0.0320979460	decomposition of
+0.0320236488	version of
+0.0320194775	a vast
+0.0317234331	an additional
+0.0316857416	the relationship between
+0.0316838259	a sample of
+0.0316535577	the study of
+0.0316324685	interactions with
+0.0314562177	distribution of
+0.0314071668	combined with
+0.0313316446	suite of
+0.0313110560	to search for
+0.0312851966	the research front
+0.0312750275	this short
+0.0311443893	the prevalence of
+0.0310938467	most influential
+0.0310562177	assessment of
+0.0310035577	the performance of
+0.0310012468	difference in
+0.0308572088	like to
+0.0308407033	close to
+0.0307499039	interest in
+0.0307493730	to meet
+0.0307352783	to represent
+0.0306706803	perspectives on
+0.0306479746	a user
+0.0305509852	to construct
+0.0303353042	none of
+0.0303186187	different levels of
+0.0303068897	opportunity to
+0.0302568979	new approach
+0.0302206359	role in
+0.0301443893	the present work
+0.0300841112	subset of
+0.0300822453	three different
+0.0300406207	used for
+0.0300258623	more important
+0.0299991886	to extend
+0.0299918945	the accuracy of
+0.0298920924	science &
+0.0297822012	to produce
+0.0297729725	the majority
+0.0297488679	to generate
+0.0296950025	a model
+0.0296482264	very different
+0.0296317727	to decide
+0.0295610560	a better understanding of
+0.0295577724	lack of
+0.0295485073	performed by
+0.0294897744	to assign
+0.0294777226	a period of
+0.0294731032	to establish
+0.0294083253	quality of
+0.0293564191	citations per
+0.0293500711	measure of
+0.0293041986	this report
+0.0292720860	period from
+0.0291566751	comparison with
+0.0291195035	h \
+0.0290994702	a system for
+0.0290238679	to publish
+0.0290127505	field of
+0.0289559322	among journals
+0.0288993874	to monitor
+0.0288925412	effect on
+0.0288215842	for measuring
+0.0288153333	used by
+0.0286951407	also show
+0.0284128299	to investigate
+0.0283929382	formation of
+0.0283430262	conference on
+0.0283342216	working on
+0.0283015729	dedicated to
+0.0282357861	correct for
+0.0281129845	developed for
+0.0281114842	transformation of
+0.0281035861	representation of
+0.0280888137	a general
+0.0280702244	the importance of
+0.0278553970	to enhance
+0.0277863000	the journal of
+0.0277110560	an approach to
+0.0277052677	from web of science
+0.0276808051	to distinguish between
+0.0276672214	to rank
+0.0276003983	by comparing
+0.0275751814	availability of
+0.0274616037	the concept of
+0.0274272856	the former
+0.0273981942	the complete
+0.0273772430	to integrate
+0.0273132799	the research performance of
+0.0272547621	to use
+0.0271728732	a strong
+0.0270648233	new indicator
+0.0270559970	the state of
+0.0270237951	demand for
+0.0269646942	tens of
+0.0269254537	try to
+0.0268453860	foundation for
+0.0268371916	response to
+0.0267458731	to estimate
+0.0267410577	the structure of
+0.0267061629	also find
+0.0265999248	evaluated on
+0.0265846608	to store
+0.0265506042	reflected in
+0.0265504926	a subset of
+0.0265452905	the relation between
+0.0265285392	well as
+0.0265075386	of magnitude
+0.0264777226	the rest of
+0.0264618310	proposed by
+0.0262565165	to maintain
+0.0262133834	suitable for
+0.0261971183	the cost of
+0.0261956763	literature on
+0.0261828189	correlation with
+0.0261445806	a researcher
+0.0261414017	a way to
+0.0261192645	body of
+0.0260202244	in addition to
+0.0260171593	in contrast to
+0.0259907918	the fact
+0.0258879293	ease of
+0.0258860300	likely to
+0.0258691039	recorded in
+0.0258482457	looking for
+0.0257804517	the sum of
+0.0257745989	to gain
+0.0257535577	the choice of
+0.0257297081	for creating
+0.0257024955	to reproduce
+0.0256485560	the ability of
+0.0256207295	limited by
+0.0255974432	influence of
+0.0255908649	for assessing
+0.0255379366	to visualize
+0.0254671593	the emergence of
+0.0254570371	similar to
+0.0252787341	the beginning
+0.0252768067	to define
+0.0251578623	the most cited
+0.0251265079	methodology for
+0.0251207295	integrated with
+0.0250876113	growth in
+0.0250766508	research system
+0.0249658061	the top
+0.0249443345	wealth of
+0.0249386329	more recent
+0.0249152962	examination of
+0.0248835513	different levels
+0.0248453860	center for
+0.0248396283	often not
+0.0247975073	also present
+0.0246736317	to examine
+0.0245970727	comparison of
+0.0245652151	a system
+0.0244949370	the relevance of
+0.0244585611	the literature on
+0.0244328035	an example of
+0.0244168686	most popular
+0.0242577244	using data from
+0.0242306830	to demonstrate
+0.0241986335	the need for
+0.0241948175	series of
+0.0241851466	to compute
+0.0241722070	to capture
+0.0240876113	diversity of
+0.0240687366	to test
+0.0240158829	collaboration with
+0.0239508224	linked to
+0.0239478187	a graph
+0.0239388051	the number
+0.0239365201	available at
+0.0239252278	to contribute to
+0.0239087700	to inform
+0.0238896315	era of
+0.0238516512	new metric
+0.0238360072	the citation impact of
+0.0237807833	the scientific output of
+0.0237726173	concentration of
+0.0237722129	any other
+0.0237535577	the idea of
+0.0237241886	to collect
+0.0237157975	account for
+0.0236941361	overview of
+0.0236558936	growth of
+0.0236484927	delineation of
+0.0236292399	platform for
+0.0236095009	dissemination of
+0.0235716112	notion of
+0.0235271670	university system
+0.0235041983	conclude by
+0.0235035577	the goal of
+0.0234582616	search for
+0.0234243911	a measure of
+0.0234033139	sensitive to
+0.0233820891	a valid
+0.0233724737	a considerable
+0.0233174545	a key
+0.0232820891	a generic
+0.0232449370	the result of
+0.0232436259	new methodology
+0.0232370604	an evaluation
+0.0232321841	a powerful
+0.0232171354	description of
+0.0232030216	to keep
+0.0231574117	the current work
+0.0231304517	a model of
+0.0231153308	to track
+0.0230856197	accounts for
+0.0230562982	dimension of
+0.0230252278	the share of
+0.0230047621	used in
+0.0230020214	often used
+0.0229376301	a particular
+0.0229320487	use of
+0.0229051772	characterization of
+0.0229006062	a method
+0.0228317879	alternative to
+0.0228188324	goal of
+0.0227937735	attempts to
+0.0227474500	the scientific impact of
+0.0225841112	picture of
+0.0225759289	an example
+0.0225742709	required to
+0.0225739749	creation of
+0.0225035577	the presence of
+0.0224671593	a list of
+0.0224220582	with at least
+0.0223607897	submitted to
+0.0223194063	a real
+0.0222590725	to deal with
+0.0222425841	analysis on
+0.0222175448	assignment of
+0.0222062399	to collaborate
+0.0221970727	evolution of
+0.0221330365	aid in
+0.0221301153	to organize
+0.0220651740	tested on
+0.0220483751	the united
+0.0219889035	this result
+0.0219783212	to characterize
+0.0219226637	the nature of
+0.0219219444	found between
+0.0219078466	to reach
+0.0218357706	mentioned in
+0.0218281508	employed in
+0.0218123921	a prototype
+0.0218028830	form of
+0.0216162049	the last
+0.0215919300	other than
+0.0215713554	appears to
+0.0215526966	a few
+0.0215526739	a bibliometric analysis of
+0.0215345651	in turn
+0.0215249462	to illustrate
+0.0215243911	the growth of
+0.0215243911	the influence of
+0.0215079486	more often
+0.0214918945	the validity of
+0.0214585611	a method for
+0.0214243911	a study of
+0.0214013794	to extract
+0.0213980804	uncertainty in
+0.0213689359	many researchers
+0.0213385200	a unique
+0.0213324370	the absence of
+0.0213096491	proportion of
+0.0212958983	this paper provides
+0.0211622407	this context
+0.0211495234	position in
+0.0211301153	to interpret
+0.0210752633	two new
+0.0210721438	a non
+0.0210236317	a result
+0.0209148609	the idea
+0.0208990977	intended to
+0.0208938324	risk of
+0.0208902683	a critical
+0.0208774710	expressed in
+0.0208716291	adapted to
+0.0208407383	selection of
+0.0208153308	a universal
+0.0208082795	a fundamental
+0.0207952837	change in
+0.0207918945	a result of
+0.0207911002	relationship with
+0.0207153308	a comparative
+0.0206778876	the evaluation of
+0.0206522046	list of
+0.0205824370	the potential of
+0.0205704008	the intrinsic
+0.0205613098	a suitable
+0.0205564423	a novel approach to
+0.0205392966	also found
+0.0205149081	active in
+0.0205116271	a rich
+0.0205035577	the production of
+0.0204713422	to help
+0.0204321408	of science and scopus
+0.0204148609	a long
+0.0204078466	a flexible
+0.0204067107	located in
+0.0203969061	the amount of
+0.0203848475	inclusion of
+0.0203820784	an existing
+0.0203612955	view of
+0.0203546979	variance in
+0.0203282704	an evaluation of
+0.0202953281	designed to
+0.0202774455	difficult for
+0.0202567694	a great
+0.0202363000	the success of
+0.0201455852	as well as for
+0.0201419995	traffic of
+0.0201175996	true for
+0.0201166018	to carry
+0.0201166018	a journal's
+0.0200949180	effect of
+0.0200836215	aim to
+0.0200398918	leading to
+0.0200238658	the total
+0.0200220241	the world's
+0.0200105425	the need to
+0.0200049435	adoption of
+0.0199470454	an early
+0.0199226637	the assessment of
+0.0199141167	the total number of
+0.0199033139	exploitation of
+0.0198898004	deployed in
+0.0198516512	most cases
+0.0198471183	a new approach to
+0.0198455222	to increase
+0.0198399959	essential for
+0.0198266945	a wide
+0.0197559970	the diversity of
+0.0197514664	in academia
+0.0197189679	construction of
+0.0196692103	the dominant
+0.0196567607	a multi
+0.0196402984	a standard
+0.0195794877	composed of
+0.0195742709	intensity of
+0.0195675156	a complex
+0.0195243911	the lack of
+0.0195243911	the history of
+0.0195162345	covered in
+0.0195038823	this type of
+0.0194918945	the usefulness of
+0.0194567236	identified as
+0.0194243911	the extent of
+0.0194168686	novel approach
+0.0193685396	presence of
+0.0193644853	a country
+0.0193638119	a low
+0.0193032146	to conduct
+0.0192911901	complexity of
+0.0192363000	the web of
+0.0192127328	way to
+0.0192018979	the emergence
+0.0191971183	the introduction of
+0.0191657704	the origin of
+0.0191619346	accumulation of
+0.0191473584	a broad
+0.0191465500	topology of
+0.0190922621	to find
+0.0190851889	different fields of
+0.0190774455	product of
+0.0190487450	an international
+0.0190471238	to reduce
+0.0190304517	to account for
+0.0190107556	a clear
+0.0189594963	this database
+0.0189471183	the proportion of
+0.0189221388	expected to
+0.0189034427	the baseline
+0.0188578466	the moment
+0.0188286887	represented in
+0.0188089879	the vast
+0.0187910884	in response
+0.0187559970	the percentage of
+0.0187514664	a random
+0.0187243911	a method to
+0.0186728257	role of
+0.0186260192	spread of
+0.0185984425	crucial for
+0.0185910577	the measurement of
+0.0185910577	the majority of
+0.0185696662	calculated for
+0.0185638743	rise of
+0.0185243911	the form of
+0.0185169536	reasons for
+0.0185022046	generation of
+0.0184593525	sense of
+0.0184589008	the relationship
+0.0184404135	build on
+0.0184184063	different from
+0.0183886667	the final
+0.0183871552	this project
+0.0183482414	presentation of
+0.0183167566	type of
+0.0182971183	the probability of
+0.0182321419	area of
+0.0181926692	required for
+0.0181741067	to analyse
+0.0181657704	the utility of
+0.0181657704	a function of
+0.0181410884	to explain
+0.0181410884	to combine
+0.0181401282	collection of
+0.0181304517	the notion of
+0.0181067949	sample of
+0.0180648979	to select
+0.0180370262	awareness of
+0.0180049435	variant of
+0.0180043099	to present
+0.0180010542	found by
+0.0179393401	the outcome
+0.0179226637	the availability of
+0.0178918945	the calculation of
+0.0178918945	the reliability of
+0.0178898004	appeared in
+0.0178585611	the efficiency of
+0.0178366012	advancement of
+0.0177353743	output of
+0.0177274455	landscape of
+0.0176902047	contained in
+0.0176717007	four different
+0.0176606960	shown to
+0.0176583969	this way
+0.0176252278	the construction of
+0.0176074474	between countries
+0.0176039672	a central
+0.0175974432	production of
+0.0175910577	the ability to
+0.0175910577	an indicator of
+0.0175863000	the set of
+0.0175734215	the whole
+0.0175690123	addition to
+0.0175604352	accuracy of
+0.0175189359	among researchers
+0.0175067694	a short
+0.0174971183	a lack of
+0.0174286887	solution for
+0.0173783243	service for
+0.0173685396	significance of
+0.0173579376	to allow
+0.0173547114	case of
+0.0173512393	nature of
+0.0173479908	a crucial
+0.0173428042	a tool
+0.0173380581	a multidisciplinary
+0.0173342304	international co
+0.0172585223	a case study of
+0.0172290252	same time
+0.0171798282	needs to
+0.0171792893	written in
+0.0171538140	dataset with
+0.0171250627	this case
+0.0171147307	to trace
+0.0171093289	modeling of
+0.0170918945	in collaboration with
+0.0170498450	available through
+0.0169918945	the degree of
+0.0169776446	most common
+0.0169409820	proxy of
+0.0168585611	a comparison of
+0.0168585611	the basis for
+0.0168585611	the strength of
+0.0167952111	extension of
+0.0167229426	to distinguish
+0.0166823440	concept of
+0.0166131497	to exploit
+0.0165350520	available on
+0.0165238743	ratio of
+0.0164923704	the reader
+0.0164706339	a limited
+0.0164471183	the rise of
+0.0164450200	needed to
+0.0164381497	the gini
+0.0164304517	a range of
+0.0164243911	a collection of
+0.0163856026	also propose
+0.0163685396	half of
+0.0163619060	history of
+0.0163295921	an impact
+0.0162880059	web of
+0.0162824503	context of
+0.0162791979	importance of
+0.0162788724	the role
+0.0162507038	the debate
+0.0162337434	exploration of
+0.0162175059	function of
+0.0161971183	the objective of
+0.0161895200	basis for
+0.0161619346	percent of
+0.0161149695	limited to
+0.0160252278	the selection of
+0.0160018173	the correlation between
+0.0159490262	an appropriate
+0.0159471183	the application of
+0.0159401356	status of
+0.0159237788	means of
+0.0158585611	the volume of
+0.0158444197	a proof of
+0.0158380581	a consistent
+0.0158308884	introduction of
+0.0158119610	computation of
+0.0158116271	a solution
+0.0158116271	a detailed
+0.0157903077	the most highly
+0.0157858316	mechanism for
+0.0157858316	strategy for
+0.0157683439	proposed as
+0.0157307371	published from
+0.0157280202	an alternative to
+0.0157274455	bias in
+0.0156073724	stored in
+0.0155512468	investigation of
+0.0155331494	options for
+0.0154571740	combination of
+0.0153752278	the combination of
+0.0153633967	the latter
+0.0153619060	share of
+0.0153577244	a model for
+0.0153442227	application of
+0.0152858316	scheme for
+0.0152176081	this finding
+0.0152039294	an end
+0.0152014330	published at
+0.0151971183	a survey of
+0.0151971183	the scope of
+0.0151251889	of research on
+0.0151251889	the understanding of
+0.0150476839	feasibility of
+0.0150218663	other journals
+0.0150213646	sum of
+0.0150085611	a tool for
+0.0149948698	basis of
+0.0149932732	a collection
+0.0149811945	point of
+0.0149419635	advantage of
+0.0149330772	variety of
+0.0148626357	collected by
+0.0148398219	embedded in
+0.0148126552	by considering
+0.0148028830	rate of
+0.0147863000	the fraction of
+0.0147242709	ability to
+0.0146356894	trying to
+0.0145810068	the notion
+0.0145798163	to encourage
+0.0145388641	the complexity of
+0.0145388641	the output of
+0.0145285074	calculation of
+0.0145278850	most appropriate
+0.0145064706	volume of
+0.0143578248	to know
+0.0142987770	take into
+0.0142978090	reproducibility in
+0.0142665766	novel method
+0.0142363000	the comparison of
+0.0142193448	other papers
+0.0141956339	a challenge
+0.0141129100	aspect of
+0.0140670397	section of
+0.0140482247	technique for
+0.0139731373	definition of
+0.0139522474	then use
+0.0139408141	degree of
+0.0139254100	interpretation of
+0.0138998814	success of
+0.0138308884	rise in
+0.0138237866	more highly
+0.0137994915	come to
+0.0137863000	the type of
+0.0137346138	validation of
+0.0137173704	the assumption
+0.0137168652	most recent
+0.0136940969	corresponding to
+0.0136893401	to contribute
+0.0136607185	far from
+0.0136488242	period of
+0.0135638743	ontology for
+0.0135628593	proposed to
+0.0135388641	a network of
+0.0135214830	the hooked
+0.0134808884	treatment of
+0.0134443231	the h
+0.0134443231	the best
+0.0134340153	to take
+0.0133815276	the primary
+0.0133696334	the implementation of
+0.0133355263	strength of
+0.0132811311	available for
+0.0132810068	the french
+0.0132415764	novel approach to
+0.0132363000	the generation of
+0.0131496677	implemented in
+0.0130961926	result of
+0.0130162553	dataset for
+0.0129918945	the area of
+0.0129682732	a power
+0.0128542893	percentage of
+0.0128363000	the identification of
+0.0127916414	described by
+0.0127756820	the right
+0.0126044197	the effects of
+0.0125816874	to normalize
+0.0125517345	intervals for
+0.0125388641	the search for
+0.0125285343	to validate
+0.0125131497	to recommend
+0.0124856873	specification of
+0.0124682732	the scientist
+0.0124363000	the definition of
+0.0124263290	potential for
+0.0124148442	seems to
+0.0123783243	trend in
+0.0123783243	step in
+0.0123310068	the late
+0.0122802289	a whole
+0.0122258421	a number
+0.0121358316	credit for
+0.0121304517	a framework for
+0.0121262408	the aim
+0.0121145096	comes to
+0.0121093289	aim of
+0.0120786253	especially for
+0.0120784427	a list
+0.0120419146	prevalence of
+0.0120159796	given by
+0.0120003837	the full
+0.0119982324	the social sciences and
+0.0119340370	this framework
+0.0119048282	to get
+0.0118862676	a certain
+0.0118633585	then used
+0.0118376058	thanks to
+0.0116930988	to do
+0.0115515287	two types
+0.0115397998	phase of
+0.0115397998	allocation of
+0.0114976735	the causal
+0.0114328793	a way
+0.0113862676	a good
+0.0113783243	measurement of
+0.0113716374	probability of
+0.0113443135	instead of
+0.0113388641	the similarity between
+0.0112811311	to describe
+0.0112363000	the advantage of
+0.0112330135	helps to
+0.0111251889	the representation of
+0.0110951708	emergence of
+0.0110784427	this type
+0.0110784427	the log
+0.0110638743	objective of
+0.0109713428	as compared to
+0.0109393505	robustness of
+0.0109228653	implementation of
+0.0109079695	to train
+0.0109034427	the annual
+0.0108947371	order to
+0.0108480655	with regard
+0.0108387278	the creation
+0.0108380581	a deep
+0.0108265548	first part
+0.0108022830	new approach to
+0.0107468652	or even
+0.0107417294	done by
+0.0106996802	started to
+0.0106952010	a substantial
+0.0106252968	coverage of
+0.0105925956	known as
+0.0105370221	benefit of
+0.0105342701	this document
+0.0105327575	of citations received by
+0.0105162553	evidence for
+0.0105162553	efficiency of
+0.0105049708	idea of
+0.0105009109	designed for
+0.0104808884	validity of
+0.0104336745	categorization of
+0.0103966374	progress in
+0.0103952010	to retrieve
+0.0103745886	environment for
+0.0103401469	appear to
+0.0103013645	the number of co
+0.0102717542	the course
+0.0102363000	the increase in
+0.0102363000	the period of
+0.0102330135	aiming to
+0.0101726735	to receive
+0.0101715972	usefulness of
+0.0101145279	purpose of
+0.0101120221	efficiency in
+0.0100784427	the association
+0.0100604861	gap in
+0.0099991522	first part of
+0.0099950678	propensity to
+0.0099932732	to apply
+0.0099761246	architecture for
+0.0099682732	the presence
+0.0099599399	to include
+0.0099535343	to correct
+0.0099533935	useful for
+0.0098525496	existence of
+0.0098361881	regard to
+0.0098346008	contrast to
+0.0098320322	together with
+0.0096770505	algorithm for
+0.0096758707	relation to
+0.0096664384	origin of
+0.0096380581	to follow
+0.0096048163	a proof
+0.0094808884	shape of
+0.0094682732	a visualization
+0.0094682732	a sample
+0.0094670078	sequence of
+0.0094555410	unit of
+0.0094174947	possible to
+0.0094139659	aimed to
+0.0094049708	effort to
+0.0093870221	effectiveness of
+0.0093752480	introduction to
+0.0093117542	allows to
+0.0092469048	with respect
+0.0091202010	to grow
+0.0090690733	success in
+0.0090459256	result in
+0.0090425373	extended to
+0.0090406326	possibility to
+0.0090011676	new method
+0.0089701094	to offer
+0.0089643401	the transition
+0.0089643401	the ongoing
+0.0089536485	outcome of
+0.0089143183	to give
+0.0088980929	crucial to
+0.0088742268	allows for
+0.0088393183	side of
+0.0088226735	to serve
+0.0088131497	to deal
+0.0088066802	relevant for
+0.0086618794	need for
+0.0085992268	allow for
+0.0085854861	point to
+0.0085638743	link to
+0.0085605950	the first part
+0.0085401564	utility of
+0.0085401564	reliability of
+0.0085238743	means to
+0.0084899889	a useful
+0.0084701094	a special
+0.0084202010	to match
+0.0084133941	from web of
+0.0084080437	least one
+0.0083899732	reported in
+0.0083868794	necessary for
+0.0083416424	this domain
+0.0083388641	the adoption of
+0.0083298163	the feasibility
+0.0083284427	the aggregate
+0.0083117542	to become
+0.0083066802	source for
+0.0082709256	essential to
+0.0082393505	beginning of
+0.0081834897	lot of
+0.0081688971	as much
+0.0080932732	the scope
+0.0080797248	to cite
+0.0080137278	the goal
+0.0079880581	to reveal
+0.0078425373	added to
+0.0078117542	the near
+0.0078053944	the extent
+0.0077939189	a directed
+0.0077034427	a selection
+0.0076708373	to share
+0.0076277866	in detail
+0.0075771607	a challenging
+0.0075579376	necessary to
+0.0075305410	relevance of
+0.0074983066	cost of
+0.0074925373	ecosystem of
+0.0074797945	to go
+0.0074726517	appear in
+0.0074701094	the respective
+0.0074179064	to see
+0.0073951094	a mechanism
+0.0073117542	help to
+0.0072810068	a positive
+0.0072547352	directory of
+0.0072363000	the coverage of
+0.0071810068	the rest
+0.0070932732	a means
+0.0070784427	a weighted
+0.0070784427	the possibility
+0.0070612219	a variety
+0.0069980309	available as
+0.0069701094	the stability
+0.0068117542	to indicate
+0.0068093035	a controlled
+0.0068093035	a subset
+0.0068093035	the prevalence
+0.0068034427	the market
+0.0068034427	the existence
+0.0067701094	a discussion
+0.0067681478	case for
+0.0067034427	to date
+0.0067034427	the sense
+0.0066854940	to map
+0.0066836240	reports on
+0.0066836240	question by
+0.0066198145	employed to
+0.0066198145	output from
+0.0065573924	scope of
+0.0064769574	law with
+0.0062880363	a third
+0.0062681478	introduced to
+0.0060784427	the editor
+0.0060784427	the median
+0.0060784427	the author's
+0.0059831055	these new
+0.0059768770	made by
+0.0059503245	to introduce
+0.0056008707	extent to
+0.0056008707	choice of
+0.0056005950	well with
+0.0054503245	to change
+0.0054349399	a basis
+0.0053731279	to shed
+0.0053117542	interest for
+0.0051454722	course of
+0.0050026150	enough to
+0.0047784209	made to
+0.0042938055	described in
+0.0042784209	to consider
