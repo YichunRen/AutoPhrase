@@ -1,0 +1,5258 @@
+0.9641525059	receptive field
+0.9605629687	latent variable
+0.9605588600	impulse response
+0.9584272925	hearing aid
+0.9579175791	question answering
+0.9549686411	gradient descent
+0.9543420709	hearing aids
+0.9534295894	fourier transform
+0.9533814976	artificial intelligence
+0.9520921145	random forest
+0.9519805195	wiener filter
+0.9516131331	cocktail party
+0.9481417993	deep learning
+0.9473603163	virtual reality
+0.9465983284	support vector machine
+0.9459869086	cochlear implant
+0.9446158577	dimensionality reduction
+0.9440496443	parkinson's disease
+0.9436854721	euclidean distance
+0.9431627403	reinforcement learning
+0.9409233141	support vector machines
+0.9404053239	mutual information
+0.9392814648	principal component analysis
+0.9386528048	microphone arrays
+0.9383091086	wavelet packet
+0.9381024761	mandarin chinese
+0.9380117245	false alarm
+0.9377869267	correlation coefficient
+0.9377822655	hidden markov models
+0.9358361163	alzheimer's disease
+0.9357418059	hidden markov model
+0.9354725750	wall street journal
+0.9349684221	kalman filtering
+0.9343703951	inductive bias
+0.9337440364	kalman filter
+0.9335098362	logistic regression
+0.9333581127	restricted boltzmann
+0.9331797675	densely connected
+0.9330327619	maximum likelihood
+0.9329877393	nonnegative matrix factorization
+0.9326935986	neural network
+0.9326685367	broadcast news
+0.9321823437	fundamental frequency
+0.9321203104	weakly labeled
+0.9311993129	connectionist temporal classification
+0.9307347240	piano roll
+0.9292398330	ultrasound tongue
+0.9291749447	packet loss
+0.9285469244	neural networks
+0.9272805267	weakly labelled
+0.9268736577	affine projection
+0.9266297818	variational autoencoders
+0.9264968347	vocal tract
+0.9258063866	doa estimation
+0.9252219034	unit discovery
+0.9247903500	perceptually motivated
+0.9242513351	nist sre
+0.9235128529	transfer function
+0.9231927424	shouted talking
+0.9228370118	social media
+0.9225879258	high fidelity
+0.9221684848	variational autoencoder
+0.9216718510	linear prediction
+0.9215037715	knowledge distillation
+0.9203553474	covariance matrix
+0.9201957844	vector quantization
+0.9197749398	loss function
+0.9195024043	predictive coding
+0.9194874117	code switching
+0.9191751079	wiener filtering
+0.9187906152	cover song
+0.9185483517	equal error rate
+0.9184599926	sentiment analysis
+0.9182288717	spectral subtraction
+0.9167313523	automatic speech recognition
+0.9166849545	filter banks
+0.9155680609	natural language processing
+0.9147947195	depthwise separable
+0.9145067176	glottal closure instants
+0.9144979072	machine learning
+0.9143410533	chord progression
+0.9143188705	exposure bias
+0.9142866532	feature extraction
+0.9139200953	parallel wavegan
+0.9138026016	dynamic programming
+0.9137835319	nearest neighbor
+0.9130701933	musically meaningful
+0.9129613392	filter bank
+0.9129461426	deep neural network
+0.9129243287	independent component analysis
+0.9121971424	ami meeting
+0.9121426870	ray tracing
+0.9120245556	visually grounded
+0.9118069475	speech enhancement
+0.9116187237	bandwidth extension
+0.9110669223	beam search
+0.9098338568	polyphonic music
+0.9097323580	sheet music
+0.9095895249	cosine distance
+0.9095537361	impulse responses
+0.9089838476	adversarial examples
+0.9089799818	attention mechanism
+0.9089370269	order ambisonics
+0.9087375315	raw waveform
+0.9086430936	dilated convolution
+0.9084498530	optimal transport
+0.9082228510	closed form
+0.9080982311	speaker recognition
+0.9080462415	monte carlo
+0.9075030515	music genre
+0.9074619549	heart rate
+0.9072729418	fault diagnosis
+0.9070430096	triplet loss
+0.9069415911	alzheimer's dementia
+0.9068735756	microphone array
+0.9067364679	hearing impaired
+0.9065627742	transfer learning
+0.9056853460	machine translation
+0.9047985321	wavelet transform
+0.9045072538	deep neural networks
+0.9044276181	weakly supervised
+0.9043486057	adversarial attacks
+0.9041725464	tonal tension
+0.9041192273	noise pollution
+0.9037234433	noise reduction
+0.9034936929	lip reading
+0.9034239050	distortionless response
+0.9034238087	wake word
+0.9033668580	generative adversarial
+0.9032455742	keyword spotting
+0.9026277832	small footprint
+0.9026076576	false trigger
+0.9017880631	hidden markov
+0.9015996023	classical music
+0.9015373187	dinner party
+0.9014748424	steady state
+0.9013623354	ad hoc
+0.9010732955	recurrent neural network
+0.9006509340	signal processing
+0.9000168984	multitask learning
+0.8996590162	mobile robot
+0.8994877382	speaker verification
+0.8989368330	pattern discovery
+0.8986688581	trivial events
+0.8985290711	receptive fields
+0.8977586782	fearless steps
+0.8975002752	suprasegmental hidden markov models
+0.8973722327	low latency
+0.8970168527	replay attack
+0.8968406609	perfect reconstruction
+0.8966612166	principal component
+0.8965303719	compares favorably
+0.8965082864	wavenet vocoder
+0.8963809725	speech recognition
+0.8963613001	gaussian process
+0.8961687907	voice conversion
+0.8961284149	upper bound
+0.8960378006	pattern recognition
+0.8959861190	musical instrument
+0.8959533672	percentage points
+0.8959248354	recurrent neural networks
+0.8955967883	north atlantic
+0.8951830568	cross correlation
+0.8948303650	gated recurrent unit
+0.8947623569	replay spoofing
+0.8947118913	memory footprint
+0.8942784038	beat tracking
+0.8940542228	spoken language understanding
+0.8939290519	von mises
+0.8937940739	anomaly detection
+0.8932459088	raw waveforms
+0.8932421478	named entities
+0.8931555900	nonnegative matrix
+0.8930325141	ablation studies
+0.8927177258	skip connections
+0.8926185474	human perception
+0.8925656985	cepstral coefficients
+0.8920099900	weighted prediction error
+0.8918315977	dilated convolutions
+0.8917629545	blind source separation
+0.8916750344	dihard ii
+0.8916154147	active learning
+0.8914281940	linear discriminant analysis
+0.8912378759	echo cancellation
+0.8904412924	cycle consistency
+0.8903235533	minimum variance distortionless
+0.8900240666	glottal flow
+0.8899285845	style transfer
+0.8898075014	latent spaces
+0.8893872162	binary classification
+0.8891880687	frequency domain
+0.8886428391	data augmentation
+0.8883307010	convex optimization
+0.8881439801	emotion recognition
+0.8881402885	voice cloning
+0.8877303809	mobile phones
+0.8874750139	particle filter
+0.8868080339	speaking style
+0.8863478103	circular suprasegmental hidden markov
+0.8862079236	million song dataset
+0.8861650192	complex valued
+0.8861395092	error rate
+0.8855945201	cross entropy
+0.8855499896	fully connected
+0.8855006717	lexical stress
+0.8848030416	word error rates
+0.8846065115	large vocabulary
+0.8845245632	short time fourier transform
+0.8841189639	youtube videos
+0.8836811124	posterior probabilities
+0.8836632815	room impulse response
+0.8835296715	spoofing attacks
+0.8833712152	double talk
+0.8833234561	black box
+0.8831437542	lip movements
+0.8822690880	expectation maximization
+0.8817900905	source separation
+0.8816727085	speech synthesis
+0.8814403257	max pooling
+0.8813716695	open source
+0.8813142989	street journal
+0.8810441900	open sourced
+0.8805028981	feature selection
+0.8801913991	permutation invariant training
+0.8798875547	cycle consistent
+0.8798826442	urban sound
+0.8795821806	respiratory diseases
+0.8794043616	domain adaptation
+0.8790998038	connectionist temporal
+0.8787003420	computational complexity
+0.8782371786	listening tests
+0.8781624839	teacher student
+0.8780772671	computationally efficient
+0.8779044665	quasi periodic
+0.8774493914	bidirectional long short term memory
+0.8774268733	feed forward
+0.8773972124	artificial neural networks
+0.8772075984	image processing
+0.8770554306	order circular suprasegmental hidden
+0.8768698023	convolutional neural networks
+0.8764810194	vocal fold
+0.8762619362	group delay
+0.8750401304	source position
+0.8750215483	instance normalization
+0.8749705994	wall street
+0.8747587610	sound events
+0.8745105866	long short term memory
+0.8743809145	tut acoustic scenes
+0.8742875107	frequency modulation
+0.8741295949	word error rate
+0.8740610922	mel frequency cepstral coefficients
+0.8739629048	linear regression
+0.8733331022	music theory
+0.8731303894	generative adversarial networks
+0.8728894056	embedded devices
+0.8727162910	long standing
+0.8724637713	speaker identification
+0.8722669877	popular music
+0.8722002716	probabilistic linear discriminant analysis
+0.8709648697	contrastive learning
+0.8708889482	presentation attack detection
+0.8706475033	bird species
+0.8704877161	neutral talking
+0.8702529657	speech coding
+0.8698207637	sound event
+0.8696674177	convolutional neural network
+0.8696496674	cepstral coefficient
+0.8693423802	linear combination
+0.8693109651	anti spoofing
+0.8691335416	general purpose
+0.8685799156	mel spectrograms
+0.8678453519	deep attractor
+0.8672951525	hindustani classical music
+0.8666355851	computationally expensive
+0.8664926665	audio tagging
+0.8663349064	replay attacks
+0.8663057217	room impulse responses
+0.8657586226	matrix factorization
+0.8652878057	glottal closure
+0.8652465536	pop music
+0.8651051938	acoustic scenes
+0.8648247626	fully convolutional
+0.8647326848	discriminant analysis
+0.8645949853	auto encoder
+0.8643098791	shallow fusion
+0.8640049177	high quality
+0.8634329461	meta learning
+0.8633621967	singing voice separation
+0.8630817834	report describes
+0.8629093552	fine tune
+0.8626807925	symbolic music
+0.8624957412	wind noise
+0.8623244669	vector quantized
+0.8619148886	latent space
+0.8618523343	ideal binary mask
+0.8616389540	vector space
+0.8616178441	state space
+0.8611755483	super resolution
+0.8610741310	hand crafted
+0.8609733767	room acoustics
+0.8607972641	cosine similarity
+0.8606197444	low resource
+0.8603634324	low rank
+0.8602613266	low bit rate
+0.8594648769	mel frequency cepstral
+0.8593501545	sound synthesis
+0.8591835595	hyper parameter
+0.8591535383	mel frequency cepstral coefficient
+0.8586824060	generative adversarial network
+0.8586333459	residual connections
+0.8581451635	pitch tracking
+0.8566578712	drum transcription
+0.8564707269	pitch controllability
+0.8559845498	ground truth
+0.8553626304	sound propagation
+0.8552975261	meeting transcription
+0.8546703731	character error rate
+0.8546389751	scene classification
+0.8544451943	music composition
+0.8541552085	single channel
+0.8537949888	sound source localization
+0.8532110984	f1 score
+0.8530496233	feature extractors
+0.8528695726	frequency bands
+0.8526925078	bottleneck features
+0.8522913130	privacy preserving
+0.8519901970	speaker diarisation
+0.8518078128	variable length
+0.8517904862	power consumption
+0.8514704807	adversarial perturbations
+0.8509575696	singing voice
+0.8508371356	phase recovery
+0.8508165865	mobile devices
+0.8508015917	equal error
+0.8505230750	music information retrieval
+0.8504406995	recording conditions
+0.8501027964	information retrieval
+0.8500400228	open set
+0.8499867128	audio inpainting
+0.8497279129	real valued
+0.8496949381	natural sounding
+0.8494359605	inverse filtering
+0.8493028694	auto encoders
+0.8492955898	main contribution
+0.8492382939	spoken word
+0.8491740917	mini batch
+0.8487961196	mel frequency
+0.8482982494	mask estimation
+0.8479645986	conv tasnet
+0.8479223533	mel filter bank
+0.8477476959	supervised learning
+0.8476791111	sensor networks
+0.8470423107	griffin lim
+0.8467199783	spoken term
+0.8466903951	talking condition
+0.8466272344	voice activity detection
+0.8463920496	speaker diarization
+0.8463544865	acoustic echo cancellation
+0.8461919883	log mel
+0.8461187562	white box
+0.8456908881	spoken language
+0.8455543604	high dimensional
+0.8455389191	code switched
+0.8454285971	large scale
+0.8453150548	multiple instance learning
+0.8446796545	unsupervised learning
+0.8446762617	latent variables
+0.8446466614	voice trigger detection
+0.8445144394	late fusion
+0.8441436358	power spectral density
+0.8434306265	sound event detection
+0.8434087535	long term
+0.8433255152	texture synthesis
+0.8426295568	margin softmax
+0.8426031935	acoustic scene
+0.8423597081	perceived quality
+0.8421202900	gmm ubm
+0.8416841629	short term memory
+0.8415587740	domain mismatch
+0.8413942616	fine tuned
+0.8413879787	temporal resolution
+0.8412467705	chord recognition
+0.8409216907	automated audio captioning
+0.8408193855	disentangled representations
+0.8406261307	gaussian mixture
+0.8404368251	raw audio
+0.8404034031	opinion score
+0.8402775564	bi directional
+0.8402223928	speech processing
+0.8401501593	heart sound
+0.8400590297	multi band
+0.8399427950	low dimensional
+0.8398418241	mel spectrogram
+0.8397947112	f0 contour
+0.8397536408	vice versa
+0.8396763558	statistical parametric speech synthesis
+0.8396361982	emotional talking environments
+0.8395891230	binary mask
+0.8393838485	reconstruction loss
+0.8391983846	transposition invariant
+0.8391348500	fine grained
+0.8390047255	squeeze excitation
+0.8388917081	activity detection
+0.8381853826	post processing
+0.8381419258	linear predictive
+0.8381202905	physical access
+0.8379894240	sound localization
+0.8378654575	perceptual quality
+0.8376470417	encoder decoder
+0.8375619261	musical genres
+0.8371991782	srp phat
+0.8369743558	parameter estimation
+0.8366547594	fine tuning
+0.8365785696	closely related
+0.8365715010	noisy labels
+0.8364086656	auditory stimuli
+0.8363747461	background noise
+0.8361776004	manually annotated
+0.8347529359	metric learning
+0.8347111490	recurrent neural network transducer
+0.8346067299	noise suppression
+0.8343722718	multi talker
+0.8343327190	hybrid ctc attention
+0.8342105334	hindustani classical
+0.8340679869	musical pieces
+0.8340612433	natural language
+0.8331920416	labelled data
+0.8329779688	transformer xl
+0.8328724612	speaker's identity
+0.8328662115	giantmidi piano
+0.8328228653	neural vocoder
+0.8327481705	human brain
+0.8327022801	source code
+0.8326822460	direct path
+0.8324952035	independent vector analysis
+0.8324856710	amr wb
+0.8323151796	denoising autoencoder
+0.8320264496	short term
+0.8317559521	artificial neural network
+0.8314138726	decision making
+0.8312592058	gaussian mixture model
+0.8312283429	probabilistic linear discriminant
+0.8311748289	lf mmi
+0.8310598974	midi files
+0.8301952825	recurrent neural
+0.8299508885	performance improvement
+0.8297367751	batch normalization
+0.8294623745	squared error
+0.8294158135	vq vae
+0.8293605564	silent video
+0.8289751188	boltzmann machine
+0.8289491880	subword units
+0.8289432635	spectral mapping
+0.8283627187	error rates
+0.8280843521	multi resolution
+0.8278440831	scattering transform
+0.8276098683	quality assessment
+0.8270454821	singing synthesis
+0.8268400600	attention mechanisms
+0.8267157898	frequency dependent
+0.8263048136	audio visual
+0.8257673500	high resolution
+0.8257586760	cover song identification
+0.8256841651	long sequences
+0.8253701126	adversarial attack
+0.8253309293	modeling units
+0.8251745530	semi supervised
+0.8250351626	jointly trained
+0.8247924856	piano transcription
+0.8243292251	distant speech recognition
+0.8238723285	temporal dependencies
+0.8237062230	contextual information
+0.8234256440	kullback leibler
+0.8229551219	wsj0 2mix
+0.8229100397	normal hearing
+0.8224042758	parameter sharing
+0.8219010386	frame rate
+0.8216841465	event detection
+0.8213492453	auto regressive
+0.8212714292	feedback delay
+0.8211688920	melody generation
+0.8210943053	transfer functions
+0.8209818025	probability density
+0.8209387166	glottal source
+0.8209117769	voice command
+0.8209003768	prosody transfer
+0.8208554088	domain invariant
+0.8208412393	noisy environment
+0.8207041269	cross lingual
+0.8206279171	acoustic scene classification
+0.8206198958	gaussian mixture models
+0.8205967359	close talk
+0.8202262542	visual cues
+0.8198263151	streaming asr
+0.8194447309	spectral envelope
+0.8185736655	order hidden markov models
+0.8184405685	order circular suprasegmental
+0.8183854004	unsupervised domain adaptation
+0.8182864223	test set
+0.8182203019	spatio temporal
+0.8180829953	vaw gan
+0.8180225221	design choices
+0.8178839929	segmental models
+0.8178305048	classical piano
+0.8176855827	emotional states
+0.8174050693	big data
+0.8172695140	low snr
+0.8171334899	average pooling
+0.8170021690	speaker clustering
+0.8169430963	spoofing detection
+0.8168609757	white noise
+0.8166579671	gaussian distribution
+0.8164926709	real life
+0.8162533354	representation learning
+0.8162185880	` `
+0.8160935460	environmental sounds
+0.8158604128	rnn transducer
+0.8152195594	unit selection
+0.8149452520	knowledge transfer
+0.8149435196	onset detection
+0.8149225467	real world
+0.8148408696	cross validation
+0.8148290905	audio files
+0.8144144903	spoken words
+0.8139232957	objective functions
+0.8137332039	singing voice synthesis
+0.8135557470	e2e asr
+0.8134764938	music tagging
+0.8132235760	environmental sound
+0.8124296677	minimum phase
+0.8122172537	data set
+0.8120400994	encoding layer
+0.8120333366	building blocks
+0.8120307877	carefully designed
+0.8119167222	deep clustering
+0.8118465837	spectro temporal
+0.8117799234	voxceleb speaker recognition challenge
+0.8116046805	emotional content
+0.8112760647	large margin
+0.8111117574	reverb challenge
+0.8108734306	audio captioning
+0.8108557917	language models
+0.8105254654	event classification
+0.8102539816	dual path
+0.8101780119	universal sound separation
+0.8101401191	transformer transducer
+0.8101262645	long range
+0.8095765451	mid level
+0.8095249523	musical instruments
+0.8086979217	short utterance
+0.8083909281	sound classes
+0.8082443311	sentence level
+0.8080771828	cost function
+0.8079436597	root mean square
+0.8075760717	multi modal
+0.8075060737	auto tagging
+0.8072578438	evaluation metrics
+0.8069221695	language identification
+0.8068861119	bit rate
+0.8064564081	speech separation
+0.8050554294	strongly labeled
+0.8047000685	aligned lyrics
+0.8040134825	frame level
+0.8040128266	environmental sound classification
+0.8040057676	talking environments
+0.8038903526	convergence speed
+0.8034105059	cross modal
+0.8029879033	scene analysis
+0.8025422084	user experience
+0.8024467100	variational auto encoder
+0.8018262139	adversarial learning
+0.8017662206	auditory scene
+0.8015388125	feature map
+0.8011365316	embedding spaces
+0.8008973636	frequency cepstral coefficients
+0.8008009043	variational auto encoders
+0.8006689152	convolutional beamformer
+0.8005235738	monaural speech enhancement
+0.8003667025	singular value decomposition
+0.8002024387	student teacher
+0.7997746812	higher order
+0.7995761397	phoneme level
+0.7989522594	speaker adaptation
+0.7982456408	previous works
+0.7981445239	spatial covariance
+0.7980353125	talking conditions
+0.7977556423	si sdr
+0.7974315775	magnitude spectrogram
+0.7972833364	speech translation
+0.7971040996	residual echo
+0.7966276690	neural architecture search
+0.7961993852	auxiliary task
+0.7960911972	generalization ability
+0.7958669659	synthesized speech
+0.7958656234	adaptive filter
+0.7956576332	reverberant environments
+0.7952417942	dynamic time warping
+0.7949148006	machine listening
+0.7948163919	musical score
+0.7947302316	comparable performance
+0.7943947821	generative model
+0.7943265631	multi scale
+0.7942301492	acoustic event
+0.7939743459	ratio mask
+0.7939422845	f1 scores
+0.7939134759	long short term
+0.7938065748	feature vectors
+0.7935406252	sound sources
+0.7933269860	low complexity
+0.7930609627	multi view
+0.7924792620	pitch dependent dilated convolution
+0.7919608320	environmental noise
+0.7919135551	convolutional recurrent
+0.7918782302	children's speech
+0.7918649943	head related transfer
+0.7918357912	subjective evaluation
+0.7918150877	recent advances
+0.7916733154	hyper parameters
+0.7916278191	dnn hmm
+0.7915041638	scene aware
+0.7913878667	speaker characteristics
+0.7913413874	close talking
+0.7913125346	long form
+0.7912370193	psd estimation
+0.7909084592	training procedure
+0.7906816609	polyphonic sound event detection
+0.7905520195	instrument recognition
+0.7904405981	mispronunciation detection
+0.7902742963	average precision
+0.7897145349	score normalization
+0.7895126737	adversarial training
+0.7894866726	lattice free
+0.7894616594	likelihood ratio
+0.7893500212	pre trained
+0.7891797319	context dependent
+0.7889957833	music genre classification
+0.7887343124	sound field
+0.7885509120	anomalous sound
+0.7885076251	optimization problem
+0.7883902911	pitch synchronous
+0.7880395195	short time objective intelligibility
+0.7879011187	short segments
+0.7878735133	style tokens
+0.7868812477	acoustic modeling
+0.7867732324	music generation
+0.7865977919	multi head attention
+0.7864589609	test sets
+0.7863703455	gated recurrent
+0.7861007391	sound source
+0.7858894553	feature mapping
+0.7858224991	target domain
+0.7857643161	speaker attributed
+0.7855780346	minimum variance
+0.7851594561	correlation matrix
+0.7844592756	complementary information
+0.7844586834	musical piece
+0.7842778211	feature sets
+0.7841372636	noisy speech
+0.7838304569	label noise
+0.7834617831	latent representations
+0.7834458380	voice leading
+0.7834422555	machine speech chain
+0.7833775512	convolutional neural
+0.7833486819	speech denoising
+0.7832983826	reconstruction error
+0.7832110213	unlabeled data
+0.7821433240	timit database
+0.7817652951	acoustic events
+0.7812043410	linguistic features
+0.7811794917	diarization error rate
+0.7808793741	cross corpus
+0.7806875386	speaker embedding
+0.7804700278	note level
+0.7804220030	music genres
+0.7796437086	source localization
+0.7793822512	synthetic speech
+0.7785103721	low resource languages
+0.7783974887	convolution neural network
+0.7783915962	short duration
+0.7782874883	related tasks
+0.7781229083	single microphone
+0.7780958461	distributed microphones
+0.7779429168	feature engineering
+0.7777193318	signal to noise ratio
+0.7776420265	teacher student learning
+0.7775566452	voice quality
+0.7774310972	automatic speaker verification
+0.7769716688	speech commands
+0.7767820870	target language
+0.7765198863	multi head
+0.7764620214	manually labeled
+0.7761743890	audio scene
+0.7759203144	speaker extraction
+0.7755769690	success rate
+0.7750255630	boundary detection
+0.7735990649	singing voice conversion
+0.7734043336	block sparse
+0.7733737095	objective measure
+0.7730832324	feature extractor
+0.7730141360	convolutional recurrent neural network
+0.7729423474	convolutional networks
+0.7726103802	cross domain
+0.7725986603	music transcription
+0.7725664781	voice separation
+0.7725015282	utterance level
+0.7720767088	detection cost function
+0.7713676982	multi stream
+0.7713160859	speaker independent
+0.7712614526	audio signal processing
+0.7712442355	speech perception
+0.7710865794	context aware
+0.7710827984	voice search
+0.7707772601	dysarthric speech
+0.7706446079	cost functions
+0.7705896669	noise cancellation
+0.7705698732	smart devices
+0.7705694602	waveform generation
+0.7699744022	clean speech
+0.7699342189	speaker embeddings
+0.7696858648	si snr
+0.7692365428	synthetic data
+0.7690734221	noise type
+0.7689562760	complex cepstrum
+0.7688303554	network architecture
+0.7684442643	adversarial networks
+0.7683236592	data sets
+0.7678683640	neural machine translation
+0.7677181769	computational cost
+0.7671017835	significant progress
+0.7668522940	speech intelligibility
+0.7667955260	wake word detection
+0.7666180943	pitch contour
+0.7665871394	deep neural
+0.7665335745	technical report
+0.7653582203	weakly labeled data
+0.7652451735	computational resources
+0.7652264796	phase reconstruction
+0.7651685997	length normalization
+0.7651639781	generative models
+0.7644309262	speech quality
+0.7643176010	domain specific
+0.7638808775	residual network
+0.7635014596	target speaker
+0.7633888056	weak labels
+0.7633790608	feature space
+0.7633732778	audio signal
+0.7632681219	curriculum learning
+0.7623410411	previously published
+0.7623274384	language model
+0.7620293919	multi instrument
+0.7617383934	acoustic event detection
+0.7614441418	log likelihood
+0.7614192276	resource constrained
+0.7613527807	order circular
+0.7612759263	playing techniques
+0.7612413933	markov models
+0.7609171966	cycle gan
+0.7607403361	mel filterbank
+0.7607274680	audio source separation
+0.7603559869	melody extraction
+0.7600709941	content analysis
+0.7600349943	text dependent speaker verification
+0.7599164826	strong labels
+0.7598671584	acoustic models
+0.7598277179	noisy environments
+0.7593249343	cloud based
+0.7592057986	short utterances
+0.7592057370	emotion cues
+0.7591567549	post filter
+0.7584464190	acoustic environments
+0.7582816283	automatic music transcription
+0.7581791128	frequency bins
+0.7577069023	hmm based
+0.7576366284	user defined
+0.7574718899	square error
+0.7574419788	overlapped speech
+0.7572180919	transformer based
+0.7568190874	labeled data
+0.7563623088	singing voice detection
+0.7562104808	automatic speech
+0.7561352619	masked conditional
+0.7561044953	bi modal
+0.7560531118	low rank matrix analysis
+0.7559843751	statistically significant
+0.7558526865	image source
+0.7556613090	diffuse noise
+0.7556426534	deep generative
+0.7555378169	convolutional recurrent neural networks
+0.7554082547	dictionary learning
+0.7543641547	ablation study
+0.7542620571	multi genre
+0.7540851611	generalization capabilities
+0.7540036763	voice assistants
+0.7538221027	audio event
+0.7532394595	subjective listening tests
+0.7531833696	feature maps
+0.7531119351	speaker dependent
+0.7523225125	mfcc features
+0.7522769883	deep reinforcement learning
+0.7521994123	ctc attention
+0.7521517316	learned representations
+0.7518838947	small footprint keyword spotting
+0.7513292343	accented speech
+0.7512681941	phoneme recognition
+0.7510399092	feature representation
+0.7508945816	pseudo labels
+0.7508658213	continuous speech recognition
+0.7505800736	separated sources
+0.7502218068	short range
+0.7501515621	subjective tests
+0.7501225737	eeg based
+0.7497460527	binaural cues
+0.7495329458	data driven
+0.7494919392	speaker identity
+0.7490304887	timit corpus
+0.7486563349	latent vector
+0.7483325196	feature learning
+0.7480710638	clip level
+0.7479699937	human voice
+0.7477887806	loss functions
+0.7471547967	f0 estimation
+0.7469273481	audio events
+0.7467535730	multiple speakers
+0.7464225466	noise robust
+0.7463897803	text dependent
+0.7459271866	emotional speech
+0.7453471094	training criteria
+0.7452258187	speech recognizers
+0.7449604192	room impulse
+0.7449187986	multi channel
+0.7448262580	relative wer reduction
+0.7444899163	long term dependencies
+0.7443641321	score informed
+0.7443344360	dnn based
+0.7440636646	visual information
+0.7440622514	music source separation
+0.7439730852	transformer architecture
+0.7439533531	multi track
+0.7435541188	human listeners
+0.7432550848	text independent speaker verification
+0.7432530156	challenging task
+0.7431590292	proposed method
+0.7426952766	fixed dimensional
+0.7424028037	audio samples
+0.7423850488	phase spectrum
+0.7421716500	recurrent layers
+0.7419965554	human computer interaction
+0.7419850894	modulation domain
+0.7418832221	significantly outperforms
+0.7418005029	additive noise
+0.7417501387	hierarchical structure
+0.7417026550	training set
+0.7413705754	bi lstm
+0.7412881516	low frequency
+0.7405156100	bird sound
+0.7405139620	sequence modeling
+0.7402947175	imagined speech
+0.7401110438	performance degradation
+0.7400223528	hidden representations
+0.7400129777	paired data
+0.7399843510	audio recordings
+0.7397986083	singing voices
+0.7394353162	spontaneous speech
+0.7393317179	research directions
+0.7393184297	latent representation
+0.7393105352	objective evaluation
+0.7391018564	audio adversarial examples
+0.7386691337	permutation invariant
+0.7385683534	relative wer
+0.7384000161	multi task learning
+0.7381076648	audio signals
+0.7380148387	multi stage
+0.7375491909	itu t
+0.7375339051	challenging problem
+0.7372319453	results confirm
+0.7367819914	encoder decoder architecture
+0.7367049371	pre processing
+0.7366837873	pre defined
+0.7362689532	convolutional network
+0.7357342831	speech emotion recognition
+0.7356135090	previous approaches
+0.7355801667	word embeddings
+0.7353191149	monaural speech separation
+0.7352374039	untranscribed speech
+0.7350643705	emotional prosody
+0.7348251844	permutation problem
+0.7341187014	neural vocoders
+0.7339346691	segment level
+0.7338904899	low level
+0.7333793930	higher level
+0.7333524290	attention weights
+0.7332793158	spatial filtering
+0.7332587891	research topic
+0.7332465766	mel spectrum
+0.7331927163	audio clip
+0.7331479092	speech production
+0.7331263757	acoustic features
+0.7330627461	output layer
+0.7330274419	phonetic information
+0.7329013183	tut sound
+0.7325510827	experimental results
+0.7323925700	low power
+0.7323078765	frequency band
+0.7323064748	cough detection
+0.7320990365	great success
+0.7316569747	human machine
+0.7313745256	mixture model
+0.7312750680	times faster
+0.7308981652	native language
+0.7306097032	classification accuracy
+0.7301780460	librispeech corpus
+0.7299858032	sample level
+0.7298791217	emotion classification
+0.7298726711	universal background model
+0.7292088350	single source
+0.7283525445	magnitude spectrum
+0.7280876951	mask based
+0.7280036712	librispeech test clean
+0.7272801681	eeg features
+0.7266377241	wave u net
+0.7265676766	audio declipping
+0.7262461022	mask ctc
+0.7262218987	constant q transform
+0.7261772624	bidirectional lstm
+0.7255547525	spatial resolution
+0.7251730123	empirical study
+0.7251399839	downstream tasks
+0.7251329402	acoustic word embeddings
+0.7245357192	feature set
+0.7242383778	speech signals
+0.7238820557	embedding space
+0.7237396658	beamformer design
+0.7236505365	input sequence
+0.7236356131	audio synthesis
+0.7235023043	noise types
+0.7233626789	speaker's voice
+0.7233500643	fixed length
+0.7230100783	research area
+0.7228961931	multi layer
+0.7227219630	soft labels
+0.7225820766	language modeling
+0.7225370760	multi speaker
+0.7224179346	related transfer functions
+0.7222535656	phase aware
+0.7219331331	existing works
+0.7218978406	mir tasks
+0.7218391394	recent works
+0.7216227165	spectral clustering
+0.7215846060	spectral features
+0.7211026080	consistent improvements
+0.7210129468	active noise
+0.7209641491	hybrid dnn hmm
+0.7209360292	speaker counting
+0.7206266005	prosodic features
+0.7205959586	convolution layers
+0.7203265339	content based
+0.7201535245	deep learning based
+0.7195623527	competitive results
+0.7190203949	spoofing attack
+0.7188509875	multi task
+0.7183605000	ctc loss
+0.7183017689	multi lingual
+0.7177763113	flow based
+0.7175673302	unseen speakers
+0.7173437112	visual modality
+0.7171949599	parallel data
+0.7170954718	deep generative models
+0.7165149765	target speakers
+0.7164457818	score fusion
+0.7160335635	competitive baselines
+0.7158916207	open domain
+0.7158681982	conversational speech
+0.7158449751	acoustic conditions
+0.7158249526	objective function
+0.7158064360	audio event detection
+0.7157811176	musical styles
+0.7155758446	primary task
+0.7154207225	active speaker detection
+0.7154040887	convolutional layers
+0.7151660035	wer reduction
+0.7144449623	subjective evaluations
+0.7144006367	consistently outperforms
+0.7143814038	speech polarity
+0.7142693239	deep speaker embedding
+0.7135316070	asr systems
+0.7132924694	pre training
+0.7130006881	optimization criterion
+0.7129036689	low quality
+0.7119060738	deep convolutional neural networks
+0.7118034680	acoustic model
+0.7117596019	cnn architecture
+0.7115181069	competitive performance
+0.7112512575	scale invariant
+0.7111734117	multi microphone
+0.7111169796	cnn blstm
+0.7110471444	pooling layer
+0.7108532496	physics based
+0.7101925701	previously proposed
+0.7100182747	feature vector
+0.7099994223	drum sounds
+0.7097932949	significant improvement
+0.7097179571	autoregressive transformer
+0.7096455292	eeg signals
+0.7095929999	validation set
+0.7094005965	results suggest
+0.7089381835	environmental sound synthesis
+0.7086111273	joint training
+0.7083057360	multi condition
+0.7080421412	promising results
+0.7077068392	gan based
+0.7073372606	cycle consistent adversarial
+0.7064145187	speech signal
+0.7062521639	fewer parameters
+0.7060421912	inference speed
+0.7058111643	cost effective
+0.7051958966	speaker identities
+0.7051172105	target speaker's
+0.7051082409	absolute improvement
+0.7047102644	signal to distortion ratio
+0.7045671766	fully connected layers
+0.7042966890	speaker separation
+0.7041391961	recently proposed
+0.7038239389	band limited
+0.7034798699	attention based
+0.7030697006	suprasegmental hidden
+0.7027355529	frame wise
+0.7025669685	high level
+0.7020569259	western music
+0.7015955591	convolutional layer
+0.7011398479	frequency bin
+0.7009265759	classification tasks
+0.7007241499	multi frame
+0.7006228041	high accuracy
+0.6997882389	hidden layer
+0.6994958725	deep noise suppression
+0.6991862163	pooling function
+0.6984803787	existing methods
+0.6984453591	real recordings
+0.6981094800	real world scenarios
+0.6978577016	sound waves
+0.6976625478	face image
+0.6975071696	weakly supervised learning
+0.6964149944	converted speech
+0.6962600070	inter channel
+0.6962115296	computational efficiency
+0.6956755538	remains challenging
+0.6954443477	deep convolutional neural network
+0.6954027980	generative modeling
+0.6949964514	english language
+0.6949180213	development set
+0.6940150923	prior knowledge
+0.6939824799	feature representations
+0.6936808180	high fidelity audio
+0.6936785378	recognition systems
+0.6928429793	word embedding
+0.6923117769	eer reduction
+0.6922267970	training data
+0.6912520655	emotion labels
+0.6912505470	previous studies
+0.6909247938	result shows
+0.6908744000	word error
+0.6907067162	language pairs
+0.6899866247	video frames
+0.6899398076	benchmark datasets
+0.6898961804	source filter
+0.6898177122	speech dereverberation
+0.6895559740	jointly optimized
+0.6892575648	microphone signals
+0.6891925909	semi supervised learning
+0.6890119297	separation performance
+0.6884533207	separation quality
+0.6878077529	similarity matrix
+0.6877343961	single stage
+0.6870781372	single channel speech enhancement
+0.6867690105	significantly reduces
+0.6866494875	paper proposes
+0.6865721327	previous methods
+0.6862160448	superior performance
+0.6860737007	comparative analysis
+0.6858316963	multi modality
+0.6858068942	block online
+0.6853932891	machine learning techniques
+0.6852135693	subjective test
+0.6850273367	neural tts
+0.6847854314	fully supervised
+0.6847664030	teacher model
+0.6846012736	audio processing
+0.6844543524	highly reverberant
+0.6840742735	proposed method outperforms
+0.6839738298	recurrent units
+0.6838625897	multiple sources
+0.6835859656	significantly improve
+0.6835455631	large scale datasets
+0.6834848375	chord estimation
+0.6831050903	adaptive filtering
+0.6827716547	power spectral
+0.6821306567	frequency resolution
+0.6821049761	extensive experiments
+0.6820134651	existing approaches
+0.6819040199	north atlantic right
+0.6814629904	recent years
+0.6814423402	multi label
+0.6801486061	low cost
+0.6798709231	encoder decoder framework
+0.6798439328	speech segments
+0.6792214696	classification task
+0.6791238016	recurrent unit
+0.6781543885	target speaker's voice
+0.6779601784	support vector
+0.6775001176	subjective listening test
+0.6768206645	audio stream
+0.6763643800	hybrid approach
+0.6763286588	data collection
+0.6758288473	evaluation set
+0.6757040439	score level
+0.6750268944	results obtained
+0.6749646574	masked conditional neural
+0.6744067301	multi target
+0.6740485305	fully convolutional network
+0.6732370343	cross entropy loss
+0.6724741928	visual features
+0.6703979815	wsj0 2mix dataset
+0.6703756166	hidden layers
+0.6702197419	signal to noise ratios
+0.6701625974	real world applications
+0.6700518766	rnn based
+0.6699029755	sampling rate
+0.6698829165	long duration
+0.6695527935	paper describes
+0.6694538809	multilingual asr
+0.6693591575	speaker similarity
+0.6691887316	noise conditions
+0.6689537568	multi source
+0.6688439016	generated music
+0.6686429614	multi level
+0.6684667196	noisy conditions
+0.6680706957	pre train
+0.6679318942	text independent
+0.6678224059	graph based
+0.6675728138	weakly labelled data
+0.6674742353	mean squared error
+0.6659925414	ground truth labels
+0.6659407076	recently introduced
+0.6659054377	objective measures
+0.6658193284	taking into account
+0.6645668457	layer wise
+0.6642958964	temporal dynamics
+0.6642703803	relative reduction
+0.6639510490	recent advancements
+0.6636941221	valence and arousal
+0.6634530438	statistical model
+0.6629856312	hrtf based
+0.6624710983	recent studies
+0.6620823937	test clean
+0.6618501802	higher quality
+0.6616470587	reverberant speech
+0.6613246706	cocktail party problem
+0.6613087039	non negative matrix factorization
+0.6607784045	significantly improves
+0.6605884240	recognition accuracy
+0.6602969058	audio event recognition
+0.6595657729	multi domain
+0.6594309168	relative improvement
+0.6594215244	ctc based
+0.6592525449	significant improvements
+0.6589799532	domain adversarial training
+0.6589096274	high frequency
+0.6582817230	long utterances
+0.6579467868	subjective assessment by human
+0.6579371321	unsupervised adaptation
+0.6578443963	genre classification
+0.6577686142	semi supervised training
+0.6573937746	significantly improved
+0.6569237331	audio classification
+0.6564346069	neural network based
+0.6556359070	automatic music generation
+0.6555599768	temporal context
+0.6551857368	single channel speech separation
+0.6550871150	single layer
+0.6548999917	asv systems
+0.6545866523	neural network architectures
+0.6543963980	multi objective
+0.6541164889	music pieces
+0.6533316907	audio features
+0.6523809353	music auto tagging
+0.6512598125	experimental results confirm
+0.6502652562	trainable parameters
+0.6500135563	development dataset
+0.6499396979	adaptation techniques
+0.6498147036	softmax loss
+0.6498130430	results demonstrate
+0.6497311281	esc 50
+0.6492496599	relative word error rate
+0.6488131843	speaker adapted
+0.6482776781	linguistic content
+0.6480820325	spatial audio
+0.6479033165	handcrafted features
+0.6476922191	speech waveform
+0.6476407195	paper presents
+0.6474069851	cross lingual voice conversion
+0.6469148762	recording devices
+0.6463917019	musical sequences
+0.6463098359	speech enhancement algorithms
+0.6462921622	raw speech
+0.6462017282	future research
+0.6459597245	phone recognition
+0.6458711351	listening test
+0.6458513282	deep learning techniques
+0.6453014370	multi class
+0.6444078840	language independent
+0.6443098774	energy based
+0.6441954596	relative improvements
+0.6438390443	speech recognition systems
+0.6431566113	objective and subjective evaluations
+0.6425928215	experimental results showed
+0.6422946714	temporal attention
+0.6418071687	linguistic representations
+0.6417974633	external language model
+0.6414216687	input features
+0.6411458150	embedding vectors
+0.6406508707	residual noise
+0.6398302959	proposed method achieves
+0.6397891484	perceptual evaluation of speech quality
+0.6397101855	significantly outperform
+0.6396148399	text independent speaker recognition
+0.6395860935	polyphonic sound event
+0.6386412513	data augmentation techniques
+0.6381886752	mean opinion score
+0.6376983900	iemocap dataset
+0.6372368714	speech activity detection
+0.6369592677	neural network architecture
+0.6368393393	sound fields
+0.6367595019	n gram
+0.6353701958	experimental results demonstrate
+0.6353046173	training strategy
+0.6349480170	cross modal retrieval
+0.6347085846	speaker representations
+0.6344234661	acoustic cues
+0.6337350727	word level
+0.6336209938	mean square error
+0.6335276905	phoneme based
+0.6331414857	proposed approach
+0.6322742071	objective intelligibility
+0.6320180783	approach outperforms
+0.6319568289	speech chain
+0.6312795870	change detection
+0.6308520576	audio sources
+0.6306455448	objective metrics
+0.6302960657	processing tasks
+0.6301247378	order statistics
+0.6299116754	hand crafted features
+0.6298178623	adversarial loss
+0.6296596196	potential applications
+0.6294604917	event based
+0.6293358920	significantly higher
+0.6292905104	channel wise
+0.6292588062	impressive results
+0.6289044390	proposed framework
+0.6280998171	deep learning methods
+0.6280444268	speaker adaptive
+0.6272827105	speaker verification systems
+0.6272753336	interspeech 2020
+0.6269807545	polyphonic piano
+0.6263504479	successfully applied
+0.6262440497	unseen noise
+0.6262193070	deep learning approaches
+0.6259219459	speaker recognition systems
+0.6258464026	audio recording
+0.6248239144	attend and spell
+0.6242299893	text independent speaker
+0.6232579217	text dependent speaker
+0.6230482889	audio waveforms
+0.6227975878	excitation source
+0.6226564732	cosine transform
+0.6209688190	attention based encoder decoder
+0.6202978410	data processing
+0.6198960433	frequency spectrum
+0.6195902788	subjective quality
+0.6192618033	text to speech synthesis
+0.6182517428	cnn architectures
+0.6174672782	invariant training
+0.6161786669	feed forward neural network
+0.6157809606	universal adversarial
+0.6151698814	speaker specific
+0.6151231703	statistical parametric speech
+0.6149561340	enhanced speech
+0.6146326996	improved performance
+0.6143224741	class label
+0.6142293369	encoder decoder network
+0.6126834873	text to speech
+0.6119048743	parametric speech synthesis
+0.6116788637	temporal structure
+0.6109979752	deep learning approach
+0.6108381367	gaussian noise
+0.6106976026	experimental evaluation
+0.6106670309	audio streams
+0.6101347962	localization and tracking
+0.6100499313	audio file
+0.6100223238	rule based
+0.6098298007	music classification
+0.6097593511	highly effective
+0.6092104905	input text
+0.6076411660	musical structure
+0.6074875086	natural speech
+0.6071233045	acoustic signals
+0.6063809184	audio visual speech enhancement
+0.6060866054	autoregressive models
+0.6055758729	sound event localization and detection
+0.6055587215	covid 19
+0.6051400363	direction of arrival
+0.6040997778	major challenge
+0.6039190884	voice conversion challenge
+0.6036763975	child speech
+0.6033809002	noisy reverberant
+0.6026777016	normal speech
+0.6014289794	speech corpus
+0.6013643100	sound separation
+0.6008235976	mismatch problem
+0.5997019959	least squares
+0.5988083753	high performance
+0.5987033437	submitted systems
+0.5986242281	increasing attention
+0.5977252246	markov model
+0.5974857315	auxiliary tasks
+0.5970775807	residual networks
+0.5967789142	student model
+0.5964025431	training scheme
+0.5961512893	supervised manner
+0.5954340094	proof of concept
+0.5950595640	musical style
+0.5944434886	audio clips
+0.5942579440	based speech enhancement
+0.5936354522	public datasets
+0.5931529958	preliminary experiments
+0.5921130118	sound quality
+0.5911613397	source domain
+0.5905543215	expressive speech
+0.5892924562	proposed algorithm
+0.5885069761	sdr improvement
+0.5880488779	convolutional recurrent neural
+0.5875166235	audio data
+0.5870935993	cnn based
+0.5861638492	high level features
+0.5861360818	audio source
+0.5858875271	comparable results
+0.5858758675	speaker information
+0.5857782819	recurrent networks
+0.5852000305	lstm based
+0.5829922258	difficult task
+0.5825187668	speaker identification performance
+0.5818280660	sound recognition
+0.5817351753	sound classification
+0.5801059585	early detection
+0.5798098677	multi label classification
+0.5790699811	high quality speech
+0.5788645914	residual signal
+0.5783689098	multi talker speech separation
+0.5783638914	acoustic modelling
+0.5777291420	regression model
+0.5763522931	sequential data
+0.5756405482	conventional hybrid
+0.5754913770	constant q
+0.5754136028	singing style
+0.5748370850	tacotron based
+0.5748074716	zero shot
+0.5746928177	accent classification
+0.5745716161	musical scores
+0.5741566959	aurora 4
+0.5736842514	arousal and valence
+0.5736297626	short time fourier
+0.5729724855	phase information
+0.5726668415	speech command
+0.5718968201	sequence to sequence
+0.5703360941	soft attention
+0.5690559527	based vad
+0.5675340276	practical applications
+0.5672817070	rnn t
+0.5666890026	based approaches
+0.5666317713	orders of magnitude
+0.5661760900	text data
+0.5657546157	results showed
+0.5649437455	acoustic echo
+0.5648438817	unknown number of speakers
+0.5646420004	talking environment
+0.5645326121	learned features
+0.5642079815	statistical parametric
+0.5632536456	asvspoof 2019
+0.5631857764	musical notes
+0.5629688233	linear model
+0.5624445258	multichannel speech enhancement
+0.5617492383	performance gains
+0.5610926677	proposed model
+0.5608882308	attention model
+0.5607448203	temporal structures
+0.5604524591	image classification
+0.5597040182	higher accuracy
+0.5592050003	additional information
+0.5590752296	musical mixture
+0.5587532048	comparative study
+0.5587484796	acoustic sensors
+0.5583667038	direct to reverberant
+0.5567834572	tdnn f
+0.5567762268	music production
+0.5563103220	dcase 2016
+0.5560639762	joint estimation
+0.5543787309	emotional talking
+0.5543303589	limited data
+0.5534788982	head related
+0.5534198122	adversarial network
+0.5529360037	phoneme sequence
+0.5528775280	multiple instance
+0.5515560931	model agnostic
+0.5510935840	high level feature
+0.5509543425	recurrent network
+0.5507700708	speech data
+0.5507245975	encoder decoder models
+0.5504566694	unsupervised pre training
+0.5499473916	fluent speech
+0.5497243822	speaker verification task
+0.5495647897	speaker recognition evaluation
+0.5494582804	dcase 2020
+0.5492082116	deep embedding
+0.5481805398	domain audio separation network
+0.5481006764	quantitative and qualitative
+0.5476030580	subjective listening
+0.5473640072	stand alone
+0.5463147421	music tracks
+0.5452736038	audio segments
+0.5448528057	dcase 2017
+0.5443227681	benchmark dataset
+0.5437557455	multi channel speech separation
+0.5432130015	data driven approach
+0.5428929699	conversion model
+0.5427674341	end to end
+0.5426489040	multiple languages
+0.5415019603	speech waveforms
+0.5414899984	esc 10
+0.5411907232	linear discriminant
+0.5389322219	few shot
+0.5388929011	evaluation shows
+0.5387042365	recent research
+0.5385276395	u net
+0.5382522886	noise control
+0.5380411706	data analysis
+0.5375543150	object based
+0.5374768811	audio to score alignment
+0.5372995762	aishell 1
+0.5368332901	trade off
+0.5367462186	embedding vector
+0.5363593047	attention pooling
+0.5359141675	evaluation sets
+0.5357870512	music style transfer
+0.5357232216	deep speaker embeddings
+0.5355233298	mandarin speech
+0.5352544143	biometric systems
+0.5349107862	sound event localization
+0.5340163317	recently developed
+0.5337334508	onset and offset
+0.5336228140	noisy and reverberant environments
+0.5333440433	case study
+0.5327110143	voiced speech
+0.5326911552	musical audio
+0.5321920230	multi speaker speech recognition
+0.5318781996	automatic transcription
+0.5314614521	mixture signal
+0.5313325447	non negative matrix
+0.5312648168	digital audio
+0.5310034942	convolutional architectures
+0.5309996384	acoustic signal
+0.5304234640	network learns
+0.5303760654	t dcf
+0.5299208391	perceptual loss
+0.5297974191	dimensional vector
+0.5296983337	presence or absence
+0.5290291937	hybrid asr
+0.5286760991	music piece
+0.5276083659	linguistic information
+0.5273720442	analysis shows
+0.5271621654	data sonification
+0.5269316706	time delay neural network
+0.5266879305	speech technology
+0.5260405695	mean opinion
+0.5260084335	recognition rate
+0.5255363776	voice activity
+0.5249594586	chime 3
+0.5247701020	asr performance
+0.5229761315	instrumental music
+0.5229548432	frame by frame
+0.5229187971	deep learning models
+0.5223708503	point of view
+0.5223694902	target speech separation
+0.5219336462	conversion challenge 2020
+0.5217959055	average accuracy
+0.5215501868	model achieves
+0.5210446419	end to end asr
+0.5210049399	residual learning
+0.5207739702	et al
+0.5206733043	deep learning based speech enhancement
+0.5204554193	overlapping speech
+0.5204370246	t f
+0.5203474404	computer assisted
+0.5196509383	front ends
+0.5192653766	semantic information
+0.5183626518	audio content
+0.5172364347	end to end speech recognition
+0.5171899639	acoustic monitoring
+0.5161251278	attention fusion
+0.5159906379	cross task
+0.5155804129	event classes
+0.5155256686	proposed model outperforms
+0.5152962370	large amounts
+0.5139678754	single speaker
+0.5138026729	spoofing and countermeasures
+0.5137519229	source localization and tracking
+0.5132669464	dnn model
+0.5125555808	preliminary results
+0.5124888554	model parameters
+0.5114318906	end to end tts
+0.5111029799	pitch detection
+0.5107744458	chime 6
+0.5103249935	acoustic properties
+0.5098737392	gmm based
+0.5097331209	speech to text
+0.5086668679	chime 4
+0.5083850190	computer vision
+0.5073095628	produce high quality
+0.5071101143	proposed approach outperforms
+0.5069853488	network architectures
+0.5068460397	pre trained model
+0.5064545180	siamese network
+0.5056514236	full rank spatial
+0.5052916980	publicly available datasets
+0.5041314702	denoising and dereverberation
+0.5033738827	dcase 2018
+0.5030244252	speech spectrum
+0.5016537787	parallel speech
+0.5015464667	dcase 2019
+0.5014612695	self attentive
+0.5010165282	back propagation
+0.5009797358	timit dataset
+0.5006878494	speaker independent speech separation
+0.5004754376	based methods
+0.4998836969	vector representation
+0.4997505379	promising performance
+0.4997264898	audio waveform
+0.4970268879	speech activity
+0.4966935892	end to end speech translation
+0.4959443888	neural network models
+0.4947921022	k means
+0.4942800310	machine learning algorithms
+0.4935273245	speech corpora
+0.4934193300	unlabeled audio
+0.4933513490	dcase 2018 challenge
+0.4927160033	ideal binary
+0.4927113197	model complexity
+0.4926809405	speech representations
+0.4925914586	commands dataset
+0.4922049738	zero resource
+0.4920796315	relative word error
+0.4905301061	paper introduces
+0.4904552587	native speakers
+0.4904351493	experiments demonstrate
+0.4900990676	code switched speech
+0.4898381013	estimated speech
+0.4888695679	transformer network
+0.4887389253	active speaker
+0.4881209357	chime 5
+0.4879927340	articulatory to acoustic
+0.4877119861	music retrieval
+0.4877118117	component analysis
+0.4876998272	language understanding
+0.4874425300	carried out
+0.4874036231	speaker discriminative
+0.4873917915	continuous speech
+0.4873583381	universal background
+0.4870892328	acoustic to articulatory
+0.4869322619	truth labels
+0.4864790506	voxceleb speaker
+0.4859406699	deep neural network based
+0.4853664179	sound source separation
+0.4834931193	robust automatic speech recognition
+0.4826640699	kb s
+0.4809271912	results reveal
+0.4800017329	quality metrics
+0.4799275131	voxceleb dataset
+0.4797152675	simulated and real
+0.4782239844	enrollment and test
+0.4781316665	mixed speech
+0.4777473568	machine learning models
+0.4772506734	source signals
+0.4772422210	audio and text
+0.4766892627	image to image
+0.4765680742	sequence generation
+0.4762902324	inter speaker
+0.4761405161	neural text to speech
+0.4759581929	performance gain
+0.4757856945	independent vector
+0.4752823683	speech recognizer
+0.4751566770	classification of acoustic scenes and events
+0.4751194847	area of research
+0.4749708681	piano music
+0.4748487349	acoustic to word
+0.4745228675	prediction accuracy
+0.4744763222	english speech
+0.4744519569	method outperforms
+0.4741066853	pass filter
+0.4740924062	taking advantage of
+0.4731550957	proposed methods
+0.4729991556	discrete cosine
+0.4727158756	tts model
+0.4721911250	tts systems
+0.4718643462	background model
+0.4716841433	spatial information
+0.4711818478	large datasets
+0.4711227438	non parallel voice conversion
+0.4695913371	magnitude and phase
+0.4691559581	pre trained models
+0.4690273386	model outperforms
+0.4688344964	amplitude and phase
+0.4681785886	audio to score
+0.4680338216	audio sequence
+0.4675006789	times faster than
+0.4673910613	dcase 2018 task
+0.4672676337	naturalness and similarity
+0.4662186098	clean and noisy
+0.4659281184	source and target
+0.4656685679	audio generation
+0.4655420054	training and testing
+0.4653804905	scenes and events
+0.4650003387	audio and video
+0.4646624667	high fidelity speech
+0.4643986603	audio effects
+0.4642355717	sequence to sequence models
+0.4641520033	automatic music
+0.4637799373	whispered speech
+0.4637341358	speech encoder
+0.4632827211	multichannel audio
+0.4631405103	deep feature
+0.4628142970	mean square
+0.4627292681	objective and subjective
+0.4624515030	quality and intelligibility
+0.4620915818	attention module
+0.4619473364	lstm model
+0.4615913371	subjective and objective
+0.4611922391	large scale weakly
+0.4608348801	end to end neural
+0.4608251390	opinion scores
+0.4606666743	audio embeddings
+0.4600824878	timbre and pitch
+0.4597671532	encoder and decoder
+0.4593423442	speech separation and recognition
+0.4593179494	training strategies
+0.4592779894	far field
+0.4591997553	language processing
+0.4589243287	autoregressive model
+0.4588845313	n grams
+0.4587583297	deep networks
+0.4579418612	multimodal learning
+0.4579335719	noise and reverberation
+0.4573003988	reference speech
+0.4572811080	training and inference
+0.4571245544	diarization systems
+0.4570747752	data augmentation method
+0.4569829847	machine learning methods
+0.4569590195	interactive music
+0.4568275320	information processing
+0.4558982999	non invasive
+0.4557260769	unlabeled dataset
+0.4555955956	small footprint keyword
+0.4554535792	unpaired data
+0.4552623347	recognition task
+0.4552068278	music streaming
+0.4551424940	distant speech
+0.4550130379	audio adversarial
+0.4547596894	augmentation methods
+0.4546668439	development and evaluation
+0.4545860747	trained and tested
+0.4537706938	instrument classification
+0.4527197044	learning tasks
+0.4526573224	audio quality
+0.4526323956	sound scene
+0.4526075806	capable of generating
+0.4520348721	variational auto
+0.4518694158	simulated data
+0.4504916165	vae based
+0.4504142538	noisy and reverberant
+0.4500983196	localization and detection
+0.4493986075	x vectors
+0.4490894415	vector representations
+0.4490713311	neural speech synthesis
+0.4486934129	adversarial audio
+0.4486531165	audio and visual
+0.4483657788	time frequency scattering
+0.4481084554	pitch estimation
+0.4480289209	processing methods
+0.4470508463	discriminative features
+0.4467198737	publicly available
+0.4466686103	noise sources
+0.4466165077	end to end speech synthesis
+0.4465238636	interfering speech
+0.4463281108	k nearest
+0.4457254453	blind source
+0.4453515417	speech generation
+0.4451906315	growing interest
+0.4451411435	background music
+0.4449704582	classification performance
+0.4448633420	visual data
+0.4442235506	term dependencies
+0.4441791813	embedding features
+0.4440949729	convolutional and recurrent
+0.4440162387	speech and text
+0.4431003899	model size
+0.4429650089	proposed method improves
+0.4423831125	evaluation dataset
+0.4419344611	low bit
+0.4415005946	single and multi
+0.4414982049	freely available
+0.4411982249	parallel training data
+0.4410524326	speaker tracking
+0.4410469932	recognition rates
+0.4410162387	visual and audio
+0.4405806871	speech applications
+0.4400872261	speech spectrogram
+0.4400814546	audio representations
+0.4399381872	sub band
+0.4391761740	piece of music
+0.4386565887	input and output
+0.4383588490	method shows
+0.4382984288	attention based sequence to sequence
+0.4382289385	deep features
+0.4378949516	audio based
+0.4377816395	processing applications
+0.4373575415	sound event classification
+0.4372038786	waveform model
+0.4370880872	attention models
+0.4369054543	audio feature
+0.4365162692	non intrusive
+0.4364325418	wideband speech
+0.4363284119	spatial features
+0.4361123461	experimental results show
+0.4360531619	acoustic characteristics
+0.4359381452	spectrogram based
+0.4357270024	binaural sound
+0.4356700372	training and evaluation
+0.4355312646	low rank matrix
+0.4354202509	speech and language
+0.4353814512	librispeech dataset
+0.4353521061	training and test
+0.4352098483	number of speakers
+0.4351051928	audio representation
+0.4350524547	self supervised
+0.4346589758	\ epsilon
+0.4346589758	\ mathrm
+0.4346215649	nmf based
+0.4341731492	singular value
+0.4339737923	real time
+0.4338391553	asr and tts
+0.4337341865	probabilistic linear
+0.4333903379	transcribed speech
+0.4333391553	speech and noise
+0.4332977705	co occurrence
+0.4329604469	children speech
+0.4328081174	noisy data
+0.4323525069	domain knowledge
+0.4322419959	generating music
+0.4310458384	bidirectional long short term
+0.4308744955	unseen data
+0.4305438281	number of microphones
+0.4303533760	autoencoder based
+0.4303095081	robust automatic
+0.4302770170	statistical models
+0.4301667645	noise signals
+0.4301392679	speech and music
+0.4298706952	vision based
+0.4294095921	independent speaker
+0.4291917755	additional training
+0.4285231405	trained and evaluated
+0.4282810816	ability to generate
+0.4281054949	unseen during training
+0.4280322097	segment based
+0.4272861251	acoustic unit
+0.4267086558	classification problem
+0.4266351244	visual speech enhancement
+0.4264699565	augmentation method
+0.4259016262	speech samples
+0.4258344241	channel audio
+0.4256746302	wide range
+0.4255847610	multiple speaker
+0.4255426124	urban acoustic
+0.4255088935	conventional approaches
+0.4255045721	area under
+0.4253210476	signal to interference
+0.4252833150	under noisy conditions
+0.4250763976	deep residual
+0.4250695158	processing systems
+0.4246551679	data for training
+0.4244784605	end to end automatic speech recognition
+0.4238209744	instance learning
+0.4236801753	based approach
+0.4234437234	aware training
+0.4233490199	speech embeddings
+0.4227158899	cnn model
+0.4226690660	dcase 2019 task
+0.4225246859	localization methods
+0.4223420457	representations of audio
+0.4216175489	synthesis model
+0.4203376398	recognition from speech
+0.4201913889	\ cite
+0.4198700921	emotion prediction
+0.4197458112	x vector
+0.4195400372	detection and classification
+0.4188538887	model called
+0.4187029744	attention layers
+0.4183382142	performance measures
+0.4183158520	synthesis models
+0.4176479338	distortion ratio
+0.4173902373	test accuracy
+0.4169653745	sequence to sequence voice conversion
+0.4168414650	task specific
+0.4160700028	data efficient
+0.4156309008	hybrid models
+0.4151271390	target speech
+0.4144966597	time domain audio separation network
+0.4144677677	music dataset
+0.4143108478	music representation
+0.4141657692	\ emph
+0.4140870004	previous research
+0.4135526083	estimation method
+0.4118693759	image domain
+0.4114935230	self attention
+0.4114228132	target sequence
+0.4113640986	transcription systems
+0.4110942655	event localization and detection
+0.4107168474	extracted features
+0.4103680375	music signals
+0.4100249452	this paper presents
+0.4097784018	embedding learning
+0.4094159817	non native
+0.4093367217	annotated dataset
+0.4087507036	speech analysis
+0.4084552506	speech distortion
+0.4083946394	streaming and non streaming
+0.4083305509	open dataset
+0.4082764446	reverberant conditions
+0.4081260235	class labels
+0.4078887312	speech transformer
+0.4077870762	temporal convolutional
+0.4077747527	music information
+0.4075950622	architecture search
+0.4075586625	speech frames
+0.4074336792	proposed technique
+0.4072720401	sequence learning
+0.4069299790	learning framework
+0.4067583610	tacotron 2
+0.4065032487	full band
+0.4064815547	adaptation method
+0.4062922538	digital signal
+0.4062857007	analysis synthesis
+0.4062051024	bi directional long
+0.4059708611	speaker verification system
+0.4058603343	noise ratio
+0.4058439850	e2e model
+0.4055015281	music performance
+0.4049893261	baseline model
+0.4047340686	score following
+0.4046340361	this paper proposes
+0.4041837210	musical content
+0.4041541361	robust speaker recognition
+0.4041081600	temporal features
+0.4039836800	prediction model
+0.4033870015	multi speaker text to speech
+0.4032250441	joint optimization
+0.4030512180	event localization
+0.4030470752	memory networks
+0.4030147046	far field speech recognition
+0.4028029037	data selection
+0.4021344394	recognition performance
+0.4019082884	features extracted
+0.4016673960	number of parameters
+0.4016402351	source model
+0.4013881754	must c
+0.4013045460	signal processing techniques
+0.4012764120	label classification
+0.4006946409	monaural speech
+0.4006877279	second order
+0.4005590123	robust speaker
+0.4005358992	under resourced
+0.4004580621	models achieve
+0.4003877400	speech synthesizer
+0.4003207336	unsupervised speech
+0.4001367998	audio analysis
+0.3998965173	feature embedding
+0.3997571220	level features
+0.3989549843	noise robustness
+0.3986572628	speech representation
+0.3984890598	automatic chord
+0.3984502559	clustering based
+0.3982296223	proposed loss
+0.3980739567	identification systems
+0.3973796776	performance evaluation
+0.3973718840	context information
+0.3972281888	unsupervised speaker
+0.3971141091	seq2seq model
+0.3971036681	speech emotion
+0.3969464970	reference audio
+0.3969008600	recognition tasks
+0.3968888811	unsupervised acoustic
+0.3968547733	deep convolutional neural
+0.3967144478	to interference ratio
+0.3958343385	non stationary
+0.3952395358	text embeddings
+0.3952099833	raw data
+0.3945888034	parallel training
+0.3945678639	embedding network
+0.3943910367	end to end models
+0.3939304641	function based
+0.3938012419	performance gap
+0.3936712934	models for speech
+0.3933493866	low signal to noise
+0.3932726544	zero shot learning
+0.3924343365	detection and classification of acoustic scenes
+0.3917919148	music recordings
+0.3917905968	discrete wavelet
+0.3915867718	i vectors
+0.3914573387	root mean
+0.3910309243	generate music
+0.3908596837	objective quality
+0.3908372639	test data
+0.3899947911	joint model
+0.3898941980	prediction error
+0.3898735254	non autoregressive
+0.3894607909	\ textit
+0.3894406506	speech content
+0.3892038598	this paper describes
+0.3887480566	learning scheme
+0.3884352091	music related
+0.3882165573	audio and speech
+0.3881399473	enhancement performance
+0.3878773840	automatic speech recognition systems
+0.3877424520	invariant signal
+0.3876015466	source to distortion
+0.3874691973	autoregressive neural
+0.3866346889	visual speech
+0.3864297183	lstm network
+0.3862546321	front end
+0.3861731930	stage training
+0.3854706318	left to right
+0.3854254630	enhancement network
+0.3854224022	challenge 2020
+0.3852145909	model shows
+0.3850981717	voice corpus
+0.3850076031	time delay
+0.3849417977	network based
+0.3846394573	complex acoustic
+0.3840688419	signal to distortion
+0.3839380838	resource languages
+0.3838135853	target domains
+0.3835839678	probabilistic model
+0.3832327041	time frequency masking
+0.3830414061	speaker change
+0.3830228339	music recognition
+0.3827263795	the key idea
+0.3825756336	current approaches
+0.3824857349	separation and enhancement
+0.3824485242	lingual voice conversion
+0.3811725364	acoustic source
+0.3808871884	transformer model
+0.3807966450	sequence to sequence model
+0.3806743877	wavenet based
+0.3806271604	error rate reduction
+0.3805191968	embedding models
+0.3802648526	encoder decoder based
+0.3800156543	stage approach
+0.3799142897	data corpus
+0.3793526028	improving performance
+0.3792289559	text translation
+0.3790408077	i vector
+0.3788670042	model based
+0.3787625709	resource speech
+0.3787209088	without sacrificing
+0.3786936735	audio spectrogram
+0.3786173116	convolutional and recurrent neural
+0.3778868543	back end
+0.3773361639	end to end automatic speech
+0.3772670975	real audio
+0.3771905068	acoustic representations
+0.3771401778	extract speaker
+0.3768076278	speech representation learning
+0.3767694622	query by example
+0.3761732201	t s
+0.3761434136	deep recurrent
+0.3756580149	audio domain
+0.3751774366	events 2016
+0.3751339431	and accompaniment separation
+0.3751170699	polyphonic audio
+0.3749679865	million song
+0.3747871958	verification systems
+0.3745296516	specific data
+0.3744214147	sound analysis
+0.3742553021	music score
+0.3742551784	meeting corpus
+0.3738952598	voice data
+0.3737182040	simultaneous speech
+0.3734800107	time frequency
+0.3734428607	proposed multi
+0.3733791680	supervised deep
+0.3729939840	separation and recognition
+0.3728678871	f score
+0.3728457140	fusion approach
+0.3726030625	time domain
+0.3720679760	vocal melody
+0.3715954313	sub bands
+0.3710458753	labeled dataset
+0.3710429166	subjective assessment
+0.3706474559	verification tasks
+0.3703596447	acoustic input
+0.3701202282	source locations
+0.3697455806	frequency analysis
+0.3697450523	vocabulary continuous
+0.3691437010	experimental results indicate
+0.3689635617	attention network
+0.3689164222	recognition evaluation
+0.3686767310	significant performance
+0.3685872901	e2e models
+0.3685368492	classifier trained
+0.3679537768	end to end text to speech
+0.3667104184	diarization performance
+0.3659570460	synthesis systems
+0.3658807185	speech sources
+0.3658548714	unsupervised manner
+0.3658192333	neural models
+0.3656672160	non linear
+0.3656633898	state of art
+0.3654099035	discriminative feature
+0.3652337811	mean squared
+0.3651544856	self supervised learning
+0.3649272624	dnn models
+0.3646312062	deep learning framework
+0.3645155049	divided into
+0.3640654703	target source
+0.3639727535	recently shown
+0.3639176998	speech features
+0.3632804199	model improves
+0.3630773749	memory network
+0.3622117920	neural network transducer
+0.3616635808	well suited
+0.3615867879	f measure
+0.3615430623	independent low rank
+0.3614682238	number of sources
+0.3614652375	significant improvement over
+0.3613177696	$ \ pm
+0.3612945136	communication systems
+0.3612569334	extraction method
+0.3606517842	supervised approaches
+0.3605531715	commonly used
+0.3602748846	challenge dataset
+0.3599897947	time frequency bin
+0.3597618222	classification rate
+0.3593699266	enhancement model
+0.3592725715	perceptual evaluation
+0.3591487277	neural machine
+0.3591407473	attention based models
+0.3590498525	generated speech
+0.3589423502	se model
+0.3588876886	microphone speech enhancement
+0.3587016903	$ \ beta
+0.3586841727	target signal
+0.3584831736	noise ratios
+0.3578549119	binaural hearing
+0.3578209521	acoustic embeddings
+0.3575662566	frequency masking
+0.3575043519	spatial sound
+0.3574393602	model performs
+0.3573497324	multilingual speech
+0.3572309851	speaker recognition system
+0.3569164162	significant improvements over
+0.3562539128	speech utterances
+0.3557243914	task 4
+0.3548899733	independent speaker verification
+0.3545305488	learning rate
+0.3545161649	few shot learning
+0.3543676370	audio detection
+0.3541884792	large amounts of
+0.3540797107	deep speaker
+0.3539929708	experiment results show
+0.3535516968	voice trigger
+0.3533839879	based vc
+0.3528615833	advances in deep learning
+0.3526647354	matrix analysis
+0.3526489386	audio track
+0.3525128786	based models
+0.3524781669	third order
+0.3520437923	recorded speech
+0.3518456921	classification model
+0.3517680210	traditional methods
+0.3517272219	right whale
+0.3514340385	feature loss
+0.3511655900	data collected
+0.3507437898	audio visual dataset
+0.3501379822	mixture models
+0.3500652938	sound recordings
+0.3499411214	input audio
+0.3498967650	recent deep
+0.3494621884	learning paradigm
+0.3494418630	separation method
+0.3493880989	interaural time
+0.3491095960	hybrid model
+0.3486795185	signal reconstruction
+0.3486118424	input acoustic
+0.3486088849	training examples
+0.3484679400	based architecture
+0.3483567794	robust asr
+0.3482704554	attention networks
+0.3479560651	improvement in terms
+0.3478380982	input speech
+0.3475324974	recognition applications
+0.3470501925	proposed architecture
+0.3469919301	evaluation data
+0.3468963337	task 1
+0.3465062439	last years
+0.3460699125	average speaker
+0.3460382903	voice based
+0.3457498392	labeled audio
+0.3457259151	synthetic dataset
+0.3456911242	frequency cepstral coefficient
+0.3456481359	real world audio
+0.3453298215	term memory
+0.3452369074	model adaptation
+0.3444266304	separation algorithm
+0.3440685023	training algorithm
+0.3438818361	single neural
+0.3437111828	parametric speech
+0.3435310603	out of vocabulary
+0.3434768984	voxceleb speaker recognition
+0.3434143848	streaming end to end
+0.3432767951	short time
+0.3432312600	separated speech
+0.3429613847	bidirectional long
+0.3427753203	separation network
+0.3427027407	time frequency bins
+0.3423281432	one shot
+0.3420155863	public dataset
+0.3419631647	self attention mechanism
+0.3418337843	testing data
+0.3417753707	vocabulary speech
+0.3412560570	an open source
+0.3411815830	development data
+0.3409949145	top down
+0.3404523731	long term temporal
+0.3400230340	speech segment
+0.3400091556	relevant features
+0.3399870143	discriminative training
+0.3399321018	multilingual model
+0.3397527893	speaker detection
+0.3396318745	source target
+0.3394591837	non negative
+0.3394498576	vector machine
+0.3394235226	main idea
+0.3392979543	resource language
+0.3390105515	attack detection
+0.3389627459	speech recognition system
+0.3386161193	original audio
+0.3385678710	neural text
+0.3381654268	supervised data
+0.3379271028	vector based
+0.3375122579	features extraction
+0.3372374454	polyphonic sound
+0.3370116741	translation task
+0.3367267586	signal to noise
+0.3366250752	on mobile devices
+0.3365705758	single model
+0.3364712971	short time objective
+0.3356868161	speech input
+0.3353498037	challenge 2019
+0.3351774160	vector machines
+0.3350042324	song identification
+0.3346761019	recent advances in
+0.3345761916	convolutional deep
+0.3343797944	audio recognition
+0.3334454565	domain adversarial
+0.3333568169	speech mixtures
+0.3333236718	adaptation methods
+0.3333075661	gated convolutional
+0.3329544381	filter based
+0.3315572448	achieve high
+0.3312971763	enhancement systems
+0.3310184237	audiovisual speech
+0.3310137341	step towards
+0.3310046133	tts models
+0.3309352134	relative improvement over
+0.3308935762	this paper introduces
+0.3308713513	noise model
+0.3306691392	single channel audio
+0.3305526422	attention based end to end
+0.3305272453	asr models
+0.3303773776	top performing
+0.3302285040	supervised acoustic
+0.3301214636	run time
+0.3300691738	speaker voice
+0.3298395733	long short
+0.3298328103	widely used
+0.3297692405	dataset demonstrate
+0.3295064543	training dataset
+0.3293255441	emotion detection
+0.3289300528	time domain audio separation
+0.3288488768	musical performance
+0.3287708764	human speech
+0.3286916393	self supervision
+0.3283419921	librispeech test
+0.3283391801	conversion challenge
+0.3281171235	training objective
+0.3275135422	speaker modeling
+0.3265870123	domain dataset
+0.3265813420	robust speech
+0.3264104690	temporal information
+0.3262186503	onset time
+0.3261958131	multi channel audio
+0.3261679193	audio frames
+0.3253993170	large scale dataset
+0.3253545650	speaker encoder
+0.3250082618	based speaker verification
+0.3248796180	deep speech
+0.3247994269	large scale audio
+0.3247044871	acoustic scenes and events
+0.3245113448	speaker diarization system
+0.3245057639	speaker independent speech
+0.3241339335	audio visual speech
+0.3241264515	based feature
+0.3241204947	blind speech
+0.3239148940	proposed scheme
+0.3238975405	diarization error
+0.3238828219	conditional neural
+0.3238078644	invariant features
+0.3228855903	enhancement models
+0.3223573826	multilingual models
+0.3222991725	original speech
+0.3221015291	sound detection
+0.3218075139	recognition dataset
+0.3213075256	noise power
+0.3212888937	level feature
+0.3212373041	performance improvements
+0.3209999858	music audio
+0.3209477176	speech sounds
+0.3209288441	effective method
+0.3204111696	time frequency representations
+0.3202952140	deep models
+0.3199927259	target voice
+0.3197970553	non uniform
+0.3197187456	google speech
+0.3195763879	conduct experiments on
+0.3195566375	strong baseline
+0.3193622446	feature based
+0.3192706561	in recent years
+0.3191512600	method performs
+0.3190458488	multi task training
+0.3190370808	language recognition
+0.3186529309	doing so
+0.3182508588	enhancement approach
+0.3180931891	model architecture
+0.3177351922	neural sequence
+0.3176500691	automatic speaker
+0.3174307583	method yields
+0.3173122731	audio models
+0.3169405286	neural architecture
+0.3164847093	human level
+0.3161055546	first order
+0.3160379953	speech dataset
+0.3159847123	relevant information
+0.3155454582	embedding model
+0.3152982395	experiments performed
+0.3146957738	experiments conducted
+0.3145723127	self attention layers
+0.3145324052	acoustic feature
+0.3143063099	robust against
+0.3142085363	waveform based
+0.3137038505	time series
+0.3136970366	enhancement framework
+0.3136580257	high quality audio
+0.3136315919	resulting model
+0.3136107719	representations learned
+0.3133705673	model architectures
+0.3133315939	co channel
+0.3128674304	taken into account
+0.3127954207	level information
+0.3127714734	^ 2
+0.3126798638	generalizes well
+0.3125353459	speech enhancement methods
+0.3117995678	models perform
+0.3116590901	present results
+0.3116123878	transformer models
+0.3116101094	method achieves
+0.3115806506	fidelity audio
+0.3115703447	trained model
+0.3114543922	trade off between
+0.3111773806	student learning
+0.3111407790	speaker classification
+0.3111261009	time frequency masks
+0.3109958423	recognition challenge
+0.3108919444	recognition models
+0.3106398180	improve performance
+0.3105534034	speech enhancement algorithm
+0.3100624393	asr errors
+0.3098926391	performance metrics
+0.3098790944	encoder decoder model
+0.3098413575	detection systems
+0.3097623386	real data
+0.3095659744	robust speech recognition
+0.3095229723	gap between
+0.3091713138	input signals
+0.3091648279	deals with
+0.3091311944	takes advantage
+0.3090929588	baseline results
+0.3090458701	important task
+0.3083124772	dnn based speech
+0.3081548400	event labels
+0.3081137844	under determined
+0.3080566727	non trivial
+0.3067646537	training samples
+0.3064115407	classification network
+0.3063118183	acoustic data
+0.3062106837	based classification
+0.3061050622	conditional generative
+0.3058863909	non parallel
+0.3052601373	learning based speech enhancement
+0.3052307602	extraction methods
+0.3051577203	word recognition
+0.3050488734	baseline systems
+0.3048008625	a limited number
+0.3046477382	least mean
+0.3046025556	art speech recognition
+0.3042873382	end to end speech
+0.3042355634	augmentation techniques
+0.3039189220	text to speech systems
+0.3037949448	learning strategies
+0.3037831769	features extracted from
+0.3036856833	two stage
+0.3034455997	image translation
+0.3033371647	learn representations
+0.3031926748	voice synthesis
+0.3030781283	localization method
+0.3028534495	insight into
+0.3027227460	not necessarily
+0.3026323161	experiments performed on
+0.3019770098	experiments conducted on
+0.3018609193	speech recordings
+0.3018184289	text based
+0.3013732061	training stage
+0.3011716012	achieve state of
+0.3010354080	network transducer
+0.3006256323	an unsupervised manner
+0.3005095720	reverberation time
+0.3005092895	user study
+0.3002554767	universal sound
+0.2998638525	fed into
+0.2997624233	achieved competitive
+0.2997560983	extraction network
+0.2995136894	real time applications
+0.2987405760	acoustic impulse
+0.2987314569	network layers
+0.2983823416	high degree
+0.2983502072	time frequency domain
+0.2980981480	experimental results on
+0.2977778978	supervised training
+0.2977608771	deep convolutional
+0.2977552069	wide variety of
+0.2976717746	fold cross
+0.2972284443	current speech
+0.2969223866	important role
+0.2969177623	takes advantage of
+0.2968776086	feed forward neural
+0.2967639013	does not require
+0.2964204947	network structure
+0.2963635915	speech parameters
+0.2958141523	speech recognition models
+0.2954211374	this paper addresses
+0.2948074041	learning model
+0.2945075178	dataset collected
+0.2940646635	machine learning based
+0.2938191101	automatic recognition
+0.2937872196	an audio clip
+0.2935047356	separation techniques
+0.2930049960	an end to end fashion
+0.2928617820	detection methods
+0.2926312146	emotional state
+0.2919556100	even though
+0.2916056762	vector extraction
+0.2913113618	scale invariant signal
+0.2912556575	an attention mechanism
+0.2905632247	stationary noise
+0.2904013240	well established
+0.2902221996	conventional methods
+0.2898825831	sequence model
+0.2897074188	training process
+0.2894842948	unsupervised feature
+0.2891994222	arrival estimation
+0.2890806174	dependent speaker
+0.2886011547	single microphone speech
+0.2883913625	synthesize speech
+0.2875277774	to many voice conversion
+0.2874834224	based algorithm
+0.2873831507	learning setting
+0.2873212403	rather than
+0.2869850771	recent success of
+0.2865643354	successfully applied to
+0.2865053912	mel filter
+0.2862285870	trained to predict
+0.2860721622	achieves state of
+0.2860457803	accounting for
+0.2859247589	out of domain
+0.2856144435	non parallel data
+0.2856127156	large number
+0.2850953112	estimation methods
+0.2849689356	vector analysis
+0.2848182907	enhancement algorithm
+0.2848031624	suffer from
+0.2847695898	responsible for
+0.2847012427	noise level
+0.2846186071	method improves
+0.2845756113	sequence models
+0.2842297347	regarded as
+0.2841633940	proposed techniques
+0.2833142159	single channel speech
+0.2832314119	current state of
+0.2832231166	speaker labels
+0.2830522262	input feature
+0.2828956844	this paper investigates
+0.2822116865	speech database
+0.2817339488	while maintaining
+0.2815987526	current state
+0.2815477764	one hot
+0.2813369851	caused by
+0.2813046345	network trained
+0.2810563867	neural net
+0.2809328085	learning approach
+0.2807079494	experiment results
+0.2802248487	aimed at
+0.2802174419	state of
+0.2802130793	sound signal
+0.2800106498	voice detection
+0.2794735564	d vector
+0.2794726803	based method
+0.2787726420	speaker invariant
+0.2786912123	this paper
+0.2786251033	require large
+0.2785761430	dealing with
+0.2785364676	test results
+0.2781399936	so far
+0.2779689902	wide range of
+0.2774099843	take into account
+0.2773934037	end to end learning
+0.2773699519	extract features
+0.2769801461	well known
+0.2769669859	similar performance
+0.2769177750	time varying
+0.2767688665	discriminative information
+0.2765561686	song dataset
+0.2765201058	the previous state
+0.2765075253	time consuming
+0.2763813767	high degree of
+0.2762355317	full rank
+0.2762138081	training pipeline
+0.2760401441	learning based
+0.2760322512	separation algorithms
+0.2760321123	speech related
+0.2760318688	adaptation data
+0.2754298971	depend on
+0.2752633008	non stationary noise
+0.2751665092	detection and classification of acoustic
+0.2751318706	into account
+0.2750977362	spectral feature
+0.2749070009	aims at
+0.2747559331	world scenarios
+0.2738621509	sub optimal
+0.2737012044	separation task
+0.2736334028	time scale
+0.2735678118	asr task
+0.2735521410	outperforms existing
+0.2735404652	conventional method
+0.2734237975	classification loss
+0.2729191759	rate reduction
+0.2727759436	10 db
+0.2723173241	non streaming
+0.2721893167	the art
+0.2719541484	an important role
+0.2716848013	method called
+0.2714187626	real speech
+0.2709930693	referred to as
+0.2709181613	encoder network
+0.2708546898	an ablation study
+0.2705259322	acoustic environment
+0.2703838836	audio separation
+0.2701665440	second pass
+0.2699829055	models trained
+0.2697442183	source signal
+0.2697057552	end to end manner
+0.2693669935	recent advancements in
+0.2693511727	non causal
+0.2693123846	prediction task
+0.2690545463	simulation results
+0.2686305624	proposed features
+0.2684210841	over fitting
+0.2682857570	recognition model
+0.2680840215	separation systems
+0.2679741972	loss based
+0.2675346647	deep recurrent neural
+0.2674983948	rely on
+0.2673766367	acoustic representation
+0.2673687962	subjected to
+0.2673374043	signal analysis
+0.2672630430	pitch dependent
+0.2671518519	phone error
+0.2668900862	verification task
+0.2667355220	sub challenge
+0.2666542526	f1 score of
+0.2663592826	speech signal processing
+0.2660845828	paper addresses
+0.2660159679	deep learning architecture
+0.2659552352	synthesis quality
+0.2658459235	two dimensional
+0.2656339876	paper explores
+0.2655841228	processing techniques
+0.2654231178	suffers from
+0.2653123080	input representation
+0.2650840883	data recorded
+0.2650320091	learning representations
+0.2646097071	depending on
+0.2645436118	acoustic sensor
+0.2644739222	the art methods
+0.2641814489	audio information
+0.2639499651	inspired by
+0.2638453076	time and frequency
+0.2637581698	based features
+0.2635153205	based se
+0.2631186734	non verbal
+0.2626517065	effective approach
+0.2622898088	speaker representation
+0.2621980495	learning models
+0.2620568180	faster than
+0.2620449556	trigger detection
+0.2614306416	produce high
+0.2612719968	small datasets
+0.2611376732	cross lingual voice
+0.2611248063	temporal classification
+0.2606497029	audio dataset
+0.2605481624	visual speech recognition
+0.2603869169	independent component
+0.2600349067	to distortion ratio
+0.2599746998	frame based
+0.2594905324	compared to
+0.2593638343	performance compared
+0.2592512506	based voice conversion
+0.2589981039	first pass
+0.2587389971	achieves competitive
+0.2586909580	based model
+0.2585340423	detection task
+0.2583333104	a large scale
+0.2575303060	coming from
+0.2574660488	external language
+0.2573749607	relies on
+0.2572909263	learning process
+0.2567459884	+ +
+0.2566167192	recent success
+0.2560558434	based on
+0.2559564958	neural source
+0.2558163209	greater than
+0.2558162510	viability of
+0.2557399092	enhancement algorithms
+0.2555415792	deep architectures
+0.2554844195	music data
+0.2551545170	end to end approach
+0.2544044608	generate speech
+0.2543753358	speech enhancement method
+0.2543385737	results revealed
+0.2543291695	robust automatic speech
+0.2543005995	fully convolutional neural
+0.2541221023	approach achieves
+0.2535268468	multi channel speech
+0.2535042888	automatic detection of
+0.2534984434	sub word
+0.2534605087	experimental data
+0.2534455076	automatic detection
+0.2531045504	entropy loss
+0.2530390887	training corpus
+0.2528527236	model trained
+0.2526339479	spectral domain
+0.2522781993	learn speaker
+0.2521794063	deep learning model
+0.2521728760	moving sound
+0.2517954965	separation tasks
+0.2516397447	extensive experiments on
+0.2514880483	while keeping
+0.2514656412	detection performance
+0.2511874055	music style
+0.2511321769	focuses on
+0.2505289204	labeled training
+0.2504977226	feature sequence
+0.2503229177	goodness of
+0.2501639787	real world data
+0.2498387135	estimation accuracy
+0.2496742029	decoder network
+0.2496222626	recorded audio
+0.2493402526	based speech separation
+0.2493236646	does not
+0.2492694007	large number of
+0.2486232052	very low
+0.2486167972	focus on
+0.2485888923	capture long
+0.2483462090	model learns
+0.2480563489	training framework
+0.2480476786	signal based
+0.2475241729	generation process
+0.2473808674	processing algorithms
+0.2473518108	research community
+0.2473239991	an end to end manner
+0.2472981674	depends on
+0.2470788908	unlike previous
+0.2469487319	based systems
+0.2464563693	multiple sound
+0.2458429337	enhancement method
+0.2457764043	computer music
+0.2457392444	sound signals
+0.2453293159	a wide variety
+0.2451723256	recent deep learning
+0.2451100559	artificial neural
+0.2450482551	attention based model
+0.2448922885	monaural singing
+0.2447788952	based singing voice
+0.2443497331	multi talker speech
+0.2441682914	scale datasets
+0.2439996581	detection cost
+0.2437636739	model training
+0.2437113317	target sound
+0.2430261576	two pass
+0.2428965920	classification models
+0.2428858528	verification performance
+0.2423986906	significant improvements in
+0.2423147861	end to end training
+0.2421402793	method achieved
+0.2418310315	based speech
+0.2417446489	perceptual features
+0.2416951999	retrieval tasks
+0.2415331918	deep learning based speech
+0.2409615205	active research
+0.2408435671	feature level
+0.2407560358	arbitrary number of
+0.2406466096	input representations
+0.2405537024	this article
+0.2404116641	\ `
+0.2400442043	do not
+0.2397742866	automated audio
+0.2387231187	relatively small
+0.2386391067	music signal
+0.2385425658	previous work
+0.2384762039	recognition problem
+0.2381120066	head attention
+0.2377641126	based encoder decoder
+0.2377524987	detection accuracy
+0.2373416069	art accuracy
+0.2372266153	based framework
+0.2369454023	end to end approaches
+0.2367823868	data distribution
+0.2367265791	discriminate between
+0.2365298157	so called
+0.2364683318	learning algorithm
+0.2363732905	faster than real time
+0.2363716034	task 2
+0.2357138590	speech detection
+0.2353825094	improvements over
+0.2353281932	conjunction with
+0.2352214563	consisting of
+0.2352033514	one dimensional
+0.2349276907	results show
+0.2348979319	this paper explores
+0.2347872181	method significantly
+0.2345496783	learning method
+0.2344248907	three dimensional
+0.2344005037	results indicate
+0.2343675580	current methods
+0.2340258074	correlation between
+0.2339843111	trained models
+0.2335786366	well defined
+0.2335513503	higher than
+0.2333442936	a user study
+0.2332419378	outperforms previous
+0.2332190061	opposed to
+0.2330994569	average relative
+0.2330724191	most common
+0.2324974504	robustness against
+0.2322474420	a large margin
+0.2321387998	relationship between
+0.2320944002	music domain
+0.2319388115	recent work
+0.2317093470	recognition results
+0.2316607796	visual scene
+0.2315624322	learning architectures
+0.2314772991	i vector based
+0.2313065331	driven approach
+0.2312820864	adversarial attacks on
+0.2311093549	achieved great
+0.2309723255	consists of
+0.2307514475	relations between
+0.2306728443	neural speech
+0.2305410245	based acoustic models
+0.2304441923	a challenging task
+0.2302872722	training approach
+0.2295727212	information about
+0.2295175932	corresponds to
+0.2293519776	without requiring
+0.2290149671	generation tasks
+0.2285957562	speech source
+0.2285911014	based training
+0.2284205400	for robust speech recognition
+0.2283470461	obtained results show
+0.2283028837	shown promising
+0.2281992602	best performing
+0.2281676587	evaluation of speech quality
+0.2278888630	a deep neural network
+0.2278012346	distances between
+0.2275311865	shared across
+0.2273526918	source separation performance
+0.2271757923	enhancement techniques
+0.2271399096	improves performance
+0.2267752605	learning methods
+0.2265228953	leads to
+0.2265125120	audio sample
+0.2259370466	relation between
+0.2258873051	detection models
+0.2257559375	human computer
+0.2255999860	baseline models
+0.2253323749	hybrid dnn
+0.2251431719	focused on
+0.2249349454	based architectures
+0.2247661651	relationships between
+0.2246038536	classification based
+0.2239387007	event recognition
+0.2237075328	model performance
+0.2236526601	source speaker
+0.2235411651	insights into
+0.2235034535	classification results
+0.2234504163	conduct experiments
+0.2230996370	relative transfer
+0.2226359532	test other
+0.2225738077	deep learning systems
+0.2221924840	learning systems
+0.2218728741	multi speaker speech
+0.2215290207	an audio signal
+0.2214716144	suffering from
+0.2214700700	input data
+0.2214422548	online speech
+0.2210982546	based acoustic model
+0.2206174694	baseline method
+0.2205951990	speech synthesis using
+0.2205555552	training method
+0.2205408907	speaker recognition challenge
+0.2205044126	integrated into
+0.2204728159	noise components
+0.2202228182	while retaining
+0.2198428021	end to end spoken
+0.2198063108	knowledge based
+0.2194626420	neural network model
+0.2191067917	character error
+0.2189496673	for speech emotion recognition
+0.2187607742	hmm based speech
+0.2186873015	music source
+0.2186599189	embedding extraction
+0.2183015983	prior work
+0.2182170692	more accurate
+0.2180845719	well studied
+0.2179474663	algorithm based
+0.2176029731	signals recorded
+0.2175791266	available at https
+0.2171193697	input signal
+0.2168727350	human evaluation
+0.2166340683	embeddings extracted
+0.2161824776	performs well
+0.2160924697	connection between
+0.2160103994	use cases
+0.2158607301	learning techniques
+0.2156854352	end to end speaker
+0.2156721675	audio source separation using
+0.2154466732	experiments indicate
+0.2153554112	performs better than
+0.2150977259	human performance
+0.2149386864	single neural network
+0.2145560975	challenge task
+0.2145461988	characterized by
+0.2140013240	datasets demonstrate
+0.2139187277	obtained results
+0.2137932553	achieves significant
+0.2137700049	while preserving
+0.2136632346	capable of
+0.2134773343	processing step
+0.2133792423	performance comparable
+0.2133249510	knowledge about
+0.2131567983	automatic recognition of
+0.2127637188	low computational
+0.2122715705	extracted from
+0.2121508022	improvement over
+0.2114493043	relative word
+0.2113671517	asr model
+0.2111954711	based speech synthesis
+0.2111127298	the main idea
+0.2110312009	large amount of data
+0.2106127235	paper shows
+0.2104484053	supervised methods
+0.2103013612	asr system
+0.2102738794	based multi
+0.2102264539	end to end spoken language
+0.2100176417	mismatch between
+0.2096694380	many to many voice conversion
+0.2095512339	speech enhancement using
+0.2094540738	supervised speech
+0.2091568324	transform domain
+0.2091271448	features learned
+0.2090036237	great success in
+0.2089854008	overlapping sound
+0.2087404854	diarization system
+0.2085600753	large dataset
+0.2084523990	identification performance
+0.2084141532	based end to end
+0.2082712766	proposed models
+0.2080028539	conversion task
+0.2069070837	network parameters
+0.2066975770	performance comparable to
+0.2063876942	any to many
+0.2062562160	most important
+0.2061300477	attention based neural
+0.2061094230	present paper
+0.2060771421	aiming at
+0.2059241517	distinguish between
+0.2056235666	for acoustic scene classification
+0.2043414533	difference between
+0.2042629816	across languages
+0.2041415660	proposed approaches
+0.2041369295	to retrieve
+0.2041313252	enhancement task
+0.2039628654	serve as
+0.2038855113	during training
+0.2034419856	perform experiments
+0.2032829515	differences between
+0.2032108084	faster than real
+0.2031797777	learning approaches
+0.2028975121	time invariant
+0.2026308452	yet effective
+0.2022518437	range of applications
+0.2020509041	with skip connections
+0.2019981401	end to end model
+0.2019792879	the present study
+0.2019404681	order to improve
+0.2019251391	time frequency representation
+0.2018457461	perceptual evaluation of speech
+0.2018433738	asr tasks
+0.2018429316	speech enhancement task
+0.2016521189	separation methods
+0.2015054557	3 d
+0.2012796560	the art performance
+0.2012739959	in domain data
+0.2011393890	end to end speaker verification
+0.2010201693	human auditory
+0.2008150048	value decomposition
+0.2008091756	proposed network
+0.2006187515	1 d
+0.2006060462	a lot
+0.1996509009	recent advances in deep
+0.1995890951	x vector based
+0.1994357349	applied to
+0.1993699247	more importantly
+0.1991093615	speech recognition model
+0.1990591323	system description
+0.1984841484	$ n
+0.1984341147	voice conversion using
+0.1983545483	visual signals
+0.1981570746	as opposed
+0.1980871551	neural end to end
+0.1978362732	during inference
+0.1976788260	using deep neural networks
+0.1974188291	improve upon
+0.1973983762	a comparative study
+0.1969053394	perform well
+0.1967843415	significantly better than
+0.1966147286	frequency components
+0.1958419101	end to end fashion
+0.1956090686	speech to speech
+0.1954454993	followed by
+0.1952280421	network approach
+0.1952117395	voice conversion system
+0.1948536560	music emotion
+0.1947776192	conditioned on
+0.1942203133	number of
+0.1941420886	and vice
+0.1939020534	method based on
+0.1933487602	n best
+0.1931509095	separation problem
+0.1929509559	art model
+0.1928904377	few years
+0.1925214670	most popular
+0.1924838205	supervised approach
+0.1923584832	generated by
+0.1921001219	complex models
+0.1919415833	separation model
+0.1919171289	models trained on
+0.1918510723	aim at
+0.1914320962	ranging from
+0.1912881130	speech datasets
+0.1911809530	training phase
+0.1911769567	lot of
+0.1902364661	incorporated into
+0.1901034305	end to end neural network
+0.1898941003	audio input
+0.1896129482	this study
+0.1894203280	based classifier
+0.1891216663	speech extraction
+0.1890787581	good performance
+0.1890642465	based on multi
+0.1889686688	self attention network
+0.1883622673	end to end systems
+0.1883508468	an end to end
+0.1878463142	investigate whether
+0.1878325201	and classification of acoustic scenes
+0.1877910910	the audio domain
+0.1873636947	experiments show
+0.1872489951	evaluation results
+0.1871177028	produced by
+0.1869352127	tend to
+0.1869284441	significant improvement in
+0.1867414144	very effective
+0.1866693960	most likely
+0.1866376517	affected by
+0.1865840217	similarity between
+0.1860225060	baseline methods
+0.1857047201	transformed into
+0.1856293320	identification task
+0.1855689786	derived from
+0.1854207323	an important task
+0.1854157880	not clear
+0.1851236342	relying on
+0.1849327099	motivated by
+0.1849288538	based speech recognition
+0.1847184374	baseline system
+0.1845917859	from scratch
+0.1845058672	compared with
+0.1844515517	art performance
+0.1842057371	seen during training
+0.1839679521	speech synthesis systems
+0.1837326628	for keyword spotting
+0.1836420886	in conjunction
+0.1831377858	viewed as
+0.1828981685	speech systems
+0.1824710959	available online
+0.1824546423	to improve
+0.1823639473	did not
+0.1823215332	end to end automatic
+0.1822841754	based speaker recognition
+0.1818805076	network based speech
+0.1817816145	presence or absence of
+0.1816165318	$ m
+0.1813990221	streaming speech
+0.1812685652	this work
+0.1812214764	enhancement methods
+0.1809490538	thousands of
+0.1806895552	serves as
+0.1806463997	detection based on
+0.1804887031	larger than
+0.1804281468	control over
+0.1803369912	acoustic information
+0.1800610978	speech enhancement performance
+0.1799408616	mean average
+0.1799125826	in emotional talking environments
+0.1797927790	based on deep
+0.1792045822	time frames
+0.1791857978	speech synthesis system
+0.1778542002	trained on
+0.1778187107	channel speech enhancement
+0.1777870193	minimum mean
+0.1775489054	more complex
+0.1774835961	lead to
+0.1770458354	network model
+0.1758655647	formulated as
+0.1758215225	lower than
+0.1756613739	aims to
+0.1755053333	more robust
+0.1752893881	mapping between
+0.1752154920	this thesis
+0.1750658679	take advantage of
+0.1748820576	influenced by
+0.1748034631	acoustic parameters
+0.1747474566	learning algorithms
+0.1747184397	a single speaker
+0.1738482497	networks trained
+0.1738211807	focusing on
+0.1737882005	represented as
+0.1737878987	distance between
+0.1735385001	an attention based
+0.1734659654	learning problem
+0.1732670448	an encoder decoder
+0.1730875573	due to
+0.1727142053	consist of
+0.1725654100	over smoothing
+0.1725023651	benefit from
+0.1724852813	more specifically
+0.1724296271	tts system
+0.1723485170	multichannel speech
+0.1722078313	time fourier transform
+0.1719186450	systems trained
+0.1718320576	treated as
+0.1715780171	acts as
+0.1714647000	neural networks based
+0.1712413734	neural language
+0.1711475792	based on deep learning
+0.1709074541	such as
+0.1709061534	the art results
+0.1708872298	this problem
+0.1700371189	at least
+0.1699809252	correspond to
+0.1699802737	inference time
+0.1698287471	evaluation results show
+0.1698235690	best result
+0.1694320710	able to produce
+0.1693679820	deep network
+0.1693375573	able to
+0.1691609743	further improve
+0.1689567668	mismatch between training
+0.1688721938	to end automatic speech recognition
+0.1677603905	$ \
+0.1673095436	second step
+0.1669348048	differs from
+0.1668999153	limited amount of
+0.1668429115	consists of multiple
+0.1667443450	art results on
+0.1661892191	drawn from
+0.1658239907	dependencies between
+0.1655151694	speech recognition using
+0.1655054718	represented by
+0.1654997080	both audio and
+0.1652005865	for environmental sound
+0.1648489916	an important
+0.1646924076	as input
+0.1646654020	not seen during training
+0.1644510977	a neural network based
+0.1640696617	connections between
+0.1637304795	propose to use
+0.1632383993	art models
+0.1632006768	subjective assessment by
+0.1631558528	level representations
+0.1631423483	real time audio
+0.1629897575	amounts of
+0.1629625684	end to end framework
+0.1620795571	neural audio
+0.1618468605	contribute to
+0.1618401166	obtained from
+0.1617824252	two stages
+0.1616640986	large amount of
+0.1616627551	better than
+0.1615968551	very small
+0.1614937182	based sequence to sequence
+0.1614467610	close to
+0.1613855712	obtained by
+0.1613830904	less than
+0.1613821249	attacks against
+0.1613169519	proposed method significantly
+0.1612458989	based method for
+0.1609781588	model trained on
+0.1606568465	human auditory system
+0.1604957195	belong to
+0.1604630359	speech recognition tasks
+0.1601287185	as well as
+0.1599503626	unsupervised way
+0.1597745305	in real life
+0.1596128904	deep audio
+0.1593178616	relative reduction in
+0.1591719680	a convolutional neural network
+0.1589669838	resulted in
+0.1588807306	art end to end
+0.1588179360	better results than
+0.1588173482	word error rate on
+0.1587578033	more effective
+0.1585171207	an efficient
+0.1583633724	attempt to
+0.1580668065	amounts of data
+0.1578133513	domain data
+0.1577810762	in order to
+0.1569308781	speech recognition task
+0.1569291725	significantly better
+0.1569180954	experiments on
+0.1565162726	act as
+0.1563682448	non parallel training
+0.1556890346	much higher
+0.1553530028	tens of
+0.1551850563	an iterative
+0.1550991055	the fly
+0.1549140324	computation time
+0.1548947265	a deep learning model
+0.1545459267	to learn
+0.1545340653	comparison between
+0.1544470453	emerged as
+0.1544315617	many to many
+0.1540796093	the short time fourier transform
+0.1540288928	converted into
+0.1538117933	concerned with
+0.1535198721	in addition
+0.1534909760	the knowledge of
+0.1534309470	modeled by
+0.1533646977	easy to
+0.1533232358	indistinguishable from
+0.1531325422	hours of
+0.1531249676	two main
+0.1529566312	time difference
+0.1527092832	networks for music
+0.1526361406	corrupted by
+0.1524909760	the magnitude of
+0.1523243093	the duration of
+0.1521421528	not only
+0.1520544713	unsupervised domain
+0.1519684882	task 5
+0.1516426226	an adaptive
+0.1516100236	the network to
+0.1515119778	small amount of
+0.1514909760	the present work
+0.1514261633	deal with
+0.1512909992	more and more
+0.1511490375	relative improvement in
+0.1508856182	neural text to
+0.1507256904	trained end to end
+0.1506848121	based on deep neural networks
+0.1506408078	this issue
+0.1506306947	more realistic
+0.1506100236	the phase of
+0.1505172277	a semi supervised
+0.1504909760	the design and
+0.1504891310	correlated with
+0.1503243093	the identification of
+0.1501888776	source separation using
+0.1501701602	self training
+0.1500973459	conventional speech
+0.1500405421	between training and
+0.1499909760	the separation of
+0.1499909760	the sound of
+0.1499713171	relied on
+0.1499630152	a deep learning based
+0.1494909760	the intelligibility of
+0.1494120909	the ground truth
+0.1493860356	interactions between
+0.1490361229	recognition methods
+0.1490181351	to train
+0.1489909760	in parallel with
+0.1488282003	more efficient
+0.1487810762	in terms of
+0.1487204435	efficient way
+0.1486920803	considered as
+0.1486100236	the size of
+0.1484909760	the user to
+0.1484348648	word detection
+0.1484298966	noise robustness of
+0.1482894005	source separation via
+0.1480449338	provided by
+0.1480191851	time steps
+0.1480020808	important role in
+0.1479652511	achieved by
+0.1476982832	in noisy environments
+0.1476100236	the model to
+0.1474623085	quality speech
+0.1473888370	different domains
+0.1473243093	the naturalness of
+0.1472255469	a neural network
+0.1471150801	evaluated on
+0.1470405421	of speakers in
+0.1470354352	still challenging
+0.1469891991	single network
+0.1466100236	the domain of
+0.1464909760	the modeling of
+0.1463243093	the benefit of
+0.1462911234	a priori
+0.1462781416	time step
+0.1462129322	speaker verification using
+0.1461552527	use case
+0.1458852849	the value of
+0.1456100236	the recognition of
+0.1456100236	the issue of
+0.1455213997	an alternative
+0.1455120266	set of acoustic
+0.1454909760	a technique to
+0.1453243093	the spectrogram of
+0.1453243093	the focus of
+0.1453243093	the power of
+0.1451779500	determined by
+0.1450519516	the system to
+0.1450241737	a single
+0.1449888430	end to end deep
+0.1447995876	access to
+0.1446100236	the prediction of
+0.1446100236	the voice of
+0.1446100236	the training of
+0.1445673380	word error rate by
+0.1444366344	based beamformer
+0.1443908162	this work proposes
+0.1443849678	joint optimization of
+0.1443666735	approach based
+0.1441079612	both training and
+0.1439909760	the space of
+0.1436100236	a sequence of
+0.1436100236	the style of
+0.1436076426	of research in
+0.1434526604	based end to end speech
+0.1432018641	coupled with
+0.1431698128	equipped with
+0.1429518129	interested in
+0.1427815879	impact on
+0.1426591200	the cocktail party problem
+0.1426100236	the length of
+0.1426100236	the extraction of
+0.1425885666	difficult to
+0.1423279588	collected from
+0.1423243093	the model on
+0.1421709992	the help of
+0.1421578929	adoption of
+0.1419909760	a model of
+0.1417392090	very large
+0.1416100236	the level of
+0.1414325293	cope with
+0.1414117758	makes use of
+0.1413573445	three main
+0.1409003119	loss functions for
+0.1407145880	recognition experiments
+0.1407025005	directly from
+0.1406100236	the study of
+0.1406100236	the cost of
+0.1405446320	for audio classification
+0.1402649827	to solve
+0.1400231085	significantly less
+0.1399897630	recognition based
+0.1399180538	audio style
+0.1398600236	the framework of
+0.1396100236	the objective of
+0.1396100236	the process of
+0.1396100236	a database of
+0.1396100236	the design of
+0.1396100236	a function of
+0.1396100236	the generation of
+0.1396100236	the detection of
+0.1395813985	per second
+0.1395265585	able to generate
+0.1394909760	for classification of
+0.1393462314	based speaker
+0.1393428669	led to
+0.1392276328	further investigation
+0.1392007221	speech enhancement based on
+0.1391585556	an essential
+0.1391440040	hundreds of
+0.1390287464	refers to
+0.1387556147	neural networks for speech
+0.1386100236	a method of
+0.1386100236	the result of
+0.1386100236	a dataset of
+0.1382409760	in response to
+0.1381450055	types of
+0.1381259597	large scale speech
+0.1379293813	with respect to
+0.1378600236	a class of
+0.1378509439	good quality
+0.1376202338	recognition system
+0.1374909760	a factor of
+0.1374838593	this letter
+0.1372716992	compared to previous
+0.1370496777	suitable for
+0.1368923986	much faster
+0.1367227968	most effective
+0.1366178016	and classification of
+0.1366100236	a method to
+0.1365894187	set of
+0.1365743093	a result of
+0.1365106405	much more
+0.1365088520	advances in deep
+0.1363180995	three tasks
+0.1362238184	proposed end to end
+0.1361858199	representation of speech
+0.1361194404	generalize well to
+0.1358025174	to address
+0.1357941490	applicable to
+0.1356683558	by introducing
+0.1356593740	end to end audio
+0.1355359350	art performance on
+0.1348566210	speech conversion
+0.1347677605	to overcome
+0.1347434086	gains over
+0.1347176570	long audio
+0.1346733296	contained in
+0.1346100236	a corpus of
+0.1345711739	of arrival estimation
+0.1345521441	\ pm
+0.1345073162	amount of training data
+0.1339392084	proposed system
+0.1336206992	to generate
+0.1336119303	classification system
+0.1335822950	a case study
+0.1331658560	the target speaker
+0.1329939607	to date
+0.1329360675	on device
+0.1328784363	prone to
+0.1325161918	generation model
+0.1322027205	combined with
+0.1321817803	tested on
+0.1321709992	for use in
+0.1320290881	based on deep neural
+0.1320007306	an effective
+0.1317677605	to tackle
+0.1316626167	for text independent speaker verification
+0.1314947943	attributed to
+0.1314539601	vulnerable to
+0.1311951911	millions of
+0.1311770495	an acoustic model
+0.1309835333	network to learn
+0.1308498143	this work presents
+0.1306885754	refer to
+0.1305821441	more flexible
+0.1305407753	the other hand
+0.1304997818	more discriminative
+0.1304363049	interacting with
+0.1302216196	variety of
+0.1301947541	bag of
+0.1301842610	performance on
+0.1300813324	2d cnn
+0.1299294446	conversion system
+0.1298795297	this task
+0.1295946866	the original
+0.1295379200	the shelf
+0.1293079809	in many cases
+0.1291676478	improved speech
+0.1289260311	by minimizing
+0.1287954636	to predict
+0.1286119140	networks for audio
+0.1278179102	unable to
+0.1277323989	replaced by
+0.1276550727	an extensive
+0.1276438620	system achieves
+0.1275983471	environments based on
+0.1275603675	the audio signal
+0.1275139396	an additional
+0.1273151605	to extract
+0.1272785163	emergence of
+0.1269654974	properties of
+0.1269616481	role in
+0.1268727541	conducted on
+0.1268004561	very little
+0.1265913482	neural network acoustic
+0.1264305268	better performance than
+0.1264163079	captured by
+0.1261845950	related to
+0.1261050651	end training
+0.1259804453	to create
+0.1259572212	kinds of
+0.1255513172	task 3
+0.1254447146	applications such as
+0.1253151605	to obtain
+0.1252946248	model for music
+0.1252782125	extracted by
+0.1251692607	sound event detection with
+0.1251423001	used to train
+0.1248753612	to perform
+0.1246891846	source speech
+0.1246073489	better performance
+0.1245888618	an utterance level
+0.1242360795	each source
+0.1242169828	word error rate of
+0.1241626614	built on
+0.1241087271	the training process
+0.1239964557	by adding
+0.1237240350	to enhance
+0.1237176389	interaction between
+0.1236760142	an interactive
+0.1236629171	model to generate
+0.1234369260	shown to
+0.1233938600	modeled as
+0.1233716885	two step
+0.1232660123	not seen during
+0.1229514072	this approach
+0.1228886014	very simple
+0.1228637441	the input signal
+0.1226434167	used to generate
+0.1226268481	version of
+0.1225720643	trained with
+0.1225242487	to determine
+0.1223940909	able to achieve
+0.1223304434	learning architecture
+0.1221877445	supported by
+0.1219959425	more than
+0.1219620147	by applying
+0.1218502509	simple yet
+0.1218230548	used to build
+0.1216643652	to avoid
+0.1215826672	model to learn
+0.1215030685	estimation using
+0.1211863750	very limited
+0.1211380671	mapped to
+0.1211177220	comprised of
+0.1210263331	the same
+0.1209439363	to build
+0.1206014660	a strong baseline
+0.1204899494	method based
+0.1204289969	well trained
+0.1203301453	learning audio
+0.1202812563	achieves better
+0.1202320756	lies in
+0.1201457535	methods in terms
+0.1201077259	speech recognition with
+0.1199548042	to detect
+0.1198141415	a novel
+0.1197586060	from youtube
+0.1197240350	to identify
+0.1196701749	classification using
+0.1195802912	test clean and
+0.1195309857	the art approaches
+0.1192126975	far field speech
+0.1191751602	not always
+0.1191675899	the last few
+0.1191644654	the training set
+0.1191333424	to produce
+0.1190844588	a feed forward
+0.1189859920	even if
+0.1188997803	comparative study of
+0.1188289528	perform better
+0.1187238859	each frame
+0.1187103706	appears to
+0.1182949904	this purpose
+0.1182446570	obtained through
+0.1181728442	best knowledge
+0.1181333424	to reduce
+0.1179811045	time warping
+0.1178959530	network to predict
+0.1178685172	the speech signal
+0.1176310400	the equal error rate
+0.1173752050	from multiple speakers
+0.1171767596	features from
+0.1171391460	emotion recognition from
+0.1170565382	speech enhancement based
+0.1168171861	comparable to
+0.1167746187	transfer learning from
+0.1165410713	to image translation
+0.1162317239	feasibility of
+0.1160988983	but also
+0.1158876176	a recurrent neural network
+0.1154518925	not yet
+0.1154484173	on line
+0.1152757092	a pre trained
+0.1150014287	detection using
+0.1146842644	composed of
+0.1146243686	generate more
+0.1143684943	a low dimensional
+0.1142528294	side information
+0.1139744164	a challenging problem
+0.1138369478	look at
+0.1135919806	by exploiting
+0.1134609911	a single neural network
+0.1134222658	at test time
+0.1134152724	found data
+0.1133721068	the target speaker's
+0.1130049959	able to reduce
+0.1128091007	as good as
+0.1127806598	identification system
+0.1127066723	information from
+0.1125338033	different temporal
+0.1125158093	for music source separation
+0.1125153648	to estimate
+0.1123673863	a convolutional recurrent neural network
+0.1121604553	fraction of
+0.1119515003	to compensate
+0.1119478087	fail to
+0.1117527270	able to learn
+0.1117458085	used to compute
+0.1116578279	generation based
+0.1113771353	sound event localization and
+0.1113676956	kind of
+0.1112524608	without relying on
+0.1111316751	by combining
+0.1107855224	the research community
+0.1106474994	two parts
+0.1104754742	a preliminary
+0.1100357879	generalize well
+0.1100310994	nature of
+0.1100011859	an unsupervised
+0.1099133805	by human listeners
+0.1096508599	to minimize
+0.1096054078	availability of
+0.1095164414	achieve better
+0.1092480420	more than one
+0.1091906796	self attention based
+0.1091184025	the vocal tract
+0.1090135226	as much as
+0.1089436338	to classify
+0.1086618327	each utterance
+0.1084767421	both objective and subjective
+0.1083808212	separation using
+0.1083468863	parts of
+0.1081313403	for text independent speaker
+0.1079729658	a multi task learning
+0.1079677021	the art models
+0.1078898802	the teacher student
+0.1078437836	to recognize
+0.1078178957	all pass
+0.1077942127	non parallel voice
+0.1073658219	trained language
+0.1073599988	previous state of
+0.1071733444	representation of
+0.1070796596	starting from
+0.1069408111	time scales
+0.1069273661	to further improve
+0.1067233574	space using
+0.1065541382	achieved state of
+0.1063754377	effectiveness of
+0.1062490750	learned from
+0.1061299941	to ensure
+0.1060181280	the cocktail party
+0.1060110371	different types of
+0.1059905133	the main
+0.1059778053	generation using
+0.1053792152	a single model
+0.1053456904	advantages of
+0.1052619620	models trained with
+0.1051678766	environment using
+0.1050741109	along with
+0.1050326606	deep neural networks for
+0.1050068352	fails to
+0.1048922046	mismatch between training and
+0.1047690871	so as to
+0.1047331927	sequence to sequence speech
+0.1047285072	the latent variables
+0.1043394276	network models
+0.1043334137	competitive performance on
+0.1043113066	to achieve
+0.1042317880	techniques based on
+0.1038891580	aim to
+0.1038450257	se system
+0.1037787529	for audio source separation
+0.1036140831	improvement in
+0.1035636023	recognition using
+0.1033135451	model based on
+0.1032123315	show promising results
+0.1030297636	an auxiliary
+0.1030026035	range of
+0.1029926452	different speakers
+0.1029446018	in music information retrieval
+0.1029009301	different languages
+0.1028416403	identification using
+0.1028172616	approach based on
+0.1027544105	interact with
+0.1027479794	an attacker
+0.1026441499	to compute
+0.1022699130	the word error rate
+0.1017935910	a simple
+0.1016658822	a wide range of
+0.1015862838	a microphone array
+0.1015155766	similar to
+0.1015109915	different ways
+0.1013920127	make use of
+0.1013149561	to noise ratio
+0.1011534320	test time
+0.1011004537	number of training
+0.1010792130	characteristics of
+0.1010191947	combination of
+0.1007513801	on par with
+0.1007449193	2020 challenge
+0.1006458241	the training data
+0.1006300126	each other
+0.1004252756	end to end multi
+0.1004167764	by proposing
+0.1003744102	for automatic speaker verification
+0.1002216416	collection of
+0.0997777384	designed to
+0.0996836848	to facilitate
+0.0995861621	synthesis system
+0.0994481653	for end to end speech
+0.0994195841	by means of
+0.0993780380	in emotional talking
+0.0992928407	for single channel speech
+0.0989792690	a low resource
+0.0988565510	work focuses on
+0.0986043254	a generative adversarial network
+0.0985133227	domain speaker
+0.0983994897	most existing
+0.0982792155	a variety of
+0.0980756180	new musical
+0.0980716754	apart from
+0.0978602248	for text dependent speaker
+0.0978496848	challenge 2018
+0.0975967665	definition of
+0.0975438583	by incorporating
+0.0969689085	acoustic word
+0.0969091195	set of experiments
+0.0968377253	used to estimate
+0.0968342097	a variational autoencoder
+0.0967835911	existing audio
+0.0966618070	by comparing
+0.0966480351	different channels
+0.0965363599	while achieving
+0.0964285188	an utterance
+0.0964075780	the computational cost
+0.0963443421	sub network
+0.0962097693	to deal with
+0.0961573360	self supervised audio
+0.0958406232	aspects of
+0.0958088684	to do so
+0.0954523194	to reconstruct
+0.0947741705	neural networks for
+0.0947624124	for distant speech
+0.0946003974	generated using
+0.0945825367	a transformer based
+0.0945741193	domain adaptation for
+0.0945622637	real time speech
+0.0945600661	a convolutional recurrent neural
+0.0944016157	models based on
+0.0943484898	over time
+0.0938556542	two steps
+0.0938166354	the art deep learning
+0.0935438583	by leveraging
+0.0934953825	to capture
+0.0934711736	network training
+0.0933134298	error rate by
+0.0932615943	the reconstruction error
+0.0932456913	challenging due to
+0.0931408789	approaches based on
+0.0929629398	method for speech
+0.0927047977	time frame
+0.0926948323	other domains
+0.0926447866	the context of
+0.0926375963	of arrival
+0.0925482738	compared to conventional
+0.0925115727	sound event detection in
+0.0924963990	error rate on
+0.0923079609	by employing
+0.0922851284	results on
+0.0922247979	source separation with
+0.0922090545	human like
+0.0921433686	a deep
+0.0919892448	to convert
+0.0919155363	to alleviate
+0.0915351046	many applications
+0.0915062189	to handle
+0.0914973618	performs better
+0.0914561435	human perception of
+0.0914408452	sensitive to
+0.0913836036	present study
+0.0912539283	new method
+0.0912036475	approach to
+0.0910899739	ability to
+0.0910750434	carried out using
+0.0910395368	text to speech system
+0.0909480664	a survey
+0.0906843581	propose to train
+0.0905550921	type of
+0.0905129783	for text dependent
+0.0904791084	an input
+0.0904031940	the art performance on
+0.0903639982	to remove
+0.0903589603	attempted to
+0.0903061359	attention mechanism to
+0.0901733444	analysis of
+0.0901553869	a two stage
+0.0901548532	time domain audio
+0.0901479705	to assess
+0.0901280581	more difficult
+0.0900365570	a wide range
+0.0899274359	auditory system
+0.0899257197	asv system
+0.0898972264	on top of
+0.0897325123	operate on
+0.0894761312	emphasis on
+0.0894410997	the target
+0.0893379171	based approach to
+0.0893080370	available at
+0.0892554967	unknown number of
+0.0891040950	voices from
+0.0890948693	the performance of
+0.0890386076	as opposed to
+0.0889638495	event detection using
+0.0887885931	more general
+0.0887631564	a dual
+0.0886854714	very short
+0.0886069997	more natural
+0.0885813127	by adopting
+0.0885232628	tool for
+0.0884379415	learning framework for
+0.0884254595	associated with
+0.0883251396	a series of
+0.0882419766	successfully used
+0.0880386144	a sound event detection
+0.0879906780	at inference time
+0.0879798561	best performance
+0.0879523003	convolutional neural networks for
+0.0878531261	new speakers
+0.0876121030	computer interaction
+0.0874973511	an arbitrary
+0.0874626480	in conjunction with
+0.0873607279	time aligned
+0.0873246837	various types of
+0.0872753194	in contrast to
+0.0871874705	at hand
+0.0871454064	to enable
+0.0870820153	consists of three
+0.0868654845	art results in
+0.0868268789	outperforms state of
+0.0868045032	pre trained on
+0.0867718293	performance of
+0.0866584860	optimized by
+0.0866069714	neural network for
+0.0863639982	to infer
+0.0862986327	the effectiveness of
+0.0862977661	levels of
+0.0862871399	used as
+0.0862825440	for speech enhancement
+0.0861985601	an optimal
+0.0861945502	two types of
+0.0861872760	as well
+0.0860857523	dataset contains
+0.0859741449	fed to
+0.0859521981	without parallel
+0.0858433997	an audio
+0.0857769247	a frame level
+0.0856985868	model consists of
+0.0855505834	measured by
+0.0853958242	a large
+0.0853445812	the development set
+0.0851493719	generative model for
+0.0850708529	an overview
+0.0849087469	for text independent
+0.0848871084	using eeg
+0.0848535027	tasks such as
+0.0848197638	a wide variety of
+0.0847461863	segments from
+0.0847307537	for robust speech
+0.0845890362	generative models for
+0.0844571777	decoder models
+0.0844225688	bottleneck features for
+0.0843391094	x vector system
+0.0843322672	the receptive field
+0.0843265326	assumed to
+0.0840128388	this work aims
+0.0839663304	algorithm based on
+0.0839573273	framework based on
+0.0838455017	the art results on
+0.0837986327	a set of
+0.0834731171	much attention
+0.0833944215	to maximize
+0.0832986327	the problem of
+0.0831416198	two sets of
+0.0830777963	submitted to
+0.0829957455	a multi modal
+0.0829372234	model for
+0.0829199007	model trained with
+0.0828574578	the use of
+0.0827283901	to understand
+0.0827195841	a small number of
+0.0827034253	the baseline
+0.0826533730	the microphone array
+0.0825146278	performance than
+0.0824380989	recurrent neural network for
+0.0823753388	prior knowledge of
+0.0822433109	of sheet music
+0.0822140886	for speaker verification
+0.0821786661	a single microphone
+0.0821415085	very deep
+0.0819012928	limited number of
+0.0817342970	the state of
+0.0817190035	accuracy of
+0.0815438408	any additional
+0.0814735626	an automatic speech recognition
+0.0814486327	the effect of
+0.0814319122	the time frequency domain
+0.0810376228	relative improvement of
+0.0810350526	generalize to
+0.0810139293	run on
+0.0809995945	a latent space
+0.0809191342	performed on
+0.0809092394	a unified
+0.0809043395	addressed by
+0.0807978162	an average
+0.0804990085	loss function for
+0.0804354037	amount of
+0.0803931111	each layer
+0.0803217108	\ beta
+0.0802900994	subset of
+0.0802266355	taking into
+0.0801472491	used to extract
+0.0801214884	most cases
+0.0800975580	terms of
+0.0800825274	further reduce
+0.0799899986	used to enhance
+0.0797407258	an empirical
+0.0794817810	proposed method with
+0.0793573698	created by
+0.0792632987	results compared to
+0.0792233423	a significant improvement
+0.0791107639	work proposes
+0.0790587425	outperforms other
+0.0790452072	localization based
+0.0789254602	method for
+0.0787311117	a long short term
+0.0787138106	tends to
+0.0785464411	the target domain
+0.0784949876	knowledge from
+0.0784620218	text to
+0.0784486327	the quality of
+0.0784017906	a long short
+0.0783774010	lack of
+0.0783088243	to map
+0.0782963254	attention mechanism for
+0.0781939884	suited for
+0.0780851163	a deep neural
+0.0780695866	combinations of
+0.0780244472	the art speech recognition
+0.0780209239	a deep convolutional neural
+0.0780140138	submission to
+0.0780052247	a new
+0.0779956200	temporal structure of
+0.0779866652	proven to
+0.0779439456	description of
+0.0778631489	the task of
+0.0778355169	assigned to
+0.0777438617	used to
+0.0777264236	transfer learning for
+0.0777148753	acoustic modeling for
+0.0776699658	instead of
+0.0775273217	utilization of
+0.0774486327	the impact of
+0.0773521909	effects of
+0.0773383124	error rate of
+0.0772510032	at https
+0.0771791204	unsupervised learning of
+0.0770645509	a word error rate
+0.0768518323	the fundamental frequency
+0.0768325531	adversarial training for
+0.0768304040	perceptual quality of
+0.0766145525	frequency representation of
+0.0765767760	different parts
+0.0764673585	the raw waveform
+0.0764194970	the art systems
+0.0764176573	adapt to
+0.0763285218	first step
+0.0762271248	a cross modal
+0.0761695315	occur in
+0.0760939763	equivalent to
+0.0760656002	to unseen speakers
+0.0760531298	sequence into
+0.0759730868	for music source
+0.0759583541	a convolutional
+0.0758960189	in order to improve
+0.0756883505	recordings from
+0.0756859111	novel architecture
+0.0756507856	novel approach
+0.0755213777	the presence of noise
+0.0754122119	to mitigate
+0.0753514023	a lot of
+0.0752862507	in comparison to
+0.0750803436	respect to
+0.0749916995	detection system
+0.0749757530	acoustic models for
+0.0749370429	used for
+0.0749017398	the art algorithms
+0.0748883151	a small
+0.0748830723	a single neural
+0.0748374326	based language
+0.0748301923	used to evaluate
+0.0746853501	small number of
+0.0745396993	systems based on
+0.0744883492	query by
+0.0744773178	the baseline model
+0.0743924347	a generative model
+0.0743257269	estimation of
+0.0739101679	the purpose of
+0.0737561165	evaluation of
+0.0737193409	synthesis using
+0.0736579621	an external
+0.0736552799	validated on
+0.0734595659	the frame level
+0.0733150344	speech enhancement with
+0.0733054930	by utilizing
+0.0731034031	benefits of
+0.0728067163	an unknown number of
+0.0727670261	resulting in
+0.0727664574	vc system
+0.0726929291	the input
+0.0726303368	signal to
+0.0726262961	the target source
+0.0725500007	of acoustic scenes and events
+0.0724153038	proposed attention
+0.0723824089	the final
+0.0723650463	vector system
+0.0721245242	better understanding of
+0.0720631356	adapted to
+0.0720410253	to adapt
+0.0718966181	an accuracy of
+0.0716994351	a machine learning
+0.0715918094	an audio visual
+0.0713385931	more challenging
+0.0712884927	features such as
+0.0710920707	music based on
+0.0710861516	dependent on
+0.0709091441	in music information
+0.0707404632	the art deep
+0.0707384768	to assist
+0.0707053165	small amount
+0.0706834637	the latent space
+0.0706684964	the second one
+0.0706633295	the art method
+0.0705875189	solely on
+0.0703750499	versions of
+0.0703070401	framework for
+0.0702015083	two major
+0.0701772402	the input features
+0.0701500472	novel deep learning
+0.0700357510	to evaluate
+0.0699930186	across different
+0.0697086148	variants of
+0.0695969182	this project
+0.0695591456	an end to end neural
+0.0694906192	supervised models
+0.0694300675	perceptual evaluation of
+0.0693043054	construction of
+0.0692904158	2019 challenge
+0.0692737045	family of
+0.0692512283	a convolutional neural
+0.0691155678	performed by
+0.0690970341	first layer
+0.0689956227	data augmentation for
+0.0689209828	the target language
+0.0688990780	an appropriate
+0.0688720400	encountered in
+0.0688602372	three different
+0.0687835499	together with
+0.0687522407	obtained using
+0.0687522354	learned by
+0.0687448104	based embedding
+0.0686264626	the fact
+0.0686249568	exploration of
+0.0685821674	regardless of
+0.0685081876	designed for
+0.0684559320	representation learning for
+0.0684475227	a large number
+0.0683779090	a large dataset
+0.0683774010	presence of
+0.0682880370	acoustic model with
+0.0682751168	samples at
+0.0682566897	a comparative
+0.0681131648	assessment of
+0.0681131489	the goal of
+0.0680948693	the presence of
+0.0680388288	a fast
+0.0679857087	non target
+0.0679399372	the two modalities
+0.0679094948	methods based on
+0.0678929633	scenario with
+0.0678828435	the aforementioned
+0.0678546163	for music generation
+0.0678505087	an active
+0.0678314061	\ relative
+0.0678179449	a novel technique
+0.0677697561	applications like
+0.0677260189	the converted speech
+0.0677131570	the experimental results
+0.0676272354	generated from
+0.0672522829	to leverage
+0.0671681284	for noise robust
+0.0671441833	a loss function
+0.0671361887	an intuitive
+0.0669118018	many to many voice
+0.0668427916	on average
+0.0667781437	based encoder
+0.0666125713	a large set of
+0.0666064306	acoustic model for
+0.0664689444	operating on
+0.0664287810	each component
+0.0664029061	metric learning for
+0.0663578446	in particular
+0.0663295278	an entire
+0.0662979321	classification based on
+0.0662813030	novel feature
+0.0662304959	to preserve
+0.0662131489	the field of
+0.0662057137	defined as
+0.0660563433	an interesting
+0.0659692637	approach for
+0.0658055508	widely used in
+0.0657031386	validated by
+0.0656782732	an online
+0.0656677780	in combination with
+0.0656234187	supervised learning for
+0.0655608983	an estimate of
+0.0654617939	for example
+0.0653249386	an early
+0.0652907155	short speech
+0.0650983926	developed by
+0.0649008633	speech synthesis with
+0.0647199234	the speaker identity
+0.0646610034	occurrence of
+0.0645608948	performance of speaker
+0.0645417414	proposed method on
+0.0644990389	to increase
+0.0644668189	a few
+0.0643925707	the art speaker
+0.0643297094	implementation of
+0.0643053281	a shared
+0.0642819019	a novel method
+0.0642722284	decoder model
+0.0641787674	able to improve
+0.0640514821	a limited number of
+0.0640087850	amount of data
+0.0639762266	processed by
+0.0639618443	other hand
+0.0639475357	to extract features
+0.0638723644	and speaker similarity
+0.0638513411	deep learning for
+0.0637353017	transcription system
+0.0637262938	portion of
+0.0636706315	the possibility
+0.0636607136	learning method for
+0.0636524286	mapping from
+0.0636112745	developments in
+0.0635972563	development of
+0.0635207934	a significant
+0.0635032387	made available
+0.0634225364	recurrent neural network to
+0.0634170940	relevant to
+0.0634091095	verification using
+0.0634001397	the art audio
+0.0633148563	the recognition accuracy
+0.0631831475	identification performance in
+0.0631615360	the development of
+0.0631576477	the art approach
+0.0631008397	a multi label
+0.0630427384	to establish
+0.0630286144	the input text
+0.0629805312	two aspects
+0.0629249695	time domain speech
+0.0629138083	yields better
+0.0628966181	the efficacy of
+0.0628544768	previous work on
+0.0628379046	the art techniques
+0.0627969015	a two step
+0.0627271381	a multi speaker
+0.0626603237	signals into
+0.0626481896	the sound field
+0.0625855227	by analyzing
+0.0624319244	majority of
+0.0623695067	than others
+0.0623553344	the number of
+0.0623362268	a common
+0.0623043461	effect on
+0.0622426820	the art model
+0.0619491218	the evaluation set
+0.0619326208	the input speech
+0.0617296294	used for training
+0.0617270652	the student model
+0.0616638600	an alignment
+0.0616629049	limited amount
+0.0616533254	for on device
+0.0615156484	fusion with
+0.0614305144	to account for
+0.0613765430	very challenging
+0.0613690316	invariant to
+0.0613451064	network architecture for
+0.0613171795	a high level
+0.0613052632	able to perform
+0.0612615360	the robustness of
+0.0612548861	score of
+0.0612043104	the aim of
+0.0611824051	three types of
+0.0611548582	two components
+0.0611030238	by augmenting
+0.0610510985	two separate
+0.0610220011	a number of
+0.0609689386	localization using
+0.0609303575	used in
+0.0608358345	to combine
+0.0605453845	the asvspoof 2019
+0.0604555867	notion of
+0.0604282026	the lack of
+0.0604042576	other methods
+0.0603819661	the potential of
+0.0603646428	the enhanced speech
+0.0602152994	the basis of
+0.0601394119	as part of
+0.0601032875	eer on
+0.0600979136	success in
+0.0600689506	the input audio
+0.0600527953	a large number of
+0.0600205602	two speakers
+0.0599446180	classification accuracy of
+0.0599017231	spoken by
+0.0598455028	known as
+0.0596010275	an automatic speech
+0.0595299047	the human auditory
+0.0595156484	decoding with
+0.0593146488	to fill
+0.0592864846	two different
+0.0592253496	by integrating
+0.0590614533	the role of
+0.0590586882	from raw
+0.0590076208	the teacher model
+0.0589778767	to get
+0.0589626511	by taking
+0.0589493705	a single channel
+0.0588684693	a speaker embedding
+0.0588679170	in isolation
+0.0588573970	contributes to
+0.0587471369	the original speech
+0.0586971664	an attention
+0.0586615360	the output of
+0.0585285996	first stage
+0.0584602583	other languages
+0.0584589980	for model training
+0.0584446016	tasks like
+0.0583749528	the art speech
+0.0582616365	on two datasets
+0.0582405193	the timit dataset
+0.0582164879	par with
+0.0581463728	a recurrent neural
+0.0581136123	to optimize
+0.0580936691	improvement compared to
+0.0579443341	search for
+0.0579433542	in addition to
+0.0579068632	minutes of
+0.0578181826	the current state
+0.0576219485	reduction on
+0.0575542464	to mimic
+0.0575095481	the trained model
+0.0574959263	the baseline systems
+0.0574951502	line of
+0.0573577399	an open
+0.0573351710	robust to
+0.0573166738	introduced by
+0.0572990203	systems without
+0.0572876351	the art neural
+0.0570671858	in contrast
+0.0570633831	based approach for
+0.0570628132	superior to
+0.0570348734	by optimizing
+0.0570209590	improvement of
+0.0570118218	across multiple
+0.0569990451	evaluations show
+0.0569939069	the separation performance
+0.0568861286	a large amount of
+0.0568682554	the baseline system
+0.0568672536	different levels of
+0.0568541264	implemented by
+0.0567910597	to compose
+0.0567475506	variations in
+0.0567194736	an explicit
+0.0566387052	the source code
+0.0566117753	to cope
+0.0566015083	different modalities
+0.0565109240	information between
+0.0564837381	a novel approach
+0.0564766181	the first
+0.0564565727	available datasets
+0.0564492328	to speech synthesis
+0.0564062758	audio only
+0.0563883091	to represent
+0.0563641228	heavily on
+0.0562774511	in fact
+0.0558131990	the performance
+0.0557681956	not available
+0.0557520575	wer on
+0.0556946928	the t f
+0.0555731127	2018 task
+0.0555454990	the art asr
+0.0555259108	evolution of
+0.0554239370	reduction of
+0.0553350790	well as
+0.0552936653	for speech emotion
+0.0552879155	essential to
+0.0552196575	to face
+0.0552152994	the influence of
+0.0551781742	presented in
+0.0550907929	the time domain
+0.0548239062	performance based on
+0.0547509225	investigation of
+0.0547054636	the ability to
+0.0547034566	different musical
+0.0546300429	benefits from
+0.0545252623	an overview of
+0.0544249864	a complete
+0.0543478310	ensemble of
+0.0543297945	large amount
+0.0542691943	evaluated with
+0.0542118265	the art baseline
+0.0541780349	quality than
+0.0541296100	the objective function
+0.0541290739	analysis using
+0.0541272549	real time on
+0.0541258251	a consequence
+0.0540992623	a convolutional recurrent
+0.0540609637	approach for speech
+0.0539580236	improved by
+0.0539380530	2017 challenge
+0.0539326208	the model performance
+0.0539241350	overview of
+0.0539204432	required for
+0.0538751696	sampled from
+0.0538490587	for end to end speech recognition
+0.0537496659	investigation on
+0.0537276142	layer with
+0.0536708594	events from
+0.0536674118	constraints on
+0.0536326582	degrees of
+0.0536074790	five different
+0.0535973918	calculated from
+0.0535941247	characterization of
+0.0535728139	aspect of
+0.0535459164	advantage of
+0.0534607406	the same time
+0.0534601163	the conventional methods
+0.0533738871	an f1 score of
+0.0533669303	used to learn
+0.0532542269	an f1
+0.0532486508	a speaker independent
+0.0532357833	reduction over
+0.0531681838	sum of
+0.0531386849	the entire
+0.0530279020	a posteriori
+0.0530239204	information at
+0.0529637402	further improvement
+0.0528815107	the author
+0.0528660059	dataset show
+0.0528448652	measurement of
+0.0527506094	problem of
+0.0525587681	novel multi
+0.0525552972	to apply
+0.0525540723	by using
+0.0525301922	time frequency representation of
+0.0524949111	new approach
+0.0524821105	new feature
+0.0524227379	diagnosis of
+0.0523619942	collections of
+0.0523362866	tasks show
+0.0523350245	a transfer learning
+0.0523124884	comes from
+0.0522382771	an end to end speech
+0.0522152994	the importance of
+0.0522045070	integrated with
+0.0522037096	further improvements
+0.0521307166	a major
+0.0520290739	enhancement using
+0.0518770420	want to
+0.0517994240	experiment with
+0.0517304844	this report
+0.0517302884	topic of
+0.0516688572	compared to state of
+0.0516600923	absence of
+0.0516327898	level speech
+0.0515099085	the target speech
+0.0514645985	a group of
+0.0513509256	to deploy
+0.0512663865	long time
+0.0511880133	the first time
+0.0511433607	detection and classification of
+0.0511296720	other approaches
+0.0511215063	novel technique
+0.0510783053	an integrated
+0.0510522475	dynamic time
+0.0509282026	the case of
+0.0509139434	minimization of
+0.0508852889	to encode
+0.0508634013	in comparison with
+0.0508614904	second stage
+0.0508502734	two approaches
+0.0507091585	to augment
+0.0506729903	an encoder
+0.0505679588	improvement on
+0.0505493705	a high quality
+0.0505267207	by conditioning on
+0.0505225207	part of
+0.0505126644	a comprehensive
+0.0504971993	an array
+0.0504896553	an initial
+0.0504627494	but not
+0.0503727976	scarcity of
+0.0503700812	signal into
+0.0502615012	adopted as
+0.0501890640	a typical
+0.0501736141	novel method
+0.0501466792	a comparison of
+0.0501458267	to localize
+0.0500849447	estimated by
+0.0500620224	methods for
+0.0500496531	performance compared to
+0.0498598053	advances in
+0.0498122498	a single network
+0.0497510746	for developing
+0.0497472468	the concept of
+0.0497158679	an improvement of
+0.0496723544	the short time fourier
+0.0496420469	a lightweight
+0.0496366612	interpretation of
+0.0495738110	a method for
+0.0495466792	a range of
+0.0494441664	the generation process
+0.0493567554	a study of
+0.0493497561	sequence to
+0.0493332591	models do
+0.0493226121	operates on
+0.0493039009	an image
+0.0492746367	seen as
+0.0491365557	propose to
+0.0491165326	result on
+0.0490402423	the euclidean
+0.0490125265	an acoustic
+0.0489674279	the applicability of
+0.0489578535	a critical
+0.0487432228	to construct
+0.0487288843	to provide
+0.0487190524	four different
+0.0486933542	a combination of
+0.0485586942	to generate music
+0.0482712073	the wild
+0.0482510823	a song
+0.0482484512	choice of
+0.0481708628	a new method for
+0.0481054477	produce more
+0.0478372461	unseen during
+0.0478047767	outputs from
+0.0478024620	novel end to end
+0.0477751174	then applied
+0.0477472468	the possibility of
+0.0477241643	taken into
+0.0476390296	two key
+0.0476131786	different tasks
+0.0475929174	different aspects of
+0.0475731766	tools for
+0.0475108845	to develop
+0.0474523198	performance in
+0.0474225237	to reach
+0.0474049032	this goal
+0.0473757025	two modalities
+0.0473138239	first work
+0.0472999125	a novel multi
+0.0472416244	structure of
+0.0472003106	also explore
+0.0471657900	this observation
+0.0471572480	a state of
+0.0471228493	the recognition performance
+0.0471070773	to speech
+0.0470501523	to make
+0.0470366315	the input data
+0.0469674279	the success of
+0.0469259903	by providing
+0.0469239103	2016 challenge
+0.0469209964	the need for
+0.0468869697	network for
+0.0468187797	variant of
+0.0467781679	constructed by
+0.0467326047	different types
+0.0467315612	learning approach to
+0.0467094032	an analysis of
+0.0467019730	probability of
+0.0466607508	further propose
+0.0466429121	with respect
+0.0466069955	a multi task
+0.0465128568	all possible
+0.0465113225	a total of
+0.0465109658	the output
+0.0464633458	the relationship between
+0.0464576874	distribution of
+0.0464418713	a relative improvement of
+0.0464372855	noise at
+0.0463700553	learn from
+0.0463287362	geometry of
+0.0462958658	a deep convolutional
+0.0462209833	this research
+0.0461735916	under noisy
+0.0461302884	place of
+0.0461302884	coherence of
+0.0460711404	different techniques
+0.0460545051	different datasets
+0.0459074074	recorded in
+0.0458996494	a reference
+0.0458142042	work presents
+0.0458040984	the latter
+0.0456217317	other words
+0.0455775293	novel deep
+0.0455055861	strategy for
+0.0453757554	2018 challenge
+0.0453603855	complexity of
+0.0453314266	three datasets
+0.0453041852	new dataset
+0.0452897634	or even
+0.0452606600	baseline by
+0.0452092969	relative to
+0.0451085789	approximation of
+0.0450969798	of interest
+0.0450769902	hybrid system
+0.0450493429	to translate
+0.0450085997	to integrate
+0.0449517681	new architecture
+0.0449494216	not require
+0.0449070412	evaluations on
+0.0447902042	progress in
+0.0447803078	methods in terms of
+0.0447592614	task of
+0.0446890648	an end to end model
+0.0446867842	a broad
+0.0446769939	tests show
+0.0446456834	the first pass
+0.0445891316	system outperforms
+0.0445802909	an approach
+0.0445022669	the far field
+0.0444894705	spectrogram as
+0.0443801158	an intermediate
+0.0442997750	solutions for
+0.0441870645	same speaker
+0.0441838035	to extend
+0.0441779892	to listen to
+0.0441765454	intended to
+0.0441603312	text only
+0.0441546048	research on
+0.0441196173	measure of
+0.0440376917	defined by
+0.0439971220	and time consuming
+0.0439753802	the motivation
+0.0439519197	solution for
+0.0439454220	the model parameters
+0.0439450343	model with
+0.0439035435	a convex
+0.0438582321	a vocoder
+0.0438305801	a novel method for
+0.0437190680	this contribution
+0.0437019730	contribution of
+0.0437001928	extended to
+0.0436223084	a study on
+0.0436149333	computed from
+0.0435999169	various tasks
+0.0435995939	by more than
+0.0435450245	compensate for
+0.0435223630	after training
+0.0434720704	an important role in
+0.0434152580	come from
+0.0433731596	this area
+0.0433730706	with varying
+0.0433466614	the first stage
+0.0431425453	novel framework
+0.0429071443	the accuracy of
+0.0428254562	in practice
+0.0428195018	to operate
+0.0428183534	an improvement
+0.0428031811	to fool
+0.0427905320	directly on
+0.0427860490	field of
+0.0427272626	a hierarchical
+0.0427248367	two datasets
+0.0427207901	on par
+0.0426014848	optimized to
+0.0425777731	a strong
+0.0425738110	the form of
+0.0425664844	aimed to
+0.0425519900	obtained on
+0.0425471069	impact of
+0.0425103708	also includes
+0.0424881559	proved to
+0.0424580261	front end for
+0.0423570004	series of
+0.0423563426	widely used for
+0.0423186173	the number of speakers
+0.0422906434	many cases
+0.0422720169	different levels
+0.0422572616	obtained with
+0.0421990596	core of
+0.0421416691	sense of
+0.0421238833	method uses
+0.0420675207	end to end system
+0.0420598784	application of
+0.0420382607	a brief
+0.0420163176	by replacing
+0.0419326485	these two
+0.0418861970	to attend
+0.0418216141	comparing with
+0.0418119124	also investigate
+0.0417709735	best system
+0.0417227848	learns to
+0.0416950744	most relevant
+0.0416392685	to fuse
+0.0416005753	advancements in
+0.0415898717	a non autoregressive
+0.0415863679	to separate
+0.0415514845	a multilingual
+0.0415407291	a challenging
+0.0414814041	the superiority
+0.0414762130	a mixture
+0.0414701883	paper provides
+0.0414360835	a real time
+0.0413633867	to discriminate
+0.0412658814	while still
+0.0412568856	creation of
+0.0412264841	both visual
+0.0412214819	more effectively
+0.0412133458	the ability of
+0.0411882629	the presence or absence
+0.0411119502	different acoustic
+0.0410231679	a group
+0.0410028754	verification system
+0.0409251870	trained to
+0.0409199217	area of
+0.0409136450	the first step
+0.0408891627	a general
+0.0408754664	aim of
+0.0408720948	list of
+0.0408676515	by explicitly
+0.0408331334	to generalize
+0.0408267780	the performance of automatic
+0.0408190267	a cascade
+0.0407799167	patients with
+0.0407251411	accuracy compared to
+0.0406799835	existence of
+0.0406367057	done by
+0.0406300193	point of
+0.0406149002	a popular
+0.0406148034	the direction of arrival
+0.0406120435	strength of
+0.0405787208	expected to
+0.0405311114	studies on
+0.0405277709	numbers of
+0.0405255434	evaluated on two
+0.0404646363	this gap
+0.0404041350	in depth
+0.0403503211	other sources
+0.0402967928	an autoencoder
+0.0402697990	a special
+0.0402558656	an optimization
+0.0401799835	usefulness of
+0.0401640320	to synthesize
+0.0400664893	an extension
+0.0400543785	novel technique for
+0.0400224161	more suitable
+0.0400196740	extractor for
+0.0399505730	a comparison
+0.0399244028	in terms
+0.0398717293	a person
+0.0398360093	both objective
+0.0397960790	to guide
+0.0397917941	direct to
+0.0397884483	effective than
+0.0397499599	a key
+0.0396601141	to select
+0.0396148774	at inference
+0.0395724023	required to
+0.0395620257	a front end
+0.0395601894	an ensemble
+0.0395488319	attempts to
+0.0395312900	work aims
+0.0395301215	representations from
+0.0395265678	limitations of
+0.0395016554	a subset
+0.0394730288	with minimal
+0.0393523660	a new speaker
+0.0393439349	a new approach for
+0.0393041925	by performing
+0.0393039840	to utilize
+0.0392944318	an experiment
+0.0392653882	to support
+0.0392606553	a powerful
+0.0392216418	all neural
+0.0391782126	conducted with
+0.0391525383	result in
+0.0391471824	also present
+0.0391251005	to bridge
+0.0390902343	algorithm for
+0.0390273637	the potential
+0.0390128557	important for
+0.0389883867	to disentangle
+0.0389712998	different layers
+0.0389543521	the same speaker
+0.0388049323	the rise
+0.0386967109	to analyze
+0.0386877353	to collect
+0.0386694293	to use
+0.0386672183	make use
+0.0385722598	included in
+0.0385507612	the idea of
+0.0385205989	to speak
+0.0383707235	the x vector
+0.0383250811	needs to
+0.0382698478	to visualize
+0.0382596532	datasets show
+0.0382342200	property of
+0.0382220457	try to
+0.0381854605	defined in
+0.0381345557	an algorithm
+0.0381134492	an internal
+0.0380767825	a predefined
+0.0380687452	controlled by
+0.0380590319	added to
+0.0380532565	conversion using
+0.0380378449	a detailed
+0.0380217976	restricted to
+0.0379930689	an ensemble of
+0.0379834228	such as wavenet
+0.0379733582	better understanding
+0.0379331019	corpus for
+0.0379030024	a new approach to
+0.0378934178	this way
+0.0378366072	by maximizing
+0.0378288660	accuracy over
+0.0378155552	an estimate
+0.0377442021	possibility of
+0.0377009848	by reducing
+0.0376955298	corpus show
+0.0376379603	an accurate
+0.0375972443	to carry
+0.0375710266	for estimating
+0.0375666863	the application of
+0.0375565012	to employ
+0.0375412422	needed for
+0.0375217571	an extension of
+0.0374368498	the trade off between
+0.0374197436	gap by
+0.0374056602	orders of
+0.0373921303	reduction in
+0.0373869881	to encourage
+0.0373626575	for generating
+0.0373444870	applied on
+0.0373307359	to investigate
+0.0373168708	possibility to
+0.0372951596	such as mel
+0.0372663577	quality of
+0.0372652060	possible to
+0.0372642185	popularity of
+0.0372530933	annotation of
+0.0372335597	an application
+0.0372199543	crucial for
+0.0372164784	each sound
+0.0371772682	the difference in
+0.0371290068	also introduce
+0.0370412962	a self supervised
+0.0370214881	shape of
+0.0369979333	the second stage
+0.0369840413	for improving
+0.0369806679	the stability
+0.0369751005	to calculate
+0.0369718556	various types
+0.0369671290	samples from
+0.0369106236	to form
+0.0368526057	to exploit
+0.0368199941	to incorporate
+0.0368112412	demand for
+0.0367931146	to transcribe
+0.0367659425	represented in
+0.0367491241	simple but
+0.0367377226	a subset of
+0.0367282996	all three
+0.0367232058	also improves
+0.0366676123	a methodology
+0.0366646160	behavior of
+0.0365828053	interaction with
+0.0365468686	a robust
+0.0364844326	to play
+0.0363280307	trends in
+0.0363070824	achieved with
+0.0362895299	effective in
+0.0362278015	improvements in
+0.0361935636	validity of
+0.0361626621	to implement
+0.0361374713	by humans
+0.0361228774	given by
+0.0361013904	an analysis
+0.0360943089	trained using
+0.0360454082	to follow
+0.0360220037	piece of
+0.0360124596	to maintain
+0.0359999437	do so
+0.0359660282	favorably with
+0.0359441314	performance under
+0.0359204205	a small amount of
+0.0359174664	developed for
+0.0359112808	an absolute
+0.0357931776	to bring
+0.0357613118	approach provides
+0.0356152427	use of
+0.0355569859	each language
+0.0355554139	an issue
+0.0355503370	a modified
+0.0355050278	to update
+0.0354110506	for obtaining
+0.0353916881	extent of
+0.0353844135	expensive to
+0.0353708508	a piece
+0.0353463793	an existing
+0.0353158657	also shows
+0.0352861680	capability of
+0.0352807219	beneficial for
+0.0352748331	trained by
+0.0352568790	increase in
+0.0352175070	architecture for
+0.0351592668	proof of
+0.0351471780	up to
+0.0350225600	adopted to
+0.0349639806	studied in
+0.0349103148	the current state of
+0.0348978928	other state of
+0.0348077744	a wide
+0.0347535711	useful for
+0.0347401487	as inputs
+0.0346930136	contains only
+0.0346770423	successful in
+0.0345533971	limited by
+0.0345434040	compared to other
+0.0345397788	evaluated by
+0.0345136337	each time frequency
+0.0345019349	this technique
+0.0344742324	a mixture of
+0.0344593656	recorded with
+0.0344395546	different aspects
+0.0343945132	to interpret
+0.0343942141	measured in
+0.0343548115	to allow
+0.0343509901	also investigated
+0.0343273018	to refine
+0.0342991962	by estimating
+0.0342418755	an artificial
+0.0340740004	to recover
+0.0340646260	concept of
+0.0340626008	a considerable
+0.0340095153	similarly to
+0.0339990004	this technical
+0.0339986155	to speed
+0.0339810310	methods like
+0.0339568419	conditioning on
+0.0339151942	diversity of
+0.0339082917	embedded in
+0.0338654952	a crucial
+0.0338194504	strategies for
+0.0338044964	a flexible
+0.0337782387	by conditioning
+0.0337559738	category of
+0.0336840192	to aid
+0.0336633604	suited to
+0.0336242542	the last
+0.0336168189	need to
+0.0335692810	under various
+0.0335463692	even more
+0.0335434114	comparison of
+0.0335122720	to suppress
+0.0334797790	by evaluating
+0.0334282367	function based on
+0.0334010387	a certain
+0.0334005581	requirement for
+0.0333609439	relevance of
+0.0333577802	hard to
+0.0332898183	dedicated to
+0.0332808630	novel method for
+0.0332390552	involved in
+0.0332388221	the amount of
+0.0332083224	benchmark for
+0.0332044081	the number
+0.0332009670	an adversarial
+0.0332001848	extracted using
+0.0331913503	reduced by
+0.0330946865	the primary
+0.0330475931	a long time
+0.0330456053	to realize
+0.0330085237	an emotional
+0.0329898350	to match
+0.0329856004	predicted by
+0.0329254173	accuracy than
+0.0327985220	a custom
+0.0327643223	to noise
+0.0327599334	this result
+0.0327278466	to answer
+0.0327127958	interpretability of
+0.0327022036	an automatic
+0.0326596743	without loss
+0.0326054490	a closed
+0.0325933651	presented for
+0.0325646260	pair of
+0.0325274201	under different
+0.0325106016	the usefulness of
+0.0324864594	the development
+0.0324764410	success of
+0.0324468724	for detecting
+0.0323908888	learns from
+0.0323730034	the literature
+0.0323169841	listen to
+0.0322891166	tested in
+0.0322819226	made by
+0.0322697471	this paper focuses on
+0.0322563386	to promote
+0.0322125262	the human auditory system
+0.0321910507	equal to
+0.0320915877	an example
+0.0320633957	than real time on
+0.0319891760	the number of sources
+0.0319550214	demonstrated on
+0.0319188273	to interact
+0.0318770068	to distinguish
+0.0318185306	the absence of
+0.0317827236	to verify
+0.0317448761	topic in
+0.0317278466	to prevent
+0.0317199841	the number of parameters
+0.0316990042	to explore
+0.0316679625	always on
+0.0316536829	to simulate
+0.0316054490	to listen
+0.0316009083	an increase
+0.0314969474	direction of
+0.0314957581	for evaluating
+0.0314292703	to highlight
+0.0312934114	form of
+0.0312720859	library for
+0.0312427228	in turn
+0.0312033252	performance over
+0.0311657408	the effectiveness
+0.0311641944	tailored to
+0.0311077314	study on
+0.0311065571	system achieved
+0.0309931058	recorded by
+0.0309310379	a multi
+0.0308685361	performance in terms of
+0.0308436487	distillation for
+0.0308332572	extraction from
+0.0308329192	to add
+0.0308064723	the same model
+0.0307606016	to generalize to
+0.0307375393	different architectures
+0.0307353963	scheme for
+0.0307094693	2019 task
+0.0306331830	the art results in
+0.0305708458	significantly more
+0.0305663930	also allows
+0.0304062860	the notion
+0.0303951283	a well trained
+0.0302683655	corresponding to
+0.0302185306	the contribution of
+0.0301690247	employed to
+0.0299924910	the first method
+0.0299853963	explored in
+0.0299615230	modeled using
+0.0299556699	method using
+0.0299481475	the inner
+0.0299397537	an unseen
+0.0298390883	at scale
+0.0298185306	the reliability of
+0.0298029092	a novel approach for
+0.0296885230	provided for
+0.0296879956	system using
+0.0296833665	the intrinsic
+0.0296766981	or absence of
+0.0296458914	novel method to
+0.0296444548	basis of
+0.0296285877	difficulties in
+0.0296024442	many other
+0.0295862050	an enhanced
+0.0295217501	comparison with
+0.0294877755	the network to learn
+0.0294591785	a new method
+0.0294275713	alternative to
+0.0294005804	an autoregressive
+0.0293860499	for measuring
+0.0293574297	estimated from
+0.0293539101	a new speech
+0.0293491672	on top
+0.0293376766	a naive
+0.0293233409	for capturing
+0.0292858123	several methods
+0.0292831499	two types
+0.0292615641	an unknown
+0.0292197281	seen during
+0.0291787487	module for
+0.0291755265	difficult for
+0.0291379854	investigated for
+0.0290982833	to derive
+0.0290416046	an auto
+0.0290335181	issue by
+0.0290144371	referred to
+0.0290082713	an ablation
+0.0290008449	for designing
+0.0289708718	means of
+0.0288790622	an e2e
+0.0288567078	augmented with
+0.0288529438	to gain
+0.0288495633	also outperforms
+0.0287486496	effect of
+0.0287221996	to examine
+0.0286895804	to illustrate
+0.0286196789	platform for
+0.0286135924	the difficulty of
+0.0285655008	basis for
+0.0285348663	a hybrid
+0.0285179802	enhancement based on
+0.0284616343	the same data
+0.0284591785	a new dataset
+0.0284290055	several state
+0.0283860870	new approach to
+0.0283775904	an objective
+0.0283691554	the majority of
+0.0283258830	efficacy of
+0.0283046520	required in
+0.0282733024	difference in
+0.0282678110	utility of
+0.0282384215	in many applications
+0.0282185306	the feasibility of
+0.0281891258	formulation of
+0.0280944255	to control
+0.0280597246	to design
+0.0280313558	review of
+0.0280128089	a case
+0.0279762512	then uses
+0.0279524608	the detection and classification of acoustic
+0.0279044587	configuration of
+0.0278661060	time consuming and
+0.0278395725	sampling from
+0.0278097440	recorded from
+0.0278017506	even without
+0.0277927961	self attention for
+0.0277244074	framework with
+0.0277157895	the time frequency
+0.0276767531	than other
+0.0276250977	applied as
+0.0276106724	deployment of
+0.0275680470	the feasibility
+0.0275362399	applicability of
+0.0274755253	observed in
+0.0274660651	information into
+0.0274391258	dependency of
+0.0274308838	the choice of
+0.0273655196	to align
+0.0273275017	this type of
+0.0272843905	a tool
+0.0272803571	a huge
+0.0272695563	report on
+0.0272547420	not seen
+0.0272288945	collected in
+0.0271329039	a straightforward
+0.0271271143	exist in
+0.0270819521	tagging with
+0.0270669494	encoded in
+0.0270629044	left to
+0.0270586941	introduction of
+0.0270128089	the importance
+0.0269753549	the former
+0.0269512083	introduced in
+0.0269233654	to boost
+0.0269176123	to include
+0.0269102138	to measure
+0.0268699292	subject to
+0.0268677111	demonstrated by
+0.0267551885	removal of
+0.0267221996	a primary
+0.0266936051	idea of
+0.0266407241	the efficiency of
+0.0266135924	the degree of
+0.0266020354	preservation of
+0.0265677946	an individual
+0.0264543017	capacity of
+0.0264391793	to validate
+0.0264198920	for solving
+0.0263832658	robustness of
+0.0263789931	to characterize
+0.0263771746	to explain
+0.0263476571	the performance of speaker
+0.0263106953	each task
+0.0263090599	system without
+0.0262876203	the presence
+0.0262802590	the validity of
+0.0262703087	a novel deep learning
+0.0262040336	incorporated to
+0.0261854833	a total
+0.0261531130	technique for
+0.0261167638	by considering
+0.0260891633	a reasonable
+0.0260573908	the difference between
+0.0260011379	amount of training
+0.0259704973	allows for
+0.0259543017	characteristic of
+0.0259297035	on timit
+0.0258936261	to specify
+0.0257657703	potential of
+0.0256324625	role of
+0.0255704640	evaluated for
+0.0255540914	to approximate
+0.0255405869	goal of
+0.0255191848	experiment on
+0.0255185196	employed for
+0.0254994197	a prototype
+0.0254749030	reported in
+0.0254719951	techniques such as
+0.0254229550	degradation in
+0.0253541323	to yield
+0.0253105834	for predicting
+0.0253080123	superiority of
+0.0252852826	correlation with
+0.0252645765	these new
+0.0252235211	the core
+0.0251888161	solution to
+0.0251696578	procedure for
+0.0251657539	a finite
+0.0251623933	case of
+0.0251215590	for creating
+0.0250920828	the applicability
+0.0250287905	discussed in
+0.0250201435	the utility of
+0.0249935980	far from
+0.0249146721	implemented on
+0.0248862075	essential for
+0.0248452757	system for
+0.0247812547	an algorithm for
+0.0246946317	the efficacy
+0.0246924925	joint time
+0.0246860119	new approach for
+0.0246831142	variation in
+0.0246701132	this type
+0.0246158879	any other
+0.0246125864	the analysis of
+0.0245565012	a decision
+0.0245168472	critical for
+0.0245108383	an alternative to
+0.0244795194	converted to
+0.0244791160	to quantify
+0.0244664747	then used to
+0.0244540333	competitive with
+0.0244397424	aligned with
+0.0244298587	changes in
+0.0244198920	a proxy
+0.0243919521	a unique
+0.0243743344	to define
+0.0243472222	performed in
+0.0243059001	an approach for
+0.0242934294	demonstrated to
+0.0242802590	a collection of
+0.0242369980	the art performance in
+0.0242356913	degree of
+0.0240362052	paradigm for
+0.0240062436	implemented in
+0.0239472884	deployed in
+0.0239424910	a new approach
+0.0239353100	a proper
+0.0239108515	build on
+0.0238888114	often used
+0.0237646238	a universal
+0.0236395789	decrease in
+0.0236200462	to find
+0.0235424016	for extracting
+0.0235201435	a novel approach to
+0.0234721996	for building
+0.0233387167	the previous state of
+0.0233321455	an increase in
+0.0232618098	much better
+0.0231851863	run in
+0.0231623933	perception of
+0.0231418962	allowing for
+0.0231298811	a new algorithm
+0.0230966936	the strength of
+0.0230262191	a systematic
+0.0230062498	extension of
+0.0229557386	adopted in
+0.0229388398	to outperform
+0.0228489795	a framework for
+0.0226489441	over state of
+0.0226407241	the advantage of
+0.0226395789	calculation of
+0.0226323604	methods such as
+0.0226195385	toolkit for
+0.0225044667	same time
+0.0224877920	sensitivity of
+0.0224734757	the existence of
+0.0224734757	the creation of
+0.0224727738	off between
+0.0224314041	a joint
+0.0224250886	a pair of
+0.0224114489	combination with
+0.0222791315	models such as
+0.0222471311	described by
+0.0222292861	system uses
+0.0222149482	utilized in
+0.0222133106	account for
+0.0221851863	difficulty in
+0.0221623933	efficiency of
+0.0221038147	potential for
+0.0220047049	of thousands of
+0.0219963041	crucial to
+0.0219483331	operate in
+0.0219255265	importance of
+0.0219173659	take into
+0.0217688234	interest in
+0.0217649593	even better
+0.0217586513	the art results for
+0.0217566565	many different
+0.0217557712	to discover
+0.0217499773	a variety
+0.0217495704	reliability of
+0.0217097592	to cover
+0.0217028719	methodology for
+0.0216465483	the detection and classification of
+0.0216069780	ability of
+0.0215973085	a variational
+0.0215294587	stability of
+0.0214614507	product of
+0.0214505303	several state of
+0.0214189936	limitation of
+0.0214187231	a novel deep
+0.0214166948	to run
+0.0214134549	the mismatch between
+0.0214068486	a novel framework for
+0.0213615084	the reverberation time
+0.0213136393	a rich
+0.0212888668	especially in
+0.0212802590	this problem by
+0.0212697927	a generative
+0.0212231517	provided to
+0.0212148600	to keep
+0.0211928861	consistent with
+0.0211455398	employed in
+0.0211324571	sufficient to
+0.0211054180	the evaluation of
+0.0210792956	usage of
+0.0210693603	seen in
+0.0209972667	the impact
+0.0209672564	a well known
+0.0209255265	modification of
+0.0208655107	the combination of
+0.0207486334	need for
+0.0206594185	a compact
+0.0206586613	aid in
+0.0206022565	to interference
+0.0205353173	evaluated in
+0.0205302590	a variant of
+0.0203543000	an overall
+0.0203426415	the short time
+0.0202149482	principle of
+0.0202114896	considered in
+0.0201401424	the notion of
+0.0201237144	helps to
+0.0200619398	the similarity between
+0.0199914161	a piece of
+0.0199781156	optimized for
+0.0199315979	a good
+0.0198960163	the type of
+0.0198518530	gains in
+0.0198240113	difficulty of
+0.0198205727	the presence or
+0.0198114489	integration of
+0.0197964082	tries to
+0.0197065388	a type of
+0.0196378684	the distribution of
+0.0195478193	needed to
+0.0194182671	complementary to
+0.0193385462	influence of
+0.0192509340	sounds from
+0.0192104486	the first approach
+0.0191903413	contrast to
+0.0191657220	a new state of
+0.0190908402	to help
+0.0190063842	the need to
+0.0189048827	the goal
+0.0189004750	dimensionality of
+0.0188936025	key to
+0.0188651665	seems to
+0.0187890013	a comparative study of
+0.0187620933	all other
+0.0187199861	novel approach for
+0.0186924925	recognition via
+0.0185925151	each time
+0.0185622886	the direction of
+0.0184754287	utilized to
+0.0184705625	out of
+0.0184665580	way to
+0.0183938255	theory of
+0.0183899685	addition to
+0.0183812941	the representation of
+0.0183812350	as much
+0.0182922911	also known
+0.0182240575	the usage of
+0.0180994586	both objective and
+0.0180269405	to take advantage of
+0.0179569478	to sequence
+0.0178635924	the area of
+0.0177234757	a review of
+0.0176787516	order to
+0.0176407241	a form of
+0.0176125336	to learn from
+0.0175780345	likely to
+0.0175372748	particularly for
+0.0175333168	thanks to
+0.0174815267	to give
+0.0174368618	useful to
+0.0174153610	system consists of
+0.0173872048	a novel architecture
+0.0172431941	introduced to
+0.0171056508	to zero
+0.0170842673	works on
+0.0169951446	a novel framework
+0.0169656148	rate by
+0.0169015350	a sequence to
+0.0168635924	an approach to
+0.0167816367	the estimation of
+0.0166800340	to end
+0.0165516869	a baseline system
+0.0165167710	potential to
+0.0165123779	found to
+0.0165000370	each other in
+0.0164939126	the input to
+0.0163812350	so as
+0.0163102349	point to
+0.0161971012	outside of
+0.0161948503	purpose of
+0.0160377289	found in
+0.0160162703	the complexity of
+0.0160063842	the implementation of
+0.0157286064	the availability of
+0.0157286064	a system for
+0.0157286064	the input of
+0.0155612829	the potential to
+0.0154875462	especially for
+0.0154613429	other than
+0.0153858055	allow for
+0.0153734757	the shape of
+0.0151953747	new method for
+0.0150019742	with up to
+0.0148119398	a model for
+0.0148035584	then applied to
+0.0147887784	the performance in
+0.0147555436	made in
+0.0146401424	an algorithm to
+0.0145522520	then used
+0.0145197168	a novel method to
+0.0145007366	described in
+0.0143919943	a technique for
+0.0143919943	the superiority of
+0.0143919943	the introduction of
+0.0143668385	the perception of
+0.0141055992	a full
+0.0140995616	useful in
+0.0140955098	the gap between
+0.0140047336	done in
+0.0139687601	in detail
+0.0139174032	people with
+0.0136469876	by up to
+0.0136417228	enough to
+0.0135737885	appropriate for
+0.0135431226	the first to
+0.0134316367	the nature of
+0.0134309799	the behavior of
+0.0133383077	as compared to
+0.0133294647	a tool for
+0.0130516869	the integration of
+0.0130335379	the structure of
+0.0128970876	to benefit
+0.0126829369	the evolution of
+0.0126059476	most state of
+0.0126059476	new state of
+0.0126055992	to take
+0.0125082254	top of
+0.0124569531	to focus on
+0.0123668385	as input to
+0.0122620944	the correlation between
+0.0116168385	the diversity of
+0.0115944807	a way to
+0.0115028339	necessary to
+0.0112177854	the capability of
+0.0103668385	the probability of
+0.0100843020	a solution to
+0.0090773280	an average of
+0.0089907271	to do

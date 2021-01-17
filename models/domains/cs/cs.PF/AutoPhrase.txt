@@ -1,0 +1,6081 @@
+0.9682637940	load balancing
+0.9628622908	monte carlo
+0.9623215933	machine learning
+0.9618477396	matrix multiplication
+0.9613073277	markov chain
+0.9602892205	deep learning
+0.9577232270	xeon phi
+0.9561196684	linear algebra
+0.9559675144	data centers
+0.9528936362	fault tolerance
+0.9527466245	amdahl's law
+0.9522125058	closed form
+0.9521178496	neural network
+0.9502205879	resource allocation
+0.9499298844	sparse matrix
+0.9490348093	ad hoc
+0.9489569266	big data
+0.9470104370	intel xeon
+0.9455418701	open source
+0.9454506267	finite difference
+0.9451440360	floating point
+0.9449690572	wi fi
+0.9448059738	reinforcement learning
+0.9442492207	petri nets
+0.9423875822	molecular dynamics
+0.9398523077	virtual machines
+0.9397818760	cloud computing
+0.9397476318	routing protocol
+0.9391852001	neural networks
+0.9389484853	steady state
+0.9388808094	web services
+0.9382523575	message passing
+0.9369145629	energy harvesting
+0.9346481411	base station
+0.9345319470	data center
+0.9342110295	fault tolerant
+0.9337016140	finite element
+0.9304452053	sandy bridge
+0.9286847438	wireless sensor networks
+0.9283933207	black hole
+0.9272249719	stream processing
+0.9268772380	general purpose
+0.9255728245	social networks
+0.9251005327	differential equations
+0.9237373286	shared memory
+0.9236764843	shortest path
+0.9236042650	power law
+0.9236024909	worst case
+0.9231958788	bit error rate
+0.9210827291	multi core
+0.9210700644	double precision
+0.9206530563	packet loss
+0.9199748139	round robin
+0.9199416339	wireless networks
+0.9192744573	physical layer
+0.9190282822	service providers
+0.9180757892	model checking
+0.9180674538	programming languages
+0.9156360180	partial differential equations
+0.9154677532	decision tree
+0.9146972876	flash memory
+0.9134158568	page table
+0.9120313938	source code
+0.9114083402	distributed computing
+0.9113441351	markov decision process
+0.9088390327	data management
+0.9074227706	outage probability
+0.9073021052	markov chains
+0.9071104658	markov process
+0.9068165388	random access
+0.9063520888	cognitive radio
+0.9061653059	linear programming
+0.9057046168	aho corasick
+0.9052686888	decision making
+0.9035526756	queueing theory
+0.9035412122	heavy tailed
+0.9023728077	benchmark suite
+0.9023287273	lattice boltzmann
+0.9012780101	multicore processors
+0.9010813054	random variables
+0.9010238024	deep neural networks
+0.9001132672	convolutional neural networks
+0.8994455823	millimeter wave
+0.8993727464	fine grained
+0.8976385242	graphics processing units
+0.8966453977	cloud storage
+0.8961797083	discrete event simulation
+0.8960363920	web service
+0.8953324838	fork join
+0.8947703514	generating function
+0.8939018543	computationally intensive
+0.8933823759	internet services
+0.8933413475	wireless communication
+0.8932962146	software development
+0.8929734250	spectrum sensing
+0.8926432746	artificial intelligence
+0.8926316646	proportional fairness
+0.8920819316	state space
+0.8914911353	parallel processing
+0.8910503871	space exploration
+0.8906655703	data structures
+0.8889759934	wireless communications
+0.8887421134	virtual machine
+0.8887060175	markov modulated
+0.8877436247	dense linear algebra
+0.8862232994	stochastic network calculus
+0.8860301730	lower bound
+0.8859559437	high performance computing
+0.8847456258	wireless network
+0.8847101925	basic block
+0.8837549596	service curve
+0.8836199322	fading channels
+0.8835011582	optane dc
+0.8832475542	queue length
+0.8831840462	cellular network
+0.8831581112	np hard
+0.8824721155	real world
+0.8811967798	apache spark
+0.8809200192	arrival processes
+0.8806021507	energy efficiency
+0.8792411923	heavy traffic
+0.8784416746	probability distribution
+0.8784387136	deep neural network
+0.8778557848	dynamic programming
+0.8772983540	total cpu usage
+0.8768386547	completion times
+0.8767371980	domain specific
+0.8758164914	parallel computing
+0.8756712173	embedded systems
+0.8753138506	processor sharing
+0.8750059419	stencil computations
+0.8739970521	black box
+0.8739882744	memory hierarchy
+0.8738717987	trade offs
+0.8731506777	recurrent neural
+0.8730705014	mathematical model
+0.8717775674	large scale
+0.8713272024	intel xeon phi
+0.8711600459	internet traffic
+0.8711331383	renewable energy
+0.8705757262	primary user
+0.8697081456	cellular networks
+0.8693774429	parallel programs
+0.8690925572	bike sharing systems
+0.8687102037	markov processes
+0.8686038708	parallel programming
+0.8684813482	multi hop
+0.8682931328	state dependent
+0.8675778707	network calculus
+0.8665237561	knights landing
+0.8649969172	resource usage
+0.8646265221	graph database
+0.8642787208	convolutional neural
+0.8642493708	job sizes
+0.8641299420	fluid limit
+0.8633006907	upper bound
+0.8630245309	rayleigh fading
+0.8619042983	resource utilization
+0.8618220358	mobile ad hoc networks
+0.8609766861	low latency
+0.8608216146	processing units
+0.8601836811	data structure
+0.8597767137	delay bound
+0.8596131791	congestion control
+0.8594559954	energy consumption
+0.8585578008	auto tuning
+0.8583360576	monte carlo simulation
+0.8583006065	fixed point
+0.8582124905	access patterns
+0.8580488348	differential equation
+0.8578535320	roofline model
+0.8577211734	inter datacenter
+0.8572766067	hyperledger fabric
+0.8570465452	image processing
+0.8566264150	level parallelism
+0.8563856474	brute force
+0.8561639598	peer to peer
+0.8561126024	big data analytics
+0.8552401512	power management
+0.8552335054	straggler mitigation
+0.8547417398	edge computing
+0.8544280108	multicore cpus
+0.8541499517	long term
+0.8538939783	power allocation
+0.8537246421	write amplification
+0.8534424161	computational complexity
+0.8533403161	distributed systems
+0.8531403307	power control
+0.8517928929	data mining
+0.8517759278	sparse matrix vector multiplication
+0.8515839110	admission control
+0.8513629992	queuing model
+0.8508092955	supermarket models
+0.8503928427	web server
+0.8499045722	stationary distribution
+0.8492758077	queueing networks
+0.8490916824	data processing
+0.8476753141	bare metal
+0.8475504792	product form
+0.8473576099	cognitive radio networks
+0.8471162534	embedded devices
+0.8470176962	supermarket model
+0.8468374181	storage systems
+0.8467137474	distributed memory
+0.8462905028	markov decision
+0.8454454492	performance engineering
+0.8439253909	scheduling policies
+0.8432883000	network coding
+0.8432620867	closed form expression
+0.8430999584	closed queueing
+0.8429998136	optimization problem
+0.8426531048	graph analytics
+0.8426418524	polling systems
+0.8422126283	bit error
+0.8417241277	service times
+0.8415621232	gpu kernels
+0.8415229005	user experience
+0.8404793525	persistent memory
+0.8400390540	sample path
+0.8398113501	loop kernels
+0.8387432027	queueing systems
+0.8385436453	massively parallel
+0.8383017945	building blocks
+0.8380658291	sensor networks
+0.8379224001	data analytics
+0.8377924037	cloud services
+0.8377309455	predictive models
+0.8373508009	scientific computing
+0.8373505874	graph processing
+0.8371276162	theoretical framework
+0.8369192818	tcp ip
+0.8362488143	image classification
+0.8361999611	end user
+0.8357519190	stochastic hype
+0.8346051714	nearest neighbor
+0.8345834470	arrival process
+0.8340677239	case study
+0.8335149540	hpc systems
+0.8334643270	analytical models
+0.8307875788	performance improvement
+0.8296647950	queueing models
+0.8296068725	autonomous vehicles
+0.8295533526	transfer learning
+0.8288266515	multi user
+0.8280242968	queueing model
+0.8277414671	timing analysis
+0.8273801943	balanced pandas
+0.8270453407	power grid
+0.8268087015	mac protocols
+0.8263186805	class skew
+0.8259408499	poisson process
+0.8250324295	high level
+0.8249459673	comparative analysis
+0.8249296650	case studies
+0.8241403168	queuing theory
+0.8238680665	performance modeling
+0.8220582719	low power
+0.8217203366	analytical model
+0.8216634431	resource management
+0.8214225097	temporal blocking
+0.8207328339	random linear network coding
+0.8201682904	mobile devices
+0.8196710393	routing protocols
+0.8196606923	apache mesos
+0.8195769666	signal to noise ratio
+0.8184167125	privacy metrics
+0.8178886726	memory footprint
+0.8178008217	scientific applications
+0.8176513219	deep learning models
+0.8174984810	performance portability
+0.8173268237	scheduling policy
+0.8164496935	resource consumption
+0.8159135567	hpc ai
+0.8153576101	asymptotically optimal
+0.8151625735	instruction set
+0.8150354740	channel state information
+0.8149554550	web page
+0.8143061990	data analysis
+0.8140521362	high performance
+0.8135221994	multi threaded
+0.8133212319	operating systems
+0.8125585660	monte carlo simulations
+0.8122287467	distributed training
+0.8121800764	string matching
+0.8113661505	single instruction multiple data
+0.8108997197	low complexity
+0.8106928215	delay optimality
+0.8105841471	base stations
+0.8101514553	queueing delay
+0.8101149956	lower bounds
+0.8100459805	technical report
+0.8100251451	data compression
+0.8095224602	medium access control
+0.8094854095	optimization strategies
+0.8093020834	network topology
+0.8089363344	mac protocol
+0.8089008443	intensive applications
+0.8088038057	edge devices
+0.8081868279	data dissemination
+0.8078662397	memory accesses
+0.8066848566	internet service
+0.8066072918	memory access
+0.8061516140	queueing network
+0.8061254563	open problem
+0.8059655106	hardware accelerators
+0.8059551293	ad hoc networks
+0.8058255729	` `
+0.8055355173	sensor network
+0.8039302946	batch size
+0.8038783298	stability region
+0.8037698984	virtual memory
+0.8026054070	channel capacity
+0.8025487544	data sets
+0.8025069037	allocation policies
+0.8023829066	rate adaptation
+0.8021432114	energy saving
+0.8021142237	energy efficient
+0.8017666219	power consumption
+0.8016607395	long range
+0.8014196459	service rates
+0.8011613936	experimental evaluation
+0.8007903426	arrival rates
+0.7989748939	load test
+0.7988827830	iot devices
+0.7988144664	building block
+0.7986992439	process algebra
+0.7983919549	video streaming
+0.7981824042	low cost
+0.7974748547	response times
+0.7972362159	micro architectural
+0.7967439719	execution cache memory
+0.7965874027	performance bounds
+0.7964542255	big data workloads
+0.7960649534	cloud based
+0.7958955371	priority levels
+0.7954127433	low overhead
+0.7951390491	lock free
+0.7947217136	primary users
+0.7940184158	single node
+0.7938390377	software aging
+0.7937469252	nvidia gpus
+0.7929551673	tensor contractions
+0.7926240811	high speed
+0.7916662393	data access
+0.7915317138	performance prediction
+0.7914394962	benchmark suites
+0.7912208608	main memory
+0.7911436814	competitive ratio
+0.7903028001	memory bandwidth
+0.7900554497	code generation
+0.7899328449	intel haswell
+0.7897905814	arrival rate
+0.7895099741	throughput optimality
+0.7893303677	bike sharing
+0.7891912647	single server
+0.7883690959	control flow
+0.7882820687	computing systems
+0.7881312660	highly optimized
+0.7879347240	data streams
+0.7878967091	data movement
+0.7877115000	low level
+0.7868921163	big data systems
+0.7868193693	data locality
+0.7853895049	sparse matrices
+0.7845748291	extensive simulation
+0.7841547318	continuous time markov chains
+0.7841515293	multi tenant
+0.7839318833	performance evaluation
+0.7823951617	high dimensional
+0.7823195746	recommender systems
+0.7818820509	intel mkl
+0.7818318598	file systems
+0.7812487332	data driven
+0.7811587194	computationally expensive
+0.7803136861	packet delay
+0.7800915116	cloud providers
+0.7796126898	load imbalance
+0.7790348286	multiple access
+0.7781966475	error prone
+0.7781449823	discrete event
+0.7772956998	higher order
+0.7761806351	stochastic process
+0.7761692734	communication overhead
+0.7756933900	service discipline
+0.7754750152	hpc applications
+0.7754731482	cache size
+0.7754355656	data transfer
+0.7750440086	closed form expressions
+0.7745605934	commercial cloud
+0.7744603079	access points
+0.7734374030	memory bound
+0.7725487381	cache miss
+0.7725184432	recently proposed
+0.7722207124	error probability
+0.7721782004	cross layer
+0.7721688268	end users
+0.7714426860	power flow
+0.7700578652	hit ratio
+0.7698952293	execution times
+0.7685502324	extensive experiments
+0.7682462374	optimization techniques
+0.7682020466	cache misses
+0.7680910449	frequency scaling
+0.7677763625	light traffic
+0.7676039201	multi threading
+0.7672781424	long run average
+0.7672548432	sparse matrix vector
+0.7666279772	dual hop
+0.7665778318	shortest queue
+0.7660220197	optimal policy
+0.7649036222	extensive simulations
+0.7648762647	design space
+0.7636822906	computational resources
+0.7629198571	blocking probability
+0.7626063569	main contribution
+0.7625376208	mpi openmp
+0.7623270110	dl models
+0.7620682757	poisson arrivals
+0.7608003663	decode and forward
+0.7607753569	storage space
+0.7606426940	extensively studied
+0.7606036162	data intensive
+0.7601061982	compute intensive
+0.7593049756	high throughput
+0.7591902787	multi channel
+0.7590670884	fpga
+0.7588035621	waiting times
+0.7586321847	job size
+0.7582154825	ordinary differential
+0.7581503604	cpu gpu
+0.7580616841	single cell
+0.7580276734	performance tuning
+0.7577806045	traffic patterns
+0.7574017068	ibm
+0.7565339224	multi node
+0.7560156779	cycle accurate
+0.7558211185	data motifs
+0.7558194805	deep neural
+0.7550038842	extreme scale
+0.7545183239	dna
+0.7543245255	service rate
+0.7540662396	service level
+0.7538250006	error rate
+0.7537315111	fixed delay
+0.7523786100	analysis shows
+0.7520161632	numerical examples
+0.7515159198	delay bounds
+0.7510254437	ip
+0.7506637054	numerical simulations
+0.7503864538	amd
+0.7503662675	experimental results
+0.7500275303	size distribution
+0.7498151507	gps
+0.7498024648	multi server
+0.7484819325	programming model
+0.7482811524	solid state
+0.7482228991	micro benchmarks
+0.7478526724	resource constrained
+0.7478132465	theoretical analysis
+0.7470089635	performance debugging
+0.7466097451	queue lengths
+0.7455304736	exponentially distributed
+0.7450319189	search space
+0.7449009175	based approach
+0.7445697712	optimal scheduling
+0.7444964328	ieee 802.11
+0.7441609048	dc
+0.7440163897	secondary users
+0.7440065554	data plane
+0.7437836658	multi lru
+0.7425356908	lru
+0.7424125211	high quality
+0.7418994043	memory usage
+0.7411355083	cyber physical
+0.7406653097	hardware platforms
+0.7401828496	long running
+0.7400876982	fork join queues
+0.7397106761	cost effective
+0.7392839943	transmission power
+0.7391535251	e commerce
+0.7390617036	special cases
+0.7388514857	average delay
+0.7388403887	orders of magnitude
+0.7384587063	buffer size
+0.7378629873	transmit power
+0.7368877507	computing resources
+0.7367599765	area networks
+0.7366277955	configuration parameters
+0.7365954136	ieee
+0.7365417667	performance counters
+0.7362073818	multi stage
+0.7361290894	existing approaches
+0.7356380528	dl
+0.7352028324	block structured
+0.7349483942	fpga based
+0.7349126317	traffic control
+0.7346593694	power efficiency
+0.7345972261	short term
+0.7343716435	challenging task
+0.7338736745	real life
+0.7331879867	safety critical
+0.7329287421	unix
+0.7325400387	sensor nodes
+0.7324977813	tcp
+0.7323397126	optimization problems
+0.7322780796	analytical results
+0.7321942057	mac
+0.7320462154	phase type
+0.7317645667	application scenarios
+0.7317036075	computational kernels
+0.7316515291	strong scaling
+0.7316269915	performance measures
+0.7316132823	numerical results
+0.7315151354	network topologies
+0.7312812559	mpi
+0.7311403219	gas
+0.7308772111	theoretical results
+0.7308224837	performance analysis
+0.7306074688	high accuracy
+0.7304841803	graph algorithms
+0.7299452413	special case
+0.7298142870	cortex
+0.7294058238	incoming jobs
+0.7292614537	significantly outperforms
+0.7289286587	high end
+0.7287422645	lyapunov
+0.7286175383	taking into account
+0.7284671608	computing platforms
+0.7282702923	arm
+0.7281584999	thread level
+0.7278329837	head of line
+0.7277237304	throughput optimal
+0.7261125666	multi tier
+0.7257971529	pareto
+0.7251982776	previous studies
+0.7250363241	arm based
+0.7246341046	general case
+0.7242605435	gpu accelerated
+0.7236940460	idle queue
+0.7236688834	ai
+0.7236641196	previous works
+0.7231899548	java
+0.7228023135	prediction accuracy
+0.7225426902	google
+0.7202726193	ml
+0.7196903166	ethernet
+0.7193380944	software defined
+0.7190688291	bayesian
+0.7185999455	octave
+0.7185547333	generating functions
+0.7177646268	bandwidth utilization
+0.7175379913	problem sizes
+0.7170144088	multi dimensional
+0.7169248048	tensor cores
+0.7168290645	dark
+0.7159695963	communication networks
+0.7154441579	higher priority
+0.7152963533	performance bottlenecks
+0.7150734766	cpu
+0.7137023009	multi class
+0.7136903076	microsoft
+0.7136444748	gpu
+0.7135362848	evaluation shows
+0.7132004973	datacenter networks
+0.7125289735	cross traffic
+0.7121741101	gnu
+0.7118132831	analytical framework
+0.7113241992	tesla
+0.7111473161	pandas
+0.7104549895	cloud service
+0.7104482129	research directions
+0.7097589148	stability condition
+0.7094749407	optimal solution
+0.7094025098	matrix matrix multiplication
+0.7089752923	performance improvements
+0.7086520912	laplace
+0.7078319273	compute nodes
+0.7076487240	ddr
+0.7072802284	scheduling algorithm
+0.7070395246	gaussian
+0.7068442857	distributed storage
+0.7053452951	significantly improve
+0.7050258627	nvidia
+0.7049755108	test cases
+0.7048088504	recent advances
+0.7043851542	openmp
+0.7038772325	linux
+0.7033345431	hpc
+0.7033045727	simulation environment
+0.7030277989	priority customers
+0.7027598826	data storage
+0.7014400825	poisson
+0.7011291767	mkl
+0.7008599590	internet of things
+0.7000927352	multi gpu
+0.6998371194	performance indicators
+0.6993873007	gi gi 1
+0.6993741602	fundamental problem
+0.6985508401	graphical
+0.6978649192	hadoop
+0.6972856434	fft
+0.6971316773	ofdm
+0.6971054983	application specific
+0.6965190944	cpus
+0.6965180087	simulation results
+0.6961749883	fourier
+0.6959894999	mesos
+0.6954683165	wide area
+0.6954553056	hype
+0.6952896778	charging
+0.6949236952	profit
+0.6949124951	apache
+0.6947044626	experiments demonstrate
+0.6946592584	wireless sensor
+0.6945559886	simd
+0.6942567958	heterogeneous systems
+0.6939573658	knights
+0.6936578755	gi
+0.6935390672	multi level
+0.6932483670	single core
+0.6931403471	bandwidth usage
+0.6929649588	wavelet
+0.6927059657	toolkit
+0.6924465047	continuous time markov
+0.6917303591	spark
+0.6912737143	green
+0.6912720463	application domains
+0.6908579652	performance metrics
+0.6908076395	app
+0.6902581731	bipartite
+0.6901558597	iot
+0.6899037283	gravitational
+0.6898716747	lte
+0.6897884645	paper presents
+0.6889534322	rdf
+0.6887329731	rayleigh
+0.6885740924	hidden
+0.6880061181	home
+0.6878625595	aerial
+0.6877989996	uav
+0.6877989996	rdma
+0.6870280763	rf
+0.6870280763	vm
+0.6869863840	end to end
+0.6864481027	overlay
+0.6861354659	haswell
+0.6859747355	udp
+0.6847890281	performance gains
+0.6846383459	hyperledger
+0.6844801343	challenging problem
+0.6835246848	upper bounds
+0.6832534067	state information
+0.6830068262	lstm
+0.6828341078	wlan
+0.6826636131	fifo
+0.6825983322	optane
+0.6825902272	meta
+0.6821240584	supervised
+0.6817243654	tomography
+0.6816019526	swap
+0.6814700268	division
+0.6810393608	speculative
+0.6810393608	scatter
+0.6799299309	stress
+0.6797735165	cnn
+0.6796863787	aware scheduling
+0.6796636010	dram
+0.6793218800	srpt
+0.6789998716	raid
+0.6788593838	swarm
+0.6786613280	os
+0.6785022826	ctmc
+0.6783673327	ttl
+0.6783673327	mpls
+0.6778921396	mc
+0.6778921396	knl
+0.6778921396	spec
+0.6777529086	idle servers
+0.6776242727	research community
+0.6773798744	channel state
+0.6772535176	task scheduling
+0.6768794997	lossy
+0.6767896981	root
+0.6766098375	api
+0.6763512841	reasoning
+0.6762043444	detailed analysis
+0.6759547783	user defined
+0.6759213499	fly
+0.6756206093	perception
+0.6751741038	ssd
+0.6750737287	graphics processing
+0.6749499961	ais
+0.6747328913	gb
+0.6746403375	dnn
+0.6742747317	gpus
+0.6742249718	intel
+0.6740567361	pi
+0.6740527263	sequencing
+0.6739008986	fl
+0.6739008986	tsn
+0.6735851698	forecasting
+0.6735593846	dls
+0.6731578382	snr
+0.6730593846	sdn
+0.6729985023	dish
+0.6728682809	ber
+0.6727733870	proceedings
+0.6718618449	markov
+0.6717210599	analog
+0.6717210599	ordered
+0.6716052774	manet
+0.6711171087	decay
+0.6702717722	compiler optimizations
+0.6702225724	ecm
+0.6701736219	led
+0.6700263378	biology
+0.6700118048	reconfigurable
+0.6698639900	beta
+0.6697715384	wind
+0.6697715384	elimination
+0.6695654318	vanet
+0.6694415552	satellite
+0.6692905657	jpeg
+0.6692905657	sph
+0.6691811875	multiplexing
+0.6690968825	ht
+0.6683538323	nfv
+0.6682957465	brain
+0.6682352638	games
+0.6681450876	sandy
+0.6680802180	rss
+0.6679698864	nc
+0.6677677230	symmetry
+0.6675655708	client server
+0.6673664021	pu
+0.6670416562	amazon
+0.6669665688	dns
+0.6666272561	xeon
+0.6664567357	cuda
+0.6662630233	fabric
+0.6661450717	avx
+0.6656190162	retrieval
+0.6654826605	task parallel
+0.6651073812	coefficient
+0.6650990802	radio networks
+0.6650275174	soap
+0.6649433040	noma
+0.6649302158	cfd
+0.6647474561	sgx
+0.6647474561	cr
+0.6645720919	jsq
+0.6643821297	programmable
+0.6640756292	solar
+0.6640400067	blas
+0.6639849383	laboratory
+0.6635298577	heterogeneous computing
+0.6632644769	ns
+0.6631527937	roofline performance
+0.6629703584	pf
+0.6623521253	ris
+0.6623159082	fd
+0.6621883891	command
+0.6616866862	ode
+0.6616134336	national
+0.6614302158	lbm
+0.6613698566	network simulator
+0.6610534599	mimo
+0.6610248696	ram
+0.6607546924	tdd
+0.6605610177	sgd
+0.6605610177	harq
+0.6604816155	energy aware
+0.6604770626	csi
+0.6603485446	performance degradation
+0.6601046703	nmc
+0.6600768735	sort
+0.6600408209	flash
+0.6599571328	register
+0.6599505784	bops
+0.6599393915	sw
+0.6598145872	materials
+0.6595440815	sdr
+0.6588806807	generalized
+0.6586882285	mnist
+0.6586877323	sla
+0.6585195681	csma
+0.6584158734	multiple sources
+0.6583598930	breaking
+0.6582893319	gamma
+0.6582691974	adc
+0.6577146929	chemistry
+0.6573743066	ttc
+0.6572773584	ft
+0.6572773584	qapl
+0.6572773584	sparql
+0.6572773584	sycl
+0.6572568977	ca
+0.6570350866	inet
+0.6570350866	gromacs
+0.6564005304	gpgpu
+0.6563457790	audio
+0.6563457790	fitting
+0.6563457790	white
+0.6563457790	perturbation
+0.6563457790	filling
+0.6563257004	hash
+0.6553414679	age of information
+0.6552544788	linked
+0.6551847932	phy
+0.6551826700	theta
+0.6551821170	tpu
+0.6550320805	wsn
+0.6548097828	optical
+0.6544812102	rl
+0.6543478538	noise ratio
+0.6543137005	iota
+0.6541243259	flops
+0.6537134438	directed
+0.6537134438	agreement
+0.6536456429	personal
+0.6536424057	fusion
+0.6530772608	numa
+0.6530604643	df
+0.6529775168	randomized
+0.6529151256	llvm
+0.6528855896	multimedia
+0.6527268799	discrete time markov
+0.6526208303	evolutionary
+0.6524685684	switched
+0.6524089979	server queues
+0.6523670024	end to end delay
+0.6518654138	bs
+0.6517441775	drf
+0.6514174007	results demonstrate
+0.6513299430	sinr
+0.6511318679	upper and lower bounds
+0.6509266135	boltzmann
+0.6509266135	amdahl's
+0.6508408135	aloha
+0.6507754394	af
+0.6506598529	augmented
+0.6504011622	ultra
+0.6502521329	exploiting
+0.6501040705	accelerated
+0.6496801794	net
+0.6494988708	theorem
+0.6493753403	hbf
+0.6493675491	lightweight
+0.6492214747	media
+0.6490918823	underwater
+0.6490918823	observable
+0.6490918823	pollution
+0.6490848285	olap
+0.6490848285	pde
+0.6486414990	rpl
+0.6486414990	evm
+0.6485256509	lammps
+0.6484453411	awgn
+0.6484453411	mpr
+0.6481682988	programming models
+0.6481399781	problem size
+0.6480031882	devito
+0.6480031882	lassi
+0.6479863134	upc
+0.6479863134	nand
+0.6479841804	cell
+0.6479476496	ghz
+0.6478912111	sorting
+0.6477919479	particle
+0.6476647921	ps
+0.6475929177	manager
+0.6473809807	interpolation
+0.6471844220	prediction models
+0.6471669814	fastest
+0.6468914383	internet
+0.6467741856	takes into account
+0.6466855444	scheduling problem
+0.6465036648	fcfs
+0.6464783446	insensitive
+0.6464783446	suites
+0.6464764638	summit
+0.6464764638	ethereum
+0.6463198196	financial
+0.6461831235	ir
+0.6461831235	cdn
+0.6461831235	mpc
+0.6461222910	skylake
+0.6457359534	qbd
+0.6457359534	ap
+0.6457359534	hsdpa
+0.6457359534	ec
+0.6457164215	em
+0.6454755739	activation
+0.6454755739	push
+0.6452093705	ad
+0.6450651182	ofdma
+0.6445112369	ergodic
+0.6445112369	background
+0.6445112083	hoc networks
+0.6442071319	mht
+0.6442071319	ep
+0.6440749884	rs
+0.6437948167	dvfs
+0.6435506895	mic
+0.6433629973	lambda
+0.6432982656	proxy
+0.6429881296	json
+0.6429881296	gaia
+0.6429881296	xml
+0.6429881296	fmm
+0.6428489744	gemm
+0.6427081805	aa
+0.6426189443	imaging
+0.6424045026	scope
+0.6421027240	tree
+0.6420948185	intelligent
+0.6419724500	scheduling algorithms
+0.6419529812	serpt
+0.6418596876	quantization
+0.6417328890	delta
+0.6415119197	bridge
+0.6414404150	cg
+0.6412142842	lorawan
+0.6412142842	tiramisu
+0.6412142842	l1
+0.6408870153	fortran
+0.6407445842	nocs
+0.6406297686	ci
+0.6404609091	voltage
+0.6404029106	mips
+0.6404029106	dcf
+0.6394315097	ray
+0.6393195351	dsl
+0.6393195351	ict
+0.6393195351	sse
+0.6393195351	wcet
+0.6391235034	v2x
+0.6385054571	automatic
+0.6382220371	tensor
+0.6382105171	pc
+0.6381328834	collaborative
+0.6381285484	data objects
+0.6378696157	roofline
+0.6378448671	starting
+0.6376107574	pytorch
+0.6376107574	volta
+0.6373158085	geometric
+0.6373011716	mobile users
+0.6370883830	transport
+0.6369478397	hls
+0.6369478397	pca
+0.6369478397	htc
+0.6369432169	orthogonal
+0.6367788746	tag
+0.6365876868	gate
+0.6363153728	mlperf
+0.6363153728	pagerank
+0.6363153728	bittorrent
+0.6361541441	devops
+0.6361541441	gittins
+0.6360677966	op
+0.6360428552	automated
+0.6359664107	ss
+0.6357256421	join
+0.6356778289	conservation
+0.6356679408	monte
+0.6355248058	pass
+0.6355031076	ssds
+0.6354314452	fpgas
+0.6354066009	proportional
+0.6353006460	evaluating
+0.6352439814	max
+0.6351602695	point of view
+0.6345741404	specifically
+0.6345509524	adaptive
+0.6342366054	elastic
+0.6341666447	bfs
+0.6341221897	introduction
+0.6340360894	artificial
+0.6338728880	local area
+0.6330276145	performance testing
+0.6327929652	greedy
+0.6327270557	constrained
+0.6325946430	processing unit
+0.6325695481	ipv6
+0.6323060878	cnns
+0.6322624556	stochastic
+0.6321174874	understanding
+0.6320452861	xen
+0.6318763946	quantum
+0.6317929963	big data and ai
+0.6317192330	nvm
+0.6317192330	svm
+0.6315105414	parallel implementation
+0.6314114263	car
+0.6313822461	genetic
+0.6313519621	percolation
+0.6313519621	assurance
+0.6312568281	detecting
+0.6312163758	fec
+0.6312163758	mds
+0.6312163758	rlnc
+0.6310307180	performance measurements
+0.6310055482	miss
+0.6309816150	comparative
+0.6305892549	soc
+0.6304666242	vlc
+0.6303683938	paoi
+0.6300506074	eh
+0.6298400350	matlab
+0.6297769923	applications running
+0.6295221822	semantic
+0.6294425054	spmv
+0.6293620613	opencl
+0.6288544495	dnns
+0.6288241387	red
+0.6285654451	web
+0.6284666242	dtmc
+0.6284003206	volatile
+0.6282255174	voip
+0.6282255174	javascript
+0.6282255174	kafka
+0.6282255174	noc
+0.6282255174	blaze
+0.6281932633	signal to interference
+0.6280942676	forward
+0.6280872260	evolution
+0.6276196691	networking
+0.6273504747	android
+0.6273504747	bigdatabench
+0.6273334702	cloud
+0.6273264794	gpgpus
+0.6269365540	lastly
+0.6269365540	openacc
+0.6269365540	nvidia's
+0.6269365540	apis
+0.6269365540	european
+0.6268756022	metal
+0.6264721876	hw
+0.6264670848	come first served
+0.6261701705	orbit
+0.6260349179	dg
+0.6258765912	mn
+0.6258397125	io
+0.6258029760	optimization framework
+0.6255408599	oracle
+0.6255331308	leveraging
+0.6253100570	wsns
+0.6252118557	streaming
+0.6251002601	core processors
+0.6250873719	parareal
+0.6247559760	np
+0.6247525354	ipv4
+0.6246039937	alpha
+0.6242196633	smart
+0.6239823273	differentiation
+0.6238349494	recently
+0.6236075015	aoi
+0.6235131613	cray
+0.6235045543	recent years
+0.6233535863	matter
+0.6233535863	triangular
+0.6224435001	segmentation
+0.6224435001	automation
+0.6223942768	persistent
+0.6223304041	dual
+0.6221033424	compilation
+0.6220248019	wimax
+0.6219660901	learning
+0.6218819336	matrix vector multiplication
+0.6217571790	c + +
+0.6211347214	access control
+0.6210810663	shift
+0.6209615850	stochastic service
+0.6209584985	parallel and distributed
+0.6208604844	wave
+0.6208355674	low energy
+0.6207116534	trading
+0.6206690410	sm
+0.6200493640	communications
+0.6198899437	imagenet
+0.6198292426	total cost
+0.6196562468	binary
+0.6194632999	theoretic
+0.6194536945	ran
+0.6194178413	assembly
+0.6192742009	browser
+0.6192713666	international
+0.6190121663	faas
+0.6189998341	high order
+0.6189679642	pdes
+0.6188424157	autonomous
+0.6188139155	cognitive
+0.6186664519	emergency
+0.6186664519	acquisition
+0.6184577740	performance bottleneck
+0.6184231065	design choices
+0.6178486464	delay optimal
+0.6177512773	performance issues
+0.6177070658	partially
+0.6176041458	satisfaction
+0.6175180776	similarity
+0.6174818442	monitoring
+0.6174391829	comparing
+0.6171296640	architectural
+0.6170834197	aps
+0.6170823761	counting
+0.6170482355	tolerant
+0.6169449679	micro architecture
+0.6169382102	multi
+0.6169142322	modular
+0.6169002740	heart
+0.6165091038	qoe
+0.6160146251	cyclic
+0.6158729679	tensorflow
+0.6158314333	ll
+0.6157382488	intel's
+0.6156481955	d4m
+0.6156481955	slas
+0.6156339601	qos
+0.6155123844	dot
+0.6154489543	scalable
+0.6152809306	storm
+0.6151181351	reinforcement
+0.6149891833	graphics
+0.6148902137	point to point
+0.6145459920	black
+0.6143472915	shortest
+0.6142294906	correction
+0.6135891473	p2p
+0.6133826623	cards
+0.6133786972	cumulative
+0.6132662566	vms
+0.6131906100	ooo
+0.6130331320	prototyping
+0.6130331320	mass
+0.6127591526	manets
+0.6127156738	d2d
+0.6125227146	mapreduce
+0.6120819161	based inference
+0.6116942691	aware
+0.6115740033	document
+0.6114548042	distributed
+0.6110901537	heterogeneous
+0.6109693428	datacenter
+0.6107912655	phi
+0.6104687696	m 1
+0.6100959065	computational cost
+0.6100081243	aibench
+0.6100081243	julia
+0.6098614393	dynamic
+0.6096688344	bitcoin
+0.6094592274	geometry
+0.6094470476	wlans
+0.6094273113	wireless
+0.6091798370	velocity
+0.6088651185	acceleration
+0.6088307729	mining
+0.6087613016	markovian
+0.6087525277	systematic
+0.6086747909	v100
+0.6081755711	drives
+0.6077318859	quality of service
+0.6075652048	big
+0.6075634224	data rate
+0.6075317871	performance gap
+0.6075309102	harvesting
+0.6074340106	video
+0.6073615701	composition
+0.6073535788	maxweight
+0.6072389261	extended
+0.6071873265	filter
+0.6070608608	networks
+0.6063515690	variation
+0.6062792452	age
+0.6062601991	cellular
+0.6056246065	adaptation
+0.6053761685	compressed
+0.6052918028	spot
+0.6050561294	taking
+0.6045539829	polynomial
+0.6045039396	grid
+0.6044025274	deep
+0.6042464237	introducing
+0.6038951247	translation
+0.6030331109	paper proposes
+0.6025484109	tolerance
+0.6025079296	average queue
+0.6023619670	singularity
+0.6023421977	cpus and gpus
+0.6013434690	garbage
+0.6012102620	public cloud
+0.6011776106	mobile
+0.6006959703	service provider
+0.6006253361	store
+0.6005888201	hybrid
+0.6005214057	applying
+0.6004948855	neural
+0.6001687368	belief
+0.5999825398	guarantee
+0.5999522980	coloring
+0.5996383389	wireless systems
+0.5995645626	sus
+0.5994747780	browsing
+0.5994742265	efficient
+0.5994420181	filtering
+0.5988285644	feedback
+0.5979498518	quick
+0.5979498518	earliest
+0.5977612537	body
+0.5977602086	polling
+0.5976694019	game
+0.5974348590	transactional
+0.5971022656	fits
+0.5970960956	medical
+0.5967289209	clustering
+0.5967251214	single core performance
+0.5965643609	batch
+0.5963221032	concurrency
+0.5960643163	snap
+0.5957387574	hypothesis
+0.5957387574	urban
+0.5957387574	days
+0.5957162454	tracing
+0.5951145022	integer
+0.5949181463	duplex
+0.5948739302	ad hoc network
+0.5948119161	analysis tools
+0.5946653793	visible
+0.5945731430	round
+0.5944419928	analytics
+0.5944118491	http
+0.5942654331	combinatorial
+0.5939097851	radio
+0.5936500512	modulation
+0.5935763651	center
+0.5933729412	estimation
+0.5931050119	purely
+0.5928738149	sequence
+0.5922639169	fast
+0.5921536566	python
+0.5921201928	cpu usage
+0.5919987548	card
+0.5919500039	saver
+0.5918015584	kind
+0.5914351442	things
+0.5914206188	virtualization
+0.5913704777	calculus
+0.5913119300	voice
+0.5911329378	performance metric
+0.5907456587	supermarket
+0.5905894023	law
+0.5904273188	spectrum
+0.5899922531	visualization
+0.5893856588	drop
+0.5891570704	matching
+0.5888745632	unicast
+0.5888745632	sim
+0.5888745632	convolutions
+0.5888409840	verification
+0.5886964404	privacy
+0.5885652112	regression
+0.5885353217	logic
+0.5884862012	performance model
+0.5884430285	switching
+0.5883408425	extension
+0.5883193788	industrial
+0.5882712521	vehicle
+0.5876453272	reference
+0.5875523867	direct
+0.5875402722	abstract
+0.5873559376	firstly
+0.5869099142	unified
+0.5865845726	environmental
+0.5865747736	prediction
+0.5865358240	degradation
+0.5865213159	quality of experience
+0.5864793869	risk
+0.5861127886	chemical
+0.5860600459	hot
+0.5859331888	population
+0.5857423165	transportation
+0.5857348720	abstraction
+0.5855735787	compiler
+0.5851843517	moving
+0.5846867090	dimensional
+0.5844690452	stream
+0.5844224127	management
+0.5840086124	experimental
+0.5838058865	scheduling
+0.5837445562	differential
+0.5837442099	edge
+0.5834454346	group
+0.5833839101	correlation
+0.5832510261	broadband
+0.5831732020	digital
+0.5830882284	modeling
+0.5830813999	engine
+0.5829974961	assessment
+0.5827392069	power efficient
+0.5826070508	multiplication
+0.5823097136	matrix matrix
+0.5822562320	search
+0.5822508619	depend
+0.5818604593	streams
+0.5816186299	subset
+0.5815376703	workshop on quantitative
+0.5810625002	formal
+0.5809510599	sharp
+0.5808592172	inference
+0.5806719061	bike sharing system
+0.5804588284	molecular
+0.5804380034	big data and ai workloads
+0.5803194010	interactions
+0.5801063056	g
+0.5798881408	transform
+0.5797586670	reactive
+0.5796281889	exponential service
+0.5795765074	\ ~ ao
+0.5793041632	chain
+0.5790435461	delay performance
+0.5789555365	compression
+0.5787882361	order of magnitude
+0.5787825276	parallel
+0.5787687122	count
+0.5784867758	softmax
+0.5784867758	avionics
+0.5780854023	docker
+0.5780220429	cascade
+0.5774538017	motion
+0.5774050871	graphic
+0.5770949767	stencil
+0.5767856914	computing
+0.5767722580	predictive
+0.5765847697	proactive
+0.5762862814	stencils
+0.5762862814	geographic
+0.5762862814	mixing
+0.5762862814	irregularity
+0.5762862814	metadata
+0.5761643175	sampling
+0.5761469146	human
+0.5757814342	semi
+0.5754781629	robin
+0.5753650075	tier
+0.5750207660	functional
+0.5748152666	lattice
+0.5747153520	planning
+0.5743984022	sparse
+0.5741832661	https
+0.5740223868	layout
+0.5737667340	peak performance
+0.5736192000	service
+0.5734101986	delay
+0.5732914879	electric
+0.5730068411	constraint
+0.5729867954	rm
+0.5729806268	decision process
+0.5727066445	performance characteristics
+0.5725311137	biased
+0.5724808210	fidelity
+0.5724808210	anomaly
+0.5723145432	asynchronous
+0.5721042989	secondary
+0.5720652415	alignment
+0.5718619607	identically distributed
+0.5718437162	packing
+0.5718297695	theory and practice
+0.5717815499	association
+0.5717590027	centers
+0.5716838533	electronic
+0.5714616787	notably
+0.5712397911	similarly
+0.5709651334	partial
+0.5708891856	online
+0.5708829086	care
+0.5708561232	contraction
+0.5708561232	timed
+0.5708561232	pipelined
+0.5706451648	scalar
+0.5705948302	algebraic
+0.5698865029	orchestration
+0.5697601320	instruction
+0.5696899518	failure
+0.5694754849	phenomena
+0.5691591363	optimal
+0.5691451900	life
+0.5687466993	important role
+0.5687309892	multiple users
+0.5684682022	survey
+0.5683980546	removing
+0.5683440150	instruction multiple data
+0.5682431289	r
+0.5681118014	associative
+0.5678577597	operational
+0.5678085651	classification
+0.5678000033	horizon
+0.5677907368	additionally
+0.5677284309	low priority
+0.5677137052	serial
+0.5673182718	p
+0.5673165412	spgemm
+0.5673082389	simulation
+0.5672233329	propagation
+0.5670877464	exploration
+0.5669845919	base
+0.5669323341	object
+0.5668602269	mathbb
+0.5668168052	multicasting
+0.5660986772	proximity
+0.5660986772	retransmissions
+0.5659104795	compress
+0.5657185908	mitigation
+0.5657050159	engineering
+0.5652231567	disk
+0.5651131566	motifs
+0.5651131566	recommender
+0.5651131566	corresponds
+0.5651131566	landing
+0.5644993609	recognition
+0.5644930767	speeding
+0.5643726480	relational
+0.5641865226	worldwide
+0.5641865226	intersection
+0.5641321177	software
+0.5638792970	delivery
+0.5638716777	recurrent
+0.5638366823	graph
+0.5636809670	queued
+0.5636809670	worker
+0.5636809670	analyzer
+0.5634261905	queue
+0.5633912399	speech
+0.5631901297	basic
+0.5631096629	reversible
+0.5631096629	ideally
+0.5630625634	fairness
+0.5629799728	characterization
+0.5629391798	guided
+0.5628123624	accelerators
+0.5627832479	unit
+0.5626029604	public
+0.5625886150	apps
+0.5625806386	stack
+0.5625562909	identically
+0.5625091444	descent
+0.5622438761	balanced
+0.5622419876	frequency
+0.5621965771	effects
+0.5621118239	large numbers
+0.5620783153	performance and energy
+0.5618666731	visual
+0.5618472160	memory
+0.5616670981	volumes
+0.5612955503	event
+0.5611369328	queuing
+0.5607441530	buffer
+0.5606803642	training
+0.5606104974	hardware software
+0.5603698382	interval
+0.5603137889	interference
+0.5602048008	situ
+0.5602048008	correspond
+0.5601478971	intelligence
+0.5598416613	symbolic
+0.5596085339	multicore
+0.5596034511	performance limitations
+0.5594589688	sensitivity
+0.5591374913	et
+0.5589376356	seek
+0.5584370627	migration
+0.5583841741	measurement
+0.5583154363	radios
+0.5583154363	multipoint
+0.5583154363	memcomputing
+0.5583154363	criticality
+0.5583041346	induced
+0.5581942221	languages
+0.5577205531	resulted
+0.5577205531	university
+0.5576843042	analysis
+0.5573557333	exponential
+0.5573468377	virtual
+0.5572608004	testing
+0.5571230003	performance comparison
+0.5570471189	skew
+0.5569079232	label
+0.5568231260	rho
+0.5566817896	principle
+0.5565284743	rendering
+0.5565284743	specification
+0.5565251416	compatible
+0.5565105071	ready
+0.5565105071	indicator
+0.5565105071	indexing
+0.5565105071	bias
+0.5565105071	filters
+0.5565105071	implicit
+0.5565105071	stabilization
+0.5565105071	churn
+0.5564196669	x86
+0.5561976789	confidence
+0.5560195229	wormhole
+0.5560195229	grain
+0.5560195229	multidimensional
+0.5560195229	indoor
+0.5559605928	throughput capacity
+0.5559595333	transforms
+0.5557908940	systems
+0.5557684134	aging
+0.5557606723	handling
+0.5555764711	quantifying
+0.5552107331	depth
+0.5551523657	text
+0.5549522922	emphasis
+0.5548677284	et al
+0.5546509574	location
+0.5545694670	vehicles
+0.5545366894	neighbor
+0.5544643565	resilient
+0.5544643565	slotted
+0.5543218481	portability
+0.5542717762	data set
+0.5541400947	interface
+0.5541137560	flexible
+0.5540697446	infrastructure
+0.5538729011	simulator
+0.5537019304	interested
+0.5536878795	pointing
+0.5536878795	extracting
+0.5536878795	segment
+0.5536826252	module
+0.5535839424	coding
+0.5530558558	suite
+0.5529845109	building
+0.5528452798	preemptive
+0.5526894474	structured
+0.5525995696	automata
+0.5525747144	random linear
+0.5520456298	numerical
+0.5520192415	calibration
+0.5520192415	polyhedral
+0.5520192415	parallelizing
+0.5520192415	additive
+0.5520192415	emulation
+0.5519726428	package
+0.5517568448	link
+0.5516880512	optimization
+0.5516061365	dissemination
+0.5514833438	rapid
+0.5513032374	generating
+0.5512031820	faster
+0.5511416120	approximate
+0.5508799462	tail
+0.5507247344	passive
+0.5507099255	loop
+0.5505390419	comprehensive
+0.5504787602	investigating
+0.5502935455	detection
+0.5502159684	health
+0.5501863891	generation
+0.5501819763	board
+0.5501765227	energy
+0.5497338241	ii
+0.5496932493	conserving
+0.5493657234	regular
+0.5491371866	asymptotic
+0.5488896223	challenge
+0.5485706512	variable
+0.5485156944	decomposition
+0.5484647702	contractions
+0.5484647702	imposed
+0.5484647702	likelihood
+0.5479450664	finally
+0.5478610951	analytical
+0.5476001240	infinite
+0.5471923322	manage
+0.5469902670	matrix
+0.5469267258	downlink
+0.5469113504	chip
+0.5468201127	absence
+0.5468201127	accounts
+0.5465248583	aided
+0.5464389155	star
+0.5463445485	product
+0.5460295402	controlled
+0.5456573732	single instruction
+0.5454809989	transition
+0.5454435610	nu
+0.5453416335	expense
+0.5452357703	networked
+0.5452357703	importantly
+0.5452357703	integrating
+0.5452357703	optimising
+0.5447407358	map
+0.5444958694	transfer
+0.5444448954	routing
+0.5443283678	priority
+0.5442217388	equilibrium
+0.5440935752	device
+0.5437451094	channel
+0.5435350341	drive
+0.5434521199	quasi
+0.5434521199	traditionally
+0.5434521199	gossip
+0.5431929617	extreme
+0.5430534671	extensive
+0.5430137826	i o
+0.5429591056	physics
+0.5428688244	bikes
+0.5428688244	agricultural
+0.5428688244	unreliable
+0.5428688244	epidemic
+0.5428688244	ensemble
+0.5428688244	losses
+0.5428688244	boxes
+0.5428688244	authentication
+0.5428688244	specially
+0.5428688244	conditional
+0.5428688244	perspectives
+0.5428446113	gpu based
+0.5426851554	blind
+0.5424206769	multiprocessors
+0.5422520392	fluid
+0.5422184440	vector
+0.5421377366	queueing
+0.5421045712	commerce
+0.5421045712	dealing
+0.5420892678	resource
+0.5418807399	arithmetic
+0.5415116983	content
+0.5412505665	reality
+0.5412045493	function
+0.5411672613	balancing
+0.5409770326	lock
+0.5408821391	algebra
+0.5408377918	broad
+0.5408373008	convolutional
+0.5405765117	integration
+0.5405626562	explicit
+0.5402527448	agreements
+0.5401950209	c
+0.5401851459	clock cycles
+0.5395339796	amplification
+0.5395339796	extracted
+0.5395230185	community
+0.5394070789	allocation
+0.5393984112	flow
+0.5393258761	algorithmic
+0.5391791095	real world applications
+0.5390947542	maps
+0.5389937759	market
+0.5389345281	modern
+0.5387181421	sample
+0.5387138441	solving
+0.5382898446	evaluation
+0.5382360984	millimeter
+0.5381532102	final
+0.5380258654	fields
+0.5376146359	energy sources
+0.5375891154	string
+0.5375868395	seismic
+0.5375300045	connected
+0.5373996458	density
+0.5372366485	equivalence
+0.5372293389	modelling
+0.5371633770	moment
+0.5370643033	mapping
+0.5369320250	auto
+0.5369320250	combined
+0.5368968142	b
+0.5367752687	array
+0.5367451428	client
+0.5366740800	robustness
+0.5365247809	style
+0.5362371214	optimisation
+0.5360561081	embedded
+0.5360360966	head
+0.5359966021	hierarchical
+0.5356580959	benchmark
+0.5356048433	asymmetric
+0.5353545086	recent
+0.5351880540	grained
+0.5350452963	party
+0.5347420483	graph based
+0.5347182397	performance
+0.5346760498	state
+0.5346297231	large scale systems
+0.5345873731	scientific
+0.5343894400	scheduling schemes
+0.5341870381	vehicular
+0.5340319150	m
+0.5339982485	programming
+0.5339850630	approximation
+0.5337779877	bike
+0.5336419879	proposed algorithm
+0.5335019022	information
+0.5334336481	scalability
+0.5334052296	integrated
+0.5333304860	modulated
+0.5333304860	threading
+0.5328909530	enhancing
+0.5326666795	core
+0.5325169670	component
+0.5323304860	relying
+0.5323115392	accommodate
+0.5321700881	performance monitoring
+0.5321295505	stationary
+0.5320779233	tenant
+0.5320663603	secrecy
+0.5319741995	peak
+0.5319532701	epsilon
+0.5318898276	network
+0.5316472068	temporal
+0.5316410928	precision
+0.5316177578	serverless
+0.5316177578	stealing
+0.5316177578	vacation
+0.5316177578	staffing
+0.5316177578	straggling
+0.5316177578	accumulate
+0.5316177578	decoupled
+0.5316177578	conflict
+0.5316177578	complement
+0.5316177578	approximating
+0.5316177578	diagnosis
+0.5316177578	unfolding
+0.5315018439	q
+0.5314563833	iterative
+0.5314500853	scaling
+0.5313651170	o
+0.5312021489	n
+0.5308981903	cpu and gpu
+0.5307940881	log
+0.5307681448	subsystem
+0.5307406993	open
+0.5306955811	nearest
+0.5306379793	structural
+0.5304592636	nonlinear
+0.5303166689	implications
+0.5302119859	reliability
+0.5300168123	learning based
+0.5298921774	server
+0.5296476437	dynamical
+0.5295186734	simulation studies
+0.5295123129	channels
+0.5293984273	independent
+0.5293857151	profiler
+0.5293763844	power
+0.5292110249	switch
+0.5291666910	transformation
+0.5289649292	easy
+0.5287028347	theory
+0.5286959039	query
+0.5286293173	obtained results
+0.5285334570	simulations
+0.5285205196	improved
+0.5284794056	role
+0.5284459388	sharing
+0.5282958882	service time distribution
+0.5281998797	responsible
+0.5281998797	efficacy
+0.5281744655	architecture
+0.5280953894	note
+0.5279959497	synthesis
+0.5279609302	file
+0.5277699590	end delay
+0.5276817252	retransmission
+0.5276817252	multithreaded
+0.5276817252	exploring
+0.5275001327	microservices
+0.5275001327	bursty
+0.5275001327	unidirectional
+0.5275001327	overloaded
+0.5274953377	free
+0.5274786483	third
+0.5272894306	control
+0.5271642131	next generation
+0.5268420658	multigrid
+0.5267770038	selection
+0.5267490386	port
+0.5266621575	kinds
+0.5262929532	robust
+0.5261792470	nevertheless
+0.5261487800	offloading
+0.5260896048	based
+0.5258332017	mean field
+0.5258287018	assessing
+0.5257705477	capability
+0.5256950619	hardware and software
+0.5253775396	processing
+0.5253491268	instead
+0.5252435296	set
+0.5251930151	ranking
+0.5251699036	d
+0.5250834809	date
+0.5249534682	version
+0.5246168615	h2
+0.5242940005	chains
+0.5242594530	train
+0.5242594530	pure
+0.5242160524	possibility
+0.5240945407	discrete
+0.5237385041	admission
+0.5237001309	driven
+0.5235550927	functions
+0.5235360524	derivation
+0.5234711996	mesh
+0.5231671543	trying
+0.5231345468	access
+0.5231062505	imbalance
+0.5230333996	bivariate
+0.5230333996	coordinated
+0.5229098444	x
+0.5228643527	assuming
+0.5227870862	fair
+0.5227234192	point
+0.5226962212	aggregate
+0.5226147718	single
+0.5223564403	unlike
+0.5220959496	sleep
+0.5220019233	real time applications
+0.5218100151	encryption
+0.5217987987	strength
+0.5217132756	carrier
+0.5214858176	continue
+0.5213151600	dense
+0.5212527193	traffic conditions
+0.5211881960	past
+0.5211793347	indicators
+0.5208243083	session
+0.5208046609	active
+0.5205745277	redundancy
+0.5205561768	gather
+0.5205561768	walks
+0.5205561768	provenance
+0.5205561768	proportionally
+0.5205561768	hypersparse
+0.5205561768	incremental
+0.5205561768	microarchitectures
+0.5205561768	interacting
+0.5205561768	argument
+0.5205561768	vertical
+0.5203770012	solver
+0.5203237959	processing power
+0.5202778288	semantics
+0.5202583980	linear network coding
+0.5201912248	optimizer
+0.5201912248	bioinformatics
+0.5201912248	simplified
+0.5201912248	coexistence
+0.5201912248	gradients
+0.5201912248	personalized
+0.5201912248	downloading
+0.5201912248	attracting
+0.5201912248	sorted
+0.5201912248	ads
+0.5201912248	patch
+0.5201912248	primitive
+0.5201912248	considerations
+0.5201912248	stabilizing
+0.5201912248	decoder
+0.5201912248	uncertain
+0.5201912248	injection
+0.5201375003	blockchain
+0.5200413935	price
+0.5200227098	world
+0.5199998532	assisted
+0.5199422122	exascale
+0.5196738938	property
+0.5196509191	safety
+0.5195422004	index
+0.5194874162	beam
+0.5192743925	tradeoff
+0.5192619892	iii
+0.5192088027	nowadays
+0.5191806550	data
+0.5191771729	cyber
+0.5190719257	partial differential
+0.5190187838	causal
+0.5189327064	virtualized
+0.5189206854	rate
+0.5188806760	applications
+0.5187836886	proof of concept
+0.5187166890	learn
+0.5184810331	taxonomy
+0.5184810331	branches
+0.5184810331	rating
+0.5183211373	transaction
+0.5180468569	accelerating
+0.5180190177	cold
+0.5180126599	statistical
+0.5179924170	passing
+0.5178778630	source
+0.5178765872	collection
+0.5178759648	availability
+0.5178505079	backoff
+0.5178170411	dominant
+0.5178170411	extensible
+0.5178170411	score
+0.5176995556	speed up
+0.5175997143	collective
+0.5174361449	highest
+0.5174101256	optimizing
+0.5173831488	aggregation
+0.5173829978	high
+0.5173269895	synchronization
+0.5172081047	rank
+0.5170887009	choices
+0.5166525699	topic
+0.5166396970	random
+0.5165940967	manycore
+0.5165940967	supercomputing
+0.5165866149	empirical
+0.5164889371	multicast
+0.5164744888	loss
+0.5163842001	beamforming
+0.5163077159	competitive
+0.5161880315	storage
+0.5161368146	i
+0.5160805597	topologies
+0.5160684018	performance gain
+0.5160529901	characterizing
+0.5160114835	decode
+0.5160114835	thesis
+0.5159809495	examples
+0.5159333581	machine
+0.5157621335	length distribution
+0.5156088269	order
+0.5154724453	coarse
+0.5154239700	performance and power consumption
+0.5153957182	sum
+0.5153876406	probabilistic
+0.5152619309	coupling
+0.5151352223	provisioning
+0.5149535398	data and ai workloads
+0.5148450216	phones
+0.5148450216	compile
+0.5148450216	affected
+0.5147639921	t
+0.5146589231	latest
+0.5143180048	iv
+0.5142050856	error
+0.5139782381	distribution
+0.5136415286	profiling
+0.5135376439	algorithm
+0.5135347234	next
+0.5135237588	design
+0.5135136476	private
+0.5131740152	relative
+0.5129191001	benchmarking
+0.5129106421	efficiency
+0.5128919154	third party
+0.5128018890	preliminary
+0.5128018890	decentralized
+0.5127622927	autotuning
+0.5127386526	drivers
+0.5126527203	multiprocessor
+0.5126527203	experiences
+0.5126527203	addressing
+0.5126130797	locality
+0.5124825279	burst
+0.5124780405	majority
+0.5124457825	huge
+0.5122936063	regulators
+0.5122753045	technical
+0.5122577683	report
+0.5121135410	commercial
+0.5116308434	simulation experiments
+0.5114926028	path
+0.5112868676	timing
+0.5110706065	distance
+0.5110344660	space
+0.5110308884	expression
+0.5110277333	polynomials
+0.5110223980	learning algorithms
+0.5109995962	software and hardware
+0.5108575891	static
+0.5108131141	units
+0.5107302601	false
+0.5107148071	secure
+0.5105566625	improvement
+0.5104346373	multiple
+0.5100215728	mixed
+0.5099773853	cross
+0.5097940085	violations
+0.5097940085	byte
+0.5097078944	check
+0.5097078944	relation
+0.5091911626	write
+0.5091532414	packet
+0.5090101888	estimating
+0.5089494180	joint
+0.5088946001	prone
+0.5085977967	throughput
+0.5082837503	intended
+0.5082566271	aimed
+0.5081755289	gradient
+0.5081517788	generalization
+0.5081509085	cache
+0.5080437146	supply
+0.5079823406	boost
+0.5079189950	evaluations
+0.5078347030	computers
+0.5077924144	l
+0.5077546055	attempt
+0.5075642865	multiserver
+0.5075625117	surface
+0.5075007207	communication
+0.5074906299	multiply
+0.5074770284	approach
+0.5074529043	ups
+0.5074529043	fbm
+0.5072010309	simulation study
+0.5070940767	security
+0.5070794477	performance optimization
+0.5070128607	ubiquitous
+0.5065933556	limits
+0.5064269433	straggler
+0.5064165411	isolation
+0.5063572679	message
+0.5062339311	deadline
+0.5061178662	resilience
+0.5058518482	receiver
+0.5058228377	wise
+0.5058228377	surprisingly
+0.5057012787	case
+0.5056863766	serve
+0.5054962497	degree
+0.5054218001	discovery
+0.5054170351	versions
+0.5053135231	real time systems
+0.5052058921	secondly
+0.5051421280	clouds
+0.5049811364	granularity
+0.5045899604	portion
+0.5043657429	general
+0.5042771552	diversity
+0.5042203343	combining
+0.5040551927	spatial
+0.5039498435	cpu and memory
+0.5036794825	average
+0.5036386443	method
+0.5036300333	forecast
+0.5034504081	parallel systems
+0.5033053247	transmission
+0.5032536324	measurements
+0.5032003885	model
+0.5029517998	number of active
+0.5029072634	factorization
+0.5029072634	tiling
+0.5028503135	prefetching
+0.5028503135	repeated
+0.5028503135	quadratic
+0.5028060963	perfect
+0.5025846569	paper describes
+0.5024939562	performance and power
+0.5024429828	experienced
+0.5023879746	improving
+0.5023555836	long
+0.5023083862	performance and energy efficiency
+0.5022305534	platforms
+0.5022080827	containers
+0.5021663871	library
+0.5021183765	wide
+0.5021169683	microservice
+0.5020732931	embedding
+0.5019802469	offered
+0.5016892421	e
+0.5015090062	congestion
+0.5014740965	scattering
+0.5014740965	swapping
+0.5014740965	subsequently
+0.5014740965	consequences
+0.5014740965	incorrect
+0.5014740965	nests
+0.5014740965	genomic
+0.5014740965	microprocessor
+0.5014740965	innovations
+0.5014740965	excess
+0.5014740965	smooth
+0.5014740965	observing
+0.5014740965	decoupling
+0.5014740965	hypervisor
+0.5014740965	obstacle
+0.5014740965	shadowing
+0.5014740965	schema
+0.5014740965	searches
+0.5014740965	splitting
+0.5014740965	predictable
+0.5014740965	logical
+0.5014740965	clustered
+0.5014740965	adjusting
+0.5014740965	manufacturers
+0.5014740965	initially
+0.5014740965	analysing
+0.5014740965	relays
+0.5014740965	monotonic
+0.5012129409	inspired
+0.5010243920	evidence
+0.5009416381	parallel algorithms
+0.5008051072	middleware
+0.5004327253	controller
+0.5003457711	long run
+0.5003089345	application
+0.5002460495	resolution
+0.4999726298	matrix vector
+0.4999557311	kernels
+0.4998945470	bi
+0.4998945470	legacy
+0.4998945470	smartphones
+0.4998945470	serialization
+0.4998945470	interconnect
+0.4998547532	art
+0.4997833660	maximum
+0.4997607726	terms
+0.4996373150	transparent
+0.4995877185	architectures
+0.4995757386	native
+0.4994927297	experiments
+0.4991480594	mechanism
+0.4990996335	assignment
+0.4990858519	mode
+0.4990289352	practice
+0.4989660033	algorithms
+0.4989067013	framework
+0.4988876272	tuning
+0.4988688395	frameworks
+0.4986510774	stations
+0.4985961573	input data
+0.4985249343	objective
+0.4985015692	an empirical study
+0.4984435328	project
+0.4984194052	broadcast
+0.4983478779	advantage
+0.4981986129	network capacity
+0.4981406584	intermediate
+0.4981249825	weight
+0.4980448523	positive
+0.4979854607	protocol
+0.4979538399	paradigm
+0.4979249288	stability
+0.4979211439	attacks
+0.4978566439	typical
+0.4978378670	holistic
+0.4977134730	compute
+0.4976441064	minimizing
+0.4976113165	adapting
+0.4976113165	writing
+0.4976113165	individually
+0.4976113165	formally
+0.4976113165	figures
+0.4976113165	desktop
+0.4976113165	simplifying
+0.4976113165	randomness
+0.4976113165	subspace
+0.4976113165	interconnects
+0.4976113165	closer
+0.4976113165	expectation
+0.4976113165	percentage
+0.4976113165	multiplications
+0.4976113165	expectations
+0.4976113165	suitability
+0.4976113165	instability
+0.4976113165	flooding
+0.4976113165	incorporating
+0.4976113165	refer
+0.4976113165	pairwise
+0.4976095563	closed
+0.4975956802	parallelism
+0.4973513819	probability
+0.4973416449	k
+0.4972725619	dynamics
+0.4972015683	referred
+0.4971948927	order to obtain
+0.4970925233	queues
+0.4970394647	opportunities
+0.4969670432	scale
+0.4968493124	directions
+0.4968288082	suited
+0.4968288082	debugging
+0.4968257386	activity
+0.4967930899	today
+0.4965315283	social
+0.4963351035	comparison
+0.4961310307	low
+0.4961164512	central
+0.4961144576	large
+0.4959791490	clock
+0.4957426428	directional
+0.4957423819	fault
+0.4957292784	traffic
+0.4955257565	gain
+0.4954499225	accurate
+0.4954261297	checking
+0.4953889514	h
+0.4953823311	sensor
+0.4951976432	linear
+0.4951240347	arrays
+0.4951213680	optimality
+0.4949085610	exchange
+0.4949070354	optimized
+0.4948999973	meanwhile
+0.4947108338	fading
+0.4946651246	measuring
+0.4946503533	v
+0.4945336052	expansion
+0.4944751425	s
+0.4944567381	context
+0.4944541086	decision
+0.4942416564	budget
+0.4940492537	reducing
+0.4940039349	review
+0.4939779320	existing
+0.4938854861	solid
+0.4938145477	realization
+0.4937825544	statistics
+0.4935254606	share
+0.4934796288	catalogue
+0.4932907782	opportunistic
+0.4931618942	processors
+0.4931201470	initial
+0.4931115522	goes
+0.4928572791	status
+0.4928359736	approximations
+0.4927772339	maximizing
+0.4926882601	tend
+0.4926740924	prior
+0.4925821600	convolution
+0.4925516241	adapt
+0.4925127178	configuration
+0.4925099410	universal
+0.4923411801	capacity
+0.4922716982	spin
+0.4922716982	topological
+0.4922716982	perturbations
+0.4922716982	correcting
+0.4922135403	millions
+0.4921469373	services
+0.4919055914	models
+0.4918413593	worst
+0.4915739625	volume
+0.4915114410	mean square
+0.4913445749	conversion
+0.4913445749	scores
+0.4913445749	pixel
+0.4913445749	pairing
+0.4913445749	slices
+0.4913445749	documents
+0.4913147788	trees
+0.4913023888	optimal power
+0.4912924042	offs
+0.4912664356	stop
+0.4912664356	inversion
+0.4912664356	collecting
+0.4912664356	optimisations
+0.4912664356	detector
+0.4912664356	deviation
+0.4912664356	raw
+0.4912664356	collision
+0.4912664356	hierarchies
+0.4912147997	equation
+0.4910675161	consistency
+0.4909418700	kernel
+0.4908724577	focuses
+0.4907708420	program
+0.4905844331	ground
+0.4905844331	proper
+0.4905162550	tensors
+0.4905162550	trust
+0.4905162550	restart
+0.4905162550	column
+0.4905162550	category
+0.4904328077	ns 2
+0.4902090720	enhanced
+0.4902005839	sensing
+0.4901070184	face
+0.4899190616	setups
+0.4899190616	stand
+0.4899190616	controllable
+0.4899190616	item
+0.4899190616	filesystem
+0.4899190616	reductions
+0.4898704760	workshop
+0.4898687149	insertion
+0.4898687149	reflecting
+0.4898687149	cities
+0.4898687149	lists
+0.4898687149	expressiveness
+0.4898687149	piece
+0.4898687149	sound
+0.4898687149	interleaved
+0.4898687149	recursion
+0.4898687149	substrate
+0.4898687149	validity
+0.4898687149	beginning
+0.4898687149	watermarking
+0.4898687149	pooling
+0.4898687149	exploitation
+0.4898687149	absolute
+0.4898687149	bounding
+0.4898687149	goodput
+0.4898687149	blocked
+0.4898687149	assist
+0.4898687149	geographically
+0.4898687149	estimators
+0.4895765237	this
+0.4895541927	guide
+0.4892888412	double
+0.4892215994	cooperative
+0.4891888569	token
+0.4891836378	power and energy
+0.4891429961	performance models
+0.4890373499	existence
+0.4886219924	consisting
+0.4883823374	issues
+0.4879265475	terminal
+0.4879265475	significance
+0.4879265475	post
+0.4879224040	areas
+0.4879083546	survivability
+0.4878051966	collect
+0.4878051966	trivial
+0.4878034817	processes
+0.4876718543	healthcare
+0.4876718543	developments
+0.4876718543	dropping
+0.4876718543	paradigms
+0.4876718543	logs
+0.4876718543	bugs
+0.4876718543	inverse
+0.4876718543	isolated
+0.4876718543	presenting
+0.4876718543	originally
+0.4876718543	drift
+0.4876718543	reading
+0.4876667349	coupled
+0.4875721647	latency
+0.4874479736	strategy
+0.4873448924	bins
+0.4872605880	diffusion
+0.4872330608	block
+0.4868676538	local
+0.4867904021	operator
+0.4865883415	technology
+0.4865781496	significant impact
+0.4864846531	safe
+0.4864683901	addition
+0.4863079951	first
+0.4862773126	period
+0.4861123975	page
+0.4860218430	separable
+0.4858665970	interactive
+0.4857913106	represented
+0.4857830351	though
+0.4855886786	centralized
+0.4855416890	prototype
+0.4853728982	schemes
+0.4853019838	optimizations
+0.4851362417	parallel servers
+0.4848067131	industry
+0.4848009438	guidelines
+0.4846935017	hit
+0.4846602310	amounts
+0.4846466098	environment
+0.4845882955	grow
+0.4844719224	peer
+0.4843562663	metric
+0.4842727845	upper
+0.4842632804	cells
+0.4842628811	light
+0.4840023474	heavy
+0.4838593135	spectral
+0.4838061625	results
+0.4837072645	z
+0.4836582608	longer
+0.4835272283	hardware
+0.4833350864	developer
+0.4833160470	organization
+0.4832299073	carlo simulations
+0.4831974228	current
+0.4831317462	massive
+0.4829910939	effect
+0.4828614370	hoc network
+0.4825913449	detailed
+0.4824721748	future
+0.4823428905	view
+0.4823428905	generic
+0.4822440496	pairs
+0.4821639207	reported
+0.4821440867	scheme
+0.4821433887	threaded
+0.4821259648	programs
+0.4819938292	short
+0.4819639390	your
+0.4819578372	gap
+0.4819195187	magnitude
+0.4818354896	cycle
+0.4816879560	overflow
+0.4816686058	sets
+0.4816466098	tools
+0.4816125302	jobs
+0.4814634858	implementation
+0.4813888711	metrics
+0.4812894473	fashion
+0.4812894473	reproducibility
+0.4808271452	highly
+0.4807502845	basis
+0.4806838002	conventional
+0.4806443400	number of packets
+0.4805982378	overview
+0.4805688831	computations
+0.4805313850	protocols
+0.4804719034	normal
+0.4804298782	quantized
+0.4803897638	science
+0.4803336646	blocking
+0.4802400722	divided
+0.4802400722	relationship
+0.4800585444	devices
+0.4799106720	diverse
+0.4797278850	outage
+0.4796722870	shared
+0.4796317732	compiled
+0.4795493121	counters
+0.4794626154	feature
+0.4790210981	paper
+0.4786472455	quantitatively
+0.4786472455	families
+0.4786472455	shuffle
+0.4786472455	allocations
+0.4786472455	driver
+0.4786472455	enormous
+0.4786472455	assigning
+0.4786472455	hyper
+0.4786472455	dispatch
+0.4786472455	rewards
+0.4786472455	neighbors
+0.4786472455	practitioners
+0.4786472455	simplicity
+0.4786472455	perceived
+0.4786472455	mathematically
+0.4786472455	row
+0.4786472455	mainstream
+0.4786472455	multithreading
+0.4786472455	vulnerable
+0.4786472455	proposing
+0.4786472455	traversals
+0.4786472455	payload
+0.4786411003	methodology
+0.4786317738	realistic
+0.4786005750	supported
+0.4784876919	calculate
+0.4784158125	idle
+0.4783486174	partitioned
+0.4783486174	elasticity
+0.4783486174	theoretically
+0.4781621691	fork
+0.4780997713	renewable
+0.4779661497	confirmation
+0.4779661497	mini
+0.4779661497	reaching
+0.4779661497	elementary
+0.4779661497	programmability
+0.4779661497	successive
+0.4779661497	reconfiguration
+0.4779661497	accessing
+0.4779661497	copy
+0.4779661497	occupancy
+0.4779661497	priorities
+0.4779661497	unexpected
+0.4779661497	controllers
+0.4778953765	field
+0.4778282021	last
+0.4777782948	reach
+0.4775780229	upcoming
+0.4775780229	coherent
+0.4775780229	multipliers
+0.4775780229	unstructured
+0.4775780229	awareness
+0.4775780229	manufacturing
+0.4775780229	traversal
+0.4775780229	residual
+0.4775671647	main
+0.4775664304	focusing
+0.4775466671	curve
+0.4774318846	effective
+0.4773627104	incoming
+0.4772679281	business
+0.4772178927	providing
+0.4771204229	increasing number
+0.4770948063	misses
+0.4770625336	quantitative
+0.4770279638	network throughput
+0.4769516360	mobile applications
+0.4769167893	reduction
+0.4768777797	execute
+0.4767905202	answer
+0.4766413821	problem
+0.4765935191	ranging
+0.4765614279	characterized
+0.4765598529	thread
+0.4765118764	inter
+0.4763646955	examine
+0.4762583548	erasure
+0.4762263430	dedicated
+0.4760935191	equipped
+0.4760597137	part
+0.4759273995	pattern
+0.4759132967	movement
+0.4758068255	platform
+0.4757029824	structures
+0.4756986488	description
+0.4756664242	deploy
+0.4752886853	foundation
+0.4752886853	necessarily
+0.4752886853	integrate
+0.4752428392	growth
+0.4752040829	arising
+0.4751875055	capturing
+0.4750851447	uniform
+0.4750362213	thousands
+0.4750090395	container
+0.4749548466	cost
+0.4746821854	finite
+0.4745753662	output
+0.4745032421	closed form expressions for
+0.4744900562	continuous
+0.4743063512	oriented
+0.4742557681	levels
+0.4740514679	study
+0.4740388406	equivalent
+0.4740320900	computationally
+0.4740299297	suffer
+0.4739850937	decide
+0.4739114620	paper focuses
+0.4736983510	tool
+0.4734522376	table
+0.4733260519	super
+0.4733193192	predicting
+0.4731219860	composed
+0.4731079847	ordinary
+0.4729532772	test
+0.4729143643	response
+0.4728854307	computational
+0.4728463210	u
+0.4728356330	times faster
+0.4727283782	total
+0.4726703851	dense linear
+0.4726458864	previous
+0.4725815554	arrivals
+0.4725812995	spatially
+0.4725175555	consumption
+0.4724654492	reward
+0.4724228213	trade off
+0.4723323621	topology
+0.4723044229	instrumentation
+0.4718071207	keeping
+0.4717900801	bounds
+0.4717882833	\ nu
+0.4717526812	strategies
+0.4716888831	accuracy
+0.4715890371	ratio
+0.4713910987	runtime
+0.4712587106	times
+0.4712381085	quality
+0.4712295586	second
+0.4710804220	square
+0.4709692221	caching
+0.4708760451	compared
+0.4708242688	construction
+0.4707350818	bit
+0.4706258101	strong
+0.4705400449	policy
+0.4704827723	synchronized
+0.4703548574	real
+0.4703285693	parametric
+0.4703034158	grids
+0.4702727447	series
+0.4701923424	range
+0.4701916957	parsing
+0.4701351197	standard
+0.4700932635	contribute
+0.4700010348	image
+0.4699721006	code
+0.4698855672	maintaining
+0.4698469341	load
+0.4691805704	states
+0.4691357908	matrices
+0.4690754074	express
+0.4689944550	integral
+0.4689944550	tune
+0.4689211642	massively
+0.4688961297	eliminates
+0.4688961297	guideline
+0.4688961297	finish
+0.4688961297	tens
+0.4688961297	coefficients
+0.4688961297	solves
+0.4688961297	writes
+0.4688961297	registers
+0.4688961297	costly
+0.4688961297	compromising
+0.4688961297	comprehensively
+0.4688961297	outcomes
+0.4688961297	causing
+0.4688961297	brings
+0.4688961297	generators
+0.4688961297	accounting
+0.4688961297	hops
+0.4688961297	meeting
+0.4688961297	automate
+0.4688961297	tunable
+0.4688961297	analysed
+0.4688961297	outline
+0.4688961297	maximizes
+0.4688961297	frames
+0.4688961297	ignore
+0.4688961297	compares
+0.4688961297	assessed
+0.4688961297	constructs
+0.4688961297	leave
+0.4688961297	computes
+0.4688961297	realize
+0.4688961297	configure
+0.4688961297	replacing
+0.4688961297	definitions
+0.4688961297	varied
+0.4688961297	arguments
+0.4688961297	statically
+0.4688961297	uncoded
+0.4688961297	conservative
+0.4688961297	respective
+0.4688961297	daily
+0.4688961297	counterparts
+0.4688961297	companies
+0.4688961297	promises
+0.4688961297	inherently
+0.4688961297	prohibitively
+0.4688961297	hosted
+0.4688961297	treated
+0.4688961297	maximally
+0.4688961297	shortcomings
+0.4688961297	concurrently
+0.4688961297	meant
+0.4688961297	maintained
+0.4687390032	noise
+0.4686586349	fine
+0.4685018325	medium
+0.4684662440	enabling
+0.4684016271	patterns
+0.4683539276	solution
+0.4681095546	al
+0.4680533507	support
+0.4679727764	format
+0.4679417062	virtually
+0.4678136608	similar
+0.4675689563	convex
+0.4675316267	providers
+0.4674429163	10x
+0.4674429163	newer
+0.4674405172	work conserving
+0.4672389558	entropy
+0.4672288153	analyzing
+0.4671913422	vision
+0.4671412100	station
+0.4671380859	common
+0.4671112106	monotonicity
+0.4670343237	valid
+0.4670217495	discipline
+0.4669746658	speedup
+0.4665894344	processor
+0.4664955776	tailed
+0.4664825000	bottlenecks
+0.4661041763	aim
+0.4660546365	simulative
+0.4658001596	resiliency
+0.4658001596	ecosystem
+0.4657413919	f
+0.4656396711	feasibility
+0.4655338307	running
+0.4655202333	studying
+0.4651573198	gates
+0.4651518217	knowledge
+0.4650877855	modification
+0.4650437678	publicly
+0.4650437678	largest
+0.4648556052	research
+0.4647467305	sequential
+0.4647100256	servers
+0.4646427823	vertex
+0.4646427823	enterprise
+0.4643884195	techniques
+0.4642117759	selecting
+0.4642117759	workflows
+0.4642117759	tandem
+0.4642117759	external
+0.4640585965	limited
+0.4635344016	pools
+0.4635344016	chunks
+0.4635344016	reliabilities
+0.4631393480	neuroimaging
+0.4631393480	indirect
+0.4631393480	concrete
+0.4631393480	removed
+0.4631393480	eliminating
+0.4631393480	distribute
+0.4631393480	projects
+0.4631393480	width
+0.4631393480	pinpoint
+0.4631393480	poorly
+0.4631393480	rigorously
+0.4631393480	microarchitecture
+0.4631393480	mix
+0.4631393480	lost
+0.4631393480	losing
+0.4631393480	finds
+0.4631393480	locate
+0.4631393480	hide
+0.4631393480	sections
+0.4631393480	upstream
+0.4631393480	reached
+0.4631393480	protect
+0.4631393480	suffers
+0.4631393480	departure
+0.4631393480	incurred
+0.4631393480	slowdowns
+0.4631393480	job's
+0.4631393480	problematic
+0.4631393480	pitfalls
+0.4631393480	collaboration
+0.4631393480	assign
+0.4631393480	unclear
+0.4631393480	equipment
+0.4631393480	unseen
+0.4631393480	encoded
+0.4631393480	advance
+0.4631393480	words
+0.4631393480	infer
+0.4631393480	routine
+0.4631393480	failed
+0.4631393480	exceeds
+0.4631393480	gaining
+0.4631393480	delivering
+0.4631393480	arises
+0.4631393480	inaccurate
+0.4631393480	charge
+0.4631393480	margin
+0.4631393480	consumes
+0.4631393480	landscape
+0.4631393480	enhancements
+0.4631393480	pending
+0.4631393480	quantifies
+0.4631393480	expertise
+0.4631393480	starts
+0.4631393480	regarded
+0.4631393480	comprising
+0.4631393480	send
+0.4631393480	disjoint
+0.4631393480	makespan
+0.4631182090	attempts
+0.4631094783	end
+0.4630251976	network traffic
+0.4628917927	due
+0.4627461881	influence
+0.4627108380	minimization
+0.4627108380	estimator
+0.4626828687	small
+0.4626602480	insight
+0.4626462288	macro
+0.4626462288	sampled
+0.4626031327	run
+0.4625736186	input
+0.4625654103	pair
+0.4625654103	force
+0.4625654103	produced
+0.4624701956	alternative
+0.4624548347	generator
+0.4623339998	self
+0.4622491303	application's
+0.4622491303	interconnection
+0.4622491303	big.little
+0.4622491303	pace
+0.4622491303	expose
+0.4622491303	facing
+0.4622491303	stringent
+0.4622491303	characterizes
+0.4622491303	universally
+0.4622491303	tremendous
+0.4622491303	dissipation
+0.4622491303	imposes
+0.4622491303	reliably
+0.4622491303	programmer
+0.4622491303	solely
+0.4622491303	formulae
+0.4622491303	pseudo
+0.4622491303	encode
+0.4622491303	petascale
+0.4622491303	multivariate
+0.4622491303	generalizes
+0.4622491303	mentioned
+0.4622491303	usual
+0.4622491303	segments
+0.4622491303	detected
+0.4622491303	readily
+0.4622491303	memories
+0.4622491303	standardized
+0.4622491303	integrates
+0.4622491303	predicts
+0.4622491303	incur
+0.4622491303	converge
+0.4622491303	investigations
+0.4622491303	maximized
+0.4622491303	explained
+0.4622491303	cheap
+0.4622491303	consumers
+0.4622491303	modelled
+0.4622491303	nested
+0.4622491303	guidance
+0.4622491303	classify
+0.4622491303	meaning
+0.4622491303	epoch
+0.4622491303	interplay
+0.4622491303	degrade
+0.4622491303	changed
+0.4622491303	periodically
+0.4622491303	responses
+0.4622491303	benchmarked
+0.4622491303	reused
+0.4622491303	normalized
+0.4622491303	preferred
+0.4622491303	chunk
+0.4622491303	conjunction
+0.4622491303	builds
+0.4622491303	ary
+0.4622491303	covers
+0.4622491303	backbone
+0.4622491303	contributes
+0.4622491303	section
+0.4622491303	routed
+0.4622491303	distinguish
+0.4622491303	examines
+0.4622491303	viewed
+0.4622491303	interact
+0.4622491303	durations
+0.4622491303	shorter
+0.4622491303	merging
+0.4622491303	closely
+0.4622491303	answers
+0.4622491303	adopting
+0.4622491303	prevents
+0.4622491303	keys
+0.4622491303	acceptable
+0.4622491303	admitted
+0.4622491303	places
+0.4622491303	attracted
+0.4622491303	incorporated
+0.4621867594	impact
+0.4621133150	caches
+0.4620807285	interpretation
+0.4620504517	custom
+0.4620078318	hundreds
+0.4619225694	deal
+0.4618915244	presence
+0.4618901797	methods
+0.4617923186	pay
+0.4617923186	spreading
+0.4617923186	representations
+0.4617923186	overlapping
+0.4617923186	ahead
+0.4617923186	jitter
+0.4617923186	missing
+0.4617923186	communicating
+0.4617923186	counter
+0.4617923186	consumer
+0.4617923186	items
+0.4617923186	responsiveness
+0.4617923186	deriving
+0.4617053254	selective
+0.4617053254	add
+0.4617053254	reproducible
+0.4617053254	searching
+0.4617053254	approximated
+0.4617053254	dependability
+0.4617053254	laws
+0.4616747785	furthermore
+0.4616533764	evaluated
+0.4612433097	machines
+0.4611922791	noisy
+0.4611789194	designing
+0.4611789194	reliable
+0.4611359423	workloads
+0.4608920614	save
+0.4608622764	considering
+0.4605934239	customers
+0.4605189814	rise
+0.4604939075	delayed
+0.4601880125	mobility
+0.4601388910	future research
+0.4601217694	benchmarks
+0.4600999089	default
+0.4599845546	depending
+0.4599370081	near optimal
+0.4599237899	behaviour
+0.4599153583	fundamental
+0.4599099010	choice
+0.4598923418	demand
+0.4597550583	sustained
+0.4597444493	direction
+0.4597035123	antenna
+0.4596288189	trade
+0.4596184594	studies
+0.4595752055	i.i.d
+0.4595497013	these
+0.4595300092	notion
+0.4594284257	minimum
+0.4592980113	steady
+0.4592382371	symmetric
+0.4590744274	assumed
+0.4587758286	micro
+0.4587176082	rich
+0.4587176082	ordering
+0.4586605725	simple
+0.4585861071	adding
+0.4585861071	extending
+0.4585861071	adversarial
+0.4585861071	demonstrating
+0.4585861071	identification
+0.4585253422	deploying
+0.4585253422	branch
+0.4585253422	window
+0.4585253422	recommendation
+0.4584673690	slower
+0.4584464999	hard
+0.4583040042	clusters
+0.4582954856	respect
+0.4582199494	while
+0.4582096485	commodity
+0.4581869151	asymptotically
+0.4579773133	correctness
+0.4579633229	route
+0.4579633229	bulk
+0.4578602143	variety
+0.4577855244	accordingly
+0.4577388321	mean field approximation
+0.4577198197	compilers
+0.4576928837	bandwidth
+0.4576817316	advanced
+0.4576813736	enhance
+0.4575807285	adoption
+0.4574847262	language
+0.4574509880	instance
+0.4574464485	stage
+0.4573120910	accelerator
+0.4572474996	fit
+0.4571746659	simulation based
+0.4569548487	computation
+0.4569426223	lead
+0.4569338764	speed
+0.4569335698	scheduler
+0.4569303416	arbitrary
+0.4569067098	contribution
+0.4568301655	close
+0.4568143394	multiclass
+0.4568143394	eventually
+0.4567723880	task
+0.4567189460	moreover
+0.4564538282	separation
+0.4564197154	blockchains
+0.4564197154	worse
+0.4564197154	deviations
+0.4564197154	abstractions
+0.4564197154	contracts
+0.4564126859	moments
+0.4563408751	process
+0.4562999548	complex
+0.4562538484	regardless
+0.4562163085	making
+0.4562091456	signal
+0.4561324019	strongly
+0.4559496778	addresses
+0.4557738647	element
+0.4556466782	size
+0.4556114127	protection
+0.4554977973	paper introduces
+0.4554002636	repair
+0.4554002636	modified
+0.4553388312	given
+0.4552194450	expressions
+0.4550123217	exact
+0.4549079403	rounding
+0.4549079403	prevalent
+0.4549079403	views
+0.4549079403	facilitates
+0.4549079403	electricity
+0.4549079403	appropriately
+0.4549079403	plan
+0.4549079403	transmitters
+0.4549079403	aforementioned
+0.4549079403	confirmed
+0.4549079403	categories
+0.4549079403	sessions
+0.4549079403	pricing
+0.4549079403	qubits
+0.4549079403	severely
+0.4549079403	history
+0.4549079403	workers
+0.4549079403	impose
+0.4549079403	sacrificing
+0.4549079403	competing
+0.4549079403	valuable
+0.4549079403	incorporate
+0.4549079403	precisely
+0.4549079403	facilities
+0.4549079403	invariant
+0.4549079403	uncertainties
+0.4549079403	met
+0.4549079403	penalties
+0.4549079403	giving
+0.4549079403	customized
+0.4549079403	porting
+0.4549079403	degrades
+0.4549079403	strictly
+0.4549079403	replace
+0.4549079403	copies
+0.4549079403	pose
+0.4549079403	pieces
+0.4549079403	parallelizable
+0.4549079403	defines
+0.4549079403	passes
+0.4549079403	transmitting
+0.4549079403	differ
+0.4549079403	excessive
+0.4549079403	correlations
+0.4549079403	convenient
+0.4549079403	consequence
+0.4549079403	resolve
+0.4549079403	proofs
+0.4547665335	billion
+0.4547665335	localization
+0.4547612382	going
+0.4547514806	freshness
+0.4546532118	analytic
+0.4546004473	focused
+0.4545219686	key
+0.4545159569	transient
+0.4544374181	powerful
+0.4543912785	mathematical
+0.4542793442	node
+0.4540752128	regret
+0.4540752128	probing
+0.4540530609	cores
+0.4540148817	span
+0.4539724864	major
+0.4538268217	region
+0.4537779153	development
+0.4535874803	phase
+0.4535774196	generated
+0.4535256086	consists
+0.4533016166	\ epsilon
+0.4532288784	forwarding
+0.4531300542	besides
+0.4530747357	means
+0.4529405063	retrial
+0.4528963126	intrinsic
+0.4528963126	calculation
+0.4528963126	schedulers
+0.4528854437	article
+0.4528854437	caused
+0.4528752398	batches
+0.4528752398	aggregated
+0.4528672407	level
+0.4528375134	rely
+0.4528075170	half
+0.4528075170	coordination
+0.4527169612	signal to noise
+0.4523592931	prominent
+0.4523592931	qualitative
+0.4523592931	pressure
+0.4523592931	tractable
+0.4523592931	uplink
+0.4523460341	simulation model
+0.4522132315	simulating
+0.4521979384	subject
+0.4521114819	packets
+0.4519920124	databases
+0.4519316878	reservation
+0.4519316878	gated
+0.4517648945	stragglers
+0.4517548493	placement
+0.4516440943	class
+0.4516284082	renewal
+0.4515254215	proposed
+0.4513195212	convergence
+0.4512474766	policies
+0.4512327167	improved performance
+0.4509380256	transactions
+0.4508927248	aspect
+0.4508927248	allowed
+0.4508301634	essential
+0.4506837777	tackle
+0.4506347100	exponentially
+0.4506035793	domain
+0.4505769456	jump
+0.4504844351	create
+0.4504088054	expected
+0.4501167984	full duplex
+0.4497261458	layered
+0.4497261458	overlap
+0.4497261458	imperfect
+0.4495668731	play
+0.4494888434	depends
+0.4491737568	works
+0.4491367895	allocated
+0.4490370597	fixed
+0.4489972289	circuit
+0.4489972289	maximization
+0.4489972289	strict
+0.4489972289	conclusions
+0.4489796460	utility
+0.4487592153	soft
+0.4484147228	quantitative aspects of
+0.4483001822	weighted
+0.4480883901	request
+0.4479979137	insights
+0.4479946715	vectorization
+0.4478518295	execution
+0.4477884924	additional
+0.4475759708	correlated
+0.4475311640	fraction
+0.4474779053	global
+0.4473224135	bus
+0.4473140099	combine
+0.4472985960	backlog
+0.4472849958	in
+0.4471253486	developing
+0.4469914908	portable
+0.4469914908	trend
+0.4469914908	tradeoffs
+0.4469281326	utilization
+0.4469247550	constant
+0.4467766979	comparisons
+0.4467766979	recursive
+0.4467658322	then
+0.4467581920	mitigate
+0.4467581920	facilitate
+0.4465940999	potential
+0.4465678743	lengths
+0.4465284082	graphs
+0.4465150934	related
+0.4465056903	slowdown
+0.4464693659	disks
+0.4464387395	avoids
+0.4464387395	establishing
+0.4464387395	track
+0.4464387395	evolve
+0.4464387395	simplify
+0.4464387395	leaves
+0.4464387395	accessible
+0.4464387395	attain
+0.4464387395	explored
+0.4464387395	realized
+0.4464387395	moderate
+0.4464387395	locally
+0.4464387395	vital
+0.4464387395	routes
+0.4464387395	distances
+0.4464387395	fails
+0.4464387395	technological
+0.4464387395	intervals
+0.4464387395	communicate
+0.4464387395	applies
+0.4464387395	experimentation
+0.4464387395	varies
+0.4464387395	drastically
+0.4464387395	prevent
+0.4464387395	encountered
+0.4464387395	meaningful
+0.4464387395	affecting
+0.4464387395	optimizes
+0.4464387395	intuitive
+0.4464387395	analyzes
+0.4464387395	subsequent
+0.4464387395	estimations
+0.4463262126	min
+0.4461194618	medium access
+0.4460390143	slot
+0.4457114836	critical
+0.4456379149	download
+0.4454055904	reduce
+0.4452957396	tends
+0.4452886872	computer vision
+0.4450279296	dependent
+0.4449348679	limitations
+0.4449083872	partitioning
+0.4448953136	unfortunately
+0.4448736501	cooperation
+0.4448098638	conditions
+0.4446990639	serving
+0.4446167996	entire
+0.4445681063	hardware architectures
+0.4443944321	user
+0.4443505666	refined
+0.4442933646	targeting
+0.4440902930	primary
+0.4440807445	road
+0.4439898453	machine learning based
+0.4439538548	overload
+0.4438719461	layer
+0.4438624988	mean
+0.4438318343	type
+0.4436031388	simulated
+0.4435687761	mean field model
+0.4435340102	benefit
+0.4435013364	deployment
+0.4434964970	deadlines
+0.4434319915	years
+0.4431298335	bound
+0.4430981133	opportunity
+0.4430981133	decreasing
+0.4430981133	fold
+0.4430981133	sophisticated
+0.4430981133	circuits
+0.4430678743	box
+0.4429780270	let
+0.4428751889	revenue
+0.4428751889	edges
+0.4428751889	ideal
+0.4428551504	saturation
+0.4428551504	affinity
+0.4427810973	relies
+0.4426625558	family
+0.4424290723	split
+0.4424290723	productivity
+0.4424290723	buffers
+0.4424290723	intra
+0.4424290723	provision
+0.4424290723	action
+0.4424290723	innovative
+0.4424234673	expensive
+0.4424029361	datacenters
+0.4424026437	paths
+0.4423875750	goes to infinity
+0.4423531125	database
+0.4422257959	structure
+0.4422029408	uncertainty
+0.4421196987	saving
+0.4420604579	pruning
+0.4420175793	application performance
+0.4419999552	achieving
+0.4418543775	equations
+0.4418076707	performs
+0.4416478853	tracking
+0.4414931556	plane
+0.4410452438	nodes
+0.4410108058	mappings
+0.4410108058	driving
+0.4405241352	complexity
+0.4404997133	working
+0.4402766927	behavior
+0.4402024173	considered
+0.4400752436	blocks
+0.4400031002	researchers
+0.4396597810	internal
+0.4396597810	arriving
+0.4396597810	investigation
+0.4396597810	carry
+0.4395994738	distributions
+0.4395876276	progress
+0.4395876276	jointly
+0.4395858757	try
+0.4394998156	times faster than
+0.4394876000	extensively
+0.4394665208	coded
+0.4394113746	stacks
+0.4392778328	total number
+0.4392346831	sojourn
+0.4388878509	minimal
+0.4388520152	verified
+0.4388298760	complete
+0.4387387632	deterministic
+0.4387295820	partition
+0.4384982698	combinations
+0.4384904130	overall
+0.4384596807	important
+0.4383942581	cases
+0.4381982424	recommendations
+0.4381982424	specifications
+0.4379895625	provider
+0.4377461229	deliver
+0.4377196603	proposal
+0.4377196603	relaxation
+0.4377196603	spaces
+0.4377196603	avoiding
+0.4377196603	defining
+0.4377196603	enhancement
+0.4377196603	restricted
+0.4377142605	analysis framework
+0.4377114766	types
+0.4377090538	symbols
+0.4377090538	candidates
+0.4377090538	wired
+0.4376522345	area
+0.4376262825	intensive
+0.4375883045	problems
+0.4374072622	busy
+0.4372722387	number
+0.4371792065	capable
+0.4371158347	involved
+0.4370540223	a case study
+0.4369778778	determined
+0.4369628071	emerged
+0.4369562083	many
+0.4369197349	finding
+0.4368393919	omnet + +
+0.4367067019	points
+0.4365095163	centric
+0.4363522508	validation
+0.4362990617	consequently
+0.4362419405	defined
+0.4360853091	expert
+0.4360853091	era
+0.4360853091	dispatching
+0.4360853091	difficulty
+0.4360853091	ensuring
+0.4360853091	contemporary
+0.4360853091	detectors
+0.4360853091	relations
+0.4360853091	spread
+0.4360853091	agent
+0.4359597378	condition
+0.4358146244	replication
+0.4357982469	adaptively
+0.4357982469	sending
+0.4357982469	rack
+0.4357982469	located
+0.4357982469	reconstruction
+0.4357982469	develops
+0.4357982469	aiming
+0.4357982469	suboptimal
+0.4357982469	adequate
+0.4357982469	correctly
+0.4357982469	released
+0.4357982469	calculated
+0.4357982469	conjecture
+0.4357982469	outcome
+0.4357982469	fairly
+0.4357982469	restrictions
+0.4357982469	formalism
+0.4357982469	strengths
+0.4357982469	unpredictable
+0.4357982469	appears
+0.4357982469	briefly
+0.4357982469	severe
+0.4357982469	revealed
+0.4357982469	academic
+0.4357982469	drawn
+0.4357982469	requested
+0.4357982469	distortion
+0.4357982469	architects
+0.4357982469	maintains
+0.4357982469	formats
+0.4357982469	alleviate
+0.4357982469	option
+0.4357982469	generalize
+0.4357982469	converges
+0.4357982469	academia
+0.4356623198	handover
+0.4356623198	maximal
+0.4356623198	learned
+0.4354442989	sensitive
+0.4354022771	workflow
+0.4353947677	experience
+0.4353800603	simulate
+0.4352081692	bounded
+0.4351911841	increasing
+0.4350681102	constraints
+0.4350471170	overcome
+0.4350310668	representation
+0.4349946416	environments
+0.4348895181	exist
+0.4348322248	form
+0.4346613805	microbenchmarks
+0.4346613805	evolving
+0.4346527429	\ cdot
+0.4345456407	literature
+0.4343616786	obtaining
+0.4343616786	consensus
+0.4343616786	disciplines
+0.4343295820	transfers
+0.4341457256	errors
+0.4341330691	arrival
+0.4339379334	reordering
+0.4337023030	arrive
+0.4336822864	stores
+0.4336822864	router
+0.4336822864	million
+0.4336822864	samples
+0.4333480502	numerous
+0.4333263385	properties
+0.4332861890	as
+0.4331259478	synchronous
+0.4331259478	follow
+0.4330668244	former
+0.4330250222	variant
+0.4330250222	vectors
+0.4330250222	powered
+0.4330250222	maintenance
+0.4330250222	interfaces
+0.4330250222	recovery
+0.4330250222	release
+0.4330250222	employing
+0.4330250222	consistent
+0.4330152549	relay
+0.4329748766	in clock cycles
+0.4328610141	decrease
+0.4325807969	negative
+0.4323731316	motivated
+0.4323489268	present
+0.4322929555	however
+0.4321422619	purpose
+0.4320742132	groups
+0.4320742132	images
+0.4319776448	bottleneck
+0.4319088358	assigned
+0.4319069360	trace
+0.4318849509	nets
+0.4316636393	contrast
+0.4316309039	^ 2
+0.4314720069	although
+0.4314105748	identifying
+0.4313619871	address
+0.4313286159	homogeneous
+0.4311322502	detect
+0.4310905050	parallel execution
+0.4310341809	substantial
+0.4308597196	operating
+0.4308034884	real time
+0.4306454914	90
+0.4306064589	today's
+0.4304523905	reuse
+0.4303546130	ensure
+0.4300877744	real data
+0.4300656377	fail
+0.4300503106	memory capacity
+0.4299228158	infinity
+0.4296993280	concurrent
+0.4295556010	loading
+0.4295556010	schedules
+0.4295045108	remaining
+0.4293393770	typically
+0.4290708735	sharing systems
+0.4286251657	promising
+0.4285311719	supporting
+0.4283817957	result
+0.4283738672	relaying
+0.4282515516	construct
+0.4281032943	want
+0.4280743702	early
+0.4280403791	position
+0.4280403791	activities
+0.4280060437	failures
+0.4279663378	change
+0.4277379764	propose
+0.4275390657	perspective
+0.4275262709	question
+0.4274544757	domains
+0.4273950730	top
+0.4273915385	scientists
+0.4273915385	motivation
+0.4273915385	instantaneous
+0.4273915385	unnecessary
+0.4273915385	involving
+0.4273915385	concepts
+0.4273915385	managing
+0.4273915385	explicitly
+0.4273854205	technique
+0.4273831636	reasonable
+0.4272332221	saturated
+0.4270877616	users
+0.4270074865	threads
+0.4269673700	maintain
+0.4267402564	proof
+0.4266629589	left
+0.4266270136	automatically
+0.4266031563	resources
+0.4265717517	build
+0.4265557210	interaction
+0.4263601386	definition
+0.4263595407	previously
+0.4263537337	battery
+0.4262676414	time series
+0.4262146912	greater
+0.4261578142	line
+0.4261245357	versus
+0.4260428038	encoding
+0.4260428038	frequent
+0.4260428038	immediately
+0.4260428038	loaded
+0.4260428038	transitions
+0.4260428038	rigorous
+0.4260428038	forms
+0.4260412576	maximum performance
+0.4259377358	rules
+0.4258736061	based approaches
+0.4257202036	ability
+0.4257134960	capabilities
+0.4256342688	parameters
+0.4256121946	particles
+0.4255308692	variance
+0.4255193826	exhaustive
+0.4255193826	scheduled
+0.4255193826	tailored
+0.4255193826	routers
+0.4255193826	empirically
+0.4255193826	lifetime
+0.4255193826	standards
+0.4255193826	actions
+0.4255193826	constructing
+0.4255193826	designers
+0.4254265642	extract
+0.4254265642	list
+0.4254038613	iteration
+0.4254038613	sense
+0.4254038613	remote
+0.4252211421	careful
+0.4252211421	simultaneous
+0.4252211421	calculating
+0.4252211421	sparsity
+0.4252211421	site
+0.4252211421	systematically
+0.4252211421	vectorized
+0.4252211421	live
+0.4252211421	compatibility
+0.4252211421	procedures
+0.4252211421	relationships
+0.4252211421	configurable
+0.4251211332	monitor
+0.4251167414	thanks
+0.4250411189	factor
+0.4250151296	aspects
+0.4249587272	developed
+0.4248808483	hop
+0.4247948261	hybrid mpi
+0.4245549545	attributes
+0.4245121185	successful
+0.4244650154	simpler
+0.4243855391	experiment
+0.4241928740	operators
+0.4240059554	traditional
+0.4239607873	signals
+0.4239229850	steps
+0.4239077665	guarantees
+0.4238326082	emerging
+0.4237505981	orders
+0.4236947066	queries
+0.4235946517	sizes
+0.4232943673	fact
+0.4232755389	near
+0.4231986118	regime
+0.4231983099	define
+0.4230575731	rule
+0.4230506562	decade
+0.4229758798	special
+0.4229509669	phases
+0.4228222631	aims
+0.4227798259	independence
+0.4227798259	boundary
+0.4227798259	products
+0.4227798259	choosing
+0.4227788206	one
+0.4227542740	desired
+0.4227526618	significant
+0.4224515949	calls
+0.4223942059	fully
+0.4223348758	duration
+0.4222830406	despite
+0.4222062271	heuristic
+0.4220535476	task based
+0.4220473297	current state
+0.4219517773	agents
+0.4219150452	specialized
+0.4219150452	sequences
+0.4218358088	elements
+0.4217818277	written
+0.4217131318	instructions
+0.4216732349	determining
+0.4216530449	optimised
+0.4216530449	unstable
+0.4216530449	chips
+0.4216530449	periodic
+0.4216530449	allocating
+0.4216530449	decades
+0.4216145930	computer science
+0.4215140734	require
+0.4213906000	effectiveness
+0.4210882215	utilize
+0.4210617397	replacement
+0.4210614848	schedule
+0.4209992072	implementing
+0.4209910899	least
+0.4209810389	classical
+0.4208679882	focus
+0.4208457818	11
+0.4206085832	curves
+0.4205761510	leads
+0.4205272033	redundant
+0.4204910540	produce
+0.4203602457	hours
+0.4203602457	held
+0.4203172001	overhead
+0.4201937091	libraries
+0.4201390243	concept
+0.4200841783	covering
+0.4200622902	cluster
+0.4199716766	handle
+0.4198078279	physical
+0.4197059338	parallelization
+0.4196960836	completion
+0.4196633741	faults
+0.4196007843	presented
+0.4195245099	account
+0.4193998662	assume
+0.4193685346	waiting
+0.4192380373	pipelines
+0.4190352247	pipeline
+0.4188526287	tables
+0.4188008922	setting
+0.4185092231	dynamically
+0.4183132953	accelerate
+0.4183132953	turn
+0.4182818238	pages
+0.4182659124	provide
+0.4182599774	extensions
+0.4182403480	characteristics
+0.4182317692	improve
+0.4181258109	benefits
+0.4180507351	advances
+0.4180507351	consuming
+0.4180346211	irregular
+0.4179810389	decisions
+0.4178755904	tiles
+0.4178755904	delivers
+0.4178755904	socket
+0.4178234939	methodologies
+0.4177347914	obtained
+0.4177017765	identical
+0.4176385475	dependencies
+0.4176385475	optimum
+0.4176128244	improvements
+0.4173974116	commonly
+0.4173736274	varying
+0.4173523417	counts
+0.4172367374	job
+0.4172053235	achieved
+0.4169764302	regimes
+0.4169486151	difference
+0.4166396478	choose
+0.4165610875	established
+0.4164411623	computed
+0.4164005850	select
+0.4163684431	simulators
+0.4162089439	requirement
+0.4161333594	offline
+0.4159662072	language processing
+0.4157772636	go
+0.4157675099	idea
+0.4157155905	transmit
+0.4156506402	engines
+0.4155271873	testbed
+0.4155224682	specific
+0.4154176259	such
+0.4154069149	technologies
+0.4153831795	setup
+0.4152909580	introduced
+0.4152464890	behaviors
+0.4152464890	packages
+0.4152464890	vendors
+0.4152464890	predicted
+0.4152464890	continuously
+0.4152464890	managed
+0.4152464890	receivers
+0.4152464890	principles
+0.4152464890	deployments
+0.4152464890	analytically
+0.4151412772	leading
+0.4151390486	response time
+0.4150756106	coverage
+0.4150750245	decoding
+0.4150207938	applied
+0.4149133330	enabled
+0.4147755756	theoretical
+0.4147567315	reason
+0.4147472308	precise
+0.4147472308	read
+0.4147192851	conduct
+0.4146582816	wait
+0.4146453802	original
+0.4144085989	instances
+0.4144020150	least recently used
+0.4143439002	shows
+0.4143359265	combination
+0.4143311310	sufficient
+0.4140071896	validated
+0.4139817918	cycles
+0.4139817918	requiring
+0.4137651526	minimize
+0.4134657177	videos
+0.4133532388	objects
+0.4132687415	formula
+0.4131908810	considers
+0.4131415021	1 \ lambda
+0.4131182488	`
+0.4129569537	inner
+0.4129397489	records
+0.4129063174	de
+0.4128861134	nature
+0.4128484229	regions
+0.4128326780	attack
+0.4128165957	^ 1
+0.4127021026	step
+0.4126835170	solve
+0.4126817562	replicated
+0.4125817186	avoid
+0.4125484547	solvers
+0.4125041330	~
+0.4124513142	= 1
+0.4123653760	consideration
+0.4123653760	match
+0.4123653760	affects
+0.4123653760	numerically
+0.4123653760	profile
+0.4123613729	doing
+0.4123342559	crucial
+0.4122508934	quantify
+0.4121025602	parameter
+0.4120605038	scales
+0.4120383470	engineers
+0.4120383470	exceed
+0.4120383470	helps
+0.4120383470	fluctuations
+0.4120383470	infeasible
+0.4120383470	eliminate
+0.4120383470	accepted
+0.4120383470	extra
+0.4120383470	spent
+0.4120383470	inefficient
+0.4120383470	regard
+0.4120383470	intractable
+0.4120383470	counterpart
+0.4120383470	sized
+0.4120383470	incurs
+0.4120383470	controlling
+0.4120383470	optimally
+0.4120383470	explosion
+0.4120383470	decreases
+0.4120383470	serves
+0.4120383470	timely
+0.4120383470	ease
+0.4120383470	naive
+0.4120383470	discusses
+0.4120383470	practices
+0.4120383470	quantity
+0.4120383470	sufficiently
+0.4120383470	straightforward
+0.4120383470	authors
+0.4120383470	separately
+0.4120383470	contexts
+0.4120383470	incorporates
+0.4120383470	reasons
+0.4120383470	malicious
+0.4120383470	interconnected
+0.4120383470	constantly
+0.4120011573	contention
+0.4118373921	transformations
+0.4116777076	antennas
+0.4116777076	modes
+0.4116556538	weak
+0.4113166288	performances
+0.4113100060	proposes
+0.4112303989	workload
+0.4112181213	update
+0.4111280483	higher
+0.4110849702	parts
+0.4109264140	calculations
+0.4109264140	switches
+0.4108082968	again
+0.4108082968	ten
+0.4107193567	practical
+0.4107080101	modeled
+0.4106705649	operation
+0.4104838192	numbers
+0.4103644040	codes
+0.4103605987	links
+0.4103306952	investigates
+0.4101672817	guaranteed
+0.4101672817	poor
+0.4101672817	trained
+0.4100875005	overheads
+0.4100139230	lower
+0.4100034559	effort
+0.4097719211	sources
+0.4095176771	challenging
+0.4093356943	predict
+0.4093301963	natural
+0.4093221735	achieve
+0.4093028639	lack
+0.4092758893	understand
+0.4092663246	verify
+0.4091579916	generally
+0.4091531738	iterations
+0.4090265998	applicability
+0.4088236429	events
+0.4086448193	discussed
+0.4086264609	issue
+0.4086110706	meet
+0.4084394096	\ textit
+0.4083674024	place
+0.4083605017	evaluate
+0.4083176910	concerns
+0.4083176910	approximately
+0.4083176910	stored
+0.4083176910	widespread
+0.4083176910	start
+0.4083176910	describing
+0.4082714674	parallel applications
+0.4081058570	hence
+0.4080904284	connection
+0.4080203208	peers
+0.4078965897	together
+0.4078658672	costs
+0.4078365425	apply
+0.4076141601	establish
+0.4076099057	system
+0.4072707923	served
+0.4071890330	programmers
+0.4071017846	offer
+0.4069956390	datasets
+0.4069774274	hierarchy
+0.4069285917	flows
+0.4068448193	employed
+0.4068209243	manual
+0.4066911376	increasingly
+0.4066787057	shown
+0.4066007058	term
+0.4065427340	indeed
+0.4064663804	differences
+0.4064194880	turns
+0.4061868448	applicable
+0.4060956191	determine
+0.4058835638	threshold
+0.4058592763	mmwave
+0.4057982637	here
+0.4057773525	non preemptive
+0.4056057012	implemented
+0.4056007058	maximize
+0.4055010058	required
+0.4054562596	usage
+0.4050126632	seconds
+0.4049915467	discover
+0.4047727429	\ mu
+0.4045383601	assess
+0.4043931586	after
+0.4042766584	illustrate
+0.4042597926	time
+0.4040958772	intensity
+0.4040588672	capture
+0.4040562614	scenario
+0.4039371363	designed
+0.4035053251	\ frac
+0.4033392751	training data
+0.4030214538	holds
+0.4029264920	just in time
+0.4027720365	more
+0.4025824685	yielding
+0.4025824685	unprecedented
+0.4025824685	dramatically
+0.4025824685	scaled
+0.4025824685	updated
+0.4025824685	usefulness
+0.4025824685	difficulties
+0.4025824685	explores
+0.4025824685	promise
+0.4025824685	tightly
+0.4025824685	ratios
+0.4025824685	consume
+0.4025824685	vary
+0.4025824685	creates
+0.4025824685	determines
+0.4025824685	suggested
+0.4025824685	impossible
+0.4025824685	agnostic
+0.4025187374	unique
+0.4022930453	developers
+0.4020890679	able
+0.4019814774	popular
+0.4018535402	measure
+0.4016951683	develop
+0.4016928593	therefore
+0.4015264969	if
+0.4011812723	factors
+0.4008921981	length
+0.4008027268	takes
+0.4007001222	footprint
+0.4006702668	named
+0.4005166339	increase
+0.4004901123	represent
+0.4004901123	great
+0.4004221892	assumptions
+0.4001760539	variables
+0.4001043566	selected
+0.3999054050	stable
+0.3998922048	approaches
+0.3998439545	toward
+0.3998205442	capacity region
+0.3997914547	modules
+0.3997914547	sites
+0.3997914547	profiles
+0.3997695176	most
+0.3995405996	assumption
+0.3994246401	correct
+0.3994246401	cover
+0.3993824753	number of users
+0.3992434496	scenarios
+0.3991258304	outperforms
+0.3990884242	pre
+0.3990884242	heuristics
+0.3990884242	connectivity
+0.3989606524	options
+0.3989156704	slow
+0.3989156704	considerable
+0.3989156704	designs
+0.3988650780	allowing
+0.3988441654	computer
+0.3985752911	primitives
+0.3985579290	there
+0.3984484694	right
+0.3984024062	involve
+0.3984024062	communities
+0.3984024062	weights
+0.3984024062	user's
+0.3984024062	plays
+0.3984024062	proven
+0.3984024062	implies
+0.3984024062	greatly
+0.3984024062	parallelized
+0.3984024062	characteristic
+0.3984024062	experimentally
+0.3984024062	discretization
+0.3984024062	ideas
+0.3984024062	consumed
+0.3984024062	added
+0.3984024062	captured
+0.3984024062	dependency
+0.3983787609	since
+0.3982487676	limit
+0.3975948233	towards
+0.3975807917	representative
+0.3975576804	penalty
+0.3974549994	measures
+0.3974334307	dispatcher
+0.3974334307	exploited
+0.3974334307	examined
+0.3974334307	allocate
+0.3974334307	minimizes
+0.3974334307	gained
+0.3974334307	showed
+0.3974334307	adopt
+0.3974334307	combines
+0.3974334307	hope
+0.3974334307	entities
+0.3974334307	phenomenon
+0.3974334307	targeted
+0.3974334307	purposes
+0.3974327381	traces
+0.3974156704	variations
+0.3974156704	heterogeneity
+0.3974156704	loads
+0.3973961132	ongoing
+0.3973961132	vast
+0.3973961132	poses
+0.3973961132	demanding
+0.3973961132	practically
+0.3973961132	capacities
+0.3973961132	parameterized
+0.3973961132	primarily
+0.3973961132	excellent
+0.3973961132	arise
+0.3973961132	heavily
+0.3973961132	selects
+0.3973961132	earlier
+0.3973961132	burden
+0.3973961132	formulas
+0.3973961132	probe
+0.3973961132	reflect
+0.3973961132	organizations
+0.3973961132	vertices
+0.3973961132	linearly
+0.3973961132	aid
+0.3973961132	started
+0.3973961132	bring
+0.3973961132	limitation
+0.3972693622	per second
+0.3969744034	presents
+0.3967670954	loops
+0.3967670954	achievable
+0.3966402184	performing
+0.3966264383	widely
+0.3965616484	his
+0.3964090671	enable
+0.3963610327	attention
+0.3963450724	infrastructures
+0.3963163328	optimize
+0.3961801382	12
+0.3961739329	built
+0.3961739329	production
+0.3960123524	perform
+0.3959610436	time varying
+0.3958344890	called
+0.3957071865	tests
+0.3955264409	along
+0.3954849589	synthetic
+0.3952364818	compare
+0.3950300192	larger
+0.3950161559	5g
+0.3948619770	attractive
+0.3948619770	preserving
+0.3948619770	properly
+0.3948619770	published
+0.3948619770	lines
+0.3948619770	dependence
+0.3948619770	arbitrarily
+0.3948619770	newly
+0.3948619770	storing
+0.3948619770	occurs
+0.3948619770	considerably
+0.3948619770	essentially
+0.3948619770	uniformly
+0.3947339793	describes
+0.3944849589	updates
+0.3943522830	rates
+0.3942921541	obtain
+0.3941947797	analyzed
+0.3941650780	interesting
+0.3941418734	stages
+0.3936788035	collected
+0.3935326236	efficiently
+0.3934129520	generations
+0.3934129520	included
+0.3934129520	frequencies
+0.3934129520	simply
+0.3934129520	satisfied
+0.3934129520	neighboring
+0.3934129520	satisfying
+0.3934129520	operates
+0.3934129520	receiving
+0.3934129520	clear
+0.3934129520	expressed
+0.3933649676	offers
+0.3933384935	supercomputers
+0.3933384935	utilizing
+0.3931527447	extend
+0.3930838451	papers
+0.3930343976	demonstrate
+0.3930284160	importance
+0.3930218619	\ emph
+0.3929950173	executions
+0.3929950173	completed
+0.3929950173	reports
+0.3928996773	bits
+0.3926443467	form expressions
+0.3925969411	candidate
+0.3925813910	implement
+0.3923770256	ports
+0.3922255776	2012
+0.3920059160	provided
+0.3918677638	requests
+0.3918420194	vector multiplication
+0.3911385652	replicas
+0.3910633285	yet
+0.3910568140	accesses
+0.3908060808	does
+0.3903889498	delays
+0.3903006850	identify
+0.3900923344	we
+0.3900637713	files
+0.3897686353	derive
+0.3897584216	2011
+0.3895875919	deployed
+0.3894549996	re
+0.3894398702	target
+0.3893613597	suitable
+0.3891935837	once
+0.3891862145	classes
+0.3890915783	zero
+0.3890822332	performed
+0.3888610762	\ mathfrak
+0.3888550866	$ p_ co
+0.3887652258	variants
+0.3886443440	all
+0.3884768820	thus
+0.3883051781	ensures
+0.3883051781	representing
+0.3883051781	utilizes
+0.3883051781	created
+0.3883051781	completely
+0.3883051781	extent
+0.3882802087	tasks
+0.3882367788	our
+0.3879860762	\ zeta
+0.3879624823	produces
+0.3879624823	system's
+0.3879624823	criterion
+0.3879624823	vendor
+0.3879624823	formulated
+0.3879624823	2x
+0.3879624823	identifies
+0.3879624823	naturally
+0.3879624823	alternatives
+0.3879624823	discussion
+0.3879624823	solved
+0.3879624823	devise
+0.3879624823	contents
+0.3879624823	viable
+0.3879624823	success
+0.3879624823	evaluates
+0.3879624823	understood
+0.3879624823	separate
+0.3877661362	in recent years
+0.3875525618	dynamic load
+0.3874943202	possibly
+0.3873831127	a
+0.3873141339	characterize
+0.3870269217	pool
+0.3869762509	increased
+0.3869590445	mobile ad hoc
+0.3869320937	adapted
+0.3869320937	formulation
+0.3869320937	conclude
+0.3869320937	constructed
+0.3869320937	latencies
+0.3869320937	dimension
+0.3869320937	confirm
+0.3869320937	changing
+0.3869272758	simultaneously
+0.3866531005	explore
+0.3866225699	hold
+0.3863518910	investigate
+0.3863226717	latter
+0.3860665586	frequently
+0.3860351122	significantly
+0.3859832252	supercomputer
+0.3858527262	upper bounds on
+0.3858042037	exploit
+0.3857230494	introduces
+0.3856443119	clients
+0.3855589341	empirical study
+0.3855032215	according
+0.3854665356	gains
+0.3850803357	challenges
+0.3847633610	generate
+0.3846976615	off
+0.3844272208	fill
+0.3843822619	resulting
+0.3839869582	hand
+0.3837673003	individual
+0.3837673003	components
+0.3836676068	layers
+0.3833210782	operations
+0.3831864922	estimate
+0.3830527404	analyze
+0.3830167173	fewer
+0.3830167173	feasible
+0.3830167173	inside
+0.3830167173	largely
+0.3830167173	situation
+0.3830167173	offering
+0.3830167173	situations
+0.3830167173	reveals
+0.3830167173	grows
+0.3830167173	analyse
+0.3829936057	among
+0.3827726888	through
+0.3826844104	design and implementation
+0.3826474204	reduced
+0.3826100093	best
+0.3824853727	rather
+0.3824662758	accurately
+0.3824614808	leverages
+0.3824614808	routines
+0.3824614808	destination
+0.3824614808	addressed
+0.3824614808	occur
+0.3824614808	explain
+0.3822824862	studied
+0.3821517586	exploits
+0.3821517586	transmitted
+0.3821517586	concern
+0.3821517586	objectives
+0.3821517586	generates
+0.3821517586	contributions
+0.3819567009	goal
+0.3819438699	under
+0.3817119729	customer
+0.3813776722	superior
+0.3813776722	remain
+0.3813776722	frame
+0.3813776722	extends
+0.3813776722	formulate
+0.3813776722	processed
+0.3813776722	potentially
+0.3813776722	targets
+0.3813776722	rapidly
+0.3813776722	operate
+0.3810809736	+ 1
+0.3809672619	yield
+0.3809000045	underlying
+0.3808398133	periods
+0.3808398133	estimated
+0.3808357290	operating system
+0.3808265809	it
+0.3807643929	\ theta
+0.3807158127	efforts
+0.3805732031	64
+0.3804530686	speeds
+0.3803738798	derived
+0.3799827898	this paper presents
+0.3799137279	looking
+0.3799137279	getting
+0.3798472960	needed
+0.3789019412	an open source
+0.3785405464	network services
+0.3784716419	relevant
+0.3784075086	side
+0.3783220194	get
+0.3781701625	difficult
+0.3781381060	validate
+0.3770554216	beneficial
+0.3770554216	dimensions
+0.3770554216	argue
+0.3770554216	represents
+0.3770554216	suggests
+0.3770554216	carefully
+0.3770554216	creating
+0.3770554216	quantities
+0.3770554216	independently
+0.3769189834	later
+0.3768468781	speedups
+0.3768468781	inputs
+0.3767692443	values
+0.3765271974	mechanisms
+0.3763812823	beyond
+0.3762732847	observed
+0.3761615372	improves
+0.3761615372	effectively
+0.3760642408	two
+0.3758425781	novel
+0.3756844561	true
+0.3756844561	implements
+0.3756844561	modifications
+0.3756844561	satisfy
+0.3756844561	illustrated
+0.3756844561	proved
+0.3756023383	keeps
+0.3755331915	easily
+0.3750968781	executing
+0.3747903243	goals
+0.3747903243	extremely
+0.3747903243	employs
+0.3747903243	functionality
+0.3747903243	leverage
+0.3747903243	highlight
+0.3747903243	receive
+0.3746480428	an
+0.3745195646	this paper proposes
+0.3740667470	questions
+0.3735850955	criteria
+0.3734082172	cost model
+0.3733839596	directly
+0.3733839596	probabilities
+0.3733839596	manner
+0.3733643632	per node
+0.3731071694	2010
+0.3726934329	value
+0.3725763944	desirable
+0.3725763944	observation
+0.3725763944	exhibits
+0.3724857101	non
+0.3722457208	co
+0.3718768400	management systems
+0.3718601678	received
+0.3716587833	include
+0.3714469604	growing
+0.3712824723	ever increasing
+0.3710935012	unknown
+0.3709215000	classic
+0.3708677168	demands
+0.3708677168	conducted
+0.3708677168	suggest
+0.3706610904	do
+0.3704119417	solutions
+0.3701083329	makes
+0.3698226008	reduces
+0.3698010502	randomly
+0.3695525849	utilized
+0.3695525849	adopted
+0.3695525849	impacts
+0.3695525849	transmitter
+0.3695525849	exhibit
+0.3695525849	substantially
+0.3692002144	exists
+0.3688452723	see
+0.3687044724	demonstrated
+0.3686797437	configurations
+0.3686409189	gi 1
+0.3686191339	number of cores
+0.3685714601	network systems
+0.3683752183	to
+0.3680734182	trends
+0.3679780685	publicly available
+0.3678405982	showing
+0.3678405982	transmissions
+0.3678405982	findings
+0.3677324654	empty
+0.3675156941	learning frameworks
+0.3673351462	settings
+0.3671383010	also
+0.3670602230	$ \ mathcal o
+0.3669128057	investigated
+0.3668969406	the
+0.3668069737	used
+0.3666968835	flexibility
+0.3665420656	host
+0.3665090015	just
+0.3664313905	software systems
+0.3663405982	connections
+0.3663386156	increases
+0.3662668706	distinct
+0.3662657748	sensors
+0.3661223538	inherent
+0.3661223538	equal
+0.3661223538	tuned
+0.3661223538	executed
+0.3661223538	captures
+0.3661223538	identified
+0.3660525849	limiting
+0.3658108381	\ infty
+0.3655971808	supports
+0.3655971808	observations
+0.3655092169	savings
+0.3655092169	complicated
+0.3655092169	negligible
+0.3655092169	demonstrates
+0.3655092169	procedure
+0.3655092169	involves
+0.3652945711	but
+0.3642267586	on
+0.3640945685	2015
+0.3627029522	amount
+0.3626013314	except
+0.3621538053	|
+0.3619504779	variability
+0.3619504779	carried
+0.3617677663	requirements
+0.3614861493	placed
+0.3613415344	full
+0.3612199945	implementations
+0.3610742712	until
+0.3608269847	features
+0.3600850746	predictions
+0.3599418135	6
+0.3598080881	come
+0.3594442742	m m 1
+0.3594350033	popularity
+0.3591814363	an analytical model
+0.3589615985	especially
+0.3583812686	general service
+0.3583312356	n body
+0.3582793692	co design
+0.3581528883	cache memory
+0.3580765281	communication systems
+0.3578516700	chosen
+0.3578516700	estimates
+0.3577683367	reveal
+0.3577683367	ways
+0.3574254572	successfully
+0.3574254572	comparable
+0.3574254572	locations
+0.3574254572	analyses
+0.3574254572	runs
+0.3573316977	actual
+0.3572503633	sent
+0.3572503633	entirely
+0.3572503633	37
+0.3572503633	onto
+0.3572503633	reasonably
+0.3570850746	tested
+0.3570850746	includes
+0.3566549802	enables
+0.3566549802	prove
+0.3566549802	discuss
+0.3565983644	remains
+0.3563710917	messages
+0.3563483644	measured
+0.3563115729	an upper bound
+0.3562130949	shed
+0.3562130949	became
+0.3562130949	viz
+0.3562130949	had
+0.3562130949	name
+0.3562130949	outside
+0.3562130949	3.5
+0.3562130949	19
+0.3562130949	1.5
+0.3561909987	proposed approach
+0.3556319322	new
+0.3556210917	affect
+0.3554868517	key idea
+0.3553589459	optimization based
+0.3546476489	example
+0.3546025406	balance
+0.3544411188	experimental results show
+0.3541773539	up
+0.3540711091	followed
+0.3540711091	never
+0.3540711091	14
+0.3540711091	17
+0.3540711091	80
+0.3540711091	seems
+0.3540441907	year
+0.3536394103	baseline
+0.3533281356	observe
+0.3533281356	tight
+0.3531003598	clearly
+0.3530853774	smaller
+0.3526890072	whole
+0.3526339526	current state of
+0.3525797028	achieves
+0.3522662361	over
+0.3521153027	yields
+0.3516732809	the shortest queue
+0.3515500268	at
+0.3514201853	optimal performance
+0.3508896255	details
+0.3508896255	dataset
+0.3508896255	outperform
+0.3506676202	present results
+0.3501408980	simulation results show
+0.3499145995	many core
+0.3498956456	non linear
+0.3498925338	otherwise
+0.3497490218	currently
+0.3495356652	\
+0.3484410178	employ
+0.3481968651	four
+0.3480797028	introduce
+0.3478576845	quickly
+0.3478576845	advantages
+0.3475106358	i.e
+0.3473551349	20
+0.3468393318	5
+0.3467852251	wide range of
+0.3465201416	concerning
+0.3465201416	gets
+0.3462776722	m g 1
+0.3460179294	&
+0.3458702310	some
+0.3455590811	keep
+0.3450187474	requires
+0.3447539526	why
+0.3444308047	e.g
+0.3444151045	for
+0.3440143539	including
+0.3438077449	200
+0.3434411168	\ log
+0.3432585882	each
+0.3431717746	look
+0.3425355443	m m
+0.3422594247	total energy
+0.3422482555	even
+0.3416473282	when
+0.3414565498	likely
+0.3414322886	number of nodes
+0.3413822980	ever
+0.3410770926	work
+0.3408508484	so
+0.3402271535	time markov chains
+0.3398622513	further
+0.3397151045	with
+0.3390828732	eight
+0.3390828732	seven
+0.3390828732	thorough
+0.3390828732	thoroughly
+0.3384604765	+
+0.3384298539	taken
+0.3380112851	paper investigates
+0.3376557420	well
+0.3371727090	using
+0.3371306594	\ sqrt n
+0.3367227015	regarding
+0.3367227015	whereas
+0.3363869375	compile time
+0.3361015713	following
+0.3357157057	run time
+0.3357107658	few
+0.3352470573	paper focuses on
+0.3347300898	because
+0.3346800737	paper considers
+0.3346498061	three
+0.3340729269	different
+0.3335540051	actually
+0.3334147216	use
+0.3333517951	4
+0.3330635084	multiple data
+0.3325530572	of
+0.3323799858	across
+0.3319701029	alone
+0.3319701029	front
+0.3319701029	away
+0.3319701029	whenever
+0.3319701029	people
+0.3314124212	1
+0.3312921666	2018
+0.3311598861	same
+0.3311551543	$
+0.3311470100	from
+0.3307659728	by
+0.3305400932	upper bound on
+0.3304545798	move
+0.3294957521	802.11
+0.3289884058	2
+0.3288652618	namely
+0.3287347426	or
+0.3285688557	less
+0.3281751269	now
+0.3279948861	mobile ad
+0.3274358695	not
+0.3271861459	so called
+0.3266227731	they
+0.3264995432	significant impact on
+0.3259637860	particularly
+0.3254455017	useful
+0.3250850774	no
+0.3250331424	than
+0.3249441226	proposed scheme
+0.3242504078	\ to \ infty
+0.3241752640	proposed method
+0.3239520731	always
+0.3238783948	mean field limit
+0.3238304342	numerical results show
+0.3233512414	detail
+0.3231647610	9
+0.3227196792	network model
+0.3225624952	2014
+0.3219922750	number of servers
+0.3218738165	plus
+0.3217788893	increasing number of
+0.3216120934	based models
+0.3210668182	appropriate
+0.3207222351	help
+0.3201042168	performance data
+0.3191996124	total number of
+0.3190717233	out
+0.3189939388	relatively
+0.3187801979	key value
+0.3185036576	performance study
+0.3183419188	trade off between
+0.3181464689	much
+0.3174059084	the proposed scheme
+0.3171608403	nor
+0.3171608403	neither
+0.3171608403	512
+0.3171608403	70
+0.3171608403	serious
+0.3169903670	128
+0.3168423201	continuous time
+0.3167872259	model based
+0.3165386082	$ \ mathcal
+0.3160749663	both
+0.3159975275	non uniform
+0.3159541751	discrete time
+0.3157948567	etc
+0.3150787293	far
+0.3149043600	sub
+0.3141581330	$ \ beta
+0.3132651586	other
+0.3132616425	between
+0.3132222595	us
+0.3131850651	$ \ lambda
+0.3128856035	certain
+0.3127595971	sometimes
+0.3127178864	several
+0.3126099604	\ mathbb
+0.3125131306	enough
+0.3124589431	indicate
+0.3124358412	who
+0.3119039158	exactly
+0.3117782635	corresponding
+0.3116118503	only
+0.3114623402	upon
+0.3111953913	time synchronization
+0.3108375467	better
+0.3107764228	24
+0.3107764228	18
+0.3106371773	processing systems
+0.3104763955	necessary
+0.3104431498	10
+0.3104139962	every
+0.3101124759	non volatile
+0.3098983606	call
+0.3097671617	mostly
+0.3096746109	3
+0.3096106313	need
+0.3093334188	widely used
+0.3089630081	become
+0.3087496950	\ textsf
+0.3086220130	what
+0.3085875154	performance analysis of
+0.3085295096	during
+0.3069676503	back
+0.3066952437	how
+0.3063825040	commonly used
+0.3063718375	per
+0.3058258971	way
+0.3055084462	and
+0.3047322671	show
+0.3047313223	good
+0.3047162802	this paper describes
+0.3045306054	day
+0.3045220190	this paper investigates
+0.3040678606	above
+0.3038327517	m g c
+0.3037218857	know
+0.3036095180	on mobile devices
+0.3033753047	without
+0.3032382133	consider
+0.3027817580	this paper introduces
+0.3025178447	before
+0.3024229682	whether
+0.3021342002	performance problems
+0.3019049483	possible
+0.3017836031	graph data
+0.3016879503	7
+0.3014482803	give
+0.3014079211	$ g_n
+0.3007402713	faster than
+0.2993614590	performance results
+0.2993319896	allow
+0.2991872726	very
+0.2990816688	needs
+0.2989721040	known
+0.2988269397	particular
+0.2984616507	its
+0.2982076670	completion time
+0.2981274631	another
+0.2975502365	time to solution
+0.2970821306	*
+0.2968454675	wide variety of
+0.2968215692	non stationary
+0.2967659267	into
+0.2967373912	find
+0.2965312929	32
+0.2965312929	indicates
+0.2965312929	appear
+0.2965227910	40
+0.2965227910	25
+0.2965227910	contain
+0.2965205493	software performance
+0.2964170773	cause
+0.2959540192	five
+0.2959102337	like
+0.2957705408	take into account
+0.2955565866	=
+0.2952786133	^
+0.2951491812	all flash
+0.2950237088	various
+0.2947455786	behind
+0.2947455786	six
+0.2947455786	follows
+0.2947455786	put
+0.2946783964	interest
+0.2945044577	per flow
+0.2936985952	associated
+0.2928679427	take
+0.2926046022	almost
+0.2925981164	usually
+0.2925762132	nearly
+0.2924567579	$ \ omega
+0.2924128192	within
+0.2924105161	tradeoff between
+0.2922451942	2d
+0.2922451942	themselves
+0.2912493985	large number of
+0.2904746501	their
+0.2900165824	provides
+0.2898621200	comes
+0.2893409932	performance evaluation of
+0.2892083950	processing time
+0.2885908693	power of two
+0.2884415684	3d
+0.2883504920	15
+0.2883084813	a single server
+0.2877227143	16
+0.2874901289	having
+0.2874190109	about
+0.2873652512	make
+0.2871602143	quite
+0.2871602143	containing
+0.2871602143	others
+0.2871602143	specified
+0.2865293037	60
+0.2865293037	below
+0.2865293037	thereby
+0.2861767527	50
+0.2853606521	contains
+0.2853606521	vs
+0.2848658586	already
+0.2848587542	out of order
+0.2841648536	first come first
+0.2835672641	the key idea
+0.2834863077	available
+0.2832553112	performance computing
+0.2832011062	allows
+0.2825789437	8
+0.2822771945	two hop
+0.2822758238	seen
+0.2813115653	100
+0.2811479468	whose
+0.2809325642	becoming
+0.2803059096	large scale data
+0.2798655968	waiting time
+0.2798158621	believe
+0.2793838309	done
+0.2793838309	0
+0.2791899961	changes
+0.2791128911	down
+0.2790903424	well suited
+0.2784420009	those
+0.2779434997	little
+0.2776229078	still
+0.2772955658	would
+0.2772272069	been
+0.2772272069	where
+0.2769997967	against
+0.2765399350	too
+0.2764780780	have
+0.2764780780	has
+0.2763158621	causes
+0.2761874566	on chip
+0.2756243516	often
+0.2754850337	made
+0.2749718809	the results obtained
+0.2747350337	cannot
+0.2742023278	\ times
+0.2740153044	via
+0.2735927696	ranging from
+0.2734780780	are
+0.2734780780	which
+0.2734654259	being
+0.2734568014	can
+0.2734568014	that
+0.2733882162	maximum number of
+0.2732765591	\ log n
+0.2731934347	be
+0.2731244073	\ sqrt
+0.2722385031	must
+0.2722026648	respectively
+0.2719062444	total cpu
+0.2718125199	polynomial time
+0.2717995066	is
+0.2712831343	m g
+0.2712259840	non trivial
+0.2712026648	found
+0.2706463365	time consuming
+0.2704106360	itself
+0.2695515541	referred to as
+0.2693819166	two dimensional
+0.2687892113	around
+0.2679892113	ones
+0.2673575893	well known
+0.2672948628	own
+0.2672906787	^ \
+0.2669763783	30
+0.2667948628	described
+0.2666947794	becomes
+0.2666183779	gives
+0.2665879651	learning techniques
+0.2665833191	could
+0.2665833191	were
+0.2662653857	does not
+0.2662144705	modern data
+0.2644266319	may
+0.2642616295	\ right
+0.2639631231	the proposed model
+0.2635864369	mainly
+0.2635864369	might
+0.2635825937	any
+0.2635091454	$ m g c
+0.2629254967	\ alpha
+0.2614630276	few years
+0.2606201495	will
+0.2605788068	$ \ theta
+0.2604023103	de facto
+0.2599731651	describe
+0.2599731651	either
+0.2591926795	the proposed approach
+0.2581883369	this paper considers
+0.2578879738	gpu performance
+0.2577528459	\ rho
+0.2573775016	should
+0.2563770629	the capacity region
+0.2563066643	was
+0.2562128391	uses
+0.2552842833	them
+0.2547723121	based systems
+0.2537772803	$ \ alpha
+0.2525113932	previous work
+0.2481415744	an efficient
+0.2480341060	\ omega
+0.2471366658	mpi +
+0.2469818539	in situ
+0.2463332426	no longer
+0.2454458162	one dimensional
+0.2452434546	significant performance
+0.2450571526	higher than
+0.2425978862	\ left
+0.2424222311	ai workloads
+0.2417339278	learning models
+0.2403330071	well established
+0.2401734875	\ delta
+0.2390724913	three dimensional
+0.2380332452	a wide range
+0.2379075061	on demand
+0.2374895912	the de facto
+0.2367739797	suffer from
+0.2367051978	the power of
+0.2354447891	use cases
+0.2350028013	use case
+0.2342015072	training performance
+0.2340185260	general matrix
+0.2338159320	this paper
+0.2333268875	design and implementation of
+0.2330684579	g 1 queue
+0.2329239815	\ pi
+0.2305431505	a priori
+0.2303996173	many server
+0.2301417502	c c + +
+0.2300475615	greater than
+0.2285504756	performance model for
+0.2281418513	delay bounds for
+0.2274739329	scale computing
+0.2270098144	a domain specific
+0.2262216787	data parallel
+0.2258411968	execution time
+0.2252150412	c c
+0.2248215585	divided into
+0.2245067578	insight into
+0.2229349534	m g 1 queue
+0.2227940860	an in depth
+0.2217016937	this paper studies
+0.2216230896	the mean field limit
+0.2215867953	= \
+0.2212949428	caused by
+0.2201848209	in many cases
+0.2201428837	this letter
+0.2195820524	do not
+0.2190740880	prior work
+0.2188860421	file system
+0.2180959223	an intelligent
+0.2176763107	the shelf
+0.2175430250	$ d
+0.2169369051	queueing system
+0.2164681761	\ lambda
+0.2162268912	into account
+0.2155184564	network performance
+0.2150572161	$ n
+0.2147746293	10 ^
+0.2140059407	knowledge about
+0.2134345046	insights into
+0.2129194342	stochastic network
+0.2123863035	time horizon
+0.2106644520	an empirical
+0.2100337404	larger than
+0.2085065963	special case of
+0.2078440337	results indicate
+0.2064366048	the proposed method
+0.2064219201	an infinite
+0.2059154259	influenced by
+0.2057386848	performance in terms
+0.2049895619	aimed at
+0.2041142313	very high
+0.2039820162	the time of
+0.2036114714	relationship between
+0.2027095797	across multiple
+0.2022258278	benchmark suite for
+0.2018988643	memory systems
+0.2013333864	less than
+0.2007070234	slower than
+0.2001120668	\ beta
+0.1998910638	a closed form
+0.1990396259	$ \ times
+0.1987390964	in multi channel
+0.1983011074	g 1
+0.1978354753	without requiring
+0.1978165465	concerned with
+0.1965876072	system level
+0.1963956440	$ k
+0.1961180848	does not require
+0.1945678764	computing applications
+0.1927370682	the steady state
+0.1921762437	computational cost of
+0.1919989417	deals with
+0.1911836712	become increasingly
+0.1908381924	polling system
+0.1904026511	the results of
+0.1897639354	service time
+0.1894872028	end to end performance
+0.1891533245	mean response time
+0.1887150412	$ d =
+0.1881834211	benefit from
+0.1881083446	the art
+0.1878945280	\ to \
+0.1877463568	while maintaining
+0.1876107333	$ m
+0.1872217709	focuses on
+0.1871366054	the arrival rate
+0.1870242470	motivated by
+0.1869898996	some cases
+0.1862079471	focus on
+0.1854283120	depends on
+0.1851521068	most popular
+0.1843900581	information about
+0.1835676975	this article
+0.1835061511	time slot
+0.1831316987	an overview
+0.1829930715	+ +
+0.1825230398	based on
+0.1822086747	n ^
+0.1821291876	compared to
+0.1819068916	time scales
+0.1816759194	world applications
+0.1814056948	rather than
+0.1811082135	an open
+0.1799911819	a machine learning
+0.1799225805	number of
+0.1786307004	state of
+0.1783464571	a unified
+0.1783193178	the tail of
+0.1781012296	the time to
+0.1770918916	able to
+0.1758450956	more efficient
+0.1757584138	performance comparison of
+0.1756320162	more and more
+0.1755894135	results show
+0.1745734252	available bandwidth
+0.1736158116	equipped with
+0.1735757995	energy consumption of
+0.1730978601	focused on
+0.1724908881	a power law
+0.1721912198	rely on
+0.1720661768	per unit
+0.1709397533	a low complexity
+0.1705790685	the long term
+0.1704347860	learning methods
+0.1695991330	so far
+0.1694148161	emergence of
+0.1692679639	gap between
+0.1687564874	there exist
+0.1685401436	the proposed framework
+0.1684823734	consist of
+0.1674935602	the design of
+0.1674792005	last decade
+0.1669279019	experiments show
+0.1668978450	allows users
+0.1667492826	aims at
+0.1666526511	the dynamics of
+0.1664880457	least recently
+0.1660557246	speedup over
+0.1660129518	recent work
+0.1656526511	the computation of
+0.1648734304	each class
+0.1641526511	the application of
+0.1636575261	as well as
+0.1636526511	the optimization of
+0.1635984658	at runtime
+0.1626484062	each node
+0.1622567424	all cases
+0.1619273478	sojourn time
+0.1617630955	more complex
+0.1614187096	at least
+0.1613893508	more general
+0.1613486489	taking into
+0.1612634395	management system
+0.1606453241	mean waiting
+0.1604855361	a large number
+0.1594949040	the last decade
+0.1587876165	cope with
+0.1586526511	the order of
+0.1585038531	a lot
+0.1583882744	log n
+0.1572408568	more accurate
+0.1572072124	interactions between
+0.1571000596	even though
+0.1567633045	performance models for
+0.1566526511	the purpose of
+0.1561137299	a proof of concept
+0.1560546466	interaction between
+0.1559402519	characterized by
+0.1559357140	$ p
+0.1555795515	depending on
+0.1552303347	lead to
+0.1551351070	depend on
+0.1551334972	most important
+0.1545671171	network models
+0.1530360089	the fixed point
+0.1526526511	the level of
+0.1516526511	the execution of
+0.1515379088	a comprehensive
+0.1513009020	more specifically
+0.1512625987	time scale
+0.1511526511	the solution of
+0.1506526511	the semantics of
+0.1502795484	take advantage of
+0.1500097614	an order of magnitude
+0.1496526511	the simulation of
+0.1489125926	derived from
+0.1488460918	a generic
+0.1486526511	the reliability of
+0.1485099650	the other hand
+0.1480399723	$ \
+0.1476526511	the task of
+0.1471526511	the stability of
+0.1467743996	for large scale
+0.1464820162	with and without
+0.1463669038	each queue
+0.1458820162	the help of
+0.1456135764	to cope
+0.1451526511	the design and
+0.1448849612	while providing
+0.1445781133	one way
+0.1441651110	learning framework
+0.1439602748	d =
+0.1437454422	according to
+0.1432799113	improve performance
+0.1430045452	relies on
+0.1429080977	$ t
+0.1426602440	not necessarily
+0.1425526511	the study of
+0.1422709978	due to
+0.1420335231	first come
+0.1415071840	core performance
+0.1411526511	the capabilities of
+0.1411428277	accurate performance
+0.1410743000	an important
+0.1407406914	2 \
+0.1402875133	based model
+0.1401441348	improvement over
+0.1399405126	proposed model
+0.1396526511	the speed of
+0.1394972860	results obtained
+0.1392038174	communication system
+0.1384167841	+ \
+0.1381087092	a large scale
+0.1377688190	more than
+0.1376526511	the field of
+0.1364493140	supported by
+0.1363906702	extracted from
+0.1360812570	much better
+0.1360650066	better than
+0.1358728328	one or more
+0.1355584259	collected from
+0.1354478999	arrive at
+0.1354459677	area network
+0.1352554119	not only
+0.1351526511	in comparison to
+0.1350329995	a mean field
+0.1347855356	to end delay
+0.1346526511	the throughput of
+0.1341526511	the benefits of
+0.1335759741	$ n \
+0.1330367267	large data
+0.1328251443	emphasis on
+0.1327619732	arising from
+0.1320577253	aim at
+0.1319457847	an analytical
+0.1317840553	new generation of
+0.1316077800	evaluations show
+0.1312623757	to noise ratio
+0.1311430598	this thesis
+0.1307290368	correspond to
+0.1307252387	data workloads
+0.1305526511	the expense of
+0.1305281592	a novel approach
+0.1304404137	in order to
+0.1304148247	performance modeling of
+0.1298193178	the area of
+0.1297086796	very large
+0.1294612721	hardware performance
+0.1292103501	an average
+0.1288176500	offered by
+0.1276920584	first served
+0.1276691882	key performance
+0.1276526511	and optimization of
+0.1273801731	in high performance computing
+0.1265526511	the objective of
+0.1261882786	a holistic
+0.1261754874	much more
+0.1261318024	different levels
+0.1257669555	impact on
+0.1256434146	starting from
+0.1254265250	flow analysis
+0.1245526511	the availability of
+0.1245526511	a suite of
+0.1245511485	vehicle to
+0.1242995500	even if
+0.1242013630	inspired by
+0.1239631676	two level
+0.1236040827	the memory hierarchy
+0.1234983921	an arbitrary
+0.1230553372	over multiple
+0.1228804057	neural networks on
+0.1226237470	with respect to
+0.1222030514	m \
+0.1214855103	propose two
+0.1212080124	compared with
+0.1206880444	such as
+0.1204506855	a survey
+0.1202651295	performance of
+0.1198060295	so as to
+0.1197733346	networks under
+0.1196317055	applied to
+0.1196055089	a single
+0.1195526511	the theory of
+0.1195382185	in terms of
+0.1191317664	large amount of
+0.1183566118	by up to
+0.1183061898	energy efficiency of
+0.1181518014	produced by
+0.1180735937	but also
+0.1175141873	power consumption of
+0.1174615342	k \
+0.1173859844	a speedup of
+0.1167965689	each job
+0.1167610030	by introducing
+0.1165217340	$ c
+0.1160366215	system performance
+0.1158917524	obtained from
+0.1155504811	$ o
+0.1152672692	leads to
+0.1149221397	the worst case
+0.1147506684	system design
+0.1143435002	energy consumption in
+0.1140111613	analysis of
+0.1138513179	in addition
+0.1136026499	imposed by
+0.1135714193	available resources
+0.1131043344	learning applications
+0.1125864730	determined by
+0.1125729499	to improve
+0.1123683294	to reduce
+0.1120172219	by leveraging
+0.1114968997	subject to
+0.1114590968	a benchmark suite
+0.1112903694	an online
+0.1108944248	affected by
+0.1099593088	queueing system with
+0.1098306720	also provide
+0.1096559630	modeled by
+0.1094116705	relying on
+0.1093683294	to achieve
+0.1084910970	the queue length
+0.1084839955	analytical performance
+0.1081742546	this end
+0.1081237023	the service rate
+0.1080824296	a new approach
+0.1077881151	not always
+0.1076446488	close to
+0.1074894088	emerged as
+0.1067790922	dealing with
+0.1067373733	approach based on
+0.1063294162	modeled as
+0.1059608068	in most cases
+0.1054789498	by applying
+0.1053893759	this document
+0.1052644759	easy to
+0.1052624135	to date
+0.1050819902	provided by
+0.1048579255	this report
+0.1045436826	achieved by
+0.1042797670	to ensure
+0.1037876159	the heavy traffic
+0.1033656552	an essential
+0.1032258737	to minimize
+0.1032060566	this issue
+0.1030472075	performance of applications
+0.1029042275	an alternative
+0.1028061185	induced by
+0.1027191509	a simple
+0.1027083508	resulted in
+0.1025677764	mean response
+0.1015683204	interested in
+0.1014401594	to determine
+0.1011092169	on top of
+0.1009504926	an extension
+0.1007457644	corresponds to
+0.1004985390	experienced by
+0.0999575372	combined with
+0.0998239886	an interesting
+0.0996007191	a high level
+0.0992923612	by exploiting
+0.0992058638	through numerical
+0.0991977413	running time
+0.0989892289	represented by
+0.0989153708	consisting of
+0.0986459495	a set of
+0.0985873157	the performance of
+0.0972727336	age of information in
+0.0972294171	an integral
+0.0968803527	systems with
+0.0967557205	to create
+0.0965466193	the aim of
+0.0962744504	power system
+0.0959744972	this problem
+0.0959317117	focusing on
+0.0958207644	accounts for
+0.0956068558	an end to end
+0.0954756192	in data centers
+0.0954353971	performs better
+0.0953777719	inference time
+0.0951522469	an easy
+0.0950377055	more efficient than
+0.0948526324	a data center
+0.0942957044	this work
+0.0942476854	guided by
+0.0941985028	set of
+0.0941941696	this work presents
+0.0939635120	the number of servers
+0.0936168403	communication between
+0.0931487407	1 \
+0.0928227355	to solve
+0.0926959716	to avoid
+0.0926327233	in order
+0.0921442320	consists of
+0.0916698504	a novel
+0.0916556908	training time
+0.0912231846	also shown
+0.0911092762	computing system
+0.0910803275	these issues
+0.0908658462	computer systems
+0.0908545840	range from
+0.0907460058	a comparative
+0.0905653038	service system
+0.0903613281	to overcome
+0.0903563022	many scientific
+0.0903539778	different scenarios
+0.0896318865	workshop on
+0.0895819197	driven by
+0.0892602137	each user
+0.0888769962	leading to
+0.0887591434	the same
+0.0887435491	queuing system
+0.0879196018	these results
+0.0875296660	an application
+0.0874336719	even more
+0.0873198823	data from
+0.0866239145	to optimize
+0.0864591563	the fly
+0.0859375079	taken into
+0.0858894637	each other
+0.0858572610	the proposed
+0.0858132974	n \
+0.0857742979	to use
+0.0855047448	the power consumption
+0.0854609456	this question
+0.0853373157	the use of
+0.0852930511	approach to
+0.0850026880	a new
+0.0847871812	a small number of
+0.0841791602	generalization of
+0.0841017061	models based on
+0.0839598423	each server
+0.0839175470	most efficient
+0.0837103562	then propose
+0.0836749905	an effective
+0.0835885880	a high performance
+0.0833063831	computed by
+0.0830837534	used to evaluate
+0.0827838108	to address
+0.0824687410	running on
+0.0819366654	to handle
+0.0819055854	continue to
+0.0818581687	compute time
+0.0818423373	sojourn time of
+0.0814549226	well as
+0.0813301600	the impact of
+0.0811489023	to support
+0.0810775158	compared to other
+0.0809374777	g c
+0.0800890538	to mitigate
+0.0797960406	four different
+0.0793239915	as much as
+0.0791319012	insensitive to
+0.0791239005	aims to
+0.0791031888	the number of
+0.0787507969	to collect
+0.0785681716	to provide
+0.0785424770	a wide range of
+0.0785348402	university of
+0.0784376291	kinds of
+0.0781690021	function as
+0.0777522994	responsible for
+0.0777468415	takes into
+0.0776492713	variety of
+0.0774622123	the open source
+0.0774550868	along with
+0.0774033713	on average
+0.0773272806	fraction of
+0.0769278659	into multiple
+0.0765971367	run on
+0.0765425046	to decide
+0.0764393660	in practice
+0.0764319865	to maximize
+0.0762344578	to identify
+0.0758908496	deal with
+0.0755169636	generated by
+0.0755005861	nature of
+0.0750746196	amount of
+0.0750394396	to predict
+0.0750284570	to understand
+0.0749368387	composed of
+0.0747721174	amounts of
+0.0747672368	to infinity
+0.0746445096	in turn
+0.0746090947	by means of
+0.0745878509	frameworks such as
+0.0743301600	the problem of
+0.0743161197	suitable for
+0.0740803365	to tackle
+0.0739096940	the state of
+0.0737235579	to enable
+0.0736265800	ability to
+0.0732163261	to meet
+0.0732035677	used to
+0.0731772631	notion of
+0.0730355396	this context
+0.0729622269	majority of
+0.0726943278	by taking
+0.0726364105	defined by
+0.0725403620	speed up of
+0.0725267883	an approach
+0.0725254586	intended to
+0.0724889593	$ 10
+0.0724062331	a performance analysis
+0.0723659771	widely used in
+0.0723628868	the final
+0.0722531919	become more
+0.0721067991	led to
+0.0719647398	an optimal
+0.0719209480	these models
+0.0718803100	more than one
+0.0711957038	framework for
+0.0711803593	tend to
+0.0711726997	to obtain
+0.0709985171	this challenge
+0.0708883657	associated with
+0.0708705610	a constant
+0.0708480584	a lot of
+0.0706809429	an accurate
+0.0700436478	derivation of
+0.0699568424	validated by
+0.0697681716	a large
+0.0695614624	existence of
+0.0691779618	improved by
+0.0691440000	the system
+0.0691199064	role in
+0.0690875936	millions of
+0.0690829257	capable of
+0.0690438196	the main
+0.0690218295	contribute to
+0.0689123822	realization of
+0.0682341275	to cope with
+0.0681269518	the context of
+0.0680649847	other hand
+0.0679700811	obtained by
+0.0677369061	shown to
+0.0677074277	advantage of
+0.0676236641	to compute
+0.0673892684	the largest
+0.0673795503	interpretation of
+0.0671364593	model for
+0.0669218691	evaluation of
+0.0668570519	volumes of
+0.0665573075	in wireless networks
+0.0665285903	as well
+0.0663934018	regardless of
+0.0658795166	among different
+0.0655484254	to guide
+0.0654715535	\ \
+0.0654707053	\ ~
+0.0654314432	queues with
+0.0654072391	reduction in
+0.0652088589	possibility of
+0.0651483683	this purpose
+0.0650643884	in particular
+0.0650151072	seek to
+0.0646960532	by comparing
+0.0645398112	the average
+0.0643546595	the performance
+0.0641667542	proof of
+0.0641429805	the same time
+0.0640873157	the cost of
+0.0640207769	an extensive
+0.0639747201	computation time
+0.0639246472	extension of
+0.0638817587	to tune
+0.0637149684	as possible
+0.0636431677	rise to
+0.0633983571	$ queue
+0.0633031691	applicable to
+0.0632431919	an approximate
+0.0632301600	a function of
+0.0631006871	assumed to
+0.0630484254	to reach
+0.0629814665	to evaluate
+0.0629289035	to apply
+0.0628531888	the amount of
+0.0627860975	assigned to
+0.0625969408	to answer
+0.0625107868	trying to
+0.0623263139	a large number of
+0.0620873157	the efficiency of
+0.0620287112	also demonstrate
+0.0620038196	a major
+0.0620002089	an appropriate
+0.0618792623	to build
+0.0617453724	up to
+0.0615948397	absence of
+0.0615663680	at most
+0.0615628406	behavior of
+0.0614543046	a given
+0.0614310414	also present
+0.0613828308	to develop
+0.0613736022	make use of
+0.0611664096	bounds on
+0.0611006871	allowed to
+0.0609409522	the optimal
+0.0608241505	limited by
+0.0607900989	an explicit
+0.0606639866	portion of
+0.0606356551	at random
+0.0605663261	to accelerate
+0.0603940344	a wide variety of
+0.0603523045	to perform
+0.0603301600	the case of
+0.0602859138	try to
+0.0602193794	novel approach
+0.0601981007	the experimental results
+0.0600462188	memory system
+0.0600313978	this gap
+0.0600055552	related to
+0.0599555064	implementation of
+0.0598791827	to enhance
+0.0598594630	an additional
+0.0598117352	efficient than
+0.0596870895	the original
+0.0596216388	a measure
+0.0595194975	a key
+0.0590674330	want to
+0.0589067516	to facilitate
+0.0588515078	networks with
+0.0587728406	result in
+0.0584603670	to store
+0.0584498822	thousands of
+0.0580180938	to estimate
+0.0579138800	respect to
+0.0578648798	the energy consumption
+0.0573795415	also propose
+0.0569975188	distribution of
+0.0568183780	the mean field
+0.0567551821	m ^
+0.0567178521	hundreds of
+0.0566217891	to accommodate
+0.0562781695	designed to
+0.0561734184	designed for
+0.0561683615	the influence of
+0.0561088251	the entire
+0.0559366731	simulations show
+0.0554637811	comparison of
+0.0553897938	most cases
+0.0553269847	not available
+0.0552973280	the performance evaluation
+0.0552301600	the goal of
+0.0551509299	a variety of
+0.0550176496	good performance
+0.0549832965	jobs with
+0.0548476255	to deal with
+0.0547961487	storage system
+0.0545397332	the trade off between
+0.0545031888	the accuracy of
+0.0542873157	a range of
+0.0542732088	scheduling with
+0.0541905335	overall system
+0.0540929365	across different
+0.0539248185	overview of
+0.0537249721	a case
+0.0536981586	the simulation results
+0.0536719987	to extract
+0.0536011495	to select
+0.0534857563	class of
+0.0533988775	together with
+0.0533493139	formula for
+0.0532738595	better performance
+0.0532249892	many other
+0.0531217891	to learn
+0.0529874608	aspect of
+0.0525537314	a new approach to
+0.0524512367	also show
+0.0521341301	attempt to
+0.0519968267	the presence of
+0.0519465867	combination of
+0.0518371530	a fixed
+0.0517987248	aspects of
+0.0515897819	subset of
+0.0513051460	c +
+0.0512680131	attempts to
+0.0512245296	take into
+0.0510243791	characteristics of
+0.0509287782	description of
+0.0508675304	difficult to
+0.0506659891	a few
+0.0505634438	combinations of
+0.0504841509	the effects of
+0.0504508301	account for
+0.0503893130	these approaches
+0.0503851463	the total
+0.0503365221	the size of
+0.0502432625	a short
+0.0501754374	foundation for
+0.0501508176	the properties of
+0.0501468859	to validate
+0.0501301352	to generate
+0.0499805905	the mean
+0.0499336280	competitive with
+0.0499325645	this result
+0.0498939507	terms of
+0.0498383928	the basis of
+0.0496900342	knowledge of
+0.0496423411	the internet of things
+0.0495997146	by providing
+0.0495085057	in contrast to
+0.0493242142	with minimal
+0.0493009861	the shortest
+0.0492246819	performance in terms of
+0.0491895951	applications such as
+0.0487301600	the effect of
+0.0487124761	to utilize
+0.0486589692	to manage
+0.0486145287	considered as
+0.0485175934	adoption of
+0.0484275352	this study
+0.0483939778	the expected
+0.0483920941	implemented in
+0.0482690660	versions of
+0.0482344771	under different
+0.0482056690	an adaptive
+0.0480698554	a number of
+0.0479047060	similar to
+0.0477872368	to measure
+0.0477543878	the best performance
+0.0475585717	the worst
+0.0474016948	a factor of
+0.0473010216	types of
+0.0471539824	the development of
+0.0471136784	a generalized
+0.0470927177	effect on
+0.0470721590	the idea of
+0.0470717747	a subset of
+0.0470704788	version of
+0.0469132533	these devices
+0.0464965910	light on
+0.0464776714	allocated to
+0.0464757954	known as
+0.0463604563	results from
+0.0462373157	the need for
+0.0462136654	to assess
+0.0460420790	to integrate
+0.0459207040	different types
+0.0459192252	needed to
+0.0458219832	the first
+0.0458056348	aim to
+0.0457669613	assumptions on
+0.0457446568	these techniques
+0.0457228604	written in
+0.0456045499	family of
+0.0455580065	presence of
+0.0455331452	an optimized
+0.0455252703	tends to
+0.0454913985	but not
+0.0454873157	the ability to
+0.0454079583	a result
+0.0454072469	dependent on
+0.0454068992	by reducing
+0.0453741189	advances in
+0.0452976501	device to
+0.0452795267	a real time
+0.0452301600	the effectiveness of
+0.0451841363	this setting
+0.0451107929	enough to
+0.0450249681	fail to
+0.0450009955	a specific
+0.0448784810	sequence of
+0.0448519448	an experimental
+0.0447787041	in depth
+0.0446997016	lack of
+0.0446358704	the end to end
+0.0446087746	an overview of
+0.0445272052	probability of
+0.0444306524	the past
+0.0443675116	to quantify
+0.0443168790	system parameters
+0.0442954301	present two
+0.0442640988	response time of
+0.0442296997	extended to
+0.0442123613	the latter
+0.0441214179	to explore
+0.0439566097	this methodology
+0.0438370213	the minimum
+0.0437533942	parts of
+0.0437076256	characterization of
+0.0435241428	this area
+0.0434287970	a new method
+0.0434236989	to express
+0.0434164169	or even
+0.0434138220	and up to
+0.0433881048	a typical
+0.0432873157	a class of
+0.0431750591	the fastest
+0.0429211653	the efficacy of
+0.0429086986	the first time
+0.0428470926	on quantitative aspects of
+0.0428297511	feasibility of
+0.0428029606	differences in
+0.0427857905	over time
+0.0425976410	rise of
+0.0425428337	approach for
+0.0424627577	definition of
+0.0423961252	with respect
+0.0423585931	an algorithm
+0.0422889007	an example
+0.0422696629	methodology for
+0.0418140024	equivalent to
+0.0417752300	on device
+0.0416710830	a broad
+0.0416422368	in contrast
+0.0414200609	collection of
+0.0411775785	a fundamental
+0.0409725083	strength of
+0.0409315686	form of
+0.0408800020	algorithm for
+0.0408305794	a distributed
+0.0408177617	guidelines for
+0.0407501804	correctness of
+0.0407372054	the latest
+0.0404929775	a series of
+0.0404803028	to implement
+0.0404614784	impact of
+0.0404210372	type of
+0.0404006382	needs to
+0.0403515182	these problems
+0.0402681264	method for
+0.0401676616	in comparison with
+0.0399502269	opportunities for
+0.0398596394	execution time of
+0.0397131704	optimality of
+0.0396799991	variation of
+0.0396682386	to adapt
+0.0395294080	expression for
+0.0394984979	a customer
+0.0393470764	three different
+0.0392970266	platform for
+0.0392279723	the former
+0.0391436894	two different
+0.0390894915	the introduction of
+0.0390249211	different types of
+0.0389340120	two types of
+0.0389158395	degree of
+0.0388600263	a natural
+0.0388452051	many applications
+0.0387436518	to characterize
+0.0385914785	an asymptotic
+0.0385720594	involved in
+0.0385547715	a wide
+0.0385091497	out of
+0.0384311425	in terms
+0.0384297011	comparison with
+0.0383835523	a common
+0.0381638244	range of
+0.0380233013	the evolution of
+0.0379757905	used as
+0.0379593682	a way to
+0.0379577538	approximations for
+0.0378263139	the concept of
+0.0377593682	a system with
+0.0377514277	pair of
+0.0376100601	proceedings of
+0.0371618185	deployed on
+0.0370677468	by considering
+0.0369819828	to construct
+0.0369770244	sum of
+0.0369231408	all other
+0.0369047305	report on
+0.0368210943	the last
+0.0367146251	proportional to
+0.0361142455	to execute
+0.0360472999	tool for
+0.0354638819	for instance
+0.0353587985	expressions for
+0.0351969502	crucial to
+0.0350486964	also consider
+0.0349813639	required to
+0.0349080081	to simulate
+0.0348701136	solution to
+0.0348070878	increase in
+0.0347443473	need to
+0.0346922980	orders of
+0.0345555170	kind of
+0.0345365268	to make
+0.0345255897	understanding of
+0.0344627142	for detecting
+0.0344056206	the possibility
+0.0343791653	available at
+0.0343564366	the system performance
+0.0342470581	a centralized
+0.0342467551	complexity of
+0.0342131845	verification of
+0.0342078791	dedicated to
+0.0341658174	for example
+0.0338768518	a small
+0.0338618552	a promising
+0.0338108278	to deliver
+0.0337376337	the cumulative
+0.0337143639	an order of
+0.0336262872	to detect
+0.0335334416	part of
+0.0331206491	in addition to
+0.0330949743	integration of
+0.0330867086	deployed in
+0.0330281270	used in
+0.0330133185	the trade off
+0.0328701136	solution for
+0.0327900526	the problem
+0.0327686239	an analysis of
+0.0327471553	a state of
+0.0326470921	estimation of
+0.0325759364	as input
+0.0323872964	time complexity
+0.0323647175	the overall
+0.0323333053	to produce
+0.0322788502	needed for
+0.0322000435	to deploy
+0.0321522259	a fast
+0.0321442302	the well known
+0.0320420914	to derive
+0.0320233013	in case of
+0.0319744012	to serve
+0.0317965441	list of
+0.0317727428	$ i
+0.0317725565	to increase
+0.0317685065	to analyze
+0.0317463982	as part of
+0.0316288433	efficacy of
+0.0316262872	to choose
+0.0315060428	decrease in
+0.0314210830	to verify
+0.0313390122	an existing
+0.0313141863	model with
+0.0311782538	as long
+0.0310615027	time distributions
+0.0310420914	a significant
+0.0309862656	the analysis of
+0.0306204843	to keep
+0.0305544894	in detail
+0.0305286972	the derivation
+0.0305057812	the applicability of
+0.0303585050	the case
+0.0303317607	demand for
+0.0303209415	use of
+0.0302609356	performed on
+0.0301219705	a crucial
+0.0300811916	difference in
+0.0300401650	the best
+0.0299573361	different traffic
+0.0297430863	to capture
+0.0296612635	effect of
+0.0294351873	body of
+0.0292733851	to maintain
+0.0290762060	contribution of
+0.0290648493	a detailed
+0.0288412592	line of
+0.0288382201	to run
+0.0286544367	to represent
+0.0286211862	the behavior of
+0.0285685206	assessment of
+0.0285609853	to conduct
+0.0285268798	signal to
+0.0283711862	of up to
+0.0282255581	review of
+0.0281046063	a combination of
+0.0280221830	queue with
+0.0280146250	connected to
+0.0279304089	crucial for
+0.0279181837	utilization of
+0.0278209037	alternative to
+0.0276678760	to grow
+0.0276656551	to exploit
+0.0275403707	a great
+0.0274724981	effectiveness of
+0.0274161070	the highest
+0.0273729275	the behaviour of
+0.0273563200	point to
+0.0272186239	the scalability of
+0.0272093682	a sequence of
+0.0270830549	this way
+0.0270019233	mechanism to
+0.0269968831	behaviour of
+0.0269877182	a prototype
+0.0269496748	to define
+0.0269423284	a framework
+0.0269406694	different hardware
+0.0269212064	support for
+0.0268614603	used for
+0.0268456954	a substantial
+0.0267349700	variance of
+0.0266500150	the complexity of
+0.0265368935	allowing for
+0.0264351873	construction of
+0.0264232151	an approach to
+0.0263682049	cost of
+0.0263025398	expected to
+0.0262203707	a systematic
+0.0262189556	in fact
+0.0261652505	the existence of
+0.0261178676	adapt to
+0.0260895771	a lightweight
+0.0260420914	a general
+0.0260145702	to share
+0.0259653324	applicability of
+0.0259349480	the system in
+0.0259315194	resulting in
+0.0258897240	technique for
+0.0257781462	function of
+0.0256288433	introduction of
+0.0255547769	the quality of
+0.0255507932	or better
+0.0254761021	the proceedings of
+0.0254046689	as fast
+0.0253888284	to extend
+0.0252093682	of thousands of
+0.0252026761	likely to
+0.0251856089	to illustrate
+0.0250936573	importance of
+0.0250273273	for evaluating
+0.0249381799	the majority
+0.0247210562	by means
+0.0247027950	development of
+0.0246615421	a tool for
+0.0245810530	to investigate
+0.0244120790	growth of
+0.0243683675	a central
+0.0242039007	a non
+0.0240938818	goes to
+0.0240504089	basis for
+0.0239956668	required for
+0.0238870602	relative to
+0.0238729275	the definition of
+0.0238479583	mechanism for
+0.0236526379	to deal
+0.0234987332	and forward
+0.0234888551	a finite
+0.0234753913	the m g
+0.0234743277	paper provides
+0.0234538126	the potential of
+0.0234473170	the ability
+0.0233600874	a powerful
+0.0233543650	given by
+0.0232698854	long as
+0.0232698276	an implementation of
+0.0232572428	presented for
+0.0232118209	to offer
+0.0231043937	capability of
+0.0230263906	important to
+0.0227915681	instead of
+0.0227740355	a variety
+0.0225775760	scheme for
+0.0225185200	to gain
+0.0224067298	the need to
+0.0224064110	a huge
+0.0223929015	inference on
+0.0223347382	to combine
+0.0223093114	property of
+0.0222089855	improvement in
+0.0221755652	robustness of
+0.0221420579	the gap between
+0.0221411138	deployment of
+0.0221323863	a subset
+0.0218920374	to find
+0.0218819657	bound on
+0.0218799653	region of
+0.0218719233	size of
+0.0218395010	the whole
+0.0217769909	a stochastic
+0.0217099988	this paper provides
+0.0216283425	derived for
+0.0215735018	performed in
+0.0215486591	server system
+0.0214255921	an architecture
+0.0213921618	efficiency of
+0.0212474329	make use
+0.0212427671	provided to
+0.0212093682	the feasibility of
+0.0209682369	new algorithm
+0.0209530453	the lack of
+0.0209223965	granularity of
+0.0209080508	a certain
+0.0208968162	bounds for
+0.0208249838	the notion of
+0.0208249838	the structure of
+0.0208249838	the choice of
+0.0207307938	internet of
+0.0206149834	optimized for
+0.0205284177	different from
+0.0204639640	optimality in
+0.0203434974	to calculate
+0.0203266413	studied in
+0.0203265476	the presence
+0.0203253084	the execution time of
+0.0202950605	a reasonable
+0.0201767142	the age of information
+0.0201713942	potential for
+0.0201155906	introduced to
+0.0199787215	the notion
+0.0198249838	the importance of
+0.0195729104	the default
+0.0195190942	reported in
+0.0193779908	quality of
+0.0190914150	optimisation of
+0.0190823153	a flexible
+0.0189365646	choice of
+0.0188687957	for studying
+0.0188411815	the robustness of
+0.0186567298	the distribution of
+0.0186014123	peer to
+0.0185719788	the number
+0.0185102463	or more
+0.0184239078	rate of
+0.0183195353	solver for
+0.0183146164	approximation for
+0.0182347790	a diverse
+0.0182320131	especially for
+0.0181729275	the rate of
+0.0181117572	policy for
+0.0180651360	view of
+0.0180434752	new approach to
+0.0179720263	to guarantee
+0.0179309008	problem of
+0.0178651360	volume of
+0.0178111712	time distribution
+0.0178105082	a popular
+0.0178105082	a hybrid
+0.0177941200	a unique
+0.0176253084	an algorithm for
+0.0176249838	the probability of
+0.0174129094	period of
+0.0173668820	structure of
+0.0173411815	the majority of
+0.0172902665	to take
+0.0172320131	interest in
+0.0171945777	factor of
+0.0171731612	order to
+0.0171729275	the degree of
+0.0170323286	a proof of
+0.0170154738	much as
+0.0169761686	infrastructure for
+0.0169616758	employed to
+0.0169013181	to get
+0.0168839864	an implementation
+0.0168218592	calls for
+0.0167970506	the feasibility
+0.0166413385	accuracy of
+0.0164538385	scalability of
+0.0164516080	necessary to
+0.0164146164	strategy for
+0.0163423942	goal of
+0.0162445898	developed to
+0.0161729275	the implementation of
+0.0161092393	a complete
+0.0161039523	essential to
+0.0160470164	hard to
+0.0159823615	to compare
+0.0159404714	the energy consumption of
+0.0159248503	evaluated in
+0.0158865522	useful for
+0.0158496406	prediction of
+0.0158293340	bound for
+0.0157652957	new approach
+0.0157640020	to establish
+0.0156681123	a direct
+0.0156363356	evolution of
+0.0156142302	the execution time
+0.0156054188	a metric
+0.0155424106	discussed in
+0.0154665299	a factor
+0.0152738047	the performance analysis of
+0.0152564034	need for
+0.0152312462	by up
+0.0152304059	challenging to
+0.0151729275	the deployment of
+0.0150595604	a special
+0.0149328242	the desired
+0.0149229275	with up to
+0.0146798926	of magnitude
+0.0145180502	to allow
+0.0143467998	a high
+0.0142081957	proposed to
+0.0141729275	the form of
+0.0141301775	the existence
+0.0140943944	influence of
+0.0140234719	suite for
+0.0140104117	concept of
+0.0139885109	the efficacy
+0.0136795469	system with
+0.0136729275	a solution to
+0.0135062608	the characteristics of
+0.0135024252	to give
+0.0134665299	a discrete
+0.0133610610	contrast to
+0.0131729275	a comparison of
+0.0130701779	issue in
+0.0130323070	a tool
+0.0129989737	a benchmark
+0.0129894325	age of
+0.0129614022	as compared to
+0.0129390488	the scope
+0.0129098326	to complete
+0.0128839864	system size
+0.0128830797	case of
+0.0128332932	a realistic
+0.0127874071	a class
+0.0126798926	a closed
+0.0126521309	critical to
+0.0125875302	of information in
+0.0125745041	the potential
+0.0125024252	corresponding to
+0.0123729275	the integration of
+0.0122071673	a series
+0.0119229275	a model for
+0.0119229275	a framework for
+0.0118851641	to examine
+0.0116234719	means of
+0.0115943197	basis of
+0.0115875302	the age of
+0.0114944909	a scalable
+0.0114104117	context of
+0.0112738047	the evaluation of
+0.0112715129	the internet of
+0.0112221690	the effectiveness
+0.0112149260	a proof
+0.0111873197	an energy
+0.0108704601	consumption of
+0.0103527447	available from
+0.0103497310	idea of
+0.0102766976	the most
+0.0101518797	possible to
+0.0099088096	a collection
+0.0097874071	a number
+0.0096818797	way to
+0.0096746251	the impact
+0.0083108820	so as
+0.0080255023	to end
+0.0077874071	a set
+0.0070728184	to noise

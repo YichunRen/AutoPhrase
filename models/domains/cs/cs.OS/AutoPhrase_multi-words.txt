@@ -1,0 +1,343 @@
+0.9774793506	linux kernel
+0.9561427914	multi core
+0.9532226885	user space
+0.9528915196	page table
+0.9522444316	round robin
+0.9502789646	address space
+0.9474859471	data centers
+0.9417739631	file systems
+0.9410305248	embedded systems
+0.9363986013	fault tolerant
+0.9322303050	wear leveling
+0.9306626521	cloud computing
+0.9288574543	fault tolerance
+0.9281586372	operating systems
+0.9275768418	open source
+0.9251801634	memory hierarchy
+0.9242455663	source code
+0.9027401316	virtual machines
+0.8946199393	virtual machine
+0.8928458894	worst case
+0.8877801594	non volatile memory
+0.8826417817	shared memory
+0.8819213100	power consumption
+0.8697121977	data center
+0.8621139453	schedulability test
+0.8589146983	federated scheduling
+0.8582005316	memory management
+0.8568459809	mixed criticality
+0.8477622176	energy consumption
+0.8425077432	fine grained
+0.8407910382	general purpose
+0.8396979919	scheduling algorithm
+0.8350257473	schedulability analysis
+0.8322843489	access control
+0.8280869742	low criticality
+0.8224409589	data structures
+0.8194243716	checkpoint restart
+0.8165409524	multiprocessor platforms
+0.8159299865	cyber physical
+0.8113912106	timing channels
+0.7979602488	high criticality
+0.7915966189	large scale
+0.7904295968	critical sections
+0.7903145677	fixed priority
+0.7899932483	main memory
+0.7835250757	high speed
+0.7815025123	real world
+0.7782773994	low latency
+0.7626404278	dynamic voltage
+0.7577614127	internet of things
+0.7481770948	experimental results
+0.7457852073	sporadic task
+0.7430347242	high performance
+0.7391918778	time quantum
+0.7369452213	trusted execution
+0.7292811123	scheduling algorithms
+0.7249235845	proof of concept
+0.7195170098	mode switch
+0.6984024964	live os
+0.6929616797	end to end
+0.6915046886	non volatile
+0.6819173588	real time systems
+0.6764886771	hybrid memory
+0.6748734459	real time tasks
+0.6717145331	g states
+0.6556670305	address translation
+0.6532455178	energy efficiency
+0.6374102729	mobile devices
+0.6333422186	soft real time
+0.6285879004	virtual memory
+0.6268694647	low power
+0.6239041131	hard real time
+0.6160386388	simulation results
+0.6156649084	context switches
+0.6156620847	read write
+0.6145965230	a wide range
+0.6099467398	this paper presents
+0.6090101179	user level
+0.6061132455	into account
+0.6039089093	average waiting time
+0.6034359401	sensor networks
+0.5982631133	number of context switches
+0.5901779841	performance overhead
+0.5822612124	risc v
+0.5751759700	persistent memory
+0.5728716885	quest v
+0.5728069372	energy efficient
+0.5654372651	dynamic round robin
+0.5628287825	scheduling problem
+0.5622745930	i o
+0.5618043595	level virtualization
+0.5578973234	operating system
+0.5507501471	key value
+0.5450134786	file system
+0.5328312205	mixed criticality systems
+0.5294314568	real time
+0.5281826227	this paper
+0.5258836050	with respect
+0.5258134340	performance evaluation
+0.5252367773	system calls
+0.5235750734	this paper proposes
+0.5168847552	i o devices
+0.5076481493	resource sharing
+0.5010293254	response time
+0.4916121305	widely used
+0.4801747520	do not
+0.4638183291	periodic task
+0.4634838429	does not
+0.4580302889	low level
+0.4504058289	resource management
+0.4450682423	critical tasks
+0.4427719813	case study
+0.4413836124	runtime overhead
+0.4405454616	high level
+0.4379669444	in addition
+0.4307319098	paper presents
+0.4263807356	$ \
+0.4245215507	a case study
+0.4160117166	use cases
+0.4127424663	less than
+0.4076801265	real time scheduling
+0.4002677564	the art
+0.3991806983	this problem
+0.3913381275	storage systems
+0.3888950928	at runtime
+0.3836017001	as much as
+0.3821148625	global scheduling
+0.3807820407	online scheduling
+0.3807101590	cpu scheduling
+0.3803840657	as well as
+0.3772050358	rely on
+0.3727239163	os level
+0.3722439054	run time
+0.3696963179	an open source
+0.3682154383	such as
+0.3517767972	depends on
+0.3516090614	focuses on
+0.3467435895	the execution of
+0.3461061310	to protect
+0.3458140349	caused by
+0.3452366879	storage devices
+0.3440453866	large number of
+0.3414821049	in order to
+0.3367435895	the development of
+0.3358982250	results show
+0.3344821049	in terms of
+0.3287631804	compared to
+0.3282585267	based on
+0.3238438483	due to
+0.3174174392	more than
+0.3145862057	this work
+0.3086415438	subject to
+0.3048367580	physical memory
+0.3007151971	computing systems
+0.3003021817	able to
+0.2986799278	to meet
+0.2944192978	along with
+0.2943440492	an application
+0.2922097599	this approach
+0.2887360107	the literature
+0.2855860928	soft real
+0.2831645720	according to
+0.2828591908	variety of
+0.2811384471	security tasks
+0.2727721145	but also
+0.2710466384	responsible for
+0.2692476047	not only
+0.2586389430	to determine
+0.2566188043	task model
+0.2548054887	better than
+0.2500268155	an online
+0.2498173300	paper proposes
+0.2484884064	average waiting
+0.2422394424	os kernel
+0.2417627846	large number
+0.2414779647	the presence of
+0.2393318079	number of
+0.2384622205	a variety
+0.2377469666	on top of
+0.2356041702	to ensure
+0.2341753285	criticality systems
+0.2337651484	consists of
+0.2257978972	a single
+0.2254549698	task scheduling
+0.2247097434	number of context
+0.2232855837	provided by
+0.2171633234	to avoid
+0.2167267932	real time applications
+0.2123828040	advantage of
+0.2120273555	linux based
+0.2111864830	a novel
+0.2074989232	leads to
+0.2070235491	a new
+0.2065138596	execution time
+0.2056977384	to reduce
+0.1966128811	lines of
+0.1910324777	by up to
+0.1908778044	an open
+0.1894286532	support for
+0.1893183237	criticality tasks
+0.1886277158	the performance of
+0.1830490377	an optimal
+0.1824050510	the effectiveness of
+0.1808445076	running on
+0.1785762895	lack of
+0.1783835690	amount of
+0.1760275189	task systems
+0.1759370814	to improve
+0.1754110735	for example
+0.1751545015	a variety of
+0.1700653872	instead of
+0.1693758671	up to
+0.1681545015	a set of
+0.1669239960	schedulability test for
+0.1643887140	the case of
+0.1641934743	wide range of
+0.1620882146	to achieve
+0.1604700472	performance computing
+0.1604482175	on demand
+0.1596641343	the same
+0.1596330272	an operating system
+0.1592682772	priority scheduling
+0.1588279905	to enable
+0.1578044962	respect to
+0.1564137583	lead to
+0.1557110491	the number of
+0.1494362963	part of
+0.1489083846	of magnitude
+0.1485818119	memory systems
+0.1394003947	memory access
+0.1364377128	a simple
+0.1337108929	to develop
+0.1308353573	designed for
+0.1302429562	objective of
+0.1279088433	used to
+0.1266371998	system level
+0.1255245365	real time tasks on
+0.1208858629	focus on
+0.1146089721	suitable for
+0.1109621938	the problem of
+0.1104032861	an important
+0.1103551965	set of
+0.1094415819	the state of
+0.1048717336	to address
+0.1016414283	combination of
+0.0972562330	state of
+0.0970808245	to support
+0.0961001486	ability to
+0.0953996938	the design of
+0.0950563243	to make
+0.0941497555	to provide
+0.0927838748	in turn
+0.0891970473	the same time
+0.0891180933	access to
+0.0864104289	an efficient
+0.0843380137	the need for
+0.0830052177	the current
+0.0829089721	easy to
+0.0782445559	in practice
+0.0778210072	the main
+0.0762992681	waiting time
+0.0762055638	a result
+0.0755100289	system services
+0.0754166902	a number of
+0.0752166902	the concept of
+0.0691834819	written in
+0.0630279466	storage system
+0.0624007852	system design
+0.0589439629	the impact of
+0.0586146890	a small
+0.0584079167	terms of
+0.0580809759	the use of
+0.0563879346	analysis of
+0.0558082486	the implementation of
+0.0548847025	approach to
+0.0548373477	the case
+0.0538664715	to perform
+0.0527785241	the os
+0.0527114276	to execute
+0.0498082486	the file system
+0.0497086647	the original
+0.0495192708	to prevent
+0.0481827004	use of
+0.0446235125	a significant
+0.0427324724	implementation of
+0.0412952297	an os
+0.0411238014	quality of
+0.0397155943	to build
+0.0395892938	used in
+0.0395304702	the first
+0.0395090753	form of
+0.0375696814	proof of
+0.0374804375	efficiency of
+0.0334067708	to manage
+0.0328456382	on average
+0.0327720632	a large
+0.0327111900	on top
+0.0321234544	role in
+0.0311369178	a wide
+0.0302238011	this model
+0.0299618963	an approach
+0.0297314745	applied to
+0.0294252770	framework for
+0.0292132397	the performance
+0.0286507852	to implement
+0.0284505839	the last
+0.0281024110	range of
+0.0280220632	to run
+0.0274567708	the ability
+0.0259606179	well as
+0.0255901792	a prototype
+0.0242456958	the android
+0.0235744178	to end
+0.0234542240	as well
+0.0227314745	related to
+0.0221665747	the potential
+0.0211584939	out of
+0.0208962472	technique for
+0.0203296837	impact of
+0.0191665747	in order
+0.0182820233	a full
+0.0180138943	mechanism for
+0.0178198798	view of
+0.0177493360	to demonstrate
+0.0177317921	a framework
+0.0172075135	to take
+0.0171665747	the internet
+0.0162478423	concept of
+0.0161665747	a shared
+0.0161665747	a secure
+0.0160566082	possible to
+0.0153296837	designed to
+0.0145395298	used by
+0.0142708602	test for
+0.0142120367	difficult to
+0.0132636036	evaluation of
+0.0118332414	a general
+0.0110138943	run on
+0.0104729686	the number
+0.0102708602	effectiveness of
+0.0098962472	dynamic time
+0.0082838809	need to
+0.0072120367	presence of

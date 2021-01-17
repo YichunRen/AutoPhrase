@@ -1,0 +1,3798 @@
+0.9708507451	neural networks
+0.9684356455	automatic differentiation
+0.9639238597	monte carlo
+0.9631736659	fourier transform
+0.9622937015	symbolic computation
+0.9608867191	pattern matching
+0.9608629307	quantifier elimination
+0.9601032540	matrix multiplication
+0.9565184639	programming language
+0.9565122521	model checking
+0.9562847515	ordinary differential equations
+0.9543562729	algebraic geometry
+0.9512486746	power series
+0.9467372756	partial differential equations
+0.9458803805	chemical reaction
+0.9451397003	truth table
+0.9430694537	differential equations
+0.9417797394	differential equation
+0.9400363372	logic programming
+0.9372847052	finite difference
+0.9371977206	formal power series
+0.9368747898	machine learning
+0.9360880948	formal verification
+0.9360180491	las vegas
+0.9355527696	deep learning
+0.9343976283	lie algebra
+0.9301191889	data structures
+0.9291783606	finite field
+0.9285424103	linear algebra
+0.9277275157	canonical form
+0.9261672397	domain specific
+0.9253226236	real algebraic geometry
+0.9235374815	weyl algebra
+0.9234218628	arbitrary precision
+0.9195785636	galois group
+0.9168857164	list decoding
+0.9162592658	dynamical systems
+0.9138849044	real root isolation
+0.9137619225	quantum field theory
+0.9128711851	gaussian elimination
+0.9118248682	special functions
+0.9114574471	number field
+0.9108396362	linear logic
+0.9092581072	generating function
+0.9075891561	floating point
+0.9069895218	data structure
+0.9066516459	euler characteristic
+0.9054237547	number fields
+0.9051976259	computational complexity
+0.9037816036	characteristic set
+0.9034779983	rational functions
+0.9028157735	commutative algebra
+0.9022187869	closed form
+0.9012291895	differential operators
+0.9010096235	input output
+0.8994345541	difference equations
+0.8987004058	normal form
+0.8970837067	irreducible polynomial
+0.8970222875	loop invariants
+0.8962303619	open source
+0.8961046248	rational function
+0.8960074818	triangular decomposition
+0.8959828102	berlekamp massey
+0.8936584760	creative telescoping
+0.8931271004	square free
+0.8928239177	polynomial ring
+0.8913301470	zeta function
+0.8885377145	polynomial interpolation
+0.8868857389	critical points
+0.8863526840	number theory
+0.8863246601	algebraic curve
+0.8858035332	low rank
+0.8851880331	finite fields
+0.8845943609	analytic combinatorics
+0.8834828102	chern schwartz macpherson
+0.8829731904	feynman diagrams
+0.8815057899	generating series
+0.8813485617	theorem proving
+0.8806943355	numerical methods
+0.8801373644	homotopy continuation
+0.8791958555	programming languages
+0.8780995924	approximate gcd
+0.8774231501	harmonic sums
+0.8769215073	puiseux series
+0.8749261622	chinese remaindering
+0.8748546396	plane curves
+0.8743370827	satisfiability checking
+0.8736288524	binomial difference
+0.8727199183	symbolic summation
+0.8722046101	rank profile matrix
+0.8720833133	linear combination
+0.8698496163	low level
+0.8693326635	term rewriting
+0.8687390247	positive integer
+0.8686292942	symbolic manipulation
+0.8683339925	straight line
+0.8665523751	groebner basis
+0.8643885593	ordinary differential
+0.8638085437	cylindrical algebraic
+0.8633742086	root finding
+0.8633359166	rational numbers
+0.8632617292	cylindrical algebraic decomposition
+0.8629576414	hypergeometric terms
+0.8623573996	symbolic numeric
+0.8620345175	groebner bases
+0.8616955984	higher order
+0.8616020311	bivariate polynomials
+0.8613268282	sparse interpolation
+0.8605227438	hypergeometric functions
+0.8598650295	general purpose
+0.8568780022	maple package
+0.8565149436	identity testing
+0.8562300302	branch cuts
+0.8542642904	border bases
+0.8523659193	bivariate polynomial
+0.8521461222	generalized criterion
+0.8520943587	bit size
+0.8519024965	sat solvers
+0.8516957799	binomial sums
+0.8503033775	positive dimensional
+0.8497746554	steady states
+0.8496139898	ideal lattices
+0.8484907427	nested sums
+0.8482196533	hypergeometric term
+0.8474678690	quantum field
+0.8471280613	linear forms
+0.8467419632	homogeneous polynomials
+0.8465947302	normal forms
+0.8457117318	grobner bases
+0.8456386140	newton iteration
+0.8448934090	invariant factors
+0.8448177768	reduction based
+0.8442936222	boundary problems
+0.8441044900	finite state
+0.8422404720	involutive bases
+0.8415103474	extension field
+0.8412651347	power series solutions
+0.8410180300	series expansion
+0.8393025024	high performance
+0.8376872422	complexity estimates
+0.8372423446	holonomic sequences
+0.8370453415	rational solutions
+0.8365353417	irreducible factors
+0.8355582977	lower bounds
+0.8351099718	chow form
+0.8345942140	symbolic integration
+0.8337800636	hypergeometric products
+0.8324083064	triangular set
+0.8321903596	upper bounds
+0.8320504316	bit length
+0.8319115726	recurrence equations
+0.8318498999	greatest common
+0.8315993917	decision procedures
+0.8303861260	field theory
+0.8300867159	high degree
+0.8299536240	total degree
+0.8296985041	conservation laws
+0.8285633125	large scale
+0.8278978334	maximum degree
+0.8276876808	differential resultant
+0.8262524480	experimental data
+0.8257237549	low degree
+0.8245555590	case study
+0.8240087940	characteristic sets
+0.8221579903	univariate case
+0.8212955926	difference ring
+0.8203528233	difference resultant
+0.8188675740	space curve
+0.8165977385	mathematica package
+0.8165604161	equational constraints
+0.8157921649	arithmetic operations
+0.8156418472	program variables
+0.8155816686	multi sums
+0.8155383707	worst case
+0.8148651252	univariate polynomials
+0.8137455360	complex roots
+0.8133017250	root isolation
+0.8114820975	triangular sets
+0.8110517387	matrix vector
+0.8103501207	signature based
+0.8101216645	main result
+0.8100445944	space curves
+0.8094487627	quasi linear
+0.8087687021	algebraic curves
+0.8083469207	multivariate polynomials
+0.8081423790	real roots
+0.8081172389	high order
+0.8079107085	symbolic computations
+0.8078043140	lower bound
+0.8077541028	hybrid systems
+0.8074853764	output size
+0.8066410849	numerical computation
+0.8058724143	bit operations
+0.8036902783	fraction free
+0.8034410758	input matrix
+0.8028304966	partial differential
+0.8026626671	bit complexity
+0.8026401216	bounded degree
+0.8019580836	lacunary polynomials
+0.8011982949	high level
+0.8005879792	residue class
+0.7994918324	closed field
+0.7994068482	generating functions
+0.7983912703	special cases
+0.7981646421	continuous amortization
+0.7980564454	real root
+0.7978810143	differential reduction
+0.7975185766	algebraic numbers
+0.7970312163	integer multiplication
+0.7963343761	complex golay
+0.7949841020	tropical differential
+0.7943149580	theorem provers
+0.7942558087	module border
+0.7933548373	parameter space
+0.7909538998	regular chains
+0.7908602387	algebraic number
+0.7899253853	semi algebraic sets
+0.7882793222	black box
+0.7869173169	polynomial optimization
+0.7865954829	betti numbers
+0.7856559506	connected components
+0.7851415493	equation systems
+0.7849895757	sparse resultant
+0.7845919547	experimental results
+0.7834296045	semi algebraic
+0.7806682961	complex numbers
+0.7784100390	solution set
+0.7783531171	fast fourier
+0.7777732876	complexity analysis
+0.7769943492	upper bound
+0.7766721809	real solutions
+0.7735624736	exact arithmetic
+0.7719928821	complexity bound
+0.7709984940	fall degree
+0.7706663235	polynomial rings
+0.7706500374	linear differential equations
+0.7700643233	field operations
+0.7694708908	newton polytope
+0.7689975319	signature based algorithms
+0.7679510837	f5 algorithm
+0.7667844512	hilbert scheme
+0.7662300864	linear partial differential
+0.7661965754	real numbers
+0.7650311318	variable ordering
+0.7648798998	cyclotomic harmonic
+0.7633534878	previous results
+0.7630297879	existing algorithms
+0.7625056753	international workshop
+0.7612273054	algebraic set
+0.7604643599	sparse polynomial systems
+0.7587475787	theoretical results
+0.7583772633	linear ordinary
+0.7577998033	np hard
+0.7555081813	multivariate polynomial
+0.7552927780	sparse matrices
+0.7551071560	singly exponential
+0.7550028542	curvature tensors
+0.7527550194	recurrence relations
+0.7521168112	recent years
+0.7504011992	polynomial ideals
+0.7495694898	polynomial inequalities
+0.7475689242	obner basis
+0.7473188125	differential chow
+0.7470568979	symmetry class
+0.7469403231	sufficiently large
+0.7467879646	special case
+0.7452194885	linear partial differential equations
+0.7429594469	previous algorithms
+0.7427872906	logarithmic factors
+0.7423545374	genericity assumptions
+0.7410741426	complexity bounds
+0.7381283581	moore penrose inverse
+0.7373155448	linear recurrence
+0.7368280202	indefinite nested sums
+0.7367185963	semi algebraic set
+0.7352943544	characteristic polynomial
+0.7345859085	weighted moore penrose
+0.7314793968	degree bound
+0.7295977474	feynman integrals
+0.7277921236	algebraic sets
+0.7271537006	arithmetic complexity
+0.7267649831	linear difference
+0.7242685994	obner bases
+0.7233030736	univariate polynomial
+0.7223250853	bivariate rational
+0.7173893582	series solutions
+0.7163625057	polynomial systems
+0.7150453380	` `
+0.7148930640	sufficient condition
+0.7124738124	symmetry classes
+0.7117202833	finitely generated
+0.7095759436	difference ideals
+0.7091810607	reaction networks
+0.7075468882	sparse polynomials
+0.7034339050	skew polynomials
+0.7017114639	rewriting systems
+0.7014136722	polynomial multiplication
+0.7009017056	gvw algorithm
+0.7005848772	proposed method
+0.6961264968	iterated integrals
+0.6960591575	rewrite rules
+0.6952659473	finite set
+0.6949487836	multivariate rational
+0.6944073572	parametric polynomial
+0.6916219251	sat solver
+0.6889118515	minimal polynomial
+0.6879741940	efficient algorithms
+0.6877781771	rank profile
+0.6852997972	newton polytopes
+0.6820036149	divide and conquer
+0.6746766776	finite functions
+0.6732970256	sum of squares
+0.6717542877	indefinite nested
+0.6716008875	mathematica
+0.6699737311	linear differential
+0.6692998412	zeilberger
+0.6692998412	jacobian
+0.6692998412	kronecker
+0.6650645550	acl2
+0.6644750943	boolean
+0.6632901803	ai
+0.6620786024	sparse polynomial
+0.6613327472	connected component
+0.6607179802	hilbert
+0.6603435239	formal power
+0.6592057020	smt
+0.6592057020	fft
+0.6591943880	gf
+0.6591527537	chebyshev
+0.6580000237	gpu
+0.6577232150	maple
+0.6575332499	frobenius
+0.6575332499	horn
+0.6568358046	cad
+0.6568114357	dae
+0.6565819811	newton
+0.6546576450	finally
+0.6541265823	coq
+0.6537045823	buchberger's
+0.6537045823	smith
+0.6523929577	sos
+0.6523850154	euclidean
+0.6521780775	hankel
+0.6521780775	young
+0.6517852964	macaulay
+0.6517852964	sylvester
+0.6513478003	pdes
+0.6508327844	fast matrix
+0.6507208312	python
+0.6506879450	algorithmic approach
+0.6503050862	ml
+0.6489112624	mellin
+0.6484068274	paper describes
+0.6480056624	riemann
+0.6474697929	fglm
+0.6468017001	sage
+0.6454120219	galois
+0.6431991785	daes
+0.6430112132	linear space
+0.6426879430	real closed
+0.6426742067	buchberger
+0.6426742067	gauss
+0.6426742067	poisson
+0.6426742067	strassen
+0.6426742067	prolog
+0.6422448372	odes
+0.6412568732	ode
+0.6408645439	ore
+0.6385934165	hermite
+0.6379241816	cads
+0.6370983768	gaussian
+0.6365037171	issac
+0.6360138057	web
+0.6335678550	laurent
+0.6310724615	magma
+0.6296200880	darboux
+0.6296200880	zeilberger's
+0.6295654714	sdp
+0.6285007649	algebraic decomposition
+0.6281250357	cas
+0.6253836426	ad
+0.6252033347	polynomial ideal
+0.6243926979	lu
+0.6243926979	cpu
+0.6241979986	liouvillian
+0.6239646760	rur
+0.6234067519	sat
+0.6231469151	additionally
+0.6223763780	f4
+0.6210982799	euler
+0.6207500711	qe
+0.6186772700	differential algebraic
+0.6181635041	descartes
+0.6176171521	residues
+0.6171627241	semantic
+0.6151736838	graphs
+0.6130903229	fast
+0.6129159873	continued
+0.6122446920	singular
+0.6120518613	ii
+0.6110528773	c + +
+0.6106667671	basis computations
+0.6106667597	programming
+0.6104695836	polynomial sets
+0.6099669965	lie
+0.6097138098	algebraic functions
+0.6090568363	proceedings
+0.6088129175	maxima
+0.6083812149	sc
+0.6079197899	ag
+0.6079197899	lll
+0.6076874136	sat + cas
+0.6076524924	f_q
+0.6076524924	theorema
+0.6076524924	mahler
+0.6076524924	bernstein
+0.6075817834	resultant based
+0.6072244259	tensor
+0.6067059995	ginac
+0.6059721718	popov
+0.6049180089	geometry
+0.6048897282	unlike
+0.6048846320	matlab
+0.6042722907	polyhedral
+0.6041154050	recently
+0.6040047152	gvw
+0.6038327537	kaltofen
+0.6038327537	noetherian
+0.6036019117	discriminants
+0.6032299965	proofs
+0.6029083241	quantum
+0.6028532335	reconstruction
+0.6025268865	reasoning
+0.6024278371	combining
+0.6023809057	sl
+0.6019902934	sufficient conditions
+0.6018521743	unification
+0.6013918207	exploiting
+0.6008518627	processes
+0.6004944407	specifically
+0.6001588303	pseudo
+0.5993030943	faug \ `
+0.5991962134	calculus
+0.5991255547	mathematics
+0.5991070958	isomorphism
+0.5991070958	theorems
+0.5989658340	library
+0.5987779151	fourier
+0.5987327573	parallel
+0.5982525619	pslq
+0.5977626592	multiple
+0.5975760543	prover
+0.5973894791	gap
+0.5973119595	algebraic equations
+0.5972475791	inference
+0.5966847398	root
+0.5965914988	gcd
+0.5958132797	theorem
+0.5948259322	simulation
+0.5947681900	remainder
+0.5947681900	biological
+0.5946710058	projections
+0.5946245988	imp
+0.5946002610	reverse
+0.5940675485	software
+0.5938239986	mm
+0.5937122071	cass
+0.5936449977	prs
+0.5932174948	local
+0.5930631800	combinatorial
+0.5929713745	resultants
+0.5928569691	symbolic
+0.5928534940	smart
+0.5926575817	special
+0.5925994402	ip1s
+0.5924939271	weyl
+0.5924304253	simultaneous
+0.5921397911	stochastic
+0.5921397911	refinement
+0.5918438706	np
+0.5911340305	counting
+0.5910476714	flow
+0.5908135619	nonlinear
+0.5907657354	knowledge
+0.5905686416	x_1
+0.5904672370	haskell
+0.5902282134	decompositions
+0.5901286753	effective
+0.5900408685	scalar
+0.5898924347	games
+0.5898473215	circuits
+0.5894566947	denominator
+0.5893248804	divisor
+0.5890850833	graph
+0.5890529912	schur
+0.5879803680	clifford
+0.5878756912	interpolation algorithms
+0.5877597955	tropical
+0.5873777394	andrews
+0.5873777394	strassen's
+0.5873777394	segre
+0.5873777394	hopf
+0.5870720581	linearly
+0.5870720581	constructive
+0.5870720581	cohomology
+0.5866924799	modular
+0.5865795372	interpolation
+0.5864859913	improved
+0.5862696018	chinese
+0.5861005096	functional
+0.5860241331	differentiation
+0.5860099086	feynman
+0.5854862049	projective
+0.5853910875	implementing
+0.5853403041	fractional
+0.5853403041	walks
+0.5852668742	gb
+0.5850535943	cf
+0.5848715467	factorization
+0.5847094850	relative
+0.5845886718	integral
+0.5844672889	integer coefficients
+0.5844590732	forward
+0.5841115924	computing
+0.5838958322	determination
+0.5838360071	codes
+0.5837790788	faster
+0.5837331321	dynamic
+0.5836895305	algebraic
+0.5835304716	generalized
+0.5834151910	sparse
+0.5829003143	building
+0.5829003143	incremental
+0.5827524384	solving
+0.5827293627	comprehensive
+0.5826470593	transformations
+0.5826174741	differential polynomials
+0.5825978323	inversion
+0.5824218283	physics
+0.5823619509	sums
+0.5822396848	f_p
+0.5822050549	language
+0.5819723092	parameterized
+0.5819235791	systems
+0.5817436580	chordal
+0.5816733366	topological
+0.5815641758	algebra
+0.5814761732	big
+0.5814498123	recursion
+0.5813285138	domains
+0.5811814243	based methods
+0.5811684522	cyclic
+0.5808953065	computers
+0.5808620964	constrained
+0.5808620964	processing
+0.5808010402	efficient
+0.5807283858	exact
+0.5804539314	maude
+0.5804539314	drinfeld
+0.5804539314	abramov
+0.5804539314	theano
+0.5804539314	pommaret
+0.5804539314	regularchains
+0.5804539314	nullstellensatz
+0.5804539314	taylor
+0.5804539314	ritt
+0.5804539314	turing
+0.5804539314	bezout
+0.5801915627	cloud
+0.5801915627	bounding
+0.5801425746	f5
+0.5801231548	affine
+0.5800758776	suppose
+0.5800758776	c_
+0.5798929295	algorithmic
+0.5798780347	elimination
+0.5797357618	theories
+0.5795572115	differential systems
+0.5795107847	specifications
+0.5793422573	s_n
+0.5793352414	implicit
+0.5790254365	finding
+0.5790221121	hypergeometric
+0.5789972268	research
+0.5789311569	math
+0.5787354403	rings
+0.5786991952	modules
+0.5786678103	ab
+0.5786413777	formulas
+0.5786092384	conjecture
+0.5785688059	clauses
+0.5785413894	single
+0.5783170288	nested
+0.5782586648	rational
+0.5781779096	identities
+0.5778426565	real algebraic
+0.5778297618	asf
+0.5773462538	integer
+0.5771915322	general case
+0.5770776731	constraint
+0.5769904026	multi
+0.5768683954	mathematical
+0.5766854757	determinants
+0.5766854757	engineering
+0.5766805434	open
+0.5764687383	heap
+0.5761824156	automated
+0.5761309970	tests
+0.5758678410	automatic
+0.5758059273	approximation
+0.5753910803	symmetries
+0.5752762403	groebner
+0.5751848149	sequence
+0.5751086064	structured
+0.5750563168	checking
+0.5749305833	substitution
+0.5746180568	sparse systems
+0.5746097287	minimal
+0.5745984102	formal
+0.5743709721	i_f
+0.5740240010	difference
+0.5740206509	data
+0.5736640513	prime
+0.5736173304	positivity
+0.5736173304	subresultants
+0.5732150455	block
+0.5731989226	networks
+0.5728863518	gamma
+0.5723827005	network
+0.5722742005	symmetric
+0.5721497205	estimation
+0.5721497205	controllers
+0.5721497205	motion
+0.5721497205	integrating
+0.5721497205	analyzing
+0.5720788000	splitting
+0.5720788000	van
+0.5717422657	polynomial equations
+0.5714593157	composition
+0.5714539672	curves
+0.5711451981	rigorous
+0.5708723836	asymptotics
+0.5708723836	understanding
+0.5708723836	uniqueness
+0.5708347031	generic
+0.5707082441	truncated
+0.5706563075	architectures
+0.5706563075	verifying
+0.5705211809	unit
+0.5705211809	fractions
+0.5705211809	refined
+0.5705211809	graphical
+0.5703199036	logic
+0.5701351592	problem
+0.5701319536	experiments
+0.5700612575	varieties
+0.5698529590	science
+0.5698519983	generically
+0.5694502153	state
+0.5690486899	recursive
+0.5690319298	satisfiability
+0.5689290224	answer
+0.5685066520	rule
+0.5682524990	partial
+0.5682337422	reduce
+0.5681792149	experimental
+0.5677192983	genetic
+0.5675135036	type
+0.5675116925	form
+0.5673588797	lemma
+0.5671257595	deciding
+0.5667388858	projection
+0.5666684153	hierarchical
+0.5666684153	relational
+0.5666684153	independence
+0.5666380619	visual
+0.5663133486	hybrid
+0.5659578179	structural
+0.5659372562	computation
+0.5658645364	probabilistic
+0.5657739629	diagonals
+0.5657739629	cryptanalysis
+0.5657476794	homotopy
+0.5657174628	solution
+0.5655738272	operational
+0.5651198587	parametric
+0.5650646864	chen
+0.5649870335	polynomial
+0.5649599277	path
+0.5648948998	geometric
+0.5647293467	taking into account
+0.5645758232	x_n
+0.5644306871	joint
+0.5643942548	commutative
+0.5643131935	moments
+0.5642961090	x_
+0.5642460306	surfaces
+0.5642175217	machines
+0.5642175217	generator
+0.5639196037	conversion
+0.5634654711	reduction
+0.5632890982	learning
+0.5630607778	power
+0.5630555657	representations
+0.5630428684	grobner
+0.5629490945	complete
+0.5628944575	position
+0.5628459559	determinantal
+0.5628459559	abelian
+0.5627884192	abstraction
+0.5627299525	algebra package
+0.5626130951	hardness
+0.5626130951	noncommutative
+0.5626082293	variety
+0.5625898757	benchmarks
+0.5624776812	toric
+0.5624366713	variational
+0.5624333505	generation
+0.5622657139	rewriting
+0.5621970727	java
+0.5621816364	constraints
+0.5620818787	linbox
+0.5620695199	primitive
+0.5620128651	verification
+0.5619758884	chapter
+0.5618152750	integration
+0.5613806490	distributed
+0.5613806490	improving
+0.5613806490	elliptic
+0.5613590084	equations
+0.5613481780	moment
+0.5610025455	general
+0.5609224465	optimal
+0.5605846518	explicit
+0.5605725113	chow
+0.5604767537	high
+0.5604096819	polynomial reduction
+0.5603052722	binary
+0.5602493247	oracle
+0.5600970501	consistency
+0.5597046950	elementary
+0.5593837766	implemented in maple
+0.5593093025	binomiality
+0.5593093025	extraction
+0.5592106022	forms
+0.5591520348	unified
+0.5591520348	assuming
+0.5589876629	output
+0.5588621629	linkages
+0.5587928180	ladder
+0.5587928180	industrial
+0.5587592807	proving
+0.5585413067	machine
+0.5585303077	a_n
+0.5583740156	associative
+0.5583740156	arithmetics
+0.5583740156	reference
+0.5582581356	neural
+0.5580174486	puiseux
+0.5580156644	fast algorithms
+0.5579232654	en
+0.5578996825	regular
+0.5578026191	approximations
+0.5575630236	certifying
+0.5575630236	quotients
+0.5575630236	economics
+0.5575630236	searching
+0.5575630236	eigenvalue
+0.5575630236	annihilator
+0.5575630236	denote
+0.5575630236	coding
+0.5575630236	permutations
+0.5570135948	ideals
+0.5569473066	relations
+0.5567185765	order
+0.5566153912	guided
+0.5565497789	sets
+0.5565041816	global
+0.5564497042	reachability
+0.5564497042	designing
+0.5564497042	similarity
+0.5564497042	secure
+0.5564497042	differentiable
+0.5564497042	cryptosystems
+0.5564497042	hidden
+0.5564433211	based
+0.5560890495	numerical
+0.5559407011	combinatorics
+0.5556980660	applications
+0.5555933770	dense
+0.5554998790	vector
+0.5553177048	optimization
+0.5553043995	adaptive
+0.5552266730	modulo
+0.5551153381	linear
+0.5550442100	deduction
+0.5550241335	betti
+0.5549574497	decomposition
+0.5544478069	mixed
+0.5543319665	desingularization
+0.5542971566	williamson
+0.5542900298	recurrent
+0.5542900298	additive
+0.5542900298	recurrences
+0.5542752237	arithmetic
+0.5542323012	safety
+0.5542158935	asymptotic
+0.5541674597	integrals
+0.5541513531	accurate
+0.5541513531	chain
+0.5541513531	membership
+0.5538235272	differential
+0.5537227978	human
+0.5537227978	evaluating
+0.5537227978	syzygies
+0.5537011001	multiplicity
+0.5534825792	bruhat
+0.5534825792	toeplitz
+0.5534825792	isabelle
+0.5534825792	green's
+0.5534825792	vandermonde
+0.5534825792	macaulay2
+0.5534825792	hessenberg
+0.5534825792	hasse
+0.5534825792	jacobi
+0.5534821215	finite
+0.5534643988	term
+0.5533019856	discrete
+0.5531485881	recent
+0.5531412797	normal
+0.5530414597	pairs
+0.5530001926	simplification
+0.5528998091	search
+0.5527302355	product
+0.5526779998	otter
+0.5524624557	bbb
+0.5523704517	proof of concept
+0.5522810454	approximate
+0.5520404620	likelihood
+0.5514369669	code
+0.5513387614	extended
+0.5512143445	paper presents
+0.5508275957	enumeration
+0.5507074118	multiplication
+0.5504097208	universal
+0.5504097208	split
+0.5502564567	schwartz
+0.5499721688	reals
+0.5497473821	shifted
+0.5497473821	bilinear
+0.5496808184	principal
+0.5496058401	numbers
+0.5495133348	decoding algorithm
+0.5494127405	simple
+0.5493881805	univariate
+0.5492551415	error
+0.5491320131	loops
+0.5491251117	distance
+0.5491016372	multivariate
+0.5490425489	soft
+0.5490425489	templates
+0.5490425489	minimization
+0.5490425489	orbit
+0.5490425489	successive
+0.5489986451	project
+0.5489986451	singularities
+0.5489844349	support
+0.5489165149	recognition
+0.5489165149	discovery
+0.5489165149	analogical
+0.5486358185	modern
+0.5483405766	synthesis
+0.5482924095	practice
+0.5481494864	sum
+0.5480875470	scales
+0.5480774371	types
+0.5480342935	analysis
+0.5479931841	division
+0.5479918674	steps
+0.5476367843	dual
+0.5476367843	modeling
+0.5474631815	normalization
+0.5473990467	shift
+0.5473959813	international
+0.5473517426	parameter
+0.5473330206	real
+0.5473008757	examples
+0.5472325152	note
+0.5471747149	multiplicative
+0.5469905147	invariant
+0.5469723077	operators
+0.5468921574	a_1
+0.5468921574	signs
+0.5468582288	memory
+0.5467012093	matrix
+0.5466817946	rational coefficients
+0.5464497937	polylogarithms
+0.5463152512	algorithm
+0.5460008717	transformation
+0.5459347681	survey
+0.5456468814	invariants
+0.5451102372	multihomogeneous
+0.5451102372	bi
+0.5450809263	large
+0.5450420383	localization
+0.5450420383	recursively
+0.5447565050	dimensional
+0.5447401255	compiler
+0.5447401255	lexicographic
+0.5447401255	oriented
+0.5447401255	quality
+0.5447401255	circuit
+0.5447401255	preliminary
+0.5447401255	gradient
+0.5447401255	resolution
+0.5447401255	assume
+0.5447401255	advanced
+0.5447401255	protocols
+0.5445153750	ordinary
+0.5441247187	control
+0.5439690054	theory
+0.5439385484	basic
+0.5439172565	higher
+0.5436931641	lattice
+0.5433922458	encoding
+0.5429165110	group
+0.5429128144	triangular
+0.5422259155	case
+0.5421041308	ring
+0.5419000726	applying
+0.5417778038	shape
+0.5417778038	extensive
+0.5417778038	typically
+0.5417778038	double
+0.5417778038	technology
+0.5417778038	simplex
+0.5417778038	optimized
+0.5415781723	construction
+0.5415763407	algebras
+0.5415111543	holonomic
+0.5413612063	art
+0.5413347511	evaluation
+0.5411863366	equivalence
+0.5410686169	proof
+0.5410241009	completely
+0.5409380275	stability
+0.5407963828	terms
+0.5406875444	reduced
+0.5405104688	rate
+0.5404557103	basis
+0.5399617758	determinant
+0.5397444993	signature
+0.5396471777	describing
+0.5396471777	perturbations
+0.5396471777	inductive
+0.5396471777	analog
+0.5396471777	empirical
+0.5396354161	hereditarily
+0.5396009278	static
+0.5395704048	polynomials
+0.5394972137	executable
+0.5394972137	partitioning
+0.5394972137	controlled
+0.5394972137	units
+0.5394972137	trace
+0.5394972137	completeness
+0.5394972137	mapping
+0.5392506621	middle
+0.5392362826	sequences
+0.5385536796	natural
+0.5382671956	strong
+0.5381743938	orthogonal
+0.5381743938	generalizations
+0.5381743938	embedded
+0.5381478534	solvable
+0.5381232265	analytic
+0.5380384806	visualization
+0.5377198614	physical
+0.5377198614	expansions
+0.5377048204	functions
+0.5374346219	moore
+0.5373894784	quadratic
+0.5372496845	lower
+0.5372190097	generating
+0.5371346659	quasi
+0.5371191931	cell
+0.5370951790	massey
+0.5369465347	plane
+0.5367085317	algorithm for multiplying
+0.5366800852	linear systems
+0.5366135434	points
+0.5365927091	rank
+0.5365202787	decision
+0.5363230029	complexity
+0.5360221401	numeric
+0.5358455595	previously
+0.5357805457	common
+0.5356975779	continuous
+0.5356975310	weak
+0.5356975310	document
+0.5356975310	metric
+0.5354374001	averaging
+0.5354374001	persistent
+0.5354374001	communication
+0.5354374001	separating
+0.5354374001	aided
+0.5354374001	strongly
+0.5354374001	perspective
+0.5354374001	subclass
+0.5354374001	unmixed
+0.5354374001	handling
+0.5352985531	algorithms
+0.5351382421	resultant
+0.5348244648	property
+0.5345879788	upper
+0.5344345051	predicate
+0.5344345051	developing
+0.5344345051	certification
+0.5344345051	annihilating
+0.5344345051	temporal
+0.5344196019	factoring
+0.5341596078	subdivision
+0.5341596078	index
+0.5339513623	detecting
+0.5339422656	inverse
+0.5336982499	firstly
+0.5336954913	series
+0.5333771129	conditions
+0.5330321110	information
+0.5330230912	rectangular
+0.5330230912	preserving
+0.5330230912	presentations
+0.5330230912	tractable
+0.5330230912	relationships
+0.5330230912	subfields
+0.5330230912	surprisingly
+0.5330230912	game
+0.5330230912	cycles
+0.5329765662	extensions
+0.5329555368	omega
+0.5328767208	le
+0.5327930711	free
+0.5327257305	operations
+0.5326514986	factors
+0.5325508422	automata
+0.5324764711	fields
+0.5322585153	application
+0.5322507649	bases
+0.5320454362	classes
+0.5319819272	space
+0.5315979621	report
+0.5315346887	abstract
+0.5309267540	class
+0.5309199765	groups
+0.5307419423	complex
+0.5307229877	topology
+0.5304731629	decoding
+0.5302514749	small
+0.5301078842	steady
+0.5297599196	weighted
+0.5295169718	function
+0.5293831702	gr
+0.5292978318	method
+0.5292653448	template
+0.5292653448	limit
+0.5291798966	binomial
+0.5290515316	precision
+0.5290432838	transform
+0.5289008447	current
+0.5285679777	existing
+0.5282786772	key
+0.5281504041	structure
+0.5281482988	computational
+0.5275713056	termination
+0.5275322005	section
+0.5271257242	deterministic
+0.5270686594	f_1
+0.5267716771	sigma
+0.5266152075	piecewise
+0.5266152075	nonnegative
+0.5266152075	equilibria
+0.5266152075	conditional
+0.5265612872	solutions
+0.5265023727	computations
+0.5264697943	programs
+0.5263504285	homology
+0.5263390369	bivariate
+0.5262654556	article
+0.5261232285	model
+0.5260950355	roots
+0.5259912616	telescoping
+0.5259899699	equation
+0.5256391529	planar
+0.5255463370	square
+0.5252878634	solver
+0.5251606779	practically
+0.5251606779	quaternion
+0.5251606779	graphics
+0.5250733225	step
+0.5249600907	values
+0.5247499750	randomized
+0.5247201090	degree
+0.5246248141	computable
+0.5246248141	hyperexponential
+0.5246248141	driven
+0.5246248141	word
+0.5246248141	compatible
+0.5245394698	algebraic methods
+0.5243806553	features
+0.5243681467	version
+0.5242876680	bounds
+0.5238630052	probabilistic algorithm
+0.5238032786	ideal
+0.5236662693	implementation
+0.5231787697	description
+0.5231237914	smooth
+0.5229177166	set
+0.5228552661	low
+0.5224334073	quotient
+0.5223351665	expressions
+0.5220574905	context
+0.5220525710	interval
+0.5219687649	pattern
+0.5214160973	derivatives
+0.5214120592	cylindrical
+0.5213705589	basis computation
+0.5210118221	expansion
+0.5207037448	short
+0.5204964904	module
+0.5204736722	elements
+0.5204275269	calculating
+0.5202646826	orders of magnitude
+0.5202509766	reducible
+0.5202395660	linearized
+0.5201382990	products
+0.5199858068	compare
+0.5197367717	sample
+0.5196153934	sound
+0.5195632296	positive
+0.5195148316	diagrams
+0.5194012613	number
+0.5193429714	design
+0.5192292688	critical
+0.5190418691	regularity
+0.5189136269	intersection
+0.5187096715	criterion
+0.5186361386	highly
+0.5181370987	testing
+0.5181237818	matrices
+0.5178448270	schemes
+0.5178448270	compact
+0.5173627922	methods
+0.5172082611	parameters
+0.5171052042	point of view
+0.5170427265	closed
+0.5170332339	ground
+0.5169983227	end
+0.5169178494	taking
+0.5163142379	zeta
+0.5162283505	actions
+0.5162255181	carlo
+0.5162255181	monte
+0.5158553946	rules
+0.5154824251	weight
+0.5154713982	definite
+0.5153987302	expression
+0.5153065720	arbitrary
+0.5153000781	domain
+0.5152103809	approach
+0.5151732706	external
+0.5151588383	log
+0.5150983684	point
+0.5147905924	canonical
+0.5145916349	interactive
+0.5145916349	interface
+0.5142860986	irreducible
+0.5142343348	classification
+0.5142333168	cyclotomic
+0.5141697440	concrete
+0.5140535244	induction
+0.5140535244	adjoint
+0.5138539281	exponent
+0.5136385354	fraction
+0.5135737557	direct
+0.5135088346	semi
+0.5134684160	formulae
+0.5129569233	working
+0.5129569233	providing
+0.5124036605	summation
+0.5123784308	powerful
+0.5123775680	representation
+0.5123323309	presentation
+0.5123323309	robust
+0.5123323309	long
+0.5123104713	predicates
+0.5123046333	random
+0.5118720281	models
+0.5117867830	typical
+0.5116159365	paper
+0.5115142134	genericity
+0.5111143720	semantics
+0.5101627759	test
+0.5099686592	max
+0.5097581439	interpretations
+0.5097581439	star
+0.5096176717	certified
+0.5095880117	detailed
+0.5091567303	trees
+0.5088502132	extension
+0.5087709493	fact
+0.5085644172	execution
+0.5085644172	studying
+0.5085343101	monomial
+0.5084664507	coordinates
+0.5084652660	divisors
+0.5083266162	species
+0.5080507022	curvature
+0.5080221024	source
+0.5078676434	strategies
+0.5077365557	independent
+0.5070362373	logics
+0.5070362373	public
+0.5067770185	numerically
+0.5067770185	theoretic
+0.5067770185	reducing
+0.5067770185	primary
+0.5067770185	equality
+0.5067169799	object
+0.5065917841	fundamental
+0.5065895375	interpreter
+0.5063665107	primes
+0.5063409024	contracts
+0.5063409024	researchers
+0.5063409024	shared
+0.5063409024	statistics
+0.5063409024	scalable
+0.5063409024	massive
+0.5063409024	realization
+0.5060375461	isolated
+0.5060095956	weakly
+0.5057328386	purpose
+0.5056561715	pure
+0.5052222151	polytopes
+0.5051881054	lists
+0.5049001572	identifiability
+0.5049001572	nonzero
+0.5047967989	release
+0.5047967989	friendly
+0.5046863877	related
+0.5046171654	view
+0.5045471200	symmetry
+0.5045418493	field
+0.5045132803	frequently
+0.5045132803	great
+0.5045132803	limited
+0.5045132803	simplified
+0.5045132803	transcendental
+0.5045132803	specification
+0.5044445086	package
+0.5044236678	stable
+0.5041682426	depth
+0.5039698566	review
+0.5039698566	central
+0.5039698566	partitions
+0.5039698566	regions
+0.5039698566	situation
+0.5039698566	shortest
+0.5037894215	theta
+0.5037783758	maximum
+0.5036778868	probability
+0.5036702157	formalism
+0.5036478052	coefficient
+0.5029586528	loop
+0.5029570322	complexities
+0.5029570322	subspaces
+0.5029570322	bits
+0.5028921083	lattices
+0.5023846962	tower
+0.5023846962	_3
+0.5023842459	paths
+0.5023842459	uniformly
+0.5023842459	monotonic
+0.5023810862	http
+0.5021389608	efficiently
+0.5020315812	dimension
+0.5018810355	user
+0.5014476247	linear equations
+0.5013626679	traces
+0.5012682373	generators
+0.5011208372	adic
+0.5010945165	partition
+0.5010910181	factorizations
+0.5010910181	principles
+0.5010910181	challenges
+0.5010910181	tested
+0.5010910181	formally
+0.5010544907	depending
+0.5010424350	performance
+0.5010140699	overdetermined
+0.5010140699	progress
+0.5010140699	successfully
+0.5010140699	logarithms
+0.5010140699	integrability
+0.5010140699	admits
+0.5010140699	freely
+0.5010140699	monic
+0.5010140699	nonsingular
+0.5010140699	words
+0.5010140699	translation
+0.5010140699	included
+0.5010140699	exploits
+0.5010140699	issues
+0.5010140699	half
+0.5010140699	impact
+0.5010140699	reported
+0.5010140699	distributions
+0.5010140699	valid
+0.5010140699	gave
+0.5010140699	deduce
+0.5010140699	polynomially
+0.5009405796	infinite
+0.5007512257	ordering
+0.5007330271	logical
+0.5006645853	inequalities
+0.5006456176	constructing
+0.5006129975	fail
+0.5006129975	learn
+0.5006129975	effect
+0.5006129975	world
+0.5006129975	users
+0.5006129975	definitions
+0.5006129975	notions
+0.5006129975	dependent
+0.5005703171	binomials
+0.5005703171	imperative
+0.5005703171	virtual
+0.5005703171	nearest
+0.5005703171	mass
+0.5005703171	experiment
+0.5005703171	planes
+0.5005703171	exhaustive
+0.5005703171	originally
+0.5005703171	hyperelliptic
+0.5005703171	concise
+0.5005703171	sequential
+0.5005703171	intrinsic
+0.5005703171	unbounded
+0.5005703171	reconstructing
+0.5005703171	auxiliary
+0.5005703171	duality
+0.5005703171	encodings
+0.5005703171	descriptions
+0.5005703171	counterexamples
+0.5005703171	relevance
+0.5005703171	positions
+0.5005703171	transfer
+0.5005703171	generalizing
+0.5005703171	adding
+0.5005703171	categories
+0.5004445442	program
+0.5003098518	protocol
+0.5001601781	improvement
+0.4999322045	framework
+0.4997735273	comparison
+0.4996908728	logarithmic
+0.4994889828	packages
+0.4991678564	faug
+0.4990973546	volume
+0.4990973546	cubic
+0.4990973546	constructions
+0.4989534143	harmonic
+0.4989443786	derivative
+0.4989443786	diagonal
+0.4989117737	problems
+0.4987076868	signatures
+0.4986880482	scale
+0.4985491947	coefficients
+0.4984085157	controller
+0.4982901209	level
+0.4980936119	simultaneously
+0.4980936119	subgroup
+0.4980936119	evaluated
+0.4980936119	assumed
+0.4980936119	comparable
+0.4980936119	play
+0.4980936119	tight
+0.4980936119	popular
+0.4980936119	turn
+0.4980936119	attention
+0.4980936119	explore
+0.4980936119	satisfied
+0.4980936119	employ
+0.4980936119	routines
+0.4980936119	analyses
+0.4980936119	applies
+0.4980936119	start
+0.4980936119	benefit
+0.4979646945	homogeneous
+0.4979443521	heuristics
+0.4979443521	simpler
+0.4979443521	convergence
+0.4971760163	essentially
+0.4967504365	systematic
+0.4967337631	extending
+0.4967337631	consistent
+0.4967337631	canal
+0.4967337631	confluence
+0.4967337631	subspace
+0.4967337631	datasets
+0.4967337631	exponents
+0.4967337631	periodic
+0.4967337631	characterizations
+0.4967337631	frameworks
+0.4967337631	isomorphisms
+0.4967337631	details
+0.4967337631	effectively
+0.4967199542	condition
+0.4966069062	extra
+0.4966069062	formulation
+0.4964352094	cells
+0.4963565526	combined
+0.4961862722	subresultant
+0.4958716341	f_2
+0.4958357417	decidability
+0.4957583509	certificate
+0.4957398342	implementations
+0.4955547200	making
+0.4953887779	2n
+0.4951519799	skew
+0.4950188095	hardware
+0.4950188095	authors
+0.4948637167	similar
+0.4945657728	monomials
+0.4945426490	locally
+0.4945426490	algorithmically
+0.4945426490	interpretable
+0.4945426490	apparent
+0.4945426490	consequences
+0.4945426490	concurrent
+0.4945426490	answers
+0.4945426490	sharp
+0.4945426490	measured
+0.4945426490	polar
+0.4945426490	oracles
+0.4945426490	companion
+0.4945426490	reliable
+0.4945426490	rigid
+0.4945426490	strictly
+0.4945426490	formalization
+0.4945426490	theoretically
+0.4945426490	sharing
+0.4945426490	ranking
+0.4945426490	demand
+0.4945426490	converting
+0.4945426490	permutation
+0.4945426490	tutorial
+0.4945426490	largest
+0.4945426490	covering
+0.4945426490	exp
+0.4945291068	desired
+0.4945291068	target
+0.4945291068	matches
+0.4945291068	published
+0.4945291068	odd
+0.4945291068	hold
+0.4945291068	paradigm
+0.4945291068	storage
+0.4945291068	computationally
+0.4945291068	exhibit
+0.4945253898	semidefinite
+0.4945253898	maps
+0.4943830805	telescopers
+0.4943530491	constant
+0.4942544231	relevant
+0.4942544231	questions
+0.4942544231	benchmark
+0.4941827290	solvers
+0.4939593013	theoretical
+0.4935942530	moduli
+0.4935942530	format
+0.4935349912	length
+0.4932640055	parts
+0.4928566548	symbolic algorithms
+0.4927909215	absolute
+0.4926786816	heuristic
+0.4926424022	training
+0.4926424022	prior
+0.4920404165	author
+0.4920404165	usual
+0.4919273173	runs
+0.4919022472	transforms
+0.4919022472	conjectures
+0.4918260331	results
+0.4918091317	spectral
+0.4918091317	simply
+0.4918091317	parametrizations
+0.4918091317	experience
+0.4918091317	huge
+0.4918091317	modelling
+0.4918091317	creating
+0.4918091317	multilinear
+0.4918091317	interior
+0.4918091317	symbolically
+0.4918091317	objective
+0.4918091317	radius
+0.4918091317	counter
+0.4918091317	interpreted
+0.4918091317	shifts
+0.4918091317	syntax
+0.4918091317	text
+0.4918091317	hypersurfaces
+0.4918091317	conjugacy
+0.4915332947	continuation
+0.4913988148	asymptotically
+0.4913988148	syzygy
+0.4913988148	challenge
+0.4913988148	collisions
+0.4913988148	speedup
+0.4913988148	technical
+0.4913988148	comparing
+0.4913988148	minors
+0.4913988148	assistant
+0.4913988148	growth
+0.4913988148	choosing
+0.4913988148	prescribed
+0.4913988148	insight
+0.4913988148	syntactic
+0.4913988148	hypersurface
+0.4913988148	individual
+0.4913772731	approximant
+0.4913772731	queries
+0.4913772731	manipulations
+0.4913772731	cryptography
+0.4913772731	slightly
+0.4913772731	norm
+0.4913772731	outputs
+0.4913772731	kernel
+0.4913772731	substantial
+0.4913772731	competitive
+0.4913772731	_p
+0.4913772731	adapt
+0.4913772731	modification
+0.4913772731	embedding
+0.4913772731	stage
+0.4913772731	applicability
+0.4913772731	modify
+0.4913772731	capabilities
+0.4913772731	increasing
+0.4913772731	actual
+0.4913514349	deep
+0.4911074914	unknown
+0.4909002713	process
+0.4908582471	coupled
+0.4907577292	tasks
+0.4907577292	representing
+0.4907577292	accuracy
+0.4906903935	substitutions
+0.4906903935	patterns
+0.4906903935	separation
+0.4906903935	methodology
+0.4902226509	parallelization
+0.4902226509	iterations
+0.4902226509	purely
+0.4902226509	numerous
+0.4902226509	decomposable
+0.4901822640	argument
+0.4901822640	image
+0.4899551298	isolation
+0.4897336047	practical
+0.4896014809	conservation
+0.4894472269	structures
+0.4893968829	partially
+0.4887721798	branches
+0.4887721798	varying
+0.4887416588	map
+0.4886224245	lines
+0.4886224245	inequality
+0.4877144593	border
+0.4876742486	combinations
+0.4875845812	multidimensional
+0.4873878497	characteristic
+0.4872527064	necessarily
+0.4872273950	solve
+0.4871665598	bar
+0.4870541603	generate
+0.4869912530	earlier
+0.4869912530	interpretation
+0.4869912530	obtaining
+0.4869912530	satisfying
+0.4868201565	avoiding
+0.4868201565	atica
+0.4868201565	formulate
+0.4868201565	symbols
+0.4868201565	lack
+0.4868201565	admissible
+0.4868201565	carried
+0.4868201565	flexible
+0.4868201565	easier
+0.4868201565	density
+0.4868201565	overhead
+0.4868201565	success
+0.4868201565	softo
+0.4868201565	cover
+0.4868201565	guarantees
+0.4868201565	phase
+0.4868201565	torsion
+0.4868201565	conjectured
+0.4868201565	law
+0.4868201565	developments
+0.4868201565	hierarchy
+0.4868201565	guarantee
+0.4868201565	formulated
+0.4868201565	graded
+0.4868201565	capture
+0.4868201565	characterize
+0.4868201565	fails
+0.4868201565	equalities
+0.4868201565	conclude
+0.4868201565	terminating
+0.4868201565	relate
+0.4868201565	arguments
+0.4868201565	straightforward
+0.4868201565	differences
+0.4868201565	accessible
+0.4868201565	molecular
+0.4866750646	advantages
+0.4866430512	_1
+0.4866312006	ciphers
+0.4866054106	invertible
+0.4865243801	rewrite
+0.4863241961	size
+0.4861964199	subject
+0.4861619613	squares
+0.4861151874	build
+0.4861151874	choose
+0.4858573752	tools
+0.4855665456	moreover
+0.4854488764	v
+0.4851709190	variables
+0.4849537267	conservative
+0.4849435104	d finite functions
+0.4849428600	combination
+0.4848329895	lexicographical
+0.4848329895	logarithm
+0.4848329895	lies
+0.4848329895	mild
+0.4848329895	emphasis
+0.4848329895	understood
+0.4848329895	perturbed
+0.4848329895	usefulness
+0.4848329895	promising
+0.4848329895	treatment
+0.4848329895	origin
+0.4848329895	situations
+0.4848329895	avoids
+0.4848329895	constructs
+0.4848329895	subroutine
+0.4848329895	nice
+0.4848329895	preprocessing
+0.4848329895	smallest
+0.4848329895	discovered
+0.4848329895	giving
+0.4848329895	completion
+0.4848329895	final
+0.4848329895	create
+0.4848329895	machinery
+0.4848329895	formulations
+0.4848329895	converge
+0.4848329895	scientific
+0.4848329895	lift
+0.4848329895	reflexive
+0.4848329895	variations
+0.4848329895	measure
+0.4848329895	clusters
+0.4848329895	consideration
+0.4848329895	measures
+0.4848329895	briefly
+0.4848329895	intervals
+0.4848329895	issue
+0.4848329895	encode
+0.4848329895	echelon
+0.4848329895	spectrum
+0.4848329895	creation
+0.4848329895	clear
+0.4848329895	transformed
+0.4848329895	occurring
+0.4848329895	attempt
+0.4848329895	occurs
+0.4848329895	modeled
+0.4848329895	express
+0.4848329895	mechanism
+0.4848329895	examine
+0.4848329895	purposes
+0.4848329895	conventional
+0.4848329895	arises
+0.4848329895	divided
+0.4846274875	robustness
+0.4846274875	increased
+0.4846274875	highlight
+0.4846274875	analytical
+0.4846274875	singularity
+0.4846274875	rigorously
+0.4846274875	limitations
+0.4846274875	translated
+0.4846274875	remove
+0.4846274875	cone
+0.4846274875	unknowns
+0.4846274875	true
+0.4846274875	candidate
+0.4846274875	belongs
+0.4846274875	rich
+0.4846274875	demonstrates
+0.4846274875	fashion
+0.4846274875	devise
+0.4846274875	sensitive
+0.4846274875	modes
+0.4846274875	sampling
+0.4846274875	permits
+0.4846274875	blocks
+0.4846274875	calculated
+0.4846274875	heavy
+0.4846274875	supporting
+0.4846274875	alternating
+0.4846274875	covers
+0.4846274875	requirement
+0.4846274875	showed
+0.4846274875	analyse
+0.4846274875	equivalently
+0.4846274875	mentioned
+0.4846274875	settings
+0.4846274875	inside
+0.4846274875	demonstrated
+0.4846274875	ordered
+0.4846274875	columns
+0.4846274875	future
+0.4846274875	eigenvalues
+0.4846274875	fragment
+0.4846274875	topic
+0.4846274875	cryptographic
+0.4846274875	ezout
+0.4846274875	costs
+0.4846274875	employed
+0.4846274875	experimentation
+0.4846274875	shuffle
+0.4846274875	dependence
+0.4846274875	poly
+0.4846274875	access
+0.4846274875	allowed
+0.4846274875	induced
+0.4846274875	investigation
+0.4846274875	follow
+0.4846274875	observed
+0.4846274875	biology
+0.4846274875	correspondence
+0.4846274875	treat
+0.4846274875	link
+0.4846274875	loss
+0.4846274875	vertices
+0.4846274875	electronic
+0.4844037942	determining
+0.4840538062	multiply
+0.4839536580	characteristics
+0.4839536580	manner
+0.4839536580	closely
+0.4839536580	broad
+0.4839536580	considers
+0.4839536580	exponentially
+0.4839536580	denotes
+0.4839536580	perturbation
+0.4839536580	investigated
+0.4839536580	searches
+0.4839536580	environment
+0.4839536580	contributions
+0.4839536580	correspond
+0.4839536580	plays
+0.4839536580	commonly
+0.4839536580	motivation
+0.4839536580	online
+0.4839536580	classic
+0.4839536580	dedicated
+0.4839536580	increase
+0.4839536580	wise
+0.4839536580	difficulty
+0.4839536580	analyzed
+0.4839536580	represents
+0.4839536580	extremely
+0.4839536580	discussion
+0.4839536580	evidence
+0.4839536580	convenient
+0.4839536580	identified
+0.4839536580	offers
+0.4838396802	estimates
+0.4838244914	parametrization
+0.4836565600	golay
+0.4835422753	prototype
+0.4833555239	redundant
+0.4832140957	studies
+0.4832140957	negative
+0.4827715550	properties
+0.4821003044	cases
+0.4820782446	correctness
+0.4819399333	indices
+0.4818988902	identifiable
+0.4818988902	realizations
+0.4816095933	left
+0.4814703713	homomorphic
+0.4814703713	la
+0.4813156024	standard
+0.4811963832	selection
+0.4811963832	defining
+0.4810431809	multiplications
+0.4809013368	chern
+0.4808443127	furthermore
+0.4807947146	introducing
+0.4807436973	se
+0.4807436973	nodes
+0.4806118072	conquer
+0.4805900252	precisely
+0.4804985730	wide
+0.4802969935	change
+0.4801653162	profile
+0.4800902415	iteration
+0.4797540685	sizes
+0.4797540685	proper
+0.4797540685	offer
+0.4797540685	decidable
+0.4797540685	behaviour
+0.4797540685	reach
+0.4797540685	locus
+0.4797540685	generalizes
+0.4797540685	pre
+0.4797540685	quantities
+0.4797540685	crucial
+0.4797540685	algebraically
+0.4797540685	weights
+0.4796163994	states
+0.4795336633	modified
+0.4795077353	produced
+0.4793722217	family
+0.4791465461	bound
+0.4790639989	_n
+0.4789949822	sign
+0.4789837540	profiles
+0.4789837540	cache
+0.4789837540	returns
+0.4788618668	count
+0.4787883449	characterized
+0.4787474473	compared
+0.4787288481	starting
+0.4787121055	proven
+0.4787121055	occur
+0.4787121055	ways
+0.4787121055	uniform
+0.4787121055	holds
+0.4787121055	community
+0.4787121055	yield
+0.4787121055	notation
+0.4787121055	complicated
+0.4787121055	genus
+0.4787121055	adapted
+0.4786788331	verified
+0.4785927336	line
+0.4784305352	easy
+0.4783546664	column
+0.4783546664	built
+0.4783155861	min
+0.4783155861	attacks
+0.4783155861	configurations
+0.4781245893	cuts
+0.4781224357	principle
+0.4781224357	produces
+0.4781224357	runtime
+0.4781224357	evaluations
+0.4781224357	perfect
+0.4781224357	reason
+0.4781224357	independently
+0.4778940679	certificates
+0.4775964620	convex
+0.4775964620	papers
+0.4775520193	nature
+0.4775504907	isolate
+0.4773324685	contrast
+0.4766099790	concept
+0.4765932308	chemical
+0.4765932308	magnitude
+0.4765932308	inspired
+0.4763604399	languages
+0.4760792801	discriminant
+0.4760108214	algorithm for computing
+0.4758994634	constants
+0.4758789566	algorithm for finding
+0.4755471213	iterative
+0.4754172601	failure
+0.4754172601	linkage
+0.4754172601	doubly
+0.4754172601	mode
+0.4750792168	component
+0.4749887884	curve
+0.4747743460	o
+0.4746869626	determined
+0.4746869626	performing
+0.4746869626	coordinate
+0.4746869626	interaction
+0.4746869626	satisfies
+0.4746869626	satisfy
+0.4746869626	suggest
+0.4746869626	contribution
+0.4746869626	supported
+0.4746869626	covariant
+0.4746463434	boundary
+0.4743300534	edges
+0.4743275637	relationship
+0.4742521845	ensure
+0.4737376409	amortization
+0.4736589312	equational
+0.4736516467	let
+0.4734469807	bit
+0.4734274506	quasiseparable
+0.4734274506	fewer
+0.4734274506	loci
+0.4734274506	vanishing
+0.4734274506	meaning
+0.4734274506	sciences
+0.4734274506	permanent
+0.4734274506	write
+0.4734274506	early
+0.4734274506	minor
+0.4734274506	configuration
+0.4734274506	multipliers
+0.4734274506	specialized
+0.4733209778	straight
+0.4733209778	usage
+0.4732167043	study
+0.4730888927	dataset
+0.4730888927	variate
+0.4730888927	turns
+0.4730888927	determines
+0.4730888927	return
+0.4730888927	achieves
+0.4730888927	mechanisms
+0.4730888927	derivations
+0.4730888927	suited
+0.4730888927	record
+0.4730888927	famous
+0.4730888927	introduces
+0.4730888927	solves
+0.4730888927	pencil
+0.4730888927	remains
+0.4730888927	thesis
+0.4730888927	aims
+0.4730888927	successful
+0.4730888927	propositional
+0.4730888927	insights
+0.4730888927	equidimensional
+0.4730888927	selected
+0.4730888927	involve
+0.4730650623	laws
+0.4726061663	_q
+0.4725564689	involutive
+0.4725320069	minimum
+0.4724229785	variable
+0.4721856938	possibility
+0.4716452007	factor
+0.4715823647	eta
+0.4714916811	radical
+0.4714916811	significantly
+0.4714916811	expected
+0.4711160489	style
+0.4711045095	resp
+0.4710641766	reaction
+0.4709732832	significant
+0.4708127486	sparsity
+0.4707805282	tree
+0.4707493823	polytope
+0.4706559415	chains
+0.4702738042	close
+0.4700801014	sufficient
+0.4700478231	c
+0.4696417909	major
+0.4695272725	overview
+0.4695272725	variation
+0.4695272725	greatest
+0.4692269548	evaluate
+0.4691686168	certify
+0.4686582248	provers
+0.4682045221	sums and products
+0.4681781566	leading
+0.4680331912	original
+0.4675972360	previous
+0.4671286915	place
+0.4670417056	alternative
+0.4669925169	solving linear
+0.4669855416	area
+0.4669855416	combine
+0.4669855416	w.r.t
+0.4669855416	involved
+0.4669855416	implies
+0.4669855416	combines
+0.4669855416	feasible
+0.4669855416	feature
+0.4669013305	pair
+0.4668555081	subset
+0.4668258615	essential
+0.4666294649	distribution
+0.4665176647	families
+0.4665166023	recurrence
+0.4664672141	simplify
+0.4664483273	matching
+0.4663872058	existence
+0.4663578789	difficult
+0.4661222791	valuation
+0.4658576679	range
+0.4648234399	input
+0.4647015201	unfortunately
+0.4645737648	finitely
+0.4640869529	operator
+0.4640658568	polynomial matrices
+0.4639371891	kind
+0.4639280674	calculations
+0.4639280674	spaces
+0.4638513856	quantifier
+0.4636998547	advances
+0.4636998547	fall
+0.4636595924	u
+0.4634953842	connection
+0.4633405650	illustrated
+0.4632367014	mathfrak
+0.4632123467	truth
+0.4629455021	hard
+0.4627969147	l
+0.4625037564	techniques
+0.4621501791	zeros
+0.4620320981	effectiveness
+0.4620272546	divide
+0.4618708109	however
+0.4618598021	formula
+0.4618205351	i.e
+0.4618101197	multiplicities
+0.4616729364	relation
+0.4614235682	compute
+0.4613653230	lambda
+0.4612815551	applied
+0.4608205351	integers
+0.4608188258	residue
+0.4606839139	list
+0.4604102308	components
+0.4601307035	motivated
+0.4599769512	action
+0.4598339837	average
+0.4598132287	orders
+0.4594243921	obner
+0.4594022240	explain
+0.4594022240	allowing
+0.4594022240	operation
+0.4592910503	j
+0.4585090442	although
+0.4584192053	involves
+0.4582696171	delta
+0.4580563221	challenging
+0.4580563221	importance
+0.4580563221	statistical
+0.4580563221	finds
+0.4580563221	enable
+0.4580563221	nontrivial
+0.4580563221	possibly
+0.4580563221	libraries
+0.4579644499	addition
+0.4578212193	bitsize
+0.4578203141	bounded
+0.4577249206	next
+0.4576323543	multiplying
+0.4574083097	classical
+0.4573317594	dynamics
+0.4573317594	valued
+0.4565338638	restricted
+0.4563230441	implemented
+0.4559102300	means
+0.4557731166	lacunary
+0.4557731166	table
+0.4555799427	derive
+0.4555593605	inputs
+0.4554629319	vectors
+0.4554490513	maximal
+0.4553774310	equal
+0.4553531989	outperforms
+0.4553531989	lifting
+0.4553531989	speed
+0.4553531989	run
+0.4548643335	approaches
+0.4548326903	initial
+0.4547584831	worst
+0.4544821554	workshop
+0.4544012073	generally
+0.4540091429	branch
+0.4538965771	las
+0.4538965771	analogue
+0.4538918217	fully
+0.4537021406	develop
+0.4537021406	e.g
+0.4532801061	powers
+0.4531266430	instances
+0.4529490513	task
+0.4528786309	provide
+0.4527874444	computes
+0.4527232393	relying
+0.4527029284	reduces
+0.4527029284	precise
+0.4527029284	performs
+0.4527029284	fastest
+0.4527029284	architecture
+0.4527029284	chosen
+0.4527029284	functionality
+0.4527029284	generates
+0.4526295986	reductions
+0.4525397312	objects
+0.4523302773	computed
+0.4522822306	procedure
+0.4521471389	trivial
+0.4521423852	tensors
+0.4518256963	recover
+0.4516901356	called
+0.4516790844	result
+0.4514030573	exponential
+0.4513369571	strategy
+0.4506741553	correct
+0.4505626370	depend
+0.4504678722	hand
+0.4501310531	takes
+0.4501310531	dimensions
+0.4501310531	traditional
+0.4501310531	includes
+0.4501310531	concepts
+0.4501310531	assumption
+0.4499227618	times
+0.4497447227	role
+0.4489189507	solved
+0.4486149199	al
+0.4485907383	requires
+0.4484023928	discuss
+0.4482001248	w
+0.4480498968	iterated
+0.4476270681	polynomial matrix
+0.4474467574	demonstrate
+0.4469743003	advantage
+0.4469146429	specific
+0.4460229572	besides
+0.4458554903	computer algebra systems
+0.4457143301	suitable
+0.4455636860	considered
+0.4453334400	intermediate
+0.4453334400	naturally
+0.4453334400	supports
+0.4453334400	works
+0.4451596939	present
+0.4448136422	designed
+0.4444698920	established
+0.4444339306	fixed
+0.4443199107	_
+0.4443063582	g
+0.4442906659	generated
+0.4442118705	including
+0.4440673715	box
+0.4439719023	element
+0.4438634659	introduce
+0.4438393743	lead
+0.4437911913	proposed
+0.4433221259	main
+0.4432721417	decide
+0.4431016019	following
+0.4428834700	i
+0.4427822639	literature
+0.4427493671	connected
+0.4425777186	easily
+0.4425777186	exploit
+0.4425777186	base
+0.4425777186	interesting
+0.4423781037	areas
+0.4423781037	showing
+0.4423781037	variants
+0.4423781037	distinct
+0.4423418804	determine
+0.4422992849	extend
+0.4420306535	tau
+0.4418507208	method for computing
+0.4418310794	t
+0.4417335958	generalization
+0.4416318269	`
+0.4413491037	epsilon
+0.4412939695	relies
+0.4412796632	alpha
+0.4410316363	closure
+0.4409884243	discussed
+0.4409362978	subsets
+0.4409362978	understand
+0.4409362978	benefits
+0.4409362978	vision
+0.4408479389	r
+0.4406541231	algebraic systems
+0.4403066466	defined
+0.4401743608	versions
+0.4401455088	identity
+0.4401408466	smaller
+0.4393723154	efficiency
+0.4393418804	degrees
+0.4389128455	setting
+0.4388793332	improvements
+0.4385028455	proved
+0.4383055616	algorithms for computing
+0.4380733908	focus
+0.4380162796	introduced
+0.4379325588	b
+0.4379164357	handle
+0.4375743608	introduction
+0.4375743608	derivation
+0.4373030416	~
+0.4372031016	k
+0.4371360278	exponent of matrix
+0.4369504404	improve
+0.4368226220	consequence
+0.4365901075	developed
+0.4363943108	variant
+0.4363384055	input polynomial
+0.4363102186	obtain
+0.4362806821	technique
+0.4354930416	provided
+0.4354930416	underlying
+0.4349599460	important
+0.4347477294	since
+0.4346737005	sense
+0.4346215086	define
+0.4346215086	investigate
+0.4344011254	em
+0.4338838281	d
+0.4334129548	towards
+0.4333534867	aspects
+0.4332977418	refer
+0.4332977418	interested
+0.4332019623	choice
+0.4330134809	apply
+0.4330108860	sufficiently
+0.4327940174	indefinite
+0.4326570575	choices
+0.4324660102	calculation
+0.4322870693	involving
+0.4322870693	include
+0.4321400991	once
+0.4320435520	z
+0.4320194060	explicitly
+0.4320194060	generalize
+0.4320194060	needed
+0.4320194060	require
+0.4319518688	running
+0.4318470575	row
+0.4316277277	mathsf
+0.4313626382	written
+0.4312706378	studied
+0.4311311982	while
+0.4309190248	cost
+0.4308672773	international workshop on
+0.4308586010	we
+0.4308294629	prove
+0.4308149688	verify
+0.4306490734	y
+0.4306409299	identify
+0.4305788806	aim
+0.4304687463	here
+0.4304343621	propose
+0.4304234501	proposed algorithm
+0.4304074305	check
+0.4303215547	despite
+0.4301974032	presented
+0.4301069452	estimate
+0.4300939789	instance
+0.4300860726	additional
+0.4299705374	e
+0.4298114917	illustrate
+0.4293724879	it
+0.4292612560	again
+0.4292073390	q
+0.4291310169	creative
+0.4290915659	arising
+0.4289124230	development
+0.4288567450	therefore
+0.4286582022	our
+0.4282840952	complete algorithm
+0.4282063069	obtained
+0.4278056713	f
+0.4277095907	beta
+0.4276672598	depends
+0.4276255486	actually
+0.4275263232	systems of polynomial equations
+0.4270197606	entries
+0.4269210754	ability
+0.4268226879	m
+0.4266798597	h
+0.4266701695	expressed
+0.4265704448	procedures
+0.4265189224	tool
+0.4264972608	this
+0.4262934073	calculate
+0.4262934073	characterization
+0.4259199027	hence
+0.4256955229	avoid
+0.4256918794	makes
+0.4254936290	manipulation
+0.4250977784	they
+0.4250297041	unique
+0.4250256330	singly
+0.4249594357	collection
+0.4248010419	widely
+0.4248010419	definition
+0.4247911786	first
+0.4246133848	address
+0.4245783254	then
+0.4244729280	appearing
+0.4243531816	yields
+0.4243531816	directly
+0.4241417774	dynamical
+0.4239526884	achieve
+0.4236720085	represented
+0.4234769720	performed
+0.4234382764	multiplication algorithm
+0.4233427621	coming
+0.4233167790	perform
+0.4232084697	et al
+0.4231388219	automatically
+0.4230805042	second
+0.4229578787	presents
+0.4228781816	exists
+0.4228729877	decompose
+0.4228171594	core
+0.4225768344	surface
+0.4224595907	constructed
+0.4224595907	question
+0.4224595907	shows
+0.4216521157	n
+0.4216436387	ideas
+0.4216436387	enables
+0.4215193449	goal
+0.4212562470	p
+0.4210575568	arise
+0.4207760605	achieved
+0.4207405425	larger
+0.4204873798	shown
+0.4203182644	notion
+0.4201650726	derived
+0.4197996215	scheme
+0.4196285425	ideal generated
+0.4194747707	rely
+0.4193994073	behavior
+0.4192277740	applicable
+0.4191172482	even
+0.4186584581	s
+0.4185370309	because
+0.4183326535	contained
+0.4179378237	indeed
+0.4178330947	extends
+0.4177081338	produce
+0.4177081338	potential
+0.4175552546	establish
+0.4174336891	years
+0.4169541476	computer
+0.4166699429	polynomials of degree
+0.4165722653	leads
+0.4165281318	beyond
+0.4158671453	assumptions
+0.4156870333	height
+0.4153220102	represent
+0.4150091974	these
+0.4146164479	ell
+0.4146146377	after
+0.4145116223	isolating
+0.4139168243	construct
+0.4138588708	total
+0.4136824429	field of characteristic
+0.4135044381	thanks
+0.4131681225	thus
+0.4128029880	if
+0.4125859160	systems of linear
+0.4124920029	equivalent
+0.4119807846	x
+0.4103913019	top down style
+0.4100576757	as
+0.4095575112	exist
+0.4093337879	new
+0.4088547554	when
+0.4086625880	namely
+0.4085562531	in
+0.4083723628	ideal generated by
+0.4082181904	sqrt
+0.4079603704	using
+0.4076686788	mathbf
+0.4074797372	on
+0.4074250149	most
+0.4072645248	deg
+0.4072632765	analyze
+0.4067840357	zero dimensional ideal
+0.4066811523	account
+0.4063751251	mu
+0.4060199590	overall
+0.4054367249	refers
+0.4054367249	capable
+0.4054367249	focuses
+0.4050050013	concerned
+0.4047764179	mathrm
+0.4047393197	third
+0.4047366125	equipped
+0.4045729935	especially
+0.4043220938	near
+0.4043090593	systems of differential
+0.4040389452	another
+0.4038488383	does
+0.4038090593	systems of equations
+0.4037686788	emph
+0.4034789566	further
+0.4033893252	required
+0.4032470340	corresponds
+0.4029848061	novel
+0.4028122586	floating
+0.4027064228	devoted
+0.4026968595	given
+0.4026428929	respect
+0.4025184935	deal
+0.4023446383	though
+0.4015686113	cite
+0.4014815145	re
+0.4013304131	dealing
+0.4011703652	resulting
+0.4007764179	consists
+0.4001073722	among
+0.3997567797	input polynomials
+0.3993373920	describes
+0.3992861128	errors
+0.3988837328	instead
+0.3985645923	both
+0.3978537647	particular
+0.3975539381	idea
+0.3974654136	improves
+0.3972564003	part
+0.3969337337	so
+0.3961831921	sufficient conditions for
+0.3961749410	experimental results show
+0.3961555757	one
+0.3957497016	implement
+0.3932466857	a
+0.3928572549	fast algorithm
+0.3926721667	there
+0.3925391172	connected component of
+0.3920017371	four
+0.3912266557	system
+0.3910773755	more
+0.3909200851	pi
+0.3896969362	help
+0.3890427840	criteria
+0.3887076274	under
+0.3884519413	systems of polynomial
+0.3883852251	algorithm to compute
+0.3882360482	many
+0.3879811797	non
+0.3879661336	an
+0.3877267200	coupled systems of
+0.3871794873	o bner bases
+0.3866125573	own
+0.3864690161	\ mathrm deg
+0.3857421934	self
+0.3855033295	problem of finding
+0.3854780634	polynomial coefficients
+0.3842622443	such
+0.3840666075	three
+0.3833140223	top
+0.3832594018	the
+0.3831991654	real polynomial
+0.3831367603	zero dimensional
+0.3829842670	just
+0.3829739185	deterministic algorithm
+0.3827366101	no
+0.3823102139	nd
+0.3818516457	tropical gr \
+0.3815713572	across
+0.3814288769	least
+0.3813975711	log ^ 2
+0.3813633581	2016
+0.3813633581	2010
+0.3811675568	de
+0.3809908091	2007
+0.3807121588	yet
+0.3800508418	2013
+0.3796782928	2002
+0.3793389189	to
+0.3789049752	course
+0.3782326407	2006
+0.3769573811	whereas
+0.3769573811	until
+0.3768429591	from
+0.3766113549	algebra systems
+0.3764504793	\
+0.3757482580	according
+0.3747578694	otherwise
+0.3742083824	for
+0.3730860069	computer algebra
+0.3729944947	over finite fields
+0.3727822017	2018
+0.3722571223	lower bound on
+0.3720435981	at
+0.3718742610	several
+0.3718177497	mostly
+0.3717956869	down
+0.3705860437	modular algorithm
+0.3701936364	15
+0.3701045321	time
+0.3693741188	2009
+0.3693696220	by
+0.3689210054	th
+0.3685193483	right
+0.3681146673	2008
+0.3680735470	2011
+0.3679771417	some
+0.3678142269	zero
+0.3677296245	find
+0.3676866769	number of variables
+0.3671513611	associated
+0.3666413962	with
+0.3664990170	upper bound on
+0.3664438660	algorithm for solving
+0.3662849720	2014
+0.3662849720	regarding
+0.3662849720	mainly
+0.3662849720	never
+0.3662849720	likely
+0.3662849720	behind
+0.3662849720	little
+0.3661336366	17
+0.3660347330	all
+0.3660010271	14
+0.3660010271	former
+0.3660010271	indicate
+0.3660010271	keep
+0.3660010271	except
+0.3660010271	around
+0.3660010271	know
+0.3655418937	2d
+0.3634677682	but
+0.3634404856	do
+0.3634355097	o bner basis
+0.3632970259	together
+0.3631630590	every
+0.3629901707	two
+0.3615314848	before
+0.3613063201	^
+0.3606701111	good
+0.3602634228	not
+0.3601728608	sometimes
+0.3595664912	simple algorithm
+0.3591716305	look
+0.3590236334	seen
+0.3584892040	nearly optimal
+0.3580423105	matrix polynomial
+0.3578423349	method to compute
+0.3576591430	sub
+0.3573257276	now
+0.3570838028	also
+0.3569734535	nearly
+0.3566037699	what
+0.3561487546	19
+0.3561487546	itself
+0.3561487546	whole
+0.3561487546	detail
+0.3561487546	12
+0.3560081995	who
+0.3560081995	whenever
+0.3560081995	16
+0.3560081995	9
+0.3560081995	comes
+0.3560081995	indicates
+0.3553181956	his
+0.3553181956	10
+0.3552121698	self contained
+0.3543866912	11
+0.3543068709	20
+0.3543068709	off
+0.3543068709	thereby
+0.3543068709	doing
+0.3543068709	specify
+0.3536106543	consider
+0.3532530839	its
+0.3528707137	almost
+0.3525493373	work
+0.3520316524	23
+0.3520316524	relatively
+0.3517427549	first order
+0.3514942862	mean
+0.3511801089	over
+0.3511427717	6
+0.3506905953	follows
+0.3506690590	five
+0.3498601331	exactly
+0.3495138049	used
+0.3492180551	latter
+0.3491305871	polynomial rings over
+0.3490897165	being
+0.3490602443	appropriate
+0.3490602443	concerning
+0.3484717859	of
+0.3480184832	side
+0.3479565556	que
+0.3477165373	et
+0.3470356339	2
+0.3469699174	how
+0.3469460501	along
+0.3467494134	7
+0.3467440525	above
+0.3461843822	+
+0.3459762540	finitely many
+0.3455285742	up
+0.3455285742	each
+0.3454699174	their
+0.3454342280	too
+0.3454342280	needs
+0.3454342280	seems
+0.3454342280	had
+0.3452651819	best
+0.3451078585	few
+0.3449496475	known
+0.3448621489	$
+0.3447676348	computer science
+0.3441350191	taken
+0.3441350191	might
+0.3441350191	against
+0.3441350191	becomes
+0.3432432725	use
+0.3431781061	back
+0.3431126287	3
+0.3417897727	rather
+0.3417703673	*
+0.3414167992	quite
+0.3413336528	linear partial
+0.3411289820	like
+0.3411155118	only
+0.3411040066	usually
+0.3410970015	1
+0.3407117878	go
+0.3403053925	enough
+0.3402485555	always
+0.3395644412	far
+0.3390812457	univariate polynomials over
+0.3381327340	well
+0.3380886209	through
+0.3378540036	specified
+0.3378262043	currently
+0.3378262043	others
+0.3374545015	than
+0.3366740007	example
+0.3366580090	described
+0.3357678935	4
+0.3347370365	possible
+0.3335020688	algorithms to compute
+0.3332114498	considering
+0.3331921941	exponential time
+0.3329105421	zero dimensional polynomial
+0.3322188304	still
+0.3321294832	better
+0.3312838148	=
+0.3308208404	any
+0.3294977793	can
+0.3292915684	make
+0.3292739186	show
+0.3289275064	5
+0.3285908450	would
+0.3284613020	during
+0.3284049721	connection between
+0.3283830327	already
+0.3283114852	either
+0.3277190265	due
+0.3273069949	k x_1
+0.3265876659	them
+0.3264314725	particularly
+0.3264314725	should
+0.3261438938	call
+0.3260185522	and
+0.3251984537	upon
+0.3251751629	necessary
+0.3248917023	cannot
+0.3248917023	contain
+0.3248917023	etc
+0.3248647141	&
+0.3243227367	about
+0.3242556235	which
+0.3242556235	be
+0.3242408723	us
+0.3235681366	corresponding
+0.3235435978	same
+0.3233575040	become
+0.3231067315	0
+0.3217609999	are
+0.3212609999	is
+0.3211933099	must
+0.3206609999	that
+0.3206406203	or
+0.3205295227	present algorithms
+0.3199284398	solutions of linear
+0.3197194088	last
+0.3195795254	interest
+0.3190404761	between
+0.3187580646	within
+0.3184008321	without
+0.3181004701	containing
+0.3176894289	may
+0.3174444680	second order
+0.3170554675	able
+0.3165945747	|
+0.3165775078	appear
+0.3164033585	often
+0.3163945333	fast computation of
+0.3156070004	other
+0.3155542157	this paper presents
+0.3153887877	respectively
+0.3147621699	uses
+0.3146951338	found
+0.3143134168	into
+0.3141674826	have
+0.3134955855	whose
+0.3134823824	with integer coefficients
+0.3134535156	describe
+0.3133948588	been
+0.3131674826	has
+0.3128699905	where
+0.3121669730	different
+0.3118558373	will
+0.3117300315	whether
+0.3115509833	get
+0.3114678869	made
+0.3113789859	less
+0.3112768566	were
+0.3109930975	a wide range
+0.3105137735	very
+0.3104683270	need
+0.3104535156	was
+0.3103901528	those
+0.3094886962	certain
+0.3091497322	allows
+0.3083906653	provides
+0.3081031688	via
+0.3077672627	an upper bound
+0.3076724699	way
+0.3076574209	full
+0.3075797694	having
+0.3071691298	available
+0.3070781827	out
+0.3063425276	allow
+0.3045460216	various
+0.3043425276	could
+0.3043326090	take
+0.3040795359	contains
+0.3031280209	p recursive
+0.3030651741	much
+0.3022940469	gives
+0.3022677429	ones
+0.3018247787	give
+0.3015103601	value
+0.2989492500	8
+0.2984767875	problem of computing
+0.2972772353	real time
+0.2936026139	exact linear
+0.2928214530	done
+0.2901402492	useful
+0.2894116741	poincar \
+0.2877773158	with rational coefficients
+0.2856973673	sparse difference
+0.2855206235	upper bound for
+0.2764330571	larger than
+0.2736114175	galois group of
+0.2721444378	widely used
+0.2717112192	polynomial time algorithm
+0.2682251321	one point
+0.2664831245	previously known
+0.2663567310	basis algorithms
+0.2660272703	decomposition algorithm
+0.2654032802	does not
+0.2629227240	log ^ * n
+0.2620061439	fast algorithms for
+0.2596597973	one step
+0.2586266778	relation between
+0.2563950727	so called
+0.2553796794	absolute value
+0.2540131857	smaller than
+0.2537938044	non commutative
+0.2516986502	non linear
+0.2516912172	efficient algorithm
+0.2500232901	necessary and sufficient
+0.2486738680	complexity bounds for
+0.2466860473	gr \
+0.2457554825	non trivial
+0.2452852361	= 0
+0.2451853538	faster than
+0.2442051646	relationship between
+0.2437040517	previous work
+0.2419702528	well known
+0.2418174844	$ bit operations
+0.2398473731	first step
+0.2384689509	number of solutions
+0.2379452881	relations between
+0.2369977611	large class of
+0.2367135658	present paper
+0.2361661356	as well as
+0.2359064885	fast algorithm for
+0.2349681668	order linear
+0.2345714025	running time
+0.2330431755	at least
+0.2327651628	recent work
+0.2311883785	p adic
+0.2298780844	based algorithms
+0.2285941994	defined by
+0.2285078736	characteristic zero
+0.2270951091	+ 1
+0.2266117099	\ geq
+0.2250640333	real roots of
+0.2250047526	on top of
+0.2249957138	\ dots
+0.2225430066	there exist
+0.2212230003	in many cases
+0.2198801943	the order of
+0.2192501124	with polynomial coefficients
+0.2189066784	polynomial time
+0.2181965810	depending on
+0.2165877268	\ tt
+0.2162987099	linear time
+0.2159632908	o bner
+0.2159333265	* epsilon
+0.2144204621	viewed as
+0.2143801943	the study of
+0.2143801943	the field of
+0.2140789044	based on
+0.2134152972	z x
+0.2132740336	pad \
+0.2124843501	\ cdot
+0.2107779210	\ ldots
+0.2092878466	more generally
+0.2080495536	$ \ mathbb f _q
+0.2078475327	^ 4
+0.2074873883	product of two
+0.2051114396	sch \
+0.2039779165	generated by
+0.2039096060	the presence of
+0.2037844821	the rank profile
+0.2034050985	3 x 3
+0.2028801943	the dimension of
+0.2028196132	complexity of solving
+0.2005275905	relies on
+0.1994470030	more precisely
+0.1992093479	coming from
+0.1978720871	computer vision
+0.1955305030	starting from
+0.1954435186	log n
+0.1941380260	^ 8
+0.1939464127	into account
+0.1934233814	the present paper
+0.1912290471	\ leq
+0.1912216678	degree at most
+0.1895502517	decide whether
+0.1892608985	new proof
+0.1889333536	not necessarily
+0.1883827307	focus on
+0.1882429394	the performance of
+0.1882125728	do not
+0.1873357767	depends on
+0.1840104780	the variable ordering
+0.1838059400	\ emph
+0.1835730077	$ \ sob
+0.1826576091	algebra system
+0.1821327185	^ 2
+0.1820689652	top down
+0.1820669610	log ^ *
+0.1813125664	less than
+0.1806504104	deals with
+0.1786712011	derived from
+0.1786514329	report on
+0.1782686147	\ cite
+0.1775523671	special case of
+0.1774207433	computer algebra system
+0.1772578028	mathcal g
+0.1766718939	experiments show
+0.1764528049	time and space
+0.1760210857	present algorithms to
+0.1755733577	motivated by
+0.1748609249	to decide whether
+0.1744756099	better than
+0.1741536244	large number of
+0.1740852668	amount of
+0.1737930896	rather than
+0.1725308182	with respect to
+0.1718060315	$ \ widetilde
+0.1717645330	\ ge
+0.1707135276	the method of
+0.1700331774	f = g
+0.1697525104	achieved by
+0.1690083240	the form of
+0.1687220769	this article
+0.1686097239	easy to
+0.1685241664	relying on
+0.1663680326	take advantage of
+0.1657959333	due to
+0.1654819291	rise to
+0.1651238313	defined over
+0.1650007796	the input polynomial
+0.1619173599	d finite
+0.1618038517	depend on
+0.1614474848	in order to
+0.1608800461	so far
+0.1604926437	\ in \ mathbb
+0.1604320944	a finite field
+0.1604185575	if and only
+0.1603416573	a series of
+0.1602157745	able to
+0.1599745339	efficient algorithm for
+0.1589857933	at most
+0.1583633315	system solving
+0.1583476899	a linear recurrence
+0.1581646636	finite set of
+0.1580699503	if and only if
+0.1574789122	the application of
+0.1572740201	characterized by
+0.1571104970	efficient algorithm to
+0.1569014208	complexity of computing
+0.1565767771	of unity
+0.1552348516	inspired by
+0.1549162512	^ 3
+0.1549066354	this paper
+0.1531096281	more general
+0.1511497207	| |
+0.1506143581	expressed in terms of
+0.1505923911	\ theta
+0.1500662091	rely on
+0.1500569907	obner bases for
+0.1498661074	a univariate polynomial
+0.1478826224	\ _1
+0.1478318349	refers to
+0.1473845535	\ em
+0.1472525453	an explicit
+0.1470633070	non zero
+0.1466854176	for real root
+0.1464258048	m ^ \ omega
+0.1460481174	leads to
+0.1438011942	log ^
+0.1437573386	$ \ cal
+0.1436920158	\ bmod p
+0.1436004066	one variable
+0.1431518707	compared to
+0.1431235809	obtained by
+0.1426139558	focuses on
+0.1424303699	\ phi
+0.1422638090	\ texttt
+0.1419789122	the determinant of
+0.1417305586	best known
+0.1413327188	many applications
+0.1409789122	with coefficients in
+0.1409789122	the design of
+0.1405845882	\ nabla
+0.1404460958	an efficient algorithm
+0.1402198875	computing gr \
+0.1399160218	differential equations with
+0.1397496515	= 1
+0.1395232612	the input polynomials
+0.1394604564	a finite set
+0.1391550235	\ alpha
+0.1388692455	more efficient than
+0.1384448930	minimal polynomial of
+0.1384354662	symbolic computation in
+0.1383937602	a deterministic algorithm
+0.1383582696	rational solutions of
+0.1375040983	normal form of
+0.1374916029	computational complexity of
+0.1371809342	equipped with
+0.1363554458	linear system
+0.1363231418	\ sum_
+0.1354452099	illustrated by
+0.1349525363	\ beta
+0.1342258639	produced by
+0.1342075617	\ cdots
+0.1339215066	combined with
+0.1333635567	refer to
+0.1332044869	the product of
+0.1332041643	bounded by
+0.1328863382	of semi algebraic sets
+0.1328360806	= 2
+0.1326364463	\ _n
+0.1321835248	\ lambda
+0.1319770964	+ d ^
+0.1313122455	the power of
+0.1313122455	time polynomial in
+0.1305930105	\ tau
+0.1305206107	\ cap
+0.1303122455	the solution of
+0.1299137949	\ mathsf
+0.1291567094	in terms of
+0.1291219331	more efficient
+0.1280516649	dealing with
+0.1274609327	an overview
+0.1272453661	\ epsilon
+0.1271016662	\ tilde
+0.1267770401	an algorithmic
+0.1267761429	than previous
+0.1266098181	\ pi \ sigma
+0.1265069802	\ eta
+0.1259369222	more than
+0.1253336698	represented by
+0.1253038604	\ frac
+0.1252223405	some cases
+0.1248648634	introduced by
+0.1243485103	the characteristic polynomial
+0.1232680896	mathcal f
+0.1229960534	this note
+0.1227697695	\ ell
+0.1223712806	lead to
+0.1222919917	\ delta
+0.1222882870	concerned with
+0.1220324817	\ sqrt
+0.1216943620	\ log
+0.1216417435	applied to
+0.1205930626	such as
+0.1204633814	polynomials over
+0.1203690424	^ \ omega
+0.1202739649	\ _
+0.1202497747	appearing in
+0.1202450901	devoted to
+0.1183687741	number of
+0.1182239258	time complexity
+0.1166654104	by introducing
+0.1158966114	polynomial system
+0.1155654148	matrices over
+0.1153485253	n ^ 2
+0.1150646928	\ sigma
+0.1143350251	\ mathfrak
+0.1140190562	deal with
+0.1139750462	algorithm based on
+0.1138645062	\ mathbb z
+0.1138167112	\ bmod
+0.1134972135	^ *
+0.1131520932	$ \ tilde o
+0.1130146900	computed by
+0.1129128205	a probabilistic algorithm
+0.1124386006	\ mathrm
+0.1121328760	\ _ i
+0.1118985942	bounds on
+0.1117915046	the general case
+0.1116739665	of power series
+0.1116546139	corresponds to
+0.1116362305	used to
+0.1113435310	\ pi \ sigma ^ *
+0.1111734722	interested in
+0.1106800668	techniques from
+0.1096503331	\ mu
+0.1087523765	\ mathcal o
+0.1082595833	capable of
+0.1078983286	\ subset
+0.1077960131	not only
+0.1077595322	consists of
+0.1077269639	a rational function
+0.1077025515	an important
+0.1068714467	system of polynomial equations
+0.1063440132	the art
+0.1057036578	n ^ \ omega
+0.1053351119	also provide
+0.1041969964	by means of
+0.1040394497	\ bigo
+0.1034077254	to compute
+0.1030837888	\ mathcal
+0.1026674272	seen as
+0.1024110649	an improvement
+0.1023457326	other hand
+0.1022173009	efficient than
+0.1020255080	_ i
+0.1015182491	experiments on
+0.1011118321	bit complexity of
+0.1010989836	an alternative
+0.1010457833	an effective
+0.1010307582	compared with
+0.1008884001	examples from
+0.1005547531	contained in
+0.1003291605	ability to
+0.0993529847	consists in
+0.0990822736	r ^ k
+0.0983734104	notion of
+0.0980625450	taking into
+0.0976936301	introduction to
+0.0976650756	by applying
+0.0975285805	\ mathbf
+0.0975000173	an iterative
+0.0973659085	several variables
+0.0967626119	to understand
+0.0966998438	this extends
+0.0966520369	in particular
+0.0964767918	p ^ k
+0.0964342024	the other hand
+0.0963845518	restricted to
+0.0961914369	many problems
+0.0952316940	results from
+0.0949089249	the same
+0.0947479020	equal to
+0.0947283612	\ times
+0.0945363599	an element
+0.0942558456	subject to
+0.0940836861	benefits of
+0.0938358500	an abstract
+0.0937534864	^ 1
+0.0934878199	an arbitrary
+0.0934231912	algorithms for
+0.0930836861	subsets of
+0.0929372361	an application
+0.0928169685	proposed by
+0.0927110165	\ in \
+0.0923580832	this improves
+0.0922976899	or even
+0.0916628987	close to
+0.0915822114	\ omega
+0.0915542499	algorithm for
+0.0915312923	a linear differential
+0.0911000467	field k
+0.0910251038	\ mathbb c
+0.0910151941	a semi algebraic
+0.0909961485	advances in
+0.0908161758	to multiply
+0.0904545006	\ left
+0.0898206035	some examples
+0.0894897380	$ n \ times
+0.0891172650	respect to
+0.0888093979	the real roots
+0.0885802846	n ^ 3
+0.0882155800	\ mathbb q
+0.0881094114	\ mathbb
+0.0878552043	runs in
+0.0877981838	+ o
+0.0877855517	to decompose
+0.0868714438	the bit complexity
+0.0868402834	\ binom
+0.0867393898	much more
+0.0866719582	log p
+0.0866209617	$ \ mathcal
+0.0864241382	$ \ nabla
+0.0856469217	r ^ n
+0.0853508948	+ c
+0.0849311350	\ textbf
+0.0846440681	this purpose
+0.0845005904	\ pi
+0.0843982794	k x
+0.0842405246	framework to
+0.0840522506	make use of
+0.0838649176	telescopers for
+0.0832116403	d ^ o
+0.0831304502	combinations of
+0.0830184786	along with
+0.0827474511	analogue of
+0.0823768370	n ^ 1
+0.0817062075	f _q
+0.0814063017	in several variables
+0.0813269629	applicable to
+0.0800785658	^ \ omega 1
+0.0800208123	workshop on
+0.0800100527	an open
+0.0797682737	g =
+0.0794828535	change of
+0.0793760023	an example
+0.0793411298	bound on
+0.0790913812	families of
+0.0785816657	in place
+0.0782321685	degree d
+0.0781962395	^ 2 +
+0.0781918364	to solve
+0.0780105095	second one
+0.0778089400	to ensure
+0.0776268055	a new
+0.0771387029	related to
+0.0768532653	polynomial time algorithm for
+0.0767442562	$ \
+0.0763657139	$ f \ in \ mathbb
+0.0758520611	the minimal polynomial
+0.0758245530	an algorithm
+0.0757023453	developed by
+0.0755923928	advantage of
+0.0755155131	^ n
+0.0753546571	1 + o
+0.0753314959	\ right
+0.0752044169	\ tilde o
+0.0751508903	\ sigma ^ *
+0.0746372216	the number of
+0.0745059025	kind of
+0.0741990270	to isolate
+0.0740956043	$ \ mu
+0.0738027119	$ \ omega
+0.0734878220	for calculating
+0.0732953392	= g
+0.0723238411	version of
+0.0719969333	results show
+0.0719432918	range of
+0.0717582978	finite number of
+0.0716467319	$ \ phi
+0.0716077992	together with
+0.0713232646	not known
+0.0712511526	arising in
+0.0712324514	generalization of
+0.0708867213	to certify
+0.0706729150	used to compute
+0.0704352451	suitable for
+0.0699908359	| ^
+0.0699639233	matrix over
+0.0699571776	this problem
+0.0699066113	variation of
+0.0698112906	$ \ bar
+0.0695592791	\ bar
+0.0695587518	a wide range of
+0.0682663141	also propose
+0.0682495097	$ \ pi
+0.0681378053	with respect
+0.0679914924	z ^
+0.0679863068	to recover
+0.0678499037	to determine
+0.0678369855	z ^ n
+0.0674806134	contrast to
+0.0671969941	the problem of computing
+0.0671196489	^ o
+0.0670431059	done by
+0.0670104530	k x ^
+0.0669024247	operations on
+0.0668493227	according to
+0.0663503578	algorithm uses
+0.0656769953	$ \ texttt
+0.0652697910	$ \ mathbf
+0.0650575110	as small
+0.0650206087	an algorithm to compute
+0.0647141262	this leads
+0.0647100139	\ partial
+0.0645187303	new variables
+0.0644849438	p ^ 2
+0.0644112952	a wide
+0.0642368537	n \ log
+0.0636420276	the complexity of solving
+0.0635760474	to achieve
+0.0635041117	nature of
+0.0633707370	to improve
+0.0633310946	to calculate
+0.0630054952	method for
+0.0627501562	to perform
+0.0624698293	the number of solutions
+0.0622614010	role in
+0.0618808987	an efficient
+0.0616977688	points on
+0.0615155131	n ^
+0.0613140447	to check
+0.0612802603	only if
+0.0611934527	equivalent to
+0.0611701898	\ mathcal c
+0.0610948055	$ \ mathsf
+0.0610612606	to identify
+0.0610375136	\ mathcal p
+0.0608312328	an integer
+0.0607565044	definition of
+0.0603073342	powers of
+0.0602196545	3 x
+0.0602138739	an exact
+0.0598824721	class of
+0.0594704792	the ability
+0.0594475012	approach to
+0.0594425641	n \ times n
+0.0592682671	designed to
+0.0592423657	$ \ mathbb k
+0.0590356269	in practice
+0.0589660683	the complexity of computing
+0.0586486524	the potential
+0.0586144462	extended to
+0.0585580036	to deal
+0.0585045365	in addition
+0.0583796276	assumptions on
+0.0581862767	new approach
+0.0581831976	algorithm to find
+0.0580390474	this result
+0.0574334825	difficult to
+0.0574333097	the problem of solving
+0.0571228638	variant of
+0.0571076106	but also
+0.0570218013	a system of
+0.0568402551	description of
+0.0563869034	usage of
+0.0562834656	$ \ mathbb
+0.0559009957	k =
+0.0556968386	designed for
+0.0554801582	a general
+0.0545747642	this work
+0.0543409278	$ f
+0.0543169548	two different
+0.0542791561	a consequence
+0.0540478815	for instance
+0.0539204184	shown to
+0.0535149877	solutions of
+0.0534564201	described by
+0.0531056804	^ m
+0.0520879634	$ \ mathrm
+0.0519114797	\ mathbb k x
+0.0518383278	a finite number of
+0.0516899423	an algorithm for computing
+0.0516770874	\ mathcal g
+0.0514635674	known algorithms
+0.0512281156	to obtain
+0.0507991139	given in terms
+0.0507048490	presented by
+0.0506644788	an irreducible
+0.0503704857	^ 1 +
+0.0502875907	to generate
+0.0502653489	\ go
+0.0501336812	to handle
+0.0500735923	to produce
+0.0498666183	first time
+0.0495561764	to verify
+0.0493664163	set of
+0.0492543066	\ mathbb p
+0.0492513200	second algorithm
+0.0492354938	framework for
+0.0491648536	and conquer
+0.0489085321	a large class of
+0.0488983524	collection of
+0.0488114880	the context of
+0.0487395028	the first
+0.0484960222	overview of
+0.0481741026	the input
+0.0477841049	bounds for
+0.0477606271	$ 2 ^ \
+0.0477234903	this approach
+0.0476363382	certificates for
+0.0474196055	a novel
+0.0471349739	in contrast to
+0.0470260754	errors in
+0.0466972442	system of linear
+0.0466335682	$ \ epsilon
+0.0465493824	characterization of
+0.0462744551	n |
+0.0462307166	to reduce
+0.0460252857	make use
+0.0459838446	the problem of finding
+0.0458363982	several algorithms
+0.0458030048	similar to
+0.0457920121	existence of
+0.0457785846	over finite
+0.0455200687	a detailed
+0.0452492251	to construct
+0.0449213136	search for
+0.0448167522	2 +
+0.0447924958	an ideal
+0.0443832348	estimates for
+0.0443108154	\ |
+0.0442028546	bitsize of
+0.0441337167	\ mathbb f
+0.0441259571	implemented in
+0.0440330830	roots of
+0.0439546873	family of
+0.0438967844	\ mathbb r ^
+0.0438114880	the aim of
+0.0437835326	a special
+0.0436720369	\ mathbb r
+0.0434783130	the number of variables
+0.0433205601	techniques for
+0.0432708011	to derive
+0.0431120795	results on
+0.0427862393	an input
+0.0424687836	advantages of
+0.0423644866	2 ^
+0.0422758151	versions of
+0.0422207862	the latter
+0.0421874139	$ f \ in \
+0.0421868126	a finite set of
+0.0421469433	$ \ sigma
+0.0421460737	closure of
+0.0418200687	a major
+0.0416626207	an algebraic
+0.0414135568	to count
+0.0414119359	\ mathbf k
+0.0412335089	also present
+0.0409995911	a single
+0.0409832570	a fast
+0.0408358041	properties of
+0.0406491638	an upper
+0.0406417047	$ \ tau
+0.0406344919	\ mathbb z x
+0.0401628010	also give
+0.0401502188	the case of
+0.0400864163	computation of
+0.0400352938	polynomials with
+0.0399969777	$ \ sqrt
+0.0399305786	d ^
+0.0399191374	state of
+0.0398241529	the computation of
+0.0397707641	such systems
+0.0396416721	this algorithm
+0.0394338297	$ d =
+0.0394230280	in terms of indefinite
+0.0393854747	to decide
+0.0391933784	k ^ n
+0.0391730183	$ n =
+0.0387876911	^ k
+0.0387715220	the use of
+0.0387398935	systems with
+0.0386322692	comparison of
+0.0385953750	for constructing
+0.0384744976	to avoid
+0.0384211093	for computing
+0.0384182716	degrees of
+0.0381492088	$ f \ in
+0.0381476671	the size of
+0.0381120184	for solving
+0.0380007935	the degree of
+0.0379034987	$ \ ell
+0.0379022958	an optimal
+0.0378664077	in contrast
+0.0376998093	p ^
+0.0375875134	for multiplying
+0.0374671292	x =
+0.0374470215	this allows
+0.0373266488	list of
+0.0371961206	to find
+0.0371676177	\ mathbb p ^
+0.0371379985	written in
+0.0371112113	the exponent of matrix
+0.0370262488	as possible
+0.0369670353	\ mathcal m
+0.0368841790	the usual
+0.0368841790	the author
+0.0368652085	criteria for
+0.0368361646	a new approach
+0.0367732135	in comparison
+0.0367120243	a polynomial
+0.0365454633	formula for
+0.0364707449	p =
+0.0364433497	zeros of
+0.0364182716	classes of
+0.0363396850	$ 2 ^
+0.0361358041	evaluation of
+0.0358672654	aspects of
+0.0358533729	to evaluate
+0.0355496346	to estimate
+0.0354908064	reduced to
+0.0354447190	an extension
+0.0354392315	of magnitude
+0.0352949372	a complete
+0.0352301177	\ mathbf f
+0.0351799529	to implement
+0.0351533064	tool for
+0.0351238070	for isolating
+0.0350843541	s ^
+0.0348896908	the possibility
+0.0347059585	q ^
+0.0345990066	r ^
+0.0343297501	choice of
+0.0342730366	a polynomial time algorithm
+0.0342085737	derivation of
+0.0341358041	construction of
+0.0340436015	effectiveness of
+0.0339957345	$ \ mathbb z p
+0.0339824943	this method
+0.0338071605	expansion of
+0.0336158571	expressed in
+0.0335746773	a unique
+0.0333954563	new algorithms
+0.0333731884	leading to
+0.0333126729	for detecting
+0.0331796886	a prototype
+0.0330988587	the idea of
+0.0328290678	\ subset \
+0.0326942568	a large number of
+0.0326154352	+ n ^
+0.0325690856	the main
+0.0324478199	^ d
+0.0324293626	for determining
+0.0323168325	for computing gr \
+0.0321418919	tools for
+0.0321397625	\ mathbb k
+0.0320684325	to test
+0.0319463617	$ \ mathbb p ^
+0.0318363417	associated with
+0.0314898240	parametrization of
+0.0314831029	to represent
+0.0314697326	implementation of
+0.0314288843	combination of
+0.0314093484	a new algorithm for
+0.0313759998	b \
+0.0311650304	to establish
+0.0307634684	methods for
+0.0307453404	programs with
+0.0307116064	a suitable
+0.0306591332	technique for
+0.0302954231	method to
+0.0302398208	f =
+0.0299937685	procedure for
+0.0299763116	complexity of
+0.0299674666	conditions for
+0.0299438029	\ mathcal f
+0.0299068261	behavior of
+0.0298238993	analysis of
+0.0297146743	the maximum
+0.0296523443	to illustrate
+0.0295651475	also show
+0.0294950847	a generic
+0.0294286206	the same time
+0.0293453215	a variety of
+0.0293283525	a significant
+0.0293022595	distribution of
+0.0292619539	as part of
+0.0290115574	\ log ^
+0.0289608842	to simplify
+0.0288406771	n +
+0.0284385395	all real
+0.0284215497	application to
+0.0283076654	$ \ alpha
+0.0283038959	scheme for
+0.0283028194	termination of
+0.0280244944	the minimum
+0.0278845120	pair of
+0.0276975970	known as
+0.0276508534	element of
+0.0276390980	3 +
+0.0276331804	new method
+0.0275510962	appear in
+0.0274243321	$ \ delta
+0.0274005708	f x
+0.0273265691	the literature
+0.0272188722	the intersection of
+0.0272069116	the complexity of
+0.0272037230	the original
+0.0271464168	stability of
+0.0270423348	the problem of
+0.0267666691	$ \ mathbf f
+0.0266258534	component of
+0.0266063565	an implementation
+0.0265950239	development of
+0.0265072452	criterion for
+0.0263965310	a simple
+0.0263478903	$ \ mathbb z
+0.0262454824	classification of
+0.0262115502	improvements in
+0.0261586561	p ^ n
+0.0261569359	for factoring
+0.0259141518	this class
+0.0257282443	instead of
+0.0256845263	$ \ mathbb q
+0.0256203576	a field
+0.0255990157	as well
+0.0255639254	the ground
+0.0255522055	the action of
+0.0254333358	$ \ mathcal c
+0.0254138303	algorithm to
+0.0253984854	theory of
+0.0253984854	decomposition of
+0.0253933084	associated to
+0.0253555921	a direct
+0.0253118498	the bit complexity of
+0.0252081804	$ \ tilde
+0.0251781649	the topology of
+0.0251283064	exponential in
+0.0248579385	some new
+0.0247130860	the new algorithm
+0.0246430102	$ \ log
+0.0246203576	a finite
+0.0245102642	used as
+0.0244510369	condition for
+0.0244255977	x ^
+0.0244241476	x ^ n
+0.0243984854	terms of
+0.0243964437	of squares
+0.0243804782	structure of
+0.0243443188	variety of
+0.0242946331	the concept of
+0.0241917600	a set of
+0.0240953677	a new method for
+0.0240443818	\ sum
+0.0240300883	l \
+0.0239688722	the input system
+0.0239554782	representation of
+0.0237424738	= n
+0.0236502423	arise in
+0.0236340728	a collection of
+0.0235835424	+ +
+0.0235816173	this leads to
+0.0234750425	the fact
+0.0234109249	multiplicities of
+0.0233804782	proof of
+0.0233093723	$ \ mathcal o
+0.0230114800	for checking
+0.0229269768	* n
+0.0229206340	the new method
+0.0228453215	a factor of
+0.0228194469	$ \ mathbb f
+0.0227083358	$ \ mathbb r
+0.0227054623	a smooth
+0.0226364293	or not
+0.0225859808	two new
+0.0224333358	\ log n
+0.0223851351	bound for
+0.0222771806	extension of
+0.0221585199	required to
+0.0221323484	problem of
+0.0220014522	h \
+0.0219909278	$ d
+0.0219757940	\ mathbb n
+0.0219506330	for deciding
+0.0219502061	to make
+0.0218627443	view of
+0.0217916691	$ \ mathcal p
+0.0217452648	to provide
+0.0217364700	synthesis of
+0.0217123802	package for
+0.0216942929	a list
+0.0216117293	an implementation of
+0.0214884026	the well known
+0.0211502443	solved in
+0.0211502443	resulting in
+0.0211306201	a modified
+0.0211235332	a new algorithm
+0.0210835424	1 +
+0.0210393245	a new method
+0.0210235886	cost of
+0.0209448178	to extend
+0.0207208234	to analyze
+0.0206353669	\ times n
+0.0203610163	f ^
+0.0203573346	to get
+0.0203569219	generation of
+0.0203002818	the problem
+0.0201080709	a generalization
+0.0201060326	basis of
+0.0200871501	the effectiveness of
+0.0200635208	+ \
+0.0200518018	verification of
+0.0200420660	= \
+0.0197001723	the existence
+0.0196823938	the notion
+0.0193787564	degree of
+0.0192930402	n log
+0.0192687242	\ cdot \
+0.0189472287	correctness of
+0.0189332438	the state of
+0.0188730183	^ \
+0.0188441117	a small
+0.0188410814	the sense
+0.0188218306	the valuation
+0.0187902449	the notion of
+0.0187443199	new algorithm
+0.0187386794	ring of
+0.0186441883	n =
+0.0185607783	a key
+0.0183126064	means of
+0.0182959165	this way
+0.0182930402	\ `
+0.0182750934	a generalization of
+0.0182538168	the existence of
+0.0181537705	i =
+0.0179143946	an algorithm for
+0.0178651962	to take
+0.0177823765	the first algorithm
+0.0176403531	to use
+0.0175846635	\ in \ mathbb k
+0.0175835424	d =
+0.0175065441	a probabilistic
+0.0173310612	the efficiency of
+0.0172930402	by means
+0.0172131329	using gr \
+0.0170896913	work on
+0.0169887633	m \
+0.0169880450	introduced in
+0.0167988585	efficiency of
+0.0167902449	the cost of
+0.0166297117	calculation of
+0.0166244086	length of
+0.0165586507	f \ in \
+0.0164167858	of degree d
+0.0164097087	for testing
+0.0163425766	the height
+0.0162464460	for finding
+0.0162370964	used in
+0.0160857413	the output
+0.0160180307	the last
+0.0158569016	by using
+0.0158569016	given by
+0.0157478625	the case
+0.0157466778	and hence
+0.0157019309	useful for
+0.0156899695	to apply
+0.0156745964	part of
+0.0156147595	concept of
+0.0154089914	the first one
+0.0152593051	bases over
+0.0151729809	action of
+0.0151681745	$ n \
+0.0150836507	^ 3 \
+0.0150069020	g \
+0.0148789601	a large
+0.0147923348	$ n \ times n
+0.0146235782	the ring of
+0.0146002590	inverse of
+0.0145752339	to prove
+0.0145745398	used by
+0.0145003760	a gr \
+0.0143331511	the correctness of
+0.0142950043	the computer algebra system
+0.0142923348	the sum of
+0.0142515078	^ 2 \
+0.0142188142	context of
+0.0142089087	a combination of
+0.0141897479	the corresponding
+0.0141845525	k ^
+0.0141717459	a proof of
+0.0140868881	size of
+0.0140175874	a few
+0.0139993358	the structure of
+0.0139969562	the core
+0.0139561399	the topology
+0.0139472287	sum of
+0.0138967459	\ alpha \
+0.0137750934	a sequence of
+0.0136951097	a factor
+0.0136887639	$ r \
+0.0136330709	a low
+0.0134438063	a class of
+0.0133767090	idea of
+0.0133681745	$ f \
+0.0131295822	work by
+0.0130098454	the exponent
+0.0129993358	the theory of
+0.0127971839	addition to
+0.0125165772	a polynomial system
+0.0125015078	$ d \
+0.0124419840	d ^ \
+0.0124160802	way to
+0.0123666854	f \
+0.0123323010	a proof
+0.0123286990	a sum of
+0.0122655925	a computer algebra system
+0.0122287634	\ log \
+0.0122272358	to do
+0.0122175136	need to
+0.0122116709	a polynomial time
+0.0121830709	the effectiveness
+0.0121529979	topology of
+0.0121414429	the construction of
+0.0119993358	the class of
+0.0119643946	a number of
+0.0119044256	sequence of
+0.0117665772	the real roots of
+0.0117047545	| \
+0.0116419840	^ n \
+0.0115415991	the action
+0.0113651271	the distribution of
+0.0113308756	core of
+0.0113019980	the cost
+0.0112824381	the calculation of
+0.0112287634	$ \ mathbb p
+0.0112116709	an application of
+0.0111822592	the implementation of
+0.0111717459	the analysis of
+0.0111151271	the problem to
+0.0111151271	the sequence of
+0.0110456636	m ^
+0.0110165772	the set of
+0.0109082178	n \
+0.0108622221	a new algorithm to
+0.0108270014	a variant of
+0.0106448890	$ \ f
+0.0106434157	the aim
+0.0105749551	an extension of
+0.0104160802	possible to
+0.0103718541	well as
+0.0101822592	a method for
+0.0101717459	the basis of
+0.0101717459	the representation of
+0.0101414429	the proof of
+0.0101414429	the decomposition of
+0.0101414429	the output of
+0.0100618498	given in terms of
+0.0099315483	^ i
+0.0097123303	$ d ^
+0.0097055012	$ x
+0.0096676162	$ \ k
+0.0096528279	the number
+0.0095922793	a technique
+0.0094994135	allows to
+0.0092686885	in addition to
+0.0092224313	+ n
+0.0092027604	use of
+0.0091717459	the exponent of
+0.0091151271	a family of
+0.0091151271	a method to
+0.0090655055	used for
+0.0086702036	new algorithms for
+0.0086434157	the concept
+0.0085573935	an algorithm to
+0.0080066755	described in
+0.0075958521	$ r
+0.0075067733	a basis of
+0.0063722329	$ c
+0.0063472329	$ z
+0.0062516521	$ b
+0.0058764076	time algorithm for
+0.0049724313	$ e

@@ -1,0 +1,4653 @@
+0.9750372547	neural network
+0.9735775302	machine learning
+0.9687236836	linear logic
+0.9683246973	neural networks
+0.9681974021	partial evaluation
+0.9673754553	lambda calculus
+0.9672099589	linear algebra
+0.9671491154	model checking
+0.9667134791	abstract interpretation
+0.9647277190	control flow
+0.9636500887	virtual machine
+0.9628306663	abstract machine
+0.9622349314	type inference
+0.9595089047	deep learning
+0.9592997486	source code
+0.9566851815	software engineering
+0.9561119177	static analysis
+0.9545403195	object oriented
+0.9544978096	memory management
+0.9543813942	operational semantics
+0.9540316334	domain specific
+0.9540223423	type theory
+0.9539591527	message passing
+0.9518291984	natural language
+0.9505486820	regular expression
+0.9492633905	functional programming
+0.9492098567	automatic differentiation
+0.9483373503	theorem proving
+0.9478016058	event driven
+0.9472239490	service oriented
+0.9447534803	proof assistant
+0.9445397332	quantum computers
+0.9432737922	garbage collection
+0.9427922679	shared memory
+0.9413242916	regular expressions
+0.9405555913	purely functional
+0.9405538850	object oriented programming
+0.9401503061	dependent types
+0.9396279182	abstract syntax tree
+0.9394650911	cloud computing
+0.9392431507	logical relations
+0.9389545918	term rewriting
+0.9383050857	turing machines
+0.9369860289	program transformation
+0.9367481097	image processing
+0.9365823501	exception handling
+0.9365286886	quantum computing
+0.9365197433	instruction set
+0.9363316854	abstract domains
+0.9352045392	reinforcement learning
+0.9349231461	access control
+0.9349001172	data structure
+0.9345586225	basic block
+0.9345118562	petri nets
+0.9344603901	programming languages
+0.9344425717	fixed points
+0.9341372878	quantum physics
+0.9335412408	information flow
+0.9323027128	high performance
+0.9321419015	hoare logic
+0.9316935964	formal methods
+0.9314616407	graph rewriting
+0.9313617893	type safety
+0.9312359486	symbolic execution
+0.9305371356	markov chain monte carlo
+0.9294196737	constraint solving
+0.9294035950	secure compilation
+0.9292431221	domain specific language
+0.9283323028	abstract machines
+0.9281498908	matrix multiplication
+0.9276454267	intermediate representation
+0.9272459278	pattern matching
+0.9267737271	dynamically typed
+0.9267583050	common lisp
+0.9266997106	random variables
+0.9261764422	virtual machines
+0.9260774415	refinement types
+0.9255372883	resource usage
+0.9254196321	process algebra
+0.9250497673	transactional memory
+0.9242725207	separation logic
+0.9235549480	turing machine
+0.9235474477	game semantics
+0.9221114555	quantum circuits
+0.9214744294	data structures
+0.9212646010	programming language
+0.9208228426	horn clause
+0.9203118075	context free
+0.9199534665	data flow
+0.9191644763	relational databases
+0.9186557929	software development
+0.9181047454	race detection
+0.9180664123	session types
+0.9180412335	domain specific languages
+0.9178086868	information flow control
+0.9175870957	turing complete
+0.9168645625	web applications
+0.9168294782	computational complexity
+0.9165602095	smart contracts
+0.9163380886	intersection types
+0.9162952071	declarative programming
+0.9161425073	sparse matrix
+0.9160903675	web services
+0.9158247467	wi fi
+0.9158034032	knowledge base
+0.9155043741	sql queries
+0.9154542197	hindley milner
+0.9152851134	gradual typing
+0.9145062279	code generation
+0.9144576413	formal verification
+0.9137826070	scripting language
+0.9136420151	distributed systems
+0.9135773826	algebraic data types
+0.9134394705	memory safety
+0.9125739852	answer set
+0.9124065424	logic programming
+0.9123391845	monte carlo
+0.9121778403	lazy evaluation
+0.9121009219	fault tolerance
+0.9117936512	java bytecode
+0.9109826882	high performance computing
+0.9104961938	structural operational semantics
+0.9104246078	functional language
+0.9104243500	interaction nets
+0.9103071723	standard ml
+0.9095024701	error detection
+0.9094903321	register allocation
+0.9093124766	artificial intelligence
+0.9089645936	denotational semantics
+0.9089437495	static analyzer
+0.9087870866	programming paradigm
+0.9084793717	quantum mechanics
+0.9082688334	fully abstract
+0.9080575159	embedded systems
+0.9079184747	error messages
+0.9075338568	smart contract
+0.9071895693	memory model
+0.9071205361	program transformations
+0.9071105627	floating point
+0.9064040159	program synthesis
+0.9063542723	tree automata
+0.9058539562	horn clauses
+0.9056088690	parallel programming
+0.9055194454	type checker
+0.9051065163	multi threaded
+0.9049538408	web browser
+0.9049168846	abstract syntax trees
+0.9042537989	higher order
+0.9039775668	resource analysis
+0.9031128123	aspect oriented
+0.9029140735	reverse engineering
+0.9027229450	partial deduction
+0.9025891717	domain theory
+0.9019036646	speculative execution
+0.9018811845	scientific computing
+0.9018127253	case study
+0.9013532748	integrated development
+0.9013497003	control operators
+0.9008104431	input output
+0.9007572334	probability theory
+0.8999406780	relaxed memory
+0.8998646043	fine grained
+0.8993518447	integrated development environment
+0.8993038489	computational models
+0.8991523776	fuzzy logic
+0.8991278777	multiparty session types
+0.8990083229	semantic web
+0.8986480986	low level
+0.8983531684	constraint programming
+0.8983152445	ethereum smart contracts
+0.8978399919	big data
+0.8972770419	hybrid systems
+0.8971911267	context sensitive
+0.8971773275	type directed
+0.8969089192	modal logic
+0.8967783128	predicate abstraction
+0.8966379173	pointer analysis
+0.8965580783	design patterns
+0.8964068821	category theory
+0.8963946419	floating point arithmetic
+0.8962122750	flow sensitive
+0.8956387831	higher order logic
+0.8954317254	proof nets
+0.8954216763	type safe
+0.8951788264	open source
+0.8950405366	contextual equivalence
+0.8949469372	intuitionistic logic
+0.8949105977	optimizing compilers
+0.8948807104	constraint logic programming
+0.8948186944	sized types
+0.8944418864	real valued
+0.8942239202	invariant generation
+0.8942059278	multi party
+0.8940628279	lambda prolog
+0.8940122865	empirical study
+0.8935764648	llvm ir
+0.8935280824	recurrent neural networks
+0.8931088155	aspect oriented programming
+0.8926261436	control flow graph
+0.8925394132	energy consumption
+0.8924190518	delimited control
+0.8923460992	test case
+0.8917436570	functional logic
+0.8917183859	program verification
+0.8915240880	multiparty session
+0.8911135270	probabilistic programming languages
+0.8903414469	load balancing
+0.8899208110	liquid haskell
+0.8898993142	multi core
+0.8897507981	temporal logic
+0.8896989205	parser generator
+0.8896365915	multiparty sessions
+0.8895233562	demand driven
+0.8894216017	algebraic effects
+0.8884856286	race freedom
+0.8883253993	query language
+0.8879909351	instruction sequence
+0.8879145265	fixed point
+0.8872687780	inductive invariants
+0.8869970670	functional programming language
+0.8864603897	constraint propagation
+0.8861300074	generic programming
+0.8859803729	deep neural networks
+0.8858810983	flow analysis
+0.8857239467	user defined
+0.8856270443	tensor algebra
+0.8855251159	type classes
+0.8853436672	lock free
+0.8852217081	probabilistic programs
+0.8851585061	data types
+0.8845563847	general purpose
+0.8844204728	probabilistic programming
+0.8842982697	type checking
+0.8842843150	rewrite rules
+0.8839519004	delimited continuations
+0.8838958266	natural language processing
+0.8834202312	data flow analysis
+0.8832741380	lambda terms
+0.8829070821	concolic testing
+0.8829000559	curry howard
+0.8826438944	implicit computational complexity
+0.8824388290	dependently typed
+0.8823553294	event structures
+0.8822081729	mutual exclusion
+0.8819906038	proof obligations
+0.8819460538	delimited control operators
+0.8817946521	shortest path
+0.8816611067	object oriented languages
+0.8814374316	collective adaptive
+0.8813145733	dependent type theory
+0.8812503427	alias analysis
+0.8811437506	express sos
+0.8810004070	concurrent objects
+0.8809018044	normal form
+0.8808916642	step indexed
+0.8805212380	machine code
+0.8804155742	introductory programming
+0.8803888630	imperative programs
+0.8801793754	lower bounds
+0.8800605903	development environment
+0.8800356047	lambda term
+0.8799482734	imperative languages
+0.8799268730	concurrent constraint
+0.8797939000	functional logic programming
+0.8797438012	answer set programming
+0.8796767361	abstract syntax
+0.8796718775	satisfiability modulo
+0.8792804469	fault tolerant
+0.8790849192	graph coloring
+0.8789584010	differential privacy
+0.8788771538	comparative study
+0.8786201767	effect handlers
+0.8784290444	multi stage
+0.8783015621	context free grammars
+0.8782113320	data race
+0.8778729996	abstraction refinement
+0.8778379113	finite state
+0.8777881962	static program analysis
+0.8777615138	gradually typed
+0.8776366779	decision diagrams
+0.8776308346	parametric polymorphism
+0.8776216996	functional reactive programming
+0.8775894155	black box
+0.8773755228	control flow graphs
+0.8772026173	direct manipulation
+0.8771507498	resource aware
+0.8769477630	program analysis
+0.8765554631	knowledge representation
+0.8757219327	statically typed
+0.8756481906	type class
+0.8754537157	choreographic programming
+0.8754223245	state machines
+0.8753556419	shape analysis
+0.8750274915	probabilistic programming language
+0.8748912066	constraint logic programs
+0.8748431946	ranking functions
+0.8741017602	dependency pair
+0.8739721586	counterexample guided
+0.8739709603	symbolic computation
+0.8735070988	smt solving
+0.8733718065	lambda calculi
+0.8732710431	constrained horn clauses
+0.8732361324	extended version
+0.8725828878	runtime verification
+0.8725216073	constraint logic
+0.8724045535	xml documents
+0.8721233247	head reduction
+0.8720376519	natural numbers
+0.8719624862	supervised learning
+0.8719353984	ad hoc
+0.8719099195	large scale
+0.8715159410	high level
+0.8714707916	infinitary term
+0.8710914023	error reporting
+0.8709121960	galois connections
+0.8704613708	constraint handling rules
+0.8701313257	building blocks
+0.8701304000	program repair
+0.8700594792	single pass
+0.8699189971	ml family
+0.8693928669	isabelle hol
+0.8690683384	np complete
+0.8689377981	weak memory models
+0.8685254154	multi tier
+0.8684343164	subject reduction
+0.8683404010	set theoretic
+0.8683061363	deductive verification
+0.8678783067	code reuse
+0.8678407031	sensor networks
+0.8676109820	operating systems
+0.8674736064	forensic lucid
+0.8674670606	swi prolog
+0.8672962468	safety critical
+0.8672743297	memory footprint
+0.8670763479	quantum programs
+0.8660860520	energy efficiency
+0.8655931804	continuation passing style
+0.8655858349	inductive synthesis
+0.8655235871	oriented programming
+0.8653347383	intuitionistic linear logic
+0.8652280297	equational reasoning
+0.8652036295	graph transformation
+0.8650291161	reverse mode
+0.8649724835	bound analysis
+0.8647519249	smt solvers
+0.8647000496	static analyses
+0.8645000733	nested loops
+0.8643763847	worst case
+0.8642706441	type systems
+0.8641189669	data races
+0.8639329454	sequence diagrams
+0.8638910743	occurrence typing
+0.8637684937	beta reduction
+0.8635950196	distributed memory
+0.8635187744	bounded model checking
+0.8634737767	instruction sequences
+0.8634716381	cut elimination
+0.8634367319	sequent calculus
+0.8630023359	concurrent programs
+0.8628760983	guarded recursive
+0.8628088756	rule based
+0.8627879324	test suite
+0.8626103958	loop nest
+0.8622236900	heap manipulating programs
+0.8621243607	continuous dynamics
+0.8618468996	differentially private
+0.8615623248	proof theoretic
+0.8614284957	partial orders
+0.8613027125	type level
+0.8609582822	differential equations
+0.8609163376	dataflow matrix machines
+0.8606163257	loop invariants
+0.8604890045	lower bound
+0.8604104939	labelled transition
+0.8602169614	extended abstract
+0.8598181194	resource consumption
+0.8595661732	bug finding
+0.8594450848	simply typed lambda calculus
+0.8594447607	quantum computation
+0.8590458481	state space
+0.8588111519	homotopy type theory
+0.8586435109	client server
+0.8584012330	behavioural types
+0.8582149637	rewriting logic
+0.8580436244	inference algorithms
+0.8580110899	observational equivalence
+0.8571581041	type errors
+0.8567652364	reactive systems
+0.8566633787	control flow analysis
+0.8563703978	bug detection
+0.8560447582	higher order functions
+0.8556794686	open source software
+0.8556502112	weak head
+0.8552935266	deadlock detection
+0.8550996817	typestate oriented
+0.8550735106	linked list
+0.8549842879	deadlock free
+0.8548629823	random access
+0.8548584197	model checker
+0.8547336843	relational lenses
+0.8543385393	syntax guided synthesis
+0.8540865427	reachability analysis
+0.8538444987	proof assistants
+0.8538039814	logic programs
+0.8533190051	multi threading
+0.8531719839	continuation passing
+0.8530428764	local search
+0.8530342052	product lines
+0.8530328891	adjoint logic
+0.8529166175	functional programs
+0.8524592045	semi automatic
+0.8524072876	weak memory
+0.8519527299	partial order reduction
+0.8519004185	profunctor optics
+0.8518211418	loop iterations
+0.8517068724	quantum circuit
+0.8516787435	term rewriting systems
+0.8516044799	markov chain
+0.8514103816	simply typed lambda
+0.8514023125	normal forms
+0.8512842049	rewrite systems
+0.8512489900	product line
+0.8510900698	cyber physical systems
+0.8508161210	security properties
+0.8507669966	automated reasoning
+0.8507456445	parallel computing
+0.8505779437	verification conditions
+0.8503929229	concurrent separation logic
+0.8502950224	graph based
+0.8493580841	search tree
+0.8493374056	serverless computing
+0.8491642170	level parallelism
+0.8491085780	explicit substitutions
+0.8490871383	deadlock freedom
+0.8486291014	constraint solvers
+0.8481917125	context aware
+0.8477967539	mutually recursive
+0.8476772812	nominally typed oop
+0.8476520448	domain theoretic
+0.8473980961	order theoretic
+0.8473328960	low power
+0.8471757488	sparse tensor
+0.8471747030	proof theory
+0.8470192562	lock free data structures
+0.8463663261	long standing
+0.8460574300	error recovery
+0.8452729607	reactive programming
+0.8450768411	correctness proof
+0.8449566213	soundness proof
+0.8447319755	multi level
+0.8445439580	spatial conjunction
+0.8442772862	long version
+0.8441886059	sld resolution
+0.8439412184	meta theory
+0.8434425230	proto quipper
+0.8432812880	coinductive types
+0.8430104147	model driven
+0.8428036798	constraint satisfaction problems
+0.8427717076	communicating processes
+0.8427446716	probability distribution
+0.8426543824	race free
+0.8413757941	probability distributions
+0.8412157172	test cases
+0.8411443588	multirole logic
+0.8410497837	quantifier elimination
+0.8407471019	experience report
+0.8403790096	feature oriented
+0.8401637679	concurrent data structures
+0.8398607122	software verification
+0.8398062797	constraint based
+0.8393273462	partial correctness
+0.8390471654	recurrent neural
+0.8389246040	higher order abstract syntax
+0.8385196496	differential dynamic logic
+0.8384583482	path sensitive
+0.8383097130	partial evaluator
+0.8380100954	input output examples
+0.8379146483	equational theory
+0.8378513543	specification language
+0.8374537188	data processing
+0.8369967725	dependent session types
+0.8369302578	verification tools
+0.8367326244	space efficient
+0.8367085147	distributed computing
+0.8365487682	process calculi
+0.8365224680	parser generators
+0.8364858079	programming paradigms
+0.8364106868	category theoretic
+0.8360665018	language design
+0.8360485636	simply typed
+0.8357678891	groundness analysis
+0.8352154535	smt based
+0.8351963435	proof search
+0.8350288315	small step
+0.8350150095	data driven
+0.8347472836	higher level
+0.8343721584	linear ranking functions
+0.8339332283	loop unrolling
+0.8338635579	design pattern
+0.8335773054	technical report
+0.8334789852	constrained horn
+0.8333759221	user friendly
+0.8333563695	case studies
+0.8330455322	mobile devices
+0.8329580438	similar diverse
+0.8328422130	binary code
+0.8325561553	quasi borel
+0.8323114993	imperative programming
+0.8321412028	big step semantics
+0.8319900095	security policies
+0.8319786108	memory models
+0.8318088603	kleene algebra
+0.8313739138	term graphs
+0.8312969622	relational properties
+0.8312250633	parsing expression grammars
+0.8311884086	programming environments
+0.8310947173	memory allocation
+0.8310929305	session typed
+0.8307046418	assembly language
+0.8306926654	termination analysis
+0.8302816774	end users
+0.8302002133	basic block versioning
+0.8301048726	mobile apps
+0.8295151213	native code
+0.8291071379	amortized resource analysis
+0.8289073516	upper bound
+0.8287126244	np hard
+0.8286934620	declarative semantics
+0.8286459750	expressive power
+0.8285934650	benchmark suite
+0.8285337833	computational effects
+0.8283521376	actor systems
+0.8281509804	secure multi party
+0.8281430216	recursive types
+0.8280842827	vulnerable regular
+0.8280358715	private data
+0.8277325733	busy waiting
+0.8275896790	random testing
+0.8272465252	rank polymorphic
+0.8272426529	low latency
+0.8270702891	machine checked
+0.8268244382	quantum algorithms
+0.8257459116	speed ups
+0.8255673921	formal specifications
+0.8250213248	pi calculus
+0.8245422798	syntax errors
+0.8243130501	soft constraints
+0.8240744989	ranking supermartingales
+0.8234879849	decision procedures
+0.8234709524	real world
+0.8233396908	invariant inference
+0.8230110215	memory access
+0.8229030388	interprocedural analysis
+0.8228872208	union types
+0.8227406461	finite domain
+0.8223925442	hash consing
+0.8222917300	transformation tool contest
+0.8220701913	quantum classical
+0.8219410272	classical linear logic
+0.8211739133	context oriented programming
+0.8210305280	dynamic languages
+0.8209250376	single threaded
+0.8207884667	high level synthesis
+0.8204376902	life cycle
+0.8204361182	single pass instruction sequences
+0.8203023161	constraint solver
+0.8201419045	accepted papers
+0.8200061776	optimization problem
+0.8199452395	key insight
+0.8197443388	error prone
+0.8196948854	machine translation
+0.8195008449	boolean registers
+0.8189415844	dependent type
+0.8188697757	functional languages
+0.8187813009	sat solver
+0.8187601360	hand optimized
+0.8184119685	trade offs
+0.8176325336	partial order
+0.8168308267	small scale
+0.8167261918	starting point
+0.8165590612	assembly code
+0.8163181599	static type checking
+0.8162909625	term rewrite systems
+0.8161637075	false positives
+0.8158001014	inductive types
+0.8157256052	multi threaded programs
+0.8156142043	bit strings
+0.8155753822	sygus comp
+0.8154769766	quantum programming language
+0.8153058838	secure information flow
+0.8152250708	intermediate language
+0.8151451886	state machine
+0.8151197562	inference rules
+0.8150835934	mu calculus
+0.8150304162	theorem provers
+0.8146992583	experimental results
+0.8145898747	taking advantage
+0.8144048887	big step
+0.8141803734	quantum programming languages
+0.8137748817	software testing
+0.8136851323	program algebra
+0.8133541644	evaluation order
+0.8132251529	concrete syntax
+0.8125134307	information flow security
+0.8123839652	program slicing
+0.8123455947	student submissions
+0.8122691903	problem solving
+0.8121018435	multi paradigm
+0.8119126151	special purpose
+0.8118430992	table space
+0.8116646657	randomized algorithms
+0.8114967493	quantifier free
+0.8110243273	concurrency bugs
+0.8109141860	coarse grained
+0.8106668768	loop invariant
+0.8103050746	type checks
+0.8102243176	user interaction
+0.8099026575	uniform substitutions
+0.8097073176	variability aware
+0.8096292295	type preserving
+0.8095937060	user space
+0.8093891224	object oriented language
+0.8093644788	order sorted
+0.8093092434	relational model
+0.8090222080	theorem prover
+0.8089026281	semantically equivalent
+0.8088841463	hoare style
+0.8088353043	lambda letrec
+0.8084378004	meta programming
+0.8082924732	structured programming
+0.8081658707	garbage collectors
+0.8079284647	proof rules
+0.8077162403	loop transformations
+0.8071261769	notoriously difficult
+0.8066485963	crosscutting concerns
+0.8064961595	real life
+0.8064514003	formal specification
+0.8064077892	linked data
+0.8064013745	formally verified
+0.8060578213	garbage collector
+0.8058926486	logical framework
+0.8058145493	nominally typed oo
+0.8056959932	type annotations
+0.8054307840	jump instructions
+0.8052741661	multicore cpus
+0.8052078222	abstract interpreters
+0.8049757339	abstract domain
+0.8049603505	real numbers
+0.8049178981	slicing criterion
+0.8042538495	weakest precondition
+0.8036460661	stack based
+0.8035486718	coordination languages
+0.8034237229	main contribution
+0.8034022269	executable code
+0.8033774401	transformation rules
+0.8032160640	functional logic programs
+0.8030717494	correctness proofs
+0.8029693816	compiler optimization
+0.8025835836	component based
+0.8021603847	provably correct
+0.8020415465	static typing
+0.8020283339	arc consistency
+0.8017901586	program equivalence
+0.8017033517	extra functional
+0.8015356294	pull stream
+0.8010022757	information flow analysis
+0.8009858453	years ago
+0.8005399303	code base
+0.8004858837	post conditions
+0.8003655088	relational parametricity
+0.8003129954	session type
+0.7999666798	pushdown systems
+0.7992754448	invited talks
+0.7988952781	variable binding
+0.7988365887	context oriented
+0.7985424424	upper bounds
+0.7984311776	curry howard isomorphism
+0.7981941662	formal reasoning
+0.7978757252	stream based
+0.7978755767	execution environment
+0.7977436496	type soundness
+0.7974236630	decision tree
+0.7964336245	novice programmers
+0.7964075661	inductive datatypes
+0.7962466836	source level
+0.7958739246	logical relation
+0.7956818737	dependently typed folds
+0.7951634864	hybrid games
+0.7947960795	workshop series
+0.7942795566	automatically generated
+0.7942071042	multi dimensional
+0.7940850187	high quality
+0.7940626343	effect systems
+0.7935445393	experimental evaluation
+0.7934380316	quantum programming
+0.7927907061	pc members
+0.7925228311	evaluation strategies
+0.7924956552	concurrency model
+0.7924891891	recursive functions
+0.7924424706	standard library
+0.7921359613	functional programming languages
+0.7920579060	probabilistic inference
+0.7915451861	program logics
+0.7909823516	flow graph
+0.7907978615	web based
+0.7902568308	graph grammars
+0.7896864926	fluent api
+0.7896576280	sequential effect
+0.7894652718	vice versa
+0.7889601183	data type
+0.7889305070	assume guarantee
+0.7888570580	program analyses
+0.7887053364	type check
+0.7883767746	soundness theorem
+0.7882326997	software model checking
+0.7877162881	` `
+0.7875720318	memory consumption
+0.7874438089	combinatorial optimization
+0.7871828026	heterogeneous systems
+0.7869560182	method calls
+0.7867085711	compositional semantics
+0.7865675763	trace based
+0.7865502476	context bounded
+0.7860810295	lower level
+0.7860493691	data accessors
+0.7848997779	search algorithm
+0.7845077871	induction principles
+0.7842787792	linear programming
+0.7834487015	host language
+0.7833720763	structural subtyping
+0.7830568900	international workshop
+0.7829838068	proof technique
+0.7827910780	description language
+0.7826901682	term graph
+0.7825921527	graph neural network
+0.7824652118	first order logic
+0.7819976345	dependently typed language
+0.7815340556	typed processes
+0.7809742638	compiler design
+0.7807427495	scripting languages
+0.7805130804	nominally typed
+0.7804667911	logic variables
+0.7803204247	structured data
+0.7799598269	cost analysis
+0.7798178046	non volatile memory
+0.7794443414	main contributions
+0.7789984210	memory locations
+0.7789031926	sufficient conditions
+0.7788806479	logic based
+0.7786220824	compiler correctness
+0.7784501000	open source projects
+0.7784112313	closely related
+0.7783407616	hardware description
+0.7781802432	control network
+0.7774929777	type based
+0.7770670578	static analyzers
+0.7759707108	cyber physical
+0.7757674016	modeling language
+0.7757169139	model checkers
+0.7756343568	actor based
+0.7750289950	memory usage
+0.7749957553	typing discipline
+0.7745975031	lambda ho term graphs
+0.7745502821	local state
+0.7742888104	dynamic information flow
+0.7741783399	security vulnerabilities
+0.7738508056	subtyping relation
+0.7738492510	programmer productivity
+0.7736258715	memory accesses
+0.7735153560	reachability problem
+0.7732731561	type checked
+0.7729495319	dynamically typed languages
+0.7723312163	description languages
+0.7722700435	flow graphs
+0.7721424849	term graph rewriting
+0.7720672289	software design
+0.7719609680	assertion based
+0.7718911436	symbolic analysis
+0.7715481018	multithreaded programs
+0.7715015082	mutable state
+0.7708164969	intersection type
+0.7706445744	intensional programming
+0.7703345517	termination proofs
+0.7699975537	code completion
+0.7699731681	neural program
+0.7696071714	cartesian closed
+0.7695197321	state transition
+0.7691003882	compiler optimizations
+0.7688905873	recent developments
+0.7686779370	software architecture
+0.7684889225	answer sets
+0.7681992717	flow policy
+0.7681631348	synchronous programming
+0.7677762722	proved correct
+0.7676622299	persistent memory
+0.7670342072	tool chain
+0.7669407093	core calculus
+0.7669238999	query languages
+0.7668038995	passing style
+0.7667737499	communication centric software
+0.7667039626	incremental computation
+0.7666838738	deterministic choice
+0.7665784560	type tests
+0.7651113112	structured functional
+0.7651079813	error bounds
+0.7644945058	user interface
+0.7642520677	partial functions
+0.7641030794	constructor based
+0.7640336936	template based
+0.7638635919	haskell compiler
+0.7635367352	proof method
+0.7631045234	dependency analysis
+0.7627379247	substitution calculus
+0.7623392437	distributed protocols
+0.7622927989	data science
+0.7622866101	energy efficient
+0.7622617181	search strategies
+0.7620720287	web programming
+0.7616769329	language integrated query
+0.7615191189	graph processing
+0.7613503912	code snippets
+0.7611908124	second order logic
+0.7611621794	object types
+0.7607041138	decision procedure
+0.7606394220	liveness properties
+0.7602005552	object oriented programs
+0.7597824894	classical logic
+0.7594352626	ethereum smart
+0.7593543307	intensional logic
+0.7587506778	dynamically allocated
+0.7585682130	memory consistency
+0.7583218052	verification tool
+0.7581621246	higher order programs
+0.7572865140	type theoretic
+0.7566820648	infinite state
+0.7564949824	typed lambda
+0.7562056465	variable names
+0.7560346822	session based
+0.7559523260	highly optimized
+0.7550907737	loop free
+0.7549877832	natural languages
+0.7546010505	data dependence
+0.7544100167	cryptographic protocols
+0.7540182654	communication protocols
+0.7539954104	matrix code
+0.7539233225	concurrent programming
+0.7536495643	dependently typed programming
+0.7535301674	smt solver
+0.7533815255	power consumption
+0.7532480793	long term
+0.7521129675	synthesis problem
+0.7518017601	input data sizes
+0.7513723378	domain experts
+0.7509071120	program size
+0.7508682807	type error
+0.7499747137	live programming
+0.7498008208	imperative language
+0.7494936732	lazy functional
+0.7494584874	complexity analysis
+0.7493694218	java programs
+0.7490309050	strongly typed
+0.7481586674	functional reactive
+0.7481392889	natural semantics
+0.7479088059	previous approaches
+0.7478337622	specifically designed
+0.7477870449	visual programming
+0.7468220657	chain monte carlo
+0.7467048622	syntax trees
+0.7464758591	parallel processes
+0.7464409086	parallel programs
+0.7460749363	function calls
+0.7458020406	byte code
+0.7454714732	consistency models
+0.7451964027	rewriting rules
+0.7447058201	linear constraint
+0.7442444476	end user
+0.7441559631	code quality
+0.7441520670	nested data
+0.7437272592	termination inference
+0.7437029000	european joint
+0.7431714455	type definitions
+0.7425443194	decision making
+0.7422481561	constraint logic object oriented
+0.7419447120	software metrics
+0.7417930212	finite precision
+0.7411205277	trace semantics
+0.7410910442	database queries
+0.7408765959	safety properties
+0.7394488640	prolog programs
+0.7394258041	term rewrite
+0.7387954591	selection rule
+0.7386630161	physical systems
+0.7384784148	static analysis tools
+0.7379966365	execution traces
+0.7377371674	code generator
+0.7369887857	program executions
+0.7362931439	computational model
+0.7354262090	concurrent processes
+0.7349045398	concurrency experience
+0.7348339158	algebraic structure
+0.7347579055	constraint satisfaction
+0.7346972626	modelling language
+0.7345585322	program execution
+0.7345365967	global types
+0.7340337437	global variables
+0.7339712439	constraint handling
+0.7337110804	instruction sets
+0.7336051955	design ideas
+0.7334303748	size change
+0.7332948497	european joint conferences
+0.7327212385	prove termination
+0.7326031680	type driven
+0.7320867480	property based
+0.7315321198	semantics preserving
+0.7312714826	program properties
+0.7311036762	temporal properties
+0.7310911274	syntax tree
+0.7309646424	software analysis
+0.7309591681	transition systems
+0.7308733618	design choices
+0.7307082436	type information
+0.7307002575	relational programming
+0.7302551749	generated code
+0.7302039133	model transformations
+0.7301912484	termination problem
+0.7301905892	gradual type
+0.7300746033	sorted algebra
+0.7299082971	data analytics
+0.7294142564	performance overhead
+0.7294136896	process calculus
+0.7287346298	distributed programming
+0.7285287541	main result
+0.7279457793	runtime errors
+0.7264348267	model based
+0.7258997550	stable model
+0.7250333099	significantly improve
+0.7248496111	continuous distributions
+0.7246821367	formal language
+0.7244620811	recursive definitions
+0.7242119757	optimizing compiler
+0.7241896172	quantum hardware
+0.7237411085	object code
+0.7233490701	low overhead
+0.7228714059	search space
+0.7223942797	programming framework
+0.7222161270	logical constraints
+0.7218549303	language workbench
+0.7217848685	polyhedral model
+0.7215739710	data parallel
+0.7214880385	ranking function
+0.7213537422	language curry
+0.7206629901	data intensive
+0.7206601598	program generation
+0.7205003524	global constraints
+0.7203725078	code fragments
+0.7202206229	fully automated
+0.7200318827	dynamic logic
+0.7195489435	dynamic typing
+0.7192646612	evaluation shows
+0.7191352198	bound variables
+0.7188951584	design space
+0.7181137590	typed lambda calculus
+0.7180182665	markov chain monte
+0.7179363467	space efficiency
+0.7175555025	software developers
+0.7173248405	reference implementation
+0.7172901466	execution trace
+0.7169933796	desirable properties
+0.7169457474	behavior trees
+0.7168347532	task based
+0.7166745344	guided synthesis
+0.7163835583	concurrent separation
+0.7161624954	refinement type
+0.7160877332	relational program
+0.7159583356	program states
+0.7152579750	type families
+0.7149760352	expected runtime
+0.7149418115	parallel execution
+0.7148031477	synthesis problems
+0.7143792458	structural operational
+0.7143340617	modulo theories
+0.7140738733	distributed algorithms
+0.7135845069	multi language
+0.7132500662	empirical evaluation
+0.7124939662	satellite event
+0.7109382049	data centric
+0.7107470774	rule based programming
+0.7106705764	language specification
+0.7102311709	light weight
+0.7100688173	lock based
+0.7099646704	android applications
+0.7098672257	linear types
+0.7092695103	well founded semantics
+0.7091263026	programming assignments
+0.7089906991	rewriting techniques
+0.7084612091	type theories
+0.7082623596	language processing
+0.7081320937	manipulating programs
+0.7080000070	programming language features
+0.7078275433	information systems
+0.7077892191	tree based
+0.7072562522	previous works
+0.7064001753	language features
+0.7055767897	model theoretic
+0.7054390095	concurrency theory
+0.7045667305	behavioral types
+0.7045047028	existing approaches
+0.7042254201	semantic framework
+0.7042218760	prototype implementation
+0.7041603882	important aspect
+0.7039624672	complex systems
+0.7038635933	probabilistic models
+0.7038563148	language constructs
+0.7037479610	recursive programs
+0.7033260927	real world applications
+0.7031188503	language designers
+0.7027240326	contract verification
+0.7026291357	evaluation strategy
+0.7026206033	theoretical results
+0.7021582066	semantic subtyping
+0.7015089680	program invariants
+0.7013713578	software systems
+0.7013051987	worst case execution time
+0.6998306940	control systems
+0.6997818290	type equality
+0.6997489953	dynamic language
+0.6990604413	divide and conquer
+0.6988434503	hardware platforms
+0.6986069073	mpi programs
+0.6985879808	main technical
+0.6985647367	significantly outperforms
+0.6982126361	type discipline
+0.6980149401	design principles
+0.6975885342	artificial neural
+0.6974130721	order theory
+0.6972194299	type inference algorithm
+0.6971666820	times faster
+0.6969140163	object oriented programming languages
+0.6964123104	inference systems
+0.6961892894	core language
+0.6959116755	recently proposed
+0.6956641926	static verification
+0.6955603665	chr programs
+0.6952864318	language integrated
+0.6951021715	data analysis
+0.6950812075	recent advances
+0.6949423053	based approaches
+0.6948259325	compiler infrastructure
+0.6947973561	short paper
+0.6945070437	design decisions
+0.6939892503	higher order logic programming
+0.6938432088	memory safe
+0.6936774289	large applications
+0.6936726049	functional dependencies
+0.6931066320	heap manipulating
+0.6927556485	software components
+0.6926366189	programming language design
+0.6921786663	preliminary results
+0.6919376761	target language
+0.6916935043	compilation technique
+0.6904104234	order term graphs
+0.6903032367	parallel composition
+0.6893905244	programming concepts
+0.6893895881	compositional reasoning
+0.6890152397	program sensitivity
+0.6887292847	points to analysis
+0.6886971040	inference algorithm
+0.6886956368	programming style
+0.6884390462	xml data
+0.6881117267	logic programming languages
+0.6874498533	free variables
+0.6873452853	user provided
+0.6873165446	sensitive data
+0.6864447272	sketch n sketch
+0.6863700253	region based
+0.6863215766	typing rules
+0.6861377085	compilation scheme
+0.6861222420	dynamic programming
+0.6856473528	code bases
+0.6852288130	regular papers
+0.6849365753	higher order functional
+0.6846894245	paper presents
+0.6834984395	dependent session
+0.6826318611	data access
+0.6826143738	semantic foundation
+0.6814198320	computational problems
+0.6808870891	control structures
+0.6804809327	logic programming systems
+0.6799227470	internet of things
+0.6793222086	dynamic analysis
+0.6792440459	verifying programs
+0.6792294050	correct by construction
+0.6791101650	main goal
+0.6785473130	paper describes
+0.6784564969	international conference
+0.6783588063	verification problems
+0.6783192973	analysis tools
+0.6779757746	memory operations
+0.6771059353	reduction rules
+0.6769809067	probabilistic logic
+0.6767574191	constraint language
+0.6764837150	input data
+0.6757856775	reduction semantics
+0.6754126203	development tools
+0.6752248397	declarative languages
+0.6748055108	data generation
+0.6741432717	testing tool
+0.6739995344	classical linear
+0.6729610222	meta language
+0.6728172930	automated verification
+0.6710908082	state reachability
+0.6703341139	large code
+0.6701640080	concurrent software
+0.6701480916	differentiable programming
+0.6699380601	programming models
+0.6698814941	abstract garbage
+0.6680732149	mathematical structures
+0.6679732399	flow analyses
+0.6669547776	actor model
+0.6669237201	existing tools
+0.6663783068	probabilistic model
+0.6648420729	verification framework
+0.6646185711	meta variables
+0.6638209156	program comprehension
+0.6636426944	program semantics
+0.6626052665	meta languages
+0.6625198538	communication centric
+0.6614880714	key challenge
+0.6610322304	compiler framework
+0.6607184601	data sharing
+0.6598828911	concurrency models
+0.6597219048	program point
+0.6595209073	quantitative information
+0.6593298277	oriented programming language
+0.6593280589	explosion problem
+0.6589989598	performance improvements
+0.6584794149	high level languages
+0.6582822303	wide variety
+0.6582587971	search trees
+0.6579863545	fully automatic
+0.6574907813	modern programming languages
+0.6566279329	basic properties
+0.6556493958	prolog systems
+0.6556104398	modal type
+0.6555412629	type preservation
+0.6552121582	training data
+0.6547684038	execution model
+0.6535564340	workshop on mathematically
+0.6535140794	concurrent systems
+0.6532353064	formal analysis
+0.6523584124	orders of magnitude
+0.6507822707	data sets
+0.6506891798	javascript code
+0.6505692398	security property
+0.6503446010	probabilistic program
+0.6503002128	user study
+0.6493650923	state based
+0.6488210486	order reduction
+0.6487418795	programming environment
+0.6484770586	python code
+0.6479051333	formal semantics
+0.6475901643	user input
+0.6473691883	key features
+0.6473592645	binary trees
+0.6472036986	high level language
+0.6457364694	type variables
+0.6454911862	concurrency and communication centric software
+0.6454181616	soundness proofs
+0.6451567832	sequential programs
+0.6430671599	neural machine
+0.6422712920	taking into account
+0.6422605082	quantum software
+0.6413223441	higher order languages
+0.6408035845	algebraic effects and handlers
+0.6407928229	automatically generating
+0.6397981554	language extension
+0.6394205699	powerful tool
+0.6387732585	founded semantics
+0.6387606203	machine learning techniques
+0.6383690539	bringing together researchers
+0.6375424604	article presents
+0.6372455858	grammar rules
+0.6367944706	run time checks
+0.6358850353	abstract semantics
+0.6358709302	language independent
+0.6357454935	persistent data
+0.6354182849	high level programming
+0.6351375023	cost model
+0.6350927588	dependence analysis
+0.6346521570	rewriting systems
+0.6346445949	static analysis techniques
+0.6343004883	driven development
+0.6342867495	prolog program
+0.6341671226	original program
+0.6334234863	code transformation
+0.6333342854	correctness properties
+0.6330959153	performance analysis
+0.6321715175	abstract interpretation based
+0.6320833705	synthesis algorithm
+0.6320687140	current approaches
+0.6320454516	fspvm e
+0.6319066503	oo type
+0.6318996216	programming techniques
+0.6310077044	process algebras
+0.6306615842	compiled code
+0.6304448087	an open source
+0.6296181808	language models
+0.6291034833	machine learning algorithms
+0.6289080582	type oriented
+0.6288921990	tool support
+0.6286443952	java code
+0.6285155662	affiliated workshop
+0.6281890832	improve performance
+0.6277525064	language feature
+0.6259598866	shared data
+0.6259070931	program fragments
+0.6254103071	based approach
+0.6250849352	input values
+0.6246559488	program optimization
+0.6241243967	open problem
+0.6239877512	polymorphic type
+0.6238833092	learning frameworks
+0.6228093192	non free data types
+0.6217992432	real systems
+0.6215336655	broad range
+0.6214067917	kleene algebra with tests
+0.6207852136	challenging task
+0.6206451845	mutable data
+0.6206068777	programming errors
+0.6200705115	specification logic
+0.6200332976	existing methods
+0.6197825260	technique called
+0.6188873132	program variables
+0.6184415180	formally define
+0.6182258158	categorical semantics
+0.6180451023	search based
+0.6173350468	normalization by evaluation
+0.6169882337	risc v
+0.6164376394	optimized code
+0.6157892194	declarative specifications
+0.6150934205	safety property
+0.6135667720	programming interface
+0.6132671265	unification algorithm
+0.6130830264	machine learning models
+0.6129172910	optimization techniques
+0.6120717490	lines of code
+0.6120427131	runtime checks
+0.6116259009	distributed programs
+0.6111205607	program logic
+0.6108012002	geometry of interaction
+0.6100208184	adaptive systems
+0.6098220063	based reasoning
+0.6093424691	type analysis
+0.6086218305	expression grammars
+0.6083466521	proof of concept
+0.6080099736	implementation details
+0.6077951335	finite number
+0.6071813850	verification techniques
+0.6070194272	handling rules
+0.6069799411	step by step
+0.6056768554	software product
+0.6050237729	critical software
+0.6049835290	first class citizens
+0.6046172098	static types
+0.6043648810	static type
+0.6035785340	code size
+0.6033158412	language based
+0.6031933364	security guarantees
+0.6030274126	sensitive information
+0.6030151096	important problem
+0.6029813634	analysis by abstract interpretation
+0.6026845909	significant performance
+0.6023247606	key idea
+0.6022809221	efficient execution
+0.6018713012	abstraction level
+0.6015651490	based programming
+0.6012125651	specific optimizations
+0.6005653720	logic program
+0.6005300304	compilation process
+0.6003097927	heterogeneous hardware
+0.5993745149	modern functional
+0.5989746256	event b
+0.5989376310	programming systems
+0.5986960696	language designs
+0.5983313957	data representations
+0.5982158682	deep neural
+0.5976531469	end to end
+0.5972979109	international conference on logic programming
+0.5971564884	volatile memory
+0.5964640671	workshop on structural operational semantics
+0.5957851571	promising approach
+0.5957204172	formal languages
+0.5955993050	prolog based
+0.5955118628	analysis framework
+0.5936056970	progress properties
+0.5934183582	oo languages
+0.5933383302	proving properties
+0.5930228911	mainstream languages
+0.5926042822	syntax guided
+0.5922081843	linear arithmetic
+0.5919517066	development process
+0.5918941093	block versioning
+0.5911736927	development environments
+0.5910755648	parsing expression
+0.5909813794	language specifications
+0.5898268504	modern software
+0.5895740465	graph neural
+0.5886656582	forward and backward
+0.5869291889	execution models
+0.5861914424	relational specifications
+0.5855212379	based model checking
+0.5846131035	input program
+0.5842170147	software engineers
+0.5837382059	java applications
+0.5837304894	constraint systems
+0.5832357600	concurrent object
+0.5808161030	implicit computational
+0.5806989121	computational power
+0.5806733134	semantic model
+0.5800278774	analysis techniques
+0.5798244936	dataflow matrix
+0.5795210938	important properties
+0.5795002379	verification problem
+0.5793399631	programming model
+0.5787883999	client side
+0.5785780322	semantic actions
+0.5774824000	forum for researchers
+0.5766433734	automatically generate
+0.5750592105	based programming language
+0.5749780605	international conference on concurrency
+0.5749241689	main features
+0.5745445148	dynamic semantics
+0.5739544225	source language
+0.5734040713	separation of concerns
+0.5724006922	paper proposes
+0.5723257793	self adjusting
+0.5719142504	lower and upper
+0.5693676180	program state
+0.5693075575	single program
+0.5692116816	difficult task
+0.5689814170	intersection types and related
+0.5686500453	point of view
+0.5683606571	automatic amortized
+0.5679956905	specific languages
+0.5678594638	workshop on formal integrated
+0.5675726856	logical frameworks
+0.5672172122	computing systems
+0.5672152010	interaction and concurrency experience
+0.5665172220	learning algorithms
+0.5660402379	principal types
+0.5658969043	recent years
+0.5657644364	program behavior
+0.5654056034	analysis results
+0.5651645640	declarative language
+0.5646913217	proof of correctness
+0.5635186929	formal framework
+0.5631765155	important class
+0.5631464354	functional correctness
+0.5631166487	models of computation
+0.5626116410	server side
+0.5622754645	finite set
+0.5616293552	typed functional
+0.5614567479	compile time
+0.5610704907	based testing
+0.5608358373	source to source
+0.5606098639	constant time
+0.5606030765	local variables
+0.5604001745	practice of logic programming
+0.5601698281	program committee
+0.5598486184	formal definition
+0.5596155316	existing implementations
+0.5594808463	low level language
+0.5590378513	interesting properties
+0.5586723062	special case
+0.5583060388	analysis problems
+0.5578991302	paper introduces
+0.5578530294	real world programs
+0.5578070815	level of abstraction
+0.5574559526	alternative approach
+0.5562511012	transformed program
+0.5561927167	mathematical models
+0.5560844809	bring together researchers
+0.5552793945	general purpose programming
+0.5552637354	type and effect
+0.5550021433	haskell code
+0.5530110507	takes as input
+0.5529846229	non interference
+0.5528222660	prove soundness
+0.5525758174	paper extends
+0.5525562108	analysis of logic programs
+0.5513362492	practical applications
+0.5511528123	barr c
+0.5510086384	driven programming
+0.5509650603	program code
+0.5502460555	general case
+0.5500744047	java language
+0.5500216857	language semantics
+0.5496791621	existing techniques
+0.5495170418	transformation tools
+0.5494990415	based systems
+0.5492225763	programming in education
+0.5478521035	driven approach
+0.5473931452	computation model
+0.5471243212	low level languages
+0.5470399083	run time checking
+0.5461749206	programming tasks
+0.5456636722	high level of abstraction
+0.5452208554	semantic analysis
+0.5447058097	efficient implementation
+0.5433986241	language extensions
+0.5430755395	ansi c
+0.5429502458	paper focuses
+0.5426060943	linear dependent
+0.5421574224	workshop of concur
+0.5412573899	conservative extension
+0.5407316157	inductive and coinductive
+0.5406391399	bounded model
+0.5402717431	automatically verifying
+0.5400535677	effects and handlers
+0.5396987226	an object oriented
+0.5395349057	c + +
+0.5383871216	language implementation
+0.5380773163	distributed applications
+0.5377885009	defined functions
+0.5375188226	type abstraction
+0.5371869252	automatically generates
+0.5369536127	learning techniques
+0.5366407812	concurrent program
+0.5361063303	proof methods
+0.5357934048	gp 2
+0.5354809370	semantic information
+0.5345764617	stateless model
+0.5341362340	syntax and semantics
+0.5339774594	proof of concept implementation
+0.5337710033	previously proposed
+0.5328154060	input and output
+0.5321127351	proved sound
+0.5317340487	model transformation
+0.5316751053	analysis tool
+0.5308957183	language model
+0.5306368572	international conference on
+0.5305286943	soundness and completeness
+0.5302705536	safety guarantees
+0.5299005010	based languages
+0.5296913821	points to information
+0.5290375701	programming methodology
+0.5288469028	concurrency and communication centric
+0.5282176083	main idea
+0.5272340947	second order
+0.5269214387	misra c
+0.5264357668	consideration for acceptance in tplp
+0.5263235436	logic languages
+0.5263058191	abstract model
+0.5261895657	c + + 11
+0.5260839809	tool called
+0.5258079019	functional program
+0.5257991897	a case study
+0.5249439876	order to ease
+0.5248157351	correctness and completeness
+0.5243481247	theoretic semantics
+0.5243251267	almost sure
+0.5241986226	complex data
+0.5231100466	satisfaction problems
+0.5227322540	generate code
+0.5218805245	transformation based
+0.5218120783	sound and complete
+0.5211208047	s net
+0.5203959009	express complex
+0.5198488489	order of magnitude
+0.5198375340	syntactic and semantic
+0.5196514996	paper aims
+0.5192491571	code transformations
+0.5191252477	logic programming language
+0.5186849566	static and dynamic
+0.5182823286	code written
+0.5178626008	parallel and distributed
+0.5172722441	imperative programming language
+0.5171979115	large number
+0.5161388146	results demonstrate
+0.5159857466	frama c
+0.5158842438	step operational semantics
+0.5149289135	sos workshop
+0.5138262806	language for describing
+0.5132185190	i o
+0.5129748867	real time
+0.5127724739	writing programs
+0.5125454788	proving termination
+0.5111604077	major challenge
+0.5110984298	automatic generation
+0.5104253735	paper reports
+0.5104244686	highly efficient
+0.5102362248	model of computation
+0.5101186232	classical and quantum
+0.5099202580	target program
+0.5089226743	quantitative aspects of programming
+0.5084287305	execution paths
+0.5045768485	hardware and software
+0.5031790507	computer science
+0.5029183757	quantum program
+0.5022938726	llvm compiler
+0.5018786327	european joint conferences on
+0.5018315923	verification and synthesis
+0.5016863983	infinite data
+0.5015749426	automatic program
+0.5010152640	paper investigates
+0.5008433232	quantitative aspects
+0.4998593813	language called
+0.4997220831	pre proceedings of
+0.4991365969	sequential code
+0.4988168338	concurrent and distributed
+0.4983566826	source program
+0.4983401892	language level
+0.4981488270	article describes
+0.4977661549	workshop on structural
+0.4974055349	implementation techniques
+0.4970473038	paper shows
+0.4969603897	loop body
+0.4966037652	learning algorithm
+0.4963439810	java virtual
+0.4963294337	automatic verification
+0.4959489535	key feature
+0.4947072495	almost sure termination
+0.4940408680	set of benchmarks
+0.4931154124	graphical user
+0.4925452675	analysis and verification
+0.4924195092	large software
+0.4919146100	increasing number
+0.4916308591	object language
+0.4911435795	designed and implemented
+0.4895171770	method for verifying
+0.4883918747	call graph
+0.4882318466	linear ranking
+0.4878326236	static code
+0.4873486351	checking algorithm
+0.4865348610	speed up
+0.4861716046	haskell programs
+0.4861650052	real world code
+0.4859856001	paper addresses
+0.4842935762	program development
+0.4836134635	existing code
+0.4835654055	large programs
+0.4833886995	design and implementation
+0.4829434445	important role
+0.4829207391	typed languages
+0.4822168122	conference on concurrency theory
+0.4813481071	theory and practice of logic programming
+0.4805242022	integrated query
+0.4803851316	well founded
+0.4801059101	transformation tool
+0.4788379518	model semantics
+0.4786586432	verification approach
+0.4781181192	paper defines
+0.4776075682	interactive theorem
+0.4764977876	first order functional
+0.4760184860	unified framework
+0.4758685713	stand alone
+0.4756204229	acceptance in tplp
+0.4751569665	coq proof assistant
+0.4736897125	web application
+0.4726167917	techniques and tools
+0.4725950760	workshops aim at
+0.4717042555	papers presented at
+0.4710209605	theory and practice
+0.4708731411	left to right
+0.4708207275	specification and verification
+0.4705085517	programming constructs
+0.4704958384	first order theory
+0.4703901803	analysis and transformation
+0.4697342330	papers presented
+0.4696683126	\ lambda calculus
+0.4693795974	java 8
+0.4692221043	typed oop
+0.4692110820	key role
+0.4684065201	number of threads
+0.4680982485	logic based methods in
+0.4677944837	theory and practice of software
+0.4676506586	paper discusses
+0.4674459379	based methods
+0.4668820541	programming tools
+0.4651728647	international workshop on
+0.4641990412	automated theorem
+0.4641869707	concurrency and communication
+0.4640557305	languages and systems
+0.4633374427	f ide
+0.4619197158	happens before
+0.4590384900	trade off
+0.4585288050	de bruijn
+0.4580479748	non determinism
+0.4576335250	common approach
+0.4573120644	formal systems
+0.4566464001	technique for proving
+0.4555749631	non deterministic
+0.4551100950	level language
+0.4535992093	intuitionistic linear
+0.4525517549	intersection type system
+0.4525151233	existing languages
+0.4518614186	data and control
+0.4518605874	input language
+0.4511641984	verification technique
+0.4509738813	homotopy type
+0.4500744464	embedded domain
+0.4470957677	name binding
+0.4462215865	dynamic code
+0.4458387358	this paper proposes
+0.4457417610	the coq proof assistant
+0.4453584749	well quasi
+0.4453308916	self adaptation
+0.4452986771	an abstract semantics
+0.4446282412	this paper presents
+0.4436037482	logic based methods in programming
+0.4428145800	oo programming
+0.4425217621	dynamic memory
+0.4403369631	ill typed
+0.4401108188	quantum computer
+0.4387115426	threaded programs
+0.4375736628	run time
+0.4374338926	side effects
+0.4363302349	takes advantage of
+0.4363083121	non termination
+0.4363059978	this article presents
+0.4321148628	based synthesis
+0.4302014583	programs written
+0.4293726376	polynomial time
+0.4283139363	self adaptive
+0.4279565957	a light weight
+0.4276979555	types and related systems
+0.4258453520	oriented programming languages
+0.4254100045	international workshop on trends in
+0.4249081125	typed programs
+0.4238512668	first class
+0.4219599524	international conference on logic
+0.4218823066	number of steps
+0.4214615732	first order
+0.4194111238	data sizes
+0.4193550924	large set
+0.4178864552	this paper describes
+0.4177923324	b prolog
+0.4159933689	abstract state
+0.4158971729	the program committee
+0.4158902339	publicly available
+0.4145323382	general logic
+0.4136353080	based semantics
+0.4129234870	in recent years
+0.4127299211	based implementation
+0.4119379881	semantics based
+0.4114595248	\ emph
+0.4103492279	operating system
+0.4099929101	together researchers working
+0.4089253964	higher order programming
+0.4087737885	general framework
+0.4079183621	conference on logic programming
+0.4078201301	side channel
+0.4077656635	well behaved
+0.4072112304	linear time
+0.4070998275	key value
+0.4059633095	widely used
+0.4051073527	programs running
+0.4036738427	free data structures
+0.4028136952	call by name
+0.4023192904	the actor model
+0.4013382790	specific language
+0.4011474880	international workshop on expressiveness in
+0.4006541163	language designed
+0.3978141043	the size change
+0.3977387390	dynamic type
+0.3959348694	increasing number of
+0.3953441889	execution time
+0.3948430838	designed to support
+0.3948105447	based representation
+0.3944600614	faster than
+0.3935452536	just in time
+0.3920666913	typed programming language
+0.3909958169	many sorted
+0.3908713603	efficient code
+0.3899144560	\ em
+0.3898332055	relatively complete
+0.3887136313	upper bounds on
+0.3881727559	computer algebra
+0.3881118588	wide range of
+0.3879075123	commonly used
+0.3867339708	$ \ sigma
+0.3866533009	computer aided
+0.3860997714	dynamic information
+0.3852841646	non terminating
+0.3842047310	high degree of
+0.3831288381	system f
+0.3813703657	an intermediate representation
+0.3811131767	top down
+0.3803775080	international workshop on verification and
+0.3801030843	the present paper
+0.3790271354	side channels
+0.3768258322	front end
+0.3764766482	non linear
+0.3763428547	back ends
+0.3759647664	and vice versa
+0.3756856651	experimental results show
+0.3756775600	$ \ mathbf
+0.3748831226	trade off between
+0.3743413252	satellite workshop of
+0.3743190198	exponential time
+0.3740176590	this paper introduces
+0.3738241148	application specific
+0.3736560002	language implementations
+0.3716660954	continuous time
+0.3715379239	module system
+0.3710131852	concurrent data
+0.3707490251	recursive data
+0.3705255535	automatic generation of
+0.3703572836	depth first
+0.3700522416	bottom up
+0.3697014825	$ \ mathcal
+0.3686063957	network programming
+0.3679120028	a wide range
+0.3676964703	learning methods
+0.3672242715	based abstraction
+0.3659900750	de facto
+0.3659530977	well formed
+0.3659504930	a formal model
+0.3638938133	proposed technique
+0.3636137099	* * *
+0.3628020226	third party
+0.3624565523	call by value
+0.3617595644	interpretation based
+0.3617542829	\ textit
+0.3614271333	a type based
+0.3608239754	an abstract machine
+0.3608236254	well typed
+0.3603696860	practice of software
+0.3599760134	et al
+0.3594470432	f *
+0.3592918286	least fixpoint
+0.3587252833	a partial order
+0.3575552060	the loop body
+0.3565573870	wider range of
+0.3563984442	call by need
+0.3563110236	write programs
+0.3558735802	well formedness
+0.3552917677	programs written in
+0.3546631807	a prototype implementation
+0.3534226192	a key role
+0.3529089998	type system
+0.3527561538	local type
+0.3515016442	class of programs
+0.3508321851	\ omega
+0.3505695025	typed language
+0.3499671248	back end
+0.3496304463	this article describes
+0.3495042048	non strict
+0.3491091742	programming by example
+0.3488325533	non trivial
+0.3487493104	$ \ pi
+0.3487330299	theoretic approach
+0.3478876435	\ tt
+0.3476753711	many core
+0.3474411578	reason about
+0.3465682001	proposed approach
+0.3460955718	an abstract domain
+0.3459830521	researchers working on
+0.3459785526	\ textsl
+0.3452743868	modern programming
+0.3451625538	coq proof
+0.3447888433	$ \ lambda
+0.3446632745	linear type system
+0.3439990107	formal model
+0.3426491985	a core calculus
+0.3420813521	based verification
+0.3419357820	special case of
+0.3416553765	n ^
+0.3415558387	well suited
+0.3414470432	f #
+0.3410056159	order to obtain
+0.3404308871	constraint programs
+0.3400884422	well understood
+0.3385891728	call time choice
+0.3371876346	c #
+0.3370157242	workshop on logical
+0.3362939441	discrete time
+0.3341133094	the curry howard
+0.3329684678	higher order abstract
+0.3324015584	$ \ alpha
+0.3298756034	language approaches to concurrency and
+0.3298285190	secure information
+0.3289309811	based on abstract interpretation
+0.3283130958	so called
+0.3281141107	code analysis
+0.3279315271	properties of programs
+0.3267792921	non experts
+0.3262845703	a large scale
+0.3262228508	well established
+0.3260388910	oriented languages
+0.3258324846	based memory
+0.3253826493	^ *
+0.3253270983	took place
+0.3234206979	this paper discusses
+0.3230781476	well typed programs
+0.3223017297	a domain specific language
+0.3220101928	^ 2
+0.3218748573	non blocking
+0.3203072536	aims at
+0.3200160444	sound and complete with respect
+0.3199854896	type and effect system
+0.3198113820	a high level
+0.3196963181	if then else
+0.3191945931	becoming increasingly
+0.3186405401	prior work
+0.3183487801	verification of programs
+0.3178787911	full fledged
+0.3176714895	lambda calculus with
+0.3174877294	\ cite
+0.3171269290	aspects of programming languages
+0.3170132026	the key idea
+0.3166312554	code level
+0.3157982421	a process calculus
+0.3155469974	reasoning about
+0.3152788959	theory and practice of logic
+0.3144519439	a type checker
+0.3133903788	systems programming
+0.3133259399	\ mathcal
+0.3132351093	recent advances in
+0.3127244579	a rule based
+0.3124255832	last decade
+0.3123417403	across multiple
+0.3122126353	an smt solver
+0.3108643231	a tool called
+0.3099376385	$ cfa
+0.3097262640	$ \ lambda_ \
+0.3096686045	$ \ times
+0.3095461083	put forward
+0.3089985046	two case studies
+0.3084535367	$ \ mathcal p
+0.3084103555	\ sigma
+0.3082267092	approaches to concurrency
+0.3077014336	$ _
+0.3070021212	semantics for higher order
+0.3069870535	based static
+0.3069519825	an operational semantics
+0.3068191502	call by push value
+0.3065633989	full abstraction
+0.3058851734	\ mu
+0.3054902500	c c + +
+0.3049062778	running time
+0.3048688083	work in progress
+0.3046202042	based program
+0.3045108548	infinitely many
+0.3038109000	a major challenge
+0.3024353016	finite number of
+0.3017337674	proving termination of
+0.2992481061	determine whether
+0.2987929412	ttc 2011
+0.2979384644	previous work
+0.2975380553	effect system
+0.2958876657	little attention
+0.2954552380	time consuming
+0.2948468791	co located with
+0.2946309901	a domain specific
+0.2943039093	programming language approaches to
+0.2940906260	many real world
+0.2936665644	instruction sequences with
+0.2934360168	program written
+0.2931914605	the original program
+0.2919014752	wide variety of
+0.2917346988	well defined
+0.2915957792	new language features
+0.2912020617	large number of
+0.2905626044	variety of applications
+0.2901206315	a level
+0.2897528602	the proposed technique
+0.2893332575	* *
+0.2892917093	based programs
+0.2881314438	time series
+0.2877352304	automatic verification of
+0.2870808437	this paper investigates
+0.2857731798	\ `
+0.2832748189	$ \ phi
+0.2826122461	no longer
+0.2819318265	a separation logic
+0.2817426547	the pi calculus
+0.2817420992	closed under
+0.2812967489	a high level language
+0.2812319205	\ phi
+0.2807197885	easy to use
+0.2790020269	aimed at
+0.2788343482	relatively small
+0.2786048607	third workshop
+0.2778558342	well studied
+0.2774104855	and error prone
+0.2766511940	well known
+0.2760579209	functional correctness of
+0.2759968005	an eclipse
+0.2750379768	$ \ beta
+0.2742438481	the ttc 2011
+0.2740178155	$ \ textit
+0.2730215631	the glasgow
+0.2728487874	\ epsilon
+0.2727084984	\ ~
+0.2698956527	pi calculus with
+0.2690055578	free programs
+0.2659482011	the proposed method
+0.2657620051	$ \ lambda_
+0.2655439588	based language
+0.2655299970	more precise
+0.2652780609	the art tools
+0.2649324301	small set of
+0.2639078789	k framework
+0.2635304040	performance computing
+0.2635283908	application areas
+0.2635126887	so far
+0.2632616178	ml like
+0.2630649237	give rise
+0.2630571550	first order term
+0.2606473580	\ mathbb
+0.2598325506	reasoning about programs
+0.2595076702	method based
+0.2586202429	a programming model
+0.2582320629	into account
+0.2577314552	under consideration for acceptance in tplp
+0.2577123950	purpose language
+0.2575430980	the art
+0.2574580553	does not
+0.2572964233	top level
+0.2570045627	logic programming with
+0.2569746258	inspired by
+0.2567667359	communication between
+0.2565283425	a general purpose
+0.2550327279	the current state
+0.2549819218	$ \
+0.2543669614	correspondence between
+0.2539632878	\ mathcal o
+0.2539139005	functional programming in
+0.2535884597	workshop on formal
+0.2533409931	doing so
+0.2531156069	starting from
+0.2525279323	a programming paradigm
+0.2514877278	a formal framework
+0.2509981783	analysis technique
+0.2508927449	sufficient conditions for
+0.2505026656	induced by
+0.2492903384	languages provide
+0.2492509272	workshop on developments in
+0.2487998952	\ lambda
+0.2486447392	connection between
+0.2481657441	the simply typed
+0.2478346616	very large
+0.2463093044	a finite set
+0.2461765029	correctness of program
+0.2456087714	$ \ lambda ^
+0.2453759452	workshop on expressiveness in
+0.2445155801	recent work
+0.2442918390	an alternative approach
+0.2439420579	$ \ omega
+0.2433150511	ongoing work
+0.2431895480	satellite event of
+0.2424615733	viewed as
+0.2424587683	few years
+0.2424386294	without requiring
+0.2413556562	suffers from
+0.2411086147	learning models
+0.2407003411	key feature of
+0.2403518598	the proposed approach
+0.2403074649	serves as
+0.2399509626	rather than
+0.2395708941	at compile time
+0.2389255486	c compiler
+0.2387318875	caused by
+0.2384068078	dependencies between
+0.2383937621	set of program
+0.2383901919	domain specific language for
+0.2380450227	relies on
+0.2378716733	under consideration
+0.2378109041	while loops
+0.2377190442	the set
+0.2372245340	distance between
+0.2368500998	automated program
+0.2367691254	oriented language
+0.2366700401	prolog system
+0.2353931870	less than
+0.2352684289	check whether
+0.2352383172	under consideration for acceptance
+0.2346981464	equipped with
+0.2345653249	a satellite workshop
+0.2338407868	number of
+0.2337519094	focuses on
+0.2336262102	approach to programming
+0.2335750175	the simply typed lambda calculus
+0.2334146244	$ calculus
+0.2331191972	finitely many
+0.2316467401	the abstract syntax
+0.2315529271	expressive enough to
+0.2312476395	typed program
+0.2302405490	relying on
+0.2299127830	the transformed program
+0.2291501733	a large number
+0.2291500581	logic programs with
+0.2287501726	a core language
+0.2285661559	\ pi
+0.2284920198	stems from
+0.2284319218	the control flow graph
+0.2276082237	rely on
+0.2272540949	small number of
+0.2270779104	this technical report
+0.2265559519	an efficient
+0.2264648332	thought of as
+0.2263025183	based on
+0.2262806535	relations between
+0.2262531054	do not
+0.2259749598	algebraic data
+0.2255324217	gap between
+0.2252673145	the coq proof
+0.2252323973	a program transformation
+0.2250660967	interpretation framework
+0.2240748049	current state of
+0.2239212767	based approach to
+0.2238800785	level programming languages
+0.2238119878	systems provide
+0.2236552537	relationship between
+0.2226622289	analysis of programs
+0.2224927242	conservative extension of
+0.2224891693	a conservative extension
+0.2224888311	prove correctness of
+0.2224876631	interactions between
+0.2222105327	analysis based on
+0.2220064708	large set of
+0.2218424845	without sacrificing
+0.2216139404	value analysis
+0.2210084610	the subtyping relation
+0.2206682643	equivalence between
+0.2204541351	workshop on
+0.2202918812	use cases
+0.2199305588	quantitative aspects of
+0.2192831475	while preserving
+0.2191155920	a machine learning
+0.2190661070	call by value language
+0.2188716611	language support
+0.2188286582	bridge between
+0.2176871739	or parallelism
+0.2173114540	this paper
+0.2168436549	focus on
+0.2168365877	a wide variety
+0.2164740365	while maintaining
+0.2162959055	a forum for presenting
+0.2162191993	earlier work
+0.2161358926	the shelf
+0.2160627758	a formal semantics
+0.2160518284	focused on
+0.2158722545	a given program
+0.2155826984	this paper shows
+0.2154087742	the lambda calculus
+0.2148412080	a simple
+0.2148374552	a turing complete
+0.2148139633	a high performance
+0.2142503506	ranging from
+0.2139148313	on average
+0.2137254992	relationships between
+0.2134572464	this article
+0.2129782242	\ alpha
+0.2128426041	prove correctness
+0.2126616442	benefit from
+0.2125764815	for differential privacy
+0.2122344093	a type theory
+0.2120884841	ease of use
+0.2120782021	aiming at
+0.2119017784	+ +
+0.2118205735	\ delta
+0.2115069571	$ g
+0.2113241316	depending on
+0.2101398142	a programming language
+0.2098413162	an experiment
+0.2097680206	c and c + +
+0.2095744656	paper focuses on
+0.2093892943	decision procedure for
+0.2089034525	application domains
+0.2089007504	important role in
+0.2079030086	linear type
+0.2078632876	proving properties of
+0.2070182043	the european joint
+0.2069976653	broad range of
+0.2069795642	a low level
+0.2068339852	this paper addresses
+0.2057923932	the llvm compiler
+0.2055313455	of such systems
+0.2054343057	the value of
+0.2054067135	state of
+0.2052821684	the other hand
+0.2050937364	does not require
+0.2050338691	main features of
+0.2049645708	based on type
+0.2049560131	this volume contains
+0.2047018440	there exist
+0.2045504976	second contribution
+0.2043663239	most notably
+0.2041697549	more complex
+0.2040513540	whether or not
+0.2040168434	a new proof
+0.2038359799	depends on
+0.2037256991	formal semantics for
+0.2030006846	of lambda terms
+0.2026418529	the time of
+0.2020176342	differs from
+0.2014160480	$ f
+0.2007859799	depend on
+0.2006112202	the main idea
+0.2004306254	the search space
+0.2002033537	even though
+0.2001007054	not necessarily
+0.2001001006	regarded as
+0.2000708200	for proving termination
+0.1996925145	built on top of
+0.1996401808	motivated by
+0.1996179235	translated into
+0.1995101685	resource usage of
+0.1992190233	long time
+0.1989941945	to bring together researchers
+0.1988225534	an important role
+0.1986874425	notion of
+0.1984588785	program logic for
+0.1982911720	produced by
+0.1968695380	an extensible
+0.1968520274	time and space
+0.1966080138	did not
+0.1961781351	a lambda
+0.1957649080	an imperative language
+0.1957226847	suffer from
+0.1953965845	information about
+0.1953366457	plug in
+0.1951192807	c programs
+0.1949926941	a logic program
+0.1944788872	serve as
+0.1933849465	this paper studies
+0.1933604679	on structural operational semantics
+0.1932365634	this paper reports
+0.1929845314	programming language with
+0.1929646116	termination analysis of
+0.1927286953	some cases
+0.1927222737	dealing with
+0.1927164088	static type system
+0.1925344228	an improved
+0.1922927711	the papers presented
+0.1922817453	advent of
+0.1920295283	at runtime
+0.1918417315	$ x
+0.1909005260	better than
+0.1903645824	a ram
+0.1899319675	to parallelize
+0.1897048682	this paper defines
+0.1894343057	the help of
+0.1892917608	connections between
+0.1892114994	while keeping
+0.1890581092	bring together
+0.1890500127	easy to
+0.1890347665	integrated into
+0.1887492708	proposed method
+0.1887397642	complexity analysis of
+0.1885922423	workshop on trends in
+0.1883526316	out of order
+0.1882695457	based on abstract
+0.1881772156	more sophisticated
+0.1881562758	probabilistic programs with
+0.1879387445	more precisely
+0.1872218281	differences between
+0.1866885544	transition system
+0.1866558999	general notion of
+0.1865424138	the effect of
+0.1862595936	static program
+0.1861429306	gives rise to
+0.1859382940	non standard
+0.1858523415	a concurrent program
+0.1853737759	amenable to
+0.1851809666	program written in
+0.1849587105	leads to
+0.1848587928	more expressive
+0.1846699115	over approximation
+0.1845630887	drawn from
+0.1844724843	of instruction sequences
+0.1842207308	points to
+0.1840706694	the values of
+0.1840326389	difference between
+0.1839318952	first step towards
+0.1839115341	code written in
+0.1829951340	a higher order
+0.1825167481	compared to
+0.1824989407	whole program
+0.1822713586	more generally
+0.1820286805	not obvious
+0.1818676349	more importantly
+0.1818046943	operational semantics for
+0.1817432273	consists of
+0.1817257434	general enough
+0.1815807040	of multi threaded
+0.1805535638	deals with
+0.1802540600	based approach for
+0.1800879752	\ times
+0.1800695722	time analysis
+0.1800289668	function call
+0.1795405461	of logic programs
+0.1791891432	referred to as
+0.1790848492	relation between
+0.1790423434	kleene algebra with
+0.1786517691	second international
+0.1784219693	language based on
+0.1783652939	a special case
+0.1781392964	system level
+0.1778601631	among others
+0.1777979945	automated verification of
+0.1774195059	denotational semantics for
+0.1770647161	a constraint based
+0.1765958389	set of
+0.1765860037	from scratch
+0.1761410824	the logic programming
+0.1755424138	the results of
+0.1755126884	held on
+0.1754133815	typed programming
+0.1753630551	interacting with
+0.1752782165	the theory and
+0.1752524523	languages and self
+0.1750563615	a language based
+0.1750210615	a satellite event
+0.1749446984	denotational semantics of
+0.1748533457	programming language based
+0.1746560842	an average
+0.1745853028	pattern matching in
+0.1738220267	formal verification of
+0.1736906093	the same
+0.1736580431	the halting
+0.1735294071	an open
+0.1734640964	conferences on theory and practice of
+0.1734033017	more efficient
+0.1733391351	order logic
+0.1732782165	the logic of
+0.1732688884	derived from
+0.1731535823	lead to
+0.1730417888	affected by
+0.1726420553	focusing on
+0.1726418529	the needs of
+0.1723417315	$ k
+0.1721025223	typed programming languages
+0.1715078900	due to
+0.1714651457	resulted in
+0.1712782165	the end of
+0.1709334542	static analysis for
+0.1709325285	this thesis
+0.1704428754	a denotational semantics
+0.1702634011	an abstract interpretation
+0.1700902272	coincides with
+0.1698698624	improvement over
+0.1696292813	at least
+0.1695556039	static analysis of
+0.1695424138	the domain of
+0.1695424138	the process of
+0.1694543793	bringing together
+0.1694078959	one hand
+0.1693509905	formal specification of
+0.1691787775	the order of
+0.1685895560	tend to
+0.1684882959	abstract domain for
+0.1682782165	the types of
+0.1677031091	resorting to
+0.1672757899	efficient code for
+0.1667548303	together researchers
+0.1667535841	as well as
+0.1666583255	general framework for
+0.1666051388	volume contains
+0.1663478897	based framework
+0.1657960449	^ \
+0.1657813224	to automatically generate
+0.1657305727	large class of
+0.1656107473	simpler than
+0.1656051305	the source language
+0.1651933951	more than
+0.1651920553	characterized by
+0.1650861779	g \
+0.1649519915	space of possible
+0.1648641197	mixture of
+0.1640801204	a probabilistic program
+0.1640706694	the framework of
+0.1634245567	able to
+0.1632782165	the processing of
+0.1631787775	the effects of
+0.1630614897	a unified
+0.1625905348	sound with respect to
+0.1622299719	provided by
+0.1621238306	method based on
+0.1620136131	an introduction
+0.1619706847	level code
+0.1616794728	in many cases
+0.1616367492	c like
+0.1613522051	the proof assistant
+0.1612782165	the computation of
+0.1610095129	in order to
+0.1609224759	a source to
+0.1608823336	the main contribution
+0.1603762976	results indicate
+0.1602782165	the solution of
+0.1601843057	more and more
+0.1600759963	non functional
+0.1598672033	time compilation
+0.1597817564	on line
+0.1596078953	functional language with
+0.1592782165	the safety of
+0.1592782165	the consistency of
+0.1592782165	the focus of
+0.1591229065	learn about
+0.1589181612	to code
+0.1589142949	efficient implementation of
+0.1588482468	large part
+0.1588340823	language support for
+0.1584376261	and replay
+0.1582782165	the output of
+0.1580849966	java and c
+0.1579230731	related systems
+0.1577370413	programming language for
+0.1569605341	as opposed
+0.1566846627	l \
+0.1566250842	safety properties of
+0.1566012853	look at
+0.1565540988	first international
+0.1565529906	application development
+0.1564295477	this paper extends
+0.1563985677	an executable
+0.1562782165	the university of
+0.1562782165	the technique of
+0.1561054831	the target language
+0.1557629991	a generic
+0.1556318838	the abstract domain
+0.1555728982	under execution
+0.1553714657	supported by
+0.1552782165	the architecture of
+0.1551113796	the source program
+0.1548223968	non probabilistic
+0.1547793429	interacts with
+0.1547589567	symposium on
+0.1546589926	based analysis
+0.1544799438	millions of
+0.1542782165	the programming of
+0.1542499290	of such programs
+0.1541926398	experiments show
+0.1539618378	a single program
+0.1538898532	at run time
+0.1534343057	a library of
+0.1532985505	for probabilistic programs
+0.1531568371	logical frameworks and
+0.1528840039	makes use of
+0.1527151275	an important
+0.1527097850	run time system
+0.1525776710	transformed into
+0.1525674703	while avoiding
+0.1525282165	to appear in theory and
+0.1524822565	aim at
+0.1524278507	spite of
+0.1523375969	ability to
+0.1522327600	version of
+0.1519413520	type checking for
+0.1518569494	a lambda calculus
+0.1518482504	the source code
+0.1516471505	a modular
+0.1515424138	the task of
+0.1512782165	the calculus of
+0.1510136163	making use of
+0.1508936869	prototype implementation of
+0.1507881134	a large class
+0.1506737275	opposed to
+0.1505726205	this end
+0.1505460548	endowed with
+0.1503646492	the control flow
+0.1502782165	the flow of
+0.1502460430	for logic programs
+0.1502077550	comparison between
+0.1501956748	non recursive
+0.1501028279	accounts for
+0.1499544116	sound and complete with respect to
+0.1497415305	consisting of
+0.1494534555	insight into
+0.1494516360	such as
+0.1493918529	for use in
+0.1487218621	capable of
+0.1487057352	future work
+0.1483827990	a higher level
+0.1480597352	abstract interpretation of
+0.1479817433	new programming language
+0.1479006556	a domain specific language for
+0.1478453889	challenging because
+0.1477440594	the syntax and semantics
+0.1476292642	operational semantics of
+0.1475085278	concerned with
+0.1474616041	\ beta
+0.1472782165	the interaction of
+0.1471214864	equational theory of
+0.1469890250	builds on
+0.1469558194	\ l
+0.1467341732	a functional language
+0.1466136537	reviewed by
+0.1461147352	type inference for
+0.1453954541	the design space
+0.1449929313	more general
+0.1449796646	\ text
+0.1446721708	a mixture
+0.1444631614	a priori
+0.1444390210	captured by
+0.1442201234	a general framework
+0.1442075649	in terms of
+0.1441127811	value dependent
+0.1439286816	the open source
+0.1435985489	do so
+0.1435353237	characterization of
+0.1435309030	a step towards
+0.1434540622	like java
+0.1434201701	c language
+0.1433901856	the host language
+0.1433810347	this volume
+0.1431878138	an automated
+0.1431247450	a real world
+0.1428952609	an alternative
+0.1427733555	aims to
+0.1427581490	refer to
+0.1424290129	best known
+0.1419670760	non local
+0.1418965011	code generation for
+0.1417425492	time complexity
+0.1417332744	more powerful
+0.1414879690	an abstraction
+0.1412801506	very few
+0.1412287322	applied to
+0.1410970174	an expressive
+0.1409484319	on demand
+0.1408721663	$ o
+0.1406985776	of logic programming
+0.1402285526	handled by
+0.1402253741	in logic programming
+0.1400021523	several examples
+0.1399725725	the pc
+0.1398062275	corresponds to
+0.1397189959	a certain class
+0.1395220021	a small set
+0.1394865499	the realm of
+0.1393899477	with respect to
+0.1390774563	search over
+0.1389436844	techniques based on
+0.1387388532	better understanding
+0.1383304000	a survey
+0.1381349351	a systematic
+0.1378942771	a practical
+0.1376255346	able to detect
+0.1375980536	two level
+0.1373769351	in theory and
+0.1373394697	very high
+0.1373290139	better understand
+0.1372175992	very difficult
+0.1369287775	the addition of
+0.1368898027	a program
+0.1367708455	an integral
+0.1365728942	correspond to
+0.1364425493	close to
+0.1362782165	the ideas of
+0.1360005779	report on
+0.1358579947	semantics based on
+0.1358525022	verification system
+0.1357833835	refers to
+0.1357179466	emerged as
+0.1356354172	different levels
+0.1356188556	session types in
+0.1355127176	as opposed to
+0.1354906003	an operational
+0.1353934694	in separation logic
+0.1352782165	the challenges of
+0.1351507038	unable to
+0.1349894135	posed by
+0.1349516360	this work
+0.1347648689	represented by
+0.1346403150	emphasis on
+0.1345722439	the paper presents
+0.1344942655	expressive power of
+0.1342963949	an environment
+0.1339923390	$ n
+0.1337445231	related work
+0.1335623671	a program logic
+0.1334440572	programming model for
+0.1331227187	technique based on
+0.1330806964	so as to
+0.1328361721	specification language for
+0.1325911391	the operational semantics
+0.1322088637	on trends in functional
+0.1320992803	a data structure
+0.1318506657	model checking of
+0.1316775483	an ml like
+0.1312987305	written in
+0.1312047603	control flow of
+0.1311331499	a static analysis
+0.1306672839	the sixth
+0.1305651871	imposed by
+0.1304222798	of input output
+0.1300866292	an order of magnitude
+0.1298707685	approach to
+0.1294613217	this dissertation
+0.1294397312	used to
+0.1292782165	this information to
+0.1291919301	the fly
+0.1290282165	the paper also
+0.1287128167	gives rise
+0.1284572211	take advantage of
+0.1283899477	by means of
+0.1282926172	formal semantics of
+0.1281399045	interaction between
+0.1277455197	in addition
+0.1277126465	system design
+0.1276567768	the low level
+0.1275770089	a probabilistic programming
+0.1275741108	an extension of
+0.1274450952	part of
+0.1272175269	the high level
+0.1267669113	interested in
+0.1267535841	on top of
+0.1267075649	the aim of
+0.1266872675	a logic programming
+0.1266583938	an attempt
+0.1265406417	denoted as
+0.1265319206	portions of
+0.1265005964	if and only if
+0.1263998214	according to
+0.1263620867	deal with
+0.1262479041	constraints over
+0.1260791686	of programming languages
+0.1260151943	a neural network
+0.1253489149	the program
+0.1251642048	difficult to
+0.1248945412	the input data
+0.1247432517	type systems for
+0.1244855885	formal model of
+0.1241365990	earlier work on
+0.1237014985	third workshop on
+0.1234985900	two decades
+0.1231521765	the object oriented
+0.1227059981	hundreds of
+0.1226968574	properties of
+0.1226791877	proud to
+0.1226615209	of source code
+0.1223305322	the semantics
+0.1221560789	a categorical
+0.1216676010	transformation systems
+0.1213075611	hard to
+0.1212749403	the functional programming
+0.1211608845	to type
+0.1209362579	account of
+0.1208700645	of session types
+0.1207629044	programming language based on
+0.1205282165	two types of
+0.1201416587	thousands of
+0.1201321495	a single
+0.1199171453	represented as
+0.1193565386	the original
+0.1192574413	a new
+0.1190331325	an opportunity
+0.1189886172	a case
+0.1188159405	interact with
+0.1187394676	devoted to
+0.1186284372	obtained by
+0.1184849243	a general framework for
+0.1183786871	an elegant
+0.1183374894	to achieve
+0.1180936638	the programming language
+0.1179734209	defined by
+0.1177888927	programming system
+0.1175479095	targeted at
+0.1173495017	kinds of
+0.1169241898	the denotational semantics
+0.1167240072	compatible with
+0.1164391982	presentation at
+0.1163971690	and higher order
+0.1156251819	portion of
+0.1153173084	tools like
+0.1151265036	an extensive
+0.1139925165	the same time
+0.1139802879	fragment of
+0.1139599731	achieved by
+0.1138479475	the programmer
+0.1135807661	for acceptance in tplp
+0.1135134653	computer programs
+0.1132983963	new developments
+0.1132786623	computer systems
+0.1132771298	programs without
+0.1131566673	variety of
+0.1128720922	model based on
+0.1126262052	implementation of
+0.1125359820	generated by
+0.1124137568	ahead of
+0.1123658008	data structures in
+0.1123397649	$ d
+0.1119611312	make use of
+0.1115297519	even if
+0.1115282165	a mechanism to
+0.1115131690	a logic
+0.1112567879	written in c
+0.1112071851	$ p
+0.1110859372	interpreted as
+0.1106872865	the type
+0.1105267796	a new language
+0.1100529389	leading to
+0.1098761219	support for
+0.1095417783	well suited for
+0.1095282165	for languages with
+0.1095106982	better performance
+0.1091382019	c code
+0.1090993900	designed to
+0.1089287142	also discussed
+0.1081208674	by need
+0.1077876359	a type
+0.1075794423	the experimental results
+0.1075270740	the ice
+0.1073737757	a template
+0.1072833273	majority of
+0.1069881955	these logics
+0.1068648467	c + + code
+0.1066041388	different components
+0.1061642156	bounds on
+0.1059898266	arising from
+0.1056343318	take advantage
+0.1056269351	to concurrency and
+0.1055655274	followed by
+0.1055441648	a host
+0.1055282165	the behaviors of
+0.1053787709	compilation time
+0.1052877696	to take advantage
+0.1051019321	a proxy
+0.1050783830	case study of
+0.1050592972	an object
+0.1050419393	an instance of
+0.1048995864	a call
+0.1046745207	built in
+0.1046726648	consist of
+0.1045720874	design and implementation of
+0.1044276371	a set of
+0.1042280883	combined with
+0.1041607260	the design and implementation
+0.1040335011	each step
+0.1039782080	one or more
+0.1037833756	$ s
+0.1035921541	a formal
+0.1034141555	results show
+0.1032963806	coordination languages and
+0.1032580757	a first step
+0.1032461647	a proof of concept
+0.1031841290	in particular
+0.1029752393	combinations of
+0.1024491578	form of
+0.1020154223	a calculus
+0.1019943016	determined by
+0.1018243475	not only
+0.1015736429	an experimental
+0.1014938181	wish to
+0.1014142315	the ciao
+0.1009703400	contrary to
+0.1009425137	knowledge about
+0.1008079789	the problem of
+0.1008075613	the analysis and
+0.1007011744	more specifically
+0.1006308802	this approach
+0.1006017017	to fit
+0.1005451451	this problem
+0.1002142512	to detect
+0.1000006639	a non trivial
+0.0996259847	parts of
+0.0996128566	the depth
+0.0996014502	languages like
+0.0995513078	different ways
+0.0994934779	a comparison
+0.0993395348	features such as
+0.0992765823	thanks to
+0.0989485411	case study in
+0.0989131211	the state
+0.0988610283	translation from
+0.0988522947	to avoid
+0.0987690001	a constructive
+0.0986255026	programming based on
+0.0985960885	apart from
+0.0985889732	to write
+0.0985256892	a functional programming
+0.0984752593	an active
+0.0984658655	an incremental
+0.0984346387	extracted from
+0.0981568871	representation of
+0.0978389544	introduced by
+0.0977975673	existing ones
+0.0977544680	a very
+0.0977242186	for program analysis
+0.0973933994	in order to achieve
+0.0971346384	analysis of
+0.0969618709	an intuitive
+0.0968386909	to better understand
+0.0967346147	properties about
+0.0966958301	to point
+0.0965656307	the most common
+0.0965105281	implemented on top of
+0.0961259847	in place
+0.0960076119	class of
+0.0959253934	an overview of
+0.0958957515	versions of
+0.0957284182	the component
+0.0953299931	impact on
+0.0952733210	an abstract
+0.0951511126	to ensure
+0.0949702773	coupled with
+0.0949315868	to overcome
+0.0948679589	the pi
+0.0947390357	subset of
+0.0944567949	a graphical
+0.0942040342	the implicit
+0.0941616481	led to
+0.0939787195	this issue
+0.0938072839	at hand
+0.0937782598	the expressive power
+0.0935649880	on one hand
+0.0934684632	the reader
+0.0934326282	a preliminary
+0.0929693718	the 11th
+0.0929670601	the heart of
+0.0928114537	new semantic
+0.0927332313	natural way
+0.0921599153	step towards
+0.0921113378	new language
+0.0921074828	very simple
+0.0920631945	during execution
+0.0920139417	programming by
+0.0919710774	in order to obtain
+0.0917162798	two kinds of
+0.0916640291	suited for
+0.0915426969	static analysis by
+0.0910960369	more accurate
+0.0910736466	this work presents
+0.0910391282	treatment of
+0.0909995244	presence of
+0.0909803137	an untyped
+0.0908203432	good performance
+0.0908079789	the size of
+0.0905415136	this area
+0.0904760205	different kinds of
+0.0904284934	the main
+0.0903282187	compared with
+0.0903167677	a wide range of
+0.0902666565	a comparative
+0.0898085219	seen as
+0.0897838203	this gap
+0.0897085302	a machine
+0.0896333672	accounting for
+0.0896265569	propose to use
+0.0896076182	a probability
+0.0895901120	the ability of
+0.0892152796	a factor of
+0.0891251679	access to
+0.0891240482	type system of
+0.0890164270	the language
+0.0890023108	a novel
+0.0889580135	contributes to
+0.0888691768	kind of
+0.0886716412	verification of
+0.0885858347	conference on
+0.0885698727	an algebraic
+0.0883710437	higher level of
+0.0882100859	each thread
+0.0881288449	the proof
+0.0880609480	subclass of
+0.0879077511	semantics of
+0.0878415425	a large class of
+0.0876041483	very efficient
+0.0874256254	by adopting
+0.0874255750	satisfied by
+0.0874026621	in fact
+0.0873700448	running on
+0.0872680660	not just
+0.0870576338	expressed as
+0.0870484071	offered by
+0.0870122447	often requires
+0.0868821825	the use of
+0.0866662641	to solve
+0.0865538217	sets of
+0.0864493570	framework for
+0.0864050843	a quantitative
+0.0863730135	appear in theory and practice of
+0.0863466055	the need of
+0.0862294408	to learn
+0.0861197032	adapted to
+0.0860352033	a software
+0.0856482530	used to represent
+0.0856167770	the latter
+0.0855593122	notions of
+0.0855040515	paper gives
+0.0854873475	a probabilistic
+0.0854471563	to provide
+0.0854050346	semantics for
+0.0853446908	comparable to
+0.0852406906	modeled as
+0.0852331713	precise than
+0.0850559416	the context
+0.0850352682	integration with
+0.0846791834	waiting for
+0.0844012353	of web applications
+0.0843620626	treated as
+0.0843562518	a uniform
+0.0843157785	obtained from
+0.0842650693	guaranteed to
+0.0841609241	the first order
+0.0839825058	a choreography
+0.0839766136	defined over
+0.0839680879	to express
+0.0838988319	together with
+0.0838297134	related to
+0.0837951932	the fact
+0.0835185371	operating on
+0.0833514845	a dsl
+0.0833281764	to date
+0.0832135434	further research
+0.0830097382	solved by
+0.0829213324	the user
+0.0828829259	this report
+0.0828501815	by showing
+0.0827925922	extension of
+0.0827894583	to implement
+0.0826535755	the usability
+0.0825645666	newcomers to
+0.0824631039	an interactive
+0.0822723792	compiled into
+0.0821576808	but also
+0.0820759501	by presenting
+0.0819248758	a wide variety of
+0.0819167830	static analysis to
+0.0818401684	by introducing
+0.0817815991	a broad range of
+0.0817694363	an imperative
+0.0816598020	an algebra
+0.0816148424	absence of
+0.0815422482	software system
+0.0814786035	the collection
+0.0814720925	at most
+0.0813607740	aspects of
+0.0811611425	m \
+0.0810174615	between program
+0.0809927615	a variety of
+0.0809637829	this statement
+0.0809481691	most popular
+0.0809078279	responsible for
+0.0808791282	introduction to
+0.0808737807	a transition
+0.0808079789	the context of
+0.0806979286	improvements over
+0.0805021150	subsets of
+0.0804624308	rewrite system
+0.0803375289	a short
+0.0803169483	in practice
+0.0803049491	not yet
+0.0802432427	more recently
+0.0802258872	a novel technique
+0.0799401169	also discuss
+0.0798505868	edition of
+0.0798394036	the performance
+0.0797082994	definition of
+0.0796336396	a quantum
+0.0794285715	geometry of
+0.0794131211	the syntax
+0.0794009895	syntax and semantics of
+0.0792815991	an important role in
+0.0792568178	algorithm for
+0.0792344167	widely used in
+0.0791707641	theory and practice of
+0.0790066781	an array
+0.0789833475	programs with
+0.0789802047	a model
+0.0789665515	a module
+0.0787573171	tailored to
+0.0785779488	this limitation
+0.0785337251	want to
+0.0785304126	need to
+0.0785235915	cope with
+0.0785097404	indexed by
+0.0783100718	a finite set of
+0.0783006365	between threads
+0.0780873454	a domain
+0.0780670975	restrictions on
+0.0780303903	an xml
+0.0779836954	to generate
+0.0777629266	to build
+0.0777427120	management system
+0.0777086011	role in many
+0.0776414216	approach based on
+0.0775887415	translation into
+0.0774016779	more robust
+0.0773572545	the time complexity
+0.0770771797	an interpreter
+0.0770607405	not sufficient
+0.0769865983	a tree
+0.0769159563	call time
+0.0768511778	execution time of
+0.0768425762	three different
+0.0768054454	an effective
+0.0767603246	these problems
+0.0767349062	sequence to
+0.0766814745	than previous
+0.0765155733	modeled by
+0.0763884459	while providing
+0.0762911162	\ lambda ^
+0.0761691993	each function
+0.0760156465	two classes
+0.0760150694	utilization of
+0.0759249614	required to
+0.0757723982	to decide
+0.0757283587	of things
+0.0756592536	the quality
+0.0756133719	a category
+0.0755763483	replaced by
+0.0754044212	an algorithm
+0.0751770191	guided by
+0.0751042960	$ calculus with
+0.0749997916	a trace
+0.0749886631	these goals
+0.0748797550	several benchmarks
+0.0746700625	suitable for
+0.0745030898	a language
+0.0744851036	the length
+0.0743545031	over finite
+0.0741577520	the design
+0.0741274298	taking into
+0.0738687593	a rule
+0.0738682281	an effect
+0.0738377423	results about
+0.0738219107	not require
+0.0737901848	the entire
+0.0737473548	c + + language
+0.0737352320	these constructs
+0.0736695340	each other
+0.0736008934	more difficult
+0.0735974949	a lot of
+0.0735743097	instances of
+0.0734340933	used to verify
+0.0734125820	foundation for
+0.0733921275	formulation of
+0.0733583130	presented at
+0.0732988714	allows users
+0.0732959816	the spirit
+0.0732846774	a decision
+0.0732320757	by providing
+0.0728307601	illustrated by
+0.0727549894	an inductive
+0.0727141282	held in
+0.0726483081	to handle
+0.0726206485	expressed using
+0.0726039138	also includes
+0.0725913219	several important
+0.0725730664	to verify
+0.0724191848	a denotational
+0.0723837094	the correctness
+0.0723070217	emergence of
+0.0722920877	arises from
+0.0721938884	the role
+0.0721635427	as well
+0.0721216200	used to implement
+0.0721174926	new ideas
+0.0720055836	recent work on
+0.0717864084	operate on
+0.0715632427	more flexible
+0.0714345113	along with
+0.0713855740	correctness of
+0.0713016573	the compiler
+0.0712844457	by name
+0.0712175242	computed by
+0.0710185332	an informal
+0.0710075411	addressed by
+0.0709911102	enforced by
+0.0709358791	similar to
+0.0708192036	an expression
+0.0707619829	the current state of
+0.0706101309	loss of
+0.0705559405	different approaches
+0.0704160854	efficient than
+0.0703727482	nature of
+0.0701929079	these features
+0.0701048928	meant to
+0.0700419440	then apply
+0.0700206835	a first class
+0.0700055790	in contrast
+0.0699826990	some basic
+0.0699761657	for managing
+0.0698519463	the most important
+0.0697195552	new computational
+0.0696817577	a method
+0.0696629210	the formal semantics
+0.0695973264	a tensor
+0.0695388964	a formalization
+0.0694561524	two main
+0.0694021680	proof system
+0.0692490650	in conjunction with
+0.0691903113	new features
+0.0691789563	understood as
+0.0691700795	a study
+0.0690415293	language with
+0.0690088240	to improve
+0.0690039521	first order logic with
+0.0689234454	the rest of
+0.0687961772	comes at
+0.0687668249	a principled
+0.0687293338	a collection
+0.0686821825	the design of
+0.0685555310	as long as
+0.0685248925	the weak
+0.0685112871	an analysis
+0.0684775647	model of
+0.0684173696	most common
+0.0683637236	an approximate
+0.0683387128	a list
+0.0682632853	type system for
+0.0682303767	a complete
+0.0680607025	section of
+0.0679678101	a wide
+0.0678623268	an implementation of
+0.0678249566	mapping from
+0.0676890357	combination of
+0.0675652705	shown to
+0.0675299197	employed by
+0.0674046816	used to build
+0.0672546420	an industrial
+0.0672382125	to support
+0.0671260085	to apply
+0.0671189677	the burden
+0.0671189375	at least one
+0.0671180361	an actor
+0.0670774602	at compile
+0.0668987544	learned from
+0.0668554638	two components
+0.0668013532	each class
+0.0667205014	this survey
+0.0666576297	on quantitative aspects of
+0.0665210430	model for
+0.0664432028	understanding of
+0.0663937258	most important
+0.0662153659	variant of
+0.0661607936	the well founded
+0.0661603994	for instance
+0.0660959491	a concise
+0.0658701945	the usual
+0.0658689533	other hand
+0.0658324734	allow programmers
+0.0656349906	the analysis
+0.0656141822	theory of
+0.0655867159	affiliated with
+0.0655249281	an instruction
+0.0655034041	by exploiting
+0.0654987544	preserved by
+0.0654836555	to promote
+0.0654357548	suited to
+0.0654201944	a polymorphic
+0.0653881469	novelty of
+0.0653812327	the program in
+0.0653224318	to perform
+0.0652527716	attempt to
+0.0651943679	in turn
+0.0651603994	to create
+0.0651425249	across different
+0.0649044960	characterisation of
+0.0645615894	comes from
+0.0644907081	overview of
+0.0644517440	these techniques
+0.0644263324	to address
+0.0643670267	a linear
+0.0643333670	an additional
+0.0642959141	this note
+0.0639524635	to bring
+0.0639490256	developed at
+0.0639389122	the problem
+0.0638493571	to compute
+0.0638483595	as first class
+0.0637646434	a first order
+0.0637244839	all possible
+0.0636553514	to reduce
+0.0633623268	the field of
+0.0631769113	features of
+0.0631520972	many applications
+0.0631324985	constraints on
+0.0631310691	advantage of
+0.0630751439	a novel type
+0.0630371905	stored in
+0.0630322010	most general
+0.0629881620	most widely
+0.0628903374	properties such as
+0.0628517990	consists in
+0.0628079789	the effectiveness of
+0.0627342008	light on
+0.0627083163	expense of
+0.0626460430	models of
+0.0625462114	used in
+0.0624698363	complete with respect to
+0.0624276371	the presence of
+0.0624030570	to encompass
+0.0623817057	the state of
+0.0623722073	functions over
+0.0623517160	two major
+0.0622269193	existing work
+0.0622008993	a well defined
+0.0621988035	an existing
+0.0620958830	a consequence
+0.0620733890	parameterized by
+0.0620187703	execution of
+0.0619200191	in order
+0.0619058213	synthesis from
+0.0618890110	the run time
+0.0618715071	a game
+0.0617803885	program into
+0.0617195645	for structuring
+0.0617057129	an iterative
+0.0616969870	in addition to
+0.0616208037	a pattern
+0.0615782442	also supports
+0.0615211192	a monoidal
+0.0614514023	information from
+0.0614288901	translated to
+0.0613663014	these issues
+0.0613245498	\ c
+0.0612844823	depth of
+0.0612093817	the number of
+0.0611514061	and practice of software
+0.0610398239	different kinds
+0.0609672137	the distribution
+0.0609090642	fail to
+0.0608628566	the usefulness
+0.0608565980	generalizations of
+0.0607221294	working on
+0.0606834179	reports on
+0.0606466433	these ideas
+0.0606274043	by avoiding
+0.0605182491	these operations
+0.0603122808	a theory
+0.0601965893	the workshop
+0.0600244166	formalisation of
+0.0599698661	start with
+0.0598993097	expressed in
+0.0598964673	two kinds
+0.0598155261	a range of
+0.0597717684	the extent to
+0.0596344800	the internet
+0.0595243666	a wider range of
+0.0594990791	at run
+0.0594963307	an automatic
+0.0594804357	classes of
+0.0594340865	language for
+0.0593968204	associated with
+0.0593966888	in theory and practice of logic
+0.0593405396	implemented in
+0.0593284608	these properties
+0.0593198739	a series of
+0.0592891267	conclude with
+0.0592680525	to appear in theory and practice
+0.0592145660	the language of
+0.0591856754	in depth
+0.0590877471	approach uses
+0.0590531764	a sound and complete
+0.0590300685	extended with
+0.0590128780	to make
+0.0589477500	rise to
+0.0589267150	to represent
+0.0589196730	by leveraging
+0.0587064925	the maximum
+0.0586972784	the first time
+0.0585629360	the message
+0.0584760980	runtime system
+0.0584690095	the user's
+0.0582095741	a well established
+0.0581742964	motivation for
+0.0581725304	a better understanding
+0.0580480615	programs into
+0.0580046566	conferences on
+0.0579844573	previous work on
+0.0579537558	only if
+0.0578834947	by value
+0.0578132953	two key
+0.0578069045	confidence in
+0.0577289633	the limit
+0.0577145660	the language to
+0.0577100806	an implementation
+0.0575515123	the first
+0.0575487689	to check
+0.0574365303	a number of
+0.0573804685	ideas from
+0.0571479536	the implementation
+0.0570447323	the input
+0.0570315958	an equational
+0.0569499353	the world
+0.0568446405	lines of
+0.0567902683	very useful
+0.0567199722	pieces of
+0.0566142836	control over
+0.0565969653	to optimize
+0.0565837251	comes with
+0.0565485298	a general
+0.0565045839	descriptions of
+0.0564810242	in theory and practice
+0.0564718348	workshop on verification and
+0.0564372863	possibility to
+0.0563413719	$ c
+0.0563412196	a well typed
+0.0563071249	an exact
+0.0563069045	occurring in
+0.0561928871	techniques for
+0.0560416196	the definition
+0.0559894635	on theory and practice of software
+0.0558749230	respect to
+0.0558448055	synthesis of
+0.0558364619	to cope
+0.0557775208	to determine
+0.0557473844	forms of
+0.0557146602	such as java
+0.0557061548	took place in
+0.0556897564	competitive with
+0.0556875923	application domain
+0.0556269765	a la
+0.0556150535	a reasonable
+0.0555903445	use case
+0.0555732306	equivalent to
+0.0554734424	at once
+0.0554153514	to obtain
+0.0553397529	the acl2
+0.0553361294	programming languages such as
+0.0552416474	in computer science
+0.0552394706	instead of
+0.0550401890	proceedings of
+0.0550281433	a proof
+0.0550204325	by extending
+0.0550091560	by writing
+0.0549865970	regard to
+0.0549651120	a suite of
+0.0549500919	a new programming
+0.0548641491	tools for
+0.0548372379	foundations of
+0.0548198739	a new approach to
+0.0547656040	first step
+0.0547512166	transformation from
+0.0546610855	also known as
+0.0546487533	modes of
+0.0546432544	to teach
+0.0546198739	the role of
+0.0545671852	widely used for
+0.0543884743	learning from
+0.0543860569	a structural
+0.0543702869	enough to
+0.0542608754	by applying
+0.0542471144	and only if
+0.0541919634	also identify
+0.0541756455	to foster
+0.0541730239	directly from
+0.0540730566	termination of
+0.0539314671	amount of
+0.0537852593	identification of
+0.0537339234	up to
+0.0537026532	the most popular
+0.0536137417	the practicality of
+0.0535095747	a class
+0.0534690348	to enable
+0.0533035980	the number
+0.0532920122	the meaning
+0.0532062338	a finite
+0.0531198739	the scope of
+0.0530984917	a sound
+0.0530942699	these frameworks
+0.0530788726	evaluation of
+0.0530427150	the proceedings of
+0.0530155158	the concept of
+0.0528567066	calculi with
+0.0528021430	the amount
+0.0526958220	languages such as
+0.0526821825	the development of
+0.0526076931	do not provide
+0.0525391491	implementations of
+0.0525228020	regardless of
+0.0524110023	algorithms for
+0.0524033709	in spite of
+0.0523994394	the former
+0.0523467656	a tool
+0.0520258717	referred to
+0.0520104577	a convenient
+0.0519033709	to cope with
+0.0518843721	a new algorithm
+0.0518441239	$ time
+0.0518117590	a monad
+0.0517925869	the actor
+0.0516808368	experiments on
+0.0516084385	by giving
+0.0515996677	much more
+0.0515947275	among other
+0.0515838667	for publication
+0.0515357423	to model
+0.0514931137	to assist
+0.0514223521	bound on
+0.0513592905	feedback on
+0.0513470628	the semantics of
+0.0512753953	needed to
+0.0511762413	the size
+0.0510996677	while still
+0.0509954531	more important
+0.0509252283	by adding
+0.0508745452	these challenges
+0.0508696488	any type
+0.0508645386	as well as for
+0.0508332588	an arbitrary
+0.0508322139	familiar with
+0.0507586665	family of
+0.0506241951	a small
+0.0505911008	a logical
+0.0505685418	a compiler
+0.0504269250	a framework
+0.0504073050	to specify
+0.0503262584	description of
+0.0502093817	the performance of
+0.0501633055	amounts of
+0.0500653548	proofs of
+0.0500220168	to mitigate
+0.0500178371	the key
+0.0500050311	an algorithmic
+0.0498962979	a foundation
+0.0498869828	opportunity to
+0.0498290877	derivatives of
+0.0495761506	a functional
+0.0494559550	to work with
+0.0494528200	the source
+0.0494208562	an optimal
+0.0493309957	other approaches
+0.0493076678	the c + +
+0.0492623434	driven by
+0.0492525434	benchmarks from
+0.0492196677	not always
+0.0491594732	code from
+0.0490659358	in mind
+0.0490264931	an equivalent
+0.0490063685	the same language
+0.0489953228	complexity of
+0.0489329539	logic for
+0.0489321376	experiment with
+0.0489287824	performed by
+0.0488296573	concepts from
+0.0488127194	an approach
+0.0487824256	expressed by
+0.0487690495	not fully
+0.0487013031	used to model
+0.0486983281	two approaches
+0.0486561742	work presents
+0.0486425208	to infer
+0.0485991359	the first step
+0.0485862319	development of
+0.0485462398	used to define
+0.0485210430	programming with
+0.0484320122	the applicability
+0.0484320122	the decidability
+0.0482685176	the goal of
+0.0482322577	approach allows
+0.0482258582	type system with
+0.0481774392	these methods
+0.0480788726	specification of
+0.0480766125	a large
+0.0480167359	spirit of
+0.0479472214	a pointer
+0.0477361347	and practice of
+0.0476946063	paper provides
+0.0476751172	layers of
+0.0474838082	annotated with
+0.0474492299	operations on
+0.0473462114	used for
+0.0472320754	advances in
+0.0471441810	to produce
+0.0471233576	to experiment
+0.0471070787	try to
+0.0470851157	variants of
+0.0470838917	some examples
+0.0470147665	a prototype
+0.0470073988	an empirical
+0.0469980352	all existing
+0.0469153750	a service
+0.0469090717	adequacy of
+0.0468062676	question of
+0.0467973687	an overview
+0.0467370663	to understand
+0.0466845037	a key
+0.0466225253	a novel approach
+0.0466163556	to adapt
+0.0466017243	the primary
+0.0465836188	performance on
+0.0465786355	by comparing
+0.0465698522	by construction
+0.0461477558	code into
+0.0460740831	a variant of
+0.0459558181	generation for
+0.0457894052	the host
+0.0457369146	a process
+0.0456984399	decidability of
+0.0456488594	the purpose of
+0.0456099055	the development
+0.0455786627	trends in
+0.0455592905	works by
+0.0454307422	assigned to
+0.0453843669	examples from
+0.0453336934	a semantic
+0.0452703220	implemented as
+0.0452442677	expected to
+0.0452343706	the concept
+0.0448832208	the set of
+0.0448818568	novel type
+0.0448234022	evolution of
+0.0448150657	to drive
+0.0447436791	free from
+0.0447064568	technique for
+0.0446779558	an intermediate
+0.0446496144	approach for
+0.0446421851	the lambda calculus with
+0.0446161010	presentation of
+0.0446087973	a transformation
+0.0444953228	behavior of
+0.0444464206	parallelization of
+0.0444285560	a generalization
+0.0444278094	errors in
+0.0444046994	a large number of
+0.0443678749	aim of
+0.0443600904	the area
+0.0443235092	analysis for
+0.0442913569	the opportunity
+0.0440991120	prolog with
+0.0440880012	defined as
+0.0440868610	a simulation
+0.0440730604	a form
+0.0440610438	an unbounded
+0.0440446671	the extent
+0.0440270153	runtime system for
+0.0440141655	the quality of
+0.0440117761	an input
+0.0440035695	techniques such as
+0.0439224218	a new approach
+0.0438940320	the standard
+0.0438665508	the same program
+0.0438188360	this document
+0.0437931774	approach on
+0.0437790046	also present
+0.0437242703	the validity
+0.0437198537	to aid
+0.0437131499	these extensions
+0.0436736422	a high
+0.0436164029	continue to
+0.0436051803	the input and
+0.0436051018	an effort to
+0.0435412862	generated from
+0.0435367282	to analyze
+0.0435350189	inference system
+0.0433506490	added to
+0.0433474308	method for
+0.0432985788	summary of
+0.0432892183	dedicated to
+0.0432335182	loops with
+0.0432241706	with respect
+0.0431167205	a deeper
+0.0430898608	these results
+0.0429671499	to add
+0.0428950177	a thread
+0.0428026247	overhead in
+0.0427756800	to reason about
+0.0425978255	many cases
+0.0425236903	hold for
+0.0424969215	guidelines for
+0.0424156373	an interesting
+0.0423844119	with negation
+0.0423498626	the core
+0.0423323473	the idea of
+0.0423308071	a call by name
+0.0423297479	for example
+0.0423002827	applies to
+0.0422299495	most existing
+0.0421105365	the advent of
+0.0420958979	an evaluation
+0.0420909014	the fourth
+0.0420863338	the utility
+0.0420816334	to leverage
+0.0420210890	built from
+0.0420170025	in combination with
+0.0420003087	an extension to
+0.0419762351	defined on
+0.0419647919	an integrated
+0.0418979293	a variation
+0.0418807663	as part of
+0.0418134756	derived by
+0.0417552436	the relationship between
+0.0417513754	the most widely
+0.0417429214	a calculus for
+0.0416576473	tool for
+0.0416175218	an error
+0.0415130800	this technique
+0.0414862253	the cut
+0.0414690266	a component
+0.0413808982	a procedure
+0.0413448055	proof of
+0.0412428637	the call by value
+0.0410447864	occurrences of
+0.0409995745	interface for
+0.0409736823	results from
+0.0409380027	to evaluate
+0.0408856927	to set
+0.0408486396	a first step towards
+0.0408400300	this idea
+0.0408233345	new approach
+0.0407943800	the category of
+0.0407132985	reasoning on
+0.0407126892	the length of
+0.0406757539	a group of
+0.0406342977	contribute to
+0.0406049371	the complexity
+0.0406015860	characteristic of
+0.0405831339	a decidable
+0.0405762584	integration of
+0.0405647314	degree of
+0.0405593474	or even
+0.0405568114	the current
+0.0405077369	an external
+0.0404796595	taken from
+0.0404612399	out of
+0.0404102342	series of
+0.0403731699	the assumption
+0.0403730094	this class
+0.0403489704	the program's
+0.0403051862	application code
+0.0402433101	a user
+0.0402164382	under consideration for
+0.0402096416	same way
+0.0402048822	building on
+0.0402047448	frameworks such as
+0.0401876405	to maintain
+0.0401850035	correspondence with
+0.0400955960	a separation
+0.0400930742	better understanding of
+0.0400534471	a notion
+0.0400431539	by taking
+0.0399299970	a task
+0.0398742326	each program
+0.0398530577	applicable to
+0.0398237516	evaluated on
+0.0398035983	the shape of
+0.0397150590	a common
+0.0396999319	to minimize
+0.0396080146	matter of
+0.0395035881	the meaning of
+0.0394630072	a solver
+0.0394607137	a subset of
+0.0394480561	these tools
+0.0393299504	performance of
+0.0393079480	order to
+0.0392734452	executed by
+0.0392448055	problem of
+0.0392126892	a pair of
+0.0391065236	this purpose
+0.0390702928	applications such as
+0.0390583889	the program to
+0.0390141655	a collection of
+0.0388583069	the possibility to
+0.0388358412	tools such as
+0.0388145551	an initial
+0.0387544307	used to prove
+0.0387003087	in contrast to
+0.0386765340	aiming to
+0.0386034913	interpretation of
+0.0385974281	a new type
+0.0385584928	language into
+0.0385558830	to prevent
+0.0385400773	propose to
+0.0384922078	to extract
+0.0384870804	by considering
+0.0384651514	these approaches
+0.0384610872	other languages
+0.0384525261	by describing
+0.0383682591	fails to
+0.0383485844	a technique
+0.0383448055	terms of
+0.0383275916	completeness of
+0.0382881079	a sequence
+0.0382503767	a result
+0.0382386160	check for
+0.0382111524	techniques from
+0.0381896811	restricted to
+0.0381555950	improvement in
+0.0380722282	designed for
+0.0380483181	a programmer
+0.0380193968	undecidability of
+0.0380173945	and vice
+0.0380136195	piece of
+0.0379700364	a broad
+0.0379430728	the first formal
+0.0379095716	take into
+0.0378336420	a novel approach to
+0.0377880028	subject to
+0.0377145424	a minimal
+0.0377064628	these specifications
+0.0376165349	structure of
+0.0375819500	families of
+0.0375777764	instance of
+0.0374610289	some simple
+0.0374541499	a small number of
+0.0374372659	an embedded
+0.0374020382	written by
+0.0373678749	probability of
+0.0373166402	in response to
+0.0373070857	held as
+0.0372703475	an easy
+0.0372673748	account for
+0.0372318916	a call by value
+0.0371871733	a popular
+0.0371742471	embedding of
+0.0370708377	calculus for
+0.0369811746	literature on
+0.0369722815	a powerful
+0.0369509217	work on
+0.0369439284	adapt to
+0.0369313432	than existing
+0.0368972506	introduced as
+0.0368352788	a new method
+0.0368052991	lies in
+0.0367375805	distribution of
+0.0367347805	sound and complete with
+0.0366789423	the motivation
+0.0366782323	new technique
+0.0366742380	calculus with
+0.0366702547	the result of
+0.0366578691	the target
+0.0366453255	this concept
+0.0365622967	a modal
+0.0365034084	the maximal
+0.0364994263	the rest
+0.0364557368	the gap
+0.0364395755	to define
+0.0364363227	to prove
+0.0363818791	generalisation of
+0.0363631094	transformations from
+0.0363009492	the developer
+0.0362951148	a type system for
+0.0362534996	an essential
+0.0362445651	a significant
+0.0362375979	by up to
+0.0362205066	to identify
+0.0362126892	the validity of
+0.0362126892	the basis of
+0.0362023851	the goal
+0.0361538613	of up to
+0.0361399517	formalization of
+0.0361202275	side of
+0.0360427150	the notion of
+0.0360298869	a new notion
+0.0359935791	the possibility
+0.0359547078	to develop
+0.0359493526	attempts to
+0.0359307370	these concepts
+0.0359133076	diversity of
+0.0358886426	a web application
+0.0358796969	but not
+0.0358722973	a client
+0.0358606027	heart of
+0.0358532801	notation for
+0.0358513236	types into
+0.0358300304	the sense
+0.0357885746	programs under
+0.0357581234	by developing
+0.0357455854	counterexamples for
+0.0357066817	computer programming
+0.0356803547	the random
+0.0356391874	the past
+0.0356236746	an explicit
+0.0355967594	to translate
+0.0355845563	proved by
+0.0355834016	the respective
+0.0355560193	accessible to
+0.0355503432	issue of
+0.0354714021	an introduction to
+0.0354195853	also introduce
+0.0354032692	to accommodate
+0.0353926627	consumption of
+0.0353736602	then give
+0.0353537880	to bring together
+0.0353046109	response to
+0.0352882837	design of
+0.0352480912	proposed by
+0.0352035129	a scheme
+0.0351435778	a natural
+0.0351336241	a class of
+0.0351018080	by combining
+0.0350356854	the aim
+0.0349896847	the type of
+0.0349870683	executed on
+0.0349458790	a reference
+0.0349186008	the ability
+0.0348835035	under consideration for acceptance in
+0.0348790529	needed for
+0.0348516377	the notion
+0.0348421411	relative to
+0.0348211412	any language
+0.0348035983	the probability of
+0.0347876166	basis for
+0.0347752208	a set
+0.0347293287	to demonstrate
+0.0347029583	the papers presented at
+0.0346996822	a declarative
+0.0346693452	this observation
+0.0346435026	compiler for
+0.0345896811	limitations of
+0.0344853115	well as
+0.0344483410	to capture
+0.0343591092	for representing
+0.0343448055	context of
+0.0342390413	rules for
+0.0341269440	contents of
+0.0341227294	the scope
+0.0340722815	the literature
+0.0340669559	exploited to
+0.0340247306	prone to
+0.0339368246	encoding of
+0.0339057979	abstractions for
+0.0338842677	productivity of
+0.0338836935	the need for
+0.0338836935	an approach to
+0.0337478797	to extend
+0.0337196619	by allowing
+0.0337153316	code without
+0.0336883813	to reason
+0.0336280151	power of
+0.0335918523	many different
+0.0335774504	separation of
+0.0335511275	tools from
+0.0335312414	approaches to
+0.0335126971	care of
+0.0334458222	a solution
+0.0334363019	a satellite event of
+0.0334232564	a sequence of
+0.0334170543	the expense of
+0.0334021245	proposals for
+0.0333922941	an event
+0.0333815670	present work
+0.0333210699	view of
+0.0333054839	to derive
+0.0333024329	to operate
+0.0332224315	the shape
+0.0331959363	also called
+0.0331746329	come with
+0.0331471583	the interplay
+0.0331430144	library for
+0.0331340384	to convert
+0.0330844437	extended to
+0.0330631806	effort to
+0.0330466949	considered to
+0.0330427150	the correctness of
+0.0329458136	working with
+0.0329370667	presented as
+0.0329132560	an established
+0.0328960706	expressiveness in
+0.0328847977	to enhance
+0.0328681779	study of
+0.0328665349	developed in
+0.0328660802	category of
+0.0328486177	to reuse
+0.0328210804	developed for
+0.0327659056	directly on
+0.0327458811	a clean
+0.0326964405	corpus of
+0.0326851050	an example
+0.0326748682	result in
+0.0326400730	by defining
+0.0326188859	a relational
+0.0325844585	a few
+0.0325302564	proposed as
+0.0325294838	considered as
+0.0325275816	the creation
+0.0325119608	criterion for
+0.0325100237	a new technique
+0.0324984452	consistent with
+0.0324915349	property of
+0.0324229003	purpose of
+0.0324136576	attention to
+0.0323690024	in response
+0.0322806143	known as
+0.0322276043	the existence of
+0.0321993526	foundations for
+0.0321904962	a piece
+0.0321780670	survey on
+0.0321269440	universe of
+0.0320784752	an extension
+0.0320721857	confluence of
+0.0320559384	the form
+0.0319937166	to choose
+0.0318828788	comparison with
+0.0318702318	the final
+0.0318634091	ubiquitous in
+0.0318597873	by enabling
+0.0318569741	to carry
+0.0318533211	the soundness of
+0.0318526165	same program
+0.0318311554	correct by
+0.0317430695	enforcement of
+0.0317415148	available at
+0.0317053889	a state of
+0.0316671304	verifier for
+0.0316501124	property for
+0.0316385073	procedure for
+0.0316280151	construction of
+0.0316244187	realization of
+0.0316229329	activities in
+0.0315971308	this results in
+0.0315916743	a conservative extension of
+0.0315479717	to map
+0.0314955141	scales to
+0.0314616871	a syntactic
+0.0314586769	documentation of
+0.0314479436	programs via
+0.0314163289	the dominant
+0.0314141404	a polynomial time
+0.0314087322	approach by
+0.0314068737	a program in
+0.0314043133	layer of
+0.0313714052	experience with
+0.0313053539	to tackle
+0.0313026769	to embed
+0.0312938295	built on
+0.0312924092	the relation between
+0.0312730079	increase in
+0.0312523288	contribution of
+0.0312255141	hope to
+0.0312210683	to construct
+0.0311840557	for proving
+0.0311771165	to facilitate
+0.0311637570	integrated with
+0.0311592927	the actual
+0.0311442216	needs to
+0.0311390147	discovery of
+0.0311245933	element of
+0.0310839207	first time
+0.0310694911	one way
+0.0310548860	study on
+0.0310285312	case of
+0.0310214802	any program
+0.0310075775	to explore
+0.0310075775	to compare
+0.0310069069	thought of
+0.0310028865	a rich
+0.0309663597	efficiency of
+0.0309643068	the majority
+0.0308908946	and completeness of
+0.0308769440	formulations of
+0.0308612800	also develop
+0.0308576939	a formula
+0.0307815529	independently of
+0.0307677930	none of
+0.0307555963	by example
+0.0306944741	to follow
+0.0306665093	to terminate
+0.0305791634	to discover
+0.0305616428	logic with
+0.0305350261	investigated in
+0.0305348434	implemented by
+0.0304771381	to combine
+0.0304642594	to transform
+0.0304331559	to occur
+0.0303772097	body of
+0.0303188699	a better understanding of
+0.0303174538	these transformations
+0.0303026769	to simulate
+0.0302730720	the field
+0.0302601444	expressible in
+0.0302580708	different types
+0.0302062514	the result
+0.0301602457	allow programmers to
+0.0300807053	the adoption
+0.0300174348	to generalize
+0.0300077203	to exploit
+0.0300075279	the art in
+0.0300023314	list of
+0.0299129139	an architecture
+0.0298617043	a natural way
+0.0298045870	an infinite
+0.0297830131	the efficacy
+0.0297517078	an application
+0.0297517052	any given
+0.0297505147	the last
+0.0297281837	levels of
+0.0297238859	to exchange
+0.0296912414	problem as
+0.0296577640	condition for
+0.0296297822	possibility of
+0.0296287933	for expressing
+0.0295612851	a list of
+0.0295604699	methods for
+0.0295569526	accuracy of
+0.0295534814	the synthesizer
+0.0295201890	the potential
+0.0295122546	parser for
+0.0294528360	this result
+0.0294320189	to automate
+0.0293769886	for controlling
+0.0293663597	reduction in
+0.0293391170	to debug
+0.0293064362	to predict
+0.0292558653	normalization by
+0.0292536729	to test
+0.0292242267	to assess
+0.0291987044	the first to
+0.0291877788	an invariant
+0.0291560082	place on
+0.0291336241	the complexity of
+0.0290927184	uncertainty in
+0.0290307884	same time
+0.0289945361	a high level of
+0.0289827203	to execute
+0.0289800094	a subset
+0.0289202908	as much
+0.0289095585	idea of
+0.0288912662	methodology for
+0.0288651376	the satisfiability of
+0.0288641312	bugs in
+0.0288504779	dialect of
+0.0288386031	a comprehensive
+0.0288301847	a lazy
+0.0288160569	survey of
+0.0288064927	goal of
+0.0288000792	difficulties in
+0.0287990189	to encode
+0.0287940306	the same way
+0.0287912600	decomposition of
+0.0287863597	size of
+0.0287821154	works on
+0.0287128031	utility of
+0.0286851543	an algorithm to
+0.0286639607	equality of
+0.0286527482	a variety
+0.0286392097	a canonical
+0.0286326832	to fill
+0.0286280151	representations of
+0.0286234208	to estimate
+0.0285977606	to manage
+0.0285595357	advantages of
+0.0285184911	general than
+0.0284805577	internet of
+0.0284726147	the analysis of
+0.0284698314	inclusion of
+0.0284232564	the introduction of
+0.0284152960	the gap between
+0.0283972679	a satellite
+0.0283950811	calls to
+0.0283755141	burden of
+0.0283610178	the practicality
+0.0283138566	the base
+0.0282663503	robustness of
+0.0282652666	a core
+0.0282456330	details of
+0.0282380151	feature of
+0.0282128346	a viable
+0.0282020854	an extended
+0.0281989011	the presence
+0.0281797503	for presenting
+0.0281796122	conjunction with
+0.0281505673	content of
+0.0281429214	the syntax and semantics of
+0.0281336241	the level of
+0.0281336241	the structure of
+0.0281133655	to compose
+0.0280811020	space of
+0.0279678883	the basis
+0.0279311409	level of
+0.0278732823	designed as
+0.0278661686	opportunities for
+0.0278323473	the syntax of
+0.0278294256	to measure
+0.0278159947	or more
+0.0278092209	feasibility of
+0.0278021747	developed by
+0.0277882837	problem in
+0.0277713053	the application of
+0.0277266552	extended by
+0.0277204016	required by
+0.0277093271	solution for
+0.0276615804	new method
+0.0276377844	suite of
+0.0276158090	length of
+0.0276001265	the choice of
+0.0275402759	approximation of
+0.0275387242	the aforementioned
+0.0275269365	reconstruction of
+0.0275146450	the static analysis of
+0.0275023314	importance of
+0.0274800960	meaning of
+0.0274395637	run on
+0.0274133074	impossible to
+0.0273821238	work of
+0.0273772393	the formal semantics of
+0.0273554928	essential to
+0.0273313277	a partial
+0.0273005286	bounds for
+0.0272863597	cost of
+0.0272603564	to compile
+0.0272582034	a discussion
+0.0271915250	the degree of
+0.0271910355	the evolution of
+0.0271847796	range of
+0.0271830373	exchange of
+0.0271533850	of magnitude
+0.0271336241	the expressiveness of
+0.0270916743	this paper focuses on
+0.0270675357	research on
+0.0270384052	generality of
+0.0270010921	a conservative
+0.0269816073	reasons for
+0.0269364927	inference for
+0.0269313005	for obtaining
+0.0268695470	the source code of
+0.0268645933	new algorithm
+0.0268461372	formulated in
+0.0267922725	engine for
+0.0267838981	topic of
+0.0267836009	efficacy of
+0.0267334572	as follows
+0.0266976067	done by
+0.0266940728	a step
+0.0266660256	to reach
+0.0266433331	relating to
+0.0266397695	to eliminate
+0.0266175883	used as
+0.0265362169	the emergence
+0.0265350669	line of
+0.0265277768	and c #
+0.0265010921	the european
+0.0264958963	reduced to
+0.0264722889	experiments with
+0.0264381732	to read
+0.0264370988	a lot
+0.0264363725	pairs of
+0.0263561617	for describing
+0.0263428592	to use
+0.0263383771	the idea
+0.0263126508	desirable to
+0.0263068163	choice of
+0.0262961372	allowed to
+0.0262467679	any other
+0.0262448971	combination with
+0.0262272797	directions for
+0.0262145660	a program to
+0.0261786875	a central
+0.0261604949	the difficulty
+0.0261595304	the well known
+0.0261322608	a monadic
+0.0260973227	to remove
+0.0260826563	new approach to
+0.0260735066	point of
+0.0260700773	convergence of
+0.0260249624	intended to
+0.0260116073	essence of
+0.0259669574	a system of
+0.0259350261	published in
+0.0259350261	mechanized in
+0.0258977254	simulation of
+0.0258908509	left to
+0.0258623197	a variant
+0.0258592594	to simplify
+0.0258412417	the most
+0.0258217461	to synthesize
+0.0258114004	sense of
+0.0257705310	a visual
+0.0257482957	an instance
+0.0257290867	this yields
+0.0257145660	the model of
+0.0256297871	a multi
+0.0255499440	characteristics of
+0.0255043232	build on
+0.0255015669	novel approach
+0.0254998883	the degree
+0.0254925750	to formulate
+0.0254729515	the source of
+0.0254703652	capability of
+0.0254558815	the proof of
+0.0254422441	a program's
+0.0254232564	the possibility of
+0.0254216758	included in
+0.0254107034	the essence
+0.0254013453	proposed for
+0.0253962823	a fundamental
+0.0253596576	a unique
+0.0253394091	developments in
+0.0252872040	an order
+0.0252803786	this challenge
+0.0252648049	the absence
+0.0252514984	to collect
+0.0252271774	a huge
+0.0252269590	a factor
+0.0251618218	a wider
+0.0251556708	sources of
+0.0251336241	a method for
+0.0251255141	availability of
+0.0251133655	to reflect
+0.0250536241	a dedicated
+0.0250031133	the effectiveness
+0.0249615890	mix of
+0.0249569340	to do so
+0.0249414954	role in
+0.0248689636	metatheory of
+0.0248660812	a program with
+0.0248403367	practice of
+0.0248205983	to share
+0.0248097977	this kind
+0.0247604622	to increase
+0.0247594272	the language's
+0.0247429214	the course of
+0.0247270778	the metatheory
+0.0247164927	environment for
+0.0246595030	mechanism for
+0.0246164927	representation for
+0.0246156133	compiler from
+0.0245888413	difficulty of
+0.0245803108	an effort
+0.0245777986	concept of
+0.0245774519	benefit of
+0.0245514478	precision of
+0.0245507896	point to
+0.0245288459	communication in
+0.0245171300	a generalization of
+0.0244498875	the implementation of
+0.0244379719	the form of
+0.0244340175	to explain
+0.0244231506	a unifying
+0.0243780151	generation of
+0.0243774927	runs in
+0.0243704658	the author
+0.0243502727	to guide
+0.0242767538	outside of
+0.0242606855	a detailed
+0.0242554469	even more
+0.0242461372	exist for
+0.0242141287	accepted for
+0.0241842630	with state of
+0.0241101660	the feasibility
+0.0241072484	crucial for
+0.0240822818	consequence of
+0.0240541287	encoded in
+0.0240220746	a basis
+0.0240163859	to yield
+0.0240079696	equivalence in
+0.0239693968	expressivity of
+0.0239509564	scheme for
+0.0239468584	overhead of
+0.0239149794	exist in
+0.0239095585	field of
+0.0238904013	a benchmark
+0.0238762382	to meet
+0.0238526188	involved in
+0.0238525972	instantiation of
+0.0238517022	this means
+0.0237617219	a group
+0.0237358596	to treat
+0.0237089259	to bridge
+0.0236120804	an appropriate
+0.0235575600	to interact
+0.0235509257	existence of
+0.0235390091	and complete with
+0.0235251227	algebra with
+0.0235036802	an smt
+0.0234537727	composition of
+0.0234375319	a denotational semantics for
+0.0234302299	scalability of
+0.0233900919	to establish
+0.0233564792	time algorithm
+0.0233493025	trying to
+0.0233062874	course of
+0.0232467759	inherent in
+0.0232319741	to communicate
+0.0232307027	a number
+0.0231686240	potential to
+0.0231628383	the application
+0.0231597192	for establishing
+0.0231584128	a substantial
+0.0231489896	architecture for
+0.0230427150	a notion of
+0.0230248061	this methodology
+0.0229961372	infrastructure for
+0.0229476067	described by
+0.0229459237	new tool
+0.0229322223	to enforce
+0.0229175883	used by
+0.0229021018	this setting
+0.0228962789	answers to
+0.0228599860	a special
+0.0228283404	a combination
+0.0228234469	introduction of
+0.0228160386	place in
+0.0228073136	the relationship
+0.0227859813	a well known
+0.0227850478	a compositional
+0.0227745125	a theoretical
+0.0227581395	consequences of
+0.0227564588	computation with
+0.0227481718	a corpus
+0.0227323987	collection of
+0.0227177254	soundness of
+0.0227145660	the representation of
+0.0226720847	the best of
+0.0226650253	validity of
+0.0226389693	to fix
+0.0225797591	to do
+0.0225639862	a fast
+0.0225605240	to illustrate
+0.0224885966	the type system of
+0.0224726147	the type system
+0.0224564478	to interpret
+0.0224408952	a compiler from
+0.0224379719	a framework for
+0.0224123135	means for
+0.0223754495	contrast to
+0.0223347291	use of
+0.0223334700	satisfiability of
+0.0223159646	the execution time
+0.0223094706	sufficient for
+0.0222885447	basis of
+0.0222651037	the termination of
+0.0222595383	performed in
+0.0222336526	two different
+0.0222305023	crucial to
+0.0221629202	used to specify
+0.0221616073	usefulness of
+0.0221199860	a lightweight
+0.0221014478	result of
+0.0220589886	to ease
+0.0220396135	a part of
+0.0220385578	a category of
+0.0220232653	functionality of
+0.0220163859	to modify
+0.0220095965	a pre
+0.0219851678	extent to
+0.0219851678	consideration for
+0.0219839265	allows users to
+0.0219556495	introduced to
+0.0219274348	to deal
+0.0219039999	defined in
+0.0218836935	the absence of
+0.0218773240	the spirit of
+0.0218636130	the definition of
+0.0217888912	acceptance in
+0.0217818435	on developments in
+0.0217524238	the old
+0.0217177254	independent of
+0.0216630688	different types of
+0.0215605240	to include
+0.0215384165	the key to
+0.0214639777	generalization of
+0.0214631978	the overall
+0.0214363597	style of
+0.0214322031	to offer
+0.0214041397	the expressive power of
+0.0214003922	to track
+0.0213679724	intended for
+0.0213520924	a forum
+0.0213066376	for detecting
+0.0212971492	of interest
+0.0212449810	to host
+0.0212362382	to select
+0.0212149713	this technical
+0.0211609635	the existence
+0.0211597192	to cover
+0.0210982427	designed with
+0.0210037645	for reasoning about
+0.0209765378	employed in
+0.0209762696	discussed in
+0.0209576859	aspect of
+0.0209426293	effectiveness of
+0.0209274348	to serve
+0.0209269879	so as
+0.0209248273	perspective of
+0.0208413132	to characterize
+0.0208353650	interpreter for
+0.0208156824	to hold
+0.0208141249	history of
+0.0208014408	to integrate
+0.0207784435	discussion of
+0.0207784036	important for
+0.0207097247	a system
+0.0206952048	top of
+0.0206935907	abstraction for
+0.0206690252	a prototype of
+0.0206651052	embedded in
+0.0206319601	a prominent
+0.0206275301	language without
+0.0205872484	classification of
+0.0205830604	reuse of
+0.0205664819	orders of
+0.0204952504	occur in
+0.0204882719	a scalable
+0.0204742586	interaction with
+0.0204593271	conditions for
+0.0203863402	a theory of
+0.0203761022	the whole
+0.0203521341	to store
+0.0203339592	complete for
+0.0203339592	presented in
+0.0203106115	to validate
+0.0202909305	reach of
+0.0202908523	long as
+0.0202639681	theorems for
+0.0202563563	to formalize
+0.0202467759	rate of
+0.0202156940	just as
+0.0201990357	the right
+0.0201911730	to investigate
+0.0201336241	the ability to
+0.0201238462	found by
+0.0201081394	to incorporate
+0.0200666666	considered in
+0.0200663724	to deal with
+0.0200171300	the essence of
+0.0200147970	feasible to
+0.0199896847	the study of
+0.0199726147	the need to
+0.0199325839	adoption of
+0.0199171953	limited to
+0.0198297576	a model of
+0.0197716423	discipline for
+0.0197359668	quality of
+0.0196994870	sound with
+0.0196671953	required for
+0.0196646075	a consistent
+0.0196208963	checker for
+0.0195973014	instantiated to
+0.0195903004	to describe
+0.0195755379	a piece of
+0.0195743001	flexibility of
+0.0195320999	problem by
+0.0194645660	a tool to
+0.0194430310	a manual
+0.0194322798	this feature
+0.0194052632	the way to
+0.0193837133	call by
+0.0193632224	usability of
+0.0193091982	strategy for
+0.0192904594	a self
+0.0192622228	a deductive
+0.0191948199	target for
+0.0191714871	calculus by
+0.0191229103	a compiler for
+0.0191176963	derivation of
+0.0190786160	generalized to
+0.0190717504	a particular
+0.0190691929	to manipulate
+0.0190673249	exploration of
+0.0190446818	extension to
+0.0190354264	shape of
+0.0189380351	proposed to
+0.0189330769	to appear
+0.0189042646	a lack of
+0.0188785506	platform for
+0.0188268737	a clear
+0.0188239981	track of
+0.0188116723	the compiler to
+0.0187923878	helps to
+0.0187827588	the efficacy of
+0.0187818668	comparison of
+0.0187713082	addition to
+0.0187658867	simplicity of
+0.0187559185	the precision of
+0.0187429214	a method to
+0.0187317245	a series
+0.0186579049	to satisfy
+0.0186429363	deployment of
+0.0186363402	a technique for
+0.0186320258	sufficient to
+0.0186213877	an off
+0.0185842644	paradigm for
+0.0185802908	a naive
+0.0185740917	implemented on
+0.0185702547	the lack of
+0.0185444821	aim to
+0.0185415006	to preserve
+0.0185243689	the programmer to
+0.0184873900	group of
+0.0184671953	proved to
+0.0184537727	behaviour of
+0.0184492097	a foundational
+0.0183631400	the internet of
+0.0183403657	a range
+0.0183372781	area of
+0.0183277491	a pair
+0.0182940325	the power of
+0.0182651217	developed to
+0.0182602066	a major
+0.0182423398	other than
+0.0182386834	a great
+0.0181886429	the simplicity of
+0.0181879719	a form of
+0.0181607811	applicability of
+0.0181428975	work provides
+0.0181395769	the syntax and
+0.0180875389	means of
+0.0180797576	a type system
+0.0180717759	arise in
+0.0180680735	a new notion of
+0.0180323214	relevant to
+0.0180277499	hierarchy of
+0.0179773254	to focus
+0.0179746025	the cost of
+0.0179669574	a way to
+0.0179646783	programmer to
+0.0179432044	modification of
+0.0179320075	central to
+0.0179303962	an example of
+0.0179171300	this kind of
+0.0178636130	the theory of
+0.0178550373	the case of
+0.0177902112	to show
+0.0177895769	the sense of
+0.0177857681	to separate
+0.0177713053	the behavior of
+0.0177558205	the perspective of
+0.0177460677	the utility of
+0.0177429214	the flexibility of
+0.0177065420	the question of
+0.0176782907	criteria for
+0.0176523220	this class of
+0.0176312327	the synthesis of
+0.0175974616	the creation of
+0.0175579359	the advantages of
+0.0175579359	the setting of
+0.0174980264	the next
+0.0174849907	an order of
+0.0174514456	a new technique for
+0.0174225307	back to
+0.0174205534	essential for
+0.0173895769	an application of
+0.0173496613	to match
+0.0173379719	a tool for
+0.0172730118	ability of
+0.0172283390	the composition of
+0.0171505443	pair of
+0.0171396507	selection of
+0.0170931898	the second
+0.0170860576	executed in
+0.0170669045	ease of
+0.0170539716	a straightforward
+0.0169811454	the operational semantics of
+0.0169661882	the accuracy of
+0.0169499024	to guarantee
+0.0169412215	to analyse
+0.0168903608	principle for
+0.0168849188	impact of
+0.0168253968	challenge in
+0.0168015085	role of
+0.0167465569	a formal model of
+0.0166986679	a formalization of
+0.0166686983	studied in
+0.0166491314	the corresponding
+0.0166480291	all aspects of
+0.0166388399	to experiment with
+0.0165885966	a means of
+0.0165498392	dataset of
+0.0165495215	an analysis of
+0.0165430580	the other
+0.0165159171	a way
+0.0165080637	solver for
+0.0165027078	all other
+0.0164606434	a system for
+0.0164597185	formalized in
+0.0164309793	to get
+0.0164160080	proven to
+0.0163863402	the amount of
+0.0163863402	the construction of
+0.0163763914	application of
+0.0163758515	a description of
+0.0163655894	a whole
+0.0163116723	a result of
+0.0162895769	and efficiency of
+0.0162315504	solution to
+0.0162050831	the notions of
+0.0162018036	success of
+0.0161258515	a way of
+0.0160472693	in case of
+0.0159669574	the core of
+0.0159669574	the efficiency of
+0.0159645086	detection of
+0.0159402269	creation of
+0.0159390116	benchmark for
+0.0158557212	specialization of
+0.0158067218	the verification of
+0.0158060080	improvements in
+0.0157943800	the issue of
+0.0157403367	challenge of
+0.0157388485	the class of
+0.0157321020	to put
+0.0156267759	coverage of
+0.0156119624	as sets of
+0.0156063602	a survey of
+0.0155879719	the design and implementation of
+0.0155706424	often used
+0.0155402112	system for
+0.0155395769	the distribution of
+0.0154801355	to find
+0.0154677254	component of
+0.0154281473	some other
+0.0153998392	represented in
+0.0153947581	to appear in
+0.0153656329	the feasibility of
+0.0153607309	a technique to
+0.0153116723	this approach to
+0.0152538850	way of
+0.0152469575	a rigorous
+0.0152292230	the above
+0.0152105598	introduced in
+0.0151979182	found in
+0.0151258515	the performance and
+0.0150759585	way to
+0.0150328847	portability of
+0.0150213053	the applicability of
+0.0149669574	the area of
+0.0149522332	a promising
+0.0149256714	a kind of
+0.0148564657	potential of
+0.0147725320	takes as
+0.0147366090	manipulation of
+0.0146879719	a combination of
+0.0146650094	the decidability of
+0.0146365314	the benefit of
+0.0145420844	usage of
+0.0145420844	sequence of
+0.0145136513	not well
+0.0144795981	tries to
+0.0144745548	to keep
+0.0144729515	the overhead of
+0.0143840632	compiled to
+0.0143710393	subtyping for
+0.0143114370	the description of
+0.0142409688	allows for
+0.0142314657	setting of
+0.0141910355	a proof of
+0.0141363402	the combination of
+0.0139640097	lack of
+0.0139123345	new way
+0.0139052632	the range of
+0.0138980663	scope of
+0.0138693695	this way
+0.0138454063	some new
+0.0138236679	the interaction between
+0.0138206330	potential for
+0.0137501896	the best
+0.0137497239	validation of
+0.0137319998	foundation of
+0.0137193572	a basis for
+0.0137058815	a sound and
+0.0136696774	work with
+0.0135785764	the burden of
+0.0135689887	a study of
+0.0135688617	available to
+0.0135494254	the metatheory of
+0.0135319820	composed of
+0.0134558815	a language with
+0.0134558815	the evaluation of
+0.0134363902	the adoption of
+0.0133754177	expressiveness of
+0.0133636130	a language for
+0.0133518344	factor of
+0.0133423364	different approaches to
+0.0133303388	bound to
+0.0133099312	given by
+0.0132944494	the usefulness of
+0.0132563168	a forum for
+0.0132381312	not possible
+0.0132271644	a new approach for
+0.0132049792	specified by
+0.0131975074	to focus on
+0.0131650787	the importance of
+0.0131395769	the space of
+0.0130879719	the benefits of
+0.0130349188	areas of
+0.0130169662	the potential to
+0.0129726147	the specification of
+0.0129101833	this paper provides
+0.0129052632	an implementation in
+0.0128791333	novel approach to
+0.0128143541	the runtime system
+0.0126552632	a fragment of
+0.0126550146	over time
+0.0126213092	to give
+0.0123392916	useful to
+0.0123285070	the challenge of
+0.0122999721	extraction of
+0.0122895578	preservation of
+0.0122585512	to see
+0.0122434831	the behaviour of
+0.0121972693	the scalability of
+0.0121910355	the details of
+0.0121741086	to help
+0.0120831638	likely to
+0.0120760299	alternative to
+0.0120498392	adaptation of
+0.0119521697	appear in
+0.0119346750	the foundations of
+0.0119258864	different from
+0.0119052632	a model for
+0.0118182757	with support for
+0.0117972693	a library for
+0.0117063039	specified in
+0.0115741946	for dealing with
+0.0115290940	for specifying
+0.0115193803	a brief
+0.0114325456	allow to
+0.0113828548	the potential of
+0.0112031235	a foundation for
+0.0111525740	the design and
+0.0110992239	done in
+0.0110974997	a certain
+0.0110831638	seems to
+0.0110602663	the style of
+0.0109908460	to know
+0.0108828548	a solution to
+0.0108643160	apply to
+0.0108501265	the basis for
+0.0108026906	an algorithm for
+0.0107097247	work in
+0.0106803962	a family of
+0.0106151225	known from
+0.0105911521	this problem by
+0.0105546425	available in
+0.0105470900	this paper gives
+0.0105218022	possible to
+0.0104590111	the availability of
+0.0104244105	made to
+0.0103863402	the integration of
+0.0103863402	the user to
+0.0102854823	allows to
+0.0102434831	the usage of
+0.0100557010	available as
+0.0100420844	benefits of
+0.0099726147	the execution of
+0.0098871226	made by
+0.0098364144	especially for
+0.0097943800	a mechanism for
+0.0096213092	to allow
+0.0095247014	to consider
+0.0095092435	means to
+0.0095036063	to take advantage of
+0.0094741086	interest in
+0.0093863402	the generation of
+0.0092972693	an abstraction of
+0.0091608429	to contain
+0.0091213092	useful for
+0.0090203200	cause of
+0.0090157932	a selection of
+0.0089011754	an approach for
+0.0087624273	necessary for
+0.0087434831	the advantage of
+0.0084410355	the impact of
+0.0083879759	allow for
+0.0083734256	to account for
+0.0083730264	described in
+0.0082968359	corresponding to
+0.0082883238	on top
+0.0078892602	necessary to
+0.0078313159	to take
+0.0078313159	associated to
+0.0073396931	a good
+0.0072063602	a corpus of
+0.0065040015	known to
+0.0063730268	a dsl for
+0.0060290015	need for
