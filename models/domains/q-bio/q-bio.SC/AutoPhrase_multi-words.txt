@@ -1,0 +1,1270 @@
+0.9776394313	lipid bilayer
+0.9771764818	pattern formation
+0.9736634216	electric field
+0.9731887315	rna polymerase
+0.9722555292	signal transduction
+0.9680713342	feedback loops
+0.9665205744	budding yeast
+0.9641027526	random walk
+0.9625501236	information processing
+0.9608949544	master equation
+0.9589642524	statistical mechanics
+0.9584121282	ion channel
+0.9583079543	feedback loop
+0.9581304797	synthetic biology
+0.9579369560	messenger rna
+0.9567932630	amino acids
+0.9560468461	ion channels
+0.9541211157	phase transition
+0.9540392614	phase diagram
+0.9509693846	gene expression
+0.9499009554	atp hydrolysis
+0.9494520681	transcription factor
+0.9478146133	endoplasmic reticulum
+0.9467197536	thermal fluctuations
+0.9454501558	signal processing
+0.9453810774	differential equations
+0.9453505903	saccharomyces cerevisiae
+0.9432663923	monte carlo
+0.9427149800	free energy
+0.9424046961	plasmodium falciparum
+0.9420067227	systems biology
+0.9405542135	differential equation
+0.9397744796	wild type
+0.9395468034	magnetic field
+0.9389245160	mitotic spindle
+0.9376130479	fluorescence microscopy
+0.9357748943	power law
+0.9356214381	escherichia coli
+0.9355825421	plasma membrane
+0.9341262999	transcription factors
+0.9328966842	positive feedback
+0.9313670409	eukaryotic cells
+0.9299984807	probability distribution
+0.9270568493	quality control
+0.9247218051	symmetry breaking
+0.9215975400	design principles
+0.9203664630	cell division
+0.9202527943	phase transitions
+0.9198709435	steady state
+0.9197426521	membrane proteins
+0.9180659648	amino acid
+0.9175304424	transcriptional regulation
+0.9151796863	metabolic pathways
+0.9147281353	mathematical models
+0.9103296324	entropy production
+0.9094872008	active transport
+0.9091306907	fluorescence correlation
+0.9081847520	gene regulation
+0.9076164405	langevin equation
+0.9068873043	negative feedback
+0.9060293017	actin filaments
+0.9059501292	myosin ii
+0.9057730256	molecular dynamics
+0.9050850645	atp synthase
+0.9035052488	facilitated diffusion
+0.9030804265	macromolecular crowding
+0.9022462344	signaling pathways
+0.9021878798	steady states
+0.9009879898	brownian ratchet
+0.8996632786	dna replication
+0.8967934791	motor protein
+0.8961210517	action potential
+0.8950923659	cell biology
+0.8943152057	phase diagrams
+0.8928114546	dynamic instability
+0.8920779509	cell death
+0.8907643265	tcr mhcp
+0.8895836795	traffic jams
+0.8885480132	dynamical systems
+0.8883170403	binding site
+0.8867828515	excluded volume
+0.8861576488	totally asymmetric simple exclusion process
+0.8850886214	cell growth
+0.8850318219	signalling pathways
+0.8845404895	focal adhesions
+0.8830160693	biologically relevant
+0.8825898499	chemical reaction
+0.8825417073	reaction rate
+0.8814086801	lipid bilayers
+0.8797879011	cell cycle
+0.8792020550	intrinsic noise
+0.8778654726	yap taz
+0.8725615951	force generation
+0.8724385774	cell wall
+0.8701189043	fission yeast
+0.8690466177	cell adhesion
+0.8669337888	hair bundle
+0.8661557740	mathematical model
+0.8658620784	external load
+0.8652725814	stress fibers
+0.8650385402	single molecule
+0.8646708608	binding sites
+0.8641325505	phase separation
+0.8638569713	cytoskeletal filaments
+0.8632908332	lipid membranes
+0.8629944546	copy number
+0.8584610761	` `
+0.8572350724	stochastic processes
+0.8551576040	catch bond
+0.8545280390	chemical reactions
+0.8536933725	cell membrane
+0.8515767147	parameter values
+0.8485056825	poorly understood
+0.8467496285	probability density
+0.8459473820	hill coefficient
+0.8456125308	monte carlo simulations
+0.8456103353	long range
+0.8454553629	chemical potential
+0.8443214403	transcriptional bursting
+0.8439258533	parameter space
+0.8426906992	coarse grained
+0.8381114767	single stranded dna
+0.8365377333	analytical expressions
+0.8363593914	living cells
+0.8359355610	signaling networks
+0.8359258283	remains unclear
+0.8341629976	cell motility
+0.8330778797	actin polymerization
+0.8329696143	binding proteins
+0.8329150260	membrane protein
+0.8315409930	exclusion process
+0.8287435876	concentration gradients
+0.8281191564	cycle progression
+0.8275486191	power stroke
+0.8243192810	cell nucleus
+0.8240933797	copy numbers
+0.8235860992	production rate
+0.8232671914	molecular motors
+0.8210538549	self organization
+0.8209576937	excellent agreement
+0.8209542742	ion transport
+0.8203257868	hodgkin huxley
+0.8199552164	testable predictions
+0.8189236457	collective dynamics
+0.8175505320	cargo transport
+0.8163051906	actin networks
+0.8150968491	noise approximation
+0.8149668005	experimental observations
+0.8146316137	lipid rafts
+0.8133141864	chemical energy
+0.8130792339	molecular mechanisms
+0.8128915614	theoretical analysis
+0.8114810854	protein synthesis
+0.8109052011	numerical simulations
+0.8098785154	transition rates
+0.8091247399	fokker planck
+0.8090700231	lipid vesicles
+0.8086246747	biological cells
+0.8080684030	stochastic effects
+0.8073404223	cell signaling
+0.8064036453	density profiles
+0.8061822678	totally asymmetric
+0.8053438066	bacterial flagellar motor
+0.8037640276	double stranded
+0.8035674205	bidirectional transport
+0.8033114774	stochastic models
+0.8021392876	theoretical model
+0.8020368971	field theory
+0.8008316383	long term
+0.8003306718	cell types
+0.8002824168	target search
+0.7991802954	michaelis menten
+0.7987188308	run length
+0.7983558423	density function
+0.7978099701	self assembly
+0.7965226540	growth factor
+0.7941780593	diffusion constant
+0.7926715710	reaction diffusion
+0.7925188252	asymmetric simple exclusion process
+0.7923473019	single headed
+0.7922371597	hiv 1
+0.7918084580	lattice gas
+0.7913103284	brownian motion
+0.7912636034	transport properties
+0.7900364030	anomalous diffusion
+0.7889005724	kinetic model
+0.7862454546	gene regulatory
+0.7855803425	stochastic simulation
+0.7842726528	external force
+0.7840000579	diffusion coefficient
+0.7836729874	higher order
+0.7823374604	molecular motor
+0.7820559123	reaction rates
+0.7816639574	rare events
+0.7814855114	takes place
+0.7814584614	protein dynamics
+0.7797572723	rate constants
+0.7793811526	short range
+0.7785244182	vesicle transport
+0.7755040039	cluster size
+0.7754386067	protein complexes
+0.7743394862	torque speed
+0.7726094054	biological systems
+0.7671809748	brownian dynamics
+0.7671499898	physical model
+0.7656586213	stochastic simulations
+0.7651710049	single motor
+0.7648250881	extrinsic noise
+0.7645045999	myosin motors
+0.7644924373	analytical expression
+0.7644862466	low frequency
+0.7644237271	length control
+0.7634972950	analysis shows
+0.7632844407	mt length
+0.7625022958	intracellular transport
+0.7613874990	min proteins
+0.7611911727	experimental data
+0.7611692668	yeast cells
+0.7601701912	crowded environment
+0.7573950744	spatio temporal
+0.7571873181	cluster formation
+0.7560537049	protein search
+0.7554463972	experimentally observed
+0.7510741445	single particle
+0.7488013563	intra cellular
+0.7485977670	daughter cells
+0.7449291629	experimental measurements
+0.7444742211	cancer cells
+0.7440936060	experimental findings
+0.7437731743	microtubule growth
+0.7433035798	thermodynamic efficiency
+0.7429920050	single cell
+0.7402451324	length regulation
+0.7394736541	search process
+0.7392629898	receptor ligand
+0.7387220520	theoretical framework
+0.7377377494	dna looping
+0.7375905461	mechano chemical
+0.7358908619	cell size
+0.7356270501	binding unbinding
+0.7353538412	post translational
+0.7352067958	mechano chemistry
+0.7345981205	living cell
+0.7340951664	simulation results
+0.7324378917	biochemical reactions
+0.7318976666	model parameters
+0.7318029131	living systems
+0.7297561710	theoretical predictions
+0.7282346734	sufficiently large
+0.7260445311	previous studies
+0.7254616553	experimental evidence
+0.7245585249	model predicts
+0.7241259979	microtubule dynamics
+0.7224831645	detachment rate
+0.7214912006	biological functions
+0.7203049422	cell lines
+0.7199247030	length scales
+0.7195414527	channel noise
+0.7185901055	cellular processes
+0.7177519272	motor proteins
+0.7166451337	cell fate
+0.7161222363	protein distributions
+0.7152590949	microtubule length
+0.7146244131	cell membranes
+0.7124886594	protein binding
+0.7089259268	force velocity
+0.7080023054	membrane tubes
+0.7071692271	analytical results
+0.7070264731	growth rate
+0.7068412171	protein dna
+0.7065970644	molecular machines
+0.7063906680	length distribution
+0.7055049222	reaction networks
+0.7047887325	average velocity
+0.7038000805	signaling network
+0.7036452103	biochemical networks
+0.7035191333	orders of magnitude
+0.7028786721	physical mechanisms
+0.7025950629	target site
+0.7016930990	large scale
+0.6993299780	single cells
+0.6976716162	stall force
+0.6952556487	ligand concentration
+0.6951875317	reaction diffusion systems
+0.6949385294	first passage times
+0.6942456125	multiple motor
+0.6940377372	theoretical approach
+0.6922002974	cooperative binding
+0.6917227931	dna template
+0.6913287825	transport processes
+0.6905575075	fgf 2
+0.6896846817	takes into account
+0.6887399939	results suggest
+0.6876790832	membrane tension
+0.6867878125	biochemical systems
+0.6863769781	processive motor
+0.6840814312	high density
+0.6818013578	size distribution
+0.6805070329	energy landscape
+0.6792371475	pole to pole
+0.6784592076	cell surface receptors
+0.6769961418	protein concentration
+0.6765925187	recent experiments
+0.6752883882	low density
+0.6726171873	live cell
+0.6708082081	reaction diffusion model
+0.6706144335	results provide
+0.6702207282	flagellar motor
+0.6670424497	physical mechanism
+0.6668968952	diffusion limited
+0.6664319621	asymmetric simple exclusion
+0.6654219104	taking into account
+0.6652279970	microtubule based
+0.6650524728	stochastic nature
+0.6640146637	membrane curvature
+0.6631176148	totally asymmetric simple exclusion
+0.6624810604	experimental results
+0.6621970580	small number
+0.6604799505	length dependent
+0.6603680940	tug of war
+0.6597382698	protein production
+0.6586242540	atp concentration
+0.6560814190	dna chain
+0.6553810263	binding kinetics
+0.6553101558	signaling molecules
+0.6548497827	cellular signaling
+0.6525117394	motor activity
+0.6508793389	recent experimental
+0.6505565823	large number
+0.6505459214	specific binding
+0.6504372769	covid 19
+0.6502296988	dna ejection
+0.6492576058	stochastic model
+0.6491691342	finite size
+0.6488657443	lattice model
+0.6485385999	first passage
+0.6465961873	single filament
+0.6459099262	energy barrier
+0.6456818217	crucial role
+0.6456326662	biological processes
+0.6451698969	stochastic fluctuations
+0.6423317979	membrane components
+0.6417027723	membrane bound
+0.6402950566	totally asymmetric simple
+0.6385431272	lipid membrane
+0.6379843952	actin cytoskeleton
+0.6379022142	discrete state
+0.6376873316	self organized
+0.6373720962	dna sequences
+0.6367832730	carlo simulations
+0.6361139578	key role
+0.6358903298	order of magnitude
+0.6349602787	mechanical model
+0.6347018043	animal cells
+0.6330286495	particle based
+0.6299856261	kinesin 8
+0.6287455310	human cells
+0.6276187888	noise induced
+0.6275257644	model explains
+0.6271066489	cell surface
+0.6251665415	mechanical properties
+0.6227312584	non gaussian
+0.6220967428	key features
+0.6210766219	bacterial flagellar
+0.6207904127	membrane mediated
+0.6191713055	spatial and temporal
+0.6108452230	simple exclusion process
+0.6106544777	self consistent
+0.6088633618	ordinary differential
+0.6083974291	exact analytical
+0.6070141427	spatial organization
+0.6059150704	motor cargo
+0.6033067811	passage times
+0.5992387260	protein protein
+0.5958139743	simple exclusion
+0.5942507557	motor density
+0.5934629271	important role
+0.5917326034	ligand receptor
+0.5897824293	biophysical model
+0.5888334859	model describes
+0.5833003788	single molecule experiments
+0.5831828338	chemical master
+0.5813320935	ligand binding
+0.5781730685	partial differential
+0.5685995251	simple model
+0.5652377292	single stranded
+0.5635330701	model shows
+0.5578462325	one dimensional
+0.5552928989	membrane anchored
+0.5529328111	dynamics simulations
+0.5498605363	motor driven
+0.5463051245	quasi steady
+0.5453120053	based model
+0.5442309147	computational model
+0.5438733372	vitro experiments
+0.5419374204	force dependent
+0.5418061529	most probable
+0.5414130048	experimental and theoretical
+0.5372795992	so called
+0.5342054157	non equilibrium
+0.5332635070	first order
+0.5315531570	stochastic reaction
+0.5292325906	plus end
+0.5275488833	cell to cell
+0.5242836250	minimal model
+0.5228438415	dna binding
+0.5201451486	myosin v
+0.5178507075	surface receptors
+0.5123657368	non markovian
+0.5120469520	computer simulation
+0.5069352971	stochastic dynamics
+0.5047473939	three dimensional
+0.4929340735	motor transport
+0.4842465502	stranded dna
+0.4815571824	recovery after
+0.4748623898	stochastic differential
+0.4674807779	self propelled
+0.4640134288	observed in experiments
+0.4593647524	^ 2
+0.4542121195	kinesin 1
+0.4438744939	\ alpha
+0.4430671340	cell cortex
+0.4133429105	mean field
+0.4098047137	number of molecules
+0.4009958361	non monotonic
+0.3857995048	na +
+0.3846323483	et al
+0.3831477277	diffusion model
+0.3830514716	\ textit
+0.3813170268	well defined
+0.3809897515	model to study
+0.3804039008	$ \ beta
+0.3797676269	computer simulations
+0.3789765063	dimensional diffusion
+0.3779792505	available experimental data
+0.3698619032	\ emph
+0.3663796207	two dimensional
+0.3649677467	t cells
+0.3622106050	diffusion systems
+0.3604395365	\ rm
+0.3544297992	in vitro experiments
+0.3525713893	well established
+0.3506331527	mean field theory
+0.3492369673	\ sim
+0.3480781768	f actin
+0.3396511298	time scales
+0.3382746725	better understanding
+0.3368200513	t cell
+0.3312732548	commonly used
+0.3257063867	\ bf
+0.3251482375	proposed model
+0.3213315346	non processive
+0.3199871858	during cell division
+0.3162877677	into account
+0.3154568932	wide range of
+0.3146455921	a wide range
+0.3141018798	widely used
+0.3122392123	\ mu
+0.3073533109	not well understood
+0.3047648842	faster than
+0.3046366994	ca2 +
+0.2994038477	insight into
+0.2981048967	an important role
+0.2968883678	cargo transport by
+0.2924826952	analytical expression for
+0.2879870556	\ delta
+0.2846427565	a simple model
+0.2845073094	key features of
+0.2822725511	the cell membrane
+0.2818189786	two state model
+0.2807128973	a coarse grained
+0.2800342229	insights into
+0.2768526914	large number of
+0.2736424548	first passage time
+0.2733056355	in living cells
+0.2721516701	broad range of
+0.2719230198	microtubule associated
+0.2713613735	time varying
+0.2707732003	crucial role in
+0.2666531625	k +
+0.2636711247	the bacterial flagellar motor
+0.2636708641	mechanical properties of
+0.2618485551	smaller than
+0.2610402749	larger than
+0.2587218063	important role in
+0.2585050422	10 ^
+0.2569952428	non linear
+0.2561920847	out of equilibrium
+0.2555047653	\ kappa
+0.2544871282	\ gamma
+0.2535557989	the cell cortex
+0.2515999985	spatial organization of
+0.2500963021	probability distribution of
+0.2481988055	the stall force
+0.2464452063	stochastic nature of
+0.2461646228	1d diffusion
+0.2457346060	^ 1
+0.2435025219	the steady state
+0.2429099123	\ kappa b
+0.2416584747	$ \ mu
+0.2400081253	this article
+0.2399336803	stochastic dynamics of
+0.2399103084	inspired by
+0.2388622914	so far
+0.2387044428	this paper
+0.2385993397	$ k_
+0.2366265420	the mitotic spindle
+0.2346772177	computational model of
+0.2330500188	critical value
+0.2326975592	a key role
+0.2316859148	small number of
+0.2282095888	conformational changes
+0.2269456271	switch like
+0.2267644044	rather than
+0.2256842325	key role in
+0.2236578960	a single stranded
+0.2209588753	stochastic model for
+0.2192339811	theoretical model for
+0.2192164998	a theoretical framework
+0.2189141128	good agreement
+0.2148696463	with experimental data
+0.2136841216	^ +
+0.2126217871	the spatio temporal
+0.2125437728	$ \ sim
+0.2121684168	a crucial role
+0.2119114725	well understood
+0.2107632768	the plasma membrane
+0.2095541216	^ 2 +
+0.2089975374	the proposed model
+0.2067275719	in vivo
+0.2043483038	a theoretical model
+0.2040333379	a minimal model
+0.2037049208	molecular motors in
+0.2029794424	mathematical model of
+0.2024275167	in vitro
+0.2017119138	$ ^ 2 +
+0.2009894044	do not
+0.1998239572	the actin cytoskeleton
+0.1988559257	stochastic model of
+0.1986858941	the phase diagram
+0.1978688464	gives rise
+0.1929109463	referred to as
+0.1926218521	does not
+0.1918933105	relationship between
+0.1883816961	numerical simulations of
+0.1883658072	regarded as
+0.1866611315	a molecular motor
+0.1835697696	waiting time
+0.1834924015	depends on
+0.1834333201	a computational model
+0.1833253055	in gene expression
+0.1815810146	a master equation
+0.1805112550	interaction between
+0.1793693722	time scale
+0.1791477645	depending on
+0.1789427859	information about
+0.1762077010	most important
+0.1755941273	well known
+0.1735942470	of myosin ii
+0.1724386576	the force velocity
+0.1685946990	of ion channels
+0.1683957062	the free energy
+0.1671327062	the cell cycle
+0.1654842713	of min proteins
+0.1651604458	give rise
+0.1650157457	two component
+0.1617404086	shed light on
+0.1612449741	more complex
+0.1577659789	\ tau
+0.1573302161	lead to
+0.1566459382	dwell time
+0.1559449381	give rise to
+0.1558569390	based on
+0.1551167530	a mathematical model
+0.1533153232	$ n
+0.1529921247	depend on
+0.1517404050	mean first passage time
+0.1500597536	a steady state
+0.1499261704	two component system
+0.1490353573	\ beta
+0.1488738958	whole cell
+0.1483464081	rely on
+0.1480037068	the growth rate
+0.1478141831	the presence
+0.1473912225	serve as
+0.1458744310	leads to
+0.1455751713	the probability distribution
+0.1449218116	not only
+0.1444470702	recent work
+0.1441137167	focus on
+0.1430616048	gives rise to
+0.1428517926	two distinct
+0.1426946650	time dependent
+0.1423962081	relies on
+0.1421744064	ranging from
+0.1418484636	caused by
+0.1416242417	of membrane proteins
+0.1413159721	the bacterial flagellar
+0.1407067307	in silico
+0.1388135165	possible mechanisms
+0.1382323052	results indicate
+0.1381744687	of actin filaments
+0.1378610233	the motor protein
+0.1368840167	these results
+0.1368679123	an important
+0.1368438462	a stochastic model
+0.1364624375	of motor proteins
+0.1353309733	consistent with
+0.1345422522	three state
+0.1341862987	interplay between
+0.1320196882	subjected to
+0.1317512362	two species
+0.1310808313	two state
+0.1291403387	of protein synthesis
+0.1288684054	$ ^ +
+0.1272273340	competition between
+0.1272166152	the other hand
+0.1261727767	at low
+0.1254488780	on and off
+0.1240239083	to understand
+0.1179621056	accounting for
+0.1174146010	balance between
+0.1173453621	a single
+0.1171233370	act as
+0.1164810938	affected by
+0.1163750204	interactions between
+0.1160319182	results show
+0.1157264284	$ \
+0.1146331388	different types
+0.1142119882	good agreement with
+0.1139724194	in good agreement
+0.1135528171	also discussed
+0.1125934742	this model
+0.1124709459	link between
+0.1119845438	agreement with
+0.1113488131	responsible for
+0.1112452707	relation between
+0.1109956605	this study
+0.1106053961	an alternative
+0.1091960744	according to
+0.1077045963	other hand
+0.1063297701	motivated by
+0.1059901459	serves as
+0.1054995876	each other
+0.1033992871	driven by
+0.1033048756	these findings
+0.1025934409	by fitting
+0.1021454028	with respect to
+0.1005540149	taking into
+0.1005519828	correspond to
+0.1002510854	a simple
+0.1002193429	a mean field
+0.1000692844	a one dimensional
+0.0997517138	transport along
+0.0992730990	this review
+0.0988183207	focused on
+0.0987094689	focusing on
+0.0978553690	an optimal
+0.0977499229	transitions between
+0.0973227421	characterized by
+0.0967725813	arising from
+0.0966553774	governed by
+0.0961941707	determined by
+0.0960527708	compared to
+0.0955452263	tens of
+0.0951697006	corresponds to
+0.0947624667	correlation time
+0.0946001913	transition from
+0.0945410973	switch between
+0.0934467851	to study
+0.0932971655	transport through
+0.0930549815	by means of
+0.0923925920	system size
+0.0922745361	also discuss
+0.0915992270	many cellular
+0.0908829200	these models
+0.0905332097	an internal
+0.0899155436	an explicit
+0.0897596713	model to describe
+0.0895879211	generated by
+0.0894343747	a two dimensional
+0.0888162799	in addition
+0.0887443105	l \
+0.0887178904	used to study
+0.0887030810	long time
+0.0882283081	starting from
+0.0882173985	an active
+0.0876936401	accounts for
+0.0869470264	a two state
+0.0865912587	model for
+0.0849920055	played by
+0.0845074036	an external
+0.0842105112	modeled as
+0.0840668304	arises from
+0.0840651434	influenced by
+0.0829776976	coupling between
+0.0828514670	at intermediate
+0.0822073206	the cell
+0.0819907580	able to
+0.0814935867	this process
+0.0811141312	these processes
+0.0810669992	results from
+0.0807985244	arise from
+0.0806474750	orders of
+0.0805761522	processes such as
+0.0799955762	an open
+0.0799744510	due to
+0.0795631083	leading to
+0.0786093087	many biological
+0.0784363674	triggered by
+0.0782036845	consisting of
+0.0781378042	involved in
+0.0776264101	in terms of
+0.0771985418	more than
+0.0767049463	available experimental
+0.0764835419	as well as
+0.0757760225	induced by
+0.0754214857	switching between
+0.0752609833	regulated by
+0.0748806525	presence of
+0.0747654662	present here
+0.0747586603	two states
+0.0745757476	at least
+0.0745191040	these effects
+0.0737680357	search time
+0.0736264101	in order to
+0.0733723782	$ p
+0.0725734747	this mechanism
+0.0725336020	controlled by
+0.0718200312	to reach
+0.0716229022	derived from
+0.0708157141	such as
+0.0703299779	agree with
+0.0701966286	different mechanisms
+0.0701860398	consists of
+0.0698124436	self assembly of
+0.0697473782	$ d
+0.0694470057	obtained from
+0.0693548074	compared with
+0.0690557061	passage time
+0.0690146374	takes into
+0.0686216686	^ \
+0.0685211469	the sensitivity of
+0.0683538559	these proteins
+0.0681167331	these motors
+0.0676627604	dependent on
+0.0671841837	considered as
+0.0670906092	a general
+0.0668620560	the aim of
+0.0664131961	mechanism for
+0.0662943455	mediated by
+0.0662131820	these networks
+0.0657728880	essential for
+0.0651199252	these systems
+0.0650464364	with increasing
+0.0649035798	$ l
+0.0645211469	the development of
+0.0644280047	the total
+0.0642733939	2 +
+0.0636120560	the problem of
+0.0632541488	oscillations in
+0.0625211469	the interplay of
+0.0620843468	an exact
+0.0619307116	$ f
+0.0618620560	the sequence of
+0.0611384631	supported by
+0.0609615355	away from
+0.0608973876	component system
+0.0607353572	but also
+0.0605211469	the ability of
+0.0605211469	the design of
+0.0605211469	a result of
+0.0601282788	an effective
+0.0599608960	to determine
+0.0598620560	the concentration of
+0.0597211299	to explain
+0.0596680387	proportional to
+0.0596335652	applicable to
+0.0596280224	a system of
+0.0596120560	the accuracy of
+0.0596120560	the speed of
+0.0595423657	this effect
+0.0594709814	a wide range of
+0.0590079309	to investigate
+0.0588620560	the response of
+0.0588620560	the expression of
+0.0588620560	the robustness of
+0.0587950081	model with
+0.0587575995	followed by
+0.0585627915	account for
+0.0585211469	the framework of
+0.0582684009	required for
+0.0579454730	model system
+0.0578620560	the state of
+0.0578620560	the shape of
+0.0577737614	implicated in
+0.0576680387	contribute to
+0.0575211469	the study of
+0.0574727286	an efficient
+0.0574624698	exerted by
+0.0572928545	with respect
+0.0571702542	subject to
+0.0570847043	experiments on
+0.0568620560	the form of
+0.0568355888	associated proteins
+0.0566120560	the activity of
+0.0564957727	difficult to
+0.0563565894	result from
+0.0562523154	transport by
+0.0562117355	close to
+0.0560472939	a generic
+0.0558620560	the surface of
+0.0554709474	shown to
+0.0553624375	an essential
+0.0550162409	combined with
+0.0549503085	expressions for
+0.0548780224	the use of
+0.0548620560	the order of
+0.0548620560	the limit of
+0.0548620560	the process of
+0.0547043839	interact with
+0.0546120560	the density of
+0.0542752166	this approach
+0.0539679202	effect of
+0.0538620560	the level of
+0.0538620560	the assembly of
+0.0538620560	the binding of
+0.0536926727	an analytical
+0.0534818074	variety of
+0.0534233499	this phenomenon
+0.0532993484	in turn
+0.0530847043	effects on
+0.0530443256	function as
+0.0528620560	the rates of
+0.0528620560	the transport of
+0.0528620560	the diffusion of
+0.0524683867	$ ^
+0.0521825108	time distribution
+0.0520876600	dependence on
+0.0518620560	the results of
+0.0515916557	but not
+0.0515640330	$ t
+0.0515633331	by taking
+0.0513606611	effect on
+0.0510165629	comparison with
+0.0508620560	the length of
+0.0508449200	data from
+0.0506218804	sufficient to
+0.0505880871	a stochastic
+0.0505188702	by analyzing
+0.0503413099	time evolution
+0.0503122760	an elastic
+0.0502968311	respond to
+0.0498620560	the size of
+0.0497968690	dynamics of
+0.0495968796	time evolution of
+0.0489049684	ability to
+0.0478977636	model of
+0.0477898963	explanation for
+0.0477790566	the axon
+0.0474998707	during cell
+0.0472987202	related to
+0.0469635471	basis for
+0.0466845087	properties of
+0.0466297452	membranes with
+0.0461867973	formula for
+0.0461462294	associated with
+0.0455349764	tool for
+0.0455061863	composed of
+0.0454263843	a large
+0.0453806272	a central
+0.0452363614	in contrast
+0.0452172486	the time scale
+0.0447244620	of proteins in
+0.0444944996	coupled to
+0.0444752563	this work
+0.0440653671	characterization of
+0.0439635471	attached to
+0.0438421958	pair of
+0.0435786880	exposed to
+0.0434566763	a strong
+0.0432663138	to achieve
+0.0432640556	similar to
+0.0432509553	a common
+0.0430605583	the mean time
+0.0418603111	the presence of
+0.0417759911	applied to
+0.0415838256	models for
+0.0414719067	cost of
+0.0414128238	the entire
+0.0411088454	generalization of
+0.0410968970	constraints on
+0.0410624799	analysis of
+0.0409659294	the effects of
+0.0409593570	analogous to
+0.0405883615	framework for
+0.0403330285	to bind
+0.0402940399	decreases with
+0.0402500526	light on
+0.0402500526	crowding on
+0.0402047613	region of
+0.0401734407	a model
+0.0397767621	contact with
+0.0393978466	bind to
+0.0393530224	number of
+0.0393441137	provided by
+0.0392466747	the case of
+0.0391138281	to detect
+0.0390518695	a function of
+0.0388605324	a critical
+0.0386241905	different types of
+0.0384248362	in good agreement with
+0.0383405234	theory for
+0.0382866696	to obtain
+0.0381519053	produced by
+0.0380201439	the nucleoid
+0.0379721254	described by
+0.0379366865	a unique
+0.0376963992	to simulate
+0.0376577893	not well
+0.0376398280	achieved by
+0.0375038024	differences in
+0.0374103033	the role of
+0.0373897658	approach to
+0.0367337329	to predict
+0.0367212294	used to
+0.0365756946	result in
+0.0364103033	the effect of
+0.0364103033	the formation of
+0.0363547243	to quantify
+0.0362885184	direction of
+0.0362445332	to occur
+0.0361539825	role in
+0.0361268927	bound to
+0.0358743598	to analyze
+0.0356722695	reminiscent of
+0.0356480762	two different
+0.0353581055	the number of
+0.0353300080	interaction with
+0.0352994293	an increase
+0.0352987963	time scale of
+0.0352111465	to provide
+0.0349840498	a broad
+0.0349713818	to produce
+0.0348848394	values for
+0.0347823095	the absence
+0.0347706136	the dynamics of
+0.0347230412	a broad range of
+0.0347202147	far from
+0.0346500421	sensitive to
+0.0346177891	an important role in
+0.0344740172	interacting with
+0.0344010845	a model of
+0.0342864827	to create
+0.0341758781	a stochastic model for
+0.0341326549	capable of
+0.0340739831	to elucidate
+0.0340174880	to induce
+0.0339378461	identification of
+0.0339344549	to characterize
+0.0338931897	method for
+0.0338080448	equations for
+0.0337888418	in agreement with
+0.0336547702	a fundamental
+0.0334072733	to test
+0.0331187692	believed to
+0.0329984751	regulation by
+0.0328040756	dependence of
+0.0326317508	predicted by
+0.0325833416	a key
+0.0325711207	a thermodynamic
+0.0325667458	aspects of
+0.0325451931	a minimal
+0.0325120230	the strength of
+0.0323217985	known as
+0.0322970660	in terms
+0.0322027927	studies on
+0.0321530087	the same
+0.0320451931	a significant
+0.0318741905	two types of
+0.0317951519	in addition to
+0.0316767776	a model for
+0.0316067506	to generate
+0.0315498382	the emergence of
+0.0315313483	role of
+0.0315151179	to explore
+0.0312464880	rate of
+0.0310461893	for studying
+0.0310098563	referred to
+0.0309233112	mean first
+0.0307923687	the first time
+0.0307765127	implications for
+0.0307230412	a key role in
+0.0307012160	in contrast to
+0.0305828516	mechanism of
+0.0304431794	strategies for
+0.0303912893	to perform
+0.0303725264	crucial for
+0.0303724755	increases with
+0.0302106740	embedded in
+0.0301390737	a combination
+0.0300760450	to account for
+0.0299813243	majority of
+0.0299615496	the possibility
+0.0298706833	a stochastic model of
+0.0298411996	changes in
+0.0295498382	the influence of
+0.0292545154	sources of
+0.0291935266	the existence
+0.0290498831	types of
+0.0290330345	limited by
+0.0289657632	pole to
+0.0287725740	to identify
+0.0286667652	the ratio of
+0.0286480303	to regulate
+0.0286149254	increase in
+0.0286115384	a universal
+0.0285933614	existence of
+0.0285605271	to address
+0.0285317881	effects of
+0.0283786665	to measure
+0.0280693942	a variety of
+0.0280423133	a mathematical model of
+0.0279634550	a master
+0.0278908802	a combination of
+0.0278768301	distribution of
+0.0278000179	sites on
+0.0277934036	response to
+0.0276205157	thought to
+0.0275866191	the rate of
+0.0275398871	expression for
+0.0275361733	the mean first
+0.0275022366	group of
+0.0274534278	sensing by
+0.0273946043	obtained by
+0.0273142725	in fact
+0.0271603033	the context of
+0.0271029211	fluctuations in
+0.0270985795	proposed to
+0.0270866191	the distribution of
+0.0270475015	as well
+0.0270034184	set of
+0.0269231113	stability of
+0.0269054485	to derive
+0.0268830443	important for
+0.0266941728	resulting in
+0.0265930224	understanding of
+0.0265866191	the kinetics of
+0.0265492877	positioning of
+0.0265248656	method to
+0.0264377520	a wide
+0.0263826524	the interplay between
+0.0263772374	relative to
+0.0263549664	a mechanism for
+0.0263339435	to estimate
+0.0262089291	the absence of
+0.0258723334	the motion of
+0.0258309073	a major
+0.0257017608	a comprehensive
+0.0256530206	layer of
+0.0256128058	combination of
+0.0256080803	respect to
+0.0255470498	binding to
+0.0255286684	a range of
+0.0253853997	the importance of
+0.0253155251	to play
+0.0252441419	observed in
+0.0252089291	the existence of
+0.0252084603	the interaction between
+0.0251943275	degree of
+0.0251485239	the dependence of
+0.0250961391	consequence of
+0.0250803920	an increase in
+0.0250001762	evidence for
+0.0249583793	a set of
+0.0249024744	enough to
+0.0248516947	version of
+0.0247365906	to gain
+0.0247049664	a role in
+0.0246217300	the basis of
+0.0246024992	the precision of
+0.0245930224	description of
+0.0245867612	bound on
+0.0245828516	motion of
+0.0245791905	the probability of
+0.0245198046	this system
+0.0244665223	capacity of
+0.0244665223	operation of
+0.0243429211	regulation of
+0.0242620230	the origin of
+0.0242492877	inhibition of
+0.0241577109	the noise in
+0.0241162296	stages of
+0.0240793039	contrast to
+0.0240734269	absence of
+0.0240610590	the same time
+0.0238144691	integration of
+0.0237077300	in response to
+0.0236996333	found to
+0.0235628461	collection of
+0.0235609541	rise to
+0.0235592092	a population of
+0.0233565102	a theoretical
+0.0232732305	required to
+0.0232404665	function of
+0.0231737183	characteristics of
+0.0231191534	a random
+0.0230961937	range of
+0.0230852258	the help of
+0.0230815890	advances in
+0.0230284583	a class of
+0.0230115007	features of
+0.0229910852	arise in
+0.0229556667	a number of
+0.0228088609	data on
+0.0227982000	well as
+0.0227405697	up to
+0.0227368094	an analysis
+0.0227013299	studied in
+0.0226308530	the range of
+0.0226077783	kinetics of
+0.0226063243	appearance of
+0.0226047511	observed for
+0.0225327109	the properties of
+0.0225022897	variability in
+0.0224046463	role for
+0.0223722477	application of
+0.0223660442	the cell to
+0.0221353355	determination of
+0.0221302400	independent of
+0.0221128058	class of
+0.0220697115	relevance of
+0.0220216331	the fraction of
+0.0220216331	the efficiency of
+0.0219696180	a systematic
+0.0219464880	behavior of
+0.0219332421	kind of
+0.0218706433	addition to
+0.0217610677	variations in
+0.0217606740	occurrence of
+0.0217494986	for example
+0.0217072104	essential to
+0.0216216331	the stability of
+0.0216069258	framework to
+0.0215327109	the nature of
+0.0214934279	the analysis of
+0.0214194244	to exhibit
+0.0213400094	used by
+0.0213241109	the impact of
+0.0212944925	the evolution of
+0.0211353997	the possibility of
+0.0211131897	fraction of
+0.0210475196	the regulation of
+0.0210249930	spectrum of
+0.0208936663	teams of
+0.0208466684	prior to
+0.0207776568	noise in
+0.0207230800	the question of
+0.0207140204	transport in
+0.0206996333	a new
+0.0206646603	details of
+0.0206260993	difference in
+0.0206160852	extended to
+0.0206084603	the search time
+0.0206075660	mobility of
+0.0205327109	the behavior of
+0.0205261285	impact of
+0.0205261285	strength of
+0.0205022366	maintenance of
+0.0204694723	described as
+0.0204205366	occurs in
+0.0203850006	origins of
+0.0203052095	the movement of
+0.0202979937	lack of
+0.0202907977	emergence of
+0.0202530675	a computational
+0.0201623305	search for
+0.0200666596	basis of
+0.0200353694	the coupling between
+0.0200205968	the amount of
+0.0198301365	appears to
+0.0196365235	linked to
+0.0196259919	predictions for
+0.0196006664	equation for
+0.0195552801	a crucial
+0.0195054485	a statistical
+0.0192491841	assumed to
+0.0192405697	a few
+0.0191353355	quantification of
+0.0191302400	nature of
+0.0191063638	ratio of
+0.0190604881	importance of
+0.0190329667	a novel
+0.0190114230	probability of
+0.0187230800	the onset of
+0.0187047613	influence of
+0.0186530206	measure of
+0.0186411563	the role
+0.0185751367	segregation of
+0.0185667742	arrangement of
+0.0185261285	family of
+0.0183906388	allows for
+0.0183437117	to account
+0.0183109935	orientation of
+0.0182961821	magnitude of
+0.0182735239	the mechanism of
+0.0182504781	decrease in
+0.0180768318	a class
+0.0180758323	formation of
+0.0179231113	efficiency of
+0.0178820516	organization of
+0.0177498538	variation in
+0.0177260443	occur in
+0.0176878717	origin of
+0.0176831808	movement of
+0.0176320516	comparison of
+0.0174077628	need to
+0.0173128717	concept of
+0.0172939564	roles in
+0.0172803000	allow for
+0.0172693935	location of
+0.0172570516	series of
+0.0172520536	onset of
+0.0169657632	precision of
+0.0166789946	extension of
+0.0166789946	stage of
+0.0166694708	change in
+0.0166677659	evolution of
+0.0166598800	found in
+0.0166397638	timing of
+0.0166320516	modes of
+0.0166270536	means of
+0.0165921448	interpretation of
+0.0165644483	used as
+0.0165418468	needs to
+0.0164224729	robust to
+0.0163975571	prediction of
+0.0162492877	reduction of
+0.0160974729	duration of
+0.0160540617	together with
+0.0160498538	component of
+0.0159677659	loss of
+0.0158391682	known to
+0.0157498538	discussed in
+0.0157378181	feature of
+0.0154085135	need for
+0.0153915754	estimation of
+0.0150334268	move on
+0.0150260443	treatment of
+0.0148688512	a whole
+0.0146155697	to describe
+0.0145547495	associated to
+0.0143599431	developed to
+0.0139245642	part of
+0.0137041095	necessary to
+0.0133645728	context of
+0.0128722925	order to
+0.0128610698	necessary for
+0.0127293996	case of
+0.0117346173	and hence
+0.0117019222	possibility of
+0.0114012840	corresponding to
+0.0112148144	to move
+0.0111507368	amount of
+0.0110581467	likely to
+0.0107346173	way to
+0.0104657001	the latter
+0.0100945835	possible to
+0.0097778713	seen in
+0.0096524744	back to

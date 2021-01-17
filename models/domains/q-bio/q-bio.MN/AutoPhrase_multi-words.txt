@@ -1,0 +1,3144 @@
+0.9660460147	bacillus subtilis
+0.9653908448	signal processing
+0.9613197070	signal transduction
+0.9582463407	breast cancer
+0.9580225482	artificial intelligence
+0.9579804433	quorum sensing
+0.9565033562	mass spectrometry
+0.9554966344	detailed balance
+0.9554117226	petri net
+0.9551472104	pattern formation
+0.9534403339	heat shock
+0.9521047785	machine learning
+0.9508646297	master equation
+0.9502159088	amino acids
+0.9485324660	drosophila melanogaster
+0.9482587493	amino acid
+0.9463608313	transcription factor
+0.9455081635	statistical mechanics
+0.9449378946	fruit fly
+0.9446086039	nucleic acids
+0.9444365400	saccharomyces cerevisiae
+0.9436558991	logistic regression
+0.9435204560	ordinary differential equations
+0.9433720652	negative feedback
+0.9432549242	limit cycle
+0.9425940892	ad hoc
+0.9422542929	free energy
+0.9414196410	transcriptional regulation
+0.9412635671	plasma membrane
+0.9407035926	phase diagram
+0.9406460819	rna polymerase
+0.9399461058	markov chain
+0.9398753385	dna damage
+0.9397039355	feedback loop
+0.9390899572	shortest path
+0.9389085254	itm probe
+0.9388074571	monte carlo
+0.9379860361	information processing
+0.9363097855	genome sequencing
+0.9355949958	differential equation
+0.9354133185	alzheimer's disease
+0.9343519533	ricci curvature
+0.9342245261	escherichia coli
+0.9325137945	feedback loops
+0.9318454894	channel capacity
+0.9318317058	antithetic integral
+0.9314848363	clustering coefficient
+0.9311127537	circadian rhythms
+0.9306497278	caenorhabditis elegans
+0.9304514315	logic gates
+0.9289735874	arabidopsis thaliana
+0.9286875116	reverse engineering
+0.9277700257	preferential attachment
+0.9276639721	entropy production
+0.9257308533	statistical physics
+0.9252557827	graph theoretic
+0.9250748668	positive feedback
+0.9249493637	budding yeast
+0.9248657567	probability distributions
+0.9235790216	nitric oxide
+0.9232589129	logic gate
+0.9231654822	biologically relevant
+0.9222856406	synthetic biology
+0.9216892243	drug targets
+0.9216109716	programming language
+0.9214873611	wild type
+0.9211398100	living organisms
+0.9205454462	embryonic development
+0.9203199813	conservation laws
+0.9199254468	binding sites
+0.9197652449	systems biology
+0.9194463049	path integral
+0.9192453195	drug resistance
+0.9190484991	natural selection
+0.9190096881	deep learning
+0.9184658475	degree distribution
+0.9182207442	cell fate decisions
+0.9180040001	lower bounds
+0.9172753069	markov chains
+0.9167933314	ordinary differential
+0.9158402882	ordinary differential equation
+0.9149888456	singular perturbation
+0.9147640157	adjacency matrix
+0.9145681990	immune response
+0.9145088412	algebraic geometry
+0.9143317019	cell division
+0.9139617765	chemical reaction
+0.9137489373	kinetic proofreading
+0.9134955949	forman curvature
+0.9134859447	gene ontology
+0.9129210213	building blocks
+0.9124655344	parameter estimation
+0.9114755672	weakly reversible
+0.9113268987	linear programming
+0.9113070870	optimization problem
+0.9109773598	circadian clock
+0.9106827870	closely related
+0.9103299292	messenger rna
+0.9101698645	epidermal growth factor receptor
+0.9098695759	remain unclear
+0.9094058021	strand displacement
+0.9089412437	dynamical systems
+0.9087450314	multisite phosphorylation
+0.9086367429	linkage class
+0.9076060585	noncoding rnas
+0.9075549423	cell differentiation
+0.9073290277	competing endogenous
+0.9071987215	mass action
+0.9069169364	closed form
+0.9062894437	differential equations
+0.9058794318	stem cells
+0.9056869065	signaling pathways
+0.9048106062	vice versa
+0.9046362019	protein folding
+0.9042404695	copy numbers
+0.9040660537	phase transition
+0.9030241422	prior knowledge
+0.9028666163	input output
+0.9027131968	mutual information
+0.9023808597	circadian clocks
+0.9007115459	parameter values
+0.9006072145	cell fate
+0.9004151650	maximum likelihood
+0.8996915762	constraint satisfaction
+0.8995872294	toggle switch
+0.8995611549	power law
+0.8993812948	elephant shark
+0.8990971603	rna seq
+0.8986631453	coarse grained
+0.8984815859	drug repurposing
+0.8983754278	sensitivity analysis
+0.8978728456	negative feedback loops
+0.8977715454	mass balance
+0.8970828916	neural network
+0.8967512002	scaling laws
+0.8965734261	upper bound
+0.8962136010	stem cell
+0.8959700352	steady state
+0.8956516725	genetic oscillators
+0.8951462151	stationary distribution
+0.8949994615	lower bound
+0.8946470286	long term potentiation
+0.8944820691	degree distributions
+0.8944579202	neurodegenerative diseases
+0.8943397321	source code
+0.8938354595	starting point
+0.8934939828	wiring diagram
+0.8931156458	probability distribution
+0.8928830073	temperature compensation
+0.8926474099	cell cycle
+0.8923397201	rate equation
+0.8922075071	information theory
+0.8920436551	cell lines
+0.8911133599	chemical reactions
+0.8907332058	copy number
+0.8903355618	anti inflammatory
+0.8902014151	model checking
+0.8888961544	upper bounds
+0.8882604181	years ago
+0.8882074961	cycle arrest
+0.8880500834	dna methylation
+0.8873443967	small rnas
+0.8872996696	community detection
+0.8870686634	statistical inference
+0.8867478289	open source
+0.8860909879	autocatalytic sets
+0.8857670269	experimental observations
+0.8852547204	transcription factors
+0.8846452044	segment polarity
+0.8843867132	remains unclear
+0.8836591315	cross talk
+0.8833754390	gene regulation
+0.8829305254	` `
+0.8827826259	fission yeast
+0.8826156453	stochastically modeled
+0.8823143489	poorly understood
+0.8819060970	network topology
+0.8818275521	graph theory
+0.8812118220	piecewise linear
+0.8811177615	epithelial mesenchymal
+0.8806456792	external stimuli
+0.8802642706	higher order
+0.8801098650	elementary flux modes
+0.8788637624	rate constants
+0.8780122927	gene expression
+0.8779295805	moment closure
+0.8778832411	drug discovery
+0.8778292198	power spectrum
+0.8776323567	molecule numbers
+0.8775504483	steady states
+0.8772836902	decision making
+0.8762743196	feed forward loop
+0.8759818281	map kinase
+0.8755265278	synthetic lethal
+0.8753249007	bond graphs
+0.8750759229	neural networks
+0.8749861713	community structure
+0.8743101555	recent advances
+0.8737689073	random walks
+0.8731861767	densely connected
+0.8726051939	birth death
+0.8725890892	facilitated diffusion
+0.8725371309	long term
+0.8720867322	drug design
+0.8720518341	cell types
+0.8719172509	flux balance analysis
+0.8718237457	metabolic pathways
+0.8715288416	genome wide
+0.8715166530	high dimensional
+0.8713853006	computational biology
+0.8713731592	fixed points
+0.8713708532	fixed point
+0.8702072513	cell line
+0.8701603898	futile cycle
+0.8701535221	bow tie
+0.8697259216	enrichment analysis
+0.8691623914	erdos renyi
+0.8688796083	microarray data
+0.8688260231	genetic circuits
+0.8680863321	post translational
+0.8680724474	state space
+0.8668441813	mathematical models
+0.8662173984	coarse graining
+0.8662023859	high throughput
+0.8660992128	age related
+0.8660108183	biochemical reactions
+0.8659412394	long range
+0.8657522222	positive steady states
+0.8657208714	futile cycles
+0.8656209672	cell death
+0.8653710639	associative memory
+0.8647708047	chemical master equation
+0.8647452773	testable predictions
+0.8644717244	randomly generated
+0.8640436343	trade offs
+0.8633612669	extrinsic noise
+0.8633282031	intrinsic noise
+0.8632320310	feed forward
+0.8632319325	biochemical processes
+0.8629323239	play important roles
+0.8628808157	genetic switches
+0.8627871470	rna interference
+0.8625018870	limit cycles
+0.8622357069	network architecture
+0.8621638608	numerical simulations
+0.8619000852	stationary distributions
+0.8611972156	omics data
+0.8610947890	spatio temporal
+0.8608706604	environmental conditions
+0.8607903550	statistical significance
+0.8607281347	damage spreading
+0.8600643249	feed forward loops
+0.8598650902	single molecule
+0.8598627376	recent developments
+0.8598536072	real world
+0.8592554934	case studies
+0.8592300085	cooperative binding
+0.8592077505	lac operon
+0.8585823340	gene products
+0.8584737075	branching morphogenesis
+0.8582523188	negative feedback loop
+0.8579025366	initial condition
+0.8578700170	signaling pathway
+0.8578148082	piecewise deterministic
+0.8574105229	software package
+0.8572510070	dna replication
+0.8571473123	clustering coefficients
+0.8568781808	experimentally determined
+0.8563139821	epidermal growth factor
+0.8560242014	ppi networks
+0.8559969040	initial conditions
+0.8554475945	binding site
+0.8553553385	living cells
+0.8551615414	mass action kinetics
+0.8547303132	causal relationships
+0.8546876651	strongly endotactic
+0.8546426496	findings suggest
+0.8545660459	fine tuning
+0.8541263286	fokker planck equation
+0.8539274223	constraint based
+0.8529284980	complex balanced
+0.8528672050	semi supervised
+0.8528575642	differentially expressed
+0.8525440616	multicellular organisms
+0.8524314079	cell fate decision
+0.8519902776	biochemical reaction
+0.8509934266	experimentally observed
+0.8506636519	biochemical reaction networks
+0.8500235508	statistically significant
+0.8497599328	therapeutic targets
+0.8496481829	genome scale
+0.8492383652	chemical kinetics
+0.8487888401	fokker planck
+0.8487684779	objective function
+0.8486363238	bond graph
+0.8483378270	mathematical analysis
+0.8476495634	link prediction
+0.8476310800	information transmission
+0.8473617743	michaelis menten
+0.8469924699	low dimensional
+0.8461409220	gene regulatory
+0.8460216836	growth rate
+0.8459750294	developmental biology
+0.8457776092	graphical models
+0.8457403446	recent studies
+0.8455602357	interaction partners
+0.8453295797	duplication divergence
+0.8448294356	experimental data
+0.8446304663	markov process
+0.8444808237	quasi steady state
+0.8441332040	repurposable drugs
+0.8438577736	catalytic reaction
+0.8433423644	chemical species
+0.8426254284	binding unbinding
+0.8424575616	expression levels
+0.8419415790	long lived
+0.8416385465	phase transitions
+0.8416348613	noise reduction
+0.8414882725	toric steady states
+0.8412563457	multi scale
+0.8400669456	betweenness centrality
+0.8394118028	bacterial chemotaxis
+0.8393066895	large scale
+0.8391610246	reaction rate
+0.8391005528	cell signaling
+0.8389403518	positional information
+0.8368252966	network inference
+0.8362177344	energy consumption
+0.8359492898	network science
+0.8357684379	major challenge
+0.8355099323	nf kb
+0.8351971995	processing steps
+0.8347889484	genetic toggle switch
+0.8345298903	signal integration
+0.8340973248	population dynamics
+0.8339173148	sars cov
+0.8338463951	cell growth
+0.8335614596	detailed balanced
+0.8333910710	functionally related
+0.8333399410	gene duplication
+0.8332145089	dna looping
+0.8330557900	yeast interactome
+0.8321029593	genetic switch
+0.8320946244	kinetic parameters
+0.8318033987	scale free
+0.8316230180	phase space
+0.8312010623	small molecule
+0.8305761808	data integration
+0.8303762579	mathematical modeling
+0.8300039445	convex optimization
+0.8299388532	multi omics
+0.8298545821	multi omic
+0.8297342097	push pull
+0.8295651299	nested canalizing functions
+0.8293092812	red blood
+0.8292424354	analytical expressions
+0.8290453237	alignment quality
+0.8289889895	eukaryotic cells
+0.8286404248	experimental evidence
+0.8286265389	data sets
+0.8284331654	main result
+0.8282912866	drug combinations
+0.8274284603	lyapunov functions
+0.8270461795	enzyme kinetics
+0.8267128828	single cell
+0.8262119764	epigenetic landscape
+0.8261543377	large deviation
+0.8260975080	biological processes
+0.8259448722	evy noise
+0.8259122800	essential proteins
+0.8258642497	rare events
+0.8257959381	sustained oscillations
+0.8257486673	markov processes
+0.8254858860	flux balance
+0.8248207749	boolean functions
+0.8246006371	single cells
+0.8245680919	gene circuits
+0.8228978059	drug target
+0.8225794936	monte carlo simulations
+0.8225200442	information content
+0.8222087532	signal detection
+0.8212141801	bistable switch
+0.8210461835	reaction diffusion
+0.8210392922	special case
+0.8204050231	fano factor
+0.8202766202	post transcriptional
+0.8196488961	mathematical framework
+0.8194886026	cis regulatory
+0.8188809195	directed graphs
+0.8182303498	stochastic simulation
+0.8180724957	regulatory circuits
+0.8178790653	genetic oscillator
+0.8178623863	fundamental limits
+0.8174340805	aging related
+0.8174238697	stress response
+0.8170838189	drug development
+0.8170680795	functional modules
+0.8168491421	small world
+0.8166315232	protein interaction
+0.8163677731	signaling cascades
+0.8159563021	gradient sensing
+0.8159385940	predictive power
+0.8156040649	context specific
+0.8151127938	prediction accuracy
+0.8150007730	theoretical framework
+0.8149163221	positive feedback loops
+0.8148684151	information theoretic
+0.8148350127	noise control
+0.8147282973	dynamic range
+0.8146484538	recent progress
+0.8138390476	linear noise approximation
+0.8137112158	random matrix
+0.8136336187	microrna mediated
+0.8135875361	network reconstruction
+0.8133490656	existing methods
+0.8132657646	expression data
+0.8132448853	living systems
+0.8131072593	meta analysis
+0.8125630337	results suggest
+0.8125613670	complex systems
+0.8116622688	latent variables
+0.8110558789	expression profiles
+0.8109952892	parameter space
+0.8109495179	genetic regulatory
+0.8106136395	biological knowledge
+0.8105218044	random boolean
+0.8097009636	life cycle
+0.8092363742	previous studies
+0.8089692809	signaling molecules
+0.8087986081	noise intensity
+0.8086873519	open question
+0.8080718621	optimal control
+0.8075098876	computational cost
+0.8071711908	rate equations
+0.8068292611	p53 mdm2
+0.8061232285	network topologies
+0.8060443815	biological systems
+0.8054361867	random graphs
+0.8052823467	hierarchical structure
+0.8045926489	qualitative models
+0.8045622715	recently proposed
+0.8043654430	genetic circuit
+0.8041447740	computational complexity
+0.8037405827	social networks
+0.8036527161	low affinity
+0.8033468514	gillespie algorithm
+0.8033104130	master equations
+0.8027330472	random matrix theory
+0.8025354926	short range
+0.8022207527	edge conservation
+0.8021266146	graphical model
+0.8020885132	input signals
+0.8018452563	ligand concentration
+0.8018444808	finite state
+0.8015606412	gene expression profiles
+0.8015491059	modular structure
+0.8013303697	topological features
+0.8010630651	random boolean networks
+0.8005011100	comparative analysis
+0.8003466409	reaction rates
+0.8001154779	experimental design
+0.7999405582	biochemical systems
+0.7996732690	model reduction
+0.7994838287	genetically identical cells
+0.7993742951	mathematical modelling
+0.7992073185	recently developed
+0.7989320468	recent experiments
+0.7986513987	average sensitivity
+0.7985162082	cell fates
+0.7983264731	rate laws
+0.7979831720	noise induced
+0.7979240647	auto regulation
+0.7976977919	recently introduced
+0.7976867858	cellular signaling
+0.7966968917	agent based
+0.7962411997	pivotal role
+0.7958443167	mathematical model
+0.7956289624	protein structure
+0.7952315614	network alignment
+0.7949346424	cellular processes
+0.7945405092	maximum entropy
+0.7941123700	highly connected
+0.7938069737	population level
+0.7936825667	centrality measures
+0.7936086932	protein protein interaction
+0.7935662632	genetic toggle
+0.7931658103	quasi potential
+0.7931253775	enzymatic reactions
+0.7928534444	regulatory networks
+0.7926327736	protein levels
+0.7924207964	network theory
+0.7920750434	expression patterns
+0.7914201025	nested canalizing
+0.7912877226	biomolecular systems
+0.7909526885	transition rates
+0.7904859952	protein interaction networks
+0.7903807482	protein synthesis
+0.7902046915	biochemical networks
+0.7901290908	boolean models
+0.7900708176	feedback regulation
+0.7894618135	design principles
+0.7893106873	computational tools
+0.7892892356	genetically identical
+0.7891183823	cell populations
+0.7886528559	experimental results
+0.7883442956	stochastic simulations
+0.7880061384	sars cov 2
+0.7877643038	boolean networks
+0.7872333105	large variety
+0.7870235644	physical systems
+0.7865698917	cellular decision making
+0.7864265965	living cell
+0.7860653399	cell surface
+0.7860437956	genetic regulatory networks
+0.7858734386	cell type
+0.7858329153	biological functions
+0.7857439402	gene expression data
+0.7855686307	biological process
+0.7852215151	rule based
+0.7851990691	mesenchymal transition
+0.7846361932	transcription initiation
+0.7845587699	critical point
+0.7840234203	diffusion based
+0.7837061526	potential landscape
+0.7836696461	protein degradation
+0.7827500586	small numbers
+0.7819255632	data set
+0.7815014454	human interactome
+0.7808978567	gene set
+0.7804322293	rna sequences
+0.7801474886	oscillatory behavior
+0.7800631403	dna binding
+0.7773662644	information flow
+0.7771209400	information transfer
+0.7762582842	directed networks
+0.7761995732	short term
+0.7757282790	signal propagation
+0.7756051739	kinetic monte carlo
+0.7751242009	computational modeling
+0.7750518343	ligand receptor
+0.7749752996	exhibits bistability
+0.7742025492	stationary state
+0.7735986809	ppi network
+0.7734058318	null model
+0.7733518220	bcl 2
+0.7730998171	michaelis menten kinetics
+0.7722245825	transition paths
+0.7715765707	computational methods
+0.7708897974	differentially expressed genes
+0.7707823107	low degree
+0.7698610739	cancer therapy
+0.7694809876	gene regulatory network
+0.7692614847	complex dynamics
+0.7692544061	bifurcation analysis
+0.7691967099	state transition
+0.7689585710	sars cov 2 infection
+0.7685775369	stochastic simulation algorithm
+0.7684510973	genetic regulation
+0.7684079616	genomic data
+0.7679537421	statistical analysis
+0.7679335584	network motifs
+0.7669474094	metabolic networks
+0.7666052492	mirna mediated
+0.7663619390	protein complexes
+0.7662840943	order moments
+0.7659690485	stochastic chemical kinetics
+0.7653285505	intermediate species
+0.7647702939	real networks
+0.7643831003	boolean network models
+0.7637853571	cancer types
+0.7637125899	stochastic process
+0.7636895592	gaussian noise
+0.7635435657	site phosphorylation
+0.7630789283	structural features
+0.7629763134	finite size
+0.7629600238	dna sequence
+0.7626179545	interaction networks
+0.7624257892	product number
+0.7616352110	cell biology
+0.7616298247	protein kinase
+0.7612747923	evolutionary dynamics
+0.7611451110	reaction networks
+0.7609841952	metabolic pathway
+0.7603782690	transcriptional bursting
+0.7602488198	stochastic processes
+0.7601160680	interacting proteins
+0.7600479040	high quality
+0.7599561039	protein protein interactions
+0.7598766692	mammalian cells
+0.7598222875	varying signals
+0.7598077669	kinetic models
+0.7596417676	takes into account
+0.7590952424	inference methods
+0.7584830712	biological mechanisms
+0.7584388748	developmental processes
+0.7578956206	chemical reaction networks
+0.7568563169	network analysis
+0.7567418290	yeast cell cycle
+0.7566454609	anti cancer
+0.7565385508	transcriptional regulatory
+0.7560090006	cancer stem cells
+0.7544593832	cancer cells
+0.7543990381	boolean network
+0.7540945979	analysis reveals
+0.7539157273	chemical concentrations
+0.7527763028	analytical results
+0.7525400606	post transcriptional regulation
+0.7521733651	taking into account
+0.7517573685	transcription rate
+0.7512491774	interaction data
+0.7506709701	quantitative analysis
+0.7500188038	kinetic rates
+0.7498119807	functional interactions
+0.7497762422	process information
+0.7490006946	topological properties
+0.7488181918	proposed approach
+0.7483115964	function prediction
+0.7482621172	biological networks
+0.7480638364	gene regulatory networks
+0.7479839722	higher level
+0.7479228056	regulatory interactions
+0.7476210199	theoretical predictions
+0.7472504367	chemical reaction network theory
+0.7469671996	continuous time markov chain
+0.7469577191	external perturbations
+0.7469073183	functional organization
+0.7464835504	stable states
+0.7460250856	metabolic fluxes
+0.7460155726	cell reprogramming
+0.7454196582	genetic information
+0.7453804255	degrees of freedom
+0.7451757092	condition specific
+0.7449210287	genetic regulatory network
+0.7445953054	flux analysis
+0.7445743067	specific binding
+0.7443964630	human genome
+0.7442546325	phosphorylation cycle
+0.7436131668	model selection
+0.7428556463	signalling pathway
+0.7426879076	graph theoretical
+0.7425750052	control theory
+0.7423781646	transcriptional regulatory networks
+0.7418291530	human proteins
+0.7415165150	cellular metabolism
+0.7410123916	high scoring
+0.7407328641	genome scale metabolic
+0.7403525310	stochastic effects
+0.7402645954	random fluctuations
+0.7401309007	kinetic model
+0.7398916688	proposed method
+0.7397724576	cell population
+0.7395188534	gene circuit
+0.7390729925	network modularity
+0.7388638083	random graph
+0.7380335675	simplified model
+0.7374409286	energy cost
+0.7371455873	external signals
+0.7367843140	synthetic genetic
+0.7366456800	gene transcription
+0.7363262519	stochastic fluctuations
+0.7359565588	biological function
+0.7358253821	protein interaction network
+0.7357958329	hiv 1
+0.7356067921	complex networks
+0.7355205709	network structure
+0.7353123159	interaction graph
+0.7350853475	stochastic gene expression
+0.7344966881	global attractor
+0.7337286490	regulatory motifs
+0.7332096712	coding genes
+0.7331754776	biochemical signaling
+0.7330483754	intracellular signaling
+0.7324192341	network structures
+0.7323659128	quasi steady state approximation
+0.7322790154	real life
+0.7321602749	mass action systems
+0.7316411425	numerical results
+0.7315936183	genetic networks
+0.7315488899	stability analysis
+0.7301361168	published models
+0.7295154658	based approach
+0.7292718417	yeast saccharomyces cerevisiae
+0.7292304468	growth factor
+0.7287091335	cell proliferation
+0.7278465547	energy landscape
+0.7270649698	disease gene
+0.7268599890	generalized mass action
+0.7267303741	fate decision
+0.7265812253	related genes
+0.7264286837	high accuracy
+0.7258786644	transition state
+0.7258354384	data driven
+0.7253351658	case study
+0.7252923861	individual cells
+0.7250757123	stochastic reaction networks
+0.7248558853	synthetic gene
+0.7244991339	balance analysis
+0.7244947444	dynamical models
+0.7244563310	enzymatic networks
+0.7243521727	flux distributions
+0.7240593714	systems level
+0.7239952192	regulatory relationships
+0.7236478523	integral control
+0.7229778015	physiological conditions
+0.7224647018	weighted networks
+0.7222144456	host cells
+0.7216813935	empirical data
+0.7216220392	gene expression patterns
+0.7213680048	model predicts
+0.7208608140	high order
+0.7204521193	functional units
+0.7202985543	transcription factor binding
+0.7201780220	transcriptional activation
+0.7196062976	multi stability
+0.7194950669	transcriptional noise
+0.7192003972	regulatory functions
+0.7189645783	protein concentrations
+0.7188802690	single cell level
+0.7186393853	expression level
+0.7185892233	complex formation
+0.7185553566	steady state distribution
+0.7183919537	simulation results
+0.7182563890	protein protein interaction networks
+0.7168287706	physical interactions
+0.7156778493	chemical reaction network
+0.7154549648	multiple binding sites
+0.7153182345	biological implications
+0.7149920536	fate decisions
+0.7147673936	rule based models
+0.7141245336	real biological
+0.7139314467	rule based modeling
+0.7135563412	functional role
+0.7132600752	self assembly
+0.7129622856	cellular responses
+0.7128996919	theoretical model
+0.7126191267	cellular functions
+0.7123485762	node degree
+0.7119611266	quantitative understanding
+0.7115672279	theoretical results
+0.7095380781	protein distributions
+0.7091124574	protein production
+0.7089128399	modeling approaches
+0.7086327868	model organisms
+0.7080837939	computational models
+0.7079371203	gap gene
+0.7079073162	experimental techniques
+0.7078377932	regulatory motif
+0.7073754447	sequence based
+0.7073732241	stochastic modeling
+0.7071286392	biological phenomena
+0.7069704140	protein concentration
+0.7067717466	social network
+0.7063598341	monotone systems
+0.7051399739	metabolic flux
+0.7045520751	real world networks
+0.7044422627	theoretical models
+0.7043960268	nonlinear systems
+0.7035251673	mechanisms underlying
+0.7034531473	temporal dynamics
+0.7029689968	expression states
+0.7028828997	simple models
+0.7022466029	genetic interaction
+0.7019296163	proposed model
+0.7014836412	self organization
+0.7014302500	cancer progression
+0.7013761432	high degree
+0.7013681115	multi step
+0.7012630844	transcription translation
+0.7008309948	protein interactions
+0.7006072455	simple genetic
+0.7002901108	network models
+0.6994640134	protein binding
+0.6992219767	protein contact networks
+0.6990635447	structural properties
+0.6983278597	stability properties
+0.6981292224	reaction rate constants
+0.6979382450	degree sequence
+0.6979165825	modeling framework
+0.6978041108	chemical reaction systems
+0.6974924755	detailed analysis
+0.6974436120	signal transduction pathways
+0.6967640093	orders of magnitude
+0.6958146274	computational approaches
+0.6957499632	input signal
+0.6954021693	individual proteins
+0.6947550230	original model
+0.6947060634	discrete models
+0.6944772807	published data
+0.6944290414	biological models
+0.6940645016	interaction network
+0.6939178061	local search
+0.6936710891	reaction dynamics
+0.6936333380	cross species
+0.6933331986	reaction fluxes
+0.6931246590	self organized
+0.6930729384	minimal model
+0.6928375302	state variables
+0.6924959740	regulatory modules
+0.6922461703	reduced model
+0.6916711409	network entropy
+0.6913525050	memory functions
+0.6908619223	continuous time markov
+0.6907533767	theoretical analysis
+0.6905431114	analytic results
+0.6897441198	multiple stable
+0.6895935400	regulatory elements
+0.6891712434	based methods
+0.6891521247	gene sets
+0.6886410918	cellular environment
+0.6882288049	complex network
+0.6879581006	reaction graph
+0.6872768077	cellular systems
+0.6872717042	gene expression levels
+0.6870027474	experimental studies
+0.6865669170	model parameters
+0.6865386643	dynamical behavior
+0.6857905752	analysis shows
+0.6857321067	receptor ligand
+0.6849064686	signalling pathways
+0.6844591871	human diseases
+0.6843311565	target genes
+0.6838388968	deterministic models
+0.6837893455	evolutionary process
+0.6834692838	complex diseases
+0.6830362679	growth rates
+0.6825786670	crucial role
+0.6822835972	biological pathways
+0.6814319282	covid 19
+0.6805592292	computational approach
+0.6804525131	reaction events
+0.6804395282	network size
+0.6796567928	target drugs
+0.6794905721	recent experimental
+0.6794363675	biological information
+0.6793272070	protein sequences
+0.6791266006	output signal
+0.6791204723	cellular level
+0.6789753376	expressed genes
+0.6781968420	transmit information
+0.6781726206	target proteins
+0.6779861150	factor binding
+0.6778587417	biochemical circuits
+0.6771874648	analysis tools
+0.6771135087	results provide
+0.6769890213	p53 dynamics
+0.6766236219	cellular state
+0.6764410979	dynamical properties
+0.6763745914	network modules
+0.6752480934	functional properties
+0.6752372035	target gene
+0.6752327362	concentration robustness
+0.6732239664	low copy
+0.6731465460	network medicine
+0.6716045368	regulatory dynamics
+0.6712288663	genome scale metabolic models
+0.6709601520	statistical properties
+0.6703446287	regulatory network
+0.6701524800	results demonstrate
+0.6699316628	high performance
+0.6695906294	co occurrence
+0.6693737720	small non coding
+0.6693402249	growth factor receptor
+0.6692668270	target mrna
+0.6685378971	general framework
+0.6680184853	quasi steady
+0.6676218142	cell to cell variability
+0.6669998693	simulated data
+0.6664304387	network comparison
+0.6664092425	based models
+0.6663307899	cellular growth
+0.6662045984	bacterium escherichia
+0.6660126598	phenotypic states
+0.6658958628	potential function
+0.6653514742	chemical systems
+0.6640770150	signaling networks
+0.6620114635	protein level
+0.6617345989	stochastic models
+0.6612206274	discrete dynamical
+0.6597064880	chemical master
+0.6596445520	epidermal growth
+0.6596208502	based modelling
+0.6595354333	pathway analysis
+0.6594668972	l ltp
+0.6594621157	protein protein interaction network
+0.6592737148	toric steady
+0.6591139662	protein residue networks
+0.6585747924	biomolecular networks
+0.6583418124	regulated genes
+0.6580314939	deterministic dynamics
+0.6569798392	regulatory mechanisms
+0.6562809783	biological network alignment
+0.6557612302	non coding rna
+0.6550582850	genetic interactions
+0.6548835864	control strategies
+0.6543690886	autocatalytic networks
+0.6543372030	key role
+0.6541917429	human cells
+0.6531979323	important role
+0.6529708958	reaction systems
+0.6526673813	point of view
+0.6525996045	input noise
+0.6521330545	protein function
+0.6509696574	random networks
+0.6508179414	reaction network
+0.6504304723	dynamical model
+0.6492394230	multiple binding
+0.6487583860	cell metabolism
+0.6477794076	stochastic biochemical
+0.6477611212	proof of concept
+0.6477131167	cellular function
+0.6475266592	network motif
+0.6471613430	target protein
+0.6469059335	model describing
+0.6460103959	simulation based
+0.6451934661	metabolic reactions
+0.6451405572	gene expression dynamics
+0.6448406388	simulation algorithm
+0.6435771761	cancer genes
+0.6434208316	stochastic chemical
+0.6432394415	reaction kinetics
+0.6429643106	steady state approximation
+0.6426372234	regulatory systems
+0.6425592637	signaling network
+0.6424552391	data analysis
+0.6405015584	kinetic rate
+0.6402299995	self replicating
+0.6398571275	molecules involved
+0.6391054146	biochemical pathways
+0.6376973753	regulation of gene expression
+0.6367772272	metabolic models
+0.6367198452	complex biological
+0.6367010880	biochemical network
+0.6353065367	scale free networks
+0.6351523117	cancer metastasis
+0.6350643850	small number
+0.6349313275	high throughput data
+0.6344310615	sequence data
+0.6343256021	integral feedback
+0.6340991425	important problem
+0.6333321408	protein dna
+0.6331549952	protein structures
+0.6327359962	connected components
+0.6326748803	cellular response
+0.6325533055	computational analysis
+0.6314694625	biological data
+0.6308752472	high level
+0.6302526083	systems theory
+0.6279176925	network properties
+0.6276146498	large networks
+0.6275018602	hopf bifurcation
+0.6264906973	canalizing functions
+0.6253705615	disease genes
+0.6250614415	threshold networks
+0.6247376933	production rate
+0.6242979401	multi target
+0.6235969628	signalling networks
+0.6214799624	perturbation theory
+0.6208508150	expression profile
+0.6196831112	coefficient of variation
+0.6194642654	sufficient conditions
+0.6193232498	stochastic differential
+0.6186966291	play important
+0.6182462530	protein protein
+0.6178377117	action kinetics
+0.6172211902	protein contact
+0.6166559024	biological signaling
+0.6163344447	gene regulation networks
+0.6162915438	based approaches
+0.6156443321	network communities
+0.6153825566	metabolic network
+0.6151845240	biochemical species
+0.6146356478	binding and unbinding
+0.6145869212	protein expression
+0.6139397261	factor receptor
+0.6123303063	elementary flux
+0.6118942481	matrix theory
+0.6114186677	cellular networks
+0.6113796686	network dynamics
+0.6110904490	carlo simulations
+0.6110803841	protein phosphorylation
+0.6099484168	network based
+0.6092568265	biological network
+0.6056256615	spatial and temporal
+0.6052268008	noise in gene expression
+0.6043382452	synthetic data
+0.6041554426	stochastic model
+0.6040728154	gene networks
+0.6038785688	cellular states
+0.6033341786	solution space
+0.6023388493	protein complex
+0.6019964377	identical cells
+0.6017905315	mapk cascade
+0.6009556112	based modeling
+0.6001165814	intrinsic and extrinsic
+0.5996772712	r package
+0.5990669065	network evolution
+0.5983126831	complex models
+0.5973253456	multiple steady states
+0.5966992730	nodes and edges
+0.5955863372	mean field
+0.5954059906	model exhibits
+0.5926040975	reaction network theory
+0.5919293354	expression dynamics
+0.5910598057	genetic network
+0.5901722504	stochastic models of gene expression
+0.5892889683	local and global
+0.5892286469	recent years
+0.5888547202	stochastic reaction
+0.5866810768	transcription regulation
+0.5846376659	protein coding
+0.5843122137	powerful tool
+0.5824328134	dna strand
+0.5815466090	positive and negative
+0.5808556584	self sustaining
+0.5806953902	g protein coupled
+0.5803078373	time scale separation
+0.5797364624	origin of life
+0.5787453354	small world networks
+0.5783766475	yeast saccharomyces
+0.5773753528	positive steady
+0.5768818068	wide range
+0.5754657950	transduction pathways
+0.5749160455	maximum number
+0.5744128773	biological and social
+0.5735875274	major role
+0.5714732402	the past decade
+0.5712749366	single gene
+0.5697897651	cancer cell
+0.5697628799	broad range
+0.5690987750	differential gene
+0.5677875486	cell to cell
+0.5660679719	blood cell
+0.5651663936	sufficient condition
+0.5651351818	cellular decision
+0.5637618673	series data
+0.5628196191	cancer stem
+0.5627276305	network model
+0.5625241854	stationary probability
+0.5624019715	protein copy
+0.5607507765	gene function
+0.5587151360	deterministic and stochastic
+0.5584823692	gene co expression
+0.5563260958	paper presents
+0.5557181459	mrna and protein
+0.5525440186	large molecules
+0.5505449505	theoretic approach
+0.5496169029	endotactic networks
+0.5496039465	state ideal
+0.5493668192	computational systems
+0.5484757216	structure and function
+0.5479952990	dynamical networks
+0.5475330105	non trivial
+0.5460771924	network biology
+0.5458909077	linear noise
+0.5437658299	stochastic systems
+0.5425670736	dynamic network
+0.5423078362	vitamin d
+0.5419187832	most probable
+0.5414312561	based analysis
+0.5402078655	protein residue
+0.5401948813	average number
+0.5400837120	cell state
+0.5400766961	gene interactions
+0.5391993768	so called
+0.5370723360	stochastic dynamics
+0.5354082577	network level
+0.5344212201	total number
+0.5325497171	global network
+0.5301028307	molecular biology
+0.5260765658	results obtained
+0.5257847500	network approach
+0.5256833133	de novo
+0.5251095413	cell cycle network
+0.5235451667	boolean model
+0.5189678028	boolean network model
+0.5172394869	chemical networks
+0.5159137893	population of cells
+0.5105181873	gene copy
+0.5083809363	statistical model
+0.5082851412	structure and dynamics
+0.5069423912	cell cell
+0.5068385346	gene network
+0.5047263311	gene expression noise
+0.5038678917	cell level
+0.5021826559	time series data
+0.4991448467	self regulating
+0.4985648496	good agreement
+0.4984304410	protein networks
+0.4946624766	et al
+0.4942858523	expression noise
+0.4941667807	whole genome
+0.4924630916	side effects
+0.4906155104	yeast protein
+0.4896563350	stable steady
+0.4881624948	small networks
+0.4880942336	trade off
+0.4880672944	network modeling
+0.4877114549	sets of genes
+0.4874055917	networks exhibit
+0.4867360124	interactions between genes
+0.4856603478	patterns of gene
+0.4839439377	take place
+0.4836751051	human cell
+0.4828345671	$ leaping
+0.4790187533	complex regulatory
+0.4788961083	positive and negative feedback
+0.4788369649	gene gene
+0.4784657145	over represented
+0.4781156620	to noise ratio
+0.4773299934	important roles
+0.4760864997	well suited
+0.4738083679	first order
+0.4723032581	molecular communication
+0.4710080081	contact networks
+0.4707404395	response to external
+0.4700100695	stochastic models of gene
+0.4696585302	co regulated
+0.4684201331	time consuming
+0.4673966276	human protein
+0.4670579391	well established
+0.4669437844	time varying
+0.4668910776	co expressed
+0.4666222528	an open source
+0.4664418146	type 1
+0.4663080819	pathway network
+0.4656738009	stochastic gene
+0.4653837280	protein signaling
+0.4629169660	three dimensional
+0.4609184580	time scales
+0.4597858887	nf \ kappa b
+0.4597849185	p values
+0.4581202757	go terms
+0.4543371106	= 0
+0.4543321128	well characterized
+0.4540474968	non equilibrium
+0.4528773299	network community
+0.4526544378	knock out
+0.4516707018	\ em
+0.4488587404	specific metabolic
+0.4485370103	relative importance of
+0.4472462970	\ emph
+0.4470623711	time series
+0.4464686210	random network
+0.4464240104	molecular dynamics
+0.4460169192	large numbers
+0.4455725020	deficiency zero
+0.4453418329	\ beta
+0.4437604897	an information theoretic
+0.4417163921	first passage
+0.4394179712	\ epsilon
+0.4380967665	a case study
+0.4362413657	\ textit
+0.4350858764	this paper presents
+0.4339457604	top down
+0.4288456774	scale models
+0.4279459252	in recent years
+0.4263270728	gene interaction
+0.4261707018	\ gamma
+0.4260146687	\ nu
+0.4259140722	publicly available
+0.4227959327	\ b eta
+0.4197745285	transcriptional network
+0.4185039145	signaling systems
+0.4147421109	state distribution
+0.4143816880	\ alpha
+0.4112321534	number of variables
+0.4097917593	necessary condition
+0.4064698229	underlying network
+0.4056740407	residue networks
+0.4053568685	freely available
+0.4051651223	based model
+0.4032348408	t cells
+0.4011033496	ca2 +
+0.4008980335	take into account
+0.4001472080	model based
+0.3974626194	a hopf bifurcation
+0.3972622428	non stationary
+0.3967454884	t cell
+0.3962399824	time course data
+0.3961248614	\ mathcal
+0.3958027442	time dependent
+0.3940266852	network data
+0.3915499699	metabolic model
+0.3915264868	+ 1
+0.3909473387	a powerful tool
+0.3889973432	well defined
+0.3889701624	does not depend
+0.3868737009	control networks
+0.3867700949	into account
+0.3867462947	two dimensional
+0.3865370020	last decade
+0.3852372322	protein network
+0.3846820518	the chemical master equation
+0.3822276433	$ \ mathcal
+0.3772228580	protein coupled
+0.3767115022	g \ alpha
+0.3763491204	in silico
+0.3741426440	simple model
+0.3726211817	range of parameters
+0.3723987020	there exist
+0.3723828810	model networks
+0.3686345229	type 2
+0.3676863915	stochastic analysis
+0.3676228603	sufficient condition for
+0.3655782898	cross talk between
+0.3654624778	models of gene regulatory
+0.3638491278	non linear
+0.3638481777	first step
+0.3635524518	model systems
+0.3632902854	a coarse grained
+0.3627072507	faster than
+0.3622002250	number of nodes
+0.3603250901	complete set of
+0.3598611645	$ \ tau
+0.3586763264	data obtained
+0.3565688068	widely used
+0.3550758815	model of gene expression
+0.3534030098	sufficient conditions for
+0.3523886341	well studied
+0.3516727558	evolution of complex
+0.3503892743	this thesis
+0.3498002164	1 \ alpha
+0.3487170678	mutual information between
+0.3485475961	number of molecules
+0.3477068412	the yeast cell
+0.3465622572	non coding
+0.3461776371	the lac operon
+0.3443960264	not well understood
+0.3435451360	co expression
+0.3419560921	bottom up
+0.3416159974	second order
+0.3414841196	diffusion model
+0.3404252056	e m
+0.3380849517	models of biochemical
+0.3380724200	commonly used
+0.3373958802	large numbers of
+0.3369411642	does not require
+0.3361354246	insight into
+0.3361180467	conformational changes
+0.3359275131	switch like
+0.3358542183	shed light
+0.3350590798	a wide range
+0.3333502069	set of parameters
+0.3329832228	decomposed into
+0.3316229366	time scale
+0.3313085332	dynamics of genetic
+0.3297370224	\ tau
+0.3265621201	number of states
+0.3264980731	this paper
+0.3254156227	$ \ beta
+0.3249054805	continuous time
+0.3230094782	previous work
+0.3227304805	two component
+0.3218980503	the present study
+0.3213805987	non gaussian
+0.3208143743	with mass action kinetics
+0.3197829986	equation model
+0.3194853776	give rise
+0.3189036543	wide variety of
+0.3186729935	insights into
+0.3163725168	regulation networks
+0.3162425568	number of proteins
+0.3162296950	a computational model
+0.3157982198	a pivotal role
+0.3127263863	b cells
+0.3113763180	a minimal model
+0.3107289141	regulating gene
+0.3023191683	robust against
+0.3009337854	relationship between
+0.3009261792	s systems
+0.3004381013	a mathematical model
+0.3001313215	regulatory gene
+0.2991328183	models of gene
+0.2984150311	number of interactions
+0.2978167168	number of genes
+0.2966166865	molecular interaction
+0.2963507563	this article
+0.2961702172	number of cells
+0.2953457642	complex reaction
+0.2933680312	a power law
+0.2930007216	a general framework
+0.2904055703	control of gene
+0.2890730747	taken together
+0.2888897464	models of gene expression
+0.2885959021	in other words
+0.2881488206	$ \ alpha
+0.2881365847	statistical properties of
+0.2878049165	specific growth
+0.2870484663	mean and variance
+0.2854988538	necessary and sufficient
+0.2851268837	discriminate between
+0.2845905470	\ delta
+0.2839460854	action systems
+0.2835410083	a negative feedback loop
+0.2832611670	$ \ gamma
+0.2819683904	the segment polarity
+0.2819443025	small number of
+0.2818171757	^ 2
+0.2818058212	the art methods
+0.2814171803	in vitro
+0.2813996499	doing so
+0.2812302694	important roles in
+0.2805707742	better understand
+0.2797681386	well understood
+0.2794619879	$ \ epsilon
+0.2787574634	regulation of gene
+0.2786278478	gives rise
+0.2780477718	stochastic nature of
+0.2779228292	the yeast cell cycle
+0.2770679425	co expression networks
+0.2764963670	co expression network
+0.2761869071	= 2
+0.2743929387	structure of complex
+0.2737368944	computational model
+0.2733287319	step towards
+0.2731670449	a central role
+0.2722811057	one dimensional
+0.2722388700	biological regulatory
+0.2697736515	in most cases
+0.2693973772	so far
+0.2675967416	an algebraic
+0.2660950235	an important role
+0.2659684933	aimed at
+0.2646594623	+ +
+0.2643987601	even though
+0.2641394565	in vivo
+0.2633630441	algorithm based
+0.2624614457	sub cellular
+0.2612700578	not necessarily
+0.2611168005	at steady state
+0.2610833115	noise approximation
+0.2600355429	viewed as
+0.2596372401	10 ^
+0.2572460447	regarded as
+0.2561798350	in many cases
+0.2535993488	ranging from
+0.2535166472	interplay between
+0.2531675243	each node
+0.2519930118	depending on
+0.2507218975	the linear noise approximation
+0.2505009241	an important
+0.2470986601	coming from
+0.2469255209	molecular systems
+0.2467986214	environmental changes
+0.2463983298	broad range of
+0.2461861708	of amino acids
+0.2456951514	first passage time
+0.2440904390	robustness against
+0.2439122604	dynamical system
+0.2429258901	model of gene
+0.2427834273	the p53 mdm2
+0.2418266127	focuses on
+0.2412334149	the law of mass
+0.2409254208	more accurate
+0.2408320181	the fano factor
+0.2403659925	molecular components
+0.2390611794	a plethora
+0.2381294351	dealing with
+0.2370563338	the last decade
+0.2363795960	information about
+0.2363794351	equipped with
+0.2358774381	tradeoff between
+0.2354918945	molecular interactions
+0.2341235952	a master equation
+0.2339565650	total number of
+0.2332433203	this chapter
+0.2329738322	shed light on
+0.2329336332	method based
+0.2326163148	governed by
+0.2321231739	plug in
+0.2320245281	the other hand
+0.2308017053	a priori
+0.2283087150	present study
+0.2268586296	fixed points of
+0.2267334365	model gene
+0.2266167252	the mapk cascade
+0.2256189780	time course
+0.2248569255	properties of gene
+0.2247496790	referred to as
+0.2245288528	\ kappa b
+0.2244610397	wide range of
+0.2242546919	a feed forward
+0.2239549791	statistical analysis of
+0.2235331779	proteins involved in
+0.2233378928	whole cell
+0.2232617902	dynamics of gene
+0.2223613982	rather than
+0.2223605186	l \
+0.2222620080	out degree
+0.2221912022	serve as
+0.2193117932	of such networks
+0.2190995056	influenced by
+0.2189605174	the art
+0.2188840814	an analytical
+0.2184412022	focusing on
+0.2184058523	dynamical properties of
+0.2182285016	reverse engineering of
+0.2179871688	the wild type
+0.2175298385	from experimental data
+0.2174412022	focused on
+0.2172030673	to understand
+0.2171940450	relying on
+0.2167645123	models of cellular
+0.2159552867	arising from
+0.2150561126	a complex network
+0.2148878787	relies on
+0.2148487682	important role in
+0.2148246443	a broad range
+0.2144321724	an optimization
+0.2141985051	a major role
+0.2126958964	relationships among
+0.2126654462	a given network
+0.2100543865	focus on
+0.2083439086	the long term
+0.2083191735	large set of
+0.2080535089	novel insights
+0.2077480505	^ n
+0.2072276321	an adaptive
+0.2068999032	larger than
+0.2063655347	based on
+0.2061290648	well known
+0.2061144752	by applying
+0.2059841081	the steady state
+0.2054928585	relatively small
+0.2043616724	polynomial time
+0.2042785814	these findings
+0.2040562287	more importantly
+0.2038985778	results indicate
+0.2033559681	the cell cycle
+0.2020762155	computational model of
+0.2020367933	topological properties of
+0.2012785354	information flow in
+0.2012694461	trade off between
+0.2012015871	autocatalytic sets in
+0.2009099775	a high dimensional
+0.2006090576	in parameter space
+0.2003324896	represented as
+0.2000487932	expression network
+0.1997562995	recent work
+0.1994146243	large number of
+0.1991835163	n 2
+0.1984037303	more complex
+0.1980320183	caused by
+0.1976476388	an organism
+0.1975248325	tend to
+0.1973133535	in systems biology
+0.1971521396	an alternative
+0.1970709817	characterised by
+0.1965365665	relaxation time
+0.1965304667	relationships between
+0.1963605038	rely on
+0.1958874981	design principles of
+0.1958507426	the master equation
+0.1958050407	in living cells
+0.1957764900	of gene expression
+0.1956242240	crucial role in
+0.1942569149	more generally
+0.1936410466	gene regulatory networks from
+0.1930722164	serves as
+0.1930467814	in spite
+0.1925130123	a chemical reaction network
+0.1920814401	responsible for
+0.1918948870	lead to
+0.1912513720	a crucial role
+0.1909451461	algorithm based on
+0.1909159725	for instance
+0.1909137152	accounts for
+0.1908095453	depends on
+0.1905565032	correspond to
+0.1896241830	the maximum entropy
+0.1895600708	more efficient
+0.1895236702	an open
+0.1884825189	depend on
+0.1867660105	motivated by
+0.1866406815	characterized by
+0.1866189720	does not
+0.1866095839	a mean field
+0.1863225702	chemical reaction networks with
+0.1858377652	many methods
+0.1853808802	structural properties of
+0.1853574737	the solution space
+0.1845295760	community structure of
+0.1845268323	very low
+0.1841416536	by comparing
+0.1835701821	an effective
+0.1831430788	overlap between
+0.1830011080	gives rise to
+0.1824100358	expression networks
+0.1815590224	non zero
+0.1814060090	do not
+0.1805375400	refer to
+0.1803386596	of living organisms
+0.1803087119	this purpose
+0.1800426390	increasingly used
+0.1800018743	by introducing
+0.1794814954	\ lambda
+0.1794359620	leads to
+0.1791434937	the budding yeast
+0.1791135165	mathematical models of
+0.1790112519	a unified
+0.1789144402	g protein
+0.1780083250	the maximum number
+0.1775154812	an artificial
+0.1768303615	analysis of gene
+0.1765065796	different species
+0.1762673497	with respect
+0.1754404171	a large number
+0.1749778519	of parameter space
+0.1747765591	stochastic model for
+0.1746338747	connection between
+0.1742123586	a high level
+0.1739369840	the rate constants
+0.1737488715	a simple model
+0.1733890515	of protein protein interaction networks
+0.1731598766	to detect
+0.1731543898	reflected in
+0.1726734093	two step
+0.1724911314	an exact
+0.1721936755	opposed to
+0.1716462143	the power law
+0.1715420189	compatible with
+0.1705933621	represented by
+0.1699136589	to infer
+0.1693803743	distinguish between
+0.1688181906	these results
+0.1687608870	extracted from
+0.1684646764	a boolean network
+0.1682669761	in gene regulatory networks
+0.1679753632	these ideas
+0.1679116820	accompanied by
+0.1676945820	inspired by
+0.1672607025	the state space
+0.1670705131	key role in
+0.1658773981	a small number
+0.1653043487	boolean model of
+0.1648224151	very small
+0.1646863906	the design principles
+0.1643571839	subjected to
+0.1642548701	knowledge about
+0.1639693410	affected by
+0.1639269641	belonging to
+0.1631102480	probability distribution of
+0.1630794637	give rise to
+0.1626032207	comment on
+0.1619751496	a single
+0.1616325220	this review
+0.1616260844	n ^
+0.1615203993	an integrative
+0.1615095666	subject to
+0.1614982505	probability distributions of
+0.1614378592	kappa b
+0.1614105447	new insights
+0.1608029906	stochastic dynamics of
+0.1607017158	to reconstruct
+0.1603762875	many genes
+0.1602583126	intrinsic noise in
+0.1596818128	new results
+0.1595316891	molecular species
+0.1594664391	molecular level
+0.1590740141	a scalable
+0.1587563757	the total number
+0.1583380892	two state
+0.1579568140	system level
+0.1578982837	at least
+0.1578895313	long time
+0.1574476630	based upon
+0.1574465160	all cases
+0.1573387252	molecular reactions
+0.1570225758	whether or not
+0.1570122802	a single gene
+0.1566735287	supported by
+0.1563815780	binding sites in
+0.1563159195	stochastic fluctuations in
+0.1560685433	b cell
+0.1556608496	similarities between
+0.1553539712	this problem
+0.1550557187	corresponds to
+0.1547623628	interaction between
+0.1546394187	belong to
+0.1542991861	higher than
+0.1539051266	the chemical master
+0.1530069366	discrete time
+0.1519122098	mean first
+0.1516409315	kinetic model of
+0.1515678601	this issue
+0.1510900616	an efficient
+0.1502774224	a gene regulatory network
+0.1498889585	relations between
+0.1494745825	the output signal
+0.1489851486	in practice
+0.1480723440	other hand
+0.1478844032	consistent with
+0.1478603863	interactions between
+0.1473588832	to better understand
+0.1467586269	more general
+0.1463805991	mathematical model of
+0.1462727330	stochastic models of
+0.1462535952	used to define
+0.1461876506	passage time
+0.1460755060	several examples
+0.1459091459	nf \
+0.1456735311	followed by
+0.1447874335	driven by
+0.1442675584	model based on
+0.1441467314	associated genes
+0.1440338191	the input signal
+0.1437113112	of protein protein interactions
+0.1434935161	correlation time
+0.1434411230	a convex
+0.1432343149	to identify
+0.1430619212	this end
+0.1429833632	a population of cells
+0.1428546558	to address
+0.1425104288	correlations between
+0.1423404870	very large
+0.1423327820	the linear noise
+0.1422962136	determined by
+0.1421777983	more stable
+0.1421753013	compared to
+0.1420740724	boolean networks with
+0.1419966777	the results obtained
+0.1419617688	also demonstrate
+0.1411678010	if and only if
+0.1410292072	sub networks
+0.1409185585	acts as
+0.1402296277	two distinct
+0.1401240523	most likely
+0.1401046153	$ \
+0.1399317771	system size
+0.1398565948	a large scale
+0.1395885320	an application
+0.1392202269	emphasis on
+0.1391013632	reaction networks with
+0.1384531767	triggered by
+0.1383983449	the input output
+0.1381206038	differences between
+0.1381139253	correlation between
+0.1377462955	$ f
+0.1376873351	$ n
+0.1375538678	both cases
+0.1372472485	crosstalk between
+0.1370389813	applied to
+0.1369462188	information processing in
+0.1366495727	most common
+0.1364983010	more robust
+0.1363783797	less than
+0.1362600143	stochastic simulations of
+0.1360437413	interactions among
+0.1357833391	different conditions
+0.1356782489	two main
+0.1354837323	a scale free
+0.1352352043	in protein protein interaction
+0.1347403089	to ensure
+0.1345267380	sub network
+0.1343646144	this result
+0.1342546489	act as
+0.1341900697	large class of
+0.1339095762	an optimal
+0.1338178513	an explicit
+0.1337195728	leading to
+0.1336905783	link between
+0.1335706460	imposed by
+0.1335413680	steady states of
+0.1334772178	a simple
+0.1332480848	this study
+0.1331070067	of cancer cells
+0.1324413169	consisting of
+0.1320009347	such as cancer
+0.1315891414	2 +
+0.1304354832	the scale free
+0.1300353299	starting from
+0.1295081794	regulated by
+0.1292431251	led to
+0.1291761418	balance between
+0.1291580000	to obtain
+0.1289315175	derived from
+0.1287804070	time evolution
+0.1286238665	such systems
+0.1284823303	relation between
+0.1277230018	at low
+0.1275794730	generated by
+0.1274422432	also discuss
+0.1273205485	able to
+0.1272729358	system parameters
+0.1271840505	plethora of
+0.1271206444	two component system
+0.1270179512	of protein protein interaction
+0.1267819875	copy number of
+0.1266615709	to quantify
+0.1265589139	distance between
+0.1265254667	as well as
+0.1261317601	dominated by
+0.1260816691	an individual
+0.1258948558	qualitatively different
+0.1257884331	modulated by
+0.1256596244	computation time
+0.1247171022	$ g
+0.1246598888	achieved by
+0.1246320264	among genes
+0.1244383740	in addition
+0.1244243094	according to
+0.1243726180	a metabolic network
+0.1241403219	a key role in
+0.1240887202	expression levels of
+0.1240882608	close to
+0.1239231242	metabolic network of
+0.1239105072	molecular processes
+0.1238157866	due to
+0.1238090909	associations between
+0.1236760557	these conditions
+0.1236173188	in turn
+0.1235271364	interpreted as
+0.1231952336	these features
+0.1230857263	contribute to
+0.1230687917	attributed to
+0.1229671022	$ p
+0.1229259194	these properties
+0.1228967040	a two step
+0.1227529883	the metabolic network
+0.1224846393	two stable
+0.1222918708	to assess
+0.1220560791	between genes
+0.1219607194	molecular networks
+0.1214697864	obtained from
+0.1210340266	method uses
+0.1207068475	modeled as
+0.1206326103	steady states in
+0.1204228083	illustrated using
+0.1204063012	new methods
+0.1201466694	minimal model of
+0.1200184624	better than
+0.1199738732	these modules
+0.1199224431	many biological
+0.1196524196	not require
+0.1195041612	system dynamics
+0.1194334208	molecular signaling
+0.1194197469	an algorithm
+0.1194085383	these methods
+0.1191857344	stochastic model of
+0.1191147608	this question
+0.1190585744	to date
+0.1188405841	controlled by
+0.1187115887	the parameter space
+0.1185003965	interact with
+0.1184074713	respect to
+0.1183328353	each other
+0.1183130907	simple model of
+0.1183052383	each reaction
+0.1181708243	of gene regulatory networks
+0.1177901052	molecular noise
+0.1177597972	not only
+0.1177137136	also provide
+0.1176072985	molecular mechanisms
+0.1173531511	presented here
+0.1167353017	gene co
+0.1167103443	connections between
+0.1165589707	also present
+0.1162871026	deal with
+0.1160428397	similarity between
+0.1160014632	at http
+0.1157228713	involved in
+0.1156503324	the free energy
+0.1155134108	difference between
+0.1154679649	a reaction network
+0.1154387230	spite of
+0.1153899876	transitions between
+0.1152152005	this method
+0.1151572461	other proteins
+0.1151202782	an important role in
+0.1151037689	degree distribution of
+0.1147306956	by adding
+0.1146235040	these models
+0.1144517969	this framework
+0.1143961701	even if
+0.1138508573	an equilibrium
+0.1135362861	agreement with
+0.1134046119	$ k
+0.1131211296	impact on
+0.1127576227	these systems
+0.1126848979	network model of
+0.1126587576	to extract
+0.1125164625	each cell
+0.1124146185	an arbitrary
+0.1119794537	these approaches
+0.1115394747	a general
+0.1112467126	available data
+0.1111763466	of protein protein
+0.1107414762	one or more
+0.1103664266	these questions
+0.1103110638	converge to
+0.1101342941	a better understanding
+0.1097518243	number of
+0.1097428142	an extensive
+0.1094025762	widely used to
+0.1091027529	arises from
+0.1086894858	both synthetic
+0.1085532217	to generate
+0.1082958391	well described
+0.1081251698	with age
+0.1079966795	to analyze
+0.1079611937	mediated by
+0.1077701390	two examples
+0.1077175910	to determine
+0.1072053364	by analyzing
+0.1070868758	in contrast
+0.1068565411	to compute
+0.1066973048	provided by
+0.1066418611	taking into
+0.1065727116	in cancer cells
+0.1064817617	an approximate
+0.1064229565	an interesting
+0.1057914915	consists of
+0.1057831585	more likely
+0.1055303413	to predict
+0.1054463748	consist of
+0.1052032497	a stochastic model
+0.1049200001	the degree distribution
+0.1044893767	with respect to
+0.1041295242	stochastic simulation of
+0.1041135455	this mechanism
+0.1040332298	regulatory network of
+0.1037362265	to support
+0.1037317302	such models
+0.1037114585	$ ^
+0.1035719219	a novel method
+0.1033764284	this process
+0.1031680156	for studying
+0.1030559253	most important
+0.1028248859	composed of
+0.1026032704	but also
+0.1025996504	away from
+0.1023189500	the model to
+0.1022962522	a broad range of
+0.1020108903	to study
+0.1020056817	the main
+0.1019655255	the transcription factor
+0.1018221409	the growth rate
+0.1017393220	links between
+0.1013581059	related to
+0.1013437144	new framework
+0.1012944528	a novel approach
+0.1012565011	induced by
+0.1010136064	a trade off between
+0.1010058159	results show
+0.1009597975	the mean and
+0.1007061623	dependence on
+0.1005477881	an enzyme
+0.1005074936	captured by
+0.1004873402	the large scale
+0.1004533028	associated with
+0.1003944412	in order to
+0.1003113751	to simulate
+0.1003062335	regulatory networks from
+0.1001036839	arise from
+0.0999830751	between gene expression
+0.0998984331	the mutual information
+0.0998977588	to explain
+0.0997175255	a generic
+0.0993480108	this work
+0.0992576261	gene expression in
+0.0992156675	an extended
+0.0992006003	ability to
+0.0990117790	the intrinsic noise
+0.0988149390	these processes
+0.0987149306	a negative feedback
+0.0983990515	inferred from
+0.0981739577	of cell reprogramming
+0.0981077610	this approach
+0.0980333350	this model
+0.0978831823	a single cell
+0.0977855391	capable of
+0.0977228972	coupling between
+0.0973054526	significantly more
+0.0972695795	emerge from
+0.0972492925	conditions under
+0.0972426374	the cell to
+0.0969989267	transcriptional regulation of
+0.0969880787	the law of
+0.0968121838	a chemical reaction
+0.0964329454	a central role in
+0.0964224802	immune system
+0.0961165915	an experimental
+0.0960391875	formed by
+0.0958110733	two or more
+0.0956658714	by means of
+0.0956484345	of nodes in
+0.0953776719	transition between
+0.0950032220	the network structure
+0.0949252576	this limit
+0.0947518187	switching between
+0.0947254054	of protein interaction networks
+0.0945995174	to discover
+0.0944764059	properties of
+0.0939148483	defined by
+0.0935975918	described by
+0.0935313917	participate in
+0.0933721391	emerged as
+0.0932632241	linearly with
+0.0932065307	easy to
+0.0931640585	produced by
+0.0931291574	an essential
+0.0927725476	correlate with
+0.0927576493	switch between
+0.0926984345	of cells in
+0.0926977604	compared with
+0.0926688270	the most common
+0.0925890775	protein interactions in
+0.0925658723	$ m
+0.0924799196	such as
+0.0924360968	the inference of
+0.0923645497	to produce
+0.0923375966	constraints on
+0.0922975995	an input
+0.0922767071	cells use
+0.0921854289	to evaluate
+0.0921489239	thousands of
+0.0920360968	the roles of
+0.0920360968	the task of
+0.0920097254	an integrated
+0.0919360968	the concentrations of
+0.0918944412	in terms of
+0.0918324050	an increase
+0.0914360968	the framework of
+0.0914315037	accounting for
+0.0912552211	this context
+0.0911923585	better understanding
+0.0911062251	bounds on
+0.0906075254	of genes with
+0.0904360968	the activity of
+0.0903626848	an active
+0.0903136341	gene expression with
+0.0902705732	a new method
+0.0900587226	tends to
+0.0899360968	the response of
+0.0898640320	a comprehensive
+0.0898620596	effect on
+0.0897996317	account for
+0.0893657258	required for
+0.0891087640	a source
+0.0890427480	this phenomenon
+0.0890040113	an external
+0.0889360968	the power of
+0.0889360968	the expression of
+0.0889360968	the probability of
+0.0886235241	to achieve
+0.0884860968	the system in
+0.0882500102	a gene regulatory
+0.0881865520	an extension
+0.0880404589	an additional
+0.0879360968	the parameters of
+0.0879360968	the rate of
+0.0879360968	the mechanism of
+0.0879360968	the degree of
+0.0879360968	the potential of
+0.0879360968	the process of
+0.0879360968	the size of
+0.0879360968	the network of
+0.0879360968	the sensitivity of
+0.0877313232	$ c
+0.0874393033	light on
+0.0874087284	amenable to
+0.0870902752	regulatory networks with
+0.0870360968	the model also
+0.0870199370	obtained by
+0.0869360968	a network of
+0.0869360968	the concentration of
+0.0869360968	the order of
+0.0865561315	aims to
+0.0864341267	difficult to
+0.0862500175	over time
+0.0862279697	to construct
+0.0860079659	a large class of
+0.0859980027	modeled by
+0.0859360968	the potential to
+0.0859360968	the length of
+0.0859360968	the binding of
+0.0859360968	the synthesis of
+0.0859360968	the implications of
+0.0859151808	this effect
+0.0857500175	more than
+0.0857479743	the most important
+0.0856864836	far from
+0.0855013109	correlates with
+0.0854263319	implications for
+0.0854190323	of different species
+0.0853606457	an enzymatic
+0.0853453563	used to model
+0.0851881660	communication between
+0.0851821759	respond to
+0.0851248897	combined with
+0.0850360968	a sequence of
+0.0849879469	a trade off
+0.0849360968	the knowledge of
+0.0849360968	the theory of
+0.0849197232	encoded in
+0.0849085243	a wide range of
+0.0848368546	contributes to
+0.0848029145	this task
+0.0847792030	the origin of life
+0.0846852661	network models of
+0.0846765355	correlated with
+0.0846379169	by integrating
+0.0845360968	the focus of
+0.0844790538	$ r
+0.0839360968	the components of
+0.0839360968	the question of
+0.0836935560	used to
+0.0836779697	to solve
+0.0836675205	considered as
+0.0836548188	to infinity
+0.0835360968	the predictions of
+0.0832902384	this challenge
+0.0832866043	by combining
+0.0831472604	many cellular
+0.0830206910	these states
+0.0828016763	this hypothesis
+0.0827740535	to avoid
+0.0826689217	to perform
+0.0825360968	the result of
+0.0825360968	the network to
+0.0824805937	new approach
+0.0824407696	at least one
+0.0823549994	this procedure
+0.0821703290	characterization of
+0.0821117870	involved in many
+0.0820869378	applicable to
+0.0819433397	dependent on
+0.0819360968	the system to
+0.0819360968	the growth of
+0.0819360968	a system of
+0.0818234278	by studying
+0.0818039065	a new approach
+0.0816780452	an overview
+0.0815360968	the course of
+0.0815360968	the production of
+0.0815360968	the simulation of
+0.0814429698	to elucidate
+0.0812692173	between proteins
+0.0811973423	modelled as
+0.0808260020	in cell signaling
+0.0807069271	analysis of
+0.0806299392	kinds of
+0.0805360968	the kinetics of
+0.0805360968	the selection of
+0.0805278829	rise to
+0.0803459000	one way
+0.0802327074	defined as
+0.0802283349	a key
+0.0797705752	a network model
+0.0797666157	a large number of
+0.0797571688	all other
+0.0795575327	to investigate
+0.0792784950	an initial
+0.0791574978	the community structure
+0.0791377722	introduction to
+0.0788071516	data from
+0.0785204066	shown to
+0.0785150302	framework for
+0.0784216416	a novel
+0.0783999977	effects on
+0.0783356502	an evolutionary
+0.0782822628	essential for
+0.0781072594	to represent
+0.0778946421	much more
+0.0778572610	influence on
+0.0773334083	these parameters
+0.0770614813	believed to
+0.0770456995	to estimate
+0.0768688148	biological system
+0.0768134938	converges to
+0.0767901070	experiments on
+0.0767260746	a large
+0.0766170584	this type
+0.0761547943	two types
+0.0761466268	set of
+0.0761052233	to improve
+0.0760902524	in fact
+0.0760492421	to explore
+0.0760027795	exposed to
+0.0759877666	responds to
+0.0759319616	quantified by
+0.0759090616	a major role in
+0.0756700039	used to study
+0.0755753495	introduced by
+0.0755471429	for identifying
+0.0752175572	this finding
+0.0751127387	with increasing
+0.0750634938	analogous to
+0.0750051976	to discriminate
+0.0749291580	ideas from
+0.0748745738	a vast
+0.0745649480	prevalence of
+0.0744851125	a unique
+0.0742718271	explanation for
+0.0742114577	the probability distribution
+0.0741556724	the reaction rate
+0.0738245987	by showing
+0.0737690927	models with
+0.0737037861	identified as
+0.0736768031	result from
+0.0735828657	the molecular mechanisms
+0.0735479709	tested on
+0.0733820353	this case
+0.0733523212	the network topology
+0.0732777651	the same
+0.0732350631	for predicting
+0.0732330883	a major
+0.0731114644	at least two
+0.0729474784	the number of molecules
+0.0729238277	many complex
+0.0727296222	examples from
+0.0726138721	a fundamental
+0.0724796222	transition from
+0.0724268261	this class
+0.0723256114	to enable
+0.0722269485	a crucial
+0.0721699887	networks with
+0.0721162340	a broad
+0.0721006772	mechanism for
+0.0720030963	of such models
+0.0719390193	limited by
+0.0718584609	to match
+0.0718284160	processes such as
+0.0716993228	shaped by
+0.0716717674	this property
+0.0716591889	to characterize
+0.0715468372	to enhance
+0.0713524069	but only
+0.0711819353	a wide variety of
+0.0710850157	together with
+0.0708715542	illustrated by
+0.0708645728	to test
+0.0707318570	approach to
+0.0704766536	systems with
+0.0704422642	to derive
+0.0703897244	to uncover
+0.0703022648	the possibility
+0.0702922802	aspects of
+0.0702008527	tool for
+0.0700347956	to examine
+0.0699159894	solely on
+0.0697279987	to illustrate
+0.0696849380	to treat
+0.0696723483	the original
+0.0694435811	to promote
+0.0694125633	the fact
+0.0694005935	fraction of
+0.0692960314	only if
+0.0691589447	to observe
+0.0689966547	state of
+0.0688064009	a common
+0.0687847115	basis for
+0.0683436535	to develop
+0.0680979888	two types of
+0.0680961419	a sparse
+0.0679831345	regardless of
+0.0679482124	the molecular level
+0.0677725109	different types
+0.0677245499	crucial for
+0.0677089899	a systematic
+0.0676944796	method for
+0.0674404839	sensitive to
+0.0673961797	hundreds of
+0.0673301227	to induce
+0.0671267918	this theory
+0.0670467791	to exploit
+0.0669958762	foundation for
+0.0669702830	methods for
+0.0669575648	research on
+0.0669535017	to recover
+0.0666575971	the dynamical properties
+0.0662416852	more than one
+0.0662315977	presence of
+0.0662012135	measured by
+0.0661932269	different types of
+0.0660050235	to create
+0.0659933380	all possible
+0.0659063503	to capture
+0.0658673676	quantification of
+0.0658315492	one such
+0.0657383626	$ s
+0.0655542486	conditions for
+0.0653514317	for simulating
+0.0653510716	a typical
+0.0651321267	to gain
+0.0651279427	structure and dynamics of
+0.0650531941	opportunities for
+0.0649746934	information on
+0.0649565048	models of
+0.0649180059	susceptible to
+0.0649113899	needed to
+0.0648820450	reaction system
+0.0647099740	results from
+0.0646253968	to implement
+0.0646251729	majority of
+0.0645167562	to transmit
+0.0644749391	a powerful
+0.0643952185	a closed
+0.0642953199	response to
+0.0642911354	information from
+0.0641813808	understanding of
+0.0641311080	class of
+0.0640312186	for designing
+0.0640232695	new model
+0.0639615432	a special
+0.0639387961	kind of
+0.0638568462	to overcome
+0.0636146843	contrary to
+0.0633040216	in spite of
+0.0632177175	to regulate
+0.0632078438	generalization of
+0.0631718951	an example
+0.0631594064	the entire
+0.0629746483	to maintain
+0.0629232693	aspect of
+0.0629070060	to guide
+0.0629027433	a suitable
+0.0628888820	for detecting
+0.0627939438	n +
+0.0627769144	to reach
+0.0627768050	to approximate
+0.0627523638	for inferring
+0.0627319551	an approach
+0.0627091655	for estimating
+0.0627026914	under certain
+0.0626249311	but not
+0.0624832853	proposed as
+0.0624212144	insensitive to
+0.0623739298	resulting from
+0.0623363601	a quantitative
+0.0621886446	then use
+0.0620690251	a central
+0.0620367804	formula for
+0.0620146903	suitable for
+0.0618016296	the stochastic dynamics
+0.0616513820	to learn
+0.0616384938	implicated in
+0.0616199030	the total
+0.0615837366	a significant
+0.0614120486	a strong
+0.0613532182	a detailed
+0.0608626208	bounded by
+0.0608480927	to verify
+0.0606156763	in humans
+0.0605616850	a model
+0.0604695436	to adapt
+0.0604119843	aim to
+0.0601655065	models for
+0.0601521943	to analyse
+0.0600736727	to incorporate
+0.0600690577	expressed as
+0.0599574602	a small
+0.0598603624	separated by
+0.0598484350	between nodes
+0.0595954368	the system's
+0.0595323489	on average
+0.0595153203	to formulate
+0.0595099253	to distinguish
+0.0593704816	to integrate
+0.0593341403	new method
+0.0593140571	models from
+0.0591983664	amount of
+0.0591360275	a natural
+0.0588596244	takes into
+0.0588178457	a minimal
+0.0587758427	studies on
+0.0587194506	to reduce
+0.0587131720	a comparative
+0.0586604841	principle for
+0.0586562872	view on
+0.0586100564	further show
+0.0586025716	a variety of
+0.0585107541	candidates for
+0.0584648793	consequence of
+0.0584371220	proportional to
+0.0584110052	the system size
+0.0583570794	seen as
+0.0579085226	in part
+0.0577818092	encoded by
+0.0577772849	algorithm for
+0.0577740622	the interplay
+0.0576928658	model of
+0.0575907910	stochastic system
+0.0575098556	model for
+0.0574992717	enhanced by
+0.0574680769	loss of
+0.0574392779	the model's
+0.0574128955	the relative
+0.0573037859	comparison with
+0.0572970127	a formal
+0.0571573687	in summary
+0.0571493215	the actual
+0.0570961583	a ubiquitous
+0.0569802596	better understanding of
+0.0569591037	tools from
+0.0569121483	to drive
+0.0568805995	generated from
+0.0567557516	a technique
+0.0566367060	different levels
+0.0566184454	targeted by
+0.0564960798	absence of
+0.0564702066	fluctuations in
+0.0564001765	to build
+0.0561885701	attempts to
+0.0561313095	to define
+0.0560329337	similar to
+0.0559460558	to play
+0.0558254025	approach for
+0.0557435848	the receiver
+0.0557132643	take into
+0.0556169922	to compare
+0.0555961958	1 \
+0.0555720834	not known
+0.0555072756	to calculate
+0.0554657257	different cell
+0.0554580721	the conventional
+0.0554065602	decreases with
+0.0554033091	the repressilator
+0.0554019293	an ensemble
+0.0553626739	separation of
+0.0553306789	not yet
+0.0552774752	the nucleus
+0.0550821450	expressions for
+0.0550448145	robust to
+0.0550116486	of t cell
+0.0550060020	to respond
+0.0547688684	a web
+0.0546901202	to increase
+0.0545887405	variety of
+0.0544737424	application to
+0.0541862775	hold for
+0.0541765691	networks from
+0.0541158370	to validate
+0.0540221366	a mechanistic
+0.0539262449	a result
+0.0539095646	to facilitate
+0.0538278884	very different
+0.0538187989	to establish
+0.0537003285	dynamics of
+0.0535863188	the minimum
+0.0535533816	sites on
+0.0533283228	studied by
+0.0532746070	constrained by
+0.0532294916	the vast
+0.0531499779	simulations show
+0.0530949003	rest of
+0.0530819726	insights on
+0.0530721767	the correct
+0.0530505037	often used
+0.0529420374	an appropriate
+0.0528027314	a substantial
+0.0526501213	a huge
+0.0525946032	a promising
+0.0525858651	^ \
+0.0525380551	aimed to
+0.0525336738	not well
+0.0525300731	the respective
+0.0524435357	different models
+0.0522661711	a crucial role in
+0.0521898723	features of
+0.0521630510	to handle
+0.0521275431	version of
+0.0518127053	a rich
+0.0517797282	the boundary
+0.0517042030	in shaping
+0.0516531465	also show
+0.0515820770	some other
+0.0515352863	extended to
+0.0514001876	role in
+0.0513682316	code for
+0.0513029245	criterion for
+0.0512845496	the opposite
+0.0512788888	the literature
+0.0512563844	to grow
+0.0510135953	a finite
+0.0510128280	the context of
+0.0509732876	interacting with
+0.0509485024	demonstrated on
+0.0508795075	description of
+0.0508638881	at most
+0.0507512204	lack of
+0.0506576984	a deep
+0.0504881302	seems to
+0.0504819719	thought to
+0.0504699837	types of
+0.0504599083	approach using
+0.0504158696	novel approach
+0.0502636031	model with
+0.0501662011	available at
+0.0501297640	appears to
+0.0501207023	analyzed by
+0.0500785773	an overview of
+0.0500475627	modulation of
+0.0499929429	complex system
+0.0499039213	the final
+0.0498156562	a consequence
+0.0498038342	the gap
+0.0498029267	to answer
+0.0496795637	opportunity to
+0.0496795637	attempt to
+0.0495787148	proof of
+0.0495242827	a series of
+0.0494957224	multitude of
+0.0494189620	a universal
+0.0493569778	allowing for
+0.0493338446	outcome of
+0.0493052648	a computational
+0.0492946011	along with
+0.0492866600	a hybrid
+0.0492848743	a remarkable
+0.0492149900	then used
+0.0491548901	an ensemble of
+0.0491501629	from equilibrium
+0.0491198456	for analyzing
+0.0489699795	the average number of
+0.0488578572	the bacterium
+0.0486315560	to respond to
+0.0486026986	distribution of
+0.0486012896	sufficient for
+0.0485453262	to simplify
+0.0485100962	long as
+0.0478518892	validated by
+0.0477463484	array of
+0.0476094637	to deal with
+0.0475672391	patients with
+0.0475221926	the latter
+0.0474970485	emergence of
+0.0474755909	hard to
+0.0473007957	bound on
+0.0472519492	complexes from
+0.0472057218	referred to
+0.0471799817	equivalent to
+0.0470612778	formalism for
+0.0469572858	usefulness of
+0.0467263105	scheme for
+0.0466192665	a dynamic
+0.0465938294	arrangement of
+0.0465732466	three different
+0.0464378612	implemented by
+0.0464062481	activated by
+0.0463347436	linked to
+0.0463000441	the past
+0.0462831185	understood as
+0.0462196395	the rest
+0.0461370567	increases with
+0.0461214450	designed to
+0.0460788214	a wide
+0.0459866745	by considering
+0.0459648798	adapt to
+0.0456320851	the difficulty
+0.0455935673	predicted by
+0.0455567160	range of
+0.0455262929	to prove
+0.0454722625	to reproduce
+0.0454621930	the interface
+0.0453749863	composition of
+0.0453309817	exposure to
+0.0452786758	a series
+0.0451540282	measures for
+0.0451496546	algorithms for
+0.0451021626	condition for
+0.0449462258	contrast to
+0.0449396050	a well known
+0.0449186207	identification of
+0.0448996546	important for
+0.0447948482	a pivotal
+0.0447459462	a clear
+0.0447410891	a precise
+0.0447326240	to deal
+0.0447306261	helps to
+0.0447224837	the mitochondrial
+0.0446620923	performed on
+0.0444599769	a graph
+0.0443992906	the occurrence
+0.0443855453	suited to
+0.0443575743	limit of
+0.0443213473	positions of
+0.0442540398	the reason
+0.0442244643	structure of
+0.0441822189	activation by
+0.0441147057	likely to
+0.0440278351	a variety
+0.0437918666	coupled with
+0.0436898909	signs of
+0.0436612862	the joint
+0.0436335965	also find
+0.0435517540	generalized to
+0.0435081361	procedure for
+0.0434910891	a constant
+0.0434437780	two different
+0.0434001876	role of
+0.0433543936	convergence to
+0.0432598764	differences in
+0.0432593020	networks without
+0.0432204465	or even
+0.0431917286	assessment of
+0.0431874172	same time
+0.0431678593	realization of
+0.0428758189	point to
+0.0428359273	changes in
+0.0428350681	backbone of
+0.0424978488	the onset
+0.0424709027	the presence of
+0.0424485141	fail to
+0.0424233495	a mapping
+0.0424169121	the number of
+0.0422189856	failure of
+0.0421999272	introduction of
+0.0421328087	levels of
+0.0421238533	strategy for
+0.0421179678	occurrence of
+0.0419787737	inclusion of
+0.0419287327	known as
+0.0418614155	graphs with
+0.0418549877	restricted to
+0.0417970961	adapted to
+0.0417846922	percentage of
+0.0417331751	to account
+0.0416849755	a mixture
+0.0416296701	bind to
+0.0416082820	to occur
+0.0415936959	variations in
+0.0415109534	and numerically
+0.0414852874	representation of
+0.0414709027	a set of
+0.0414657053	to reveal
+0.0414169121	the dynamics of
+0.0412154783	determination of
+0.0411771599	need to
+0.0411520334	for constructing
+0.0409184975	origins of
+0.0407877944	designed for
+0.0407290160	amounts of
+0.0407006052	notions of
+0.0404084163	strategies for
+0.0403813715	definition of
+0.0403018597	methodology for
+0.0402380607	insights for
+0.0401504962	advances in
+0.0400406282	the dominant
+0.0399646050	the well known
+0.0398714438	used as
+0.0397706900	progress in
+0.0396852542	the observation
+0.0396813564	relevance to
+0.0396590212	a collection
+0.0396526718	the extent of
+0.0396281446	classes of
+0.0396196003	onset of
+0.0395727692	coexistence of
+0.0394852874	nature of
+0.0394714450	embedded in
+0.0394076280	existence of
+0.0394071437	targets for
+0.0393735047	capacity for
+0.0393041433	the principal
+0.0393001200	produced in
+0.0392538169	activation of
+0.0391197074	subset of
+0.0390483928	the case
+0.0389497292	new approach to
+0.0389186716	to evolve
+0.0388861287	groups of
+0.0387738412	the existence
+0.0386797568	the lac
+0.0386752032	evolution of
+0.0385715907	the present work
+0.0385577132	a tool for
+0.0385036453	notion of
+0.0384465899	for example
+0.0384375915	allows for
+0.0384169121	the role of
+0.0384071437	tools for
+0.0383042361	the problem of
+0.0381722384	dependence of
+0.0380582701	a partial
+0.0379071437	relevant for
+0.0378624045	an increase in
+0.0378332489	organisation of
+0.0378274039	different from
+0.0377804167	effect of
+0.0376982104	spectra of
+0.0376178102	persistence of
+0.0376105156	diagram of
+0.0375920014	mixture of
+0.0374430279	used to describe
+0.0374231643	change in
+0.0374169121	the use of
+0.0372938504	solution for
+0.0372566071	resulting in
+0.0372500464	growth on
+0.0372006646	the same time
+0.0371442422	bifurcations in
+0.0371306928	search for
+0.0370760612	sources of
+0.0370711256	technique to
+0.0367339057	enriched in
+0.0365241655	constrained to
+0.0365046999	collection of
+0.0364074030	evolvability of
+0.0363564043	contributions of
+0.0363042361	the case of
+0.0363010470	evidence for
+0.0361514177	needs to
+0.0361125294	place in
+0.0361036858	deletion of
+0.0360897708	required to
+0.0360839324	represented in
+0.0359959505	area of
+0.0359195169	given by
+0.0358488855	signatures of
+0.0358174321	stability of
+0.0357958801	property of
+0.0357699685	vary in
+0.0356771748	a new
+0.0356765736	position of
+0.0355837984	crucial to
+0.0354337051	molecular mechanisms of
+0.0354278329	phases of
+0.0353785074	limited to
+0.0353756874	drugs for
+0.0353539878	direction of
+0.0352602245	expected to
+0.0352532719	assumed to
+0.0352509670	the difference between
+0.0351783836	inhibition of
+0.0351501693	relevant to
+0.0351203374	contained in
+0.0350836904	package for
+0.0350387261	result in
+0.0350346485	removal of
+0.0350320742	reliability of
+0.0348408798	in contrast to
+0.0348363452	construction of
+0.0348265315	the number
+0.0347346485	signature of
+0.0347236691	combinations of
+0.0346918186	occurring in
+0.0346733137	relation to
+0.0345707722	possibility of
+0.0345611994	sufficient to
+0.0345019704	probabilities of
+0.0344633740	effects of
+0.0344245235	employed to
+0.0343940799	in breast
+0.0343837373	importance for
+0.0343520593	pool of
+0.0343462565	noise in
+0.0343213908	effectiveness of
+0.0343116585	elimination of
+0.0343042361	a function of
+0.0342764115	occurs in
+0.0341614264	organization of
+0.0340884899	to include
+0.0340753977	repertoire of
+0.0340147862	as compared to
+0.0339959505	areas of
+0.0339389811	content of
+0.0338927983	error in
+0.0338179870	validity of
+0.0336940664	the emergence
+0.0336631245	behavior of
+0.0336322527	appearance of
+0.0335633323	a continuous time
+0.0334081523	consequences of
+0.0333868517	differ in
+0.0333799838	behaviour of
+0.0333484551	versions of
+0.0333161813	members of
+0.0333070025	estimation of
+0.0332799118	variability in
+0.0332794150	the immune system
+0.0331901968	bound to
+0.0331632199	advantage of
+0.0331541617	occur in
+0.0330950047	roles in
+0.0330760612	characteristics of
+0.0330467441	show here
+0.0330439945	independently of
+0.0330439945	controllability of
+0.0330264507	arise in
+0.0330138097	implemented in
+0.0329836256	an extension of
+0.0329755925	exploration of
+0.0329725659	ranges of
+0.0328587365	subsets of
+0.0327036311	spectrum of
+0.0326727097	character of
+0.0326688487	choices of
+0.0326688487	realizations of
+0.0324309141	network with
+0.0324125455	mechanism by
+0.0323419816	capability of
+0.0321990372	to correlate
+0.0321732800	top of
+0.0321640472	cooperativity in
+0.0321029420	advantages of
+0.0321017567	developed for
+0.0320395815	degrees of
+0.0320390022	the effect
+0.0320011331	a collection of
+0.0319947001	the presence
+0.0319730354	exchange of
+0.0319711600	decomposition of
+0.0318363452	pairs of
+0.0318080969	mode of
+0.0317243799	the transition from
+0.0316745749	regulation of
+0.0316386586	a few
+0.0315149166	application of
+0.0315098764	interpretation of
+0.0314169121	the effect of
+0.0314006990	the idea of
+0.0313824386	randomness in
+0.0313597369	as well
+0.0313222676	one or
+0.0313042361	the existence of
+0.0312977898	the state of
+0.0312640395	discussion of
+0.0312566071	increase in
+0.0312456441	a means
+0.0312419121	a number of
+0.0312379879	predictions for
+0.0312299346	diversity of
+0.0311688487	shifts in
+0.0311142460	utility of
+0.0310920830	decrease in
+0.0310359123	variation in
+0.0310100962	theories of
+0.0309925524	investigation of
+0.0309850937	techniques for
+0.0309799333	used by
+0.0309523662	implementation of
+0.0309470932	the ability of
+0.0308363188	ubiquitous in
+0.0307274623	the validity
+0.0307198251	difference in
+0.0307198251	history of
+0.0306816706	a subset of
+0.0305404273	the stochastic dynamics of
+0.0305133424	an algorithm for
+0.0304538672	operation of
+0.0304165597	expressed in
+0.0304091881	the channel
+0.0304063501	orders of
+0.0303924168	solutions for
+0.0303039387	system at
+0.0302884184	robustness of
+0.0301423947	by means
+0.0301407404	development of
+0.0301252534	the cell's
+0.0301233942	recovery of
+0.0301232836	network into
+0.0301175323	emerge in
+0.0301168799	to account for
+0.0300491753	and only if
+0.0300264507	layers of
+0.0299991245	overview of
+0.0299802377	measure of
+0.0299283836	group of
+0.0299124285	a basis for
+0.0299012474	help to
+0.0298369841	applicability of
+0.0297868123	partitioning of
+0.0297719809	the duration
+0.0297646897	families of
+0.0297238661	the interplay between
+0.0297218071	extent to
+0.0296488299	an information
+0.0296242021	considered to
+0.0295635916	list of
+0.0295425509	interplay of
+0.0294337051	a list of
+0.0293910486	purpose of
+0.0293196180	the relation between
+0.0292122819	family of
+0.0291963316	the outcome
+0.0291575152	observed in
+0.0290897061	values for
+0.0290142122	also known
+0.0289964134	descriptions of
+0.0289925524	implementations of
+0.0289925524	validation of
+0.0289426424	described as
+0.0288937642	a mathematical
+0.0288569550	numbers of
+0.0287719809	a subset
+0.0287134102	arising in
+0.0286914793	independent of
+0.0286800579	aim of
+0.0286354661	transmission in
+0.0286050518	evaluation of
+0.0285914793	type of
+0.0285771850	challenges in
+0.0285499203	success of
+0.0285149166	comparison of
+0.0284620942	work on
+0.0284169121	the effects of
+0.0284124285	the inclusion of
+0.0283783824	issue of
+0.0283289946	consideration of
+0.0283042361	the emergence of
+0.0283011059	well as
+0.0282988909	a combination
+0.0281915369	present in
+0.0281759739	formulation of
+0.0281407404	prediction of
+0.0280659725	pair of
+0.0280552916	the above
+0.0280138233	this leads
+0.0279733292	this way
+0.0279694813	assumption of
+0.0279602892	form of
+0.0278652613	challenge in
+0.0277556417	criterion to
+0.0277418031	extension of
+0.0277265944	calculation of
+0.0277200047	limitations of
+0.0276675140	feature of
+0.0276354681	explanation of
+0.0275816244	a mathematical model of
+0.0275244841	benefits of
+0.0275181494	the first time
+0.0275147862	this class of
+0.0274225877	assembly of
+0.0273723355	the role
+0.0273181434	a framework for
+0.0273174321	level of
+0.0272779038	performance of
+0.0272317991	to exhibit
+0.0271918250	reported in
+0.0271158743	forms of
+0.0271110100	uniqueness of
+0.0270810619	obtained for
+0.0270645623	exist in
+0.0270484287	body of
+0.0269741866	integration of
+0.0269002975	stochasticity in
+0.0268952109	a small number of
+0.0268949906	a proof of
+0.0268889497	role for
+0.0268810713	method to
+0.0268725295	quality of
+0.0268518033	maintenance of
+0.0268260939	or more
+0.0268200350	details of
+0.0268146803	multistationarity in
+0.0268054609	the abundance of
+0.0266980251	a methodology
+0.0265915369	control of
+0.0265272493	a better understanding of
+0.0265074938	choice of
+0.0264479309	complexity of
+0.0264084929	accumulation of
+0.0263848260	an analysis of
+0.0262906997	possible to
+0.0262813584	the aim
+0.0262200047	representations of
+0.0261655677	found to
+0.0261396580	design of
+0.0260464403	a state of
+0.0260082842	capabilities of
+0.0259451333	potential for
+0.0259349379	a procedure
+0.0259245658	addition to
+0.0259035076	in agreement with
+0.0258876050	synchronization of
+0.0258447618	network under
+0.0258278161	the origin
+0.0257595575	capacity of
+0.0257390487	relative to
+0.0256556563	reconstruction of
+0.0256148288	the study of
+0.0255915369	study of
+0.0254064961	the significance of
+0.0253208605	convergence of
+0.0252704769	importance in
+0.0252627521	view of
+0.0252528600	allows to
+0.0252306424	reduced to
+0.0251985813	in addition to
+0.0251776999	availability of
+0.0251664754	duration of
+0.0251158743	stages of
+0.0251133424	different levels of
+0.0251133424	in relation to
+0.0251066133	cause of
+0.0250356959	enough to
+0.0250157226	timing of
+0.0249494830	dataset of
+0.0249106173	the segment
+0.0248508978	functioning of
+0.0248481242	to take
+0.0247721634	inherent in
+0.0247431337	layer of
+0.0246153670	the large number of
+0.0245831081	ensembles of
+0.0245789224	relevance of
+0.0245240248	the last
+0.0244283836	impact of
+0.0243756646	the validity of
+0.0243470206	the utility of
+0.0243096979	the distribution of
+0.0243054609	the interaction between
+0.0242906061	solution of
+0.0242890675	the quality of
+0.0242872039	to describe
+0.0242086444	significance of
+0.0241801633	combination of
+0.0241093716	connected to
+0.0240870429	efficiency of
+0.0240353356	a stochastic model of
+0.0240090578	selection for
+0.0239885973	a set
+0.0239655677	used for
+0.0238777656	appear in
+0.0238218926	this type of
+0.0237691060	methodology to
+0.0236345817	the steady states of
+0.0235521162	generation of
+0.0235474312	source of
+0.0235191581	the relationship between
+0.0235033110	goal of
+0.0234847886	volume of
+0.0234398288	in response to
+0.0233756646	a combination of
+0.0233096979	the regulation of
+0.0233054609	the functionality of
+0.0233042361	the concept of
+0.0232823821	a model of
+0.0232164466	seen in
+0.0231732436	the majority
+0.0231574002	function of
+0.0231262148	a consequence of
+0.0230645623	regulator of
+0.0230602383	coupled to
+0.0230177917	the total number of
+0.0229528906	importance of
+0.0229460661	bistability in
+0.0228658520	region of
+0.0228322163	series of
+0.0228066042	the need for
+0.0228036135	the onset of
+0.0227799118	strategy to
+0.0227575544	of gene expression in
+0.0226774274	stage of
+0.0226309833	a method to
+0.0226149580	the majority of
+0.0225998440	component system
+0.0225386476	to act
+0.0225147862	the likelihood of
+0.0225126697	the solution of
+0.0224169121	the influence of
+0.0223485260	a population
+0.0223082380	discussed in
+0.0223052717	the evolution of
+0.0223034134	task in
+0.0222620431	the value of
+0.0222559833	a result of
+0.0222554310	way to
+0.0221909946	propagation in
+0.0221709248	known to
+0.0219973706	the structure and dynamics of
+0.0219455905	treatment of
+0.0219052291	of interest in
+0.0218389158	origin of
+0.0217930053	in detail
+0.0217644621	sites for
+0.0216755633	part of
+0.0215848487	useful for
+0.0215804864	introduced to
+0.0215347963	a class of
+0.0215089349	present work
+0.0214948847	an example of
+0.0214935096	the magnitude of
+0.0214148288	the development of
+0.0214116431	basis of
+0.0213860696	a pair of
+0.0213245561	a method for
+0.0213096979	the behavior of
+0.0212965776	common to
+0.0212757443	functionality of
+0.0212620431	the integration of
+0.0212620431	the fraction of
+0.0212559833	a measure of
+0.0212416076	heterogeneity in
+0.0212370538	regulation by
+0.0212300050	equation for
+0.0211677842	a population of
+0.0211616132	the ability
+0.0211562119	a tool
+0.0211404853	the understanding of
+0.0211266508	the set of
+0.0210370404	the structure of
+0.0209432815	considered in
+0.0209069945	to find
+0.0208749548	contribution of
+0.0207658707	the efficiency of
+0.0206605280	a mechanism for
+0.0206223480	allow for
+0.0205775652	need for
+0.0205404578	the right
+0.0204262017	topology of
+0.0203026576	idea of
+0.0202977559	corresponding to
+0.0202709830	information between
+0.0201267610	result for
+0.0201266508	the analysis of
+0.0201002392	the stability of
+0.0200886908	the relevance of
+0.0200874026	abundance of
+0.0199070702	necessary for
+0.0198754278	the variance of
+0.0197860696	the occurrence of
+0.0197552195	ratio of
+0.0197304678	a simple model of
+0.0197097963	the complexity of
+0.0197026719	the amount of
+0.0196944234	influence of
+0.0196425652	a model for
+0.0194866561	appear to
+0.0194458274	behaviour in
+0.0194310836	the control of
+0.0194148288	the topology of
+0.0194037819	method on
+0.0193983847	likelihood of
+0.0193921097	concept of
+0.0193860696	the extent to
+0.0193822959	the possibility of
+0.0193765965	the wiring
+0.0193568044	magnitude of
+0.0193298268	an approach to
+0.0193032385	the discovery of
+0.0192638906	tool to
+0.0192613576	presented in
+0.0192519676	the absence
+0.0192053143	a pair
+0.0191991265	of noise in
+0.0190957188	of thousands of
+0.0190874026	ensemble of
+0.0190069016	a proof
+0.0189886908	the capacity of
+0.0188876853	the generation of
+0.0188754278	the absence of
+0.0188754278	the precision of
+0.0186944421	the design of
+0.0186944234	terms of
+0.0186089407	the period of
+0.0186002392	the level of
+0.0184893287	the prediction of
+0.0184876853	a range of
+0.0184862573	the importance of
+0.0183039992	the basis of
+0.0182827476	modeling of
+0.0182288888	coefficient of
+0.0181994836	procedure to
+0.0181258053	a role in
+0.0181084690	the identification of
+0.0179935096	the ratio of
+0.0178876853	the choice of
+0.0178754278	the strength of
+0.0178470716	the function of
+0.0178036144	the type of
+0.0177097963	the notion of
+0.0177097963	the performance of
+0.0176057009	studied in
+0.0174309833	the accuracy of
+0.0173039992	the origin of
+0.0172211873	the capability
+0.0171286665	the limit of
+0.0171002392	the form of
+0.0171002392	the ability to
+0.0169935096	the contribution of
+0.0169935096	a framework to
+0.0169014689	to make
+0.0168036144	the range of
+0.0167177092	introduced in
+0.0167097963	the impact of
+0.0167097963	the space of
+0.0166008161	ability of
+0.0166002392	the application of
+0.0165699785	discovery of
+0.0165530734	available for
+0.0164711469	the reconstruction of
+0.0164335254	reduction in
+0.0164309833	the reliability of
+0.0164176050	the day
+0.0163918249	case of
+0.0163822959	the effectiveness of
+0.0163676936	to help
+0.0162977574	the modeling of
+0.0161258053	the noise in
+0.0161099323	the activation of
+0.0160230776	value of
+0.0158767777	interest in
+0.0158733316	means of
+0.0157097963	the formation of
+0.0156515018	and thereby
+0.0155994659	use of
+0.0155305672	the class of
+0.0154819133	as well as in
+0.0154551504	formation of
+0.0154037205	variance of
+0.0153822959	the computation of
+0.0153369503	essential to
+0.0152853859	characteristic of
+0.0151769042	the need to
+0.0151769042	the organization of
+0.0148876853	the architecture of
+0.0148801658	period of
+0.0146002392	the robustness of
+0.0145305672	the nature of
+0.0145223595	context of
+0.0144876853	the goal of
+0.0144671507	the timing of
+0.0142696199	the aim of
+0.0142187934	space of
+0.0141769042	the method to
+0.0141731413	the field of
+0.0141712235	framework to
+0.0141641425	problem of
+0.0141615196	the dependence of
+0.0141405217	architecture of
+0.0141258053	the behaviour of
+0.0141258053	the definition of
+0.0139364114	a whole
+0.0138311629	developed to
+0.0136735682	a generalization
+0.0135798268	the speed of
+0.0134876853	the combination of
+0.0134519657	strength of
+0.0132119503	computation of
+0.0129144962	speed of
+0.0126891222	necessary to
+0.0125454486	accuracy of
+0.0118430676	precision of
+0.0112847072	field of
+0.0111817216	to zero
+0.0111048074	order to
+0.0110614114	useful to
+0.0110097343	proposed to
+0.0105097343	point of
+0.0091828917	allow to
+0.0086839622	described in

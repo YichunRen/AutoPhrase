@@ -1,0 +1,1302 @@
+0.9799726202	breast cancer
+0.9728327757	tissue engineering
+0.9720588854	wound healing
+0.9718959651	white matter
+0.9713097778	blood vessel
+0.9701867169	machine learning
+0.9688122934	finite element
+0.9679553650	alzheimer's disease
+0.9677660196	cellular automata
+0.9671444108	deep learning
+0.9670129981	small intestine
+0.9663177619	atrial fibrillation
+0.9658425554	gene expression
+0.9651781021	shear stress
+0.9639198195	ordinary differential equations
+0.9633686637	prostate cancer
+0.9630025642	computed tomography
+0.9620837129	image analysis
+0.9617692932	optical coherence tomography
+0.9611987506	traumatic brain injury
+0.9607173669	heart rate
+0.9587280330	partial differential equations
+0.9577643382	symmetry breaking
+0.9567742085	inverse problem
+0.9567181799	differential equations
+0.9567160328	blood vessels
+0.9561126741	immune response
+0.9553196267	cell division
+0.9551173411	drug delivery
+0.9551011125	magnetic resonance
+0.9545259425	drug resistance
+0.9544665950	gestational age
+0.9538806551	steady state
+0.9533986959	fourier transform
+0.9531632106	magnetic resonance imaging
+0.9530417458	power law
+0.9505985854	aortic valve
+0.9498431617	cell cycle
+0.9488701747	clinical trials
+0.9482132906	stem cell
+0.9473054439	residual stress
+0.9456208330	neural networks
+0.9454598156	neural network
+0.9454580352	action potential
+0.9433232627	pattern formation
+0.9424996619	extracellular matrix
+0.9423665433	smooth muscle
+0.9421891236	autoimmune disease
+0.9414371378	oxidative damage
+0.9410022250	body plan
+0.9406344983	bone remodeling
+0.9401057027	colorectal cancer
+0.9375144866	oxidative stress
+0.9360857167	phase transition
+0.9359878867	inflammatory response
+0.9354682342	monte carlo
+0.9353785717	stem cells
+0.9352961574	action potentials
+0.9346633171	anti inflammatory
+0.9343538877	strain energy
+0.9340642657	electric field
+0.9339598809	wild type
+0.9333038358	interstitial fluid
+0.9328073136	articular cartilage
+0.9322066972	fluid flow
+0.9320604270	soft tissue
+0.9298062229	cardiac arrhythmias
+0.9297174893	bone marrow
+0.9295491562	living organisms
+0.9294516314	developmental biology
+0.9268712144	red blood cells
+0.9259111653	blood glucose
+0.9235060861	partial differential equation
+0.9224465066	differential equation
+0.9211974992	endothelial cells
+0.9197337572	open source
+0.9196874866	collective cell migration
+0.9196142364	population dynamics
+0.9187673039	sinus rhythm
+0.9166746537	cell motility
+0.9156484193	fibrous cap
+0.9153361772	cerebral cortex
+0.9150441113	mathematical models
+0.9125830949	trabecular bone
+0.9106086450	cell death
+0.9089965866	embryonic development
+0.9089560015	collagen fibers
+0.9087925757	vessel wall
+0.9086357253	cerebral blood flow
+0.9067245718	atmospheric plasma
+0.9065793123	cell adhesion
+0.9054998911	blood pressure
+0.9049705948	steady states
+0.9047883355	heart failure
+0.9041691712	multicellular organisms
+0.9035728189	electron microscopy
+0.9032471630	data set
+0.9022009230	gap junctions
+0.9021411610	convolutional neural
+0.9019881623	epithelial tissues
+0.9008395024	scroll waves
+0.9001242327	spiral waves
+0.8995321713	cortical bone
+0.8984484271	radiation therapy
+0.8968696724	neural stem
+0.8965054466	glioma invasion
+0.8956352280	allometric scaling
+0.8952950356	cell migration
+0.8952655124	long range
+0.8944951735	solid tumors
+0.8935618234	mineral density
+0.8928630298	poorly understood
+0.8912847337	collagen fibrils
+0.8906492369	cerebral ischemia
+0.8894956708	left ventricular
+0.8888338898	cell populations
+0.8882655407	blood flow
+0.8855446194	computational pathology
+0.8849495829	conduction velocity
+0.8841988703	branching morphogenesis
+0.8812846364	coarse grained
+0.8790045004	human placenta
+0.8785292375	numerical simulations
+0.8784676622	contact inhibition
+0.8784367544	boundary conditions
+0.8765906006	epithelial cells
+0.8765737747	parameter values
+0.8748065399	sensitivity analysis
+0.8746589955	diffusion equation
+0.8746383169	fluid dynamics
+0.8739639426	high resolution
+0.8733334029	clonal expansion
+0.8729349383	key role
+0.8729051672	systems biology
+0.8724699565	growth factor
+0.8711102848	spatiotemporal chaos
+0.8708406395	moving boundary
+0.8706584292	experimental observations
+0.8688372790	brain tumor
+0.8648493135	vascular networks
+0.8631479885	growth factors
+0.8619739136	stem cell divisions
+0.8605125610	takes place
+0.8601592890	reaction diffusion
+0.8598140225	lung cancer
+0.8586873501	spiral wave
+0.8585921833	mathematical analysis
+0.8571473946	electrical activity
+0.8561729306	immune cells
+0.8551537002	myeloid leukemia
+0.8551425460	single cell
+0.8510769773	convolutional neural network
+0.8487861362	clinically relevant
+0.8473329711	cell membrane
+0.8472845300	travelling wave
+0.8467873417	ordinary differential
+0.8465294077	computational modeling
+0.8458987671	mg kg
+0.8443924983	active transport
+0.8416436907	il 6
+0.8414665908	tumour growth
+0.8413744267	mathematical modelling
+0.8405909461	multi scale
+0.8404812931	evolutionary dynamics
+0.8400056151	strain rates
+0.8397007918	optimal control
+0.8368042653	mechanical behavior
+0.8359692577	high throughput
+0.8356234754	bone remodelling
+0.8349900900	tumor vasculature
+0.8349232783	results suggest
+0.8319224636	long term
+0.8308392583	spatio temporal
+0.8301874058	cahn hilliard
+0.8293865215	pd l1
+0.8284069240	cell differentiation
+0.8284003755	length scales
+0.8276815011	dna mutations
+0.8225175365	developmental processes
+0.8213550485	cell shape
+0.8204304973	cancer risk
+0.8197510714	cell proliferation
+0.8191001161	cardiac tissue
+0.8177037141	closed loop
+0.8173724431	agent based model
+0.8161183206	force inference
+0.8157289085	vascular network
+0.8154828863	disease progression
+0.8139429886	growth law
+0.8135728563	experimental data
+0.8133290498	agent based
+0.8117802284	patient specific
+0.8112911606	brain tumors
+0.8079236074	experimentally observed
+0.8066374757	excitable media
+0.8064514123	epithelial tissue
+0.8063088700	wall shear stress
+0.8058250385	cancer invasion
+0.8048592714	fractional order
+0.8043625097	cross links
+0.8034533123	image based
+0.8020744229	primary tumor
+0.8017585798	mathematical modeling
+0.8014153336	mathematical model
+0.8013714488	stress strain
+0.7981946606	tumor growth
+0.7978892271	scroll wave
+0.7967338786	data analysis
+0.7963666292	arterial wall
+0.7946799975	ligand receptor
+0.7942193804	ground truth
+0.7939273548	biological systems
+0.7935681421	computational study
+0.7904721370	findings suggest
+0.7886749261	cox 2
+0.7879358532	low frequency
+0.7869617012	sars cov
+0.7862936841	individual based
+0.7859844751	partial differential
+0.7840219657	tissue constructs
+0.7838880346	flow rate
+0.7832732872	multi task
+0.7823363576	epithelial cell
+0.7811895262	modeling approach
+0.7811678580	receptor ligand
+0.7789420291	quasi static
+0.7770119578	simulation results
+0.7752596546	misrepair mechanism
+0.7722085596	anti cancer
+0.7711872232	sars cov 2
+0.7708784991	large scale
+0.7692550735	pressure volume
+0.7680385484	cancer stem cells
+0.7665140320	cell types
+0.7663888567	cancer research
+0.7658091802	taking into account
+0.7640210398	cancer induced
+0.7636704688	kidney disease
+0.7562836417	cell population
+0.7556058226	cell density
+0.7554413001	cellular level
+0.7554377522	biological tissues
+0.7535427088	cancer progression
+0.7524225104	computational models
+0.7504965151	x ray
+0.7503739532	cancer therapy
+0.7501060802	takes into account
+0.7490615960	self organization
+0.7454032473	coherence tomography
+0.7436469217	tumor progression
+0.7436329367	theoretical framework
+0.7433748039	soft tissues
+0.7429896775	experimental results
+0.7418253680	finite element model
+0.7406751560	brain injury
+0.7401048799	plant growth
+0.7392019566	bone matrix
+0.7382886455	mechanical properties
+0.7373593428	low dose
+0.7361760679	recently proposed
+0.7354128783	mechanisms underlying
+0.7351545120	brain tissue
+0.7343993542	recent studies
+0.7331665250	learning based
+0.7312895254	continuum models
+0.7285992802	cell injuries
+0.7247671249	optical coherence
+0.7247370243	turing patterns
+0.7228048004	parameter space
+0.7227670377	cell transformation
+0.7207909275	normal tissues
+0.7198794855	deep learning based
+0.7193698192	material properties
+0.7171432352	tissue morphogenesis
+0.7162516723	surface area
+0.7160346809	transport networks
+0.7126778336	arterial tissue
+0.7106166545	normal tissue
+0.7089664339	cancer cells
+0.7085173401	rate variability
+0.7078157306	low grade
+0.7059791463	initial conditions
+0.7041744474	stability analysis
+0.7041566544	age related
+0.7026110326	orders of magnitude
+0.6999547467	present paper
+0.6989946380	animal models
+0.6980873737	collective cell
+0.6963598842	body mass
+0.6910956175	neural tissue
+0.6904215035	cell shapes
+0.6865251692	element method
+0.6854105022	stochastic model
+0.6849213663	mouse model
+0.6830956790	cell lines
+0.6779476032	human body
+0.6770659456	wall shear
+0.6770645634	tumor microenvironment
+0.6749893046	g csf
+0.6731431276	cell growth
+0.6723750035	elastic properties
+0.6723488993	previous studies
+0.6723376671	cancer cell lines
+0.6720204660	tissue sections
+0.6718330329	car t cells
+0.6714776170	growth rate
+0.6709308032	bone surface
+0.6645278539	cell divisions
+0.6624030428	experimental evidence
+0.6569995435	biological processes
+0.6563312171	living tissue
+0.6543294846	numerical results
+0.6534570435	results demonstrate
+0.6488828553	malignant cells
+0.6471838399	covid 19
+0.6448111046	cell invasion
+0.6443807008	ionic model
+0.6435275452	spatial distribution
+0.6405893247	differentiated cells
+0.6402337262	wave dynamics
+0.6380503719	arterial blood
+0.6379262607	re entry
+0.6367324818	minimal model
+0.6362375604	tumor development
+0.6359947670	individual cell
+0.6351185620	clinical data
+0.6336975212	tumour cells
+0.6296136519	crucial role
+0.6292175153	computational model
+0.6284454534	muscle cells
+0.6274120660	mechanical stress
+0.6258113245	ischemic brain
+0.6246491390	protein expression
+0.6235829027	multiscale model
+0.6222760450	diffusion equations
+0.6212332283	tumor volume
+0.6192480102	cyclooxygenase 2
+0.6190367704	self organized
+0.6186684019	paper presents
+0.6183285452	tissue level
+0.6171240533	important role
+0.6157621425	recent years
+0.6149725464	early stage
+0.6102986243	self renewal
+0.6081838537	spatial and temporal
+0.6060338292	cell type
+0.6053950457	cell based
+0.6051880756	continuum model
+0.6035837709	deep neural
+0.6023443516	model predicts
+0.5993869087	study suggests
+0.5988754687	wide range
+0.5957756431	proposed method
+0.5938583182	vertex model
+0.5933909797	resonance imaging
+0.5932962549	bone mineral
+0.5901021253	cancer stem
+0.5844655346	cell dynamics
+0.5808717585	cell to cell
+0.5735093034	tissue specific
+0.5722323504	whole slide
+0.5681349096	tissue growth
+0.5657427663	based modeling
+0.5614050628	element model
+0.5591857299	tissue scale
+0.5524463722	single cells
+0.5496258468	traumatic brain
+0.5493591618	tumor cells
+0.5490226864	re entrant
+0.5403700222	current study
+0.5371353957	cancer treatment
+0.5323556510	cancer cell
+0.5239671914	model describing
+0.5219784885	blood cell
+0.5213932204	cerebral blood
+0.5202845406	based computational
+0.5173984192	results obtained
+0.5161381849	tissue dynamics
+0.5106506366	three dimensional
+0.5095879778	a cahn hilliard
+0.5055502662	cell behavior
+0.5043608755	model suggests
+0.5039148787	present study
+0.5018940819	biological tissue
+0.4924859195	blood cells
+0.4924852518	reaction diffusion model
+0.4844659084	cancer patients
+0.4822179041	network model
+0.4814219826	simple model
+0.4791515983	left right
+0.4702767974	et al
+0.4698601839	this paper presents
+0.4683401082	bone tissue
+0.4676414534	inside out
+0.4643801449	so called
+0.4607981863	cancer growth
+0.4555462562	growth model
+0.4533617229	tumor cell
+0.4509015026	growth dynamics
+0.4493692737	give rise
+0.4484130737	dimensional model
+0.4438309889	\ gamma
+0.4362922858	\ pm
+0.4327085321	individual cells
+0.4313006518	theoretical model
+0.4310508314	car t
+0.4293801683	cell cell
+0.4268780034	based models
+0.4217507243	model based
+0.4178347457	cell level
+0.4157023426	time consuming
+0.4150713522	good agreement
+0.4125789277	one dimensional
+0.4111100735	non invasive
+0.4082459019	population model
+0.4049193521	p 0.001
+0.4032430933	based model
+0.4030712069	model parameters
+0.4018175086	t cell
+0.3996399337	\ emph
+0.3989637965	p 0.05
+0.3976193392	ca2 +
+0.3895019922	whole body
+0.3888416528	mean field
+0.3886256407	$ \ pm
+0.3864113703	\ mu
+0.3839318671	normal cells
+0.3810612683	non uniform
+0.3789097385	well established
+0.3777797840	\ textit
+0.3762119085	\ alpha
+0.3724980667	mechanical model
+0.3705469001	proposed model
+0.3695433209	different cell types
+0.3693620615	follow up
+0.3665852598	two dimensional
+0.3653731327	$ \ delta
+0.3605932054	cell model
+0.3574004758	$ \ beta
+0.3571205944	taken into account
+0.3558056519	$ \ mu
+0.3554398682	\ beta
+0.3495324321	$ \ alpha
+0.3384099285	time dependent
+0.3329673276	nervous system
+0.3297196560	large number of
+0.3272905361	time series
+0.3265997096	well understood
+0.3245604618	the current study
+0.3224300780	widely used
+0.3219355404	side effects
+0.3192619022	a mathematical model
+0.3185164957	an important role
+0.3183823519	into account
+0.3111482681	well defined
+0.3084766806	cardiovascular system
+0.3040510135	insight into
+0.3009326870	most common
+0.2991352090	model for tumour
+0.2977355844	non linear
+0.2946896476	in excitable media
+0.2938208902	a simple model
+0.2903496353	commonly used
+0.2809321321	model to study
+0.2799602320	insights into
+0.2795684908	during af
+0.2787222727	better understanding
+0.2680446909	v ^
+0.2675041738	the present study
+0.2671958099	immune system
+0.2646374030	a stochastic model
+0.2628564665	a wide range
+0.2628154725	information about
+0.2622793029	new insights
+0.2611477284	the proposed model
+0.2577249314	link between
+0.2561397283	time delay
+0.2554242131	this article
+0.2546860582	computer simulations
+0.2506713344	model of tumor
+0.2433971564	the results obtained
+0.2407741636	t cells
+0.2401729083	24 h
+0.2397714147	crucial role in
+0.2394164403	number of cells
+0.2387468996	competition between
+0.2384793638	b cell
+0.2380253654	a crucial role
+0.2376659134	n =
+0.2347833120	smaller than
+0.2343017649	$ ^ 2
+0.2341029147	\ mu m
+0.2323146211	an integrated
+0.2303060438	in vitro
+0.2292739594	in vivo
+0.2289424985	so far
+0.2289037382	this paper
+0.2275587173	dna changes
+0.2250795524	relation between
+0.2241831402	depend on
+0.2231670536	time scales
+0.2228532111	real time
+0.2216856538	a lc
+0.2189407986	wide range of
+0.2183738813	results indicate
+0.2156325850	previous work
+0.2140884946	a novel approach
+0.2106962496	better understand
+0.2083750424	shed light on
+0.2080411140	^ 2
+0.2073537954	in silico
+0.2073535304	p =
+0.2058379063	\ delta
+0.2047869983	serve as
+0.1997035523	a reaction diffusion
+0.1996893595	to date
+0.1996177285	important role in
+0.1980208315	time scale
+0.1974768373	long time
+0.1961435428	the extracellular matrix
+0.1949500652	depending on
+0.1944582732	caused by
+0.1927682437	rather than
+0.1906138171	well known
+0.1905890722	$ ^ 2 +
+0.1871574280	ranging from
+0.1867566135	association between
+0.1864644277	relationship between
+0.1860876179	did not
+0.1846485320	regarded as
+0.1845642255	spatial distribution of
+0.1839454243	after ischemia
+0.1829164532	the arterial wall
+0.1821194266	^ 1
+0.1817033745	for tumour growth
+0.1815634750	$ ^
+0.1794453584	$ m
+0.1793952432	higher than
+0.1787601907	first order
+0.1785055248	^ +
+0.1770527813	most important
+0.1762737472	immune response to
+0.1756392663	in situ
+0.1739249115	larger than
+0.1720394072	governed by
+0.1718988298	an efficient
+0.1718764660	these findings
+0.1716535637	accompanied by
+0.1707446885	relies on
+0.1694946885	focuses on
+0.1672969665	this study
+0.1668892415	mathematical model for
+0.1660624481	an organism
+0.1660363552	rely on
+0.1658198277	to better understand
+0.1649738599	two distinct
+0.1649612975	interactions between
+0.1633854938	more accurate
+0.1621129936	mathematical modelling of
+0.1614987503	less than
+0.1612366750	arising from
+0.1604954223	more effective
+0.1601887910	$ \
+0.1571381828	the other hand
+0.1570492621	mathematical modeling of
+0.1568907827	focus on
+0.1567722937	characterized by
+0.1562000598	to understand
+0.1538058028	responsible for
+0.1521006348	an optimal
+0.1512001199	based on
+0.1494915197	depends on
+0.1494697201	does not
+0.1485919807	lead to
+0.1485077338	do not
+0.1473603484	driven by
+0.1468075773	during development
+0.1462630219	mathematical model of
+0.1462338340	model based on
+0.1460388318	differences between
+0.1450725206	$ n
+0.1445816998	numerical simulations of
+0.1442832840	of breast cancer
+0.1442092043	achieved by
+0.1440276193	shape changes
+0.1436859099	blood flow in
+0.1422410107	accounts for
+0.1419613703	consistent with
+0.1415213827	of blood vessels
+0.1411550611	interplay between
+0.1411439399	of bone remodeling
+0.1392486302	result of accumulation of
+0.1371935009	an essential
+0.1357342953	thousands of
+0.1344576835	a single cell
+0.1340961823	computational models of
+0.1339841812	at least
+0.1338971506	the proposed method
+0.1335147425	these results
+0.1314883651	coupling between
+0.1307422234	the mechanical properties
+0.1297100217	novel approach
+0.1286402530	computational model of
+0.1283585408	referred to
+0.1282881295	extracted from
+0.1278887313	mechanical properties of
+0.1271732390	transition between
+0.1268008386	away from
+0.1267972731	interaction between
+0.1262781688	of cancer cells
+0.1258569121	represented by
+0.1249180240	the spatial distribution
+0.1227575946	the stem cell
+0.1222423688	referred to as
+0.1219162600	mathematical models of
+0.1211260073	of tumor cells
+0.1206894383	the experimental data
+0.1205605745	leads to
+0.1199023066	the cancer cells
+0.1192662523	known about
+0.1184712071	the model predicts
+0.1182801133	based model of
+0.1177227520	$ t
+0.1175601747	derived from
+0.1172581033	not only
+0.1165617799	an inverse
+0.1159979857	consist of
+0.1157311653	the tumor microenvironment
+0.1141923982	this question
+0.1138704167	used to determine
+0.1133098516	determined by
+0.1132500575	this review
+0.1125033488	the blood flow
+0.1118998815	results show
+0.1091837225	affected by
+0.1087770292	subjected to
+0.1086568578	other hand
+0.1082441272	motivated by
+0.1080157482	influenced by
+0.1066900709	not yet
+0.1063037484	starting from
+0.1062345722	to obtain
+0.1059775059	h after
+0.1059687201	produced by
+0.1059290373	takes into
+0.1046064740	to simulate
+0.1033226891	leading to
+0.1017112203	a unified
+0.1014741204	of individual cells
+0.1010863768	an important
+0.1000256773	to investigate
+0.0994962723	simulations show
+0.0988204576	compared with
+0.0965175319	capable of
+0.0953319251	a generalized
+0.0949382551	of freedom
+0.0947751222	modeled as
+0.0947685009	taking into
+0.0943242389	1 \
+0.0935514302	consisting of
+0.0921238678	followed by
+0.0919922767	related to
+0.0918238872	present work
+0.0914403542	an example
+0.0913384716	more than
+0.0904816473	to optimize
+0.0904736134	account for
+0.0903319248	agreement with
+0.0902911844	an additional
+0.0896497837	correspond to
+0.0890901933	arise from
+0.0887913045	this phenomenon
+0.0887415643	compared to
+0.0873305202	this end
+0.0862330452	to detect
+0.0859152480	collected from
+0.0858085156	an approach
+0.0855774294	to determine
+0.0855583347	then used
+0.0854808340	the morphology of
+0.0849575874	act as
+0.0847591044	obtained from
+0.0844830997	applied to
+0.0844808340	the cells in
+0.0842533175	in addition
+0.0842477915	an active
+0.0833601446	this model
+0.0831477101	to create
+0.0827170669	these models
+0.0824808340	the concentration of
+0.0824114577	a single
+0.0818589615	dependence on
+0.0818470920	controlled by
+0.0814808340	of cells in
+0.0806201042	flow through
+0.0804808340	the density of
+0.0804808340	the parameters of
+0.0797060387	an increased
+0.0795905919	to predict
+0.0794956792	accounting for
+0.0793862929	effect on
+0.0792159760	the art
+0.0788523183	but also
+0.0787940446	the origin
+0.0782354473	to treat
+0.0776053364	proof of
+0.0775737658	the main
+0.0774808340	the study of
+0.0774084010	focused on
+0.0771971157	tend to
+0.0771111463	to assess
+0.0769662638	effects on
+0.0768422445	result from
+0.0767399307	each other
+0.0766630138	inspired by
+0.0765587843	as well as
+0.0755107284	these equations
+0.0754808340	the stability of
+0.0754419925	impact on
+0.0754101534	different types of
+0.0749263889	assessed by
+0.0745333261	over time
+0.0733425811	with respect to
+0.0725205805	model to describe
+0.0724808340	the growth of
+0.0724808340	the risk of
+0.0724808340	the results of
+0.0724657005	respond to
+0.0723553814	triggered by
+0.0720485951	an elastic
+0.0717291858	due to
+0.0713994412	an open
+0.0711245691	contribute to
+0.0707110628	this process
+0.0704808340	the size of
+0.0704807661	basis for
+0.0698294935	this work
+0.0696755598	considered as
+0.0692381730	to achieve
+0.0691278928	the field of
+0.0691278928	the performance of
+0.0689411286	explained by
+0.0689100206	resulted in
+0.0688069445	associated with
+0.0685361929	to study
+0.0681567784	according to
+0.0679345415	able to
+0.0674979878	mediated by
+0.0674313407	but not
+0.0671278928	the level of
+0.0665455973	at low
+0.0665452854	by means of
+0.0663605015	to identify
+0.0661278928	the expression of
+0.0661278928	the treatment of
+0.0658601968	with respect
+0.0656355260	an average
+0.0654884904	also find
+0.0653430168	a theory
+0.0653029915	in order to
+0.0652183859	such as
+0.0652103656	under different
+0.0651278928	the mechanism of
+0.0649236869	explanation for
+0.0641278928	the potential to
+0.0640207499	the complexity of
+0.0640207499	the design of
+0.0638807693	in terms of
+0.0638129473	a universal
+0.0637830013	correlated with
+0.0636091974	at high
+0.0631278928	the framework of
+0.0631278928	the mechanics of
+0.0626968139	a comprehensive
+0.0625640994	led to
+0.0623877607	required to
+0.0621278928	the potential of
+0.0621278928	the progression of
+0.0611572936	taken into
+0.0611278928	the theory of
+0.0611278928	the response of
+0.0610061725	these processes
+0.0604050263	an increase
+0.0601271996	by means
+0.0600658951	exposed to
+0.0596868109	to reduce
+0.0595607244	to address
+0.0594822982	a simple
+0.0588320267	induced by
+0.0588022851	to elucidate
+0.0587624495	to prevent
+0.0584512561	used to
+0.0580090277	believed to
+0.0573845500	incorporation of
+0.0570971235	a system of
+0.0561999441	\ textit in
+0.0561781086	a simplified
+0.0560047056	to estimate
+0.0559940843	this approach
+0.0558952356	a consequence
+0.0558697848	2 +
+0.0556678950	description of
+0.0556539448	attached to
+0.0553757687	results for
+0.0553218437	for example
+0.0551594470	data from
+0.0550824298	or even
+0.0538427766	described by
+0.0537863418	combined with
+0.0537706057	provided by
+0.0536446414	transition from
+0.0524109166	tool for
+0.0523236203	implications for
+0.0520884619	to evaluate
+0.0515283624	utilized to
+0.0508293163	contributes to
+0.0506120051	an effective
+0.0502656007	this hypothesis
+0.0498601150	in turn
+0.0495615974	aspects of
+0.0491930931	to analyse
+0.0491117872	generated by
+0.0490401734	the entire
+0.0487132815	to characterize
+0.0485153803	to calculate
+0.0479970423	rise to
+0.0475098049	obtained by
+0.0472839200	version of
+0.0468227897	comparable to
+0.0467972910	kinds of
+0.0467356090	contribution to
+0.0464970807	the first time
+0.0464191485	light on
+0.0463941590	orders of
+0.0463831001	a result of accumulation of
+0.0463747606	quantification of
+0.0460207619	suitable for
+0.0459359649	far from
+0.0458854666	a series of
+0.0457244306	to overcome
+0.0457136687	to quantify
+0.0454346798	a wide range of
+0.0445707911	expressed in
+0.0445356996	the same
+0.0445339428	the bolus
+0.0445197974	hallmarks of
+0.0444937026	assumed to
+0.0443922324	presence of
+0.0440816959	each cell
+0.0440700411	treated with
+0.0438082727	an early
+0.0436541619	dependent on
+0.0435113539	to solve
+0.0434851875	new model
+0.0434683326	seem to
+0.0433772547	consequence of
+0.0432969204	linked to
+0.0430735331	to regulate
+0.0430516788	respect to
+0.0429643646	framework for
+0.0427557443	as well
+0.0426513986	this result
+0.0424849965	removal of
+0.0424043984	an initial
+0.0421056163	the validity
+0.0417062826	close to
+0.0415574767	the objective of
+0.0413821141	three different
+0.0413140690	an individual
+0.0411880418	to monitor
+0.0409680710	to capture
+0.0408854485	appears to
+0.0408595874	shown to
+0.0407761190	these data
+0.0406570468	proportional to
+0.0406286149	model for
+0.0404436061	a broad
+0.0403861146	together with
+0.0403587838	an increase in
+0.0402680305	a novel
+0.0400865834	overview of
+0.0400450431	to examine
+0.0398903850	subset of
+0.0397901877	to explore
+0.0396306163	the cochlea
+0.0394749791	resulting from
+0.0388577275	aims to
+0.0387884094	evidence for
+0.0382965896	to illustrate
+0.0382648772	used to model
+0.0379653713	aspect of
+0.0379360957	prior to
+0.0377977120	majority of
+0.0375726917	first time
+0.0374838908	in contrast to
+0.0374382742	comparison with
+0.0372673580	images from
+0.0371225361	known as
+0.0369966065	a systematic
+0.0369544979	a critical
+0.0368558585	an in vitro
+0.0367569211	the presence of
+0.0367322276	response to
+0.0365841051	a crucial role in
+0.0365759136	model of
+0.0364847337	to maintain
+0.0356860182	results from
+0.0354982781	definition of
+0.0351259328	role in
+0.0350786815	similar to
+0.0344849829	involved in
+0.0344127069	the magnitude of
+0.0338931448	a deep
+0.0338198406	an important role in
+0.0337816309	state of
+0.0337194931	ability to
+0.0336165892	to induce
+0.0335522725	sensitive to
+0.0332871504	this method
+0.0332452151	consists of
+0.0330067440	also show
+0.0326358900	well as
+0.0326316918	difficult to
+0.0325894392	information on
+0.0325739192	lack of
+0.0325648099	a significant
+0.0323784256	calculation of
+0.0323483315	a stochastic
+0.0323162074	to improve
+0.0322201661	decrease in
+0.0322169953	essential for
+0.0320614196	a crucial
+0.0320412223	an analysis
+0.0320383980	absence of
+0.0320300981	a hybrid
+0.0320106537	data on
+0.0319459543	composed of
+0.0318192035	introduced by
+0.0317944450	to measure
+0.0315166437	advantage of
+0.0314198635	model with
+0.0311553797	a fixed
+0.0310911643	a powerful
+0.0309434340	used as
+0.0308776137	existence of
+0.0307828739	modulation of
+0.0307814876	a large
+0.0306587620	resistance to
+0.0306582590	embedded in
+0.0306138206	array of
+0.0305965954	seems to
+0.0305719158	choice of
+0.0305091893	to play
+0.0304728114	advances in
+0.0301850726	coupled with
+0.0301500026	variety of
+0.0299801014	a combination
+0.0295385739	model provides
+0.0293667231	used for
+0.0293629373	different cell
+0.0292848359	number of
+0.0292382108	a promising
+0.0292094103	sufficient to
+0.0292034947	classes of
+0.0291781472	competition for
+0.0286440215	the same time
+0.0283637796	needed to
+0.0283404440	a variety
+0.0280451606	to reproduce
+0.0279781269	a strong
+0.0279514968	a set
+0.0278513299	the ratio
+0.0278329523	effectiveness of
+0.0275824431	employed to
+0.0275455607	to develop
+0.0274995763	the present work
+0.0274621166	this theory
+0.0273141075	a major
+0.0272226758	cells within
+0.0271693427	the context of
+0.0271246585	to derive
+0.0269437547	patients with
+0.0268530545	history of
+0.0266239984	a unique
+0.0265350953	the final
+0.0264479833	to perform
+0.0263849836	models for
+0.0263731591	properties of
+0.0261214312	emergence of
+0.0260931143	determination of
+0.0259127527	the ability
+0.0258141075	a general
+0.0256125271	this problem
+0.0254910839	the world
+0.0254763029	degree of
+0.0254250347	the effectiveness of
+0.0254238716	need for
+0.0253549052	the increase in
+0.0253287763	a mathematical model for
+0.0252358819	to occur
+0.0251693427	a function of
+0.0251423489	analysis of
+0.0250840292	the onset of
+0.0250590667	model allows
+0.0250585138	a wide
+0.0250531054	along with
+0.0248848525	a model of
+0.0247048857	regardless of
+0.0246343352	a computational
+0.0245953765	a mathematical
+0.0244882108	the appearance
+0.0243664915	identification of
+0.0240820159	to generate
+0.0238857419	roles in
+0.0237813669	quality of
+0.0236911695	treatment for
+0.0236156184	to explain
+0.0235426613	the latter
+0.0233342522	set of
+0.0232854775	equation with
+0.0232025993	a variety of
+0.0231987545	a result of
+0.0230406571	with age
+0.0226739528	the state of
+0.0226673424	understanding of
+0.0226532999	the emergence of
+0.0225932490	the goal of
+0.0225549052	the analysis of
+0.0224593241	method for
+0.0224001164	the strength of
+0.0223860936	models of
+0.0220952849	possibility of
+0.0220201517	sequence of
+0.0219854188	a quantitative
+0.0219597622	two different
+0.0218844983	a key
+0.0218526937	treatment with
+0.0218233751	identified in
+0.0218074551	extended to
+0.0216474014	increase in
+0.0216447843	contrast to
+0.0214887864	approach to
+0.0214628763	the role of
+0.0213342522	range of
+0.0212632312	a review
+0.0211722910	behaviour of
+0.0211359312	goal of
+0.0210814590	to represent
+0.0210541653	to provide
+0.0209801260	the rate of
+0.0209400749	observed with
+0.0209106375	the number of
+0.0209076544	the dynamics of
+0.0208256655	discussed in
+0.0207992380	a minimal
+0.0206813648	a nonlinear
+0.0205636428	the possibility
+0.0205378661	role of
+0.0205305377	arrangement of
+0.0205072986	course of
+0.0205042912	the model to
+0.0204089592	the results show
+0.0204053945	management of
+0.0203962097	the influence of
+0.0203696075	a consequence of
+0.0201308661	to compare
+0.0200249983	rate of
+0.0199106375	the effect of
+0.0198233751	kinetics of
+0.0197412232	accumulation of
+0.0197302811	the role
+0.0196973786	necessary for
+0.0196532999	the aim of
+0.0194628763	the formation of
+0.0194001164	the probability of
+0.0193701614	periods of
+0.0193620284	a combination of
+0.0193397025	alterations in
+0.0193145942	changes in
+0.0193087398	data for
+0.0192787089	to form
+0.0191892735	the orientation of
+0.0191892735	the degree of
+0.0191408975	to produce
+0.0190994329	occur in
+0.0190848663	representation of
+0.0190082612	addition to
+0.0189557540	designed to
+0.0189551971	feasibility of
+0.0189442083	characterization of
+0.0189106375	the development of
+0.0188937957	studies on
+0.0188726189	degrees of
+0.0188652052	order to
+0.0188579664	dynamics of
+0.0187982604	to support
+0.0186669986	the existence of
+0.0186422431	presented in
+0.0186331908	point of
+0.0185376790	need to
+0.0184684950	the existence
+0.0184033442	the shape of
+0.0183901515	a result
+0.0183834318	proposed to
+0.0183768304	to test
+0.0183628762	evolution of
+0.0183555713	change in
+0.0183549052	the interactions between
+0.0183398745	occurrence of
+0.0182629977	the structure of
+0.0182422431	performed to
+0.0182321860	sets of
+0.0179703693	different from
+0.0179355624	to better
+0.0179106375	the effects of
+0.0178966017	useful for
+0.0178595668	values for
+0.0175608085	loss of
+0.0175571421	relation to
+0.0175411689	terms of
+0.0174901218	developed to
+0.0174711739	extent of
+0.0174560224	origin of
+0.0174299052	the properties of
+0.0174255665	in addition to
+0.0173991360	the changes in
+0.0173743389	series of
+0.0173613916	experiments on
+0.0173570355	forms of
+0.0173432182	a new
+0.0173235413	a mathematical model of
+0.0172121156	interaction with
+0.0169698228	case of
+0.0169080160	physics of
+0.0167005806	solutions for
+0.0166863013	process of
+0.0166819239	the case of
+0.0166552798	nature of
+0.0165428922	parts of
+0.0164299052	the understanding of
+0.0164055987	accuracy of
+0.0163734227	the purpose of
+0.0163681241	regulation of
+0.0163579623	mechanism for
+0.0163574979	part of
+0.0163189938	shape of
+0.0162629977	the distribution of
+0.0162405231	reported in
+0.0162397958	effects of
+0.0161655826	the use of
+0.0160821674	inhibition of
+0.0160786125	efficacy of
+0.0160687734	proposed by
+0.0160570873	a set of
+0.0160486249	relevant to
+0.0160371485	to analyze
+0.0160055137	stages of
+0.0159350560	a number of
+0.0157354096	observed in
+0.0156042302	function of
+0.0155990193	the origin of
+0.0155043356	aim to
+0.0152587617	essential to
+0.0152219076	the form of
+0.0151727986	probability of
+0.0151224258	problem for
+0.0150019593	to further
+0.0149504421	tool to
+0.0149444355	the evolution of
+0.0149277641	the presence
+0.0148150417	the absence of
+0.0147710081	technique for
+0.0147576125	capability of
+0.0147315366	occurs in
+0.0147049218	development of
+0.0146872696	assessment of
+0.0146509760	to make
+0.0145516214	approach for
+0.0144711739	context of
+0.0144496990	in patients with
+0.0144033442	the importance of
+0.0143134457	important for
+0.0142266473	a model for
+0.0142190333	seen in
+0.0141727986	strength of
+0.0140559841	construction of
+0.0140122418	characteristics of
+0.0140061304	structure of
+0.0138573515	allows to
+0.0137715635	the ability of
+0.0137693464	orientation of
+0.0137415123	the result of
+0.0135823884	effect of
+0.0135444081	allow for
+0.0134995450	found to
+0.0133734640	variations in
+0.0132137444	potential for
+0.0131947048	to help
+0.0131329828	validation of
+0.0130652491	likely to
+0.0130385039	the behavior of
+0.0130188960	the relationship between
+0.0129763280	impact of
+0.0129307188	administration of
+0.0129211739	onset of
+0.0129081790	the possibility of
+0.0128352216	dependence of
+0.0128233751	generation of
+0.0128233751	purpose of
+0.0128135304	solution of
+0.0127228027	coupled to
+0.0126920124	the spatial distribution of
+0.0126872696	class of
+0.0126607360	transformation of
+0.0126473972	modeling of
+0.0126450420	reduction in
+0.0124537790	speed of
+0.0123885742	the evaluation of
+0.0123885742	the concept of
+0.0123885742	the lack of
+0.0122994339	fraction of
+0.0122829828	spread of
+0.0122195766	the basis of
+0.0122044250	the immune system
+0.0121947048	help to
+0.0121892735	the ability to
+0.0121871482	the interplay between
+0.0121701517	availability of
+0.0121329828	outcome of
+0.0121324637	formation of
+0.0120812954	result of
+0.0120385039	the impact of
+0.0119801260	the process of
+0.0118669676	ability of
+0.0116815093	equation for
+0.0116617094	the mechanical properties of
+0.0116450420	variation in
+0.0114242763	aim of
+0.0112899370	important to
+0.0112829828	means of
+0.0112417988	in agreement with
+0.0112137444	equations for
+0.0112044250	the application of
+0.0111892735	the interaction between
+0.0111329828	evaluation of
+0.0110890778	amount of
+0.0110533111	application of
+0.0110186522	detection of
+0.0109657814	maintenance of
+0.0109088155	described in
+0.0109081790	the occurrence of
+0.0108733277	in response to
+0.0107693464	limit of
+0.0107432664	variability in
+0.0107369837	cause of
+0.0104600064	result in
+0.0104394279	importance of
+0.0104311506	interest in
+0.0102453512	difference in
+0.0101713370	induction of
+0.0100654546	component of
+0.0100533111	influence of
+0.0100247844	exposure to
+0.0100032838	behavior of
+0.0099634661	form of
+0.0099193464	movement of
+0.0099081790	the extent of
+0.0098774098	the course of
+0.0098352216	basis of
+0.0097770273	combination of
+0.0095590406	property of
+0.0094464943	interpretation of
+0.0093734227	the generation of
+0.0093734227	the dependence of
+0.0093019717	example of
+0.0092786431	a few
+0.0092154546	severity of
+0.0091836419	spectrum of
+0.0091615364	up to
+0.0090909175	concept of
+0.0090529099	the combination of
+0.0089532838	distribution of
+0.0087476430	success of
+0.0086954042	extension of
+0.0086174947	possible to
+0.0084208618	instead of
+0.0083426535	the amount of
+0.0081713370	reconstruction of
+0.0079833894	necessary to
+0.0079730639	to consider
+0.0078933537	way to
+0.0076523705	value of
+0.0076038936	use of
+0.0075626839	found in
+0.0075340855	known to
+0.0075144776	to describe
+0.0075046703	location of
+0.0074403719	allows for
+0.0074208618	and hence
+0.0073076828	corresponding to
+0.0068734702	used in
+0.0067958112	to use

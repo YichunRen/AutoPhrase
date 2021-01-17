@@ -1,0 +1,418 @@
+0.9830491693	statistical mechanics
+0.9819919797	machine learning
+0.9790430402	public health
+0.9748813425	heart rate
+0.9748173589	gene expression
+0.9733082913	amino acids
+0.9704225947	stem cells
+0.9702473545	free recall
+0.9687157772	magnetic fields
+0.9685001421	phase transition
+0.9675690474	climate change
+0.9671841358	dna sequence
+0.9657843275	amino acid
+0.9652885857	food chain
+0.9639178455	steady state
+0.9637529662	stem cell
+0.9627157351	monte carlo
+0.9610654056	differential equations
+0.9605387854	mathematical models
+0.9594044478	nucleic acid
+0.9585159356	free energy
+0.9581327620	phase space
+0.9573739607	clinical trials
+0.9569489039	working memory
+0.9556664073	genetic code
+0.9534074468	human genome
+0.9525459847	metabolic rate
+0.9514373889	magnetic field
+0.9497762089	ising model
+0.9493829050	living organisms
+0.9470477969	natural selection
+0.9433736344	power law
+0.9409194520	systems biology
+0.9381516682	complex systems
+0.9331050758	random boolean
+0.9307888002	protein structure
+0.9243823106	dynamical systems
+0.9194513271	molecular biology
+0.9130876810	complex networks
+0.9087509777	biological evolution
+0.9082175110	metabolic process
+0.9071256731	field theory
+0.9026918248	regulatory networks
+0.9015814462	human body
+0.9006046161	nucleotide sequences
+0.8944823891	scale free
+0.8897234195	discrete systems
+0.8736683641	infectious diseases
+0.8726073297	long term
+0.8696594480	long range
+0.8683905664	sars cov
+0.8672811781	cognitive maps
+0.8569932505	dna sequences
+0.8552841681	male mice
+0.8550862210	random networks
+0.8526346932	large scale
+0.8500884476	phylogenetic trees
+0.8495066438	parameter values
+0.8493964893	protein protein
+0.8476791471	single cell
+0.8433364046	allometric scaling
+0.8409278345	boolean networks
+0.8406017774	self organization
+0.8403956638	unicellular organisms
+0.8379876114	reaction diffusion
+0.8291903386	agent based
+0.8242387855	` `
+0.8081798966	mathematical model
+0.8062404273	decision making
+0.8062340654	small world
+0.8059214980	sucrose solution
+0.7982519655	living systems
+0.7940267904	case study
+0.7850751968	intertemporal choice
+0.7835419013	self assembly
+0.7832432758	biological systems
+0.7727797178	experimental data
+0.7701494693	gold nanoclusters
+0.7689377531	experimental results
+0.7239987439	sars cov 2
+0.7054993355	paper presents
+0.6794228188	covid 19 pandemic
+0.6758070473	covid 19
+0.6328701218	self organized
+0.6183579960	non linear
+0.5845606310	mean field
+0.5814595044	so called
+0.5643844443	point of view
+0.5539702596	et al
+0.5507576415	top down
+0.5411320006	second stage
+0.5386493959	$ \ textbf
+0.5030801255	\ cite
+0.4835563404	$ \ alpha
+0.4828759919	t cells
+0.4731651469	model based
+0.4676888040	immune system
+0.4658587967	time series
+0.4644180190	cov 2
+0.4639917615	into account
+0.4539626090	origin of life
+0.4270332165	insights into
+0.4082417777	wide range of
+0.4039702463	3 4
+0.3953844227	\ `
+0.3874432154	non equilibrium
+0.3797510477	\ textit
+0.3486670138	2 3
+0.3264632899	one dimensional
+0.3255725177	most important
+0.3097718927	\ textbf
+0.3058965748	rather than
+0.3032364820	two dimensional
+0.2876654055	does not
+0.2734953312	a mathematical model
+0.2708312564	this paper
+0.2698518688	in vitro
+0.2642816876	n =
+0.2556715647	in vivo
+0.2500049296	depending on
+0.2413648378	at least
+0.2375404800	these findings
+0.2333518620	more complex
+0.2332658256	do not
+0.2329231964	less than
+0.2233241964	depends on
+0.2224256205	difference between
+0.2197902464	relationship between
+0.2186106016	the genetic code
+0.2137344661	an organism
+0.2110146569	\ alpha
+0.2019555591	differences between
+0.2003475378	$ ^
+0.1999035137	this article
+0.1974374637	well known
+0.1940078220	in biological systems
+0.1916823228	an alternative
+0.1893014067	$ p
+0.1813614877	an important
+0.1741501911	$ \
+0.1739396101	based on
+0.1722266670	interactions between
+0.1655951096	mathematical model of
+0.1635477742	the absence
+0.1630983486	depend on
+0.1607660542	kinds of
+0.1590567600	results show
+0.1585829390	tool for
+0.1562891526	starting from
+0.1559729702	these results
+0.1548885433	this review
+0.1529039344	to perform
+0.1522335971	serve as
+0.1505347058	caused by
+0.1468119472	derived from
+0.1448636013	this phenomenon
+0.1443240182	on earth
+0.1430323861	these models
+0.1414764521	focus on
+0.1407883631	this study
+0.1402816506	the context of
+0.1390316506	the aim of
+0.1382175845	represented by
+0.1380993876	absence of
+0.1377963565	the complexity of
+0.1377963565	the process of
+0.1370316506	the results of
+0.1356260117	a consequence
+0.1345285788	of freedom
+0.1335945098	characterized by
+0.1332816506	the behavior of
+0.1327816506	the distribution of
+0.1320316506	the formation of
+0.1312816506	the field of
+0.1310316506	the level of
+0.1310316506	the size of
+0.1310316506	the structure of
+0.1309952248	an effective
+0.1307816506	the effects of
+0.1297816506	a function of
+0.1289921375	with respect to
+0.1277816506	the concept of
+0.1277816506	the dynamics of
+0.1277816506	the study of
+0.1274179061	defined as
+0.1267816506	the problem of
+0.1267816506	the use of
+0.1255084484	due to
+0.1254388566	as well as
+0.1246699700	transition from
+0.1241652816	according to
+0.1202146155	to calculate
+0.1183298657	more than
+0.1173788031	considered as
+0.1167814387	induced by
+0.1153298657	not only
+0.1142025355	followed by
+0.1134339010	consistent with
+0.1110406161	to construct
+0.1101233130	agreement with
+0.1099821365	explained by
+0.1091821365	inspired by
+0.1080406161	to estimate
+0.1065242251	impact on
+0.1062376921	produced by
+0.1059827800	patients with
+0.1056421040	the origin of life
+0.1049255368	a great
+0.1046683848	in contrast
+0.1038759132	responsible for
+0.1037085502	lead to
+0.1036418555	compared with
+0.1035665046	in addition
+0.0985078421	biological system
+0.0982351351	respect to
+0.0973043322	to determine
+0.0968378748	in terms of
+0.0957119467	obtained by
+0.0934765283	this approach
+0.0931649034	but also
+0.0926708678	leads to
+0.0923934303	in order to
+0.0904048329	to reveal
+0.0887947064	rise to
+0.0882810089	defined by
+0.0881819292	the importance
+0.0879556519	to assess
+0.0879495441	driven by
+0.0875941225	associated with
+0.0872110400	dependent on
+0.0868248356	led to
+0.0860398437	this model
+0.0850913159	to produce
+0.0848449133	expected to
+0.0846179159	an example
+0.0841283260	version of
+0.0828495749	to improve
+0.0827154464	to understand
+0.0826368870	appears to
+0.0826328121	such as
+0.0818775856	attempts to
+0.0815055257	aims to
+0.0810979938	able to
+0.0808748371	proof of
+0.0797280849	by means of
+0.0794281906	proportional to
+0.0782236451	thought to
+0.0779109054	related to
+0.0778801488	framework for
+0.0763606791	the past
+0.0753392061	sufficient to
+0.0742110400	required for
+0.0740064946	implications for
+0.0737267507	account for
+0.0714564524	a single
+0.0705517629	to detect
+0.0703418405	generalization of
+0.0695355010	to develop
+0.0686226174	to obtain
+0.0664702031	of life
+0.0658844997	described by
+0.0651151337	close to
+0.0637616770	to identify
+0.0633296659	consequence of
+0.0628575305	along with
+0.0627620125	a simple
+0.0621528425	together with
+0.0621180201	this work
+0.0618677552	leading to
+0.0618677552	ability to
+0.0617176638	the dissipative
+0.0616837988	method for
+0.0608398582	to explore
+0.0585247149	by means
+0.0583141019	in relation to
+0.0579241673	needed to
+0.0576138171	data from
+0.0575226888	capable of
+0.0573419435	aim to
+0.0562680840	the final
+0.0561313389	the degeneracy
+0.0557955785	a variety of
+0.0552724525	a series of
+0.0547434320	the same
+0.0542118211	applied to
+0.0540662528	seem to
+0.0539643083	these two
+0.0529753649	a model for
+0.0527548190	presence of
+0.0520167237	existence of
+0.0518280081	a class of
+0.0516936478	designed to
+0.0516813022	consists of
+0.0511621351	the basis of
+0.0509379971	the case of
+0.0507504971	the role of
+0.0502504848	combination of
+0.0499349318	to explain
+0.0499110392	involved in
+0.0496837664	number of
+0.0495888330	a model of
+0.0492980055	the original
+0.0492779921	occurrence of
+0.0492236692	appearance of
+0.0483220758	lack of
+0.0479813017	compared to
+0.0479753649	the theory of
+0.0476161535	amount of
+0.0471027287	the absence of
+0.0459379971	the existence of
+0.0459223595	to study
+0.0457579333	to increase
+0.0457154150	a wide
+0.0451031769	known as
+0.0448873128	to investigate
+0.0442962029	the purpose
+0.0441633940	the evolution of
+0.0440385761	to measure
+0.0440361952	to predict
+0.0437833530	to provide
+0.0435888330	the form of
+0.0434920588	the origin of
+0.0431411659	notion of
+0.0428856162	the presence of
+0.0426897020	for example
+0.0423300606	the development of
+0.0419532012	the fact
+0.0417007000	tools for
+0.0414709974	the genetic
+0.0413300606	the number of
+0.0410877771	role in
+0.0410069338	fraction of
+0.0409379971	the effect of
+0.0405093617	description of
+0.0403445607	as well
+0.0401633940	the spread of
+0.0400522828	a number of
+0.0392493110	representation of
+0.0390858190	range of
+0.0388785907	the possibility of
+0.0388785907	the need for
+0.0384920588	a result of
+0.0384262952	properties of
+0.0379753649	the properties of
+0.0376879971	a set of
+0.0370522828	the emergence of
+0.0369715333	set of
+0.0365931985	variety of
+0.0363842255	used as
+0.0359016572	in particular
+0.0355722917	synchronization of
+0.0350361952	to analyze
+0.0347478869	interpretation of
+0.0347001300	used to
+0.0343403375	evidence for
+0.0342921570	geometry of
+0.0339753649	the nature of
+0.0338001572	basis for
+0.0336262952	understanding of
+0.0324623365	to make
+0.0321111064	the impact of
+0.0317628840	need to
+0.0314175183	model of
+0.0307341298	similar to
+0.0304369975	model for
+0.0302889469	approach to
+0.0299213856	the case
+0.0289498161	increase in
+0.0284889469	evolution of
+0.0280980946	likely to
+0.0273103869	definition of
+0.0270273672	research on
+0.0270185394	a mathematical
+0.0265905707	a new
+0.0265857211	theory of
+0.0255289872	conservation of
+0.0254137835	response to
+0.0250804502	dependence of
+0.0249255369	used by
+0.0238404803	degrees of
+0.0234889469	development of
+0.0230348680	used for
+0.0228043883	a few
+0.0224137835	shown to
+0.0218956967	spread of
+0.0217569814	the presence
+0.0203651217	possibility of
+0.0199538209	need for
+0.0195403944	corresponding to
+0.0195126134	part of
+0.0193873933	a novel
+0.0190771822	role of
+0.0189243272	series of
+0.0188706061	well as
+0.0175731161	form of
+0.0171106017	view of
+0.0166106017	detection of
+0.0162721514	a result
+0.0162150085	a review
+0.0154806839	the possibility
+0.0153777394	addition to
+0.0151661573	impact of
+0.0138328239	effect of
+0.0137592263	relation to
+0.0133604091	to describe
+0.0133009827	to find
+0.0126106017	class of
+0.0118818345	nature of
+0.0116875147	known to
+0.0115054562	found to
+0.0106269086	possible to
+0.0093330649	a series
+0.0089042525	origin of
+0.0084748757	emergence of
+0.0079929007	proposed to
+0.0070218996	case of
+0.0069218996	basis of
+0.0062340419	approaches to

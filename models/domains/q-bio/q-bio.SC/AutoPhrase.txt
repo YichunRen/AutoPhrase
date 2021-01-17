@@ -1,0 +1,4163 @@
+0.9776394313	lipid bilayer
+0.9771764818	pattern formation
+0.9736634216	electric field
+0.9731887315	rna polymerase
+0.9722555292	signal transduction
+0.9680713342	feedback loops
+0.9665205744	budding yeast
+0.9641027526	random walk
+0.9625501236	information processing
+0.9608949544	master equation
+0.9589642524	statistical mechanics
+0.9584121282	ion channel
+0.9583079543	feedback loop
+0.9581304797	synthetic biology
+0.9579369560	messenger rna
+0.9567932630	amino acids
+0.9560468461	ion channels
+0.9541211157	phase transition
+0.9540392614	phase diagram
+0.9509693846	gene expression
+0.9499009554	atp hydrolysis
+0.9494520681	transcription factor
+0.9478146133	endoplasmic reticulum
+0.9467197536	thermal fluctuations
+0.9454501558	signal processing
+0.9453810774	differential equations
+0.9453505903	saccharomyces cerevisiae
+0.9432663923	monte carlo
+0.9427149800	free energy
+0.9424046961	plasmodium falciparum
+0.9420067227	systems biology
+0.9405542135	differential equation
+0.9397744796	wild type
+0.9395468034	magnetic field
+0.9389245160	mitotic spindle
+0.9376130479	fluorescence microscopy
+0.9357748943	power law
+0.9356214381	escherichia coli
+0.9355825421	plasma membrane
+0.9341262999	transcription factors
+0.9328966842	positive feedback
+0.9313670409	eukaryotic cells
+0.9299984807	probability distribution
+0.9270568493	quality control
+0.9247218051	symmetry breaking
+0.9215975400	design principles
+0.9203664630	cell division
+0.9202527943	phase transitions
+0.9198709435	steady state
+0.9197426521	membrane proteins
+0.9180659648	amino acid
+0.9175304424	transcriptional regulation
+0.9151796863	metabolic pathways
+0.9147281353	mathematical models
+0.9103296324	entropy production
+0.9094872008	active transport
+0.9091306907	fluorescence correlation
+0.9081847520	gene regulation
+0.9076164405	langevin equation
+0.9068873043	negative feedback
+0.9060293017	actin filaments
+0.9059501292	myosin ii
+0.9057730256	molecular dynamics
+0.9050850645	atp synthase
+0.9035052488	facilitated diffusion
+0.9030804265	macromolecular crowding
+0.9022462344	signaling pathways
+0.9021878798	steady states
+0.9009879898	brownian ratchet
+0.8996632786	dna replication
+0.8967934791	motor protein
+0.8961210517	action potential
+0.8950923659	cell biology
+0.8943152057	phase diagrams
+0.8928114546	dynamic instability
+0.8920779509	cell death
+0.8907643265	tcr mhcp
+0.8895836795	traffic jams
+0.8885480132	dynamical systems
+0.8883170403	binding site
+0.8867828515	excluded volume
+0.8861576488	totally asymmetric simple exclusion process
+0.8850886214	cell growth
+0.8850318219	signalling pathways
+0.8845404895	focal adhesions
+0.8830160693	biologically relevant
+0.8825898499	chemical reaction
+0.8825417073	reaction rate
+0.8814086801	lipid bilayers
+0.8797879011	cell cycle
+0.8792020550	intrinsic noise
+0.8778654726	yap taz
+0.8725615951	force generation
+0.8724385774	cell wall
+0.8701189043	fission yeast
+0.8690466177	cell adhesion
+0.8669337888	hair bundle
+0.8661557740	mathematical model
+0.8658620784	external load
+0.8652725814	stress fibers
+0.8650385402	single molecule
+0.8646708608	binding sites
+0.8641325505	phase separation
+0.8638569713	cytoskeletal filaments
+0.8632908332	lipid membranes
+0.8629944546	copy number
+0.8584610761	` `
+0.8572350724	stochastic processes
+0.8551576040	catch bond
+0.8545280390	chemical reactions
+0.8536933725	cell membrane
+0.8515767147	parameter values
+0.8485056825	poorly understood
+0.8467496285	probability density
+0.8459473820	hill coefficient
+0.8456125308	monte carlo simulations
+0.8456103353	long range
+0.8454553629	chemical potential
+0.8443214403	transcriptional bursting
+0.8439258533	parameter space
+0.8426906992	coarse grained
+0.8381114767	single stranded dna
+0.8365377333	analytical expressions
+0.8363593914	living cells
+0.8359355610	signaling networks
+0.8359258283	remains unclear
+0.8341629976	cell motility
+0.8330778797	actin polymerization
+0.8329696143	binding proteins
+0.8329150260	membrane protein
+0.8315409930	exclusion process
+0.8287435876	concentration gradients
+0.8281191564	cycle progression
+0.8275486191	power stroke
+0.8243192810	cell nucleus
+0.8240933797	copy numbers
+0.8235860992	production rate
+0.8232671914	molecular motors
+0.8210538549	self organization
+0.8209576937	excellent agreement
+0.8209542742	ion transport
+0.8203257868	hodgkin huxley
+0.8199552164	testable predictions
+0.8189236457	collective dynamics
+0.8175505320	cargo transport
+0.8163051906	actin networks
+0.8150968491	noise approximation
+0.8149668005	experimental observations
+0.8146316137	lipid rafts
+0.8133141864	chemical energy
+0.8130792339	molecular mechanisms
+0.8128915614	theoretical analysis
+0.8114810854	protein synthesis
+0.8109052011	numerical simulations
+0.8098785154	transition rates
+0.8091247399	fokker planck
+0.8090700231	lipid vesicles
+0.8086246747	biological cells
+0.8080684030	stochastic effects
+0.8073404223	cell signaling
+0.8064036453	density profiles
+0.8061822678	totally asymmetric
+0.8053438066	bacterial flagellar motor
+0.8037640276	double stranded
+0.8035674205	bidirectional transport
+0.8033114774	stochastic models
+0.8021392876	theoretical model
+0.8020368971	field theory
+0.8008316383	long term
+0.8003306718	cell types
+0.8002824168	target search
+0.7991802954	michaelis menten
+0.7987188308	run length
+0.7983558423	density function
+0.7978099701	self assembly
+0.7965226540	growth factor
+0.7941780593	diffusion constant
+0.7926715710	reaction diffusion
+0.7925188252	asymmetric simple exclusion process
+0.7923473019	single headed
+0.7922371597	hiv 1
+0.7918084580	lattice gas
+0.7913103284	brownian motion
+0.7912636034	transport properties
+0.7900364030	anomalous diffusion
+0.7889005724	kinetic model
+0.7862454546	gene regulatory
+0.7855803425	stochastic simulation
+0.7842726528	external force
+0.7840000579	diffusion coefficient
+0.7836729874	higher order
+0.7823374604	molecular motor
+0.7820559123	reaction rates
+0.7816639574	rare events
+0.7814855114	takes place
+0.7814584614	protein dynamics
+0.7797572723	rate constants
+0.7793811526	short range
+0.7785244182	vesicle transport
+0.7755040039	cluster size
+0.7754386067	protein complexes
+0.7743394862	torque speed
+0.7726094054	biological systems
+0.7671809748	brownian dynamics
+0.7671499898	physical model
+0.7656586213	stochastic simulations
+0.7651710049	single motor
+0.7648250881	extrinsic noise
+0.7645045999	myosin motors
+0.7644924373	analytical expression
+0.7644862466	low frequency
+0.7644237271	length control
+0.7634972950	analysis shows
+0.7632844407	mt length
+0.7625022958	intracellular transport
+0.7613874990	min proteins
+0.7611911727	experimental data
+0.7611692668	yeast cells
+0.7601701912	crowded environment
+0.7573950744	spatio temporal
+0.7571873181	cluster formation
+0.7560537049	protein search
+0.7554463972	experimentally observed
+0.7510741445	single particle
+0.7488013563	intra cellular
+0.7485977670	daughter cells
+0.7449291629	experimental measurements
+0.7444742211	cancer cells
+0.7440936060	experimental findings
+0.7437731743	microtubule growth
+0.7433035798	thermodynamic efficiency
+0.7429920050	single cell
+0.7402451324	length regulation
+0.7394736541	search process
+0.7392629898	receptor ligand
+0.7387220520	theoretical framework
+0.7377377494	dna looping
+0.7375905461	mechano chemical
+0.7358908619	cell size
+0.7356270501	binding unbinding
+0.7353538412	post translational
+0.7352067958	mechano chemistry
+0.7345981205	living cell
+0.7340951664	simulation results
+0.7324378917	biochemical reactions
+0.7318976666	model parameters
+0.7318029131	living systems
+0.7297561710	theoretical predictions
+0.7282346734	sufficiently large
+0.7260445311	previous studies
+0.7254616553	experimental evidence
+0.7245585249	model predicts
+0.7241259979	microtubule dynamics
+0.7224831645	detachment rate
+0.7214912006	biological functions
+0.7203049422	cell lines
+0.7199247030	length scales
+0.7195414527	channel noise
+0.7185901055	cellular processes
+0.7177519272	motor proteins
+0.7166451337	cell fate
+0.7161222363	protein distributions
+0.7152590949	microtubule length
+0.7146244131	cell membranes
+0.7124886594	protein binding
+0.7089259268	force velocity
+0.7080023054	membrane tubes
+0.7071692271	analytical results
+0.7070264731	growth rate
+0.7068412171	protein dna
+0.7065970644	molecular machines
+0.7063906680	length distribution
+0.7055049222	reaction networks
+0.7047887325	average velocity
+0.7038000805	signaling network
+0.7036452103	biochemical networks
+0.7035191333	orders of magnitude
+0.7028786721	physical mechanisms
+0.7025950629	target site
+0.7016930990	large scale
+0.6993299780	single cells
+0.6976716162	stall force
+0.6952556487	ligand concentration
+0.6951875317	reaction diffusion systems
+0.6949385294	first passage times
+0.6942456125	multiple motor
+0.6940377372	theoretical approach
+0.6922002974	cooperative binding
+0.6917227931	dna template
+0.6913287825	transport processes
+0.6905575075	fgf 2
+0.6896846817	takes into account
+0.6887399939	results suggest
+0.6876790832	membrane tension
+0.6867878125	biochemical systems
+0.6863769781	processive motor
+0.6840814312	high density
+0.6818013578	size distribution
+0.6805070329	energy landscape
+0.6795042882	synaptic
+0.6792371475	pole to pole
+0.6784592076	cell surface receptors
+0.6769961418	protein concentration
+0.6765925187	recent experiments
+0.6754354508	cooperative
+0.6752883882	low density
+0.6729744228	ad
+0.6727445525	genetic
+0.6726171873	live cell
+0.6708082081	reaction diffusion model
+0.6706144335	results provide
+0.6702207282	flagellar motor
+0.6687132357	cancer
+0.6680056501	thermodynamic
+0.6670424497	physical mechanism
+0.6668968952	diffusion limited
+0.6664319621	asymmetric simple exclusion
+0.6654219104	taking into account
+0.6652279970	microtubule based
+0.6650524728	stochastic nature
+0.6649397579	topology
+0.6640146637	membrane curvature
+0.6631176148	totally asymmetric simple exclusion
+0.6624810604	experimental results
+0.6623293597	bond
+0.6622170274	mutations
+0.6621970580	small number
+0.6616066128	ii
+0.6614707349	previous
+0.6613441650	implications
+0.6613385202	metabolic
+0.6611869050	nicotinic
+0.6604799505	length dependent
+0.6603680940	tug of war
+0.6599154366	structural
+0.6597740352	ampa
+0.6597382698	protein production
+0.6593071771	crowded
+0.6592392339	perception
+0.6592112004	virus
+0.6586242540	atp concentration
+0.6583927010	microscopy
+0.6579870746	cytoskeletal
+0.6575331169	computational
+0.6560814190	dna chain
+0.6558403409	mitochondrial
+0.6557025383	transcriptional
+0.6555466366	kinase
+0.6553810263	binding kinetics
+0.6553101558	signaling molecules
+0.6548497827	cellular signaling
+0.6547578543	dendritic
+0.6547317197	catenin
+0.6545445560	solving
+0.6543214140	robustness
+0.6540384534	electromagnetic
+0.6539297865	feedback
+0.6535290627	numerical
+0.6532062361	statistical
+0.6531962205	mechanics
+0.6530442795	voltage
+0.6529286539	phosphatase
+0.6529077198	universal
+0.6528443514	cox
+0.6527168161	blood
+0.6525117394	motor activity
+0.6524321166	quantum
+0.6524009364	macromolecular
+0.6523063106	rna
+0.6514640192	dna
+0.6508793389	recent experimental
+0.6505565823	large number
+0.6505459214	specific binding
+0.6504372769	covid 19
+0.6502296988	dna ejection
+0.6500901754	reactive
+0.6499784312	bidirectional
+0.6499382403	repair
+0.6497768398	human
+0.6492576058	stochastic model
+0.6491703680	engineering
+0.6491691342	finite size
+0.6491570040	modulation
+0.6488657443	lattice model
+0.6487290681	digital
+0.6487232052	drosophila
+0.6487223275	circadian
+0.6485385999	first passage
+0.6483993779	traffic
+0.6481179822	resistance
+0.6475672621	agent
+0.6470592028	boundary
+0.6465961873	single filament
+0.6464555206	analyzing
+0.6463629827	boolean
+0.6460390621	endocytosis
+0.6459099262	energy barrier
+0.6456818217	crucial role
+0.6456326662	biological processes
+0.6454510956	theorem
+0.6453010508	eukaryotic
+0.6451698969	stochastic fluctuations
+0.6451235165	map
+0.6448067919	fission
+0.6445346559	asymptotic
+0.6445312255	thermodynamics
+0.6441781712	inflammatory
+0.6441002368	fluorescence
+0.6437014077	yap
+0.6433697818	exact
+0.6431258349	gradients
+0.6429850173	mathematical
+0.6429125178	stochastic
+0.6426021464	heat
+0.6423317979	membrane components
+0.6419234141	brain
+0.6417027723	membrane bound
+0.6415997906	markov
+0.6414232000	atp
+0.6414224936	optimal
+0.6409463943	brownian
+0.6408739684	generic
+0.6406365199	mt
+0.6405860887	theoretical
+0.6403977212	defined
+0.6402950566	totally asymmetric simple
+0.6394986521	fibers
+0.6394198438	assembly
+0.6391421087	collective
+0.6389454322	medicine
+0.6388655848	criticality
+0.6388655848	platform
+0.6388655848	stop
+0.6388655848	cerebral
+0.6388655848	traditional
+0.6387490564	imaging
+0.6385431272	lipid membrane
+0.6385354899	regulatory
+0.6382388277	studying
+0.6382152786	bilayer
+0.6380087025	simulation
+0.6379843952	actin cytoskeleton
+0.6379022142	discrete state
+0.6378023754	laser
+0.6376873316	self organized
+0.6375657991	recovery
+0.6375657991	systematic
+0.6374841887	biology
+0.6373720962	dna sequences
+0.6371352681	hiv
+0.6370841286	genome
+0.6368909934	chronic
+0.6368762391	transmembrane
+0.6367832730	carlo simulations
+0.6367491456	elongation
+0.6362357154	cardiac
+0.6361403144	restriction
+0.6361139578	key role
+0.6360099713	stability
+0.6359947208	segregation
+0.6358903298	order of magnitude
+0.6353221549	vesicle
+0.6351487607	combinatorial
+0.6351003097	allosteric
+0.6349602787	mechanical model
+0.6348721138	polymerization
+0.6348281671	understanding
+0.6347672634	resonance
+0.6347018043	animal cells
+0.6346129198	oxidative
+0.6343045672	motility
+0.6340119924	min
+0.6335876883	golgi
+0.6332036638	molecular
+0.6330286495	particle based
+0.6318544793	liver
+0.6317283047	memory
+0.6316626294	magnetic
+0.6312786528	diffusion
+0.6311989592	artificial
+0.6311663271	transport
+0.6310497683	waves
+0.6307694914	theory
+0.6301032528	cyclin
+0.6300746976	na
+0.6299856261	kinesin 8
+0.6292192766	analytical
+0.6287455310	human cells
+0.6283317128	central
+0.6279999173	efficient
+0.6279049733	cytoskeleton
+0.6278798014	cell
+0.6277395264	atpase
+0.6276187888	noise induced
+0.6275257644	model explains
+0.6274627136	electrical
+0.6271754784	light
+0.6271066489	cell surface
+0.6268383127	biochemical
+0.6266191271	landscape
+0.6264038182	spontaneous
+0.6259582532	catalytic
+0.6257267514	coupling
+0.6255229351	variation
+0.6254129744	detection
+0.6251888967	driven
+0.6251665415	mechanical properties
+0.6250553460	delta
+0.6250544926	lipid
+0.6245928762	kinesin
+0.6245196318	flow
+0.6243318916	fundamental
+0.6237971142	closed
+0.6228516437	increasing
+0.6227312584	non gaussian
+0.6224410242	scanning
+0.6223751605	synthesis
+0.6222476217	poisson
+0.6220967428	key features
+0.6217921698	optimization
+0.6216930109	microtubule
+0.6216841500	directed
+0.6216277906	transcription
+0.6213576328	conformational
+0.6210766219	bacterial flagellar
+0.6208424984	protein
+0.6207904127	membrane mediated
+0.6205933621	results
+0.6201277625	spectroscopy
+0.6198462972	enzyme
+0.6197110134	ring
+0.6196734481	death
+0.6191713055	spatial and temporal
+0.6190664755	polymer
+0.6188338384	prior
+0.6187611992	simple
+0.6182899809	functional
+0.6182473841	phage
+0.6182473841	configuration
+0.6181927526	charge
+0.6181504530	water
+0.6179203400	kinetics
+0.6176961819	experimental
+0.6172911263	segmentation
+0.6172911263	filter
+0.6172911263	subset
+0.6172558026	langevin
+0.6171185353	critical
+0.6168844680	nuclear
+0.6168549752	targeted
+0.6167304125	vesicles
+0.6163334853	case
+0.6162112009	tissue
+0.6161379854	correction
+0.6159579308	chemistry
+0.6158727870	analysis
+0.6158692683	calcium
+0.6153634752	mitotic
+0.6153601653	interval
+0.6151902787	fluorescent
+0.6151463272	reverse
+0.6151463272	retinoblastoma
+0.6149663088	metabolism
+0.6148307186	clinical
+0.6144709612	motor
+0.6144647075	recent
+0.6143753375	terminal
+0.6143481346	symmetry
+0.6140682953	sensitivity
+0.6139897080	systems
+0.6138588979	single
+0.6138424027	lac
+0.6137573121	channel
+0.6136833941	influence
+0.6136018307	biological
+0.6135619881	moment
+0.6134160676	treatment
+0.6132015623	domain
+0.6131995772	opposing
+0.6130529226	condensed
+0.6130529226	root
+0.6129811604	infection
+0.6124793030	nature
+0.6124535728	bcr
+0.6124116965	discrete
+0.6123063026	experiments
+0.6121878767	order
+0.6121638021	effective
+0.6120817431	interference
+0.6119611325	binding
+0.6119529363	circuit
+0.6117571375	rare
+0.6116973287	ion
+0.6116085908	resonant
+0.6114545052	transitions
+0.6111461528	drag
+0.6111461528	cone
+0.6110272388	reduction
+0.6109704707	dynamics
+0.6108963119	development
+0.6108685285	membranes
+0.6108452230	simple exclusion process
+0.6108342982	error
+0.6106983035	kinetic
+0.6106544777	self consistent
+0.6103450444	presenting
+0.6103240434	variable
+0.6102864860	heart
+0.6102830370	delivery
+0.6102725718	graph
+0.6102725718	lactate
+0.6102102940	chromatin
+0.6100338491	markovian
+0.6099907997	viral
+0.6099481420	therapy
+0.6098258940	simulations
+0.6098106466	homologous
+0.6097690447	physics
+0.6096597869	ising
+0.6095831093	entropy
+0.6091441702	reaction
+0.6091409545	active
+0.6089963024	factor
+0.6088633618	ordinary differential
+0.6087365856	adhesion
+0.6087308560	muscle
+0.6086305354	bursting
+0.6085934441	equilibrium
+0.6085609879	aspect
+0.6085609879	cell's
+0.6085609879	severe
+0.6084335280	dynamic
+0.6083974291	exact analytical
+0.6083162267	base
+0.6082654036	fluctuation
+0.6081492933	curvature
+0.6078384454	contact
+0.6078269680	migration
+0.6077928574	natural
+0.6076623987	d1
+0.6074130353	long
+0.6071543156	anaphase
+0.6071543156	metabolite
+0.6071042357	template
+0.6070973613	induced
+0.6070141427	spatial organization
+0.6069940719	allele
+0.6069579930	sensing
+0.6068326019	alzheimer's
+0.6067995289	biophysical
+0.6067449405	tcr
+0.6067420374	sister
+0.6067319359	sequence
+0.6066786128	coli
+0.6065299903	architecture
+0.6063811167	immune
+0.6063081059	gradient
+0.6063022638	normal
+0.6062319172	current
+0.6060250795	folding
+0.6059150704	motor cargo
+0.6059144910	detailed
+0.6057720765	fidelity
+0.6057720765	selection
+0.6057720765	inactivation
+0.6056991850	internal
+0.6055758254	methods
+0.6054452021	formation
+0.6051007764	evolutionary
+0.6050940197	nucleus
+0.6049595160	insights
+0.6048359373	smooth
+0.6047678129	potassium
+0.6046676068	cellular
+0.6040797245	br
+0.6040797245	apc
+0.6040084582	icosahedral
+0.6040084582	elegans
+0.6038780745	gene
+0.6038610518	actin
+0.6036544454	line
+0.6035780739	aging
+0.6035690844	volume
+0.6033067811	passage times
+0.6029517115	spatial
+0.6027756656	extended
+0.6024676130	integral
+0.6024676130	percolation
+0.6022777800	noise
+0.6019797810	distributions
+0.6019655471	transduction
+0.6015187052	networks
+0.6014754057	raft
+0.6011225463	action
+0.6009547756	anomalous
+0.6009029946	hidden
+0.6006749962	antigen
+0.6005566401	division
+0.6003203120	cme
+0.5999597787	membrane
+0.5996736676	cells
+0.5992631983	budding
+0.5992387260	protein protein
+0.5991369742	synthetic
+0.5991142996	mediated
+0.5990424307	shear
+0.5988103335	contraction
+0.5987046870	affinity
+0.5985875964	physical
+0.5985203247	multiple
+0.5983163306	rule
+0.5982368370	higher
+0.5981676484	spectrum
+0.5981331223	geometry
+0.5980220670	remodeling
+0.5979990099	asymmetric
+0.5978276877	contractile
+0.5977299108	similar
+0.5975349875	mutation
+0.5975057395	crowding
+0.5974465181	accuracy
+0.5974225833	nucleoid
+0.5971200108	spindle
+0.5970059180	rho
+0.5969242664	machines
+0.5968935203	conditional
+0.5967375528	organization
+0.5967009778	intracellular
+0.5963570712	elastic
+0.5963312461	plasticity
+0.5959086411	ais
+0.5959086411	ga
+0.5958820691	gfp
+0.5958139743	simple exclusion
+0.5953116334	structure
+0.5952467525	function
+0.5952341152	apparatus
+0.5950000524	factors
+0.5946250034	looping
+0.5946203797	bacteria
+0.5944991007	strong
+0.5944631896	promoting
+0.5944362589	generation
+0.5942507557	motor density
+0.5942191475	mcc
+0.5941733693	bacterial
+0.5941710722	pdf
+0.5939586588	explain
+0.5934629271	important role
+0.5934441972	post
+0.5933334686	mlm
+0.5933063277	flagellar
+0.5931733693	stress
+0.5926178617	lattice
+0.5925977311	transfer
+0.5925247526	ligand
+0.5923857627	proteins
+0.5923461775	complexes
+0.5921417058	signal
+0.5918423581	asep
+0.5918423581	mapk
+0.5917732897	ionic
+0.5917326034	ligand receptor
+0.5912039238	receptor
+0.5911746341	small
+0.5910616711	linear
+0.5908363650	sac
+0.5908363650	fcs
+0.5907003190	control
+0.5906085335	information
+0.5902704060	tgf
+0.5902646048	lambda
+0.5902646048	theories
+0.5901933012	machine
+0.5899468199	integration
+0.5897824293	biophysical model
+0.5896879212	learning
+0.5896443702	location
+0.5896443702	double
+0.5896355250	torque
+0.5895030352	scale
+0.5892566627	potential
+0.5890892893	thermal
+0.5890732663	proton
+0.5889944491	functions
+0.5888953726	electron
+0.5888334859	model describes
+0.5887019709	based
+0.5885212551	image
+0.5882357424	drive
+0.5882293868	strategies
+0.5878158694	maximum
+0.5877410934	low
+0.5875885385	continuous
+0.5875607771	temperature
+0.5873985927	pathways
+0.5872619420	chain
+0.5871863729	describes
+0.5870899859	tension
+0.5869807019	molecule
+0.5865876957	reticulum
+0.5865835398	fadd
+0.5862456434	activated
+0.5862335066	matter
+0.5854297985	common
+0.5850285182	particle
+0.5849268609	search
+0.5849100455	experimentally
+0.5848500876	force
+0.5848370552	spherical
+0.5844181579	end
+0.5841152526	edge
+0.5839578876	pq
+0.5839578876	nf
+0.5839578876	pnas
+0.5838719780	point
+0.5836421755	type
+0.5836094842	frequency
+0.5834573342	efficiency
+0.5834243434	hormone
+0.5834243434	adenosine
+0.5833003788	single molecule experiments
+0.5831828338	chemical master
+0.5830902402	speed
+0.5830549189	minimal
+0.5829542936	starting
+0.5829305719	wave
+0.5828336072	gated
+0.5827133333	interaction
+0.5824462452	model
+0.5823322877	origins
+0.5818097733	pore
+0.5816793955	ide
+0.5814332828	shape
+0.5813876687	clock
+0.5813320935	ligand binding
+0.5811704816	negative
+0.5811013498	growth
+0.5810983951	sensitive
+0.5810814209	mhcp
+0.5809523506	maintenance
+0.5809191466	cortex
+0.5808897314	signalling
+0.5808755616	phase
+0.5807680955	differential
+0.5803797623	probability
+0.5803776704	amplitude
+0.5801536204	respiratory
+0.5798735529	organisms
+0.5795246188	drug
+0.5793443038	bar
+0.5791305852	plant
+0.5789220673	site
+0.5788634923	disease
+0.5788548056	adhesions
+0.5785565672	dependent
+0.5783484970	hill
+0.5781730685	partial differential
+0.5779748663	direct
+0.5778497428	advantage
+0.5778462288	duty
+0.5778462288	electrochemical
+0.5777748017	filaments
+0.5776484296	mechanical
+0.5771027912	coordination
+0.5771027912	soft
+0.5771027912	deviation
+0.5769314837	oscillations
+0.5768649216	k_
+0.5765352424	predictions
+0.5763851954	interacting
+0.5762007780	translational
+0.5760953960	probe
+0.5760801177	intrinsic
+0.5758568921	guvs
+0.5755855743	roles
+0.5755789876	switch
+0.5753690480	oxygen
+0.5752791965	pump
+0.5749530190	yeast
+0.5748122800	finite
+0.5738079411	constraints
+0.5737522244	source
+0.5735910609	transition
+0.5734355383	limited
+0.5733031296	tau
+0.5731223697	alternative
+0.5726722024	trafficking
+0.5721820262	robust
+0.5721546210	neural
+0.5718980193	instability
+0.5718567065	mm
+0.5718285099	phosphorylation
+0.5717514854	mouse
+0.5717514854	paradigm
+0.5717514854	conservation
+0.5716889611	element
+0.5716599375	free
+0.5715448385	planck
+0.5713011137	measurements
+0.5712634878	relative
+0.5711997334	level
+0.5711751306	square
+0.5710633060	variables
+0.5709552610	observations
+0.5709415056	elasticity
+0.5708742189	morphogen
+0.5708120669	chromosomes
+0.5707935860	average
+0.5704157339	interpretation
+0.5703217790	parb
+0.5701948386	density
+0.5701603346	explicit
+0.5700798329	characterized
+0.5700317206	power
+0.5700305411	nonlinear
+0.5697891681	distribution
+0.5695472838	media
+0.5694932919	play
+0.5694443766	cargo
+0.5693388691	hydrodynamic
+0.5691332423	random
+0.5690971703	breaking
+0.5690530395	short
+0.5689702925	polymerase
+0.5689543888	gaussian
+0.5687544440	start
+0.5687264386	synapse
+0.5685995251	simple model
+0.5683798498	sodium
+0.5681503296	important
+0.5681436231	filament
+0.5680009469	induce
+0.5680009469	resolution
+0.5679679993	mechanisms
+0.5676357228	switching
+0.5675959776	pattern
+0.5673393334	detachment
+0.5668495459	bundles
+0.5667972412	drift
+0.5666714613	temporal
+0.5666692407	features
+0.5665869946	energy
+0.5665757371	chemical
+0.5665093072	hodgkin
+0.5665062590	target
+0.5664727098	description
+0.5664376115	par
+0.5663573347	mitochondria
+0.5663328096	characterization
+0.5662807964	mnps
+0.5660680602	length
+0.5660369326	pairs
+0.5659607216	predictive
+0.5658793424	diseases
+0.5657196894	codon
+0.5656165044	chromosome
+0.5655664790	continuum
+0.5654699809	reactions
+0.5653042693	nonequilibrium
+0.5652377292	single stranded
+0.5649566838	characteristics
+0.5646077243	stroke
+0.5645071129	dynamical
+0.5644403857	narrow
+0.5642189267	velocity
+0.5641536381	paper
+0.5639588143	phenomenon
+0.5638827214	steric
+0.5638827214	kinases
+0.5638666339	hydrolysis
+0.5636709483	design
+0.5635330701	model shows
+0.5634557030	explanation
+0.5633411113	nucleosome
+0.5632646784	expression
+0.5632439895	concentration
+0.5632285987	quantification
+0.5632285987	advances
+0.5632285987	determination
+0.5630413623	surface
+0.5630191888	high
+0.5629614544	tyrosine
+0.5629220771	osmotic
+0.5628334383	predicts
+0.5627684385	regarded
+0.5627684385	implicated
+0.5627684385	majority
+0.5627684385	identification
+0.5625902324	fluid
+0.5625252978	problem
+0.5625242498	exchange
+0.5624946468	general
+0.5623700637	phloem
+0.5623079514	motors
+0.5622923604	ordered
+0.5622923604	exponent
+0.5622134406	precision
+0.5621839668	progression
+0.5621503065	exposed
+0.5620961508	behavior
+0.5620473428	saccharomyces
+0.5620473428	huxley
+0.5618988696	input
+0.5616713951	fpt
+0.5616271181	silico
+0.5616021922	tf
+0.5615840172	studies
+0.5615483448	sec
+0.5615212889	run
+0.5614833416	viruses
+0.5614419835	relevance
+0.5613609638	tasep
+0.5613338057	limit
+0.5613117006	phenomena
+0.5612174966	liquid
+0.5611486528	aqp1
+0.5611486528	f1
+0.5611486528	coulomb
+0.5611486528	phys
+0.5610683816	myosin
+0.5610506908	dissipation
+0.5610483242	sites
+0.5609877780	called
+0.5608341401	origin
+0.5608242116	neuronal
+0.5608096344	recognition
+0.5608096344	past
+0.5607954582	played
+0.5607954582	appearance
+0.5607954582	collection
+0.5607954582	ranging
+0.5605206215	cycles
+0.5600751753	derived
+0.5600483778	ensemble
+0.5598763893	events
+0.5598242116	limits
+0.5597558367	production
+0.5597039796	receptors
+0.5595940874	endothelial
+0.5595560267	gtp
+0.5594537757	yield
+0.5594337133	facilitated
+0.5592839228	connecting
+0.5592839228	embryo
+0.5592839228	absolute
+0.5591596895	approach
+0.5588106579	key
+0.5586231566	competition
+0.5585769297	barrier
+0.5585507134	signaling
+0.5585334333	response
+0.5583688504	large
+0.5579865525	rats
+0.5579865525	beating
+0.5579865525	hippocampal
+0.5579865525	inositol
+0.5579865525	reorganization
+0.5579865525	traveling
+0.5579865525	homology
+0.5579865525	consistency
+0.5579865525	predicting
+0.5579799736	replication
+0.5578683924	state
+0.5578517835	biologically
+0.5578462325	one dimensional
+0.5576273176	clustering
+0.5574665562	responses
+0.5573969576	triphosphate
+0.5573943133	movement
+0.5572417965	applied
+0.5569364176	cq
+0.5568286968	findings
+0.5567624036	domains
+0.5567526355	differentiation
+0.5565188255	reminiscent
+0.5565188255	monotonic
+0.5563898947	exhibit
+0.5563874876	shock
+0.5563715571	cooperativity
+0.5563072467	explore
+0.5559658855	observed
+0.5559148273	principles
+0.5558744803	modeled
+0.5557007230	rnap
+0.5556546839	translation
+0.5554923719	change
+0.5552928989	membrane anchored
+0.5552476213	cycle
+0.5552410275	symmetric
+0.5550998922	actomyosin
+0.5550764267	formula
+0.5550647520	channels
+0.5550415482	exclusion
+0.5547831714	plk4
+0.5547831714	ras
+0.5544837622	details
+0.5543574527	regulation
+0.5543272938	patch
+0.5543249485	rdme
+0.5543157282	equations
+0.5542995632	rates
+0.5542550415	pebp1
+0.5542356982	load
+0.5541725857	balance
+0.5540927612	combined
+0.5539764143	condition
+0.5539764143	extremely
+0.5537992416	damage
+0.5537815364	obtain
+0.5536919823	increases
+0.5536885902	sr
+0.5534903812	triggered
+0.5533827389	interface
+0.5530810847	identify
+0.5530665588	nano
+0.5529975182	coupled
+0.5529328111	dynamics simulations
+0.5528476861	population
+0.5526212305	constant
+0.5525272863	applications
+0.5520707818	shows
+0.5519999090	study
+0.5518770843	science
+0.5518521764	version
+0.5518228514	generate
+0.5518022068	path
+0.5517635916	partially
+0.5517635916	dimer
+0.5516801419	increased
+0.5516459682	states
+0.5515846987	mesoscopic
+0.5515112385	frap
+0.5514485042	mutual
+0.5512873118	dynein
+0.5512375878	distinct
+0.5512248100	data
+0.5511371273	effects
+0.5510498942	log
+0.5509876029	cross
+0.5509501578	life
+0.5509079972	algorithm
+0.5508597534	purcell
+0.5508388035	accurate
+0.5508229969	effect
+0.5507568977	cytoplasmic
+0.5507261506	space
+0.5507140033	tfs
+0.5504949566	examples
+0.5504573963	rnaps
+0.5504573963	landau
+0.5503317262	ld
+0.5502234698	predict
+0.5502143237	polarization
+0.5502143237	selective
+0.5502143237	extensive
+0.5502143237	problems
+0.5499236040	intermediate
+0.5498605363	motor driven
+0.5498313923	carlo
+0.5497542249	properties
+0.5496896812	gag
+0.5496531649	rate
+0.5496371193	automated
+0.5495643709	focusing
+0.5495643709	subject
+0.5495148870	flagella
+0.5493027381	likelihood
+0.5493027381	suppressor
+0.5492786552	rb
+0.5492250361	material
+0.5492013029	bound
+0.5491597653	suggest
+0.5490578961	rebinding
+0.5490391495	mechanism
+0.5489975978	relevant
+0.5488137444	nanoparticles
+0.5487683494	interactions
+0.5486677970	inhibition
+0.5485952289	optical
+0.5484618103	existing
+0.5484142409	approximation
+0.5484018845	processes
+0.5483535559	importantly
+0.5483078282	arrangement
+0.5480856605	parp
+0.5480272618	additional
+0.5478901527	neuron
+0.5478763324	rafts
+0.5477981448	contractility
+0.5476915106	letter
+0.5472843756	futile
+0.5472843756	vesicular
+0.5472843756	significance
+0.5472837465	er
+0.5471471847	ribosome
+0.5471214716	role
+0.5470724566	open
+0.5470535327	network
+0.5469363333	complex
+0.5468579377	comprehensive
+0.5467918297	parameters
+0.5463051245	quasi steady
+0.5460540343	vitro
+0.5460224834	create
+0.5460224834	animal
+0.5459073348	regulating
+0.5458161699	steady
+0.5458123435	deterministic
+0.5456642409	regulate
+0.5455568194	polarity
+0.5453930025	initial
+0.5453120053	based model
+0.5451163020	unbinding
+0.5450406811	passive
+0.5449256951	bifurcation
+0.5448014346	plasmodium
+0.5448014346	synthase
+0.5447581951	obtained
+0.5446232800	fiber
+0.5444283831	cluster
+0.5443944846	wall
+0.5443226660	mts
+0.5443191352	diffusive
+0.5442309147	computational model
+0.5441762906	remains
+0.5438733372	vitro experiments
+0.5436951683	external
+0.5436797109	generalization
+0.5436727434	test
+0.5436602672	ltp
+0.5435733092	epigenetic
+0.5435543304	gtpase
+0.5434079024	activity
+0.5431284304	determine
+0.5431284304	values
+0.5431008448	multiscale
+0.5430698173	enzymes
+0.5430503324	framework
+0.5429916211	pm
+0.5428577676	taking
+0.5427673246	major
+0.5427503227	histone
+0.5427264756	bistability
+0.5426997111	anisotropic
+0.5425109900	evaluation
+0.5424884864	mre11
+0.5424707766	fluctuations
+0.5423549466	elucidate
+0.5423431831	orientation
+0.5422000971	photobleaching
+0.5421131809	rotation
+0.5420775655	governed
+0.5419374204	force dependent
+0.5418438926	tracking
+0.5418061529	most probable
+0.5416981788	environment
+0.5416888545	occurs
+0.5415289063	motion
+0.5414130048	experimental and theoretical
+0.5414029743	comparison
+0.5413435080	neurotransmitter
+0.5413435080	supporting
+0.5413334117	ca
+0.5413135632	modification
+0.5411688682	considered
+0.5411629041	quantitative
+0.5410389932	enhanced
+0.5408010869	components
+0.5407243475	dcvs
+0.5407021299	developmental
+0.5406672813	region
+0.5406426420	molecules
+0.5405357731	section
+0.5404979750	displacement
+0.5404475029	models
+0.5402956328	times
+0.5402624489	dimensional
+0.5402123324	concept
+0.5397798694	mass
+0.5397798694	produce
+0.5397413020	relation
+0.5397060099	referred
+0.5397060099	stages
+0.5397060099	focused
+0.5396781760	pathway
+0.5396179642	leak
+0.5396179642	inclusion
+0.5395397490	species
+0.5394726325	unit
+0.5394577590	telosomes
+0.5394577590	autophagy
+0.5391465106	agree
+0.5391465106	aim
+0.5391203578	walls
+0.5390058185	perform
+0.5389124988	localization
+0.5387905605	analyze
+0.5383236557	output
+0.5382467787	equation
+0.5381057148	modelling
+0.5381001727	estimate
+0.5380763832	form
+0.5380577880	established
+0.5379623517	translocation
+0.5379427921	escherichia
+0.5379340637	extracellular
+0.5379175859	vivo
+0.5376825993	iii
+0.5375786654	electrostatic
+0.5373493411	significantly
+0.5372795992	so called
+0.5371982218	cilia
+0.5370898154	process
+0.5369924259	bundle
+0.5369564060	gating
+0.5368051303	expansion
+0.5367844128	generally
+0.5367844128	early
+0.5367288393	resulting
+0.5364865015	processive
+0.5364830572	lateral
+0.5362647383	stathmin
+0.5362603640	corresponds
+0.5362603640	bf
+0.5362576421	axons
+0.5362576421	autonomous
+0.5362576421	circular
+0.5362576421	working
+0.5362576421	indirect
+0.5362126113	proposed
+0.5361407469	review
+0.5360812369	result
+0.5359550297	dwell
+0.5358599976	encoding
+0.5357970800	collapse
+0.5357808676	intra
+0.5356672220	estimation
+0.5354292448	shown
+0.5354266773	specific
+0.5352777816	included
+0.5351384154	occur
+0.5351333631	iv
+0.5351078282	axon
+0.5350434717	question
+0.5350434717	numbers
+0.5350370515	erythrocytes
+0.5350370515	compliance
+0.5350370515	buffer
+0.5350370515	quenched
+0.5350370515	shorter
+0.5350370515	genomes
+0.5350370515	demixing
+0.5350370515	phospholipid
+0.5350370515	spots
+0.5350370515	altered
+0.5350370515	solid
+0.5350370515	synchronized
+0.5350370515	adhesive
+0.5350370515	protofilament
+0.5350370515	led
+0.5350370515	contributes
+0.5350370515	propulsion
+0.5350370515	oppositely
+0.5350370515	shaping
+0.5349771826	positive
+0.5347926886	polymers
+0.5347181549	wnt
+0.5346906516	extrinsic
+0.5346534688	hes1
+0.5345631333	unbound
+0.5345554794	address
+0.5345380569	latency
+0.5345078940	diverse
+0.5344437369	scales
+0.5343695115	separation
+0.5343175091	adp
+0.5342729526	tumor
+0.5342054157	non equilibrium
+0.5341119788	ultrasensitivity
+0.5341119788	filtering
+0.5341119788	comment
+0.5340367850	investigate
+0.5339488553	close
+0.5339313325	recently
+0.5338573183	appears
+0.5338573183	live
+0.5338543459	understood
+0.5335745207	studied
+0.5335513380	exerted
+0.5334219893	specifically
+0.5332635070	first order
+0.5330981366	building
+0.5330095280	derive
+0.5330001588	fitting
+0.5328724555	ribosomal
+0.5326181650	potentials
+0.5325990273	predicted
+0.5325252292	correlation
+0.5323720767	strikingly
+0.5323333204	spine
+0.5322851210	finally
+0.5322228747	mscl
+0.5322123882	basic
+0.5321691392	organelles
+0.5321656684	discuss
+0.5321242550	entire
+0.5321055827	evidence
+0.5320201281	crosstalk
+0.5320056572	release
+0.5319450502	ratio
+0.5318279775	waveforms
+0.5318279775	jumps
+0.5318279775	synergy
+0.5317903544	field
+0.5315531570	stochastic reaction
+0.5314845087	provide
+0.5314258151	extrusion
+0.5314258151	shocks
+0.5314258151	gate
+0.5314258151	functionality
+0.5314258151	resistant
+0.5313830180	method
+0.5313295887	loop
+0.5311662643	persistent
+0.5311662643	qualitative
+0.5311190489	generating
+0.5310811260	propelled
+0.5310811260	falciparum
+0.5310811260	clamp
+0.5310811260	serves
+0.5310376876	flexible
+0.5309357799	developed
+0.5306199198	larger
+0.5305044796	senescence
+0.5305044796	beat
+0.5305044796	hyperthermia
+0.5305044796	challenging
+0.5305044796	integrated
+0.5305044796	areas
+0.5305044796	tethers
+0.5305044796	junctions
+0.5305044796	thermodynamically
+0.5305044796	break
+0.5305044796	intriguing
+0.5305044796	hypotheses
+0.5305044796	collisions
+0.5305044796	pairing
+0.5305044796	instabilities
+0.5305044796	eventually
+0.5305044796	perturbed
+0.5305044796	dimension
+0.5305044796	suppression
+0.5305044796	operating
+0.5305044796	inhibitory
+0.5305044796	instance
+0.5305044796	errors
+0.5305044796	computing
+0.5305044796	nanoparticle
+0.5305044796	stabilization
+0.5301237393	characterize
+0.5300857786	component
+0.5296197886	circulation
+0.5295883570	inside
+0.5293932051	probable
+0.5293321778	significant
+0.5293176864	mind
+0.5293102441	discussed
+0.5292325906	plus end
+0.5291852459	increase
+0.5291832328	excluded
+0.5291732469	degradation
+0.5291612344	apoptosis
+0.5290975922	k
+0.5290730551	evolution
+0.5290292870	essential
+0.5289770858	previously
+0.5287652449	tool
+0.5287598557	fields
+0.5287456276	emergence
+0.5287441762	noisy
+0.5286733341	transmission
+0.5285503809	parameter
+0.5280840785	correspond
+0.5279832100	bonds
+0.5278179466	including
+0.5277403642	transient
+0.5277276642	d
+0.5276084267	fact
+0.5275978608	ejection
+0.5275978608	detect
+0.5275488833	cell to cell
+0.5275126499	acids
+0.5274232064	v
+0.5272060916	direction
+0.5271827463	application
+0.5270369300	stall
+0.5269351682	exponential
+0.5269017821	scaling
+0.5268752476	solution
+0.5268337069	`
+0.5267306830	enrichment
+0.5267306830	perspectives
+0.5267306830	bias
+0.5267306830	possibly
+0.5267306830	crosslinked
+0.5267306830	freely
+0.5267306830	candidate
+0.5267306830	excess
+0.5267306830	therapies
+0.5267306830	health
+0.5267306830	contrary
+0.5267306830	establishment
+0.5267306830	biochemistry
+0.5267306830	slip
+0.5267306830	sensors
+0.5267306830	chemicals
+0.5267306830	striking
+0.5267306830	averaging
+0.5266157647	daughter
+0.5266157647	occurrence
+0.5265979889	capture
+0.5265492565	varying
+0.5264541064	groups
+0.5264541064	cyclic
+0.5263619824	calculations
+0.5263619824	classical
+0.5262842490	special
+0.5262385861	unclear
+0.5260909216	endoplasmic
+0.5260353602	ligands
+0.5259841667	decay
+0.5259790632	plants
+0.5259047209	processing
+0.5257952684	strand
+0.5257026160	michaelis
+0.5256802869	electric
+0.5256796093	size
+0.5256611327	nm
+0.5255179094	decreases
+0.5253694808	insulin
+0.5251329939	weak
+0.5251329939	future
+0.5250768226	main
+0.5249879056	ip3
+0.5249407990	independent
+0.5246585709	sufficient
+0.5245434615	smad
+0.5245082530	position
+0.5244841283	persistence
+0.5244841283	mitosis
+0.5244841283	metastable
+0.5244841283	movements
+0.5243390625	teams
+0.5243293921	analyses
+0.5243293921	controlling
+0.5242836250	minimal model
+0.5242470612	date
+0.5242229351	commonly
+0.5241686993	subdiffusion
+0.5241686993	irradiation
+0.5240546214	nascent
+0.5239986162	gain
+0.5239279988	principle
+0.5239260217	constants
+0.5237923630	scaffold
+0.5237923630	characterizing
+0.5237003032	loops
+0.5236840417	anchored
+0.5236505882	confinement
+0.5236405594	regulated
+0.5236347294	initiation
+0.5236347294	neurons
+0.5235399601	strength
+0.5234917480	context
+0.5234774871	standard
+0.5234497126	gamma
+0.5232944197	sensory
+0.5232944197	energetics
+0.5232944197	contributions
+0.5232944197	successful
+0.5229206300	broad
+0.5228438415	dna binding
+0.5226202366	body
+0.5226146485	n
+0.5224411906	ordinary
+0.5223923209	analogous
+0.5222920807	basis
+0.5221547469	checkpoint
+0.5220786649	observation
+0.5219455253	mechanotransduction
+0.5219455253	geometrical
+0.5219455253	bio
+0.5219455253	coordinated
+0.5217860009	investigations
+0.5216779086	explains
+0.5216072918	sliding
+0.5215899144	sample
+0.5215823993	operation
+0.5214680815	morphology
+0.5210615186	related
+0.5210604365	mechano
+0.5210217127	copy
+0.5209254736	nucleation
+0.5209191863	determined
+0.5208557717	law
+0.5207874554	curved
+0.5207874554	chemotaxis
+0.5207874554	mechanochemical
+0.5207874554	viscous
+0.5207874554	comparing
+0.5206847200	totally
+0.5206479732	kinetochore
+0.5206479732	performance
+0.5205799005	genomic
+0.5205799005	center
+0.5205799005	correlations
+0.5205799005	stepping
+0.5203594307	dependence
+0.5201668944	achieve
+0.5201451486	myosin v
+0.5200841744	making
+0.5198711807	reduced
+0.5197925621	geometric
+0.5197925621	filopodia
+0.5195126166	determining
+0.5194526166	hypothesis
+0.5193705606	encounter
+0.5190430172	multi
+0.5189641658	microtubules
+0.5188725739	interestingly
+0.5188449758	set
+0.5187883099	uptake
+0.5186552187	number
+0.5186287725	waiting
+0.5186018681	exposure
+0.5186018681	specificity
+0.5186018681	nanoscale
+0.5186018681	calculation
+0.5186018681	capsids
+0.5185579591	c
+0.5184227611	partial
+0.5182975104	existence
+0.5182443916	believed
+0.5182334825	reversible
+0.5182334825	generalized
+0.5181014295	family
+0.5180252420	sphere
+0.5179780525	notch
+0.5179108465	revealed
+0.5178507075	surface receptors
+0.5177377521	enzymatic
+0.5177377521	questions
+0.5175246882	tube
+0.5174019620	loci
+0.5172370477	motivated
+0.5171661127	p
+0.5171390771	ends
+0.5169742486	together
+0.5169378570	consequence
+0.5168274195	flux
+0.5168054850	applicable
+0.5167419632	anti
+0.5167166151	fluctuating
+0.5167166151	environmental
+0.5167166151	earlier
+0.5167166151	selectivity
+0.5167166151	defects
+0.5165975115	oligomer
+0.5165975115	mechanosensitive
+0.5165975115	scaffolds
+0.5165361021	gap
+0.5165221976	decrease
+0.5164217804	em
+0.5163611110	term
+0.5162871838	link
+0.5161014295	prediction
+0.5160223714	defence
+0.5159326226	spatially
+0.5158274195	approaches
+0.5158262218	pair
+0.5158115409	mammalian
+0.5154430119	kaic
+0.5150142019	surprisingly
+0.5149515832	monte
+0.5148642638	ensembles
+0.5148642638	relaxation
+0.5148642638	entry
+0.5148642638	precise
+0.5148642638	conductance
+0.5146862370	targets
+0.5145585486	modeling
+0.5144784898	novel
+0.5144764654	microscopic
+0.5142391060	t
+0.5141238401	local
+0.5139465324	bilayers
+0.5139050600	fusion
+0.5138115409	escape
+0.5137829433	heterogeneity
+0.5135166094	matrix
+0.5134522074	b
+0.5134516349	fate
+0.5133768022	steps
+0.5133032955	consisting
+0.5132632306	cerevisiae
+0.5132632306	thought
+0.5132632306	place
+0.5132454791	pressure
+0.5130845913	kif1a
+0.5127314633	additionally
+0.5126251051	directional
+0.5126130443	arises
+0.5124148959	pomz
+0.5123910373	heterogeneous
+0.5123910373	cholesterol
+0.5123910373	reconstituted
+0.5123657368	non markovian
+0.5123643565	macroscopic
+0.5122411993	biophysics
+0.5120469520	computer simulation
+0.5119972753	semiflexible
+0.5119972753	modern
+0.5119972753	conclusion
+0.5119972753	newly
+0.5119972753	enhancement
+0.5119450494	l
+0.5119305055	trajectories
+0.5118880607	grained
+0.5118713941	variety
+0.5117312144	bursts
+0.5117177885	assumed
+0.5113592789	bi
+0.5113592789	branching
+0.5113592789	connection
+0.5113592789	topological
+0.5112159828	self
+0.5108790224	rapid
+0.5108790224	view
+0.5108790224	parallel
+0.5108653188	zipping
+0.5108653188	glucose
+0.5108653188	oscillator
+0.5108077575	e
+0.5107887292	quality
+0.5106372980	group
+0.5106372980	tubes
+0.5105480060	f
+0.5105017603	activation
+0.5104227611	variations
+0.5102688905	autocatalytic
+0.5102085946	kinesins
+0.5101351661	lack
+0.5100824366	dual
+0.5100824366	measuring
+0.5098053968	present
+0.5097789880	slow
+0.5093992027	cost
+0.5090552764	excellent
+0.5090552764	kind
+0.5090154290	x
+0.5090115858	stem
+0.5089540727	extending
+0.5086011052	quasi
+0.5083318963	stationary
+0.5082433507	controlled
+0.5081905664	arising
+0.5080105211	accounting
+0.5077160651	coherent
+0.5072607700	global
+0.5071588100	sufficiently
+0.5069352971	stochastic dynamics
+0.5068011262	overlap
+0.5066677990	inhibitors
+0.5066658359	tuning
+0.5066658359	communication
+0.5063700972	variability
+0.5063700972	timing
+0.5063700972	simulate
+0.5062803986	sequences
+0.5061480939	understand
+0.5058110837	renewal
+0.5054008956	after
+0.5053716192	difficult
+0.5053336282	berg
+0.5052562459	techniques
+0.5049598717	discreteness
+0.5048166035	supported
+0.5048107009	oscillation
+0.5047473939	three dimensional
+0.5047249603	testable
+0.5047115155	jams
+0.5046795543	transcript
+0.5043738675	periodic
+0.5042750054	forces
+0.5042337558	protocols
+0.5042337558	chiral
+0.5042337558	condensation
+0.5042337558	fluids
+0.5041211762	mtdna
+0.5040843443	computation
+0.5039736482	messenger
+0.5038240819	capacity
+0.5038008377	interplay
+0.5037953394	phases
+0.5035202547	duration
+0.5034110218	subsequently
+0.5033062476	rely
+0.5033061413	synapses
+0.5033061413	initially
+0.5033061413	astrocytes
+0.5032155378	statistics
+0.5030453294	ions
+0.5028317001	profiles
+0.5027868002	remarkably
+0.5027281560	tip
+0.5026518013	investigating
+0.5025650726	p27
+0.5025634955	gas
+0.5025443658	smaller
+0.5023670051	substrate
+0.5022460783	performing
+0.5022460783	stochasticity
+0.5022460783	stimulation
+0.5022288603	highly
+0.5020262818	physiological
+0.5017414816	diagrams
+0.5017414816	lines
+0.5016257620	widely
+0.5015783326	such
+0.5015506790	respond
+0.5015498784	regions
+0.5014449053	bind
+0.5013995024	interact
+0.5012616368	combining
+0.5012273676	simultaneously
+0.5011393849	shift
+0.5009575986	influenced
+0.5009186903	clusters
+0.5009058230	isolated
+0.5007219881	onset
+0.5007050468	sources
+0.5002185595	strategy
+0.5001510311	ribosomes
+0.4998994520	extreme
+0.4998994520	assuming
+0.4998994520	emergent
+0.4998554044	mobility
+0.4997420627	focal
+0.4990665847	employing
+0.4989739087	produced
+0.4988722485	measure
+0.4987474633	difference
+0.4987178804	faster
+0.4986213582	cortical
+0.4985847982	range
+0.4983102780	provided
+0.4981701203	positioning
+0.4980321225	relies
+0.4980267570	monomers
+0.4979183007	amplification
+0.4971716495	organized
+0.4968605089	so
+0.4968480332	reveal
+0.4968480332	identified
+0.4967057022	series
+0.4964116124	nanopore
+0.4963638228	biopolymers
+0.4963638228	crosslinking
+0.4963638228	evolved
+0.4963638228	retraction
+0.4963638228	giant
+0.4963638228	facilitates
+0.4963638228	hard
+0.4963638228	precisely
+0.4963638228	geometries
+0.4963638228	considerations
+0.4963638228	spread
+0.4963638228	classes
+0.4963638228	inverse
+0.4963638228	hydrophobic
+0.4963638228	bottleneck
+0.4963638228	inclusions
+0.4963638228	amplified
+0.4963638228	micro
+0.4963638228	twist
+0.4962474633	achieved
+0.4958740905	bending
+0.4957157376	emerge
+0.4957157376	viscoelastic
+0.4957157376	propagation
+0.4957157376	configurations
+0.4957157376	objects
+0.4955608936	quantitatively
+0.4954927405	biomolecular
+0.4954927405	representation
+0.4954927405	incorporating
+0.4954927405	aster
+0.4954927405	coexistence
+0.4953816053	feature
+0.4949545394	background
+0.4949310533	walks
+0.4947778647	serve
+0.4945759496	composed
+0.4945047504	skeleton
+0.4945047504	coat
+0.4944919446	peptide
+0.4944447262	spatiotemporal
+0.4944447262	increasingly
+0.4944447262	reliable
+0.4944447262	oscillating
+0.4944447262	locally
+0.4944447262	surfaces
+0.4944447262	algorithms
+0.4940659697	recursive
+0.4940659697	transiting
+0.4939625517	extension
+0.4937450788	modes
+0.4935174504	monomer
+0.4935174504	lipids
+0.4935174504	charged
+0.4934914216	variance
+0.4932604109	first
+0.4932296460	complexity
+0.4932296460	bulk
+0.4932165974	intensity
+0.4931266059	consists
+0.4929534218	inspired
+0.4929340735	motor transport
+0.4928946303	radial
+0.4928946303	droplet
+0.4928851147	quantify
+0.4928753242	gel
+0.4928082954	applying
+0.4927926120	ratchet
+0.4924352309	living
+0.4923926713	proofreading
+0.4918381425	inactive
+0.4918381425	patches
+0.4918381425	microdomains
+0.4918381425	organize
+0.4918381425	dephosphorylation
+0.4918381425	fundamentally
+0.4918381425	targeting
+0.4918381425	arrival
+0.4918381425	rupture
+0.4918381425	pure
+0.4918381425	abnormal
+0.4918381425	endogenous
+0.4918381425	signatures
+0.4918381425	dissipative
+0.4918381425	repressor
+0.4918381425	adsorption
+0.4918381425	permeability
+0.4918381425	relationships
+0.4918381425	gels
+0.4918381425	mixtures
+0.4918381425	exocytosis
+0.4918381425	correctly
+0.4918381425	nanometer
+0.4918381425	spike
+0.4918381425	phenotypic
+0.4916087639	switches
+0.4913831428	deformations
+0.4913831428	spreading
+0.4913831428	physiology
+0.4913831428	copying
+0.4913831428	connectivity
+0.4911593046	stranded
+0.4911447029	organism
+0.4909311210	layer
+0.4908734301	nucleotides
+0.4907604762	fast
+0.4905780695	realistic
+0.4905780695	static
+0.4896621283	dimers
+0.4896621283	intermittent
+0.4896077173	respect
+0.4895253842	asters
+0.4895253842	planar
+0.4895253842	uniform
+0.4895253842	works
+0.4895253842	briefly
+0.4895253842	disassembly
+0.4895253842	peak
+0.4895253842	closure
+0.4895253842	competing
+0.4895253842	resolved
+0.4895253842	mutants
+0.4894066639	tubulin
+0.4894066639	oscillatory
+0.4894048121	medium
+0.4893403602	poorly
+0.4892794486	recycling
+0.4890884262	approximate
+0.4890884262	rod
+0.4890884262	simulated
+0.4890884262	inhibitor
+0.4890884262	unidirectional
+0.4887787570	thousands
+0.4887787570	birth
+0.4887165122	m
+0.4886168133	attached
+0.4885849089	quantifying
+0.4884286216	identical
+0.4879329506	driving
+0.4878858512	processivity
+0.4875520544	conclusions
+0.4875466399	lead
+0.4874193178	rather
+0.4871309776	growing
+0.4870747897	stator
+0.4870368836	9
+0.4868263290	reach
+0.4864998059	condensates
+0.4864998059	files
+0.4864998059	promoters
+0.4864998059	monomeric
+0.4864998059	evy
+0.4864998059	engine
+0.4864998059	damped
+0.4864939289	pulse
+0.4863222790	absence
+0.4862218048	unique
+0.4859561360	stage
+0.4859083681	capable
+0.4858442601	core
+0.4858442601	promoter
+0.4851999038	grow
+0.4851999038	backward
+0.4851999038	nucleotide
+0.4851999038	subcellular
+0.4851999038	approximations
+0.4851999038	energetic
+0.4851999038	emerges
+0.4851999038	barriers
+0.4850245907	hand
+0.4845176140	graded
+0.4843864866	infinite
+0.4843864866	pulses
+0.4842706802	dyneins
+0.4842465502	stranded dna
+0.4841495570	compression
+0.4841444079	constriction
+0.4841444079	pseudo
+0.4841444079	adaptive
+0.4841444079	sorting
+0.4841444079	mixed
+0.4841444079	perturbation
+0.4841444079	late
+0.4841444079	cascades
+0.4838790814	inter
+0.4838790814	affects
+0.4838605649	th
+0.4837477538	cleavage
+0.4835164674	associated
+0.4835096612	cytoplasm
+0.4834032521	act
+0.4828192669	loss
+0.4828025992	distance
+0.4826497544	most
+0.4825572350	organisation
+0.4825572350	binary
+0.4825572350	measurement
+0.4825572350	images
+0.4825572350	currents
+0.4825572350	constrained
+0.4825572350	vital
+0.4825572350	fractions
+0.4825572350	morphological
+0.4825572350	regular
+0.4825572350	travel
+0.4823518077	consistent
+0.4819412287	required
+0.4817525941	genes
+0.4815699188	embedded
+0.4815571824	recovery after
+0.4813778577	unlike
+0.4813427391	traps
+0.4813087792	stable
+0.4811906074	proportional
+0.4811906074	contribute
+0.4808749499	individual
+0.4807145028	each
+0.4806394432	ballistic
+0.4803004486	unknown
+0.4802057165	ph
+0.4798351951	patterns
+0.4797965198	cases
+0.4791713103	energies
+0.4791713103	resources
+0.4791026465	degree
+0.4789830978	analytically
+0.4787504589	levels
+0.4787165691	in
+0.4784287185	affect
+0.4784287185	exhibits
+0.4784203755	presented
+0.4783371094	bistable
+0.4783371094	drugs
+0.4783371094	research
+0.4783138343	hexamers
+0.4783138343	outcomes
+0.4783138343	representing
+0.4783138343	efficacy
+0.4783138343	detach
+0.4783138343	govern
+0.4783138343	stalling
+0.4783138343	tether
+0.4783138343	alterations
+0.4783138343	fractional
+0.4783138343	greatly
+0.4783138343	deep
+0.4783138343	embryos
+0.4783138343	enriched
+0.4783138343	selected
+0.4783138343	ranges
+0.4783138343	desorption
+0.4783138343	fashion
+0.4783138343	secretion
+0.4783138343	governs
+0.4783138343	sheet
+0.4783138343	content
+0.4783138343	centers
+0.4783138343	operates
+0.4783138343	converted
+0.4783138343	undergoing
+0.4783138343	anchoring
+0.4783138343	prominent
+0.4783138343	gained
+0.4783138343	stretching
+0.4783138343	gates
+0.4783138343	variants
+0.4783138343	efforts
+0.4783138343	plausible
+0.4783138343	integrate
+0.4783138343	dramatic
+0.4783138343	infected
+0.4783138343	introducing
+0.4783138343	contexts
+0.4783138343	settings
+0.4783138343	axoneme
+0.4783138343	centrosomes
+0.4783138343	repeated
+0.4783138343	exceed
+0.4783138343	crowders
+0.4783138343	tend
+0.4783138343	lifetimes
+0.4783138343	graphene
+0.4783138343	proximal
+0.4783138343	irreversible
+0.4783138343	couple
+0.4783138343	tethered
+0.4783138343	cytokinesis
+0.4783138343	measures
+0.4783138343	separate
+0.4783138343	mediate
+0.4783138343	contained
+0.4783138343	parts
+0.4783138343	treat
+0.4783138343	analysed
+0.4783138343	partners
+0.4783138343	compatible
+0.4783138343	activating
+0.4783138343	divisions
+0.4783138343	helps
+0.4783138343	recover
+0.4783138343	firing
+0.4783138343	window
+0.4783138343	reaching
+0.4783138343	export
+0.4783138343	goal
+0.4783138343	underlies
+0.4783138343	randomness
+0.4783138343	interacts
+0.4783138343	success
+0.4783138343	prokaryotes
+0.4783138343	degrees
+0.4783138343	synthesize
+0.4783138343	hypothesized
+0.4783138343	optimized
+0.4783138343	doses
+0.4783138343	converges
+0.4783138343	primarily
+0.4783138343	slowly
+0.4783138343	challenges
+0.4782627759	spatio
+0.4782608756	moving
+0.4782466664	depends
+0.4782249525	attachment
+0.4781147016	threshold
+0.4778371094	asymmetry
+0.4776657726	alternating
+0.4776583859	right
+0.4773663307	bodies
+0.4773075228	motifs
+0.4772920668	catch
+0.4771877700	swimming
+0.4770631425	wild
+0.4769969003	signals
+0.4769614192	allowing
+0.4769614192	turnover
+0.4769614192	changing
+0.4765426357	one
+0.4764419942	impact
+0.4764307659	diffusing
+0.4764307659	machinery
+0.4764307659	examine
+0.4764307659	typically
+0.4763873184	caused
+0.4762447569	as
+0.4761889272	limiting
+0.4761889272	support
+0.4761889272	macromolecules
+0.4761889272	deformation
+0.4758866310	relationship
+0.4758555938	composition
+0.4757469003	investigated
+0.4752699130	nucleosomes
+0.4749818090	differences
+0.4749199659	micron
+0.4749199659	tail
+0.4748623898	stochastic differential
+0.4746788986	regimes
+0.4746371540	actively
+0.4746371540	pre
+0.4744463200	arise
+0.4743074459	possibility
+0.4742330605	terms
+0.4741510061	does
+0.4740195329	structures
+0.4739705652	solutions
+0.4737855084	wide
+0.4735225377	this
+0.4734839441	new
+0.4734398835	agreement
+0.4733310398	spheres
+0.4733310398	extracted
+0.4730626555	insight
+0.4730384655	analytic
+0.4730365965	alpha
+0.4729257122	turn
+0.4728700984	affected
+0.4726608567	involved
+0.4726608567	addition
+0.4725725882	association
+0.4723978830	crucial
+0.4721581579	trajectory
+0.4721581579	obstacles
+0.4721012775	linked
+0.4720923154	patterning
+0.4720923154	locus
+0.4720923154	survival
+0.4720923154	fluxes
+0.4720923154	cargoes
+0.4720923154	assays
+0.4720923154	semi
+0.4720923154	protrusions
+0.4720923154	boundaries
+0.4720364531	mrna
+0.4716691087	generated
+0.4716612229	tracks
+0.4715871077	correlated
+0.4715871077	yields
+0.4715871077	mechanistic
+0.4715871077	arrays
+0.4715871077	conformation
+0.4715871077	knowledge
+0.4714406742	the
+0.4712934604	arc
+0.4712934604	tracer
+0.4712934604	frequencies
+0.4712934604	mother
+0.4712934604	subunit
+0.4712934604	periods
+0.4712934604	plasmids
+0.4712050210	these
+0.4711966438	track
+0.4709615615	three
+0.4709310241	numerically
+0.4709304915	example
+0.4709301603	i.e
+0.4709274388	samples
+0.4709274388	activate
+0.4709274388	treated
+0.4709274388	device
+0.4709274388	constituents
+0.4709274388	practical
+0.4709274388	parasite
+0.4709274388	ensures
+0.4709274388	immunological
+0.4709274388	employ
+0.4709274388	distinguish
+0.4709274388	labeled
+0.4709274388	formulated
+0.4709274388	quantified
+0.4709274388	marks
+0.4709274388	wells
+0.4709274388	expressing
+0.4709274388	validate
+0.4709274388	estimators
+0.4709274388	modulating
+0.4709274388	positioned
+0.4709274388	jump
+0.4709274388	obeys
+0.4709274388	overlapping
+0.4709274388	supply
+0.4709274388	quantity
+0.4709274388	occupied
+0.4709274388	originally
+0.4709274388	ways
+0.4709274388	fine
+0.4709274388	maintaining
+0.4709274388	nucleosomal
+0.4709274388	biased
+0.4709274388	lag
+0.4709274388	intervals
+0.4709274388	considers
+0.4709274388	chromosomal
+0.4709274388	evaluated
+0.4709274388	product
+0.4709274388	alignment
+0.4709274388	varies
+0.4709274388	formulation
+0.4709274388	producing
+0.4709274388	tubulation
+0.4709274388	biopolymer
+0.4709274388	tuned
+0.4709274388	considerable
+0.4709274388	neutral
+0.4709274388	regulator
+0.4709274388	decades
+0.4709274388	reaches
+0.4709274388	emphasis
+0.4709274388	promote
+0.4709274388	overcome
+0.4709274388	expect
+0.4709274388	eukaryotes
+0.4709274388	devices
+0.4709274388	supports
+0.4709274388	vicinity
+0.4709274388	validity
+0.4709274388	internalization
+0.4709274388	adsorbed
+0.4709274388	descriptions
+0.4709274388	freedom
+0.4709274388	imposed
+0.4709274388	trade
+0.4709274388	tunnel
+0.4708142058	regime
+0.4707280087	pole
+0.4707039270	perspective
+0.4707039270	cytosol
+0.4707039270	polar
+0.4707039270	environments
+0.4707039270	finding
+0.4705676836	beta
+0.4705495276	forward
+0.4705355267	total
+0.4705178128	stators
+0.4705178128	kt
+0.4701008550	more
+0.4700785097	coherence
+0.4700785097	counterions
+0.4700785097	chaperones
+0.4700785097	bonding
+0.4700785097	aggregate
+0.4700785097	protrusion
+0.4700307543	block
+0.4699204410	curve
+0.4698794515	takes
+0.4695725882	reveals
+0.4695026509	responsible
+0.4694054487	sizes
+0.4694054487	plays
+0.4693871881	for
+0.4692059216	compare
+0.4692059216	behaviour
+0.4692059216	calculate
+0.4692059216	remain
+0.4690293851	passage
+0.4689200095	non
+0.4687571156	off
+0.4684939856	cascade
+0.4684939856	p53
+0.4684939856	rigid
+0.4683521336	suggests
+0.4681921572	induces
+0.4681921572	coordinate
+0.4681921572	conserved
+0.4681921572	flexibility
+0.4681921572	proper
+0.4681921572	diffusivity
+0.4681921572	simplified
+0.4681921572	populations
+0.4680411242	report
+0.4680411242	involving
+0.4676737805	characteristic
+0.4676737805	directly
+0.4675392549	fixed
+0.4674944926	property
+0.4674807779	self propelled
+0.4674757550	lifetime
+0.4673629615	particles
+0.4672243017	conditions
+0.4671921416	means
+0.4671693068	subunits
+0.4671625643	module
+0.4671625643	treadmilling
+0.4671625643	stiff
+0.4670660430	importance
+0.4666660432	amino
+0.4666252993	assemblies
+0.4666252993	primary
+0.4666252993	drives
+0.4666252993	sets
+0.4666252993	accumulation
+0.4663807555	mrnas
+0.4661548175	maturation
+0.4659707233	measured
+0.4658158688	seen
+0.4656249974	segment
+0.4655473701	stiffness
+0.4654203859	lower
+0.4654203859	manner
+0.4654203859	requires
+0.4654203859	demonstrated
+0.4654203859	explicitly
+0.4653805266	underlying
+0.4653206190	e.g
+0.4652010418	a
+0.4651175626	observe
+0.4651175626	chains
+0.4650847989	strongly
+0.4647723852	catastrophe
+0.4646223199	focus
+0.4645881667	lengths
+0.4645863445	hair
+0.4645600932	step
+0.4644411209	insertion
+0.4640134288	observed in experiments
+0.4637978067	walk
+0.4636638241	plasma
+0.4636213811	acid
+0.4633854511	aspects
+0.4633854511	fraction
+0.4632090302	polarized
+0.4631821077	ssdna
+0.4629826669	depend
+0.4629689301	cognate
+0.4629689301	peptides
+0.4629689301	reservoir
+0.4628366056	accounts
+0.4627413814	spontaneously
+0.4627413814	aggregation
+0.4627413814	diffuse
+0.4627413814	developing
+0.4627413814	complete
+0.4627413814	phenomenological
+0.4627413814	estimates
+0.4626818873	rotor
+0.4626757288	rise
+0.4626436442	introduce
+0.4625273273	rotary
+0.4623347885	stabilized
+0.4623347885	seconds
+0.4620580835	codons
+0.4620311809	2
+0.4619897144	known
+0.4619184582	concentrations
+0.4618408527	extract
+0.4617987475	sustained
+0.4617987475	potentially
+0.4617987475	searcher
+0.4617987475	separated
+0.4617987475	bacterium
+0.4617987475	reproduce
+0.4617987475	outer
+0.4617987475	occurring
+0.4617987475	progress
+0.4617987475	formed
+0.4617987475	cytosolic
+0.4617987475	equal
+0.4617987475	picture
+0.4617987475	investigation
+0.4617987475	estimated
+0.4617987475	exists
+0.4615098546	mode
+0.4614859884	during
+0.4614155831	contrast
+0.4614155831	master
+0.4613627317	localized
+0.4610940849	least
+0.4609214278	improve
+0.4609214278	needed
+0.4609214278	minimum
+0.4609214278	behaviors
+0.4609214278	conformations
+0.4609214278	rich
+0.4609214278	extent
+0.4608386406	demonstrate
+0.4607902216	combination
+0.4601639846	years
+0.4600111427	leads
+0.4599844924	time
+0.4598392901	carrying
+0.4596833931	account
+0.4593951263	streaming
+0.4593802986	by
+0.4593647524	^ 2
+0.4593448845	arguments
+0.4593448845	promotes
+0.4593448845	possess
+0.4593448845	midcell
+0.4593448845	filled
+0.4593448845	motile
+0.4593448845	circuits
+0.4593448845	fragmentation
+0.4593448845	decreased
+0.4593448845	world
+0.4593448845	antiparallel
+0.4593448845	establishes
+0.4593448845	adapt
+0.4593448845	decision
+0.4593448845	gliding
+0.4593448845	oocytes
+0.4593448845	pushing
+0.4593448845	thickness
+0.4593448845	loads
+0.4593448845	implemented
+0.4593448845	infer
+0.4593448845	rings
+0.4593448845	cusp
+0.4593448845	simply
+0.4593448845	implementation
+0.4593448845	directionality
+0.4593448845	tests
+0.4593448845	nuclei
+0.4593448845	subdiffusive
+0.4593448845	substantial
+0.4593448845	explaining
+0.4593448845	absorbing
+0.4593448845	dominated
+0.4593448845	solely
+0.4593448845	peaks
+0.4593448845	interpreted
+0.4593448845	added
+0.4593448845	packaging
+0.4593448845	built
+0.4593448845	restricted
+0.4593448845	drastically
+0.4593448845	inputs
+0.4593448845	pumping
+0.4593448845	biomembranes
+0.4593448845	depolymerizing
+0.4593448845	comprising
+0.4593448845	supercoiling
+0.4593448845	carry
+0.4593448845	unusual
+0.4593448845	decreasing
+0.4593448845	great
+0.4593448845	implement
+0.4593448845	uncover
+0.4593448845	span
+0.4593448845	axonal
+0.4593448845	situation
+0.4593448845	tissues
+0.4593448845	discovered
+0.4592834972	expressions
+0.4592589327	srnas
+0.4592449529	depolymerization
+0.4591571409	types
+0.4588480057	do
+0.4588271743	propose
+0.4585336756	many
+0.4585094646	develop
+0.4582914690	performed
+0.4581829374	leading
+0.4580757324	profile
+0.4580757324	involves
+0.4580757324	literature
+0.4578494803	extend
+0.4578494803	radius
+0.4578494803	consequences
+0.4578231936	enables
+0.4578231936	describing
+0.4578231936	reported
+0.4578231936	surrounding
+0.4573213418	compartments
+0.4570524396	schemes
+0.4570524396	exponentially
+0.4570524396	activities
+0.4568776039	mean
+0.4566899723	article
+0.4564807083	attachments
+0.4564807083	flat
+0.4564807083	incorporate
+0.4564807083	sharp
+0.4564807083	nutrient
+0.4564807083	successfully
+0.4564807083	remarkable
+0.4564807083	head
+0.4564807083	distances
+0.4564807083	vary
+0.4564807083	regulates
+0.4564807083	shrinkage
+0.4564807083	governing
+0.4564807083	plane
+0.4564807083	reducing
+0.4564807083	accessible
+0.4564807083	extensively
+0.4564807083	exit
+0.4564807083	formalism
+0.4564807083	telomere
+0.4564807083	bimodal
+0.4561584512	but
+0.4561573504	j
+0.4560923573	hence
+0.4560552994	event
+0.4560552994	burst
+0.4560552994	connected
+0.4560552994	wrapping
+0.4560552994	completely
+0.4557206185	densities
+0.4553853744	phenotype
+0.4551589121	al
+0.4551179640	class
+0.4549016679	substrates
+0.4548157479	ability
+0.4548007223	fit
+0.4546055948	correct
+0.4545939461	delay
+0.4545393344	coefficient
+0.4545150709	depending
+0.4542121195	kinesin 1
+0.4541937264	width
+0.4540123710	coarse
+0.4539038431	diagram
+0.4536974584	opposite
+0.4536974584	organelle
+0.4536974584	theoretically
+0.4536974584	require
+0.4536974584	obstacle
+0.4534684787	compared
+0.4533411055	units
+0.4533130070	grows
+0.4533130070	cisternae
+0.4533130070	fastest
+0.4533130070	marginal
+0.4532872811	pores
+0.4532380317	~
+0.4524687318	sized
+0.4524687318	segments
+0.4524687318	unstable
+0.4524687318	allowed
+0.4524687318	facilitate
+0.4524687318	regulators
+0.4524687318	moves
+0.4524687318	encoded
+0.4524687318	dominant
+0.4524687318	rigidity
+0.4524687318	interesting
+0.4524687318	issue
+0.4524687318	modified
+0.4524687318	enhances
+0.4524687318	maintain
+0.4524687318	confirmed
+0.4522372381	an
+0.4519573915	canonical
+0.4519573915	stereocilia
+0.4519573915	rules
+0.4516214231	determines
+0.4516214231	published
+0.4516214231	conventional
+0.4516214231	argue
+0.4516214231	attractive
+0.4516214231	super
+0.4516214231	compartment
+0.4516214231	maximal
+0.4516214231	trigger
+0.4516214231	tested
+0.4516214231	constructed
+0.4516214231	represent
+0.4516214231	efficiently
+0.4514232982	rotational
+0.4514232982	represents
+0.4513956747	diameter
+0.4512870133	sirna
+0.4512870133	blockers
+0.4512870133	trap
+0.4512870133	clocks
+0.4512870133	alter
+0.4512870133	backbone
+0.4512870133	causing
+0.4512870133	final
+0.4512870133	stimulated
+0.4512870133	transverse
+0.4512870133	hopping
+0.4512870133	interior
+0.4512870133	linker
+0.4512870133	highlight
+0.4512870133	idea
+0.4512870133	morphologies
+0.4512870133	highlights
+0.4512870133	continuously
+0.4512870133	assay
+0.4512870133	excitable
+0.4512870133	evaluate
+0.4512870133	empirical
+0.4512870133	assisted
+0.4512870133	charges
+0.4512870133	nanopores
+0.4512870133	colocalization
+0.4512870133	contacts
+0.4512870133	simplest
+0.4512870133	posterior
+0.4512870133	cap
+0.4512870133	neighboring
+0.4512870133	complementary
+0.4512870133	demonstrates
+0.4512870133	interpret
+0.4512870133	confirm
+0.4512870133	minutes
+0.4512870133	mobile
+0.4512870133	solvent
+0.4512870133	physically
+0.4512870133	proliferation
+0.4512870133	prove
+0.4512870133	induction
+0.4512870133	guide
+0.4509566884	to
+0.4509153661	perturbations
+0.4505484252	homogeneous
+0.4505484252	phenotypes
+0.4505484252	controls
+0.4505484252	successive
+0.4505484252	elusive
+0.4505484252	display
+0.4505484252	sensor
+0.4505484252	modifications
+0.4505484252	original
+0.4505484252	strains
+0.4505484252	mutant
+0.4505484252	formulas
+0.4505484252	synthesized
+0.4505484252	slower
+0.4505484252	influences
+0.4505484252	soluble
+0.4505484252	produces
+0.4505484252	buckling
+0.4505484252	attraction
+0.4505484252	lacking
+0.4505484252	adjacent
+0.4505484252	protons
+0.4505484252	native
+0.4505484252	assumption
+0.4505484252	implies
+0.4505484252	approximately
+0.4505484252	timescales
+0.4505484252	diversity
+0.4505484252	easily
+0.4505484252	inhomogeneous
+0.4505484252	employed
+0.4505484252	equivalent
+0.4505484252	initiated
+0.4505484252	versus
+0.4505484252	dense
+0.4505484252	differ
+0.4505484252	emerging
+0.4503410600	clearly
+0.4502824762	showed
+0.4502824762	fully
+0.4502824762	includes
+0.4502824762	shapes
+0.4501259059	nodes
+0.4501259059	represented
+0.4501259059	access
+0.4501259059	powerful
+0.4501259059	modulated
+0.4501259059	tradeoff
+0.4501259059	band
+0.4501259059	suitable
+0.4501259059	disorder
+0.4501259059	constitute
+0.4501259059	captured
+0.4501259059	polymerizing
+0.4501259059	neck
+0.4501259059	severing
+0.4501259059	inducing
+0.4501259059	crossover
+0.4501259059	availability
+0.4501259059	weakly
+0.4501259059	polymerases
+0.4501259059	convert
+0.4501259059	promising
+0.4501259059	advantages
+0.4501259059	presents
+0.4501259059	considerably
+0.4501259059	searching
+0.4501259059	isoforms
+0.4501259059	tubular
+0.4501259059	net
+0.4501259059	agrees
+0.4501259059	positively
+0.4501259059	tunable
+0.4501259059	systematically
+0.4501259059	agents
+0.4501259059	enabling
+0.4501259059	intrinsically
+0.4501259059	define
+0.4501259059	incorporated
+0.4501259059	opening
+0.4501259059	abundance
+0.4501259059	acts
+0.4501259059	crossing
+0.4501259059	ensure
+0.4501259059	true
+0.4501259059	purely
+0.4501259059	independently
+0.4501259059	enter
+0.4501259059	interphase
+0.4501259059	angle
+0.4501259059	repression
+0.4501259059	binds
+0.4501259059	reactant
+0.4501259059	improved
+0.4501259059	probabilistic
+0.4501259059	starvation
+0.4493400773	magnitude
+0.4485481788	at
+0.4480602660	boutons
+0.4480602660	viscosity
+0.4479086385	moments
+0.4479086385	analyse
+0.4479086385	dynamically
+0.4479086385	relations
+0.4479086385	age
+0.4479086385	flows
+0.4479086385	motif
+0.4479086385	combine
+0.4479086385	accurately
+0.4479086385	tools
+0.4479086385	probabilities
+0.4479086385	situations
+0.4479086385	naturally
+0.4479086385	array
+0.4479086385	illustrate
+0.4479086385	depletion
+0.4479086385	assumptions
+0.4479086385	dose
+0.4479086385	computed
+0.4479086385	ubiquitous
+0.4478658698	third
+0.4477173911	shaped
+0.4477173911	captures
+0.4477173911	confined
+0.4477173911	suggested
+0.4477173911	qualitatively
+0.4474740694	counter
+0.4472668992	host
+0.4468228532	longer
+0.4468228532	capsid
+0.4468228532	elements
+0.4466549439	phosphorylated
+0.4466549439	axis
+0.4466549439	linearly
+0.4466549439	helical
+0.4466549439	materials
+0.4466272739	ultimately
+0.4466272739	abundances
+0.4466272739	offer
+0.4466272739	apparent
+0.4466272739	branched
+0.4466272739	contribution
+0.4466272739	inherent
+0.4466272739	solved
+0.4466272739	timescale
+0.4466272739	physiologically
+0.4466272739	pumps
+0.4466272739	incorporates
+0.4466272739	designed
+0.4466272739	distal
+0.4466272739	rescue
+0.4466272739	linkers
+0.4466272739	conversion
+0.4466272739	attention
+0.4466272739	modelled
+0.4466272739	reliably
+0.4466272739	motions
+0.4466272739	assemble
+0.4466272739	occupancy
+0.4466272739	plasmid
+0.4466272739	velocities
+0.4466272739	essentially
+0.4466272739	tips
+0.4466272739	offers
+0.4466272739	protofilaments
+0.4466272739	closely
+0.4463722775	lane
+0.4461006080	lived
+0.4457625387	on
+0.4449070701	kinetochores
+0.4449070701	aggregates
+0.4449070701	poles
+0.4449070701	construct
+0.4449070701	rods
+0.4449070701	generates
+0.4449070701	released
+0.4449070701	dramatically
+0.4449070701	indicating
+0.4449070701	greater
+0.4449070701	stabilize
+0.4449070701	formulate
+0.4449070701	showing
+0.4449070701	biogenesis
+0.4449070701	adaptation
+0.4449070701	explored
+0.4449070701	subsequent
+0.4449070701	recruitment
+0.4449070701	stochastically
+0.4449070701	rigorous
+0.4449070701	layers
+0.4449070701	challenge
+0.4449070701	partitioning
+0.4449070701	cylindrical
+0.4447138136	possible
+0.4438744939	\ alpha
+0.4438026255	permeation
+0.4438026255	oscillators
+0.4438026255	zone
+0.4438026255	homeostasis
+0.4438026255	pool
+0.4438026255	spiking
+0.4438026255	modulate
+0.4438026255	influx
+0.4438026255	comparable
+0.4438026255	pause
+0.4438026255	tightly
+0.4438026255	copies
+0.4438026255	discrimination
+0.4438026255	reversal
+0.4438026255	termination
+0.4438026255	undergoes
+0.4438026255	spines
+0.4438026255	sharing
+0.4438026255	deviations
+0.4438026255	coefficients
+0.4438026255	therapeutic
+0.4438026255	removal
+0.4438026255	assembled
+0.4438026255	unified
+0.4438026255	bounded
+0.4438026255	frequently
+0.4438026255	involve
+0.4438026255	repulsive
+0.4438026255	blocks
+0.4438026255	pathological
+0.4438026255	acting
+0.4438026255	operate
+0.4438026255	redox
+0.4438026255	assume
+0.4438026255	substantially
+0.4438026255	exert
+0.4438026255	attach
+0.4438026255	follow
+0.4438026255	procedure
+0.4438026255	examined
+0.4438026255	functioning
+0.4438026255	connections
+0.4434079477	mixture
+0.4434079477	oligomers
+0.4434079477	isotropic
+0.4432531792	1
+0.4431642602	changes
+0.4430671340	cell cortex
+0.4428603724	work
+0.4424341239	two
+0.4406857768	reduces
+0.4406857768	arbitrary
+0.4406733484	pulling
+0.4397617053	enable
+0.4397617053	exist
+0.4397617053	suggesting
+0.4397617053	conclude
+0.4397617053	period
+0.4397617053	explained
+0.4396092234	makes
+0.4396092234	disordered
+0.4396092234	introduced
+0.4396092234	real
+0.4396092234	effectively
+0.4392647502	19
+0.4386397529	apply
+0.4386397529	calculated
+0.4386397529	scheme
+0.4386397529	distributed
+0.4386397529	stimuli
+0.4386397529	compute
+0.4383735220	once
+0.4370217283	fold
+0.4370217283	links
+0.4367017820	dimensions
+0.4367017820	largely
+0.4367017820	experiment
+0.4367017820	expected
+0.4367017820	analyzed
+0.4367017820	include
+0.4366240042	area
+0.4365770859	$
+0.4365191641	sense
+0.4365191641	loading
+0.4365191641	laws
+0.4360117053	friction
+0.4359961273	computer
+0.4355473797	products
+0.4355473797	undergo
+0.4355473797	trna
+0.4355473797	filamentous
+0.4355473797	cargos
+0.4355473797	technique
+0.4355473797	strain
+0.4355473797	solve
+0.4355473797	positions
+0.4352858156	dissociation
+0.4349319363	stresses
+0.4347545510	through
+0.4339812329	g
+0.4337198505	here
+0.4335455130	clear
+0.4335455130	stimulus
+0.4335455130	reproduces
+0.4335455130	downstream
+0.4335455130	transported
+0.4335455130	enhance
+0.4335455130	expressed
+0.4335455130	establish
+0.4332492460	curves
+0.4332492460	directions
+0.4330455525	scenario
+0.4324159127	forms
+0.4324159127	reduce
+0.4324159127	forming
+0.4318276038	rapidly
+0.4318276038	located
+0.4318276038	carried
+0.4318276038	randomly
+0.4318276038	quantities
+0.4318276038	build
+0.4318276038	typical
+0.4318276038	providing
+0.4318276038	scenarios
+0.4318276038	points
+0.4310638971	needs
+0.4307458561	s
+0.4307269665	according
+0.4301578987	1d
+0.4295967159	system
+0.4292678602	from
+0.4280244948	towards
+0.4270089559	whereas
+0.4269416659	only
+0.4264679745	good
+0.4264638679	herein
+0.4260273707	following
+0.4254333514	way
+0.4248821243	followed
+0.4248708646	r
+0.4247376294	corresponding
+0.4245284866	value
+0.4243406041	five
+0.4238581297	available
+0.4235309910	out
+0.4235286511	overall
+0.4230044764	with
+0.4226379260	re
+0.4223806845	given
+0.4222075308	necessary
+0.4218324442	\
+0.4210590127	mine
+0.4209344826	no
+0.4204251924	+
+0.4199378124	moreover
+0.4192201855	different
+0.4191246834	outside
+0.4191217937	up
+0.4176887759	because
+0.4168603609	part
+0.4167818328	second
+0.4163526182	taken
+0.4162301107	currently
+0.4157962798	yet
+0.4148146051	particular
+0.4146040109	move
+0.4144794499	about
+0.4144531604	other
+0.4140652795	not
+0.4137518030	shed
+0.4136234190	allows
+0.4133569079	describe
+0.4133429105	mean field
+0.4123335390	used
+0.4120349727	despite
+0.4117234343	what
+0.4116916003	furthermore
+0.4114174115	well
+0.4113106881	described
+0.4110891009	toward
+0.4109168560	certain
+0.4104205038	since
+0.4098047137	number of molecules
+0.4096390849	away
+0.4092070271	upon
+0.4091642183	i
+0.4090090195	therefore
+0.4078495730	h
+0.4078266077	between
+0.4077280970	just
+0.4072561937	why
+0.4068886554	usually
+0.4067664497	then
+0.4061180579	another
+0.4057493214	little
+0.4057493214	below
+0.4052433199	instead
+0.4051753187	almost
+0.4046974612	although
+0.4041490730	all
+0.4037432672	further
+0.4035862123	also
+0.4031685923	though
+0.4031209821	beyond
+0.4030639205	give
+0.4028956609	indeed
+0.4026412666	often
+0.4021913662	of
+0.4021490446	found
+0.4017722163	some
+0.4014548374	use
+0.4010863662	indicate
+0.4010226891	like
+0.4009958361	non monotonic
+0.4007064094	better
+0.3997455375	into
+0.3996331075	than
+0.3988202090	having
+0.3986347660	help
+0.3986085817	plus
+0.3984605384	there
+0.3982294354	few
+0.3980563555	enough
+0.3976094226	even
+0.3975747854	until
+0.3960644871	considering
+0.3956633309	allow
+0.3943480911	namely
+0.3935185648	if
+0.3929495902	under
+0.3927176065	^
+0.3923510547	how
+0.3914560180	otherwise
+0.3907380586	shell
+0.3903324435	show
+0.3898806853	next
+0.3894903552	they
+0.3891095386	amount
+0.3879767504	consequently
+0.3877212936	13
+0.3866512007	thus
+0.3863551604	10
+0.3861151197	7
+0.3858665110	when
+0.3857995048	na +
+0.3855797775	back
+0.3846323483	et al
+0.3846232179	before
+0.3843638168	along
+0.3842807988	might
+0.3831477277	diffusion model
+0.3830514716	\ textit
+0.3820496258	among
+0.3820084860	due
+0.3815615097	several
+0.3813170268	well defined
+0.3809897515	model to study
+0.3805437389	per
+0.3804039008	$ \ beta
+0.3798242405	others
+0.3797676269	computer simulations
+0.3797183856	however
+0.3794462886	co
+0.3789765063	dimensional diffusion
+0.3779792505	available experimental data
+0.3772157891	latter
+0.3770442434	whole
+0.3769526999	while
+0.3767653667	able
+0.3764049075	2d
+0.3755699893	both
+0.3751241367	any
+0.3744913942	too
+0.3742695540	causes
+0.3740936803	likely
+0.3734335209	12
+0.3731177111	within
+0.3729297505	&
+0.3729297505	throughout
+0.3727561776	whether
+0.3718696063	using
+0.3705427145	much
+0.3704652931	gives
+0.3700581108	it
+0.3699107698	zero
+0.3698619032	\ emph
+0.3684941757	need
+0.3679642463	our
+0.3674573376	50
+0.3673786256	over
+0.3670612986	de
+0.3670120358	either
+0.3665868327	same
+0.3663796207	two dimensional
+0.3660773504	3d
+0.3659021504	8
+0.3658506116	again
+0.3658506116	seems
+0.3658506116	themselves
+0.3658506116	keep
+0.3658506116	course
+0.3658506116	go
+0.3658506116	done
+0.3649677467	t cells
+0.3649217048	against
+0.3648619663	down
+0.3648619663	above
+0.3637232598	near
+0.3633642463	we
+0.3630841767	alone
+0.3622106050	diffusion systems
+0.3613628600	particularly
+0.3604395365	\ rm
+0.3595253658	et
+0.3587968497	being
+0.3576203578	still
+0.3570756545	without
+0.3560943331	best
+0.3553861915	vs
+0.3553861915	nearly
+0.3553861915	behind
+0.3553861915	already
+0.3553222805	become
+0.3548226557	relatively
+0.3546936495	far
+0.3544297992	in vitro experiments
+0.3536896898	must
+0.3532871914	sub
+0.3530288048	exactly
+0.3530288048	every
+0.3530288048	regarding
+0.3530288048	etc
+0.3530279215	those
+0.3525714009	6
+0.3525713893	well established
+0.3523903484	thereby
+0.3515342240	consider
+0.3506331527	mean field theory
+0.3504849957	less
+0.3502374611	side
+0.3500405584	across
+0.3493206155	would
+0.3492369673	\ sim
+0.3487600400	them
+0.3482173878	3
+0.3480781768	f actin
+0.3479605558	indicates
+0.3479605558	contains
+0.3477915832	cannot
+0.3473450081	via
+0.3471890718	should
+0.3470671650	own
+0.3466990876	will
+0.3458659204	could
+0.3457700558	0
+0.3452460773	its
+0.3451648019	us
+0.3448447891	appropriate
+0.3434536245	their
+0.3425809781	whereby
+0.3419875143	very
+0.3419581424	were
+0.3416883798	appear
+0.3416883798	contain
+0.3416883798	last
+0.3416883798	ones
+0.3416883798	onto
+0.3415217428	full
+0.3415217428	whose
+0.3409581424	provides
+0.3397565864	uses
+0.3397565864	100
+0.3396511298	time scales
+0.3390509121	made
+0.3390509121	make
+0.3385675787	around
+0.3382746725	better understanding
+0.3381670049	four
+0.3369343165	mainly
+0.3368200513	t cell
+0.3346526676	5
+0.3334007354	was
+0.3320239630	various
+0.3316491007	quite
+0.3316491007	take
+0.3316491007	especially
+0.3316491007	follows
+0.3313185387	where
+0.3312732548	commonly used
+0.3308643502	respectively
+0.3306667268	been
+0.3303740774	and
+0.3297649552	=
+0.3294677014	find
+0.3286404318	have
+0.3267109006	be
+0.3259060713	or
+0.3259042184	cause
+0.3257109006	are
+0.3257109006	that
+0.3257109006	which
+0.3257063867	\ bf
+0.3256843003	inner
+0.3256843003	now
+0.3254364422	4
+0.3253478231	useful
+0.3251482375	proposed model
+0.3250271809	has
+0.3248139007	always
+0.3248139007	itself
+0.3243083814	may
+0.3241654077	becomes
+0.3241654077	detail
+0.3234719393	can
+0.3217126581	interest
+0.3217126581	containing
+0.3213315346	non processive
+0.3203469393	is
+0.3199871858	during cell division
+0.3162877677	into account
+0.3154568932	wide range of
+0.3146455921	a wide range
+0.3141018798	widely used
+0.3122392123	\ mu
+0.3073533109	not well understood
+0.3047648842	faster than
+0.3046366994	ca2 +
+0.2994038477	insight into
+0.2981048967	an important role
+0.2968883678	cargo transport by
+0.2924826952	analytical expression for
+0.2879870556	\ delta
+0.2846427565	a simple model
+0.2845073094	key features of
+0.2822725511	the cell membrane
+0.2818189786	two state model
+0.2807128973	a coarse grained
+0.2800342229	insights into
+0.2768526914	large number of
+0.2736424548	first passage time
+0.2733056355	in living cells
+0.2721516701	broad range of
+0.2719230198	microtubule associated
+0.2713613735	time varying
+0.2707732003	crucial role in
+0.2666531625	k +
+0.2636711247	the bacterial flagellar motor
+0.2636708641	mechanical properties of
+0.2618485551	smaller than
+0.2610402749	larger than
+0.2587218063	important role in
+0.2585050422	10 ^
+0.2569952428	non linear
+0.2561920847	out of equilibrium
+0.2555047653	\ kappa
+0.2544871282	\ gamma
+0.2535557989	the cell cortex
+0.2515999985	spatial organization of
+0.2500963021	probability distribution of
+0.2481988055	the stall force
+0.2464452063	stochastic nature of
+0.2461646228	1d diffusion
+0.2457346060	^ 1
+0.2435025219	the steady state
+0.2429099123	\ kappa b
+0.2416584747	$ \ mu
+0.2400081253	this article
+0.2399336803	stochastic dynamics of
+0.2399103084	inspired by
+0.2388622914	so far
+0.2387044428	this paper
+0.2385993397	$ k_
+0.2366265420	the mitotic spindle
+0.2346772177	computational model of
+0.2330500188	critical value
+0.2326975592	a key role
+0.2316859148	small number of
+0.2282095888	conformational changes
+0.2269456271	switch like
+0.2267644044	rather than
+0.2256842325	key role in
+0.2236578960	a single stranded
+0.2209588753	stochastic model for
+0.2192339811	theoretical model for
+0.2192164998	a theoretical framework
+0.2189141128	good agreement
+0.2148696463	with experimental data
+0.2136841216	^ +
+0.2126217871	the spatio temporal
+0.2125437728	$ \ sim
+0.2121684168	a crucial role
+0.2119114725	well understood
+0.2107632768	the plasma membrane
+0.2095541216	^ 2 +
+0.2089975374	the proposed model
+0.2067275719	in vivo
+0.2043483038	a theoretical model
+0.2040333379	a minimal model
+0.2037049208	molecular motors in
+0.2029794424	mathematical model of
+0.2024275167	in vitro
+0.2017119138	$ ^ 2 +
+0.2009894044	do not
+0.1998239572	the actin cytoskeleton
+0.1988559257	stochastic model of
+0.1986858941	the phase diagram
+0.1978688464	gives rise
+0.1929109463	referred to as
+0.1926218521	does not
+0.1918933105	relationship between
+0.1883816961	numerical simulations of
+0.1883658072	regarded as
+0.1866611315	a molecular motor
+0.1835697696	waiting time
+0.1834924015	depends on
+0.1834333201	a computational model
+0.1833253055	in gene expression
+0.1815810146	a master equation
+0.1805112550	interaction between
+0.1793693722	time scale
+0.1791477645	depending on
+0.1789427859	information about
+0.1762077010	most important
+0.1755941273	well known
+0.1735942470	of myosin ii
+0.1724386576	the force velocity
+0.1685946990	of ion channels
+0.1683957062	the free energy
+0.1671327062	the cell cycle
+0.1654842713	of min proteins
+0.1651604458	give rise
+0.1650157457	two component
+0.1617404086	shed light on
+0.1612449741	more complex
+0.1577659789	\ tau
+0.1573302161	lead to
+0.1566459382	dwell time
+0.1559449381	give rise to
+0.1558569390	based on
+0.1551167530	a mathematical model
+0.1533153232	$ n
+0.1529921247	depend on
+0.1517404050	mean first passage time
+0.1500597536	a steady state
+0.1499261704	two component system
+0.1490353573	\ beta
+0.1488738958	whole cell
+0.1483464081	rely on
+0.1480037068	the growth rate
+0.1478141831	the presence
+0.1473912225	serve as
+0.1458744310	leads to
+0.1455751713	the probability distribution
+0.1449218116	not only
+0.1444470702	recent work
+0.1441137167	focus on
+0.1430616048	gives rise to
+0.1428517926	two distinct
+0.1426946650	time dependent
+0.1423962081	relies on
+0.1421744064	ranging from
+0.1418484636	caused by
+0.1416242417	of membrane proteins
+0.1413159721	the bacterial flagellar
+0.1407067307	in silico
+0.1388135165	possible mechanisms
+0.1382323052	results indicate
+0.1381744687	of actin filaments
+0.1378610233	the motor protein
+0.1368840167	these results
+0.1368679123	an important
+0.1368438462	a stochastic model
+0.1364624375	of motor proteins
+0.1353309733	consistent with
+0.1345422522	three state
+0.1341862987	interplay between
+0.1320196882	subjected to
+0.1317512362	two species
+0.1310808313	two state
+0.1291403387	of protein synthesis
+0.1288684054	$ ^ +
+0.1272273340	competition between
+0.1272166152	the other hand
+0.1261727767	at low
+0.1254488780	on and off
+0.1240239083	to understand
+0.1179621056	accounting for
+0.1174146010	balance between
+0.1173453621	a single
+0.1171233370	act as
+0.1164810938	affected by
+0.1163750204	interactions between
+0.1160319182	results show
+0.1157264284	$ \
+0.1146331388	different types
+0.1142119882	good agreement with
+0.1139724194	in good agreement
+0.1135528171	also discussed
+0.1125934742	this model
+0.1124709459	link between
+0.1119845438	agreement with
+0.1113488131	responsible for
+0.1112452707	relation between
+0.1109956605	this study
+0.1106053961	an alternative
+0.1091960744	according to
+0.1077045963	other hand
+0.1063297701	motivated by
+0.1059901459	serves as
+0.1054995876	each other
+0.1033992871	driven by
+0.1033048756	these findings
+0.1025934409	by fitting
+0.1021454028	with respect to
+0.1005540149	taking into
+0.1005519828	correspond to
+0.1002510854	a simple
+0.1002193429	a mean field
+0.1000692844	a one dimensional
+0.0997517138	transport along
+0.0992730990	this review
+0.0988183207	focused on
+0.0987094689	focusing on
+0.0978553690	an optimal
+0.0977499229	transitions between
+0.0973227421	characterized by
+0.0967725813	arising from
+0.0966553774	governed by
+0.0961941707	determined by
+0.0960527708	compared to
+0.0955452263	tens of
+0.0951697006	corresponds to
+0.0947624667	correlation time
+0.0946001913	transition from
+0.0945410973	switch between
+0.0934467851	to study
+0.0932971655	transport through
+0.0930549815	by means of
+0.0923925920	system size
+0.0922745361	also discuss
+0.0915992270	many cellular
+0.0908829200	these models
+0.0905332097	an internal
+0.0899155436	an explicit
+0.0897596713	model to describe
+0.0895879211	generated by
+0.0894343747	a two dimensional
+0.0888162799	in addition
+0.0887443105	l \
+0.0887178904	used to study
+0.0887030810	long time
+0.0882283081	starting from
+0.0882173985	an active
+0.0876936401	accounts for
+0.0869470264	a two state
+0.0865912587	model for
+0.0849920055	played by
+0.0845074036	an external
+0.0842105112	modeled as
+0.0840668304	arises from
+0.0840651434	influenced by
+0.0829776976	coupling between
+0.0828514670	at intermediate
+0.0822073206	the cell
+0.0819907580	able to
+0.0814935867	this process
+0.0811141312	these processes
+0.0810669992	results from
+0.0807985244	arise from
+0.0806474750	orders of
+0.0805761522	processes such as
+0.0799955762	an open
+0.0799744510	due to
+0.0795631083	leading to
+0.0786093087	many biological
+0.0784363674	triggered by
+0.0782036845	consisting of
+0.0781378042	involved in
+0.0776264101	in terms of
+0.0771985418	more than
+0.0767049463	available experimental
+0.0764835419	as well as
+0.0757760225	induced by
+0.0754214857	switching between
+0.0752609833	regulated by
+0.0748806525	presence of
+0.0747654662	present here
+0.0747586603	two states
+0.0745757476	at least
+0.0745191040	these effects
+0.0737680357	search time
+0.0736264101	in order to
+0.0733723782	$ p
+0.0725734747	this mechanism
+0.0725336020	controlled by
+0.0718200312	to reach
+0.0716229022	derived from
+0.0708157141	such as
+0.0703299779	agree with
+0.0701966286	different mechanisms
+0.0701860398	consists of
+0.0698124436	self assembly of
+0.0697473782	$ d
+0.0694470057	obtained from
+0.0693548074	compared with
+0.0690557061	passage time
+0.0690146374	takes into
+0.0686216686	^ \
+0.0685211469	the sensitivity of
+0.0683538559	these proteins
+0.0681167331	these motors
+0.0676627604	dependent on
+0.0671841837	considered as
+0.0670906092	a general
+0.0668620560	the aim of
+0.0664131961	mechanism for
+0.0662943455	mediated by
+0.0662131820	these networks
+0.0657728880	essential for
+0.0651199252	these systems
+0.0650464364	with increasing
+0.0649035798	$ l
+0.0645211469	the development of
+0.0644280047	the total
+0.0642733939	2 +
+0.0636120560	the problem of
+0.0632541488	oscillations in
+0.0625211469	the interplay of
+0.0620843468	an exact
+0.0619307116	$ f
+0.0618620560	the sequence of
+0.0611384631	supported by
+0.0609615355	away from
+0.0608973876	component system
+0.0607353572	but also
+0.0605211469	the ability of
+0.0605211469	the design of
+0.0605211469	a result of
+0.0601282788	an effective
+0.0599608960	to determine
+0.0598620560	the concentration of
+0.0597211299	to explain
+0.0596680387	proportional to
+0.0596335652	applicable to
+0.0596280224	a system of
+0.0596120560	the accuracy of
+0.0596120560	the speed of
+0.0595423657	this effect
+0.0594709814	a wide range of
+0.0590079309	to investigate
+0.0588620560	the response of
+0.0588620560	the expression of
+0.0588620560	the robustness of
+0.0587950081	model with
+0.0587575995	followed by
+0.0585627915	account for
+0.0585211469	the framework of
+0.0582684009	required for
+0.0579454730	model system
+0.0578620560	the state of
+0.0578620560	the shape of
+0.0577737614	implicated in
+0.0576680387	contribute to
+0.0575211469	the study of
+0.0574727286	an efficient
+0.0574624698	exerted by
+0.0572928545	with respect
+0.0571702542	subject to
+0.0570847043	experiments on
+0.0568620560	the form of
+0.0568355888	associated proteins
+0.0566120560	the activity of
+0.0564957727	difficult to
+0.0563565894	result from
+0.0562523154	transport by
+0.0562117355	close to
+0.0560472939	a generic
+0.0558620560	the surface of
+0.0554709474	shown to
+0.0553624375	an essential
+0.0550162409	combined with
+0.0549503085	expressions for
+0.0548780224	the use of
+0.0548620560	the order of
+0.0548620560	the limit of
+0.0548620560	the process of
+0.0547043839	interact with
+0.0546120560	the density of
+0.0542752166	this approach
+0.0539679202	effect of
+0.0538620560	the level of
+0.0538620560	the assembly of
+0.0538620560	the binding of
+0.0536926727	an analytical
+0.0534818074	variety of
+0.0534233499	this phenomenon
+0.0532993484	in turn
+0.0530847043	effects on
+0.0530443256	function as
+0.0528620560	the rates of
+0.0528620560	the transport of
+0.0528620560	the diffusion of
+0.0524683867	$ ^
+0.0521825108	time distribution
+0.0520876600	dependence on
+0.0518620560	the results of
+0.0515916557	but not
+0.0515640330	$ t
+0.0515633331	by taking
+0.0513606611	effect on
+0.0510165629	comparison with
+0.0508620560	the length of
+0.0508449200	data from
+0.0506218804	sufficient to
+0.0505880871	a stochastic
+0.0505188702	by analyzing
+0.0503413099	time evolution
+0.0503122760	an elastic
+0.0502968311	respond to
+0.0498620560	the size of
+0.0497968690	dynamics of
+0.0495968796	time evolution of
+0.0489049684	ability to
+0.0478977636	model of
+0.0477898963	explanation for
+0.0477790566	the axon
+0.0474998707	during cell
+0.0472987202	related to
+0.0469635471	basis for
+0.0466845087	properties of
+0.0466297452	membranes with
+0.0461867973	formula for
+0.0461462294	associated with
+0.0455349764	tool for
+0.0455061863	composed of
+0.0454263843	a large
+0.0453806272	a central
+0.0452363614	in contrast
+0.0452172486	the time scale
+0.0447244620	of proteins in
+0.0444944996	coupled to
+0.0444752563	this work
+0.0440653671	characterization of
+0.0439635471	attached to
+0.0438421958	pair of
+0.0435786880	exposed to
+0.0434566763	a strong
+0.0432663138	to achieve
+0.0432640556	similar to
+0.0432509553	a common
+0.0430605583	the mean time
+0.0418603111	the presence of
+0.0417759911	applied to
+0.0415838256	models for
+0.0414719067	cost of
+0.0414128238	the entire
+0.0411088454	generalization of
+0.0410968970	constraints on
+0.0410624799	analysis of
+0.0409659294	the effects of
+0.0409593570	analogous to
+0.0405883615	framework for
+0.0403330285	to bind
+0.0402940399	decreases with
+0.0402500526	light on
+0.0402500526	crowding on
+0.0402047613	region of
+0.0401734407	a model
+0.0397767621	contact with
+0.0393978466	bind to
+0.0393530224	number of
+0.0393441137	provided by
+0.0392466747	the case of
+0.0391138281	to detect
+0.0390518695	a function of
+0.0388605324	a critical
+0.0386241905	different types of
+0.0384248362	in good agreement with
+0.0383405234	theory for
+0.0382866696	to obtain
+0.0381519053	produced by
+0.0380201439	the nucleoid
+0.0379721254	described by
+0.0379366865	a unique
+0.0376963992	to simulate
+0.0376577893	not well
+0.0376398280	achieved by
+0.0375038024	differences in
+0.0374103033	the role of
+0.0373897658	approach to
+0.0367337329	to predict
+0.0367212294	used to
+0.0365756946	result in
+0.0364103033	the effect of
+0.0364103033	the formation of
+0.0363547243	to quantify
+0.0362885184	direction of
+0.0362445332	to occur
+0.0361539825	role in
+0.0361268927	bound to
+0.0358743598	to analyze
+0.0356722695	reminiscent of
+0.0356480762	two different
+0.0353581055	the number of
+0.0353300080	interaction with
+0.0352994293	an increase
+0.0352987963	time scale of
+0.0352111465	to provide
+0.0349840498	a broad
+0.0349713818	to produce
+0.0348848394	values for
+0.0347823095	the absence
+0.0347706136	the dynamics of
+0.0347230412	a broad range of
+0.0347202147	far from
+0.0346500421	sensitive to
+0.0346177891	an important role in
+0.0344740172	interacting with
+0.0344010845	a model of
+0.0342864827	to create
+0.0341758781	a stochastic model for
+0.0341326549	capable of
+0.0340739831	to elucidate
+0.0340174880	to induce
+0.0339378461	identification of
+0.0339344549	to characterize
+0.0338931897	method for
+0.0338080448	equations for
+0.0337888418	in agreement with
+0.0336547702	a fundamental
+0.0334072733	to test
+0.0331187692	believed to
+0.0329984751	regulation by
+0.0328040756	dependence of
+0.0326317508	predicted by
+0.0325833416	a key
+0.0325711207	a thermodynamic
+0.0325667458	aspects of
+0.0325451931	a minimal
+0.0325120230	the strength of
+0.0323217985	known as
+0.0322970660	in terms
+0.0322027927	studies on
+0.0321530087	the same
+0.0320451931	a significant
+0.0318741905	two types of
+0.0317951519	in addition to
+0.0316767776	a model for
+0.0316067506	to generate
+0.0315498382	the emergence of
+0.0315313483	role of
+0.0315151179	to explore
+0.0312464880	rate of
+0.0310461893	for studying
+0.0310098563	referred to
+0.0309233112	mean first
+0.0307923687	the first time
+0.0307765127	implications for
+0.0307230412	a key role in
+0.0307012160	in contrast to
+0.0305828516	mechanism of
+0.0304431794	strategies for
+0.0303912893	to perform
+0.0303725264	crucial for
+0.0303724755	increases with
+0.0302106740	embedded in
+0.0301390737	a combination
+0.0300760450	to account for
+0.0299813243	majority of
+0.0299615496	the possibility
+0.0298706833	a stochastic model of
+0.0298411996	changes in
+0.0295498382	the influence of
+0.0292545154	sources of
+0.0291935266	the existence
+0.0290498831	types of
+0.0290330345	limited by
+0.0289657632	pole to
+0.0287725740	to identify
+0.0286667652	the ratio of
+0.0286480303	to regulate
+0.0286149254	increase in
+0.0286115384	a universal
+0.0285933614	existence of
+0.0285605271	to address
+0.0285317881	effects of
+0.0283786665	to measure
+0.0280693942	a variety of
+0.0280423133	a mathematical model of
+0.0279634550	a master
+0.0278908802	a combination of
+0.0278768301	distribution of
+0.0278000179	sites on
+0.0277934036	response to
+0.0276205157	thought to
+0.0275866191	the rate of
+0.0275398871	expression for
+0.0275361733	the mean first
+0.0275022366	group of
+0.0274534278	sensing by
+0.0273946043	obtained by
+0.0273142725	in fact
+0.0271603033	the context of
+0.0271029211	fluctuations in
+0.0270985795	proposed to
+0.0270866191	the distribution of
+0.0270475015	as well
+0.0270034184	set of
+0.0269231113	stability of
+0.0269054485	to derive
+0.0268830443	important for
+0.0266941728	resulting in
+0.0265930224	understanding of
+0.0265866191	the kinetics of
+0.0265492877	positioning of
+0.0265248656	method to
+0.0264377520	a wide
+0.0263826524	the interplay between
+0.0263772374	relative to
+0.0263549664	a mechanism for
+0.0263339435	to estimate
+0.0262089291	the absence of
+0.0258723334	the motion of
+0.0258309073	a major
+0.0257017608	a comprehensive
+0.0256530206	layer of
+0.0256128058	combination of
+0.0256080803	respect to
+0.0255470498	binding to
+0.0255286684	a range of
+0.0253853997	the importance of
+0.0253155251	to play
+0.0252441419	observed in
+0.0252089291	the existence of
+0.0252084603	the interaction between
+0.0251943275	degree of
+0.0251485239	the dependence of
+0.0250961391	consequence of
+0.0250803920	an increase in
+0.0250001762	evidence for
+0.0249583793	a set of
+0.0249024744	enough to
+0.0248516947	version of
+0.0247365906	to gain
+0.0247049664	a role in
+0.0246217300	the basis of
+0.0246024992	the precision of
+0.0245930224	description of
+0.0245867612	bound on
+0.0245828516	motion of
+0.0245791905	the probability of
+0.0245198046	this system
+0.0244665223	capacity of
+0.0244665223	operation of
+0.0243429211	regulation of
+0.0242620230	the origin of
+0.0242492877	inhibition of
+0.0241577109	the noise in
+0.0241162296	stages of
+0.0240793039	contrast to
+0.0240734269	absence of
+0.0240610590	the same time
+0.0238144691	integration of
+0.0237077300	in response to
+0.0236996333	found to
+0.0235628461	collection of
+0.0235609541	rise to
+0.0235592092	a population of
+0.0233565102	a theoretical
+0.0232732305	required to
+0.0232404665	function of
+0.0231737183	characteristics of
+0.0231191534	a random
+0.0230961937	range of
+0.0230852258	the help of
+0.0230815890	advances in
+0.0230284583	a class of
+0.0230115007	features of
+0.0229910852	arise in
+0.0229556667	a number of
+0.0228088609	data on
+0.0227982000	well as
+0.0227405697	up to
+0.0227368094	an analysis
+0.0227013299	studied in
+0.0226308530	the range of
+0.0226077783	kinetics of
+0.0226063243	appearance of
+0.0226047511	observed for
+0.0225327109	the properties of
+0.0225022897	variability in
+0.0224046463	role for
+0.0223722477	application of
+0.0223660442	the cell to
+0.0221353355	determination of
+0.0221302400	independent of
+0.0221128058	class of
+0.0220697115	relevance of
+0.0220216331	the fraction of
+0.0220216331	the efficiency of
+0.0219696180	a systematic
+0.0219464880	behavior of
+0.0219332421	kind of
+0.0218706433	addition to
+0.0217610677	variations in
+0.0217606740	occurrence of
+0.0217494986	for example
+0.0217072104	essential to
+0.0216216331	the stability of
+0.0216069258	framework to
+0.0215327109	the nature of
+0.0214934279	the analysis of
+0.0214194244	to exhibit
+0.0213400094	used by
+0.0213241109	the impact of
+0.0212944925	the evolution of
+0.0211353997	the possibility of
+0.0211131897	fraction of
+0.0210475196	the regulation of
+0.0210249930	spectrum of
+0.0208936663	teams of
+0.0208466684	prior to
+0.0207776568	noise in
+0.0207230800	the question of
+0.0207140204	transport in
+0.0206996333	a new
+0.0206646603	details of
+0.0206260993	difference in
+0.0206160852	extended to
+0.0206084603	the search time
+0.0206075660	mobility of
+0.0205327109	the behavior of
+0.0205261285	impact of
+0.0205261285	strength of
+0.0205022366	maintenance of
+0.0204694723	described as
+0.0204205366	occurs in
+0.0203850006	origins of
+0.0203052095	the movement of
+0.0202979937	lack of
+0.0202907977	emergence of
+0.0202530675	a computational
+0.0201623305	search for
+0.0200666596	basis of
+0.0200353694	the coupling between
+0.0200205968	the amount of
+0.0198301365	appears to
+0.0196365235	linked to
+0.0196259919	predictions for
+0.0196006664	equation for
+0.0195552801	a crucial
+0.0195054485	a statistical
+0.0192491841	assumed to
+0.0192405697	a few
+0.0191353355	quantification of
+0.0191302400	nature of
+0.0191063638	ratio of
+0.0190604881	importance of
+0.0190329667	a novel
+0.0190114230	probability of
+0.0187230800	the onset of
+0.0187047613	influence of
+0.0186530206	measure of
+0.0186411563	the role
+0.0185751367	segregation of
+0.0185667742	arrangement of
+0.0185261285	family of
+0.0183906388	allows for
+0.0183437117	to account
+0.0183109935	orientation of
+0.0182961821	magnitude of
+0.0182735239	the mechanism of
+0.0182504781	decrease in
+0.0180768318	a class
+0.0180758323	formation of
+0.0179231113	efficiency of
+0.0178820516	organization of
+0.0177498538	variation in
+0.0177260443	occur in
+0.0176878717	origin of
+0.0176831808	movement of
+0.0176320516	comparison of
+0.0174077628	need to
+0.0173128717	concept of
+0.0172939564	roles in
+0.0172803000	allow for
+0.0172693935	location of
+0.0172570516	series of
+0.0172520536	onset of
+0.0169657632	precision of
+0.0166789946	extension of
+0.0166789946	stage of
+0.0166694708	change in
+0.0166677659	evolution of
+0.0166598800	found in
+0.0166397638	timing of
+0.0166320516	modes of
+0.0166270536	means of
+0.0165921448	interpretation of
+0.0165644483	used as
+0.0165418468	needs to
+0.0164224729	robust to
+0.0163975571	prediction of
+0.0162492877	reduction of
+0.0160974729	duration of
+0.0160540617	together with
+0.0160498538	component of
+0.0159677659	loss of
+0.0158391682	known to
+0.0157498538	discussed in
+0.0157378181	feature of
+0.0154085135	need for
+0.0153915754	estimation of
+0.0150334268	move on
+0.0150260443	treatment of
+0.0148688512	a whole
+0.0146155697	to describe
+0.0145547495	associated to
+0.0143599431	developed to
+0.0139245642	part of
+0.0137041095	necessary to
+0.0133645728	context of
+0.0128722925	order to
+0.0128610698	necessary for
+0.0127293996	case of
+0.0117346173	and hence
+0.0117019222	possibility of
+0.0114012840	corresponding to
+0.0112148144	to move
+0.0111507368	amount of
+0.0110581467	likely to
+0.0107346173	way to
+0.0104657001	the latter
+0.0100945835	possible to
+0.0097778713	seen in
+0.0096524744	back to
