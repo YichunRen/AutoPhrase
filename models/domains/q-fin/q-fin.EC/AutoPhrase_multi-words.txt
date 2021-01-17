@@ -1,0 +1,1048 @@
+0.9810198997	artificial intelligence
+0.9790456107	dynamic programming
+0.9779583111	business cycle
+0.9765592719	deep learning
+0.9761389389	higher education
+0.9745221125	international trade
+0.9721640235	industrial revolution
+0.9718053332	public goods
+0.9707044614	neural networks
+0.9701413597	social sciences
+0.9695442612	prisoner's dilemma
+0.9689287649	climate change
+0.9681544616	united states
+0.9666977011	mobile phone
+0.9666897846	monte carlo
+0.9664833958	electricity market
+0.9663227022	reinforcement learning
+0.9650981316	moral hazard
+0.9649964161	monetary policy
+0.9628970623	natural capital
+0.9627401265	income inequality
+0.9618494871	gross domestic product
+0.9609269799	air pollution
+0.9608874614	zipf's law
+0.9608509342	demand response
+0.9604463063	european union
+0.9598753320	renewable energy
+0.9591661328	electric vehicles
+0.9576405698	social networks
+0.9568378777	central bank
+0.9564398416	game theory
+0.9564247489	closed form
+0.9557675084	nash equilibria
+0.9557263965	machine learning
+0.9555545589	social learning
+0.9546601334	input output
+0.9516847404	health insurance
+0.9505979715	co2 emissions
+0.9496346403	comparative statics
+0.9490484796	game theoretic
+0.9486553578	technological change
+0.9480711204	big data
+0.9477589693	digital economy
+0.9474908948	exchange rate
+0.9474354491	sustainable development
+0.9473717562	risk management
+0.9466243473	social media
+0.9464759966	financial crisis
+0.9461288142	public sector
+0.9460541928	wealth inequality
+0.9448493376	nash equilibrium
+0.9438272999	mathematical model
+0.9421681170	supply chain
+0.9417716885	carbon dioxide
+0.9416522419	steady state
+0.9399310439	production function
+0.9382905475	free market
+0.9381916462	economic development
+0.9369033248	climate change mitigation
+0.9362292550	systemic risk
+0.9335531500	adverse selection
+0.9329702665	status quo
+0.9328381792	neural network
+0.9326324889	stock exchange
+0.9321730572	prewar japanese
+0.9321163592	economic growth
+0.9320672178	hiding hand
+0.9300827696	food insecurity
+0.9290599509	stock market
+0.9285326341	general equilibrium
+0.9281085479	human capital
+0.9274068713	fake news
+0.9269468306	united kingdom
+0.9254458295	power law
+0.9250663980	panel data
+0.9244284683	incomplete information
+0.9241359792	brownian motion
+0.9236379539	differential equations
+0.9216885817	discrete choice
+0.9205726026	social mobility
+0.9200831623	optimal control
+0.9198181221	risk aversion
+0.9192614023	population growth
+0.9185709674	housing market
+0.9180324017	private sector
+0.9178044406	transaction costs
+0.9157263147	social choice
+0.9147548888	member states
+0.9141027344	economic inequality
+0.9122549044	income distribution
+0.9121495725	developing countries
+0.9111001136	social capital
+0.9100333251	macroeconomic model
+0.9096273673	exchange rates
+0.9092091954	cross country
+0.9086224379	economic complexity
+0.9063896238	principal agent
+0.9056151818	utility function
+0.9050692671	agent based model
+0.9046574034	open source
+0.9045544185	utility functions
+0.9044594562	population density
+0.9032590589	disposition effect
+0.9019766093	carbon tax
+0.9019078956	global warming
+0.9013277912	fiscal policy
+0.8993382454	complex network
+0.8988484189	energy consumption
+0.8985717660	public health
+0.8980214814	travel behavior
+0.8952715218	integrated assessment
+0.8926738866	stylized facts
+0.8914687254	macroeconomic variables
+0.8907605464	empirical evidence
+0.8905297401	financial stability
+0.8876254870	unified growth theory
+0.8870121183	decision makers
+0.8860551984	rebalancing rule
+0.8826517011	deep neural
+0.8817828416	social network
+0.8804472423	mining sector
+0.8790277560	business models
+0.8789155752	model selection
+0.8788173826	growth rate
+0.8770553151	market efficiency
+0.8769671009	life cycle
+0.8755331999	choquet integral
+0.8753046786	expected utility
+0.8699888182	wage inequality
+0.8695721662	unemployment rate
+0.8689800931	social distancing
+0.8682642519	agent based
+0.8681222110	stochastic control
+0.8677934303	co2 emission
+0.8671663243	marginal cost
+0.8657337916	empirical analysis
+0.8650068986	state space
+0.8645060212	economic theory
+0.8637975925	financial variables
+0.8634887803	sample size
+0.8632817391	business model
+0.8605574532	business cycles
+0.8600888163	developed countries
+0.8600353545	sex couples
+0.8597525703	economic activity
+0.8595214583	smart cities
+0.8590553088	commodity prices
+0.8568429206	gross domestic
+0.8555766871	previous studies
+0.8553679260	climate policy
+0.8521856843	long run
+0.8519555006	social welfare
+0.8518985835	european countries
+0.8508989227	asymmetric information
+0.8465484678	hidden action
+0.8463000969	stopping problem
+0.8445609124	decision making
+0.8443579061	historical economic growth
+0.8435387821	bitcoin price
+0.8433369696	city size
+0.8430572393	network structure
+0.8415812476	labor market
+0.8366374956	optimal policy
+0.8360196352	policy makers
+0.8355964825	oil price
+0.8354483674	driving volatility
+0.8349281698	economic policy uncertainty
+0.8318554386	short term
+0.8313659468	electricity markets
+0.8291695808	research fields
+0.8281281132	predictive power
+0.8278795955	cross sectional
+0.8260841719	agent based computational
+0.8248844099	supply chains
+0.8229617423	power sector
+0.8220466314	data set
+0.8203602364	road transport
+0.8200517645	data driven
+0.8182938947	findings suggest
+0.8172139912	equilibrium prices
+0.8167630430	technological progress
+0.8165802081	statistically significant
+0.8165436719	agent based models
+0.8148698957	electricity prices
+0.8133147010	financial institutions
+0.8125421973	financial markets
+0.8122386879	state dependent
+0.8115405289	optimal stopping
+0.8110938787	expected utility theory
+0.8086011610	paper discusses
+0.8083509189	competitive equilibrium
+0.8075896337	fixed point
+0.8066146587	food prices
+0.8063240652	coronavirus disease
+0.8047975017	complexity index
+0.8045626155	real world
+0.8041239553	country level
+0.8028605155	growth rates
+0.7991848472	risk averse
+0.7954898321	results suggest
+0.7926750435	treatment effects
+0.7907500412	case study
+0.7884285634	multi dimensional
+0.7875108523	starting point
+0.7858002299	sufficient condition
+0.7847245016	economic model
+0.7811581061	high frequency
+0.7768600195	macro financial
+0.7752473852	spillover effects
+0.7715517361	network analysis
+0.7701880747	empirical data
+0.7680904833	market participants
+0.7643821716	low income
+0.7637392620	control problem
+0.7631794521	simple model
+0.7627745612	large scale
+0.7621327776	fractional order
+0.7612221602	energy efficiency
+0.7603004844	economic performance
+0.7595103800	long term
+0.7592318062	long lasting
+0.7559562102	multi agent
+0.7542696141	wealth distribution
+0.7508602773	short run
+0.7501052971	socio economic
+0.7474854719	empirical results
+0.7469170519	private information
+0.7457248995	empirical studies
+0.7417410238	future research
+0.7409474567	inter regional
+0.7399329043	economic activities
+0.7398128129	economic impacts
+0.7378783254	high dimensional
+0.7373643007	policy implications
+0.7289246524	low quality
+0.7210888988	domestic product
+0.7206275689	transport sector
+0.7166180018	data sets
+0.7131292312	economic variables
+0.7130864818	utility theory
+0.6887332813	takes into account
+0.6875190593	economic space
+0.6844828016	existing literature
+0.6778579003	economic agents
+0.6751245987	equilibrium model
+0.6698114071	market dynamics
+0.6687920723	hydrodynamic like equations
+0.6686071152	taking into account
+0.6674757922	based models
+0.6643650148	growth model
+0.6643115852	stay at home orders
+0.6578729074	growth theory
+0.6536459538	policy measures
+0.6534072973	economic systems
+0.6522260420	market data
+0.6497255806	economic policy
+0.6399938878	individual level
+0.6362962838	theoretical framework
+0.6325552753	willingness to pay
+0.6289180226	r & d
+0.6265122850	learning algorithms
+0.6263442656	paper presents
+0.6247665410	based model
+0.6244503318	unified growth
+0.6189582147	global supply
+0.6061849511	regional economic
+0.6043661422	proposed model
+0.5995127352	recent years
+0.5925713013	global economic
+0.5903067331	economic shocks
+0.5810248846	stay at home
+0.5787177441	sufficient conditions
+0.5620804148	wind and solar
+0.5607130819	paper proposes
+0.5581225986	model based
+0.5505432128	covid 19 outbreak
+0.5493964210	change mitigation
+0.5486578372	high speed
+0.5470642653	direct and indirect
+0.5467633940	income countries
+0.5431261527	supply and demand
+0.5342293249	paper studies
+0.5269046377	economic and financial
+0.5265974625	difference in differences
+0.5251054217	paper explores
+0.5237880779	difference in difference
+0.5237830932	economic impact
+0.5205071404	level data
+0.5051043722	global economy
+0.5013699301	point of view
+0.4969856210	learning approach
+0.4936613452	paper shows
+0.4916510518	least squares
+0.4868151312	important role
+0.4851129667	demand and supply
+0.4779610494	policy uncertainty
+0.4637014005	ex ante
+0.4475066551	covid 19 pandemic
+0.4474657540	paper examines
+0.4318486175	based computational
+0.4291023348	paper investigates
+0.4262859506	paper analyzes
+0.4039551363	mean field
+0.3958038049	an agent based
+0.3915514726	per capita
+0.3818337231	a game theoretic
+0.3815064712	new keynesian
+0.3782084072	interest rates
+0.3768966902	et al
+0.3716294560	new york
+0.3704674966	eci +
+0.3640007256	\ pi
+0.3639926246	time inconsistent
+0.3592505800	covid 19
+0.3536225950	time varying
+0.3519148795	an important role
+0.3518020925	wide range of
+0.3467492331	on economic space
+0.3440007256	\ nu
+0.3407349445	this paper examines
+0.3399134756	paper aims to
+0.3374305532	this paper proposes
+0.3373786692	this paper presents
+0.3286287785	time series
+0.3249255987	the united states
+0.3221452981	this paper analyzes
+0.3213683359	\ tau
+0.3204144443	the economic complexity
+0.3200699012	this paper explores
+0.3148322056	this paper investigates
+0.3124547818	in recent years
+0.3109418055	$ \ cal
+0.3108362094	point x
+0.3057053632	a case study
+0.3014127895	continuous time
+0.3004995596	^ 2
+0.2990665471	day ahead
+0.2982874419	this paper studies
+0.2976442772	zero sum
+0.2967213232	discrete time
+0.2924834870	pass through
+0.2873710094	the european union
+0.2847589609	\ mathbb
+0.2817972609	\ sigma
+0.2785922942	\ mu
+0.2778948285	the united kingdom
+0.2743604899	\ left
+0.2704820152	interest rate
+0.2691720279	widely used
+0.2690699295	hydrodynamic like
+0.2655839609	\ emph
+0.2651017738	in developing countries
+0.2640204841	large number of
+0.2614277574	value added
+0.2591276117	a large number
+0.2537528139	\ mathcal
+0.2530852718	important role in
+0.2517143946	economic growth in
+0.2497405218	so called
+0.2483115181	$ \ mathcal
+0.2415898880	into account
+0.2393299493	\ right
+0.2363844556	trade off
+0.2339779540	two stage
+0.2299794469	power system
+0.2276472554	the global economy
+0.2263662486	shed light
+0.2262942220	non linear
+0.2262699097	economic impact of
+0.2258292246	land use
+0.2218340028	an empirical
+0.2203518463	real time
+0.2171612010	necessary and sufficient
+0.2169871353	the long term
+0.2161252908	not necessarily
+0.2151750161	even though
+0.2130486119	aimed at
+0.2125052689	one dimensional
+0.2095020373	each group
+0.2027156097	each player
+0.2009839852	insights into
+0.1992985813	this paper aims
+0.1968832412	larger than
+0.1964325864	rather than
+0.1933617543	model based on
+0.1901265162	the short run
+0.1900221648	results indicate
+0.1890397571	a new approach
+0.1859958656	the stock market
+0.1855160917	out of sample
+0.1837166566	gap between
+0.1831251458	the long run
+0.1793500699	a power law
+0.1792361791	the short term
+0.1766683372	trade off between
+0.1763998746	of income inequality
+0.1763108955	the results suggest
+0.1762259199	the utility function
+0.1756432971	$ n
+0.1708044691	information about
+0.1702893778	so far
+0.1692599198	the central bank
+0.1684540409	the socio economic
+0.1668924739	relationship between
+0.1658971727	well known
+0.1641126639	same sex
+0.1633379329	arising from
+0.1612109713	each agent
+0.1591421002	$ g
+0.1590549509	interaction between
+0.1588053654	did not
+0.1572361238	$ 1
+0.1570106213	& d
+0.1560103758	first order
+0.1555269025	time dependent
+0.1487063096	travel time
+0.1477106185	in same sex
+0.1455189942	lower than
+0.1452893649	$ x
+0.1427363853	contradicted by
+0.1413676775	better than
+0.1409148832	correlation between
+0.1399363740	an alternative
+0.1386126202	find evidence
+0.1373126275	different types
+0.1365166427	look at
+0.1363355347	the use of
+0.1360391730	$ \
+0.1349729544	shed light on
+0.1347960961	these findings
+0.1333440406	different scenarios
+0.1311678771	a simple
+0.1299512498	connection between
+0.1267225972	based on
+0.1263355347	the mechanism of
+0.1262727644	does not
+0.1254817973	a systematic
+0.1248368973	takes into
+0.1248292489	relation between
+0.1244442277	focusing on
+0.1237113170	the globe
+0.1235927908	focuses on
+0.1227624085	higher than
+0.1225917391	relationships between
+0.1223517127	only if
+0.1195725774	inspired by
+0.1194748766	link between
+0.1189069632	the space of
+0.1171761918	results show
+0.1168560977	do not
+0.1163838672	a dynamical
+0.1160717764	$ b
+0.1157979037	evidence from
+0.1157547968	unable to
+0.1146822864	this article
+0.1142400528	this paper
+0.1140855040	serve as
+0.1133566898	depending on
+0.1131569780	the internet
+0.1123693162	under uncertainty
+0.1122374407	the rest
+0.1119841394	characterized by
+0.1117474431	correlated with
+0.1104787759	approach allows
+0.1101618349	referred to
+0.1099397805	this issue
+0.1096304613	the other hand
+0.1094152988	the covid 19 pandemic
+0.1089551264	gains from
+0.1072087257	a bayesian
+0.1069370014	even if
+0.1060968762	relies on
+0.1049458600	interactions between
+0.1046980873	= \
+0.1023401514	this study
+0.1016284152	motivated by
+0.1006688680	the results of
+0.1006688680	the performance of
+0.1005738667	conditions under
+0.1005453415	depend on
+0.1000935011	also discuss
+0.0997456355	$ r
+0.0989083720	at least
+0.0987260321	caused by
+0.0986688680	the price of
+0.0986688680	a function of
+0.0981357930	depends on
+0.0973318348	more efficient
+0.0960343675	this question
+0.0956688680	the theory of
+0.0956688680	the problem of
+0.0955816513	represented by
+0.0948724433	the principal
+0.0936593552	a game
+0.0918808355	composed of
+0.0913258734	focused on
+0.0911907356	the most important
+0.0887771745	an approach
+0.0879660514	respond to
+0.0879349368	rely on
+0.0872666068	by analyzing
+0.0872402966	the characteristics of
+0.0867336008	affected by
+0.0861688680	the impacts of
+0.0852402966	the framework of
+0.0852068884	focus on
+0.0844663490	an optimal
+0.0842402966	the field of
+0.0841813262	compared with
+0.0838036156	impacts on
+0.0837406041	number of
+0.0836900120	these results
+0.0835642450	used to estimate
+0.0830451934	consisting of
+0.0830181325	as well as
+0.0822012526	by introducing
+0.0821688680	the risk of
+0.0806383068	an important
+0.0803670077	a mixed
+0.0799265288	offered by
+0.0799265288	played by
+0.0793974627	achieved by
+0.0793011661	in addition
+0.0791195499	driven by
+0.0783596504	impact on
+0.0782402966	a network of
+0.0779449541	non equilibrium
+0.0777402966	the extent to
+0.0776821789	obtained from
+0.0772674693	competition between
+0.0772402966	the question of
+0.0765432133	proxy for
+0.0759786375	these models
+0.0757402966	the network of
+0.0757164168	to pay for
+0.0755398396	this result
+0.0750458281	associated with
+0.0739579840	defined as
+0.0736634574	interested in
+0.0724086321	an analytical
+0.0721973277	consistent with
+0.0712916756	leads to
+0.0709668311	provided by
+0.0709522531	the implications of
+0.0706978256	explained by
+0.0705651563	the potential of
+0.0700782273	not only
+0.0697402966	a theory of
+0.0692022531	in times of
+0.0690820542	an economy
+0.0690577397	at least one
+0.0688652966	a sample of
+0.0688221970	aim to
+0.0687647114	on average
+0.0683249473	not yet
+0.0682824695	data from
+0.0673840283	at home
+0.0673458813	problem with
+0.0672698350	deal with
+0.0669139416	over time
+0.0661370295	supported by
+0.0660314978	a new
+0.0657385788	related to
+0.0655459135	between agents
+0.0649895033	each other
+0.0647656103	induced by
+0.0643792579	lead to
+0.0636357731	an additional
+0.0632310492	obtained by
+0.0629938680	with respect to
+0.0627656103	determined by
+0.0625745127	light on
+0.0622668578	due to
+0.0617232431	in terms of
+0.0616207444	according to
+0.0613029704	respect to
+0.0607970678	effect on
+0.0607644308	in turn
+0.0605438256	influence of
+0.0602808247	but also
+0.0600704216	return on
+0.0600101402	at risk
+0.0599938680	in order to
+0.0598106029	such as
+0.0592783761	in contrast
+0.0587112783	2 \
+0.0579095382	the art
+0.0575780677	foundation for
+0.0575220931	taking into
+0.0570528305	more than
+0.0568815327	derived from
+0.0564490185	this phenomenon
+0.0558949592	controlling for
+0.0558495803	the virus
+0.0555677562	version of
+0.0548924952	a comprehensive
+0.0548048465	a large
+0.0547467778	benefit from
+0.0543883485	the dynamics of
+0.0540573820	this approach
+0.0540160726	changes in
+0.0538300699	emergence of
+0.0538137772	other hand
+0.0534092655	compared to
+0.0531943121	an agent
+0.0531241736	differences in
+0.0526680196	an efficient
+0.0523021879	literature on
+0.0521392921	not exist
+0.0517354873	new approach
+0.0515907724	converge to
+0.0514903381	take into
+0.0513285195	insights from
+0.0510907654	considered as
+0.0510391253	an integrated
+0.0504030323	at point
+0.0504002865	seen as
+0.0503047778	an equilibrium
+0.0502572189	more likely to
+0.0494754417	an analysis
+0.0494689241	an open
+0.0491307230	described by
+0.0484041668	responsible for
+0.0483717946	overview of
+0.0482635099	a unique
+0.0482335028	different countries
+0.0481979764	generated by
+0.0480960158	a consequence
+0.0479466189	models with
+0.0478655855	contribute to
+0.0478053767	versions of
+0.0477526511	followed by
+0.0477450623	this research
+0.0476409098	allowed to
+0.0473812468	more likely
+0.0471563670	a single
+0.0469887569	for predicting
+0.0467114918	using data
+0.0464011938	most important
+0.0462815367	able to
+0.0458094647	attempt to
+0.0447626324	the same
+0.0443853089	countries with
+0.0443758712	consequence of
+0.0438754346	tend to
+0.0434035544	a proxy
+0.0433626348	willing to
+0.0432228387	model of
+0.0431447145	with memory
+0.0431093435	measured by
+0.0428642292	applied to
+0.0424090046	the same time
+0.0419074131	approach to
+0.0418540048	used to
+0.0418486044	allowing for
+0.0417313740	this method
+0.0416729017	paper provides
+0.0413553163	tool for
+0.0411284417	advances in
+0.0409066860	implications for
+0.0408082171	model to
+0.0403755539	or not
+0.0402381598	led to
+0.0401901672	the aim of
+0.0400774917	an example
+0.0399671408	well as
+0.0398493166	aims to
+0.0397126001	reductions in
+0.0387984695	the principle
+0.0381265878	along with
+0.0380438046	results from
+0.0379738881	economic system
+0.0376638077	model for
+0.0375747069	in hindsight
+0.0375399533	accounting for
+0.0374989795	this relationship
+0.0374096858	a generalization of
+0.0373776668	also found
+0.0373632163	a wide range of
+0.0368541982	a clear
+0.0367185423	three different
+0.0367047474	difference between
+0.0365995137	framework for
+0.0364168893	conducted by
+0.0363862253	in relation to
+0.0362722339	the impact of
+0.0362395663	for developing
+0.0361899455	difficult to
+0.0360029919	an increase
+0.0359162613	but not
+0.0357556990	accounts for
+0.0349647933	known as
+0.0348350837	model with
+0.0347977626	ability to
+0.0347746718	kind of
+0.0347029203	extension of
+0.0345215009	influence on
+0.0345130506	a general
+0.0340429381	close to
+0.0337953989	as well
+0.0337273717	the rest of
+0.0337052623	access to
+0.0336963597	an application
+0.0336881415	demand for
+0.0336711995	a generalization
+0.0331408633	the role of
+0.0330381598	equivalent to
+0.0329999344	the number
+0.0329259417	proportion of
+0.0325228348	description of
+0.0324763117	a large number of
+0.0324254548	by means of
+0.0322422076	characterization of
+0.0320456294	the basis of
+0.0320153290	in line
+0.0319989767	research on
+0.0318103861	validity of
+0.0317423698	types of
+0.0313186710	set of
+0.0312631061	subject to
+0.0311612881	this work
+0.0310509301	together with
+0.0309337055	a result
+0.0308629481	a fast
+0.0308195039	by means
+0.0307306328	required to
+0.0306991247	the number of
+0.0306803373	the difference between
+0.0306383274	the absence
+0.0305998451	the absence of
+0.0305006397	account for
+0.0301962988	included in
+0.0301281362	the need for
+0.0300059110	the value of
+0.0299978605	appears to
+0.0299377211	leading to
+0.0295750940	increase in
+0.0295712988	linked to
+0.0295159468	the likelihood
+0.0293661426	the potential to
+0.0293308238	the principle of
+0.0290955150	$ i
+0.0289459706	reduction in
+0.0288973399	class of
+0.0287993552	equal to
+0.0287582667	approaches to
+0.0287238792	extended to
+0.0287106112	the existence of
+0.0286125920	basis of
+0.0284941291	fraction of
+0.0284069544	a reduction
+0.0283793830	majority of
+0.0282687172	the first time
+0.0281197152	dependent on
+0.0281050076	difference in
+0.0279801288	determinants of
+0.0279465054	the importance
+0.0274511691	method for
+0.0273871718	half of
+0.0272237458	a machine
+0.0270396526	variety of
+0.0269610719	in terms
+0.0269259417	body of
+0.0268131164	the impact
+0.0266524773	light of
+0.0266497831	proof of
+0.0265757031	understanding of
+0.0264945738	an application to
+0.0264518881	the increase in
+0.0264406434	information on
+0.0263506598	designed to
+0.0263068883	a wide
+0.0262796928	lack of
+0.0259057417	variables as
+0.0258828890	the role
+0.0256333944	forms of
+0.0256055567	type of
+0.0254238792	needed to
+0.0253892690	analysis of
+0.0253321845	impact of
+0.0252741011	the quality of
+0.0251316498	effects of
+0.0250844415	for assessing
+0.0250802274	invest in
+0.0249707331	an increase in
+0.0249613828	need to
+0.0249402274	degrees of
+0.0247252807	support for
+0.0246813805	growth in
+0.0246810929	likely to
+0.0246739146	the structure of
+0.0246453789	aim of
+0.0246439628	the introduction of
+0.0245980151	the existence
+0.0245629774	least one
+0.0245447270	games with
+0.0244606344	generalization of
+0.0244496191	information from
+0.0242796928	definition of
+0.0242611729	presence of
+0.0241991247	the effect of
+0.0240640661	the rate of
+0.0240544682	value at
+0.0239915572	aspects of
+0.0239887926	similar to
+0.0237533899	the choquet
+0.0236946186	proposed by
+0.0235911943	an application of
+0.0235887697	independent of
+0.0235355816	first time
+0.0234359524	this paper provides
+0.0234150781	relation to
+0.0232902748	nature of
+0.0232305300	women in
+0.0231816024	incentives for
+0.0230426841	extent of
+0.0229963254	the importance of
+0.0228534683	the effectiveness of
+0.0225243554	economy with
+0.0224542189	approach for
+0.0223973209	used as
+0.0223000611	uniqueness of
+0.0222630627	proportional to
+0.0222196124	using data from
+0.0222132124	for example
+0.0222106344	prior to
+0.0221991247	the effects of
+0.0220604868	progress in
+0.0219429707	source of
+0.0219353838	the extent of
+0.0218424543	willingness to
+0.0217680494	part of
+0.0216312788	decrease in
+0.0215876841	a novel
+0.0215215742	solution to
+0.0215001106	rise to
+0.0214878401	consequences of
+0.0213604868	prevalence of
+0.0213455296	the diffusion of
+0.0213425237	tends to
+0.0213263947	try to
+0.0212916449	the state of
+0.0212862610	the ability of
+0.0212302103	condition for
+0.0212169986	identification of
+0.0212065906	state of
+0.0209887926	representation of
+0.0209020151	advantage of
+0.0208241874	diffusion of
+0.0206467060	conditions for
+0.0205934438	relative to
+0.0202899424	role in
+0.0202852544	this leads
+0.0202815172	a series of
+0.0200950791	process of
+0.0200709908	size of
+0.0200413420	time series of
+0.0200326378	in response to
+0.0199211735	dependence of
+0.0198660101	with respect
+0.0195861903	significance of
+0.0193599609	variation in
+0.0192905731	degree of
+0.0192796928	range of
+0.0191875211	interpretation of
+0.0190368171	absence of
+0.0190023061	evolution of
+0.0188746753	the set of
+0.0185802670	comparable to
+0.0185024860	a set of
+0.0183721843	developed by
+0.0183020381	structure of
+0.0181923578	timing of
+0.0181739146	the spread of
+0.0181192280	sensitive to
+0.0180057418	change in
+0.0176809938	used by
+0.0176103838	a combination of
+0.0175385233	development of
+0.0175215742	percent of
+0.0174538171	notion of
+0.0173373640	rate of
+0.0173211735	assessment of
+0.0173054997	adoption of
+0.0173037637	a few
+0.0172235398	behavior of
+0.0171739146	the presence of
+0.0171057909	increases with
+0.0169859461	attempts to
+0.0169465538	methodology for
+0.0169384872	needs to
+0.0169074748	expected to
+0.0168495678	robust to
+0.0168223936	the purpose of
+0.0166739146	the size of
+0.0166739146	the evolution of
+0.0165453640	cost of
+0.0165235567	goal of
+0.0164429177	sum of
+0.0162954131	solutions for
+0.0162850889	method to
+0.0162378860	choice of
+0.0160724154	principle of
+0.0160147197	heterogeneity in
+0.0159353838	the goal of
+0.0159066892	level of
+0.0159018530	effect of
+0.0159018530	distribution of
+0.0157339439	amount of
+0.0156739146	the development of
+0.0156644313	evidence for
+0.0156583702	elasticity of
+0.0155924913	shown to
+0.0155399240	context of
+0.0155305254	contribution to
+0.0154878401	implementation of
+0.0154534845	the relationship between
+0.0154516955	improvements in
+0.0153891334	assumptions on
+0.0152934085	probability of
+0.0152678864	availability of
+0.0152151457	as compared to
+0.0151739146	the context of
+0.0151739146	the case of
+0.0151338801	the possibility of
+0.0151173067	addition to
+0.0147376575	perspective of
+0.0147265841	resulting in
+0.0146739146	the level of
+0.0145610238	a whole
+0.0144979097	allow for
+0.0143596692	estimation of
+0.0143243676	result in
+0.0143211735	application of
+0.0143031942	different from
+0.0142442286	decline in
+0.0142177769	developed to
+0.0142137929	the analysis of
+0.0142065906	form of
+0.0141344070	terms of
+0.0141190958	game with
+0.0140401457	an analysis of
+0.0140223805	measure of
+0.0139963118	role of
+0.0139522219	case of
+0.0138810543	a model of
+0.0138223936	the concept of
+0.0137548791	appear to
+0.0137509650	a class of
+0.0137378860	ability of
+0.0137362029	formulation of
+0.0135415965	mechanism for
+0.0134846895	bias in
+0.0134430091	shift in
+0.0134040854	seems to
+0.0133494478	presented in
+0.0133243676	means of
+0.0133223936	the notion of
+0.0132575696	rise in
+0.0131592799	introduction of
+0.0131071236	the latter
+0.0130709908	concept of
+0.0130243836	the implementation of
+0.0129878401	intensity of
+0.0129353838	the likelihood of
+0.0129352728	share of
+0.0129217593	strategies for
+0.0129201213	accuracy of
+0.0128817010	a number of
+0.0128318021	useful for
+0.0126074344	the behavior of
+0.0125924913	application to
+0.0125449077	in contrast to
+0.0124688280	the lack of
+0.0124325728	ranking of
+0.0123990341	value of
+0.0122442286	participation in
+0.0121852544	objective of
+0.0121677496	response to
+0.0120950791	quality of
+0.0120720688	family of
+0.0118971189	likelihood of
+0.0118971189	coefficient of
+0.0118783721	connected to
+0.0118672798	measurement of
+0.0117376575	behaviour of
+0.0116974154	importance of
+0.0116592798	end of
+0.0116509650	a measure of
+0.0116077831	exist in
+0.0116011491	the distribution of
+0.0115430386	allows for
+0.0115243836	the determinants of
+0.0115185878	order to
+0.0111958121	the influence of
+0.0111584886	combination of
+0.0111363579	to invest in
+0.0111197011	speed of
+0.0110720688	relevance of
+0.0110629784	pattern of
+0.0110307487	effectiveness of
+0.0110307487	existence of
+0.0109306717	enough to
+0.0109201213	aggregation of
+0.0109084886	idea of
+0.0108824130	possibility of
+0.0108632205	content of
+0.0108632205	discussion of
+0.0108537239	attention to
+0.0106334212	a range of
+0.0106074344	the share of
+0.0105301512	made in
+0.0104693484	the cost of
+0.0103476890	used for
+0.0101513561	comparison of
+0.0101513561	face of
+0.0101344070	spread of
+0.0101074344	the emergence of
+0.0101074344	the form of
+0.0100629784	view of
+0.0099201213	ratio of
+0.0098796140	sense of
+0.0098308238	the adoption of
+0.0097741011	the process of
+0.0096974904	in addition to
+0.0096243836	the application of
+0.0096223154	the relation between
+0.0095360058	the probability of
+0.0095243836	the degree of
+0.0094861741	corresponding to
+0.0093963118	evaluation of
+0.0093048497	a variety of
+0.0092595335	possible to
+0.0091788630	the choice of
+0.0091788630	the perspective of
+0.0091641571	the objective of
+0.0091513561	dataset of
+0.0091513561	formation of
+0.0091513561	purpose of
+0.0091197011	series of
+0.0090482725	contribution of
+0.0089757886	to account for
+0.0085568169	need for
+0.0085074344	a result of
+0.0082278785	known to
+0.0082114850	way to
+0.0072595335	available to
+0.0072425843	found to

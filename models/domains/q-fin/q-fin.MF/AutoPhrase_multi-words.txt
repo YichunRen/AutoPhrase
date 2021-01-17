@@ -1,0 +1,1341 @@
+0.9672673227	neural network
+0.9542870491	reinforcement learning
+0.9542294958	nash equilibrium
+0.9487922159	machine learning
+0.9479618669	yield curve
+0.9444174052	differential equations
+0.9441045559	markov chain
+0.9431637492	laplace transform
+0.9423131693	brownian motion
+0.9375555421	power law
+0.9368376545	neural networks
+0.9367850631	sensitivity analysis
+0.9354402121	deep learning
+0.9334664246	cash flow
+0.9334024690	hilbert space
+0.9324540909	financial crisis
+0.9321332624	life insurance
+0.9309011492	mathematical finance
+0.9269970643	monte carlo
+0.9267874338	shot noise
+0.9257558647	central bank
+0.9255612857	quantitative finance
+0.9251645052	risk aversion
+0.9249870593	nash equilibria
+0.9241663395	discount rate
+0.9234389350	asymptotic expansion
+0.9222280198	transaction costs
+0.9208078292	finite difference
+0.9207905294	dynamic programming
+0.9203580541	insurance company
+0.9200420488	random variables
+0.9194819139	fixed income
+0.9189687790	game theoretic
+0.9172042143	behavioral finance
+0.9120647249	sharpe ratio
+0.9120348822	systemic risk
+0.9110303737	large deviations
+0.9104465173	steady state
+0.9103696430	geometric brownian motion
+0.9097273460	partial differential equations
+0.9092094794	closed form
+0.9092059884	implied volatility
+0.9091280960	contingent claims
+0.9073377409	log normal
+0.9070139450	state space
+0.9063617646	fourier transform
+0.9046898381	cash flows
+0.9045608818	market data
+0.9045061856	characteristic function
+0.9027912156	optimization problem
+0.9015906965	differential equation
+0.8998989529	covariance matrix
+0.8983235341	valuation adjustment
+0.8968270107	financial market
+0.8931047509	path integral
+0.8926449469	partial differential equation
+0.8916455303	market maker
+0.8908556780	acceptance sets
+0.8896277176	brownian motions
+0.8884737932	optimal control
+0.8853167501	risk measure
+0.8835902969	spectrally negative
+0.8826363180	technical analysis
+0.8780675526	upper bound
+0.8779410126	counterparty credit
+0.8751259812	short selling
+0.8742382993	wasserstein distance
+0.8738865096	utility indifference
+0.8736352510	statistical arbitrage
+0.8736094003	rough bergomi
+0.8732518983	regime switching
+0.8715922380	stochastic processes
+0.8694423987	stochastic volatility
+0.8684877998	contingent claim
+0.8659723332	high frequency
+0.8648147582	numerical method
+0.8645710985	risk neutral
+0.8642961131	random variable
+0.8641308151	density function
+0.8637885339	convex duality
+0.8634229602	credit risk
+0.8610075668	asian options
+0.8609763364	pure jump
+0.8600149028	markov process
+0.8598696161	optimal transport
+0.8594769960	transaction cost
+0.8583020304	malliavin calculus
+0.8553190532	law of large numbers
+0.8549134396	performance criteria
+0.8548232514	gaussian process
+0.8537120696	certainty equivalent
+0.8535931665	large deviation
+0.8521706573	dynkin game
+0.8514206858	lower bound
+0.8506855277	foreign exchange
+0.8505281291	expected shortfall
+0.8493983934	arbitrage opportunities
+0.8489711333	real world
+0.8484779944	knightian uncertainty
+0.8471215378	coupon bonds
+0.8469543009	exchange rate
+0.8468088778	dividend payments
+0.8458484751	portfolio selection
+0.8454341295	utility maximization
+0.8451787018	skorokhod embedding
+0.8443197435	risk premium
+0.8432957450	leverage effect
+0.8430099438	probability measure
+0.8429438357	strict local
+0.8413649580	absolutely continuous
+0.8395803174	fully coupled
+0.8389265909	rebalancing rule
+0.8387792286	hurst parameter
+0.8374254034	regularity properties
+0.8373993966	portfolio optimization
+0.8361406094	tempered stable
+0.8361253753	numerical simulations
+0.8358012244	backward stochastic differential equations
+0.8347637149	risk management
+0.8344323303	brownian bridge
+0.8337297236	marginal distributions
+0.8331812029	risky assets
+0.8328265783	numerical examples
+0.8324285969	valuation adjustments
+0.8320539255	special cases
+0.8307379002	investment strategy
+0.8306646493	comparison principle
+0.8292614864	conditional expectation
+0.8286451543	early exercise
+0.8285981718	player game
+0.8285007511	dynamic programming principle
+0.8281704645	semi static
+0.8280173439	limit order books
+0.8277060757	functionally generated
+0.8272686867	numerical experiments
+0.8271071581	infinite dimensional
+0.8269799599	dark pool
+0.8252105530	stock market
+0.8244923219	limit order book
+0.8243292576	reduced form
+0.8237592789	integral equation
+0.8235591809	fractional brownian motion
+0.8228333482	verification theorem
+0.8215802228	free boundary
+0.8210001282	energy markets
+0.8207521172	rank dependent
+0.8207422681	martingale transport
+0.8202746584	hamilton jacobi bellman
+0.8196317842	high dimensional
+0.8164764372	paper proposes
+0.8163130227	barrier options
+0.8161510568	american options
+0.8148381203	term structure
+0.8143469620	stop loss
+0.8134176496	discount factor
+0.8129108497	path dependent
+0.8124784145	bond market
+0.8113771636	jump diffusions
+0.8108601690	european options
+0.8100211146	stochastic process
+0.8098004856	quadratic variation
+0.8089447492	liquidity risk
+0.8088838791	special case
+0.8080750435	finite dimensional
+0.8074319971	proportional transaction costs
+0.8068600831	impulse control
+0.8058476234	financial markets
+0.8053783662	stochastic differential equation
+0.8034129300	optimal investment
+0.8021848308	trading strategies
+0.8014897837	terminal wealth
+0.8012405069	hjb equation
+0.7990888045	variance swaps
+0.7980796076	realized variance
+0.7978574177	numerical results
+0.7972316354	super replication
+0.7968923340	price impact
+0.7966888946	expected utility
+0.7952781001	optimal strategies
+0.7949228473	decision making
+0.7935664200	long run
+0.7934899252	law invariant
+0.7934101215	asset prices
+0.7920372330	bond prices
+0.7918326726	derivative securities
+0.7908923612	local volatility
+0.7895321678	variance gamma
+0.7893107463	multi dimensional
+0.7877321056	jump diffusion
+0.7863401339	weak convergence
+0.7856275853	evy process
+0.7846041385	arbitrage free
+0.7810403203	price dynamics
+0.7808889683	probability measures
+0.7801475507	explicit solutions
+0.7781651583	stock returns
+0.7774277268	optimal execution
+0.7763089766	growth rate
+0.7762559625	worst case
+0.7758925153	backward stochastic differential
+0.7753862300	limit orders
+0.7750183287	black scholes
+0.7748825814	scaling limit
+0.7726769048	stock price
+0.7722611985	pricing kernel
+0.7717902022	integro differential
+0.7714370325	optimal stopping
+0.7709053675	hawkes processes
+0.7705036575	price process
+0.7701212177	black scholes merton
+0.7696368020	hamilton jacobi
+0.7692579848	order flow
+0.7692030770	market makers
+0.7683199074	volatility smile
+0.7681903096	filtering theory
+0.7678273392	partial differential
+0.7672442175	partial information
+0.7663016325	systemic risk measures
+0.7661374139	existing results
+0.7654116288	stochastic differential
+0.7634249766	exercise boundary
+0.7632018315	classical solution
+0.7630997923	financial institutions
+0.7628165796	finite horizon
+0.7617379765	martingale measures
+0.7590566718	cox ingersoll ross
+0.7588181362	probability density
+0.7576151877	s & p 500
+0.7575912020	long term
+0.7567397841	evy models
+0.7559766735	asset pricing
+0.7543401900	european style
+0.7542768303	underlying asset
+0.7538176823	financial derivatives
+0.7529773954	risk averse
+0.7524309069	stochastic control
+0.7504416828	stock trading
+0.7486910986	incomplete markets
+0.7479712126	unique solution
+0.7471123456	pricing formula
+0.7470791167	paper studies
+0.7467781641	optimal portfolio
+0.7446500461	exponential utility
+0.7445616255	optimal portfolios
+0.7444093809	stock prices
+0.7441407260	indifference price
+0.7430368112	utility functions
+0.7420410667	duality results
+0.7410001164	rank based
+0.7408988027	default risk
+0.7408249680	reflected backward stochastic
+0.7407638568	hull white
+0.7407402603	proportional transaction
+0.7394233083	barndorff nielsen and shephard
+0.7388053053	market impact
+0.7384919578	expected discounted
+0.7368838849	evy processes
+0.7364168307	investment strategies
+0.7355825601	polynomial processes
+0.7355562070	vanilla options
+0.7327444480	asset returns
+0.7319418519	coupon bond
+0.7314202475	model independent
+0.7306614314	fokker planck
+0.7305933804	heston model
+0.7301460016	markov processes
+0.7299362074	hamilton jacobi bellman equation
+0.7294222848	utility maximization problem
+0.7293502975	local martingales
+0.7293178389	ornstein uhlenbeck
+0.7287873353	sufficient conditions
+0.7280339471	theoretical results
+0.7277813677	model uncertainty
+0.7274049050	forward rate
+0.7263854353	set valued
+0.7251438420	viscosity solution
+0.7227032873	upper and lower
+0.7224251556	risk sensitive
+0.7220219347	diffusion process
+0.7216882612	control problem
+0.7215399919	underlying process
+0.7214025238	prove existence
+0.7203462915	optimal liquidation
+0.7202809414	risk minimization
+0.7200414525	fixed point
+0.7187535242	incomplete market
+0.7169369878	optimal strategy
+0.7164131547	obtain explicit
+0.7154024412	hedging strategies
+0.7147186754	backward stochastic
+0.7143745788	dependence structure
+0.7139353532	control problems
+0.7139260108	rough heston
+0.7132693484	backward stochastic differential equation
+0.7126533466	portfolio theory
+0.7115975461	stopping problems
+0.7110178389	mckean vlasov
+0.7080178389	heath jarrow morton
+0.7076264922	short rate
+0.7075647110	stochastic differential equations
+0.7074991380	shadow price
+0.7069226702	relative risk aversion
+0.7061029114	stopping times
+0.7056553064	pricing hedging duality
+0.7047615212	price paths
+0.7043463006	risky asset
+0.7039360812	dual representation
+0.7029811530	markovian setting
+0.7017310065	pricing american
+0.7013802043	sabr model
+0.7012080226	sufficient condition
+0.6996353307	optimal stopping problems
+0.6989056146	volatility uncertainty
+0.6981650008	limit order
+0.6980913456	factor models
+0.6980178389	eisenberg noe
+0.6961752346	risk measures
+0.6959544865	buy and hold
+0.6958527999	portfolio optimisation
+0.6926293790	forward performance
+0.6924611962	boundary conditions
+0.6923947028	explicit solution
+0.6908786454	stochastic volatility models
+0.6905197065	optimal consumption
+0.6901333900	infinite horizon
+0.6899405648	model parameters
+0.6896494336	asset price
+0.6889993587	data driven
+0.6885033274	central limit
+0.6879829604	optimal dividend
+0.6877312253	affine processes
+0.6875859052	order book
+0.6874484640	main result
+0.6862446770	shortfall risk
+0.6859544599	drift uncertainty
+0.6843454853	point process
+0.6833615304	local martingale
+0.6803779669	black scholes equation
+0.6803425396	lower bounds
+0.6797702622	martingale representation
+0.6782793726	stochastic control problem
+0.6768742431	bid ask spread
+0.6763027137	martingale measure
+0.6760412752	higher order
+0.6755934849	volatility models
+0.6751283824	optimal switching
+0.6750684452	closed form solution
+0.6748256084	ordinary differential
+0.6731979487	point of view
+0.6731602967	martingale property
+0.6727044060	transport problem
+0.6697997824	underlying assets
+0.6694251020	multi factor
+0.6679609225	fundamental theorem of asset pricing
+0.6678576284	market weights
+0.6677617929	expressed in terms
+0.6665852591	short term
+0.6664559060	cost function
+0.6656359219	optimization problems
+0.6655191928	optimal exercise
+0.6655060080	optimal solution
+0.6650232242	concave functions
+0.6632364425	ornstein uhlenbeck process
+0.6611082835	rough volatility
+0.6610438144	fractional brownian
+0.6610150670	forward backward
+0.6598735335	stochastic portfolio theory
+0.6589379042	optimal trading
+0.6574805457	hedging error
+0.6559868730	exotic options
+0.6551099578	power utility
+0.6548189109	risk free
+0.6546874196	present paper
+0.6539790785	trading strategy
+0.6532167874	series data
+0.6517916376	term structure models
+0.6501648889	arbitrage conditions
+0.6498790520	jacobi bellman
+0.6494001454	surplus process
+0.6474944600	realized volatility
+0.6404794669	semi markov
+0.6399808247	consistent price
+0.6366217049	indifference pricing
+0.6349596300	maximization problem
+0.6346681501	price bounds
+0.6317362852	stopping problem
+0.6308797563	super hedging
+0.6293271875	volatility surface
+0.6291708645	european and american
+0.6290932375	optimal dividend problem
+0.6290595224	log price
+0.6288308872	order approximation
+0.6285625365	stochastic volatility model
+0.6284608224	martingale optimal transport
+0.6281244399	market risk
+0.6268873575	limit theorem
+0.6256773098	market models
+0.6254164709	utility function
+0.6239409935	counterparty risk
+0.6231588350	state dependent
+0.6229260580	black scholes formula
+0.6224201055	jump diffusion model
+0.6209555770	hedging strategy
+0.6176114870	pricing formulas
+0.6169002806	differential game
+0.6167738653	optimal stopping problem
+0.6113891751	investment problem
+0.6100724850	market participants
+0.6100528567	s & p
+0.6085489552	game options
+0.6081645270	arbitrage condition
+0.6079547363	stochastic optimal control
+0.6060555516	model free
+0.6037205828	rough heston models
+0.6031644045	duality theory
+0.6013028633	spot price
+0.6007540530	bellman equation
+0.5992407260	existence and uniqueness
+0.5913279493	geometric brownian
+0.5909643386	levy process
+0.5897559296	delta hedging
+0.5894075759	fundamental theorem of asset
+0.5881728309	pricing problem
+0.5879967984	risk minimizing
+0.5876785929	relative arbitrage
+0.5837641016	optimal trading strategy
+0.5835603879	dynamic trading
+0.5792982241	rough volatility models
+0.5792079860	black scholes model
+0.5777217827	stochastic game
+0.5764229235	convex risk
+0.5758860622	main results
+0.5752361426	closed form solutions
+0.5740893745	pricing and hedging
+0.5739751398	multi asset
+0.5736652219	risk free asset
+0.5730242128	gamma process
+0.5716864829	dual problem
+0.5705719248	semi closed
+0.5689966708	fundamental theorem
+0.5655297024	order books
+0.5648360222	free boundary problem
+0.5642435564	forward backward stochastic
+0.5642219125	wrong way risk
+0.5586779967	minimization problem
+0.5572194156	jump diffusion models
+0.5552958447	diffusion models
+0.5537006527	local variance
+0.5533856305	absence of arbitrage
+0.5531220936	programming principle
+0.5518934573	optimal hedging
+0.5514689104	semi closed form
+0.5510904590	& p 500
+0.5459674367	factor model
+0.5409456203	volatility skew
+0.5375139308	optimal transport problem
+0.5310021256	field game
+0.5306043166	finite time horizon
+0.5283426270	linear quadratic
+0.5276387419	cev model
+0.5267693013	price processes
+0.5255805895	case study
+0.5239400241	et al
+0.5236276590	coherent risk
+0.5230096979	pricing models
+0.5225543267	market model
+0.5211375761	uhlenbeck process
+0.5177266665	reflected backward
+0.5173050275	indifference prices
+0.5145353597	change of measure
+0.5138266448	gives rise
+0.5115337682	general framework
+0.5038446563	optimal control problem
+0.5020736957	pricing options
+0.4954273384	long bond
+0.4949998849	stochastic model
+0.4904913326	credit default
+0.4890306665	vasicek model
+0.4863993318	barndorff nielsen and
+0.4835937698	so far
+0.4834428173	equilibrium price
+0.4807431855	arbitrage pricing
+0.4757839126	fractional stochastic
+0.4707019562	market prices
+0.4662902397	optimal policy
+0.4661310011	volatility model
+0.4659729302	financial time series
+0.4606899478	theorem of asset pricing
+0.4602285104	bid ask
+0.4596997183	pricing theory
+0.4584573818	price volatility
+0.4524844919	model risk
+0.4465194832	optimal risk
+0.4447976758	forward backward stochastic differential
+0.4438831244	mean field game
+0.4419292407	mean field games
+0.4411181943	state process
+0.4368410390	widely used
+0.4357597891	dividend problem
+0.4344824741	static trading
+0.4341773401	hedging problem
+0.4333541557	american put
+0.4317982993	pricing hedging
+0.4315762366	large numbers
+0.4300340912	take into account
+0.4299782158	wrong way
+0.4297560568	self financing
+0.4258689857	finitely many
+0.4235019471	market price
+0.4217996888	equivalent martingale
+0.4145137833	price data
+0.4128860649	well posedness
+0.4110641099	this paper investigates
+0.4097381838	so called
+0.4082779789	this paper studies
+0.4071271648	volatility process
+0.4056956391	discrete time financial
+0.4049991694	commonly used
+0.4037386721	paper presents
+0.4025214283	paper considers
+0.4011392275	rather than
+0.4002424087	european call
+0.3993786037	good deal
+0.3957998309	pricing model
+0.3937588188	^ *
+0.3845554004	diffusion model
+0.3811644978	market portfolio
+0.3760519045	equilibrium model
+0.3680290709	non trivial
+0.3648377103	wide range of
+0.3646096333	class of models
+0.3644593958	sufficient conditions for
+0.3627273183	under model uncertainty
+0.3591258697	not necessarily
+0.3581755756	mean field
+0.3570162861	stochastic partial
+0.3569536465	law of large
+0.3517104062	mean reversion
+0.3490712073	hedging duality
+0.3450328698	singular stochastic
+0.3408308658	non parametric
+0.3376953822	mean reverting
+0.3375322578	dynamic risk
+0.3357189395	into account
+0.3331094338	each player
+0.3327151722	an explicit formula
+0.3294497394	first passage
+0.3283200116	best bid
+0.3277143414	interest rates
+0.3215613533	explicit formula
+0.3193947126	zero sum
+0.3146671583	zero coupon
+0.3105324581	does not
+0.3095264411	martingale optimal
+0.3075680542	w ^
+0.3055680887	well known
+0.3046416390	heston models
+0.3041062791	time inconsistent
+0.3016824157	general class of
+0.3009744519	closed form solutions for
+0.3001911119	general class
+0.2993085770	necessary and sufficient
+0.2948874073	continuous time model
+0.2927153147	large number of
+0.2922469477	more realistic
+0.2922441736	scholes model
+0.2910643471	l ^ \ phi
+0.2902537243	num \
+0.2902477018	an incomplete market
+0.2859271045	volatility function
+0.2859187842	a large number
+0.2856094408	a finite number
+0.2852668190	discrete time
+0.2841850396	bid and ask
+0.2841661132	^ o
+0.2839076098	risk models
+0.2811328396	mean variance
+0.2791279083	this paper presents
+0.2758895560	an infinite horizon
+0.2755792069	do not
+0.2753240884	asian option
+0.2746027816	connection between
+0.2743880330	with proportional transaction costs
+0.2741367114	r ^
+0.2739738631	\ geq
+0.2736647717	necessary and sufficient conditions
+0.2732787019	this paper considers
+0.2725616629	viscosity solution of
+0.2717133731	relation between
+0.2704338340	time inhomogeneous
+0.2698350168	local stochastic
+0.2693058455	interest rate
+0.2682303761	well defined
+0.2682220494	s &
+0.2672182571	no arbitrage
+0.2654846177	robust pricing
+0.2644361285	financial market with
+0.2629169867	driven by
+0.2609164752	the other hand
+0.2582836307	risk model
+0.2571275074	if and only if
+0.2555778830	a wide range
+0.2543498866	under transaction costs
+0.2533074270	= 1
+0.2523196205	option pricing
+0.2518054707	network based
+0.2517685391	under partial information
+0.2515267812	option pricing models
+0.2504483660	dual representation of
+0.2499003698	= 0
+0.2498405032	_ t \
+0.2465643239	1 2
+0.2455919312	this paper
+0.2454161604	rate model
+0.2444527061	away from
+0.2441603160	full information
+0.2430978047	\ textit
+0.2427530844	^ 2
+0.2410894721	boundary problem
+0.2395779821	even if
+0.2390996797	finite number of
+0.2367814759	performance processes
+0.2362701615	motivated by
+0.2339167798	price model
+0.2334868122	game options in
+0.2326149630	relationship between
+0.2311522783	\ cdot
+0.2310623668	the present paper
+0.2303779878	free pricing
+0.2293979361	based on
+0.2292158834	a general framework
+0.2281373696	structure models
+0.2278362778	\ ^ o
+0.2254666726	value at risk
+0.2252501082	inspired by
+0.2250810129	this article
+0.2167643363	arising from
+0.2152783821	depending on
+0.2150012198	\ cite
+0.2142750327	continuous time
+0.2140635943	time horizons
+0.2132123553	\ leq
+0.2119205670	variance model
+0.2103437435	as well as
+0.2103004622	call and put
+0.2084123553	\ frac
+0.2077119634	\ tau
+0.2063673837	\ emph
+0.2056716926	difference between
+0.2051658688	\ mathbb q
+0.2045609476	depends on
+0.2042025108	relying on
+0.2041839189	first passage time
+0.2040232514	^ h
+0.2034587544	the optimal policy
+0.2033734476	depend on
+0.2019982254	taking into
+0.1999964990	with proportional transaction
+0.1995990387	e ^
+0.1989774466	\ infty
+0.1988436581	brownian motion with
+0.1986132383	market model with
+0.1982999267	\ mathcal f
+0.1967774834	first order
+0.1947463229	interpreted as
+0.1940569201	relies on
+0.1924541790	passage time
+0.1918436846	l \
+0.1917153144	interest rate models
+0.1917051477	\ xi
+0.1908083083	optimal investment and
+0.1900710376	focusing on
+0.1900086077	mean variance portfolio
+0.1894695868	rate models
+0.1893276843	large class of
+0.1888326745	the optimal strategy
+0.1884660605	\ psi
+0.1871789712	rely on
+0.1863688736	impact model
+0.1862293566	generated by
+0.1860133842	the main results
+0.1848435112	of large numbers
+0.1839360857	in mathematical finance
+0.1838095150	with and without
+0.1829556453	\ mathcal p
+0.1828258046	option prices
+0.1821138134	exchange option
+0.1819344211	put options
+0.1812796942	time dependent
+0.1809492755	an arbitrage free
+0.1803485142	asset pricing in
+0.1790760365	one dimensional
+0.1785702986	\ mathbb f
+0.1776530625	with transaction costs
+0.1774341447	control problem with
+0.1773439137	time consistent
+0.1763501606	information about
+0.1758027399	boundary value
+0.1752547845	the long bond
+0.1751273009	\ nu
+0.1744339602	time series
+0.1736709679	\ omega
+0.1733704055	several examples
+0.1728058059	\ mathbb e
+0.1721945373	\ sigma
+0.1721241103	uncertainty about
+0.1720629033	stochastic portfolio
+0.1720149613	a contingent claim
+0.1719130152	\ mu
+0.1713962948	of contingent claims
+0.1712153359	\ phi
+0.1710146995	correlation between
+0.1697310135	characterized by
+0.1695702986	\ mathbb r
+0.1684366483	time horizon
+0.1682872339	both cases
+0.1677051632	volatility models with
+0.1672452863	non linear
+0.1661446354	\ sqrt
+0.1653476752	value function
+0.1652439800	each other
+0.1635866001	call options
+0.1635063222	a collection
+0.1634931994	american option
+0.1616434746	these results
+0.1615349707	expected utility of
+0.1608695810	short time
+0.1604543917	\ lambda
+0.1601595397	an explicit
+0.1597842379	term structure of
+0.1595790170	exponential l \
+0.1590198809	\ pi
+0.1585702406	\ zeta
+0.1581075121	\ `
+0.1579462005	market price of
+0.1570304795	coincides with
+0.1568902638	non gaussian
+0.1564996440	induced by
+0.1564205903	non markovian
+0.1559188742	l ^
+0.1554532449	second order
+0.1544651547	time homogeneous
+0.1544265742	\ mathbb p
+0.1534549849	deal with
+0.1519765829	the fundamental theorem of asset pricing
+0.1518137072	\ sigma_t
+0.1517746665	the use of
+0.1489671456	also discuss
+0.1489112708	an optimal stopping
+0.1475406555	one factor
+0.1473612703	exposed to
+0.1465479367	local time
+0.1463758984	not only
+0.1462740301	due to
+0.1461486889	$ \ mathbb
+0.1460731386	\ mathcal
+0.1455213212	leads to
+0.1451376923	a unified
+0.1448105675	time consistency
+0.1446936868	modeled by
+0.1443235882	a closed form
+0.1435128897	the exchange rate
+0.1427689495	a market model
+0.1427304061	$ \ mathcal
+0.1420382341	corresponds to
+0.1418507533	represented by
+0.1409262018	under mild
+0.1379341316	but also
+0.1369738400	call option
+0.1360498286	at least
+0.1357673894	collection of
+0.1349482271	one period
+0.1346066772	\ epsilon
+0.1344663007	mean variance model
+0.1335173134	\ theta
+0.1329452641	and hedging of
+0.1326758752	very general
+0.1324240857	focus on
+0.1323743924	the implied volatility
+0.1321846862	fundamental theorem of
+0.1316017932	\ alpha
+0.1304386781	\ mathbb
+0.1299906006	the first time
+0.1299348932	an important
+0.1298454414	terminal time
+0.1296623372	european option
+0.1290143127	$ \ sigma
+0.1283195342	two dimensional
+0.1279748729	described by
+0.1279235476	an efficient
+0.1277227391	affected by
+0.1275618323	the model parameters
+0.1271318468	derived from
+0.1264878782	approximated by
+0.1257354823	the value of
+0.1252718948	the market price
+0.1244564125	the time of
+0.1244263012	the stock market
+0.1242809794	$ \ alpha
+0.1239789381	\ rho
+0.1230903677	\ textbf
+0.1229928487	more general
+0.1227908908	represented as
+0.1213491315	$ c ^
+0.1213236996	with respect to
+0.1207960421	this note
+0.1201068597	subject to
+0.1198097000	non negative
+0.1198002679	& p
+0.1176407442	obtained by
+0.1176240529	the state process
+0.1175003694	an application
+0.1174458816	the risky asset
+0.1167487195	applied to
+0.1166058383	the price process
+0.1158954820	option price
+0.1157138400	determined by
+0.1151572656	the asset price
+0.1149985847	an optimal
+0.1137983780	new method
+0.1136423244	exit time
+0.1129493108	price changes
+0.1118081600	this work
+0.1116332346	the volatility process
+0.1115751553	in addition
+0.1111153997	by means of
+0.1108831108	modelled by
+0.1107712716	the risk neutral
+0.1105411950	an empirical
+0.1102284727	a financial market
+0.1101165208	the fundamental theorem of asset
+0.1098742415	s ^
+0.1094410447	by introducing
+0.1093840488	the pricing and
+0.1093554279	$ l ^
+0.1090798207	^ 1
+0.1090304016	$ \ rho
+0.1084737109	but not
+0.1084115452	an additional
+0.1083620899	such as
+0.1080387040	class of
+0.1077828653	the optimal stopping
+0.1076879831	the long term
+0.1068789784	the stock price
+0.1067414240	introduced by
+0.1066929679	the financial market
+0.1065488270	existence and uniqueness of
+0.1057411654	by applying
+0.1048724428	^ p
+0.1047957079	this result
+0.1042339317	tend to
+0.1035150207	written on
+0.1034247128	_ t
+0.1033839672	of probability measures
+0.1028636151	random time
+0.1027199576	$ \ theta
+0.1024270623	seen as
+0.1021493498	the value function
+0.1020419599	an arbitrary
+0.1008560906	two factor
+0.1006683869	\ gamma
+0.1004156839	the fundamental theorem
+0.1002622394	stopping time
+0.1001021667	assumptions on
+0.0990904954	small time
+0.0988664684	a risk free
+0.0987672489	a series of
+0.0986470506	conditions under
+0.0985999592	with respect
+0.0984593354	rise to
+0.0974036546	related to
+0.0972208911	version of
+0.0969594639	under appropriate
+0.0959053535	well posedness of
+0.0958340671	by considering
+0.0956932393	finite time
+0.0953127604	the optimal trading
+0.0948386775	the effects of
+0.0948386775	the sense of
+0.0944897595	value functions
+0.0942907855	adl \
+0.0940647151	properties of
+0.0932751590	\ _ t \
+0.0932275664	the framework of
+0.0931462926	^ \ phi
+0.0930747615	proposed by
+0.0926308602	asset value
+0.0925278019	formulated as
+0.0924093846	the study of
+0.0923794689	a stochastic control
+0.0922014005	framework for
+0.0912612022	$ \ epsilon
+0.0908881863	$ \ beta
+0.0908346234	of asset pricing
+0.0905265396	lead to
+0.0900581209	model with
+0.0899699639	method for
+0.0898386775	the assumption of
+0.0898002032	tends to
+0.0896678815	time varying
+0.0890164811	a general
+0.0888734708	modelled as
+0.0888482542	approach to
+0.0887635273	f \
+0.0884093846	the effect of
+0.0878538736	a limit order
+0.0876676492	defined as
+0.0875130186	impact on
+0.0869001632	$ \ xi
+0.0867411306	the form of
+0.0866814719	family of
+0.0864093846	the valuation of
+0.0862848126	$ \ psi
+0.0861249749	$ \ tau
+0.0860833083	formula for
+0.0859012244	consistent with
+0.0855616836	the optimal
+0.0854136522	$ \ nu
+0.0853830415	$ \ phi
+0.0851072339	$ \ mu
+0.0849872194	this leads
+0.0843480408	an investor
+0.0839401374	modeled as
+0.0829731844	in particular
+0.0828800621	stochastic interest
+0.0827429407	with jumps
+0.0827411306	the method of
+0.0824642801	literature on
+0.0824467218	an alternative
+0.0823522417	the sensitivity of
+0.0822436844	equivalent to
+0.0817411306	the probability of
+0.0815517791	this framework
+0.0815255017	a new approach
+0.0811935005	the size of
+0.0807411306	the limit of
+0.0806704235	the objective of
+0.0803388490	with time dependent
+0.0802395135	formulae for
+0.0800590152	ask price
+0.0798872259	expression for
+0.0798278062	\ beta
+0.0797646840	$ \ omega
+0.0796698615	bounds on
+0.0788626079	and only if
+0.0784087320	this approach
+0.0784075615	in terms of
+0.0781957444	an equivalent
+0.0781449871	by using
+0.0780312989	two different
+0.0780088580	an analytical
+0.0778756185	characterization of
+0.0776593124	the performance of
+0.0776562528	able to
+0.0773701743	an infinite
+0.0769501641	some numerical
+0.0767760153	defined by
+0.0766593124	the pricing of
+0.0761937091	in order to
+0.0761441798	a simple
+0.0759383822	the price of
+0.0758661874	a priori
+0.0754913670	defined on
+0.0754308179	compared to
+0.0752158236	formulas for
+0.0748463107	a system of
+0.0738196664	consists of
+0.0736760776	by solving
+0.0736593124	the model to
+0.0726593124	the volatility of
+0.0726593124	the risk of
+0.0719273557	an exponential
+0.0712736835	associated with
+0.0710477091	models with
+0.0709857963	a dual
+0.0706593124	the space of
+0.0706345335	new results
+0.0704906727	number of
+0.0700466558	lies in
+0.0699332650	expressions for
+0.0698796100	in contrast to
+0.0697510391	\ overline
+0.0697427543	$ n
+0.0696543147	allowed to
+0.0692757234	pricing and hedging of
+0.0692367391	an illiquid
+0.0690252254	the original
+0.0689278263	in turn
+0.0687349845	assumed to
+0.0686633345	close to
+0.0685056211	used to
+0.0684998340	a comparison
+0.0682782836	along with
+0.0682557852	problem under
+0.0681069222	financial time
+0.0676329752	the problem of optimal
+0.0674700959	m \
+0.0672666951	an example
+0.0672449405	$ \
+0.0671990033	together with
+0.0665874320	existence of
+0.0665228343	an approximate
+0.0664389257	or more
+0.0662921204	with proportional
+0.0659513209	market with
+0.0657462741	respect to
+0.0656618168	representation of
+0.0654083108	a suitable
+0.0650190153	arising in
+0.0649959600	extension of
+0.0648634081	new approach
+0.0647318310	this allows
+0.0645587329	an extension of
+0.0641743762	easy to
+0.0629697906	the well known
+0.0628011541	description of
+0.0627053296	with vanishing
+0.0626776580	a new class of
+0.0624949928	an agent
+0.0622671009	consisting of
+0.0621851555	conditions on
+0.0620922893	for computing
+0.0617570289	the possibility
+0.0617087775	option pricing with
+0.0616716857	an extension
+0.0615560065	the amount of
+0.0613026421	the literature
+0.0609883169	$ h
+0.0609480549	possibility of
+0.0606969433	an exact
+0.0606352377	a large class of
+0.0604048445	put option
+0.0603576697	equal to
+0.0599608268	behaviour of
+0.0597677194	for option pricing
+0.0597105121	a mean field
+0.0596333129	an affine
+0.0595652817	$ t \
+0.0594992199	a single
+0.0594661874	large time
+0.0590670536	h \
+0.0588759999	problem with
+0.0588645907	shown to
+0.0587498081	a variety of
+0.0586736193	lack of
+0.0586548024	converge to
+0.0586076957	in practice
+0.0583594532	a new
+0.0580590118	absence of
+0.0580473789	\ delta
+0.0579355096	a time dependent
+0.0579006629	a wide range of
+0.0578725603	this setting
+0.0578696070	presence of
+0.0578555605	$ g
+0.0577322707	notion of
+0.0577174726	as well
+0.0574349997	the usual
+0.0571753975	types of
+0.0571459109	given by
+0.0570943017	options on
+0.0561134963	the existence of
+0.0560212590	enlargement of
+0.0557931621	bounds for
+0.0555624919	n \
+0.0555182802	variant of
+0.0555070750	the presence of
+0.0554777171	reduces to
+0.0543323155	the mean field
+0.0541953821	nature of
+0.0540657674	only if
+0.0537433179	asymptotics for
+0.0534949953	set of
+0.0534931137	options under
+0.0531067278	the impact of
+0.0529914666	in hindsight
+0.0527883585	spirit of
+0.0527753886	subset of
+0.0527681302	$ player
+0.0527298319	under partial
+0.0526741734	allowing for
+0.0525164674	any time
+0.0523598108	known as
+0.0522934722	an incomplete
+0.0522820749	for example
+0.0522344129	the case of
+0.0521995555	the aim of
+0.0515755991	different from
+0.0515276373	information on
+0.0513456692	markets with
+0.0511331982	versions of
+0.0511296535	= \
+0.0510226446	degree of
+0.0507903500	the option price
+0.0507639885	the relationship between
+0.0507062695	the dynamics of
+0.0506545948	proof of
+0.0506514772	relative to
+0.0503318835	a unique
+0.0502650156	constraints on
+0.0501890392	reduced to
+0.0494773552	the non linear
+0.0494571331	derivation of
+0.0493819598	variety of
+0.0493376619	model for
+0.0491798166	this leads to
+0.0491177543	converges to
+0.0488999321	the concept of
+0.0487721543	a sequence of
+0.0484187554	a wide
+0.0478924309	a second order
+0.0478012570	c \
+0.0475515869	with unbounded
+0.0472693125	an equilibrium
+0.0468816326	conditions for
+0.0468052099	an appropriate
+0.0467521971	classes of
+0.0466770113	the same
+0.0465848528	the problem of
+0.0464339652	hedging under
+0.0464030401	calibrated to
+0.0463659363	extensions of
+0.0461474178	notions of
+0.0457494227	$ t
+0.0451876508	a finite number of
+0.0448489061	strategy for
+0.0445133057	the absence of
+0.0444075725	\ _
+0.0441905614	a novel
+0.0441398155	role in
+0.0435809677	a complete
+0.0435166709	a class of
+0.0429824028	non zero
+0.0429356464	a number of
+0.0428777820	the context of
+0.0427506070	$ u
+0.0427400005	characterisation of
+0.0426453356	an application of
+0.0423224763	point of
+0.0419664152	a finite
+0.0415304674	linked to
+0.0413583393	+ \
+0.0411509995	an arbitrage
+0.0405507367	interpretation of
+0.0405166709	a set of
+0.0399757568	t \ in
+0.0399243308	methodology for
+0.0397973790	in detail
+0.0397359210	instead of
+0.0396707692	a special
+0.0395404009	$ b
+0.0395350286	a l \
+0.0395313341	the role of
+0.0392197954	the existence and
+0.0388633802	$ c
+0.0388590001	observed in
+0.0386661080	default time
+0.0383364442	bsdes with
+0.0380255924	combination of
+0.0379952501	similar to
+0.0379354669	impact of
+0.0379098871	a large
+0.0378046408	law of
+0.0373543082	influence of
+0.0373063535	a family of
+0.0370888450	the idea of
+0.0370467851	an american
+0.0370087862	the latter
+0.0366250315	case of
+0.0364692130	optimal value
+0.0364643720	uniqueness of
+0.0364458440	the existence and uniqueness
+0.0363814861	evolution of
+0.0363691838	allow for
+0.0361191302	cost of
+0.0360460664	problem of
+0.0360100084	needs to
+0.0359794188	t \
+0.0358006100	sequence of
+0.0357384159	a discrete time
+0.0357111457	solution for
+0.0357070858	games with
+0.0354494587	s \
+0.0353533138	a specific
+0.0353195894	a detailed
+0.0351244865	a representative
+0.0350210067	in discrete time
+0.0349744293	used as
+0.0349436356	the existence
+0.0349002457	application to
+0.0348674174	function of
+0.0348597234	and uniqueness of
+0.0348043760	the optimality of
+0.0347696444	$ expectation
+0.0346848594	the default time
+0.0346458773	context of
+0.0346090290	consequence of
+0.0345294971	for solving
+0.0344820663	the behavior of
+0.0343041504	an asymptotic
+0.0342616220	analysis of
+0.0342273470	generalization of
+0.0341928808	a hybrid
+0.0340888450	the purpose of
+0.0338942173	the efficiency of
+0.0337298764	an insurance
+0.0336972256	order to
+0.0336865749	decomposition of
+0.0335998664	obtained in
+0.0335668093	a model for
+0.0333922528	$ m
+0.0333211812	$ q
+0.0332405737	in addition to
+0.0332042298	behavior of
+0.0331975971	a generalization of
+0.0328922528	$ d
+0.0327918546	distribution of
+0.0324940083	as special
+0.0322341019	the number of
+0.0318583585	the notion of
+0.0317914358	an investment
+0.0317891370	the cost of
+0.0316594667	condition on
+0.0316186460	in contrast
+0.0315734769	game with
+0.0315359726	$ y
+0.0313874165	$ s
+0.0311065813	\ ^
+0.0310742092	a binomial
+0.0309910835	the change of
+0.0309399637	proportional to
+0.0309348528	the set of
+0.0307065640	the value function and
+0.0306826372	a range of
+0.0305939740	calculation of
+0.0305214270	the presence
+0.0302927316	required to
+0.0301939945	developed in
+0.0301290381	a continuous time
+0.0300612606	value function of
+0.0300093076	the existence and uniqueness of
+0.0299997253	a natural
+0.0298316902	the convergence of
+0.0297432600	the theory of
+0.0296978191	scheme for
+0.0296712949	condition for
+0.0295941854	change of
+0.0295349793	allows for
+0.0294037652	a direct
+0.0293386062	terms of
+0.0292996679	optimality of
+0.0289231317	solution of
+0.0288798729	the market price of
+0.0288206960	extension to
+0.0287891370	the solution to
+0.0286481594	application of
+0.0285719395	solution to
+0.0284097784	need to
+0.0282386062	structure of
+0.0282014472	range of
+0.0280497173	theory of
+0.0279719815	relation to
+0.0278739689	a common
+0.0278561220	the uniqueness of
+0.0278316902	the analysis of
+0.0278243760	the computation of
+0.0277818314	$ v
+0.0277689720	representation for
+0.0276965396	a solution to
+0.0273723830	convergence of
+0.0272489177	principle for
+0.0270286024	written in
+0.0267616366	complexity of
+0.0264968109	provided to
+0.0262859317	means of
+0.0260165330	introduced in
+0.0258892775	accuracy of
+0.0256666228	the evolution of
+0.0256514771	$ f
+0.0255625772	contrast to
+0.0255459759	a model with
+0.0255311220	the sum of
+0.0253656095	evaluation of
+0.0253600805	a key
+0.0253381928	a market with
+0.0252245731	expressed in
+0.0251906758	a verification
+0.0250698267	position in
+0.0250369126	the solution of
+0.0247871048	extended to
+0.0245142386	presented in
+0.0244900539	positivity of
+0.0242167999	buy and
+0.0239941443	$ x
+0.0235885867	a semi
+0.0231162495	a certain
+0.0230805352	part of
+0.0230623895	new class of
+0.0230258619	construction of
+0.0229468896	theorem for
+0.0229219951	the structure of
+0.0229079560	computation of
+0.0224234459	addition to
+0.0220884599	value at
+0.0218664395	a function of
+0.0216174026	efficiency of
+0.0215454936	a sequence
+0.0213852268	used for
+0.0213823291	algorithm for
+0.0213142228	definition of
+0.0212507898	$ p
+0.0211397386	sum of
+0.0200858476	shape of
+0.0198656095	feature of
+0.0197998137	a generalization
+0.0197059338	allows to
+0.0194339417	pricing under
+0.0191935743	the distribution of
+0.0188929821	system of
+0.0187111326	a few
+0.0186363215	technique to
+0.0184308307	a class
+0.0183615941	example of
+0.0182167948	and hence
+0.0177561101	available for
+0.0175988140	defined in
+0.0175024390	^ \
+0.0174433272	amount of
+0.0172879702	associated to
+0.0172750973	the aim
+0.0172464304	$ l
+0.0171408613	purpose of
+0.0171193611	well as
+0.0170717074	a family
+0.0166691809	pair of
+0.0161989922	only on
+0.0159449678	role of
+0.0154742038	concept of
+0.0136949678	idea of
+0.0128488140	motion with
+0.0122921064	possible to
