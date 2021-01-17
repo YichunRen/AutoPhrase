@@ -1,0 +1,1999 @@
+0.9640745397	von neumann
+0.9616883433	artificial intelligence
+0.9570187053	master equation
+0.9567003122	ad hoc
+0.9540646482	moore's law
+0.9513975032	impulse response
+0.9504373222	carbon nanotube
+0.9499312097	machine learning
+0.9486971210	turing machine
+0.9477117135	magnetic anisotropy
+0.9468435861	cellular automata
+0.9467081273	multilayer perceptron
+0.9452698382	markov chain
+0.9435530008	monte carlo
+0.9425282377	fourier transform
+0.9421996043	spectral efficiency
+0.9416371623	room temperature
+0.9412960978	fault tolerant
+0.9412092008	shortest path
+0.9409163672	pattern recognition
+0.9398483208	instruction set
+0.9392310672	bayesian inference
+0.9364780382	radio frequency
+0.9364302711	reverse engineering
+0.9351148467	chemical reaction
+0.9346500134	random access memory
+0.9328926700	metal oxide
+0.9322883048	field effect transistor
+0.9321754056	programming language
+0.9305383614	deep learning
+0.9299508912	phase change
+0.9297741244	wireless communications
+0.9292368526	supervised learning
+0.9288547547	cognitive radio
+0.9278847877	big data
+0.9276097095	fault tolerance
+0.9272265844	simulated annealing
+0.9269847271	neural network
+0.9224618263	edge detection
+0.9211562694	decision diagrams
+0.9205701570	floating point
+0.9184586280	neural networks
+0.9175231240	dynamic range
+0.9174027306	unsupervised learning
+0.9172623619	fractional coding
+0.9166471636	synthetic biology
+0.9161765650	maximum likelihood
+0.9154961271	domain wall
+0.9102644559	electric field
+0.9102636787	cellular automaton
+0.9093252120	open source
+0.9092648989	image processing
+0.9051760460	liquid marbles
+0.9049474385	signal processing
+0.9032908935	combinatorial optimization
+0.9031458596	mutual information
+0.9027885057	health monitoring
+0.9017606413	artificial neural networks
+0.9017042116	window function
+0.9013485665	absorbing receiver
+0.9010212265	matrix multiplication
+0.9009137447	reinforcement learning
+0.9006719098	short term memory
+0.8999274572	electromagnetic waves
+0.8994249585	boolean function
+0.8990394698	human brain
+0.8989684106	random access
+0.8984170806	search algorithm
+0.8982649512	integrated circuits
+0.8982279459	dynamical systems
+0.8979100612	flash memory
+0.8973721325	read write
+0.8971277267	drug delivery
+0.8959373137	closed form
+0.8958641464	multi core
+0.8952763755	physical layer
+0.8949304525	magnetic tunnel junction
+0.8949123294	quadratic unconstrained
+0.8945452116	artificial neural network
+0.8939996456	ising machine
+0.8929293029	ground state
+0.8927602439	energy harvesting
+0.8918140386	wi fi
+0.8883728019	integrated circuit
+0.8882832543	pulse trains
+0.8868361755	np complete
+0.8854160667	subset sum problem
+0.8853502225	online learning
+0.8847822313	von neumann architecture
+0.8842901067	magnetic field
+0.8837564597	secure key exchange
+0.8816136510	flip flop
+0.8811874343	wireless networks
+0.8809949273	digital microfluidic biochips
+0.8794206633	spin transfer torque
+0.8790633403	synaptic plasticity
+0.8789872851	source code
+0.8788460881	crossbar arrays
+0.8787267371	error correcting
+0.8782281597	gradient descent
+0.8775295367	flip flops
+0.8773112145	magnetic tunnel junctions
+0.8756366299	bit error rate
+0.8754534251	coupled oscillator
+0.8746733315	superconducting optoelectronic
+0.8744930390	slime mould
+0.8734936260	parity preserving
+0.8724714785	normal form
+0.8723113549	asymptotically optimal
+0.8709690486	state space
+0.8707713620	electrical potential
+0.8704052229	spike timing dependent plasticity
+0.8692103892	reversible computing
+0.8690041992	biologically inspired
+0.8676708594	sequential logic
+0.8674306779	path balancing
+0.8670190047	image recognition
+0.8667995150	dependent plasticity
+0.8667409664	nearest neighbor
+0.8666769992	boolean logic
+0.8665153820	transfer function
+0.8650586324	weight update
+0.8630278100	image classification
+0.8613090644	field effect transistors
+0.8613032220	belousov zhabotinsky
+0.8602905844	reed muller
+0.8586914463	majority gate
+0.8579514014	programmable matter
+0.8572472684	maze solving
+0.8563169837	phase shifts
+0.8555314257	computational complexity
+0.8551403924	crossbar array
+0.8545600877	kirchhoff law johnson noise
+0.8543143369	data transmission
+0.8537518021	intelligent surfaces
+0.8536263603	reservoir computing
+0.8530676925	massively parallel
+0.8525862650	molecular communication
+0.8516655900	convolutional neural networks
+0.8515277013	shor's algorithm
+0.8509145921	high speed
+0.8506366285	phase change memory
+0.8506366050	physarum polycephalum
+0.8501842877	information processing
+0.8499956366	high bandwidth
+0.8485313974	garbage outputs
+0.8472730955	spin orbit torque
+0.8472515054	bio inspired
+0.8459629483	multi objective
+0.8455629439	design automation
+0.8450218611	processing units
+0.8429175409	handwritten digits
+0.8408594301	gate sets
+0.8399090243	logical gates
+0.8395473963	resistive random access memory
+0.8375353641	temporal planning
+0.8368015903	memristive device
+0.8366601574	non volatile memory
+0.8345971958	human body
+0.8337856327	simulation framework
+0.8334458045	ising machines
+0.8333930716	mathematical model
+0.8328724237	sequential circuits
+0.8327827666	spin torque
+0.8327581936	logic gate
+0.8324801157	error rate
+0.8313327230	deep neural network
+0.8312969229	matrix vector
+0.8306359543	reversible logic synthesis
+0.8298424453	ultra low energy
+0.8297805010	transistor level
+0.8288579142	error correction
+0.8287597457	resistive switching
+0.8281607760	wireless communication
+0.8273737771	large scale
+0.8269299134	hidden layer
+0.8267695526	protoplasmic tubes
+0.8266269803	reservoir computers
+0.8266260634	quantum key distribution
+0.8265745000	high performance computing
+0.8263418155	molecular communications
+0.8261558086	echo state networks
+0.8255739811	laboratory experiments
+0.8252144288	trapped ion
+0.8250817909	short term
+0.8250490337	floating gate
+0.8250341404	differential equations
+0.8248962663	convolutional neural network
+0.8248231513	chemical reaction networks
+0.8247597303	cross layer
+0.8243235257	logic gates
+0.8240717213	associative memory
+0.8240393381	np hard
+0.8240383007	stabilizer states
+0.8232821757	boltzmann machine
+0.8232367174	millimeter wave
+0.8229122530	mnist dataset
+0.8228148476	deep neural networks
+0.8226702365	weighted sum
+0.8210811537	lower bound
+0.8208070740	mixed signal
+0.8206201813	stt ram
+0.8203520209	domain specific
+0.8196937600	stt mram
+0.8193228239	learning rule
+0.8187101256	wireless network
+0.8186169612	spiking neurons
+0.8185755771	magneto electric
+0.8183207579	promising candidate
+0.8180331234	activation functions
+0.8166693949	current mode
+0.8166018365	low resistance
+0.8164474315	diffusion based molecular communication
+0.8164340652	self assembly
+0.8159983491	spin wave
+0.8156130125	threshold logic
+0.8154375289	quantum computing
+0.8147992651	spiking neural networks
+0.8145899480	neuromorphic computing
+0.8144608207	neuromorphic systems
+0.8130379128	half adder
+0.8129617091	spiking neural
+0.8123034211	resistive ram
+0.8120339985	spatio temporal
+0.8117952883	logic synthesis
+0.8112739307	channel impulse
+0.8111945822	linear nearest neighbor
+0.8109959481	spiking neural network
+0.8109467702	process variation
+0.8106475538	design methodology
+0.8106110427	spintronic devices
+0.8100563801	digital memcomputing machines
+0.8093826413	fully connected
+0.8089197004	error probability
+0.8089180162	spectrum sensing
+0.8086580002	cross point
+0.8076563241	upper bound
+0.8072377498	monte carlo simulations
+0.8068020957	compact model
+0.8063826384	highly parallel
+0.8056135461	single flux
+0.8054820941	vector matrix
+0.8054157796	content addressable
+0.8053557608	cnot gates
+0.8050799546	long range
+0.8042123905	embedded systems
+0.8038567791	number generators
+0.8036287557	channel model
+0.8036101134	error rates
+0.8035771000	reversible circuits
+0.8033535349	microfluidic biochips
+0.8031099381	recurrent neural networks
+0.8016437056	abstract tile assembly
+0.8013263262	binarized neural networks
+0.8011669385	chemical reactions
+0.8010035640	hardware security
+0.8008849961	reversible logic
+0.8008218271	sot mram
+0.7999904722	magnetic tunnel
+0.7992440581	unconventional computing
+0.7985475210	energy efficient
+0.7974359086	input output
+0.7971609548	surface code
+0.7969736762	spice simulations
+0.7968905131	dna strand
+0.7966466084	spin hall
+0.7956271375	classical computers
+0.7946437524	optimization problem
+0.7939117443	performance metrics
+0.7920956282	hybrid cmos
+0.7920352766	tile types
+0.7917641920	signal passing
+0.7914258977	metal oxide semiconductor
+0.7905766291	resistive memory
+0.7903743904	primary users
+0.7897315728	optical interconnects
+0.7896366779	neuromorphic hardware
+0.7893676323	memristor crossbars
+0.7887733768	information storage
+0.7878068021	building block
+0.7872267906	memristive crossbar
+0.7865523354	hierarchical temporal memory
+0.7859353828	activation function
+0.7837446146	exact synthesis
+0.7830403976	signal to noise ratio
+0.7825996692	deep convolutional
+0.7825975213	general purpose
+0.7823582342	reaction diffusion
+0.7819434353	synaptic weight
+0.7803333791	random number
+0.7800827642	voltage controlled
+0.7792384011	energy barrier
+0.7792064521	processing unit
+0.7790814935	temporal memory
+0.7789458615	great potential
+0.7786966456	feed forward
+0.7783863757	software defined
+0.7779830515	recently developed
+0.7777132706	wave fragments
+0.7773463519	decision making
+0.7769752058	neuromorphic architectures
+0.7766333403	high resolution
+0.7764331813	multiple access
+0.7756030322	ultra low power
+0.7755586614	memristor crossbar
+0.7755142730	boolean functions
+0.7752941822	inter symbol interference
+0.7752721981	low latency
+0.7751600756	efficiently solve
+0.7742887297	max cut
+0.7741934283	memristor models
+0.7736987425	nano machines
+0.7736495740	worst case
+0.7736342272	mathematical models
+0.7726825443	solid state
+0.7723806965	data rate
+0.7721415675	low power
+0.7715310895	numerical simulations
+0.7708476204	stochastic computing
+0.7704772948	reconfigurable intelligent
+0.7702679012	toffoli gates
+0.7699481124	spin logic
+0.7697227426	state machine
+0.7690096820	research directions
+0.7689036024	real world
+0.7688052236	noisy intermediate scale
+0.7687712207	hard problems
+0.7685889920	memcomputing machines
+0.7682884177	quantum computers
+0.7670511842	molecular mimo
+0.7667548046	computational models
+0.7663855189	key exchange
+0.7655172898	data processing
+0.7654710816	edge computing
+0.7648315009	spin orbit
+0.7646109771	gate complexity
+0.7623503504	computing platforms
+0.7620602948	bit errors
+0.7617939326	energy efficiency
+0.7616736214	logic family
+0.7614824475	fixed point
+0.7599619739	state machines
+0.7599357693	cmos transistors
+0.7590881641	experimentally demonstrate
+0.7588045438	gate counts
+0.7583923408	additional inputs
+0.7573042238	emerging technologies
+0.7562174319	energy delay product
+0.7556332705	memristive devices
+0.7554380580	tunnel junctions
+0.7543159507	brain inspired computing
+0.7541996130	long term
+0.7535162672	pre processing
+0.7534147565	trade offs
+0.7527914867	data storage
+0.7515115396	tile assembly model
+0.7507196677	tile self assembly
+0.7506613960	transport networks
+0.7502435914	nano scale
+0.7502089754	technology mapping
+0.7495360782	multi layer
+0.7490899815	neuromorphic processor
+0.7490297159	optical interconnect
+0.7488896639	cross bar
+0.7477148585	information carriers
+0.7476806665	emerging technology
+0.7469081284	nonvolatile memory
+0.7469023756	resistive crossbar
+0.7466212184	gate set
+0.7454913008	high accuracy
+0.7452099895	logical operations
+0.7443596744	nm cmos
+0.7437826334	channel modeling
+0.7435302719	recent years
+0.7423519623	multi agent
+0.7422219852	low power consumption
+0.7421286322	circuit depth
+0.7412983783	np complete problems
+0.7408949774	dna computing
+0.7408656994	received signal
+0.7404572797	preliminary results
+0.7401500902	brain inspired
+0.7392635742	significant improvement
+0.7390291407	high resistance
+0.7385475101	high throughput
+0.7377766480	majority logic
+0.7377112582	spiking neuron
+0.7351742885	assembly model
+0.7340888408	analytical model
+0.7338969355	neuromorphic chip
+0.7329454543	classification accuracy
+0.7328644459	tile assembly
+0.7325706195	toffoli gate
+0.7319764323	noise based logic
+0.7318149475	combinatorial optimization problems
+0.7316891534	chip scale
+0.7312588996	leakage power
+0.7311964483	building blocks
+0.7309782437	division multiplexing
+0.7296581230	energy dissipation
+0.7279009092	stochastic switching
+0.7275524817	high performance
+0.7274540135	low voltage
+0.7270640449	bit error
+0.7264805101	main memory
+0.7254644073	chemical signal
+0.7251149085	numerical results
+0.7247154288	recently proposed
+0.7244755259	low level
+0.7241561123	quantum computation
+0.7221999823	physarum inspired
+0.7213042972	case study
+0.7210177415	input signal
+0.7207913068	post processing
+0.7202264410	power efficiency
+0.7200905070	quantum dot cellular automata
+0.7195298887	single layer
+0.7190479830	optimization problems
+0.7186554156	reversible functions
+0.7185375581	diffusive molecular
+0.7179724606	memristor based
+0.7160628386	circuit elements
+0.7147886619	field programmable
+0.7145037837	information theoretic
+0.7133365444	ancilla free
+0.7128114215	power consumption
+0.7126831219	multi bit
+0.7125113428	gate count
+0.7123531735	technology node
+0.7122616823	artificial neuron
+0.7111775895	swap gates
+0.7107391196	deep neural
+0.7101272467	cmos technology
+0.7097459425	quantum circuits
+0.7083802555	power dissipation
+0.7081769753	snp systems
+0.7079385290	synthesis algorithm
+0.7072849717	computing paradigm
+0.7066784356	based microfluidic
+0.7060403992	reversible gate
+0.7057731216	electronic circuits
+0.7056721190	binary optimization
+0.7056443010	orbit torque
+0.7050667380	slime mould physarum polycephalum
+0.7049936072	low complexity
+0.7049447166	experimental results
+0.7047455808	abstract tile
+0.7044920920	processing in memory
+0.7044086170	low cost
+0.7034636740	energy consumption
+0.7031939871	synaptic weights
+0.7031152082	inference accuracy
+0.7029835895	computing platform
+0.7027082861	high density
+0.7026174925	full adder
+0.7018133603	high precision
+0.7015663111	multi level
+0.6999628540	reversible gates
+0.6970127869	molecular programming
+0.6958945518	lower energy
+0.6950567423	artificial neural
+0.6945005957	quantum mechanical
+0.6938654580	key distribution
+0.6931885683	ultra low
+0.6915252574	taking into account
+0.6873630383	tile set
+0.6856624321	analog domain
+0.6854649132	optimal synthesis
+0.6853204845	deep convolutional neural
+0.6842178068	device level
+0.6834322858	processing speed
+0.6829437843	circuit design
+0.6818100559	nano communication
+0.6806343438	nano machine
+0.6794682269	circuit level
+0.6785372283	digital microfluidic
+0.6774664619	complementary metal oxide
+0.6769848466	polymorphic circuits
+0.6762372574	quantum information
+0.6760540149	diffusion based molecular
+0.6752387538	extremely low
+0.6747848501	compute in memory
+0.6742798811	circuit designs
+0.6735506690	circuit element
+0.6733634241	electronic systems
+0.6716779636	internet of things
+0.6709491202	communication systems
+0.6705966281	computing paradigms
+0.6692211641	high dimensional
+0.6690258012	unconstrained binary
+0.6682669947	recent advances
+0.6665164492	memory unit
+0.6661121186	performance analysis
+0.6643231226	high quality
+0.6638721632	timing dependent plasticity
+0.6611770791	binarized neural
+0.6610252014	inter symbol
+0.6599839817	proof of principle
+0.6589904699	oscillator based
+0.6575761575	simulation results
+0.6549925454	mc systems
+0.6545854648	orders of magnitude
+0.6542641746	promising approach
+0.6538368447	subset sum
+0.6533271011	biological synapses
+0.6528520477	single qubit
+0.6527802597	mixed signal neuromorphic
+0.6525103972	biological neurons
+0.6478110771	communication via diffusion
+0.6468544192	input signals
+0.6450501201	recurrent neural
+0.6438169689	multiple input
+0.6436137652	signal machine
+0.6430091132	neural network architectures
+0.6423981351	physical qubits
+0.6423390841	quantum circuit
+0.6416648051	logic circuits
+0.6413132718	volatile memory
+0.6409469218	hardware implementation
+0.6390165295	proof of concept
+0.6386903957	reversible computation
+0.6334758404	logic operations
+0.6327736048	spike timing
+0.6318937152	memristive networks
+0.6312164876	quantum dot
+0.6302926323	reaction network
+0.6294696026	mtj based
+0.6291006447	read and write
+0.6284521474	quantum annealing
+0.6276778351	computing systems
+0.6273541221	digital memcomputing
+0.6272826514	optimization algorithm
+0.6264703126	memory elements
+0.6259493436	high level
+0.6254789938	low energy
+0.6250437958	convolutional neural
+0.6243985644	quantum state
+0.6236266600	quantum algorithms
+0.6229373900	lower power
+0.6224947820	multiple output
+0.6216318734	leaky integrate
+0.6204162993	johnson noise
+0.6189006239	existing approaches
+0.6186130221	input data
+0.6174923154	reram based
+0.6168122027	particle based
+0.6154349201	electronic devices
+0.6149043464	quantum logic
+0.6145137496	all spin
+0.6144831828	photonic reservoir
+0.6116757663	deep networks
+0.6106629369	in memory computing
+0.6091653782	classification tasks
+0.6089885329	application level
+0.6084374446	magnetic domain
+0.6079936099	non volatile memories
+0.6074560095	order of magnitude
+0.6065777848	data rates
+0.6055524677	energy cost
+0.6051557042	gate level
+0.6050816763	current voltage
+0.6042422004	reversible circuit
+0.6039425565	paper presents
+0.6012849853	digital logic
+0.6004916120	synthesis methods
+0.6002113098	logic functions
+0.6000608660	diffusion based
+0.5981514333	noisy intermediate scale quantum
+0.5979760733	memory cells
+0.5976406200	spike timing dependent
+0.5968860152	field effect
+0.5952335353	practical applications
+0.5933935930	self organizing
+0.5930995932	resistive random access
+0.5929357550	experimental data
+0.5926162631	analog digital
+0.5925972003	physical systems
+0.5914302589	end to end
+0.5896033350	body communication
+0.5890138758	non boolean
+0.5864206641	computational cost
+0.5845569458	echo state
+0.5844819193	transmitter and receiver
+0.5840869160	channel models
+0.5840868326	scale integration
+0.5835967774	charge based
+0.5834214694	computational power
+0.5832338131	hardware implementations
+0.5820055819	von neumann computing
+0.5811772261	information molecules
+0.5811315699	the kirchhoff law johnson
+0.5793841829	biological neural
+0.5780210258	ultra high
+0.5763778996	analog computation
+0.5760769556	artificial neurons
+0.5756240606	memory array
+0.5746340620	an open source
+0.5745409789	biological systems
+0.5732770652	efficient solution
+0.5731902714	p systems
+0.5712566075	synaptic devices
+0.5702225847	conventional cmos
+0.5701254410	memory technologies
+0.5692104112	nano devices
+0.5685963490	sensor networks
+0.5679615506	state of art
+0.5676847870	neurons and synapses
+0.5665127287	quantum dot cellular
+0.5647370118	cmos memristor
+0.5638390914	memristor model
+0.5614386187	noise ratio
+0.5607693006	full adders
+0.5601280594	carlo simulations
+0.5595549998	event based
+0.5568476813	learning tasks
+0.5540303112	d wave
+0.5537669085	network architecture
+0.5530959339	analog to digital
+0.5504191969	resistance state
+0.5481089075	hierarchical temporal
+0.5453265409	molecular communication systems
+0.5447478995	power efficient
+0.5416605385	results obtained
+0.5415271406	spike based
+0.5406405250	qubit gates
+0.5406203442	device to device
+0.5401147927	results demonstrate
+0.5400667992	area and power
+0.5396104781	slime mould physarum
+0.5385433029	addressable memory
+0.5382078376	performance and energy
+0.5381487607	t gate
+0.5370829045	complementary metal
+0.5369354244	new type
+0.5360984999	delay product
+0.5343003506	two qubit gates
+0.5316342075	neuromorphic circuits
+0.5314582070	circuit simulation
+0.5303985486	network on chip
+0.5293045789	finite state
+0.5283970987	quantum gate
+0.5277375753	trapped ion quantum
+0.5268587991	chip communication
+0.5264789902	hardware and software
+0.5248226256	silicon based
+0.5247807577	communication channel
+0.5219743233	quantum programs
+0.5207223956	quantum supremacy
+0.5197105834	non von neumann
+0.5175230284	design parameters
+0.5165915136	circuit synthesis
+0.5156145074	neuron circuit
+0.5151904090	analog circuit
+0.5139456787	memory cell
+0.5132675893	transfer torque
+0.5125633810	wireless sensor
+0.5108239589	magnetic random access
+0.5107323517	future research
+0.5090253153	neuromorphic networks
+0.5089948043	spiking neuromorphic
+0.5089919601	training algorithm
+0.5089442141	quantum algorithm
+0.5081677578	next generation
+0.5068826217	spin based
+0.5055457158	tunnel junction
+0.5008978907	memory devices
+0.5001242933	reaction networks
+0.4996257420	time dependent
+0.4974899369	mram based
+0.4972197131	neumann architecture
+0.4964614574	a new paradigm
+0.4949586427	temperature 2
+0.4943192097	computing devices
+0.4940918733	number of gates
+0.4873309534	non ideal
+0.4870467814	efficient hardware
+0.4843817626	clifford + t gates
+0.4840895461	these gates
+0.4839222035	computational memory
+0.4837783050	n bit
+0.4824140043	physical design
+0.4822788330	single memristor
+0.4818107123	mould physarum polycephalum
+0.4814827994	three dimensional
+0.4795164596	analog computing
+0.4792835012	on chip
+0.4792403742	software based
+0.4789835594	full duplex
+0.4776628733	quantum walks
+0.4765980300	memristive circuits
+0.4755650959	machine learning applications
+0.4755633658	proposed architecture
+0.4747196617	memristor devices
+0.4736976889	oxide semiconductor
+0.4730302351	quantum software
+0.4702179543	quantum gates
+0.4679969897	memristor networks
+0.4673519029	learning algorithms
+0.4669788072	quantum annealer
+0.4658180629	conventional computing
+0.4644993855	digital circuits
+0.4637953219	paper proposes
+0.4619492161	self assembled
+0.4615145312	cmos logic
+0.4613389231	non volatile
+0.4611100260	physical implementation
+0.4611017259	cmos circuits
+0.4596644546	non uniform
+0.4582820370	this paper presents
+0.4581860424	quantum operations
+0.4565303549	secure key
+0.4565269954	32 bit
+0.4555154852	analog circuits
+0.4539010631	based synthesis
+0.4532934355	on chip learning
+0.4527939330	paper introduces
+0.4509836307	chip area
+0.4502829190	4 bit
+0.4477437379	quantum programming
+0.4454028781	tops w
+0.4438918801	circuit simulations
+0.4423212560	+ 1
+0.4411767855	a case study
+0.4381509096	cifar 10
+0.4360993902	computing architectures
+0.4359301516	\ mathbb
+0.4337393153	quantum systems
+0.4336878004	classical computing
+0.4323314252	$ bit
+0.4322631178	hardware architecture
+0.4320221313	hardware design
+0.4314286762	beyond cmos
+0.4305595329	device circuit
+0.4293253363	structure based computer
+0.4287161114	inspired computing
+0.4282358135	8 bit
+0.4276801516	\ rangle
+0.4275941570	t count
+0.4260242780	co optimization
+0.4256201990	compared to conventional
+0.4223153780	this paper proposes
+0.4221800404	energy delay
+0.4221738637	current state
+0.4216429964	one bit
+0.4202669705	synthesis of reversible
+0.4197783305	p bits
+0.4195953843	non linear
+0.4192909876	number of qubits
+0.4160602512	$ qubit
+0.4157037145	t depth
+0.4155016451	the number of qubits
+0.4143070219	the human body
+0.4141770615	quantum hardware
+0.4130537125	the d wave
+0.4084038358	\ frac
+0.4080386546	the proposed method
+0.4068156461	\ times
+0.4056041501	signal to noise
+0.4053712546	design space
+0.4021327021	ibm q
+0.4005939052	wide range
+0.4005546844	\ log
+0.3997188626	\ sim
+0.3993812511	proposed designs
+0.3985644404	the subset sum problem
+0.3975430549	\ sqrt
+0.3949975418	based approach
+0.3918179317	\ phi
+0.3913145983	\ log_2
+0.3912890055	memory arrays
+0.3890857149	computing architecture
+0.3883776269	\ omega
+0.3881877903	emerging non volatile
+0.3878632794	experimental demonstration
+0.3870370742	cmos based
+0.3870137574	quantum states
+0.3868564162	inner product
+0.3868179317	\ tau
+0.3866260428	in memory
+0.3857150553	dna based
+0.3840900567	processing systems
+0.3823301033	180 nm
+0.3821918826	clifford + t circuits
+0.3806750745	\ mathbf
+0.3789701748	$ qubits
+0.3787463730	quantum dots
+0.3779621701	quantum device
+0.3775910409	quantum processor
+0.3772285663	an iterative
+0.3754178224	$ ^ 2
+0.3753291146	quantum computations
+0.3738402575	paper describes
+0.3732862259	et al
+0.3724097341	time series
+0.3718369797	quantum approximate
+0.3716291994	optical neural
+0.3716266358	$ \ mu
+0.3709554857	experimental demonstration of
+0.3705361278	temperature 1
+0.3701993652	in recent years
+0.3701713110	$ \ times
+0.3680279725	quantum annealers
+0.3674423897	intermediate scale quantum
+0.3673255990	at temperature 1
+0.3663846951	$ 1
+0.3658519137	an energy efficient
+0.3657565101	switching devices
+0.3655955731	a promising solution
+0.3652145093	c p c
+0.3649703408	p bit
+0.3645249051	\ mu
+0.3642414948	the kirchhoff law johnson noise
+0.3632594469	quantum devices
+0.3617237054	a large number
+0.3610600783	a multi agent
+0.3607895808	based logic
+0.3604436807	recent advances in
+0.3602693553	experimental results show
+0.3589239504	60 ghz
+0.3578077539	intermediate scale
+0.3570291163	28 nm
+0.3562932422	$ _2
+0.3552129889	a single
+0.3546545709	this paper describes
+0.3541179057	proposed approach
+0.3529423844	time delay
+0.3520912033	simulation results show
+0.3508627590	the mnist dataset
+0.3507972133	quantum classical
+0.3491678084	last decade
+0.3490743982	real time
+0.3489127036	of slime mould
+0.3480081205	crossbar based
+0.3474819830	immune system
+0.3469713135	self assembling
+0.3445993232	proposed technique
+0.3440793026	access memory
+0.3432315473	^ 2
+0.3429361208	based accelerator
+0.3410228501	noise based
+0.3406113456	more energy efficient
+0.3403127020	i v
+0.3396351400	the human brain
+0.3390981577	well suited
+0.3389666148	the proposed scheme
+0.3385720971	this paper introduces
+0.3379824056	$ \ mathcal
+0.3375237680	wide range of
+0.3365166344	one step
+0.3346150309	$ 2
+0.3344939347	non idealities
+0.3324771963	the proposed approach
+0.3301128114	the slime mould
+0.3268579778	two dimensional
+0.3262504006	reservoir computer
+0.3258722757	based molecular communication
+0.3236384391	on chip area
+0.3230634921	\ emph
+0.3208269512	fan out
+0.3204640985	near term
+0.3199709711	the proposed model
+0.3178263388	computing applications
+0.3171064399	spin transfer
+0.3160131601	the art
+0.3138905463	\ textit
+0.3137646290	the bit error
+0.3131833575	the proposed circuit
+0.3128826275	3d ics
+0.3123549687	time varying
+0.3110470828	computing approach
+0.3104880782	^ 3
+0.3099409069	time domain
+0.3092714473	effect transistor
+0.3089962273	t gates
+0.3081399116	no longer
+0.3073530850	1 bit
+0.3067820863	novel computing
+0.3058595810	these models
+0.3053147748	3d integration
+0.3046338673	the proposed
+0.3045314712	so called
+0.3041891444	an overview
+0.3025162020	$ 10
+0.3007167135	i o
+0.3002796940	in situ
+0.3000262635	a wide range
+0.2988628175	first step
+0.2979372159	this paper
+0.2961754944	non trivial
+0.2956680025	the proposed design
+0.2949587253	a reversible circuit
+0.2932833093	variational quantum
+0.2927307698	ibm quantum
+0.2914240520	a neural network
+0.2911207551	non volatility
+0.2882806512	this gap
+0.2879205393	trade off
+0.2870641429	computer based
+0.2814738996	molecular communication via
+0.2811505492	this end
+0.2804452705	quantum computer
+0.2750933939	the synaptic weight
+0.2742515702	leaky integrate and fire
+0.2734608602	proposed method
+0.2724929924	system level
+0.2715128673	step towards
+0.2711393652	the received signal
+0.2706499071	\ epsilon
+0.2705216024	non deterministic
+0.2703488976	computer science
+0.2698825459	to solve
+0.2677355418	c p
+0.2676068456	a quantum circuit
+0.2668456613	quantum cost
+0.2658011330	system design
+0.2654621326	large number
+0.2626854550	neural network based
+0.2624886311	adiabatic quantum
+0.2603507984	proposed design
+0.2603314035	non linearity
+0.2597992139	very simple
+0.2590152811	a low power
+0.2548048802	discrete time
+0.2526127309	time consuming
+0.2521529540	the proposed architecture
+0.2521208281	gap between
+0.2502559004	clifford +
+0.2495250871	faster than
+0.2493620734	widely used
+0.2490697733	an additional
+0.2485481985	to implement
+0.2483636811	fault tolerant quantum
+0.2477975698	more complex
+0.2468730050	two qubit
+0.2463884423	two orders of magnitude
+0.2453910911	building block for
+0.2450362842	these issues
+0.2440277992	one dimensional
+0.2420053495	integrate and fire
+0.2408812835	structure based
+0.2403370561	one way
+0.2381159317	while maintaining
+0.2375822903	co design
+0.2373231597	very low
+0.2357527338	trade off between
+0.2353747436	into account
+0.2349279574	clifford + t
+0.2343687212	quantum advantage
+0.2342021204	leaky integrate and
+0.2331772822	very large
+0.2327394412	mc system
+0.2326976600	near term quantum
+0.2323392773	a finite
+0.2322278837	large number of
+0.2318665370	very high
+0.2312288815	the design space
+0.2308303837	physical implementation of
+0.2298089258	two terminal
+0.2293677426	a small
+0.2293211773	based simulation
+0.2293113676	log n
+0.2290589038	hardware implementation of
+0.2288387233	to build
+0.2281288504	building blocks for
+0.2280691041	speed up
+0.2270851779	the brain
+0.2263147351	of quantum circuits
+0.2259582137	efficient implementation of
+0.2258721225	the receiver
+0.2258707110	this article
+0.2258678829	the proposed algorithm
+0.2230084636	current state of
+0.2223904521	wide variety of
+0.2219419638	higher than
+0.2211048855	commonly used
+0.2210446540	design approach
+0.2208430279	an algorithm
+0.2190255506	using memristors
+0.2189832122	all optical
+0.2187278993	to write
+0.2181198752	a spherical
+0.2171971359	and energy efficient
+0.2162265519	used to implement
+0.2155210843	circuit model
+0.2151886390	a new approach
+0.2151661541	an input
+0.2151128004	2 d
+0.2150230296	3 d
+0.2147893414	memory computing
+0.2145681654	n =
+0.2139258226	insight into
+0.2134141066	| g
+0.2124796458	at temperature
+0.2121001491	this framework
+0.2115305070	these networks
+0.2110481686	these systems
+0.2108954590	polynomial time
+0.2107344697	of quantum computing
+0.2102571208	efficient than
+0.2100592237	proposed algorithm
+0.2098883221	a transmitter
+0.2090613206	logic circuit
+0.2077513670	change memory
+0.2075964553	space time
+0.2073910439	bottom up
+0.2069509069	this letter
+0.2068168421	\ mu m
+0.2066645883	also demonstrate
+0.2061680167	the other hand
+0.2057364425	and power consumption
+0.2056124706	time complexity
+0.2051502082	promising solution
+0.2050164465	a survey
+0.2043525408	an ultra
+0.2040928701	prior work
+0.2032544042	to achieve
+0.2022483968	to perform
+0.2009802247	quantum networks
+0.2009045178	more efficient
+0.2004240466	the shelf
+0.2000098859	an analytical
+0.1998190808	a path
+0.1995300738	previous work
+0.1989849721	n +
+0.1981991430	this problem
+0.1979218918	also proposed
+0.1976420173	based simulations
+0.1959131896	scalable quantum
+0.1950568811	a proof of concept
+0.1940746432	the slime
+0.1932784392	for on chip
+0.1929420891	\ log n
+0.1929224250	smaller than
+0.1924661063	the mnist
+0.1921993512	to date
+0.1918861854	this issue
+0.1918620447	and energy efficiency
+0.1917879806	operate at
+0.1915324476	by utilizing
+0.1904347108	other hand
+0.1903803473	used to perform
+0.1901232173	these challenges
+0.1900189691	improvement over
+0.1898755059	system performance
+0.1894969321	an important
+0.1894877629	lower than
+0.1872872716	the original
+0.1870488217	a physical
+0.1866986854	an equivalent
+0.1865737291	by employing
+0.1863534677	these circuits
+0.1862030131	also presented
+0.1861132342	^ n
+0.1858483917	the transmitter
+0.1857985036	an efficient
+0.1852083871	2 ^ n
+0.1845580778	an approach
+0.1839404152	continuous time
+0.1834821104	work presents
+0.1832871318	this method
+0.1823592289	clifford and t
+0.1803691698	to enable
+0.1802967977	many applications
+0.1801226240	the power consumption
+0.1797226046	the memristor based
+0.1789007801	an experimental
+0.1788653285	the target
+0.1786692457	the network
+0.1779517824	hardware neural
+0.1779267556	by applying
+0.1778394962	\ times n
+0.1778320818	$ n
+0.1766304860	these algorithms
+0.1765267744	in terms of energy
+0.1756863778	in diffusion based
+0.1749031993	the energy consumption
+0.1736096392	the results of
+0.1734158095	these devices
+0.1728195175	two orders
+0.1723269586	a compact
+0.1722116478	a reversible
+0.1721899170	in place
+0.1720797658	of on chip
+0.1714697653	a novel
+0.1712429963	new approach
+0.1710867687	this model
+0.1709222285	the reservoir
+0.1706972152	represented by
+0.1697796392	the accuracy of
+0.1691915341	10 ^
+0.1690633501	this study
+0.1682518437	of in memory
+0.1679357717	the expected
+0.1678821347	$ \ mathcal o
+0.1671081932	an effective
+0.1670028530	$ d
+0.1667502442	two way
+0.1664306396	hardware based
+0.1662459202	results indicate
+0.1658720277	a review
+0.1645058486	by exploiting
+0.1643885768	2 ^
+0.1640055974	relationship between
+0.1639824481	based on
+0.1638150490	number of
+0.1637470596	high energy
+0.1636461277	compared to
+0.1635499678	to realize
+0.1633666532	a simple
+0.1632916267	referred to as
+0.1630984797	this algorithm
+0.1630917910	a tool
+0.1628619895	the circuit
+0.1627398145	an ideal
+0.1625713711	$ m
+0.1619189799	computing system
+0.1618908258	using spin
+0.1615621286	by introducing
+0.1614541341	this research
+0.1612978842	to address
+0.1612779890	such devices
+0.1612062357	to reduce
+0.1609175834	an open
+0.1609033070	to scale
+0.1607043467	a hybrid
+0.1605669195	an arbitrary
+0.1598137896	an attractive
+0.1598074821	the input
+0.1594994433	$ o
+0.1594241777	compared to state of
+0.1593184606	based computing
+0.1590620747	an optimal
+0.1588214216	the maximum
+0.1587857395	also propose
+0.1583597841	$ \
+0.1583556651	these results
+0.1582365520	an alternative
+0.1575595708	$ a ^
+0.1565867285	$ 10 ^
+0.1564458973	operating at
+0.1564353853	the von neumann
+0.1562395683	the concentration
+0.1554331708	neuromorphic system
+0.1548686215	the memristor
+0.1548430444	an optical
+0.1546988750	neural network with
+0.1546763956	energy efficiency of
+0.1546761484	$ a ^ n
+0.1546524061	n ^
+0.1545230553	the magnitude
+0.1541258495	the output
+0.1540026875	this approach
+0.1538706069	so far
+0.1537726102	an average
+0.1535297712	$ l
+0.1534519365	focus on
+0.1532908033	suffer from
+0.1530421755	an exponential
+0.1523492607	a graph
+0.1519039869	even though
+0.1516148250	does not
+0.1513693920	to deliver
+0.1513619632	well known
+0.1510936734	and energy consumption
+0.1510168157	a computational
+0.1507658397	1 \
+0.1503882237	to provide
+0.1503778368	this technology
+0.1503250059	an analog
+0.1501722536	to maximize
+0.1501642177	to deal
+0.1498760392	a global
+0.1497538289	the experimental results
+0.1494203792	at room
+0.1491805942	proposed scheme
+0.1491236053	$ x
+0.1490923589	proposed framework
+0.1490774600	the fact
+0.1483806274	the notion
+0.1483597233	a quantum computer
+0.1482631431	the atam
+0.1482262917	recent work
+0.1481025477	the relative
+0.1480258503	assembly systems
+0.1467642000	an electronic
+0.1461424823	energy per
+0.1461106039	an adaptive
+0.1459463059	the quality of
+0.1456886543	to maintain
+0.1455421368	subset of
+0.1453222372	a memristor
+0.1449968362	$ k
+0.1449489236	differences between
+0.1443526659	the next generation
+0.1439347672	$ p
+0.1436959839	classical and quantum
+0.1431001787	suited for
+0.1427846701	ranging from
+0.1427763059	the structure of
+0.1427510292	the question
+0.1426883067	dynamical system
+0.1423526040	$ f
+0.1422107948	a classical
+0.1421123790	a quadratic
+0.1419671822	$ ^
+0.1416806998	a consequence
+0.1410727188	$ s
+0.1408580418	self assembly of
+0.1406076024	the simulation results
+0.1400122751	integrated into
+0.1399292822	a binary
+0.1387763059	the efficiency of
+0.1384873897	millions of
+0.1382281019	circuits based on
+0.1381329191	the number of
+0.1379827240	such systems
+0.1375792036	best known
+0.1373100638	an application
+0.1372220389	rather than
+0.1370457874	rely on
+0.1369890827	well as
+0.1367799221	for machine learning
+0.1359393048	information on
+0.1358903606	the channel
+0.1356238374	memory based
+0.1350476604	2 \
+0.1348678488	future work
+0.1341884453	execution time
+0.1339209001	governed by
+0.1336878630	offered by
+0.1334938545	distance between
+0.1334840812	$ n \
+0.1334424029	$ t
+0.1333048967	the total
+0.1331870120	affected by
+0.1328756922	learning applications
+0.1324376473	results show
+0.1317857819	the presence
+0.1314192865	computing hardware
+0.1312898585	an emerging
+0.1311754820	focuses on
+0.1299010709	quantum circuits for
+0.1288767099	depends on
+0.1287625114	motivated by
+0.1286357118	inspiration from
+0.1283562573	the main
+0.1283137849	a sequence of
+0.1278194229	emerged as
+0.1278122755	starting from
+0.1277763059	the power of
+0.1272970671	dealing with
+0.1272750208	less than
+0.1267795384	high data
+0.1265672170	the state of
+0.1264302578	relies on
+0.1263429725	the concept of
+0.1262896806	+ +
+0.1259948837	serve as
+0.1259191078	to replace
+0.1258815258	a factor of
+0.1255814917	do not
+0.1254296647	a circuit
+0.1250467428	the plasmodium
+0.1246510404	to create
+0.1244305980	depending on
+0.1243133403	in addition
+0.1242959935	derived from
+0.1239112803	depend on
+0.1238282487	for energy efficient
+0.1232176600	caused by
+0.1229786338	capable of
+0.1228868749	experiments show
+0.1227527872	neural network for
+0.1225816676	a photonic
+0.1225607565	inspired by
+0.1223429725	the cost of
+0.1220961028	to extract
+0.1220255744	an artificial
+0.1218675667	in depth
+0.1217905180	of memristor based
+0.1217763059	the properties of
+0.1217763059	the operation of
+0.1217569159	in terms of
+0.1216338958	in turn
+0.1212103311	with respect to
+0.1210892366	to meet
+0.1206059488	a molecular
+0.1196464865	reduction in
+0.1193429725	the dynamics of
+0.1191192833	to obtain
+0.1190629501	obtained from
+0.1185510335	in order to
+0.1179696163	as well as
+0.1176548551	focusing on
+0.1173972119	the number
+0.1171773478	focused on
+0.1171372471	a large
+0.1169356875	resulted in
+0.1168783053	the performance of
+0.1161825527	increase in
+0.1160800630	due to
+0.1159919272	impact on
+0.1159806713	supported by
+0.1155618253	better than
+0.1154911160	state of
+0.1154070839	hundreds of
+0.1153697514	the size of
+0.1152889822	characterized by
+0.1151605495	the evolution of
+0.1149975939	a given
+0.1148909129	an upper
+0.1148510335	the field of
+0.1146665973	to construct
+0.1140706628	a multi
+0.1140384214	enabled by
+0.1138751207	to overcome
+0.1135587025	this report
+0.1134444281	the efficacy of
+0.1134070839	thousands of
+0.1133637122	with up to
+0.1133052371	energy consumption of
+0.1132980348	proposed model
+0.1132289149	to synthesize
+0.1129005847	the achievable
+0.1127409979	the global
+0.1121203800	large scale quantum
+0.1118205922	act as
+0.1118196161	unable to
+0.1117316414	lack of
+0.1117211468	network architectures
+0.1115096392	the order of
+0.1112887371	a scalable
+0.1112466734	close to
+0.1110683536	this work
+0.1107451831	a wide variety of
+0.1105934192	more energy
+0.1105096392	the purpose of
+0.1100237833	paper provides
+0.1096019548	the device
+0.1094792720	the same
+0.1094392688	the effects of
+0.1093001365	in parallel
+0.1092741615	corresponds to
+0.1092146347	a new
+0.1083327997	compared with
+0.1082636835	at least
+0.1082377094	and simulation of
+0.1080065640	more than
+0.1079216494	the d wave quantum
+0.1078434893	based communication
+0.1077622590	to minimize
+0.1074073319	leads to
+0.1071874355	this area
+0.1071520787	suitable for
+0.1069619869	power consumption of
+0.1068540010	to tackle
+0.1063893368	well suited for
+0.1063488976	to produce
+0.1062487828	fraction of
+0.1059847885	a reconfigurable
+0.1059808444	a generic
+0.1059506403	generated by
+0.1059409854	the critical
+0.1058492673	the derived
+0.1057633934	up to
+0.1056424713	the effect of
+0.1055096392	the principles of
+0.1054895024	a lot
+0.1054855204	as well
+0.1052608818	to improve
+0.1052006723	the implications of
+0.1049985149	to encode
+0.1048814954	a promising
+0.1045653472	quantum network
+0.1044996141	the context of
+0.1042187755	to avoid
+0.1040640944	to optimize
+0.1037094508	the energy
+0.1037059451	the physical
+0.1035096392	the study of
+0.1035096392	the complexity of
+0.1035080656	the correct
+0.1034602740	not only
+0.1033853440	a set of
+0.1032686680	to understand
+0.1028493690	the aim of
+0.1026059355	a series of
+0.1024446193	a large number of
+0.1020737127	notion of
+0.1020184215	accounting for
+0.1017933205	for instance
+0.1017599698	the symbol
+0.1009994198	the continuous
+0.1009120115	a model of
+0.1007752534	quantum error
+0.1003424543	a standard
+0.1003323306	considered as
+0.0998656499	achieved by
+0.0997723108	consisting of
+0.0996717725	even if
+0.0996062377	the problem of
+0.0993963396	a specific
+0.0993930055	a method
+0.0993226278	communication via
+0.0993049934	the influence of
+0.0991443352	a wide range of
+0.0990336794	realized by
+0.0990015944	to mitigate
+0.0989362786	amenable to
+0.0987790079	an integrated
+0.0987287839	produced by
+0.0986059355	the limitations of
+0.0985058224	the ability of
+0.0979730616	able to
+0.0979343288	the distance
+0.0976983287	this result
+0.0975619415	not yet
+0.0970575611	the body
+0.0970490650	probability of
+0.0966901314	to demonstrate
+0.0959540303	to ensure
+0.0957508772	the correctness of
+0.0957177878	the synthesis of
+0.0956923764	of up to
+0.0956326810	such as
+0.0955900101	simulations show
+0.0954882473	to generate
+0.0953834383	the entire
+0.0952213093	a key
+0.0951907281	taking into
+0.0951469935	by means of
+0.0949633019	to facilitate
+0.0939669977	the impact of
+0.0939392688	the theory of
+0.0937357592	applied to
+0.0934332093	the goal of
+0.0934095436	on average
+0.0932121367	implementation of
+0.0931217019	to train
+0.0929080030	the transmission
+0.0928325120	set of
+0.0928287048	a function of
+0.0924999273	in terms
+0.0923299137	a quantum
+0.0921158272	each other
+0.0921059355	the benefits of
+0.0921059355	the application of
+0.0920721183	the role of
+0.0919697518	a universal
+0.0919392688	the usage of
+0.0914966748	the design
+0.0914880518	but also
+0.0913049330	the help of
+0.0909497610	on device
+0.0908513813	of freedom
+0.0907788675	a hierarchical
+0.0903755612	communication between
+0.0903248355	the problem
+0.0900853705	a general
+0.0897669496	the security
+0.0896748039	to store
+0.0893878360	in comparison to
+0.0893186531	a network of
+0.0892365640	in conjunction with
+0.0888558736	to accelerate
+0.0888401698	the measurement
+0.0885208436	compatible with
+0.0884715996	for use in
+0.0883109679	a generalized
+0.0882398598	the class of
+0.0880930597	a high
+0.0879768793	followed by
+0.0878476158	a prototype
+0.0878077598	verified by
+0.0872527907	to emulate
+0.0869566266	induced by
+0.0869239709	in fact
+0.0864490490	to design
+0.0862337080	to verify
+0.0860620382	the form of
+0.0857330021	flux quantum
+0.0852506850	the amount of
+0.0851700855	obtained by
+0.0847153210	the desired
+0.0846485013	consists of
+0.0845559238	absence of
+0.0842453448	the lack of
+0.0841901860	a population
+0.0839449909	built on
+0.0838637510	used to
+0.0834224514	determined by
+0.0833339392	to simulate
+0.0831930550	by up to
+0.0831700035	a long
+0.0831463588	to form
+0.0830560619	comprised of
+0.0830373591	information from
+0.0829663006	the development of
+0.0829179186	via diffusion
+0.0829134513	make use of
+0.0828438840	a significant
+0.0823044188	new method
+0.0822906915	a lot of
+0.0821908722	variety of
+0.0821005374	the performance
+0.0819601156	this leads
+0.0818585830	concept for
+0.0818327023	the sensor
+0.0818057375	a random
+0.0817806453	the case
+0.0817699411	existence of
+0.0816983649	in practice
+0.0816076275	model based on
+0.0815176292	of view
+0.0814240277	a result
+0.0810695201	the fundamental
+0.0807505899	agreement with
+0.0803042259	led to
+0.0802345668	a target
+0.0801348943	related to
+0.0797956752	to enhance
+0.0797244382	bounds on
+0.0795188828	deal with
+0.0794185774	to execute
+0.0792254713	the use of
+0.0790589020	with increasing
+0.0789003539	applications such as
+0.0788380829	quantum machine
+0.0787241714	a typical
+0.0785172311	limited by
+0.0783840629	computation using
+0.0783603290	used as
+0.0781751918	the potential for
+0.0779653558	amounts of
+0.0779195242	aims to
+0.0777208244	this new
+0.0775701795	a fixed
+0.0774630106	different from
+0.0774239137	of spikes
+0.0773220982	the emergence of
+0.0773123541	the creation
+0.0772938109	the best known
+0.0770207623	for achieving
+0.0763471574	the emergence
+0.0763251601	to increase
+0.0763091676	to develop
+0.0762330364	different types
+0.0756375316	computing based on
+0.0756370401	the distribution
+0.0755902191	different types of
+0.0752978820	approach to
+0.0752193362	adapted to
+0.0752121673	the mean
+0.0751445120	subject to
+0.0750979008	a comprehensive
+0.0749650625	a major
+0.0746102691	to represent
+0.0746076453	to mimic
+0.0745788295	+ t
+0.0743704275	to evaluate
+0.0742022068	an architecture
+0.0738511140	the literature
+0.0738327023	the capacity
+0.0738236263	the initial
+0.0736579186	defined by
+0.0736033238	combined with
+0.0734063869	also known as
+0.0733829952	for solving
+0.0733139028	this system
+0.0732187967	to model
+0.0730856563	parameters such as
+0.0728879844	a broad
+0.0728061703	communication system
+0.0726894207	the design of
+0.0721974012	a practical
+0.0721370343	a natural
+0.0720918977	a mixed
+0.0720472959	a uniform
+0.0717466511	a range of
+0.0716969227	to explore
+0.0716164047	the effectiveness of
+0.0714257135	to detect
+0.0712099986	the set of
+0.0711097717	comparable to
+0.0708105948	provided by
+0.0705389394	the majority
+0.0702844269	in general
+0.0701788487	the realization of
+0.0699001104	to study
+0.0697629903	to use
+0.0694881110	a total
+0.0694684166	the search
+0.0693782540	first time
+0.0691907030	d wave quantum
+0.0688133091	the difficulty
+0.0680772742	a suitable
+0.0680164192	a comparison
+0.0676845960	the basis of
+0.0676791958	to compute
+0.0674541254	the possibility
+0.0672517599	the gain
+0.0669206819	shown to
+0.0667940715	the same time
+0.0666990781	amount of
+0.0664745728	two types of
+0.0663190913	the final
+0.0661249757	the environment
+0.0659206961	to exploit
+0.0656389394	the medium
+0.0649662374	a brief
+0.0649356231	to support
+0.0648120446	to determine
+0.0648099485	a d
+0.0646444251	the basic
+0.0646330904	for finding
+0.0644330106	kind of
+0.0644234966	a nonlinear
+0.0643944154	a fundamental
+0.0643083857	role in
+0.0643049138	an implementation of
+0.0642462544	the corresponding
+0.0641510202	attempts to
+0.0640516327	advances in
+0.0640385929	a powerful
+0.0640142680	composed of
+0.0637690013	a dynamic
+0.0637486393	the potential
+0.0636950261	description of
+0.0633555960	the human
+0.0630801439	strategy for
+0.0629274107	orders of
+0.0627332665	a biological
+0.0625278120	to estimate
+0.0624292442	to extend
+0.0623575107	in contrast to
+0.0622746466	a software
+0.0622573400	for designing
+0.0622314831	the objective
+0.0622087402	along with
+0.0621754930	by considering
+0.0620403284	based on quantum
+0.0619948197	foundation for
+0.0617776292	the internet of
+0.0616643976	a common
+0.0615531451	available at
+0.0614788255	the potential to
+0.0614082960	a unique
+0.0613797425	to map
+0.0612601780	to correct
+0.0609375649	model for
+0.0608795757	used by
+0.0608435854	ability to
+0.0605658407	generalization of
+0.0604615656	regardless of
+0.0600247098	at most
+0.0598802474	the presence of
+0.0597552380	a viable
+0.0596950921	emergence of
+0.0594945648	of slime
+0.0594510130	class of
+0.0593737642	for implementing
+0.0593090684	to validate
+0.0592364207	a state of
+0.0590674120	the way for
+0.0587546166	types of
+0.0586217165	to run
+0.0584922864	one such
+0.0584539450	allowed to
+0.0584519102	but not
+0.0584485224	a combination of
+0.0582670354	to learn
+0.0581491244	comparison with
+0.0580657278	a wide
+0.0580239840	the exact
+0.0579316818	the context
+0.0578828929	a central
+0.0578110793	a constant
+0.0577193057	the modified
+0.0576941365	the notion of
+0.0576937527	the capability of
+0.0576683616	this leads to
+0.0574995749	to analyze
+0.0572631066	a low
+0.0570190013	a threshold
+0.0569265987	the end
+0.0568827652	a custom
+0.0567925948	n \
+0.0566514727	for realizing
+0.0564687287	to predict
+0.0564554240	to capture
+0.0561483383	a detailed
+0.0561182532	design of
+0.0560859114	a result of
+0.0559187406	a number
+0.0556485116	degree of
+0.0556297858	the first time
+0.0555906675	a strong
+0.0553446509	the inherent
+0.0552912444	and fire
+0.0551588632	an example
+0.0551270312	version of
+0.0550331792	an appropriate
+0.0549702893	a critical
+0.0549677347	associated with
+0.0549061615	network based on
+0.0547995215	an algorithm for
+0.0547873066	the well known
+0.0547609202	two orders of
+0.0546027967	an overview of
+0.0544487703	combination of
+0.0542846787	developments in
+0.0539326773	driven by
+0.0539319937	enough to
+0.0538743953	work on
+0.0538274787	framework for
+0.0538098703	studies on
+0.0536310932	dependent on
+0.0531696696	to move
+0.0531639756	of living
+0.0530801696	a special
+0.0528830844	the minimum
+0.0527606326	a method to
+0.0526774696	in contrast
+0.0525605456	a network
+0.0523906072	lies in
+0.0522762531	property of
+0.0520281463	a cost
+0.0520266538	sum of
+0.0516431316	a direct
+0.0516358870	demonstration of
+0.0515976788	to derive
+0.0514732611	then show
+0.0511903864	together with
+0.0510750141	quantum key
+0.0510598750	used for
+0.0509869716	a framework for
+0.0508711583	a crucial
+0.0506099489	equivalent to
+0.0505439152	a complete
+0.0503931696	done in
+0.0503828837	advantage of
+0.0503717800	implemented by
+0.0503246552	the results show
+0.0503080298	to state of
+0.0501965610	model of
+0.0497232198	nature of
+0.0497058264	efficient quantum
+0.0497048165	a substrate
+0.0495691141	the electrical
+0.0495477892	to introduce
+0.0495192963	to reach
+0.0492715710	controlled by
+0.0490236377	an array of
+0.0489705323	a modified
+0.0489582550	to identify
+0.0488002386	creation of
+0.0487774014	the charge
+0.0485374092	this type of
+0.0484669025	performed by
+0.0484364496	a programmable
+0.0479455804	works on
+0.0475910307	by using
+0.0470150941	the minimal
+0.0469879266	built in
+0.0469243830	with existing
+0.0468981751	a sequence
+0.0468830955	relative to
+0.0468684472	candidates for
+0.0466860249	used in
+0.0466682194	a hardware
+0.0465216581	expression for
+0.0465172471	the experiment
+0.0464501032	lot of
+0.0464289840	developed by
+0.0462079508	a distributed
+0.0461189913	a stochastic
+0.0459736507	the idea
+0.0458073356	the functionality of
+0.0457867999	the effect
+0.0457092851	the associated
+0.0457082984	characterization of
+0.0455565532	realization of
+0.0455092758	computing with
+0.0452983131	changes in
+0.0452541465	interpretation of
+0.0450558855	a case
+0.0448479930	presence of
+0.0445230902	research on
+0.0442800266	implementation on
+0.0441867999	a technology
+0.0438809456	easy to
+0.0438809456	mapped to
+0.0437491241	the primary
+0.0437060356	the challenge
+0.0436594862	the behavior of
+0.0435502109	known as
+0.0433962827	validity of
+0.0433953835	implemented on
+0.0432292021	the readout
+0.0431791968	two different
+0.0431658931	the past
+0.0429735078	opportunities for
+0.0428488729	over time
+0.0427946572	solution for
+0.0427867999	a function
+0.0427028680	analysis of
+0.0426971516	introduction to
+0.0426357438	a means
+0.0423962827	collection of
+0.0421896508	respect to
+0.0421177106	a real
+0.0420899360	way to
+0.0419719408	the possibility of
+0.0419144656	the case of
+0.0418785188	as compared to
+0.0416317566	correctness of
+0.0415166283	tool for
+0.0414698015	a popular
+0.0409029466	described by
+0.0408639792	designed to
+0.0407839655	sensitive to
+0.0401387208	implemented as
+0.0397013469	report on
+0.0391375003	synthesis of
+0.0389280005	type of
+0.0387379015	availability of
+0.0386656694	candidate for
+0.0386139792	required to
+0.0384303671	quantum circuit for
+0.0382379953	the potential of
+0.0379034236	the need to
+0.0378386023	also show
+0.0378054122	a framework
+0.0376448406	development of
+0.0374496462	performed on
+0.0374008648	a number of
+0.0373758727	utility of
+0.0373701618	demand for
+0.0373391514	the full
+0.0373302765	a technique
+0.0371191459	crucial for
+0.0369709483	similar to
+0.0367722641	a test
+0.0364392485	the ability to
+0.0361262383	to find
+0.0360210210	quantum neural
+0.0358946774	the gap
+0.0352348961	the implementation of
+0.0350042252	proof of
+0.0349612901	implemented with
+0.0349597574	attempt to
+0.0348800965	bounds for
+0.0348656799	required for
+0.0348091427	coupled with
+0.0347227649	a simulation
+0.0346086849	to switch
+0.0345394514	a type
+0.0344833106	the feasibility of
+0.0344833106	a variety of
+0.0344184166	the effective
+0.0341872739	behavior of
+0.0338653190	the propagation
+0.0336840462	terms of
+0.0335328727	the efficacy
+0.0334119580	to process
+0.0332490390	applicability of
+0.0330830764	configuration of
+0.0329017610	a fast
+0.0328918210	needed for
+0.0326465648	a variety
+0.0323799885	the kirchhoff
+0.0323323976	in addition to
+0.0322732884	optimized for
+0.0320810300	impact of
+0.0320766561	the aim
+0.0320095999	approach for
+0.0316142885	algorithm for
+0.0315996940	the reliability
+0.0314918784	plasmodium of
+0.0314562856	dependence of
+0.0314142990	implemented in
+0.0313392804	the need for
+0.0312246543	range of
+0.0311650151	the functionality
+0.0310043011	proposed by
+0.0307510359	exploited to
+0.0305690013	the surface
+0.0304948815	a mathematical
+0.0304225030	the first
+0.0303682241	resulting in
+0.0302867378	improvement in
+0.0302722265	network on
+0.0301545595	a class of
+0.0299597749	instead of
+0.0298430316	the latter
+0.0297836174	possible to
+0.0296044609	search for
+0.0295896398	the individual
+0.0295855302	bound on
+0.0295076107	possibility of
+0.0294706812	promise for
+0.0292110549	a dynamical
+0.0291364674	expected to
+0.0288539379	the ability
+0.0283177215	a factor
+0.0282673349	utilized to
+0.0281514504	lead to
+0.0281216454	essential for
+0.0278946774	the ground
+0.0278487373	scale quantum
+0.0277508818	in detail
+0.0277049787	utilized for
+0.0276248332	factor of
+0.0276205729	referred to
+0.0275492031	alternative to
+0.0273991082	performance of
+0.0273590624	stored in
+0.0272566213	a set
+0.0271016634	progress in
+0.0270633069	employed to
+0.0267447491	a full
+0.0266397661	an array
+0.0265387048	sufficient to
+0.0265341454	decrease in
+0.0264520107	the development
+0.0261672854	an energy
+0.0261136389	a few
+0.0259501957	conjunction with
+0.0258629105	the effectiveness
+0.0257591427	language for
+0.0257342497	extended to
+0.0256057344	feasibility of
+0.0255219172	effectiveness of
+0.0254386504	found to
+0.0253094242	same time
+0.0253082300	likely to
+0.0251628211	needed to
+0.0251091427	methodology for
+0.0251021561	hard to
+0.0248160563	part of
+0.0247207755	necessary for
+0.0242537910	the existence
+0.0242354997	contrast to
+0.0241124878	difficult to
+0.0239884114	reported in
+0.0238674787	definition of
+0.0238674787	variant of
+0.0237784832	to make
+0.0237181036	use of
+0.0235240237	employed in
+0.0232765531	potential for
+0.0231377151	allows for
+0.0231031914	to approximate
+0.0229458212	restricted to
+0.0228480714	the former
+0.0227591427	basis for
+0.0221949912	the received
+0.0216381585	the basis
+0.0216062490	allow for
+0.0214537910	an end
+0.0211091839	yet to
+0.0211005015	encoded in
+0.0204837352	described in
+0.0203463942	a particular
+0.0203399823	to investigate
+0.0202964235	to control
+0.0199059402	era of
+0.0198221857	useful for
+0.0195984349	needs to
+0.0193712242	corresponding to
+0.0191895131	found in
+0.0191504784	only on
+0.0191057334	especially for
+0.0190509591	for example
+0.0189448431	the feasibility
+0.0187758505	to do
+0.0186968096	off between
+0.0185352330	pair of
+0.0182390126	overview of
+0.0178844618	efficacy of
+0.0177941283	need for
+0.0174973695	to take
+0.0171821307	interest in
+0.0170995133	evolution of
+0.0170908388	developed for
+0.0169649227	a good
+0.0163740595	made of
+0.0158766550	a basis
+0.0158745779	verification of
+0.0153831328	the goal
+0.0151163223	necessary to
+0.0141155943	estimation for
+0.0138471747	a great
+0.0138432092	the impact
+0.0113554062	available to
+0.0108399532	influence of
+0.0094734776	developed to
+0.0087879482	promises to
+0.0075234776	considered to

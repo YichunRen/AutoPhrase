@@ -1,0 +1,980 @@
+0.9803027666	deep learning
+0.9764173274	molecular dynamics
+0.9721489174	neural networks
+0.9718850175	finite element
+0.9716027688	shared memory
+0.9712683494	automatic differentiation
+0.9694436691	finite difference
+0.9689173364	proof assistant
+0.9683714416	machine learning
+0.9677903331	floating point
+0.9670073312	fourier transform
+0.9665959630	image processing
+0.9652244431	partial differential equations
+0.9643741814	open source
+0.9634382649	gaussian elimination
+0.9616945715	linear algebra
+0.9615227263	graphical user interface
+0.9596113911	fluid dynamics
+0.9585349012	nvidia tesla
+0.9580505783	monte carlo
+0.9563980021	intel xeon
+0.9559845139	object oriented
+0.9551143727	neural network
+0.9497289266	graphics processing unit
+0.9495782209	xeon phi
+0.9490651628	probability distributions
+0.9484529998	ordinary differential equations
+0.9481547513	positive definite
+0.9479221851	distributed memory
+0.9478657127	skew symmetric
+0.9476203670	sensitivity analysis
+0.9455444838	krylov subspace
+0.9421141380	load balancing
+0.9419932906	programming languages
+0.9417527930	programming language
+0.9407329901	sparse matrix
+0.9405323726	domain specific language
+0.9402064851	multi core
+0.9375960222	operator overloading
+0.9363269478	memory footprint
+0.9352019179	domain specific
+0.9337713028	differential equations
+0.9331260439	matrix multiplication
+0.9318657584	dynamical systems
+0.9280993364	arbitrary precision
+0.9270238053	high performance computing
+0.9268075260	discontinuous galerkin
+0.9245037189	fast fourier transform
+0.9214549161	formal verification
+0.9188842190	markov chain
+0.9184700743	double precision
+0.9183852561	floating point arithmetic
+0.9179315795	adaptive mesh refinement
+0.9175754821	gaussian process
+0.9158259137	real number
+0.9114683098	tensor algebra
+0.9109303001	theorem prover
+0.9107869338	intel xeon phi
+0.9094005528	theorem proving
+0.9092518992	theorem provers
+0.9079303641	numerical methods
+0.9063806882	building blocks
+0.9056199358	source code
+0.9054521631	tensor product
+0.9051098640	newton's method
+0.9038909460	single precision
+0.9020196477	numerical analysis
+0.9013094885	higher order
+0.9009020653	computational science
+0.9000426413	branch cuts
+0.8999721649	data structures
+0.8992144906	black box
+0.8985937160	power series
+0.8982621790	quantum computing
+0.8960757869	computational complexity
+0.8956479792	differential equation
+0.8955498074	software engineering
+0.8953930071	graphics processing units
+0.8935386236	ordinary differential
+0.8918012410	signal processing
+0.8916265820	scientific computing
+0.8910657801	data analysis
+0.8904876274	reverse mode
+0.8903983554	hereditarily finite
+0.8903403771	algorithmic differentiation
+0.8870221094	special functions
+0.8849606112	large scale
+0.8847048357	statistical analysis
+0.8833476181	numerical integration
+0.8831923501	general purpose
+0.8810256702	message passing
+0.8807969585	isogeometric analysis
+0.8767584094	knights landing
+0.8763980073	finite elements
+0.8760740130	shallow water
+0.8755780909	massively parallel
+0.8748125045	homotopy continuation
+0.8696724147	pseudorandom number
+0.8691619203	data structure
+0.8666429180	symbolic computation
+0.8647717402	selected inversion
+0.8621797418	open source software
+0.8578034624	subspace iteration
+0.8572322409	numerical simulations
+0.8563383629	cache oblivious
+0.8555438782	expression templates
+0.8542887270	reference implementation
+0.8540516300	finite element method
+0.8539368958	software packages
+0.8512818818	iterative methods
+0.8511264734	worst case
+0.8495421833	data mining
+0.8493824429	navier stokes
+0.8483663094	low rank
+0.8427101015	dense linear algebra
+0.8417210793	runge kutta
+0.8408613739	high order
+0.8406641691	code generation
+0.8392067683	extreme scale
+0.8387982596	double double
+0.8386934783	matrix vector multiplication
+0.8377827775	tensor contractions
+0.8371686662	linear systems
+0.8328899879	domain decomposition
+0.8311762381	random number generators
+0.8296165510	low level
+0.8281193713	problem size
+0.8268798087	high performance
+0.8251917763	eigenvalue problems
+0.8231689550	inverse problems
+0.8229195545	numerical method
+0.8226766158	tensor contraction
+0.8223996425	global memory
+0.8219917737	low rank approximation
+0.8218818968	singular value decomposition
+0.8201101033	boundary element
+0.8200111183	lu factorization
+0.8198488999	user friendly
+0.8152460013	scientific software
+0.8150750610	polynomial systems
+0.8143328397	sparse matrix vector multiplication
+0.8139261806	pseudo random
+0.8135571706	sparse matrices
+0.8135229164	software development
+0.8109543143	random numbers
+0.8096961790	complex numbers
+0.8093751965	parallel computing
+0.8063408495	interval arithmetic
+0.8043870289	model reduction
+0.8043320467	multi threaded
+0.8036177214	geometric multigrid
+0.8007382803	real world
+0.7985613736	scientific applications
+0.7980395529	software framework
+0.7939423376	qr factorization
+0.7917306102	high dimensional
+0.7906782004	iterative solvers
+0.7905935768	matrix sizes
+0.7899304687	sparse tensor
+0.7885150715	elementary functions
+0.7847428393	processing units
+0.7838569250	dynamic geometry
+0.7834879906	multi dimensional
+0.7810911460	data sets
+0.7794680225	high level
+0.7790440252	memory usage
+0.7766112936	sparse linear algebra
+0.7757047456	objective functions
+0.7753818880	simulation codes
+0.7748694859	tensor operations
+0.7728051602	implementation details
+0.7718277884	software package
+0.7712251522	mixed precision
+0.7710654726	storage format
+0.7679861325	matrix free
+0.7663161209	user interface
+0.7640321047	peak performance
+0.7607861418	cpu gpu
+0.7604148581	code generator
+0.7587773924	parameter estimation
+0.7569509012	numerical examples
+0.7546195965	error prone
+0.7537156596	algebraic multigrid
+0.7533215805	pde solvers
+0.7519163489	performance portability
+0.7481674847	fixed point
+0.7468142997	numerical experiments
+0.7467916284	multiple precision
+0.7449580155	processing unit
+0.7447115601	numerical results
+0.7438556396	sparse matrix matrix multiplication
+0.7399796507	distributed memory parallel
+0.7399443386	python library
+0.7397563618	highly scalable
+0.7365069112	model order
+0.7363799945	gpu accelerated
+0.7357992075	matrix multiplications
+0.7320217881	nvidia gpus
+0.7316978408	numerical accuracy
+0.7316937044	computational kernels
+0.7283053428	tree based
+0.7282628412	linear solvers
+0.7276513809	matrix operations
+0.7232733883	gpu based
+0.7217674122	partial differential
+0.7213771981	matrix vector
+0.7209181396	sparse linear systems
+0.7206207501	linear equations
+0.7185989043	boundary problems
+0.7183969970	multigrid solver
+0.7183281916	mathematical software
+0.7180238128	precision arithmetic
+0.7179965742	arithmetic operations
+0.7175838563	direct solvers
+0.7161367013	computational efficiency
+0.7158129903	boundary conditions
+0.7142471720	number generator
+0.7089418524	programming model
+0.7060814731	problem sizes
+0.7047975370	parallel algorithm
+0.7043696606	c + + 11
+0.7041187301	linear algebra operations
+0.7037396129	finite volume
+0.7032816989	finite element methods
+0.7005861743	arithmetic intensity
+0.7003323648	experimental results
+0.6992670069	data types
+0.6985739533	computational results
+0.6977501712	global optimization
+0.6975759182	memory bandwidth
+0.6967248859	intermediate representation
+0.6961619498	c + +
+0.6961399633	test problems
+0.6948105208	weak scaling
+0.6939012606	performance gains
+0.6899811732	performance analysis
+0.6883653517	strong scaling
+0.6855608208	software library
+0.6845328024	highly optimized
+0.6828090646	computational cost
+0.6799958996	matrix computations
+0.6793940392	random number
+0.6756683459	paper describes
+0.6751284139	linear algebra libraries
+0.6748508889	task based
+0.6722674190	main memory
+0.6713787487	fast fourier
+0.6713370070	principal component
+0.6707665613	dense matrix
+0.6692012566	memory requirements
+0.6690724192	mesh refinement
+0.6681458709	graph algorithms
+0.6667472602	symmetric matrices
+0.6643223142	paper presents
+0.6630757134	parallel algorithms
+0.6628788551	highly parallel
+0.6616950003	graphics processing
+0.6614065491	gpu architectures
+0.6596716207	paper proposes
+0.6584210659	dense matrices
+0.6558813827	matrix matrix multiplication
+0.6551041312	degrees of freedom
+0.6543823414	differential operators
+0.6521773174	sparse linear
+0.6504439298	matlab toolbox
+0.6392923118	performance model
+0.6389503674	numerical computation
+0.6382413036	precision floating point
+0.6368702351	efficient parallel
+0.6337402928	parameter space
+0.6304816322	single node
+0.6297755111	high quality
+0.6223235055	cpu cores
+0.6169965086	adaptive mesh
+0.6149086304	finite element library
+0.6121482123	building block
+0.6119939091	blas and lapack
+0.6106433220	objective function
+0.6069851442	matlab code
+0.6025199912	paper introduces
+0.6011743787	high performance implementation
+0.5958895010	^ 2
+0.5956108537	input data
+0.5937795664	task parallel
+0.5930986287	user defined
+0.5817953660	computing systems
+0.5774597203	recent years
+0.5767957671	parallel architectures
+0.5745499774	sparse matrix vector
+0.5739500061	order of magnitude
+0.5707837399	science and engineering
+0.5678260950	sparse matrix matrix
+0.5603297532	vector multiplication
+0.5572569723	times faster
+0.5557260903	high order finite
+0.5548608001	avx 512
+0.5500937057	parallel performance
+0.5475632908	parallel implementation
+0.5430195226	computer vision
+0.5429100562	least squares
+0.5354322712	computer algebra systems
+0.5229950549	numerical solution
+0.5207748278	large matrices
+0.5163186789	large sparse
+0.5158706449	an open source
+0.5121801052	compile time
+0.5107407184	a case study
+0.5102687626	cpu and gpu
+0.5039468729	source to source
+0.5003663406	scientific and engineering
+0.4842478286	least squares problems
+0.4825714450	significant performance
+0.4824278357	et al
+0.4814314397	singular value
+0.4801340195	computer algebra
+0.4795681291	| g |
+0.4789907320	numerical algorithms
+0.4785847834	element method
+0.4746168010	parallel code
+0.4695768610	software systems
+0.4563264899	performance and scalability
+0.4524676843	^ 3
+0.4498135269	systems of linear
+0.4466171355	times faster than
+0.4377809157	graphical user
+0.4292338851	general matrix
+0.4250720249	computer science
+0.4244843024	second order
+0.4222729540	three dimensional
+0.4172826265	python package
+0.4119078857	time series
+0.4112891780	takes advantage of
+0.4102723070	performance results
+0.4067146713	solution of partial
+0.4049910833	r package
+0.4040086487	number generators
+0.4033390214	+ +
+0.4026359982	non hermitian
+0.4009658243	method for computing
+0.3986211797	algorithm for computing
+0.3984032730	stokes equations
+0.3970746641	existing software
+0.3926570547	level 3
+0.3917502509	algorithms for computing
+0.3819246012	design and implementation
+0.3804430967	trade off
+0.3733877344	learning algorithms
+0.3657654189	run time
+0.3646870679	64 bit
+0.3645631121	wide range of
+0.3625352234	this paper presents
+0.3622297995	\ log n
+0.3622079154	* *
+0.3603580711	\ emph
+0.3589883939	in recent years
+0.3571752999	a user friendly
+0.3570665629	requires only
+0.3555660362	gflop s
+0.3509379862	speed up
+0.3492547228	parameter less
+0.3483741359	\ em
+0.3457431154	$ \ mathbb
+0.3436947288	\ times
+0.3423722527	small number of
+0.3403437750	r ^ n
+0.3369599253	efficient algorithms
+0.3356343412	non linear
+0.3342580446	element methods
+0.3342274185	automatic generation of
+0.3337637671	running time
+0.3320496125	\ tt
+0.3301209538	this paper describes
+0.3300223419	\ texttt
+0.3287672254	many core
+0.3253584310	this paper introduces
+0.3214807055	publicly available
+0.3201456167	faster than
+0.3164911040	k means
+0.3161815101	polynomial system
+0.3118099177	presented here
+0.3117972930	\ alpha
+0.3106714744	widely used
+0.3099827511	\ cite
+0.3084443128	so called
+0.3071592512	$ \ mathcal h
+0.3022093095	order finite element
+0.2995950571	10 ^
+0.2992403786	time consuming
+0.2980766040	algebra operations
+0.2976805752	computational fluid
+0.2965892462	large number of
+0.2932926917	non trivial
+0.2910116724	easy to use
+0.2904332195	performance computing
+0.2876042999	next generation
+0.2874775704	a wide range
+0.2841030218	well known
+0.2838293044	well suited
+0.2835281257	matrix matrix
+0.2834022400	a large number
+0.2831166002	\ beta
+0.2823714326	aimed at
+0.2813133014	initial value
+0.2807335969	execution time
+0.2781775413	this article
+0.2774464990	automatic generation
+0.2774129430	2 ^
+0.2772440881	small number
+0.2765959848	previous work
+0.2752925280	efficient implementation
+0.2746924701	optimization problems
+0.2743910694	$ \ mathcal o
+0.2732114485	code generation for
+0.2713378575	$ \ mathcal
+0.2708787743	time dependent
+0.2708201045	commonly used
+0.2691046304	freely available
+0.2667023248	input matrix
+0.2666516461	a high level
+0.2662385716	efficient implementation of
+0.2632016652	an introduction
+0.2628828805	a general purpose
+0.2610665150	computer algebra system
+0.2600729606	do not
+0.2585770761	two dimensional
+0.2580727436	fast matrix
+0.2560229856	the other hand
+0.2552196696	software package for
+0.2546415412	the input matrix
+0.2536904002	information about
+0.2534722754	parallel algorithm for
+0.2526010796	at least
+0.2513814391	experiments show
+0.2506959861	rather than
+0.2494021471	this paper
+0.2474339605	numerical solution of
+0.2468752691	\ mathbb
+0.2461968354	programming interface
+0.2440064060	$ 10 ^
+0.2407131881	ease of use
+0.2405178182	relies on
+0.2378724490	co design
+0.2376109401	ranging from
+0.2374551298	to take advantage
+0.2352759774	parallel in time
+0.2349897127	\ log
+0.2335471105	\ textit
+0.2315631486	three dimensions
+0.2314583420	does not
+0.2286484090	use cases
+0.2277469486	at runtime
+0.2265095432	gr \
+0.2262026450	time to solution
+0.2260807223	derived from
+0.2257410776	algebra library
+0.2238237855	element matrices
+0.2237864427	well established
+0.2227863565	focus on
+0.2225091786	1 +
+0.2201276261	equipped with
+0.2151051564	based on
+0.2150501665	\ mathbb r
+0.2147792534	\ mu
+0.2119734151	case study
+0.2106647311	x ^
+0.2094321490	linear system
+0.2087800325	optimization framework
+0.2072104050	benefit from
+0.2049023057	more than
+0.2024867834	the open source
+0.1993708624	first order
+0.1985602120	an extension
+0.1932331649	$ \
+0.1928651875	two main
+0.1927916890	arising from
+0.1911278376	compared to
+0.1905325717	one dimensional
+0.1902180583	real time
+0.1901480474	deals with
+0.1901340390	a domain specific
+0.1892060921	written in c
+0.1887301902	offered by
+0.1883964617	algebra libraries
+0.1860753614	such as
+0.1845645765	space time
+0.1841837617	rely on
+0.1840627421	as well as
+0.1839788718	$ m
+0.1819365993	presence of
+0.1812653363	a high performance
+0.1804737008	very large
+0.1799525276	a software package
+0.1796685922	represented as
+0.1795349199	$ n
+0.1789638701	different approaches
+0.1783214655	n ^
+0.1777041703	an efficient
+0.1773002695	python package for
+0.1768942373	take advantage of
+0.1766030304	results show
+0.1761727480	memory parallel
+0.1754744650	scale problems
+0.1737849984	a lot
+0.1737300789	allows users
+0.1734290581	better than
+0.1719381072	$ hp
+0.1718385236	depending on
+0.1711546035	resulted in
+0.1679088316	very high
+0.1673547538	the finite element method
+0.1658755449	a python package
+0.1653041410	due to
+0.1648974899	inversion algorithm
+0.1629313102	dense linear
+0.1628232826	$ \ times
+0.1620521476	design and implementation of
+0.1616661803	algebra systems
+0.1612359230	$ f
+0.1611632924	the design and
+0.1609892748	inspired by
+0.1605026813	$ o
+0.1589902658	provided by
+0.1560441157	the problem of
+0.1556135236	deal with
+0.1549223470	the art
+0.1548533575	libraries such as
+0.1544357391	focuses on
+0.1530633464	the level of
+0.1530441157	the method of
+0.1520441157	the analysis of
+0.1514610702	the source code
+0.1513878530	make use of
+0.1510669788	notion of
+0.1510441157	the structure of
+0.1500633464	the core of
+0.1500441157	the size of
+0.1490441157	the user to
+0.1489227981	able to
+0.1482928693	an important
+0.1477709919	not only
+0.1473334593	this document
+0.1470557824	for use in
+0.1463044125	a wide variety of
+0.1441033261	at http
+0.1439658977	depends on
+0.1421690260	compatible with
+0.1420441157	the simulation of
+0.1420441157	the case of
+0.1419230217	the presence
+0.1415045091	reduction in
+0.1403974928	many applications
+0.1402870950	dealing with
+0.1384191157	the design of
+0.1369253707	in terms of
+0.1368795384	also present
+0.1357639481	the feast
+0.1354383464	the domain of
+0.1354191157	the application of
+0.1352787648	the efficiency of
+0.1343989998	depend on
+0.1329854501	generated by
+0.1324383464	the speed of
+0.1314383464	the generation of
+0.1313512389	more efficient
+0.1292787648	the field of
+0.1284286591	at https
+0.1275786476	widely used in
+0.1266373944	good performance
+0.1262084215	= \
+0.1256016378	this work
+0.1250530565	close to
+0.1245142487	^ \
+0.1243537851	a c + + library
+0.1234646622	a series of
+0.1227979956	the purpose of
+0.1217979956	the accuracy of
+0.1217787648	the form of
+0.1213731533	the most important
+0.1211168600	in order to
+0.1201819489	optimization algorithm
+0.1194579906	m \
+0.1174352917	value problems
+0.1158743679	a flexible
+0.1154825790	on average
+0.1134009454	this issue
+0.1129062351	also provide
+0.1121423563	$ k
+0.1120595693	with respect to
+0.1113347061	subset of
+0.1111026998	^ n
+0.1104707770	this approach
+0.1103658019	equations using
+0.1091503438	state of
+0.1078053980	a wide range of
+0.1070309046	to compute
+0.1068234593	implementation of
+0.1063161606	emphasis on
+0.1046063841	but also
+0.1036851994	each other
+0.1034287111	available at
+0.1024204969	a parallel
+0.1017464690	report on
+0.1011851818	by means of
+0.1009158898	availability of
+0.1005909642	multiplication on
+0.1000799349	many scientific
+0.0999084487	competitive with
+0.0988356360	to solve
+0.0982770730	an implementation
+0.0981631055	better performance
+0.0981267506	log n
+0.0973177601	a unified
+0.0964636048	$ p
+0.0955160777	this report
+0.0954620189	c + + library
+0.0945287054	number of
+0.0944442525	realization of
+0.0932048345	aims to
+0.0924817504	compared with
+0.0923652575	lead to
+0.0910873298	amount of
+0.0904834839	to overcome
+0.0903652575	leads to
+0.0898869557	$ n \
+0.0893226766	on top of
+0.0880475992	developed by
+0.0873320558	want to
+0.0870135312	capable of
+0.0866535855	+ + code
+0.0865853591	respect to
+0.0857606622	working with
+0.0855966335	lack of
+0.0855097796	role in
+0.0854873183	existence of
+0.0848871805	algorithm for
+0.0839949561	to obtain
+0.0828694141	implemented in
+0.0819296395	to accelerate
+0.0814083900	as input
+0.0812334695	an algorithm
+0.0810226766	the context of
+0.0809442780	possibility of
+0.0807547445	this problem
+0.0805431212	achieved by
+0.0796080482	easy to
+0.0794881450	written in
+0.0790538447	to create
+0.0788435025	combined with
+0.0780437203	applied to
+0.0778976969	to achieve
+0.0775323223	two different
+0.0770398384	framework for
+0.0767629728	in contrast
+0.0767385924	for solving
+0.0765791080	equivalent to
+0.0765689851	the use of
+0.0764634454	by combining
+0.0756225474	up to
+0.0754015723	built in
+0.0753702956	an overview of
+0.0751039068	a factor of
+0.0750408242	a python package for
+0.0748654759	this algorithm
+0.0747519441	$ s
+0.0744838632	to determine
+0.0742073642	introduction to
+0.0741357001	to avoid
+0.0741331120	designed to
+0.0740415453	at most
+0.0739870622	the usual
+0.0738920814	a variety of
+0.0738540453	only one
+0.0732716962	kind of
+0.0730582538	variety of
+0.0727624917	many different
+0.0725637809	a case
+0.0718071369	advantage of
+0.0717799972	arising in
+0.0713825411	new algorithms
+0.0710769123	to improve
+0.0704505238	to ensure
+0.0701819114	an arbitrary
+0.0701766353	relative to
+0.0698405024	an interface
+0.0694895348	the performance of
+0.0692452260	comes with
+0.0690268804	suitable for
+0.0689919313	the same time
+0.0687316059	two new
+0.0686068106	an iterative
+0.0673953918	the presence of
+0.0668135230	limited by
+0.0664830685	in practice
+0.0659880669	most important
+0.0659441952	effectiveness of
+0.0658762156	allows users to
+0.0657974338	a new
+0.0656910803	introduced by
+0.0656617713	the same
+0.0656267361	the ability to
+0.0653588632	for calculating
+0.0650410790	the literature
+0.0647023464	a generic
+0.0646012795	+ + library
+0.0643690489	defined by
+0.0640192927	comparable to
+0.0639025093	a brief
+0.0633588632	to construct
+0.0631888182	in addition
+0.0630662275	building on
+0.0624519123	to generate
+0.0623746670	a range of
+0.0621095965	consists of
+0.0617943289	a set of
+0.0616525148	r ^
+0.0613363584	implemented as
+0.0609817177	suited for
+0.0608909741	a variety
+0.0607345806	an example of
+0.0605817699	an application
+0.0601575157	by up to
+0.0601298825	a number of
+0.0598427687	or even
+0.0594486657	to implement
+0.0591324080	combination of
+0.0584954413	along with
+0.0582425365	performed on
+0.0581154920	description of
+0.0580195933	as part of
+0.0578102076	a single
+0.0576204413	together with
+0.0574983926	to take advantage of
+0.0570908165	the main
+0.0567023822	obtained by
+0.0561151697	these new
+0.0561034697	an overview
+0.0560787993	$ x
+0.0558627225	by providing
+0.0554929852	for instance
+0.0553413160	to write
+0.0551735049	need to
+0.0546061538	a unique
+0.0542256267	c + + library for
+0.0539856014	this paper provides
+0.0539133603	the solution of
+0.0535775263	as well
+0.0535046719	set of
+0.0528586843	extended to
+0.0528341514	performance on
+0.0528210558	an abstract
+0.0527967787	an easy
+0.0524500243	the number of
+0.0523227968	to enable
+0.0522789759	effect of
+0.0519740870	run on
+0.0516713386	version of
+0.0512279532	to apply
+0.0512275705	to perform
+0.0509528844	known as
+0.0507730094	the development of
+0.0506818175	an open
+0.0506354924	this study
+0.0502761407	the cost of
+0.0498106383	included in
+0.0495268743	a simple
+0.0493711781	an initial
+0.0493135365	a large number of
+0.0491638426	comparison with
+0.0491466490	a c + +
+0.0490640100	to address
+0.0489133603	the computation of
+0.0487105991	used to
+0.0484220008	the sense
+0.0480294542	designed for
+0.0479703031	to reduce
+0.0477969826	improvement in
+0.0477131050	variant of
+0.0472503631	$ 10
+0.0468517432	the entire
+0.0467304607	overview of
+0.0464265098	a fast
+0.0460069061	by using
+0.0455559858	demonstrated on
+0.0453731764	a general
+0.0451674422	an approach
+0.0450782827	to provide
+0.0448614390	to handle
+0.0447996794	required by
+0.0444823461	associated with
+0.0443944363	access to
+0.0440929286	to facilitate
+0.0439922603	optimization algorithms
+0.0439378902	$ r
+0.0439272209	support for
+0.0435802510	the implementation of
+0.0434756826	difficult to
+0.0434373114	a wide
+0.0433501411	extension of
+0.0432579809	the concept of
+0.0431818175	to verify
+0.0431700859	n \
+0.0430820350	the complexity of
+0.0428647410	the need for
+0.0424623647	separation of
+0.0424536316	to optimize
+0.0424361696	in addition to
+0.0423507819	composed of
+0.0422349738	the amount of
+0.0422199878	discussed in
+0.0420285118	the state of
+0.0419726759	a collection of
+0.0418768667	related to
+0.0414220224	to build
+0.0409458936	an implementation of
+0.0408790787	verification of
+0.0406290787	formulation of
+0.0403983318	a sequence of
+0.0403059638	shown to
+0.0401812638	the latter
+0.0400399465	$ 2
+0.0398717689	utility of
+0.0397472923	solution of
+0.0397212836	nature of
+0.0397068744	a method for
+0.0395571613	the notion of
+0.0394536316	to define
+0.0393342293	to run
+0.0391534878	the ability
+0.0391091786	performance than
+0.0390838336	parallelization of
+0.0389727551	for generating
+0.0388162133	of up to
+0.0384573283	strategy for
+0.0384295267	to derive
+0.0383138036	similar to
+0.0382750832	technique for
+0.0381980743	the correctness of
+0.0381674663	to produce
+0.0381037016	a proof
+0.0381022945	new approach
+0.0380594794	evaluation of
+0.0378047608	arise in
+0.0377069170	to exploit
+0.0376770220	package for
+0.0376534895	release of
+0.0375933559	the possibility
+0.0375811534	an example
+0.0375632425	to evaluate
+0.0374388705	class of
+0.0372014758	a few
+0.0371577166	to maintain
+0.0369387022	directly in
+0.0368820239	an algorithm for
+0.0365962474	hard to
+0.0364480095	running on
+0.0362678686	suite of
+0.0359798569	a class of
+0.0358492803	the calculation of
+0.0355377524	well as
+0.0354992086	shape of
+0.0354992086	hierarchy of
+0.0353451201	goal of
+0.0353139127	performance of
+0.0352531676	importance of
+0.0352375171	to develop
+0.0351888464	a key
+0.0350880363	a description of
+0.0349439908	a hybrid
+0.0348794735	represented in
+0.0348574498	a scalable
+0.0348145508	collection of
+0.0347326618	for constructing
+0.0346737102	factor of
+0.0346023079	a result
+0.0345939617	idea of
+0.0344421955	to support
+0.0342742138	increase in
+0.0341899398	for implementing
+0.0341896761	a framework for
+0.0341357898	a family of
+0.0341144872	to increase
+0.0340527828	allowing for
+0.0340286949	for computing
+0.0339430682	a powerful
+0.0338367586	environment for
+0.0337114133	discretization of
+0.0336813021	area of
+0.0335630037	method for
+0.0333293603	for improving
+0.0333003821	to express
+0.0331339539	on up to
+0.0330795361	a detailed
+0.0330368926	to get
+0.0330102110	the well known
+0.0329830065	computation of
+0.0328371114	introduced in
+0.0328309737	to use
+0.0327863167	complexity of
+0.0326539127	library for
+0.0325349379	to represent
+0.0320853914	a tool for
+0.0319750539	the range of
+0.0319736048	ease of
+0.0319195100	new algorithm
+0.0317975826	proof of
+0.0317158903	a comprehensive
+0.0316410945	methodology for
+0.0316145284	part of
+0.0313007223	adapted to
+0.0308079447	calculation of
+0.0304957333	solver for
+0.0304629541	the original
+0.0304347016	the actual
+0.0304192256	ability to
+0.0303247141	sequence of
+0.0301585143	enough to
+0.0300665235	a library for
+0.0299211538	to explore
+0.0298559803	a cluster
+0.0295331694	to compare
+0.0294977014	choice of
+0.0291120096	range of
+0.0290544651	for performing
+0.0289890797	extension to
+0.0288916482	the parameter
+0.0288047232	need for
+0.0287896460	tool for
+0.0287822429	a fundamental
+0.0284201852	family of
+0.0282710299	platform for
+0.0280381240	to illustrate
+0.0280318544	expressed in
+0.0278920914	a benchmark
+0.0277801815	the need to
+0.0277413537	estimation of
+0.0276066162	built on
+0.0271753009	construction of
+0.0258681424	instead of
+0.0251563627	available as
+0.0250871990	the set of
+0.0243432496	development of
+0.0236570491	acceleration of
+0.0233619948	to do
+0.0232320100	a modular
+0.0230727849	a novel
+0.0229880203	correctness of
+0.0227320100	the rapid
+0.0226356889	to allow
+0.0225862091	to identify
+0.0223496032	toolbox for
+0.0222969277	a high
+0.0221399465	new method
+0.0220996032	format for
+0.0219647092	a factor
+0.0213004948	to extend
+0.0210287993	found in
+0.0206389003	needs to
+0.0201204365	required to
+0.0198041968	found to
+0.0196071790	toolkit for
+0.0195150788	to find
+0.0195103631	the utility
+0.0185435759	concept of
+0.0175048475	described in
+0.0174327426	context of
+0.0171324885	on top
+0.0170332579	used in
+0.0169808589	to make
+0.0160317428	possible to
+0.0144087508	a user
+0.0142465913	use of
+0.0141599465	the effectiveness
+0.0128221032	means of
+0.0125852214	a task
+0.0121334869	cost of
+0.0119821790	contrast to
+0.0116819387	a sequence
+0.0113401332	necessary to
+0.0101941403	corresponding to
+0.0068267161	to take

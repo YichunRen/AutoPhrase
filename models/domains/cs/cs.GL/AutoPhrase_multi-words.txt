@@ -1,0 +1,49 @@
+0.9838714286	artificial intelligence
+0.9249047619	big data
+0.9242047619	open source
+0.7807714286	data science
+0.7003333333	real world
+0.5780000000	computer science
+0.5572714286	research software
+0.4245714286	as well as
+0.4195000000	this article
+0.4053714286	in order to
+0.4030000000	this paper
+0.3835000000	based on
+0.3112000000	focus on
+0.3075000000	not only
+0.2837714286	levels of
+0.2805000000	such as
+0.2222714286	number of
+0.1822000000	aspects of
+0.1817714286	the asynchronous
+0.1795000000	a set of
+0.1767714286	the main
+0.1462000000	framework for
+0.1397714286	the same
+0.1167714286	theory of
+0.1127714286	study of
+0.1090000000	a number of
+0.1057714286	well as
+0.1057714286	view of
+0.0932714286	the web
+0.0917000000	a set
+0.0892714286	development of
+0.0872000000	in particular
+0.0867714286	of science
+0.0837714286	analysis of
+0.0772000000	need to
+0.0722714286	of scientific
+0.0692714286	of information
+0.0687714286	the paper
+0.0687714286	the study
+0.0677714286	the problem
+0.0677714286	the number
+0.0657714286	of computation
+0.0637000000	set of
+0.0597000000	design and
+0.0542000000	research in
+0.0527000000	a number
+0.0447000000	the article
+0.0407000000	the development
+0.0372000000	to make

@@ -1,0 +1,5512 @@
+0.9640745397	von neumann
+0.9616883433	artificial intelligence
+0.9570187053	master equation
+0.9567003122	ad hoc
+0.9540646482	moore's law
+0.9513975032	impulse response
+0.9504373222	carbon nanotube
+0.9499312097	machine learning
+0.9486971210	turing machine
+0.9477117135	magnetic anisotropy
+0.9468435861	cellular automata
+0.9467081273	multilayer perceptron
+0.9452698382	markov chain
+0.9435530008	monte carlo
+0.9425282377	fourier transform
+0.9421996043	spectral efficiency
+0.9416371623	room temperature
+0.9412960978	fault tolerant
+0.9412092008	shortest path
+0.9409163672	pattern recognition
+0.9398483208	instruction set
+0.9392310672	bayesian inference
+0.9364780382	radio frequency
+0.9364302711	reverse engineering
+0.9351148467	chemical reaction
+0.9346500134	random access memory
+0.9328926700	metal oxide
+0.9322883048	field effect transistor
+0.9321754056	programming language
+0.9305383614	deep learning
+0.9299508912	phase change
+0.9297741244	wireless communications
+0.9292368526	supervised learning
+0.9288547547	cognitive radio
+0.9278847877	big data
+0.9276097095	fault tolerance
+0.9272265844	simulated annealing
+0.9269847271	neural network
+0.9224618263	edge detection
+0.9211562694	decision diagrams
+0.9205701570	floating point
+0.9184586280	neural networks
+0.9175231240	dynamic range
+0.9174027306	unsupervised learning
+0.9172623619	fractional coding
+0.9166471636	synthetic biology
+0.9161765650	maximum likelihood
+0.9154961271	domain wall
+0.9102644559	electric field
+0.9102636787	cellular automaton
+0.9093252120	open source
+0.9092648989	image processing
+0.9051760460	liquid marbles
+0.9049474385	signal processing
+0.9032908935	combinatorial optimization
+0.9031458596	mutual information
+0.9027885057	health monitoring
+0.9017606413	artificial neural networks
+0.9017042116	window function
+0.9013485665	absorbing receiver
+0.9010212265	matrix multiplication
+0.9009137447	reinforcement learning
+0.9006719098	short term memory
+0.8999274572	electromagnetic waves
+0.8994249585	boolean function
+0.8990394698	human brain
+0.8989684106	random access
+0.8984170806	search algorithm
+0.8982649512	integrated circuits
+0.8982279459	dynamical systems
+0.8979100612	flash memory
+0.8973721325	read write
+0.8971277267	drug delivery
+0.8959373137	closed form
+0.8958641464	multi core
+0.8952763755	physical layer
+0.8949304525	magnetic tunnel junction
+0.8949123294	quadratic unconstrained
+0.8945452116	artificial neural network
+0.8939996456	ising machine
+0.8929293029	ground state
+0.8927602439	energy harvesting
+0.8918140386	wi fi
+0.8883728019	integrated circuit
+0.8882832543	pulse trains
+0.8868361755	np complete
+0.8854160667	subset sum problem
+0.8853502225	online learning
+0.8847822313	von neumann architecture
+0.8842901067	magnetic field
+0.8837564597	secure key exchange
+0.8816136510	flip flop
+0.8811874343	wireless networks
+0.8809949273	digital microfluidic biochips
+0.8794206633	spin transfer torque
+0.8790633403	synaptic plasticity
+0.8789872851	source code
+0.8788460881	crossbar arrays
+0.8787267371	error correcting
+0.8782281597	gradient descent
+0.8775295367	flip flops
+0.8773112145	magnetic tunnel junctions
+0.8756366299	bit error rate
+0.8754534251	coupled oscillator
+0.8746733315	superconducting optoelectronic
+0.8744930390	slime mould
+0.8734936260	parity preserving
+0.8724714785	normal form
+0.8723113549	asymptotically optimal
+0.8709690486	state space
+0.8707713620	electrical potential
+0.8704052229	spike timing dependent plasticity
+0.8692103892	reversible computing
+0.8690041992	biologically inspired
+0.8676708594	sequential logic
+0.8674306779	path balancing
+0.8670190047	image recognition
+0.8667995150	dependent plasticity
+0.8667409664	nearest neighbor
+0.8666769992	boolean logic
+0.8665153820	transfer function
+0.8650586324	weight update
+0.8630278100	image classification
+0.8613090644	field effect transistors
+0.8613032220	belousov zhabotinsky
+0.8602905844	reed muller
+0.8586914463	majority gate
+0.8579514014	programmable matter
+0.8572472684	maze solving
+0.8563169837	phase shifts
+0.8555314257	computational complexity
+0.8551403924	crossbar array
+0.8545600877	kirchhoff law johnson noise
+0.8543143369	data transmission
+0.8537518021	intelligent surfaces
+0.8536263603	reservoir computing
+0.8530676925	massively parallel
+0.8525862650	molecular communication
+0.8516655900	convolutional neural networks
+0.8515277013	shor's algorithm
+0.8509145921	high speed
+0.8506366285	phase change memory
+0.8506366050	physarum polycephalum
+0.8501842877	information processing
+0.8499956366	high bandwidth
+0.8485313974	garbage outputs
+0.8472730955	spin orbit torque
+0.8472515054	bio inspired
+0.8459629483	multi objective
+0.8455629439	design automation
+0.8450218611	processing units
+0.8429175409	handwritten digits
+0.8408594301	gate sets
+0.8399090243	logical gates
+0.8395473963	resistive random access memory
+0.8375353641	temporal planning
+0.8368015903	memristive device
+0.8366601574	non volatile memory
+0.8345971958	human body
+0.8337856327	simulation framework
+0.8334458045	ising machines
+0.8333930716	mathematical model
+0.8328724237	sequential circuits
+0.8327827666	spin torque
+0.8327581936	logic gate
+0.8324801157	error rate
+0.8313327230	deep neural network
+0.8312969229	matrix vector
+0.8306359543	reversible logic synthesis
+0.8298424453	ultra low energy
+0.8297805010	transistor level
+0.8288579142	error correction
+0.8287597457	resistive switching
+0.8281607760	wireless communication
+0.8273737771	large scale
+0.8269299134	hidden layer
+0.8267695526	protoplasmic tubes
+0.8266269803	reservoir computers
+0.8266260634	quantum key distribution
+0.8265745000	high performance computing
+0.8263418155	molecular communications
+0.8261558086	echo state networks
+0.8255739811	laboratory experiments
+0.8252144288	trapped ion
+0.8250817909	short term
+0.8250490337	floating gate
+0.8250341404	differential equations
+0.8248962663	convolutional neural network
+0.8248231513	chemical reaction networks
+0.8247597303	cross layer
+0.8243235257	logic gates
+0.8240717213	associative memory
+0.8240393381	np hard
+0.8240383007	stabilizer states
+0.8232821757	boltzmann machine
+0.8232367174	millimeter wave
+0.8229122530	mnist dataset
+0.8228148476	deep neural networks
+0.8226702365	weighted sum
+0.8210811537	lower bound
+0.8208070740	mixed signal
+0.8206201813	stt ram
+0.8203520209	domain specific
+0.8196937600	stt mram
+0.8193228239	learning rule
+0.8187101256	wireless network
+0.8186169612	spiking neurons
+0.8185755771	magneto electric
+0.8183207579	promising candidate
+0.8180331234	activation functions
+0.8166693949	current mode
+0.8166018365	low resistance
+0.8164474315	diffusion based molecular communication
+0.8164340652	self assembly
+0.8159983491	spin wave
+0.8156130125	threshold logic
+0.8154375289	quantum computing
+0.8147992651	spiking neural networks
+0.8145899480	neuromorphic computing
+0.8144608207	neuromorphic systems
+0.8130379128	half adder
+0.8129617091	spiking neural
+0.8123034211	resistive ram
+0.8120339985	spatio temporal
+0.8117952883	logic synthesis
+0.8112739307	channel impulse
+0.8111945822	linear nearest neighbor
+0.8109959481	spiking neural network
+0.8109467702	process variation
+0.8106475538	design methodology
+0.8106110427	spintronic devices
+0.8100563801	digital memcomputing machines
+0.8093826413	fully connected
+0.8089197004	error probability
+0.8089180162	spectrum sensing
+0.8086580002	cross point
+0.8076563241	upper bound
+0.8072377498	monte carlo simulations
+0.8068020957	compact model
+0.8063826384	highly parallel
+0.8056135461	single flux
+0.8054820941	vector matrix
+0.8054157796	content addressable
+0.8053557608	cnot gates
+0.8050799546	long range
+0.8042123905	embedded systems
+0.8038567791	number generators
+0.8036287557	channel model
+0.8036101134	error rates
+0.8035771000	reversible circuits
+0.8033535349	microfluidic biochips
+0.8031099381	recurrent neural networks
+0.8016437056	abstract tile assembly
+0.8013263262	binarized neural networks
+0.8011669385	chemical reactions
+0.8010035640	hardware security
+0.8008849961	reversible logic
+0.8008218271	sot mram
+0.7999904722	magnetic tunnel
+0.7992440581	unconventional computing
+0.7985475210	energy efficient
+0.7974359086	input output
+0.7971609548	surface code
+0.7969736762	spice simulations
+0.7968905131	dna strand
+0.7966466084	spin hall
+0.7956271375	classical computers
+0.7946437524	optimization problem
+0.7939117443	performance metrics
+0.7920956282	hybrid cmos
+0.7920352766	tile types
+0.7917641920	signal passing
+0.7914258977	metal oxide semiconductor
+0.7905766291	resistive memory
+0.7903743904	primary users
+0.7897315728	optical interconnects
+0.7896366779	neuromorphic hardware
+0.7893676323	memristor crossbars
+0.7887733768	information storage
+0.7878068021	building block
+0.7872267906	memristive crossbar
+0.7865523354	hierarchical temporal memory
+0.7859353828	activation function
+0.7837446146	exact synthesis
+0.7830403976	signal to noise ratio
+0.7825996692	deep convolutional
+0.7825975213	general purpose
+0.7823582342	reaction diffusion
+0.7819434353	synaptic weight
+0.7803333791	random number
+0.7800827642	voltage controlled
+0.7792384011	energy barrier
+0.7792064521	processing unit
+0.7790814935	temporal memory
+0.7789458615	great potential
+0.7786966456	feed forward
+0.7783863757	software defined
+0.7779830515	recently developed
+0.7777132706	wave fragments
+0.7773463519	decision making
+0.7769752058	neuromorphic architectures
+0.7766333403	high resolution
+0.7764331813	multiple access
+0.7756030322	ultra low power
+0.7755586614	memristor crossbar
+0.7755142730	boolean functions
+0.7752941822	inter symbol interference
+0.7752721981	low latency
+0.7751600756	efficiently solve
+0.7742887297	max cut
+0.7741934283	memristor models
+0.7736987425	nano machines
+0.7736495740	worst case
+0.7736342272	mathematical models
+0.7726825443	solid state
+0.7723806965	data rate
+0.7721415675	low power
+0.7715310895	numerical simulations
+0.7708476204	stochastic computing
+0.7704772948	reconfigurable intelligent
+0.7702679012	toffoli gates
+0.7699481124	spin logic
+0.7697227426	state machine
+0.7690096820	research directions
+0.7689036024	real world
+0.7688052236	noisy intermediate scale
+0.7687712207	hard problems
+0.7685889920	memcomputing machines
+0.7682884177	quantum computers
+0.7670511842	molecular mimo
+0.7667548046	computational models
+0.7663855189	key exchange
+0.7655172898	data processing
+0.7654710816	edge computing
+0.7648315009	spin orbit
+0.7646109771	gate complexity
+0.7623503504	computing platforms
+0.7620602948	bit errors
+0.7617939326	energy efficiency
+0.7616736214	logic family
+0.7614824475	fixed point
+0.7599619739	state machines
+0.7599357693	cmos transistors
+0.7590881641	experimentally demonstrate
+0.7588045438	gate counts
+0.7583923408	additional inputs
+0.7573042238	emerging technologies
+0.7562174319	energy delay product
+0.7556332705	memristive devices
+0.7554380580	tunnel junctions
+0.7543159507	brain inspired computing
+0.7541996130	long term
+0.7535162672	pre processing
+0.7534147565	trade offs
+0.7527914867	data storage
+0.7515115396	tile assembly model
+0.7507196677	tile self assembly
+0.7506613960	transport networks
+0.7502435914	nano scale
+0.7502089754	technology mapping
+0.7495360782	multi layer
+0.7490899815	neuromorphic processor
+0.7490297159	optical interconnect
+0.7488896639	cross bar
+0.7477148585	information carriers
+0.7476806665	emerging technology
+0.7469081284	nonvolatile memory
+0.7469023756	resistive crossbar
+0.7466212184	gate set
+0.7454913008	high accuracy
+0.7452099895	logical operations
+0.7443596744	nm cmos
+0.7437826334	channel modeling
+0.7435302719	recent years
+0.7423519623	multi agent
+0.7422219852	low power consumption
+0.7421286322	circuit depth
+0.7412983783	np complete problems
+0.7408949774	dna computing
+0.7408656994	received signal
+0.7404572797	preliminary results
+0.7401500902	brain inspired
+0.7392635742	significant improvement
+0.7390291407	high resistance
+0.7385475101	high throughput
+0.7377766480	majority logic
+0.7377112582	spiking neuron
+0.7351742885	assembly model
+0.7340888408	analytical model
+0.7338969355	neuromorphic chip
+0.7329454543	classification accuracy
+0.7328644459	tile assembly
+0.7325706195	toffoli gate
+0.7319764323	noise based logic
+0.7318149475	combinatorial optimization problems
+0.7316891534	chip scale
+0.7312588996	leakage power
+0.7311964483	building blocks
+0.7309782437	division multiplexing
+0.7296581230	energy dissipation
+0.7279009092	stochastic switching
+0.7275524817	high performance
+0.7274540135	low voltage
+0.7270640449	bit error
+0.7264805101	main memory
+0.7254644073	chemical signal
+0.7251149085	numerical results
+0.7247154288	recently proposed
+0.7244755259	low level
+0.7241561123	quantum computation
+0.7221999823	physarum inspired
+0.7213042972	case study
+0.7210177415	input signal
+0.7207913068	post processing
+0.7204508386	xml
+0.7202264410	power efficiency
+0.7200905070	quantum dot cellular automata
+0.7195298887	single layer
+0.7190479830	optimization problems
+0.7186554156	reversible functions
+0.7185375581	diffusive molecular
+0.7179724606	memristor based
+0.7160628386	circuit elements
+0.7147886619	field programmable
+0.7145037837	information theoretic
+0.7133365444	ancilla free
+0.7128114215	power consumption
+0.7126831219	multi bit
+0.7125113428	gate count
+0.7123531735	technology node
+0.7122616823	artificial neuron
+0.7111775895	swap gates
+0.7107391196	deep neural
+0.7101272467	cmos technology
+0.7101064935	ieee
+0.7097459425	quantum circuits
+0.7087229891	mos
+0.7083802555	power dissipation
+0.7081769753	snp systems
+0.7079385290	synthesis algorithm
+0.7072849717	computing paradigm
+0.7066784356	based microfluidic
+0.7060403992	reversible gate
+0.7057731216	electronic circuits
+0.7056721190	binary optimization
+0.7056443010	orbit torque
+0.7050667380	slime mould physarum polycephalum
+0.7049936072	low complexity
+0.7049461477	proton
+0.7049447166	experimental results
+0.7047455808	abstract tile
+0.7044920920	processing in memory
+0.7044086170	low cost
+0.7043666472	satisfiability
+0.7039539174	exponentiation
+0.7034636740	energy consumption
+0.7031939871	synaptic weights
+0.7031152082	inference accuracy
+0.7029835895	computing platform
+0.7027082861	high density
+0.7026174925	full adder
+0.7018133603	high precision
+0.7015663111	multi level
+0.6999628540	reversible gates
+0.6983972582	red
+0.6978351640	ac
+0.6970127869	molecular programming
+0.6965473506	cancer
+0.6965261114	insertion
+0.6958945518	lower energy
+0.6950963891	food
+0.6950567423	artificial neural
+0.6948986957	networking
+0.6945005957	quantum mechanical
+0.6938654580	key distribution
+0.6931885683	ultra low
+0.6919728383	pauli
+0.6915252574	taking into account
+0.6914768975	station
+0.6910984035	cmos
+0.6906621386	clustering
+0.6905719830	white
+0.6898719425	drawing
+0.6885307072	glass
+0.6873630383	tile set
+0.6858013499	cluster
+0.6857184218	cpu
+0.6856624321	analog domain
+0.6854649132	optimal synthesis
+0.6854513371	international
+0.6853204845	deep convolutional neural
+0.6845721457	dc
+0.6844905072	emitting
+0.6844905072	gesture
+0.6844646392	kinetic
+0.6843153293	compressed
+0.6842178068	device level
+0.6840579176	lateral
+0.6834322858	processing speed
+0.6829499257	divider
+0.6829437843	circuit design
+0.6819191547	waste
+0.6818360414	dna
+0.6818100559	nano communication
+0.6812087416	recovery
+0.6809825767	memristor
+0.6807809920	tunneling
+0.6806343438	nano machine
+0.6798008231	microbial
+0.6796527049	symbolic
+0.6796173813	ram
+0.6795685572	false
+0.6795034605	eye
+0.6794682269	circuit level
+0.6785372283	digital microfluidic
+0.6784208704	fiber
+0.6779967212	tops
+0.6779684869	visual
+0.6774710189	consciousness
+0.6774664619	complementary metal oxide
+0.6773834026	ibm
+0.6769848466	polymorphic circuits
+0.6766645415	voronoi
+0.6766062659	bayesian
+0.6764192397	diode
+0.6764175668	genome
+0.6762372574	quantum information
+0.6761872810	touch
+0.6761872810	cortex
+0.6760540149	diffusion based molecular
+0.6759508292	sequencing
+0.6758696603	rfid
+0.6757160545	index
+0.6753388666	nets
+0.6752387538	extremely low
+0.6749492171	blood
+0.6747848501	compute in memory
+0.6747505030	aided
+0.6743517227	table
+0.6742798811	circuit designs
+0.6742706865	theorem
+0.6735506690	circuit element
+0.6733634241	electronic systems
+0.6729319867	algebraic
+0.6726631340	colony
+0.6724781779	wireless
+0.6723016123	tree
+0.6721495779	switched
+0.6716974575	mimo
+0.6716779636	internet of things
+0.6710871473	velocity
+0.6710057698	organization
+0.6709491202	communication systems
+0.6705966281	computing paradigms
+0.6704364516	beam
+0.6704364516	decoherence
+0.6704364516	symmetry
+0.6704197040	web
+0.6703868997	speech
+0.6700662731	memristive
+0.6693446037	ant
+0.6692211641	high dimensional
+0.6690338235	vlsi
+0.6690258012	unconstrained binary
+0.6683804338	lut
+0.6683134505	boolean
+0.6682669947	recent advances
+0.6682188266	pass
+0.6678292820	acquisition
+0.6674758288	efficient
+0.6672162012	truth
+0.6669794003	channel
+0.6668085496	magnetic
+0.6665164492	memory unit
+0.6663145245	gated
+0.6662715522	adc
+0.6661436273	networks
+0.6661121186	performance analysis
+0.6658338183	gaussian
+0.6650651971	personal
+0.6650651971	additive
+0.6650651971	comparative
+0.6648119238	impedance
+0.6648119238	augmented
+0.6648104988	hierarchy
+0.6647634529	road
+0.6646764150	physarum
+0.6643231226	high quality
+0.6642363496	ai
+0.6640421333	coating
+0.6639992715	equivalence
+0.6639366213	net
+0.6638721632	timing dependent plasticity
+0.6638043387	spice
+0.6636243441	directed
+0.6636223379	qubo
+0.6635929574	mosfet
+0.6635801689	engine
+0.6634388477	flash
+0.6634322255	ghz
+0.6632606885	identification
+0.6631004954	squared
+0.6631004954	regulatory
+0.6629799575	ris
+0.6629004186	partial
+0.6628998543	cr
+0.6627555107	checking
+0.6626905357	approach
+0.6623743538	iterative
+0.6623345518	qa
+0.6622739820	evolutionary
+0.6621520405	analog
+0.6616811678	sot
+0.6615244881	alignment
+0.6615077541	irs
+0.6615050031	ics
+0.6613287458	ip
+0.6612821855	organic
+0.6611874888	nand
+0.6611770791	binarized neural
+0.6611725358	cnot
+0.6610252014	inter symbol
+0.6608444266	video
+0.6605619515	turing
+0.6605561713	phy
+0.6604712733	game
+0.6601117662	fourier
+0.6600478400	text
+0.6599839817	proof of principle
+0.6595703333	md
+0.6595703333	ifc
+0.6593940314	markov
+0.6593218212	cloud
+0.6592041806	communication
+0.6591488808	fm
+0.6591046162	lstm
+0.6589904699	oscillator based
+0.6589876671	boltzmann
+0.6587246948	sfq
+0.6586376971	tensor
+0.6584348699	xor
+0.6583914755	gpu
+0.6579729427	dw
+0.6579587786	cnt
+0.6575761575	simulation results
+0.6575225640	film
+0.6572926832	dioxide
+0.6571572473	nc
+0.6571572473	dram
+0.6570815380	cnfet
+0.6569397899	optics
+0.6569397899	transitions
+0.6569113872	resistive
+0.6567833508	xnor
+0.6566403959	mnist
+0.6565985705	vmm
+0.6564759998	memory
+0.6561915087	tsp
+0.6561915087	dbn
+0.6561915087	pv
+0.6561915087	sos
+0.6561257115	figure
+0.6561257115	attenuation
+0.6561257115	production
+0.6561068647	fet
+0.6560964780	experimental
+0.6560618360	vehicles
+0.6560208253	learning
+0.6558848225	planning
+0.6557637569	polymorphic
+0.6555333969	rom
+0.6555173026	ion
+0.6554121035	model
+0.6553395226	optimization
+0.6553379879	multi
+0.6549925454	mc systems
+0.6548952954	aes
+0.6548751139	diodes
+0.6547520165	cz
+0.6546983640	atomic
+0.6545854648	orders of magnitude
+0.6545041842	hamiltonian
+0.6542641746	promising approach
+0.6542033876	radiation
+0.6541076964	rbm
+0.6538368447	subset sum
+0.6538112020	automata
+0.6537425006	random
+0.6536719348	hbc
+0.6536144525	onn
+0.6536144525	vlc
+0.6535825137	quantity
+0.6535825137	mobility
+0.6535825137	transportation
+0.6535825137	composite
+0.6534743817	site
+0.6533291212	synthesis
+0.6533271011	biological synapses
+0.6531119144	ilp
+0.6531089113	urban
+0.6530700573	chemistry
+0.6528520477	single qubit
+0.6528072050	snr
+0.6528065432	fusion
+0.6527802597	mixed signal neuromorphic
+0.6527417595	diffusive
+0.6527103014	artificial
+0.6525103972	biological neurons
+0.6524810869	htm
+0.6522872379	rpu
+0.6521013841	dimensionality
+0.6520204272	motor
+0.6520203499	semi
+0.6519720802	hpc
+0.6519720802	sttram
+0.6518535198	stt
+0.6518168088	logic
+0.6518035160	soft
+0.6514705009	mc
+0.6514354074	crn
+0.6512528175	failure
+0.6512528175	public
+0.6512528175	drop
+0.6512391433	snp
+0.6510194995	internet
+0.6509079503	fpga
+0.6508902207	coordination
+0.6508197927	nature
+0.6507962367	chapter
+0.6507891896	mechanics
+0.6506697391	reram
+0.6505532028	taking
+0.6505144760	communications
+0.6502251408	pim
+0.6501363780	hierarchical
+0.6499346842	msm
+0.6498275316	rn
+0.6498270833	np
+0.6497600121	receiver
+0.6496663233	swap
+0.6496359314	converter
+0.6494629692	binding
+0.6494576955	combinational
+0.6492166574	biologically
+0.6492082372	parity
+0.6492018519	design
+0.6491918088	social
+0.6491552723	fan
+0.6491449299	life
+0.6490801678	content
+0.6490773754	rc
+0.6489537463	sigmoid
+0.6488407743	pma
+0.6487870857	swarm
+0.6484665076	oriented
+0.6483656556	led
+0.6481096829	rf
+0.6480830930	molecular
+0.6479827909	implications
+0.6479459294	cam
+0.6479459294	st
+0.6478505165	capacitive
+0.6478110771	communication via diffusion
+0.6477896852	tcp
+0.6477896852	hp
+0.6477310254	nmr
+0.6476611628	computing
+0.6475568691	stochastic
+0.6474904783	cut
+0.6473461626	aqfp
+0.6473328084	qc
+0.6471896060	membrane
+0.6470933534	canonical
+0.6470462290	lnn
+0.6468573561	stam
+0.6468544192	input signals
+0.6467035167	li
+0.6461760350	algorithm
+0.6461359992	mram
+0.6459985678	ber
+0.6459657238	ann
+0.6458618487	reality
+0.6458274760	prime
+0.6456254356	deep
+0.6456063228	crs
+0.6455819012	lif
+0.6454869390	simulation
+0.6453125667	bz
+0.6452545671	balancing
+0.6452509040	puf
+0.6451056860	dac
+0.6451056860	gf
+0.6450660447	lyapunov
+0.6450501201	recurrent neural
+0.6450042653	tlg
+0.6449955109	preliminary
+0.6447317106	token
+0.6447317106	migration
+0.6446448457	eh
+0.6445559108	hybrid
+0.6443764066	matter
+0.6442314342	spherical
+0.6438360837	power
+0.6438169689	multiple input
+0.6438140008	mca
+0.6437969018	compression
+0.6437485533	rpga
+0.6436137652	signal machine
+0.6435990821	strand
+0.6434321048	software
+0.6434241141	integrated
+0.6433922179	analysis
+0.6433093163	algebra
+0.6431148246	qnn
+0.6430583977	mqc
+0.6430091132	neural network architectures
+0.6429876371	nanotechnology
+0.6429534774	ising
+0.6428978397	parallel
+0.6428493510	shor's
+0.6426957812	neuromorphic
+0.6425797277	laws
+0.6423981351	physical qubits
+0.6423390841	quantum circuit
+0.6422301685	electron
+0.6420521775	asic
+0.6420125421	experience
+0.6420108053	clifford
+0.6418248591	filter
+0.6417340660	recent
+0.6416648051	logic circuits
+0.6416513872	nano
+0.6414945754	coefficient
+0.6414945754	walk
+0.6414857357	sm
+0.6414857357	tsv
+0.6414857357	eeg
+0.6414262736	pixel
+0.6413132718	volatile memory
+0.6411809669	applying
+0.6411082341	admm
+0.6409469218	hardware implementation
+0.6408242214	sim
+0.6406174493	resonance
+0.6405523016	fft
+0.6400007616	machine
+0.6398581548	characterization
+0.6397897941	fractional
+0.6396640559	matlab
+0.6396484863	received
+0.6395577393	fluctuations
+0.6395250145	unsupervised
+0.6394266533	master
+0.6394221994	nuclear
+0.6393475486	cad
+0.6391744555	cir
+0.6390556010	adiabatic
+0.6390165295	proof of concept
+0.6388463769	physical
+0.6388458980	lc
+0.6387934601	nonvolatile
+0.6386903957	reversible computation
+0.6385882277	thermodynamic
+0.6385830035	reversible
+0.6383910211	mt
+0.6383314685	brain
+0.6380619253	reverse
+0.6380203760	absorbing
+0.6380201198	water
+0.6377678113	vertical
+0.6376477495	curve
+0.6376003847	hd
+0.6376003847	ict
+0.6374421821	variational
+0.6369085243	circuits
+0.6368004027	nlos
+0.6367573501	wavelength
+0.6367478340	directions
+0.6365249629	qaoa
+0.6364914566	hall
+0.6364091318	diffusion
+0.6363044281	ph
+0.6360852537	computers
+0.6357374268	spiking
+0.6355020201	boundary
+0.6351688077	gates
+0.6351184107	flops
+0.6350211216	service
+0.6349977094	adder
+0.6349194643	spin
+0.6348581238	bio
+0.6348527947	sat
+0.6347233867	ml
+0.6346867420	gan
+0.6344241683	cifar
+0.6343308316	lattice
+0.6342020506	mtj
+0.6341939761	ambient
+0.6340990135	conversion
+0.6340904176	square
+0.6338907498	architecture
+0.6335762123	device
+0.6334758404	logic operations
+0.6332238309	inverse
+0.6331814401	mlp
+0.6329218352	event
+0.6328524398	transform
+0.6327736048	spike timing
+0.6325920704	binarized
+0.6325718057	asymptotic
+0.6325718057	operator
+0.6322867480	muller
+0.6321210167	image
+0.6318937152	memristive networks
+0.6315430248	qubit
+0.6315092062	noise
+0.6314545864	kinetics
+0.6314545864	integrity
+0.6314169809	computational
+0.6312458441	closed
+0.6312164876	quantum dot
+0.6311367324	bit
+0.6310759628	biomedical
+0.6310476671	flux
+0.6308876369	stress
+0.6306402597	weighted
+0.6306190229	error
+0.6302926323	reaction network
+0.6302718526	harmonic
+0.6301824419	microfluidic
+0.6300808495	intelligent
+0.6297806804	information
+0.6296630920	tx
+0.6296113590	state
+0.6295845499	context
+0.6294696026	mtj based
+0.6292634587	linear
+0.6291006447	read and write
+0.6290519994	fuzzy
+0.6290399720	nn
+0.6289745694	bnn
+0.6289344446	load
+0.6289095427	carrier
+0.6288682340	availability
+0.6288213780	electrode
+0.6287103862	circuit
+0.6286381062	parametric
+0.6286381062	landscape
+0.6286381062	organism
+0.6285227964	encoded
+0.6284869296	flop
+0.6284697195	tile
+0.6284521474	quantum annealing
+0.6283871456	intermediate
+0.6283553624	medical
+0.6283526139	gate
+0.6278881278	signal
+0.6278279588	optoelectronic
+0.6277271911	lab
+0.6276778351	computing systems
+0.6276761930	shifts
+0.6275675340	drift
+0.6274418922	valued
+0.6273541221	digital memcomputing
+0.6272826514	optimization algorithm
+0.6272682285	vision
+0.6270408698	maximum
+0.6269371638	diagrams
+0.6269371638	genetic
+0.6267419463	majority
+0.6267399638	capacitance
+0.6267336875	digital
+0.6266888396	data
+0.6266454706	opportunities
+0.6265906370	root
+0.6265486109	mac
+0.6265236392	long
+0.6264703126	memory elements
+0.6262831861	media
+0.6262786829	central
+0.6262602929	neuroscience
+0.6261607047	programmable
+0.6260066669	rm
+0.6259493436	high level
+0.6257314321	immune
+0.6254789938	low energy
+0.6254352430	energy
+0.6254056485	inspired
+0.6253282327	problem
+0.6253013271	practice
+0.6252418399	numerical
+0.6251350555	enzymes
+0.6250437958	convolutional neural
+0.6249533124	vector
+0.6248314434	network
+0.6247528276	normal
+0.6243985644	quantum state
+0.6242627213	realizing
+0.6241677125	era
+0.6240811699	function
+0.6240491601	garbage
+0.6239418797	asynchronous
+0.6239418797	rapid
+0.6239418797	formation
+0.6236266600	quantum algorithms
+0.6235395746	devices
+0.6235359192	chemical
+0.6234115756	algorithms
+0.6234032039	pattern
+0.6232867551	route
+0.6232654202	input
+0.6232436967	junction
+0.6231991149	action
+0.6230942171	static
+0.6230879611	theory
+0.6230297189	primary
+0.6229373900	lower power
+0.6229354656	mu
+0.6228796919	complexity
+0.6227875303	phase
+0.6225877576	generators
+0.6225806430	supported
+0.6225806430	likelihood
+0.6225239884	convex
+0.6224947820	multiple output
+0.6224382935	translation
+0.6224382935	aspect
+0.6224382935	significance
+0.6224381163	strong
+0.6222768583	processing
+0.6221726223	temperature
+0.6219678314	performance
+0.6219477832	level
+0.6219064470	kirchhoff
+0.6216318734	leaky integrate
+0.6215756058	ring
+0.6214385804	message
+0.6214385804	format
+0.6213363297	effect
+0.6213195328	industry
+0.6213076981	adders
+0.6212304919	rx
+0.6210324804	secure
+0.6209098142	arrays
+0.6208684035	complementary
+0.6206827275	memcomputing
+0.6206655373	omega
+0.6204197334	cim
+0.6204162993	johnson noise
+0.6203488371	finite
+0.6203409778	sensitive
+0.6201040859	pcm
+0.6199792184	utilizing
+0.6199716158	evolution
+0.6198250608	ic
+0.6197733872	optical
+0.6197078204	cellular
+0.6194979872	kljn
+0.6193792184	prior
+0.6193731758	monte
+0.6191006717	secondary
+0.6190726460	reconfigurable
+0.6189146125	building
+0.6189006239	existing approaches
+0.6186874892	study
+0.6186793658	technology
+0.6186516709	ms
+0.6186281812	synaptic
+0.6186130221	input data
+0.6185977297	surfaces
+0.6185142971	nisq
+0.6181630316	activation
+0.6181464537	detailed
+0.6180528329	uniform
+0.6180083687	motion
+0.6178946074	survey
+0.6178481242	crossbar
+0.6178402406	single
+0.6178259454	systems
+0.6176688468	liquid
+0.6174923154	reram based
+0.6171960486	hidden
+0.6171755823	moore's
+0.6170378256	modular
+0.6169271921	al
+0.6169016208	actin
+0.6168208166	binary
+0.6168122027	particle based
+0.6167534280	key
+0.6167159220	semiconductor
+0.6167127869	biological
+0.6166511956	cnn
+0.6166235252	reservoir
+0.6166178817	enabled
+0.6163075518	toffoli
+0.6159600832	hardware
+0.6157098006	population
+0.6157042468	block
+0.6155824228	introduction
+0.6155612023	results
+0.6154673116	laboratory
+0.6154349201	electronic devices
+0.6154148700	amplifier
+0.6151644139	sensitivity
+0.6150424211	languages
+0.6149043464	quantum logic
+0.6148922692	pump
+0.6148540648	generalized
+0.6145278323	allocation
+0.6145137496	all spin
+0.6144831828	photonic reservoir
+0.6144742197	neural
+0.6144338147	verification
+0.6143976358	transistors
+0.6141840406	topological
+0.6137853771	introducing
+0.6137036153	division
+0.6136849964	oxram
+0.6135769521	symbol
+0.6130867966	global
+0.6130838980	window
+0.6130581699	implementation
+0.6126845482	computation
+0.6126242310	explicit
+0.6126145388	voltage
+0.6125348813	storage
+0.6122443223	sram
+0.6120483331	ubiquitous
+0.6119988033	stdp
+0.6119747730	real
+0.6119115659	source
+0.6119025161	density
+0.6116757663	deep networks
+0.6116699798	electronic
+0.6116421422	regression
+0.6114528234	noc
+0.6111790358	strongly
+0.6107418556	potentials
+0.6106629369	in memory computing
+0.6106087067	simple
+0.6101805055	grid
+0.6100155926	pair
+0.6095864759	fixed
+0.6094147345	simulations
+0.6091713736	automated
+0.6091653782	classification tasks
+0.6091369961	online
+0.6091011850	dnn
+0.6090699545	tolerance
+0.6089885329	application level
+0.6087921926	framework
+0.6087763242	recurrent
+0.6086969265	competitive
+0.6086620909	gradient
+0.6085085254	fundamental
+0.6084374446	magnetic domain
+0.6084153650	science
+0.6084025288	temporal
+0.6083550367	timing
+0.6083448359	classification
+0.6083286126	ca
+0.6083089449	field
+0.6080840306	neurons
+0.6080260556	basic
+0.6079936099	non volatile memories
+0.6078806617	estimation
+0.6077902543	sc
+0.6077769190	metal
+0.6076434079	human
+0.6075916091	achievable
+0.6075427781	variant
+0.6074560095	order of magnitude
+0.6073436845	mechanical
+0.6073436845	readout
+0.6072956066	rate
+0.6071278085	reasoning
+0.6071178202	potential
+0.6070981142	moving
+0.6070528580	high
+0.6068754205	sensor
+0.6068428375	chip
+0.6067755253	surface
+0.6067487747	accelerate
+0.6066110890	matrix
+0.6065849861	oxide
+0.6065838634	past
+0.6065777848	data rates
+0.6065549947	based
+0.6064636962	overview
+0.6064330729	radio
+0.6064198122	intelligence
+0.6063411961	force
+0.6063411961	condition
+0.6063411961	distortion
+0.6063139086	automaton
+0.6062933848	comparison
+0.6061310273	language
+0.6057851102	smart
+0.6055524677	energy cost
+0.6054076351	foundation
+0.6053025676	law
+0.6052660215	generation
+0.6052335395	controller
+0.6051557042	gate level
+0.6051353413	relaxation
+0.6051353413	permutation
+0.6050816763	current voltage
+0.6050500204	universal
+0.6048940303	anns
+0.6048702733	crns
+0.6046641428	mass
+0.6046140703	monitoring
+0.6045810836	depth
+0.6044789903	array
+0.6043361582	cnns
+0.6042447918	boards
+0.6042447918	crystal
+0.6042422004	reversible circuit
+0.6039965254	post
+0.6039425565	paper presents
+0.6036902472	unconventional
+0.6036809362	junctions
+0.6036791705	differential
+0.6036788538	isi
+0.6036487090	solving
+0.6036333590	cost
+0.6036280358	finding
+0.6035459970	photonic
+0.6035105155	compute
+0.6034919835	general
+0.6034550617	statistical
+0.6034358447	oscillator
+0.6033943108	depending
+0.6033040636	starting
+0.6031992105	product
+0.6030957023	low
+0.6029923411	multilayer
+0.6027549499	search
+0.6027186470	collective
+0.6027058774	mcvd
+0.6022631862	exploiting
+0.6020507995	definition
+0.6017982694	transistor
+0.6015829681	dmms
+0.6015291317	sequential
+0.6014882124	ap
+0.6014170076	bob
+0.6012849853	digital logic
+0.6012758080	entire
+0.6012429323	restricted
+0.6012089498	curves
+0.6010874769	transfer
+0.6010448971	mrams
+0.6010448971	phys
+0.6009615370	switch
+0.6009524557	generic
+0.6009072152	architectures
+0.6008628241	convolutional
+0.6007956446	target
+0.6005806580	barrier
+0.6004931506	experiment
+0.6004916120	synthesis methods
+0.6004400691	difference
+0.6003446332	fault
+0.6003143075	packet
+0.6002113098	logic functions
+0.6001040410	machines
+0.6000608660	diffusion based
+0.5998182509	qubits
+0.5998065229	classical
+0.5995030687	recently
+0.5994653244	faster
+0.5994541302	accelerator
+0.5991191989	method
+0.5990960121	path
+0.5990192714	brainscales
+0.5990192714	finfets
+0.5988284274	diagram
+0.5986912918	maintaining
+0.5986233207	scattering
+0.5985045493	models
+0.5984729849	automatic
+0.5983829398	nvm
+0.5983074103	potentiation
+0.5981663137	carbon
+0.5981514333	noisy intermediate scale quantum
+0.5979760733	memory cells
+0.5978859478	threshold
+0.5978300487	commercial
+0.5978300487	stack
+0.5976406200	spike timing dependent
+0.5974269599	gb
+0.5974235411	set
+0.5973859691	realization
+0.5972040290	superconducting
+0.5971237890	paradigm
+0.5970777329	comprehensive
+0.5970777329	store
+0.5969893936	edge
+0.5969126205	insight
+0.5969126205	magneto
+0.5968860152	field effect
+0.5967622668	distributions
+0.5964866030	maze
+0.5963476305	neighbor
+0.5961502853	wave
+0.5959831894	case
+0.5958538697	transmitter
+0.5955365152	automation
+0.5954372615	bnns
+0.5954189767	approximate
+0.5953151855	symmetric
+0.5952335353	practical applications
+0.5951804183	neuron
+0.5949815597	controlled
+0.5949127733	point
+0.5948413842	output
+0.5947882059	retention
+0.5947882059	object
+0.5947721374	emerging
+0.5946940256	board
+0.5946611212	suite
+0.5946381740	things
+0.5945929608	rrams
+0.5945260510	scalable
+0.5945237090	composition
+0.5944416733	access
+0.5943420602	motivated
+0.5941971697	snn
+0.5941748666	particle
+0.5940770446	geometry
+0.5940623862	working
+0.5940244247	graph
+0.5937487404	fefet
+0.5936951111	adcs
+0.5936148735	modulation
+0.5935666566	train
+0.5933935930	self organizing
+0.5933754054	optimal
+0.5931697262	nvms
+0.5930995932	resistive random access
+0.5930894090	speed
+0.5929642104	neumann
+0.5929571900	accuracy
+0.5929357550	experimental data
+0.5928960162	testing
+0.5927172482	clock
+0.5926810587	body
+0.5926478185	coupled
+0.5926162631	analog digital
+0.5925972003	physical systems
+0.5923899700	style
+0.5923526303	distributed
+0.5923460406	echo
+0.5921768144	inter
+0.5921007583	planar
+0.5921007583	acceleration
+0.5916636961	organizing
+0.5915292617	synthetic
+0.5914302589	end to end
+0.5913729936	formal
+0.5913094499	band
+0.5911971697	rram
+0.5911878658	place
+0.5911635550	induced
+0.5910906098	flow
+0.5910538372	spectrum
+0.5910404258	millimeter
+0.5909531259	linearity
+0.5909069808	achieving
+0.5908539091	applications
+0.5907454872	inference
+0.5906696805	recognition
+0.5906658267	polycephalum
+0.5905564453	weak
+0.5904365109	unitary
+0.5902433839	polynomial
+0.5899201661	modeling
+0.5898906988	property
+0.5898450921	logical
+0.5897546306	memristors
+0.5897507881	rule
+0.5896762391	hadamard
+0.5896762391	google
+0.5896242667	pareto
+0.5896242667	verilog
+0.5896242667	quipper
+0.5896242667	shannon
+0.5896211031	size
+0.5896166521	vo2
+0.5896033350	body communication
+0.5892470079	onns
+0.5892090288	bitcoin
+0.5891763665	footprint
+0.5891763665	travelling
+0.5891667845	selection
+0.5891087905	correction
+0.5890183105	battery
+0.5890138758	non boolean
+0.5888768766	tim
+0.5888731178	large
+0.5887611559	switching
+0.5885227000	iv
+0.5883657685	implementing
+0.5881763307	hard
+0.5881472015	transmission
+0.5877575705	abstract
+0.5877431148	harvesting
+0.5876605789	thz
+0.5875661022	free
+0.5875315836	read
+0.5875304252	dissipation
+0.5875022656	perceptron
+0.5874995138	multiple
+0.5874427700	riss
+0.5874427256	gene
+0.5874427256	printed
+0.5873804457	response
+0.5873330562	cognitive
+0.5871973177	nns
+0.5871806335	delay
+0.5869445507	tunnel
+0.5869149624	inherent
+0.5866992010	dynamic
+0.5866783783	arm
+0.5866550060	processor
+0.5865995234	matrices
+0.5864923739	tio2
+0.5864889970	management
+0.5864206641	computational cost
+0.5859324181	cnfets
+0.5857803470	combinatorial
+0.5856872654	qca
+0.5856863773	electrical
+0.5854738069	prototype
+0.5854646273	base
+0.5852724500	qiskit
+0.5851513391	concentration
+0.5850850515	organisms
+0.5847502857	associative
+0.5846618757	plane
+0.5846014873	conventional
+0.5845792241	current
+0.5845569458	echo state
+0.5844819193	transmitter and receiver
+0.5844125273	lms
+0.5844064573	enhance
+0.5843630272	snns
+0.5842844227	reflection
+0.5841176860	functions
+0.5840869160	channel models
+0.5840868326	scale integration
+0.5839111701	channels
+0.5836576571	hamiltonians
+0.5835967774	charge based
+0.5834399762	spintronic
+0.5834214694	computational power
+0.5834213037	plasticity
+0.5832338131	hardware implementations
+0.5829528159	iot
+0.5828146675	defined
+0.5827392868	mapping
+0.5827022532	loop
+0.5826800213	objective
+0.5826737321	application
+0.5825433211	cycle
+0.5825220432	filaments
+0.5824296486	ambsat
+0.5823989200	programs
+0.5822979058	ultra
+0.5822705771	inspiration
+0.5822705771	consequence
+0.5821770956	employing
+0.5821258380	reactions
+0.5821258380	combined
+0.5820055819	von neumann computing
+0.5818614944	exploration
+0.5817038319	learn
+0.5816794489	reset
+0.5814821078	sum
+0.5811772261	information molecules
+0.5811315699	the kirchhoff law johnson
+0.5809064861	pathways
+0.5809064861	similarity
+0.5809064861	periodic
+0.5808970135	development
+0.5808277048	spike
+0.5806338477	antenna
+0.5805048487	factor
+0.5804127080	users
+0.5803881503	architectural
+0.5803225929	species
+0.5802648439	engineering
+0.5802492568	domain
+0.5800824490	gpus
+0.5799761950	cache
+0.5799400653	interconnects
+0.5799094835	environmental
+0.5796565947	assembled
+0.5796300647	integer
+0.5796041313	silicon
+0.5794963662	topology
+0.5794383697	minimum
+0.5793841829	biological neural
+0.5792728717	oscillatory
+0.5791439302	transition
+0.5791108927	systematic
+0.5791108927	pairs
+0.5790413111	fredkin
+0.5790157338	tests
+0.5789583379	transformation
+0.5787909626	face
+0.5787720818	scale
+0.5787265095	ii
+0.5786409811	signaling
+0.5784293533	pufs
+0.5783994883	mobile
+0.5782950689	cpus
+0.5782764379	wigig
+0.5782430081	fidelity
+0.5782134490	dynamical
+0.5781674495	terminal
+0.5781464024	constraint
+0.5780602264	measurement
+0.5780210258	ultra high
+0.5779416527	run
+0.5776709095	verified
+0.5775538419	clear
+0.5774803672	gap
+0.5772394562	effective
+0.5769049592	reference
+0.5767639233	wall
+0.5767306852	mixed
+0.5767002430	problems
+0.5766883535	independent
+0.5766883535	sampling
+0.5765383452	green
+0.5765383452	polarized
+0.5765383452	opportunistic
+0.5763778996	analog computation
+0.5763316662	ibm's
+0.5763304822	advanced
+0.5760769556	artificial neurons
+0.5759739418	epsilon
+0.5759700845	security
+0.5759400717	progress
+0.5759228781	programming
+0.5758301358	cm
+0.5757697821	torque
+0.5756240606	memory array
+0.5755590636	nocs
+0.5755590636	fets
+0.5755228738	multiplexing
+0.5754382430	volatile
+0.5753512638	magnetoresistive
+0.5753512638	persistent
+0.5752189279	dependent
+0.5751606486	derived
+0.5750441871	josephson
+0.5750035932	world
+0.5749723722	detection
+0.5748514093	wide
+0.5746340620	an open source
+0.5746053782	deliver
+0.5746053782	agreement
+0.5746053782	relationship
+0.5745868706	grover's
+0.5745830867	description
+0.5745409789	biological systems
+0.5744693448	skybridge
+0.5744693448	lastly
+0.5744693448	mhz
+0.5744366860	additionally
+0.5744329283	research
+0.5743342215	mtjs
+0.5742267734	compact
+0.5742167842	address
+0.5741435257	denoising
+0.5741435257	cube
+0.5741435257	shaping
+0.5740572674	control
+0.5738443938	resolution
+0.5737874582	infinite
+0.5737842662	dynamics
+0.5737730853	d2d
+0.5737109768	synapses
+0.5735350459	double
+0.5735350459	emulation
+0.5735087328	open
+0.5734319539	shift
+0.5734236619	complete
+0.5734054484	cell
+0.5733638331	ideal
+0.5733598196	proposal
+0.5732770652	efficient solution
+0.5732647041	feedback
+0.5731902714	p systems
+0.5731455867	annealer
+0.5730657225	parasitic
+0.5727766049	focusing
+0.5727766049	duplex
+0.5726565489	supremacy
+0.5724145877	code
+0.5723721080	paradigms
+0.5723596750	searches
+0.5723596750	sigma
+0.5718395388	slime
+0.5717340711	type
+0.5715818454	light
+0.5715191806	validity
+0.5715191806	freedom
+0.5713875141	mitigate
+0.5713565731	final
+0.5712566075	synaptic devices
+0.5711833416	adaptive
+0.5707435554	cytoskeleton
+0.5707435554	homeostatic
+0.5707435554	obfuscation
+0.5707435554	implantable
+0.5707435554	brains
+0.5707435554	perception
+0.5707435554	race
+0.5707435554	transferring
+0.5707435554	prospects
+0.5707435554	macro
+0.5707435554	metamaterial
+0.5707046544	unlike
+0.5706586233	cryogenic
+0.5706586233	interactive
+0.5706586233	mirror
+0.5706586233	multiplexer
+0.5706586233	nanophotonics
+0.5706586233	biochemical
+0.5706586233	modulator
+0.5706586233	decentralized
+0.5705979146	massively
+0.5704732555	physics
+0.5704303990	proposed
+0.5703898932	tool
+0.5702225847	conventional cmos
+0.5702039120	fragments
+0.5701254410	memory technologies
+0.5700955350	determine
+0.5699674887	common
+0.5699185345	magic
+0.5698482301	noisy
+0.5698455024	wired
+0.5698340254	assembly
+0.5697943088	localization
+0.5697914085	proof
+0.5697555309	sensing
+0.5697031961	change
+0.5695654254	cortical
+0.5694803729	analytical
+0.5692734993	shortest
+0.5692673191	developments
+0.5692251007	living
+0.5692104112	nano devices
+0.5690564773	environment
+0.5689303979	smaller
+0.5689217691	coloring
+0.5689165828	expression
+0.5687463296	practical
+0.5687061071	parameterized
+0.5685963490	sensor networks
+0.5685209709	agent
+0.5684431957	multiplier
+0.5682131261	coding
+0.5681943865	split
+0.5680170460	natural
+0.5680071691	optimized
+0.5679615506	state of art
+0.5678344415	modified
+0.5676847870	neurons and synapses
+0.5676687880	behavior
+0.5675106458	major
+0.5673387409	owing
+0.5671915546	minor
+0.5670640718	number
+0.5667540635	principle
+0.5665652849	efficiency
+0.5665297358	utility
+0.5665297358	lies
+0.5665127287	quantum dot cellular
+0.5664377604	navigation
+0.5664377604	sigmoidal
+0.5661504212	maintain
+0.5661504212	interpretation
+0.5659998050	virtual
+0.5659458980	variation
+0.5658991481	unit
+0.5658752535	debugging
+0.5658051365	future
+0.5657714401	referred
+0.5654999101	assembling
+0.5654744317	python
+0.5652975861	graphene
+0.5651406521	trends
+0.5651406521	adversarial
+0.5650914496	complex
+0.5650500889	collection
+0.5650416953	maximize
+0.5650416953	synthesize
+0.5649992445	metasurfaces
+0.5649992445	metastable
+0.5649992445	mitigating
+0.5649992445	contrary
+0.5647370118	cmos memristor
+0.5646052814	spintronics
+0.5644960313	music
+0.5644308862	affected
+0.5643833733	nm
+0.5641282840	hebbian
+0.5638709687	arbitration
+0.5638390914	memristor model
+0.5637930005	digits
+0.5634835371	marbles
+0.5632861180	integrating
+0.5632861180	fashion
+0.5632534017	pi
+0.5631409556	blockchain
+0.5630109936	approximation
+0.5628783410	stacked
+0.5628783410	skyrmions
+0.5628783410	enhancing
+0.5628783410	camera
+0.5628284774	fungal
+0.5626922602	entanglement
+0.5625230040	extended
+0.5625031469	existing
+0.5624218459	active
+0.5624212948	variance
+0.5623385628	replace
+0.5621729426	challenges
+0.5620051806	solution
+0.5619071179	waveguide
+0.5618930631	training
+0.5614386187	noise ratio
+0.5609926648	terahertz
+0.5609829579	crossbars
+0.5609748529	designing
+0.5608771781	pin
+0.5608653921	accelerated
+0.5607693006	full adders
+0.5605139189	generative
+0.5604544474	dnns
+0.5603066333	operations
+0.5602694703	optimizations
+0.5602504584	fabric
+0.5602504584	injection
+0.5602504584	primitives
+0.5601411581	depend
+0.5601411581	generalization
+0.5601280594	carlo simulations
+0.5600830988	short
+0.5600429254	supply
+0.5599689238	discussion
+0.5599689238	universality
+0.5599689238	approximating
+0.5599689238	reflecting
+0.5598856955	beamforming
+0.5598856955	leeches
+0.5598856955	aiming
+0.5598568268	passing
+0.5598568268	governed
+0.5597894339	limitations
+0.5597302354	previous
+0.5596987555	additional
+0.5595804453	fast
+0.5595549998	event based
+0.5595543063	sequence
+0.5595287993	arbitrary
+0.5594238164	nanonetwork
+0.5594163281	initial
+0.5593075309	paper
+0.5592812827	heavy
+0.5592812827	execute
+0.5592751019	presence
+0.5592695925	accelerating
+0.5592361188	fractals
+0.5591932633	platform
+0.5588718639	millions
+0.5588718639	amenable
+0.5587028714	principles
+0.5585821598	counts
+0.5583530286	ferroelectric
+0.5583530286	exclusive
+0.5582424162	multiplication
+0.5579560184	significant
+0.5576733326	nonlinear
+0.5576544304	preserving
+0.5576544304	mutual
+0.5576544304	max
+0.5575833281	magnetoelectric
+0.5575833281	tactile
+0.5575833281	unclonable
+0.5575823297	difficulty
+0.5574659812	belief
+0.5573028036	module
+0.5573014567	von
+0.5572137392	developing
+0.5571849787	anisotropy
+0.5571849787	unconstrained
+0.5571432916	perceptrons
+0.5571255349	ancilla
+0.5569742594	scheme
+0.5568476813	learning tasks
+0.5568249780	area
+0.5564151344	visible
+0.5563913424	partitioning
+0.5562270036	alternative
+0.5561807887	group
+0.5561713397	true
+0.5561491866	factoring
+0.5558322367	capacitor
+0.5557874698	feed
+0.5557874698	accounting
+0.5557778686	experiments
+0.5556001922	process
+0.5555578438	usage
+0.5554450207	assisted
+0.5554399048	distance
+0.5553644323	attempt
+0.5553184487	implement
+0.5552978430	dots
+0.5552978430	comprised
+0.5552874698	elliptic
+0.5552830068	decision
+0.5551232303	matching
+0.5550869460	consisting
+0.5550066997	protocol
+0.5549797481	reduction
+0.5547423447	subtractor
+0.5546901992	emulating
+0.5546434975	exploring
+0.5544756718	methods
+0.5543579610	sufficient
+0.5543249793	interference
+0.5542861818	subject
+0.5542845397	toggle
+0.5541936368	bacterial
+0.5541936368	numerous
+0.5541540192	hypervectors
+0.5540560960	quality
+0.5540303112	d wave
+0.5539717255	technologies
+0.5538692548	order
+0.5538178322	intra
+0.5537801787	crosstalk
+0.5537669085	network architecture
+0.5537407410	benchmarking
+0.5537407410	joint
+0.5536664381	bounds
+0.5536538737	continuous
+0.5536116225	demand
+0.5535973618	multipliers
+0.5535009398	converters
+0.5535009398	forecasting
+0.5534929544	weight
+0.5533989080	ambipolar
+0.5533640088	date
+0.5532874698	sqrt
+0.5532200286	importantly
+0.5531884471	trap
+0.5531884471	accumulate
+0.5531884471	compiling
+0.5531476256	monolithic
+0.5530959339	analog to digital
+0.5530879205	mimic
+0.5529425561	workshop
+0.5528874221	mould
+0.5527686949	counting
+0.5527284955	integration
+0.5525564237	enhanced
+0.5525564237	leveraging
+0.5523612650	specific
+0.5521500832	resilient
+0.5519739185	orientation
+0.5519739185	separation
+0.5519391093	quantized
+0.5519391093	reconstruction
+0.5516298517	release
+0.5515888234	big
+0.5514767579	excited
+0.5513850100	microwave
+0.5513850100	alternating
+0.5512156943	implemented
+0.5511857488	encode
+0.5511692541	authentication
+0.5508763661	characteristic
+0.5508304877	write
+0.5508254247	reactive
+0.5507638135	comparable
+0.5507536393	delta
+0.5506438471	million
+0.5504191969	resistance state
+0.5503870544	small
+0.5503278098	cooperative
+0.5502925691	combination
+0.5502191908	composed
+0.5501606496	resiliency
+0.5501606496	amoebot
+0.5501606496	ideally
+0.5501606496	repair
+0.5501606496	initially
+0.5500644990	fully
+0.5500050109	carriers
+0.5499251752	absence
+0.5499072344	mesh
+0.5498949375	offered
+0.5497084220	implication
+0.5496242857	insulator
+0.5494518183	deterministic
+0.5493982834	pseudo
+0.5493895942	driven
+0.5493551287	main
+0.5492426415	lot
+0.5492312716	equilibrium
+0.5490201620	emergence
+0.5488176955	line
+0.5484061076	making
+0.5482782536	memories
+0.5481089075	hierarchical temporal
+0.5480768835	synthesizing
+0.5480768835	electro
+0.5480460548	simultaneous
+0.5479323105	traditionally
+0.5479323105	imperfect
+0.5479323105	plausible
+0.5478461384	extreme
+0.5478461384	imaging
+0.5477897300	contrast
+0.5477766340	compatible
+0.5477446880	configurable
+0.5474078542	leakage
+0.5473674623	improvement
+0.5471368571	mitigation
+0.5469878865	average
+0.5469157298	sparse
+0.5468180199	multimode
+0.5468180199	similarly
+0.5468180199	bridging
+0.5466526690	comparisons
+0.5464810915	fine
+0.5458395023	tubes
+0.5458116363	dot
+0.5457982889	evaluations
+0.5457982889	nanonetworks
+0.5456390212	operating
+0.5454650319	iii
+0.5454157076	pre
+0.5453484924	thermal
+0.5453265409	molecular communication systems
+0.5452972057	propagation
+0.5450018189	sample
+0.5447767558	deal
+0.5447478995	power efficient
+0.5446425438	convolution
+0.5442182667	errors
+0.5442061276	focused
+0.5442061276	turn
+0.5441430425	astrocytes
+0.5441430425	fingerprinting
+0.5441430425	thermodynamics
+0.5441430425	engines
+0.5441430425	nanophotonic
+0.5441430425	breaking
+0.5441430425	transforms
+0.5441430425	bidirectional
+0.5441128375	exploited
+0.5440606561	annealing
+0.5437074255	reaction
+0.5436930812	ternary
+0.5435010686	produce
+0.5433762833	distribution
+0.5432035131	custom
+0.5431105030	applicability
+0.5430754462	multiply
+0.5430754462	subsequently
+0.5430486578	mode
+0.5428869611	facilitate
+0.5428272059	spatio
+0.5428239418	extract
+0.5428194264	add
+0.5427063137	influence
+0.5427063137	characterized
+0.5427063137	meet
+0.5425424469	space
+0.5425379510	fields
+0.5424791889	asymptotically
+0.5423432719	frequency
+0.5422705888	viable
+0.5420946473	states
+0.5417863584	traffic
+0.5416854784	combining
+0.5416605385	results obtained
+0.5415668065	rates
+0.5415374706	precision
+0.5415271406	spike based
+0.5413478124	decrease
+0.5413044009	attempts
+0.5412571030	longer
+0.5410988669	dimensional
+0.5410988561	weights
+0.5409996065	efficacy
+0.5409996065	amounts
+0.5409865229	bits
+0.5408619875	demonstrate
+0.5406753541	volatility
+0.5406753541	creation
+0.5406405250	qubit gates
+0.5406305002	manipulation
+0.5406203442	device to device
+0.5405480855	electronics
+0.5401147927	results demonstrate
+0.5400667992	area and power
+0.5400477462	deployment
+0.5399937019	classic
+0.5397630574	backpropagation
+0.5397630574	wearable
+0.5397526072	detect
+0.5397351216	qutrits
+0.5397351216	client
+0.5397351216	eigenvalue
+0.5397351216	spread
+0.5397351216	century
+0.5397050607	geometric
+0.5396684723	enhancement
+0.5396222636	forward
+0.5396104781	slime mould physarum
+0.5396097610	purpose
+0.5395021404	lines
+0.5394135139	spikes
+0.5392106256	instruction
+0.5391257340	act
+0.5391071992	view
+0.5390582443	discrete
+0.5390507170	entangling
+0.5390507170	chains
+0.5390507170	investigation
+0.5388297921	cells
+0.5387609984	limited
+0.5386605458	note
+0.5386600662	question
+0.5385433029	addressable memory
+0.5385172409	instance
+0.5385172409	determined
+0.5384482022	bandwidth
+0.5384474074	probability
+0.5382183445	today's
+0.5382183445	collision
+0.5382183445	extension
+0.5382183445	minimization
+0.5382078376	performance and energy
+0.5381487607	t gate
+0.5380091428	dual
+0.5378889313	typical
+0.5378596711	routing
+0.5377946711	mapped
+0.5376235497	caused
+0.5375954436	strength
+0.5375279881	tackle
+0.5373810686	drug
+0.5373534925	structural
+0.5373035037	trivial
+0.5372343779	core
+0.5372019813	conjunction
+0.5371307691	electromagnetic
+0.5370832031	produced
+0.5370832031	delivery
+0.5370829045	complementary metal
+0.5369423904	trains
+0.5369354244	new type
+0.5369305237	wet
+0.5368912512	methodology
+0.5367969575	compared
+0.5367509870	predict
+0.5366642976	trapped
+0.5365206347	aircraft
+0.5365206347	multilevel
+0.5365206347	powers
+0.5365206347	coming
+0.5365206347	pervasive
+0.5365206347	methodologies
+0.5365206347	attributes
+0.5365206347	section
+0.5364467731	focuses
+0.5363353009	charge
+0.5362749092	grained
+0.5362130565	role
+0.5361890527	designs
+0.5361604179	substrate
+0.5360984999	delay product
+0.5358958485	goal
+0.5357132066	oracle
+0.5356001857	identify
+0.5355896670	embedded
+0.5355471678	obtained
+0.5355126366	today
+0.5355126366	sharing
+0.5352805655	layer
+0.5351573864	wires
+0.5351573864	generating
+0.5351143045	keying
+0.5351143045	robot
+0.5351143045	marble
+0.5351143045	tracking
+0.5351143045	validation
+0.5350062666	form
+0.5347963907	receptor
+0.5347946711	attractive
+0.5347946711	consuming
+0.5347325483	acoustic
+0.5347287043	informed
+0.5347287043	cyber
+0.5347287043	metamaterials
+0.5347287043	projection
+0.5347287043	harnessing
+0.5347021578	art
+0.5345258123	series
+0.5344037738	addressable
+0.5343855954	pulse
+0.5343003506	two qubit gates
+0.5342455421	subset
+0.5342019813	walks
+0.5341473496	structured
+0.5341460641	wafer
+0.5341168641	spectral
+0.5339902658	count
+0.5339390566	receivers
+0.5339390566	homogeneous
+0.5339390566	privacy
+0.5339370733	arithmetic
+0.5338443884	lower
+0.5337005886	chain
+0.5336828696	special
+0.5336353378	commonly
+0.5336353378	broad
+0.5334668544	provide
+0.5333673269	supervised
+0.5333673269	understand
+0.5327530064	charging
+0.5325906935	region
+0.5325538838	entangled
+0.5325538838	transient
+0.5325538838	primitive
+0.5325538838	behavioral
+0.5324881288	decade
+0.5324408296	resistance
+0.5323758855	health
+0.5320027012	perform
+0.5318904167	half
+0.5318743491	ensure
+0.5318360454	biology
+0.5317963150	minimal
+0.5317590270	effects
+0.5317357090	direct
+0.5316342075	neuromorphic circuits
+0.5315778432	cooling
+0.5314640471	positive
+0.5314582070	circuit simulation
+0.5314214622	fluid
+0.5313365705	interaction
+0.5312823864	products
+0.5312301220	highly
+0.5312247218	l
+0.5312218155	orbit
+0.5310248101	molecule
+0.5309411646	bound
+0.5304455812	family
+0.5304455812	extraction
+0.5304104100	verify
+0.5303985486	network on chip
+0.5303757775	gain
+0.5303070051	expected
+0.5301763340	atam
+0.5300358468	cores
+0.5299597946	range
+0.5299349262	quantify
+0.5298641786	capture
+0.5298377381	quasi
+0.5297557161	finally
+0.5296804010	existence
+0.5296766190	duration
+0.5295981020	inversion
+0.5294176350	mismatch
+0.5294176350	resistor
+0.5294176350	cryptography
+0.5293045789	finite state
+0.5292501966	related
+0.5292448298	consumption
+0.5291119807	varying
+0.5290651798	user
+0.5290637216	specification
+0.5290014945	achieve
+0.5289508855	room
+0.5287621197	quantization
+0.5286888852	solver
+0.5284839732	nanotube
+0.5284594177	estimate
+0.5283978552	annealers
+0.5283970987	quantum gate
+0.5283833104	dependence
+0.5282076080	differences
+0.5281925309	properties
+0.5281786474	idea
+0.5278548736	optimizing
+0.5278546835	variable
+0.5278428494	evaluating
+0.5278159147	me
+0.5278056806	polymer
+0.5278056806	emulator
+0.5277616526	emulate
+0.5277375753	trapped ion quantum
+0.5275444359	placement
+0.5274587378	solve
+0.5272908101	interfaces
+0.5270931018	instantons
+0.5270931018	bases
+0.5269146741	situ
+0.5268587991	chip communication
+0.5268434762	operational
+0.5267995449	laser
+0.5267668498	operation
+0.5267443240	challenge
+0.5266693126	arrival
+0.5266693126	morphological
+0.5266248147	nanoparticles
+0.5266248147	neuro
+0.5266248147	firing
+0.5266247514	equation
+0.5265470677	reinforcement
+0.5265245034	blocks
+0.5264917370	tolerant
+0.5264789902	hardware and software
+0.5264454013	computed
+0.5263119338	amplitude
+0.5261793647	introduces
+0.5260594324	review
+0.5260359481	addition
+0.5260158092	cable
+0.5260158092	counter
+0.5260013497	log
+0.5258440276	protoplasmic
+0.5256966990	engineered
+0.5256922322	relaying
+0.5256922322	memcapacitive
+0.5253809539	technological
+0.5253730722	aim
+0.5253636740	relay
+0.5251114664	stabilizer
+0.5250479115	total
+0.5248942039	leaky
+0.5248226256	silicon based
+0.5247807577	communication channel
+0.5247764110	ranging
+0.5245969755	promises
+0.5245914347	allowed
+0.5245721766	serve
+0.5245173301	negative
+0.5244699596	decoding
+0.5244699596	assemblies
+0.5244366262	powered
+0.5244366262	locally
+0.5244366262	diversity
+0.5244024135	promising
+0.5240784715	capacity
+0.5240430999	report
+0.5237200037	correctness
+0.5236100492	designed
+0.5236051423	choice
+0.5236025399	critical
+0.5236025399	mathematical
+0.5235900338	solid
+0.5234053831	nanomagnet
+0.5234053831	saturation
+0.5232780825	heuristic
+0.5232625974	times
+0.5231495471	correcting
+0.5228576780	similar
+0.5227849280	quadratic
+0.5227704422	shown
+0.5227480295	loss
+0.5227161395	medium
+0.5225893241	increase
+0.5225574446	cities
+0.5225208993	upper
+0.5225178466	optimisation
+0.5224147144	folding
+0.5224147144	magnet
+0.5224147144	defense
+0.5224147144	blob
+0.5222842759	technique
+0.5222397129	describes
+0.5221841219	functional
+0.5220997191	class
+0.5219808036	camouflaging
+0.5219808036	balanced
+0.5219743233	quantum programs
+0.5218698479	adapted
+0.5218032780	terms
+0.5217833760	droplet
+0.5217833760	ultrafast
+0.5217833760	abstraction
+0.5217833760	resilience
+0.5217833760	package
+0.5217118978	optimizer
+0.5217118978	mapper
+0.5217118978	nanoelectronic
+0.5217118978	lasers
+0.5217118978	assertions
+0.5217118978	digitally
+0.5217118978	modulated
+0.5217118978	featuring
+0.5217118978	testbed
+0.5217118978	tutorial
+0.5217118978	multiplicative
+0.5217118978	searching
+0.5216632800	handwritten
+0.5215425531	elements
+0.5213775278	increasing
+0.5212032414	ground
+0.5207223956	quantum supremacy
+0.5206362757	formed
+0.5206362757	coverage
+0.5206362757	robots
+0.5204898850	relies
+0.5204443600	applied
+0.5202703562	material
+0.5201736693	suffer
+0.5200470959	configuration
+0.5197134917	latency
+0.5197105834	non von neumann
+0.5194809077	bacteria
+0.5192212556	easy
+0.5190754365	spatiotemporal
+0.5189236693	letter
+0.5188103305	advantage
+0.5188073946	emergent
+0.5188073946	estimates
+0.5188073946	extending
+0.5188073946	heterogeneous
+0.5186925659	reduce
+0.5184121709	kernel
+0.5184121709	amplification
+0.5182739170	skyrmion
+0.5182380273	interconnect
+0.5182130335	kind
+0.5181681591	exact
+0.5179809894	rely
+0.5178360062	entropy
+0.5177183490	g
+0.5176825574	f
+0.5175771866	worst
+0.5175410946	slot
+0.5175293422	ratio
+0.5175230284	design parameters
+0.5172505707	o
+0.5168550525	optimize
+0.5166210210	movement
+0.5165915136	circuit synthesis
+0.5165845978	constant
+0.5164079501	expressions
+0.5164079501	excitable
+0.5162976990	equations
+0.5162959677	structure
+0.5159456500	candidates
+0.5159063795	chaos
+0.5158417082	degradation
+0.5156145074	neuron circuit
+0.5155346709	anti
+0.5155346709	buffer
+0.5154682650	theoretic
+0.5154329083	respect
+0.5153699629	walls
+0.5153699629	asymmetric
+0.5153699629	recording
+0.5153699629	decompositions
+0.5153699629	streaming
+0.5153699629	microscopic
+0.5153699629	nanotechnologies
+0.5153699629	resonant
+0.5153438949	floating
+0.5151904090	analog circuit
+0.5151385354	concept
+0.5151156586	tracks
+0.5151156586	originally
+0.5151156586	appears
+0.5151156586	investigating
+0.5151156586	assuming
+0.5151156586	intensity
+0.5151156586	synchronous
+0.5151156586	strictly
+0.5151156586	exhaustive
+0.5151156586	communicating
+0.5151156586	eventually
+0.5151156586	imprecise
+0.5151156586	thermodynamically
+0.5151156586	miniaturized
+0.5151156586	avoiding
+0.5151156586	oscillating
+0.5151156586	clean
+0.5151156586	analytics
+0.5151156586	dissertation
+0.5151156586	consensus
+0.5151156586	unreliable
+0.5151156586	theories
+0.5151156586	targets
+0.5151156586	exposed
+0.5151156586	adjusting
+0.5151156586	versatile
+0.5151062534	crucial
+0.5150935408	avoid
+0.5148856717	minimize
+0.5147791187	position
+0.5147239698	dimension
+0.5147239698	correlated
+0.5147239698	correlation
+0.5147134840	relative
+0.5147027261	considered
+0.5146453129	measuring
+0.5146453129	quantitative
+0.5146453129	partially
+0.5146453129	incorporating
+0.5146453129	concurrent
+0.5142352495	p
+0.5141934166	unitaries
+0.5139456787	memory cell
+0.5137852085	biochips
+0.5134757484	correct
+0.5134496867	superposition
+0.5133811306	exponential
+0.5132773128	exchange
+0.5132675893	transfer torque
+0.5127062923	nearest
+0.5127044684	minimizing
+0.5126780405	waves
+0.5126749782	bias
+0.5125633810	wireless sensor
+0.5124618102	essential
+0.5124450853	end
+0.5120546480	delays
+0.5120546480	photons
+0.5120092611	version
+0.5119044684	reservoirs
+0.5118218331	connected
+0.5117422582	though
+0.5117086300	kt
+0.5116278660	success
+0.5115823813	means
+0.5115771203	overcome
+0.5114581593	events
+0.5113534612	nanowire
+0.5111750339	reliability
+0.5110793393	reported
+0.5110455348	orthogonal
+0.5108239589	magnetic random access
+0.5107323517	future research
+0.5106491622	developed
+0.5106247454	variety
+0.5106180678	popular
+0.5105366754	orders
+0.5103828405	signals
+0.5103609761	utilized
+0.5103116226	compilation
+0.5101603599	aims
+0.5101455131	required
+0.5101320191	waveguides
+0.5101320191	friendly
+0.5101320191	indoor
+0.5101320191	super
+0.5101320191	empirical
+0.5101320191	squares
+0.5100121335	update
+0.5099708678	types
+0.5097337843	capable
+0.5096231073	enable
+0.5095769249	width
+0.5095015732	depends
+0.5094965357	represented
+0.5093387394	sites
+0.5093284101	sets
+0.5091772166	prediction
+0.5090253153	neuromorphic networks
+0.5089948043	spiking neuromorphic
+0.5089919601	training algorithm
+0.5089442141	quantum algorithm
+0.5088353550	basis
+0.5086572977	obtain
+0.5086468431	diagonal
+0.5086468431	invasive
+0.5086423718	inner
+0.5086053875	build
+0.5085871652	effectiveness
+0.5085859290	j
+0.5085511941	first
+0.5083820935	literature
+0.5081677578	next generation
+0.5079742670	n
+0.5079087479	dataset
+0.5077067025	hand
+0.5075876507	molecules
+0.5075698775	feasibility
+0.5075634430	w
+0.5073034787	areas
+0.5072216384	ensuring
+0.5072216384	convolutions
+0.5072216384	abstractions
+0.5072216384	margin
+0.5072216384	merit
+0.5072216384	termination
+0.5072216384	regimes
+0.5072216384	straightforward
+0.5072216384	reversibility
+0.5072216384	colour
+0.5072216384	signalling
+0.5072216384	nanostructures
+0.5072216384	transmitters
+0.5072216384	perpendicular
+0.5072216384	holistic
+0.5072216384	khz
+0.5072216384	affordable
+0.5072216384	metallic
+0.5072216384	conducting
+0.5072216384	bus
+0.5072216384	conclusion
+0.5072216384	shifting
+0.5072216384	synchronized
+0.5072216384	emitted
+0.5072216384	evolving
+0.5072216384	queries
+0.5072216384	relying
+0.5072216384	presentation
+0.5072216384	equipped
+0.5072216384	ecosystem
+0.5071394255	impact
+0.5068826217	spin based
+0.5068235771	studies
+0.5067932405	extremely
+0.5067088505	test
+0.5066624778	create
+0.5062135949	result
+0.5060018154	adaptation
+0.5058699813	oscillations
+0.5057809356	receptors
+0.5057705529	embedding
+0.5055457158	tunnel junction
+0.5054212558	needed
+0.5053352301	resistors
+0.5053225219	demonstration
+0.5053151344	improving
+0.5051502567	inputs
+0.5049443752	widely
+0.5048983012	h
+0.5047669609	improve
+0.5045805260	impulse
+0.5043867421	promise
+0.5042076820	propose
+0.5040205269	runtime
+0.5040152591	approaches
+0.5039505632	presents
+0.5039211057	growth
+0.5038129623	analyzing
+0.5038129623	implements
+0.5038129623	concrete
+0.5038129623	topologies
+0.5037158149	support
+0.5036962229	map
+0.5036725799	thanks
+0.5035148032	photonics
+0.5033098450	implementations
+0.5032268664	generate
+0.5030281624	programmed
+0.5030281624	generator
+0.5030281624	frequencies
+0.5028616724	polarity
+0.5028027383	computer
+0.5027238816	proposes
+0.5026404849	inverter
+0.5026061736	d
+0.5024596766	plasmodium
+0.5024292661	higher
+0.5024070601	provided
+0.5021542713	powerful
+0.5019301065	extend
+0.5017254991	responses
+0.5015801775	heat
+0.5009940843	original
+0.5009844385	presented
+0.5009409764	stored
+0.5008978907	memory devices
+0.5008908655	element
+0.5007000674	defects
+0.5007000674	dynamically
+0.5006306561	prototypes
+0.5006306561	convergence
+0.5006306561	oscillation
+0.5006306561	amplifiers
+0.5006306561	lifetime
+0.5005655616	coupling
+0.5005509974	candidate
+0.5003171232	account
+0.5001242933	reaction networks
+0.5000901194	parameters
+0.5000334305	close
+0.4998682590	specifically
+0.4996257420	time dependent
+0.4996142300	lack
+0.4995101490	desired
+0.4993529485	term
+0.4993060162	fact
+0.4992138188	construct
+0.4989656775	coherent
+0.4988278528	electric
+0.4987711633	feature
+0.4987310743	emerged
+0.4987279032	consists
+0.4987212801	extensive
+0.4986872291	plants
+0.4985325228	equivalent
+0.4984306521	as
+0.4984275506	she
+0.4982641829	this
+0.4982357853	platforms
+0.4982264478	employed
+0.4981759716	difficult
+0.4981411430	r
+0.4980730904	de
+0.4980099581	published
+0.4980099581	modes
+0.4980099581	faults
+0.4980099581	detectors
+0.4980099581	database
+0.4980099581	bridge
+0.4978038697	integrate
+0.4975518681	validate
+0.4974899369	mram based
+0.4974150976	identical
+0.4973003527	dense
+0.4972954489	affine
+0.4972954489	games
+0.4972460151	v
+0.4972197131	neumann architecture
+0.4969320681	issue
+0.4968201877	amount
+0.4966135733	calculation
+0.4964614574	a new paradigm
+0.4963275435	calculate
+0.4963275435	services
+0.4963275435	established
+0.4963212671	interface
+0.4961779261	fractal
+0.4960942729	represent
+0.4958872260	ns
+0.4957901836	aware
+0.4957312276	standard
+0.4955297929	degree
+0.4955267285	step
+0.4950445672	transport
+0.4949586427	temperature 2
+0.4949366168	autonomous
+0.4949112712	reach
+0.4947367915	attack
+0.4945954121	years
+0.4945777749	detector
+0.4944639895	technical
+0.4943405554	bounded
+0.4943405554	generally
+0.4943405554	naturally
+0.4943192097	computing devices
+0.4942111020	trade
+0.4941255747	workload
+0.4941255747	origin
+0.4941255747	ions
+0.4941255747	verifying
+0.4941255747	multiplications
+0.4941255747	sparsity
+0.4941255747	comparator
+0.4941255747	treatment
+0.4941255747	analogous
+0.4941255747	correctly
+0.4941255747	electrically
+0.4941255747	decoder
+0.4941255747	acting
+0.4941255747	descriptions
+0.4941255747	proving
+0.4941255747	interdisciplinary
+0.4941255747	cognition
+0.4941255747	advancements
+0.4941255747	iteration
+0.4941255747	separately
+0.4941255747	modifications
+0.4941255747	sneak
+0.4941255747	redundant
+0.4941255747	characterizing
+0.4941255747	shaped
+0.4940918733	number of gates
+0.4940810340	lead
+0.4940714832	addressing
+0.4938480924	cross
+0.4934169685	barriers
+0.4934169685	foundations
+0.4934169685	antennas
+0.4934169685	irreversible
+0.4933354017	meta
+0.4931596976	quantum
+0.4931458311	et
+0.4931299938	chaotic
+0.4931299938	utilization
+0.4929688579	performed
+0.4928884432	sensory
+0.4928814347	location
+0.4927975302	tight
+0.4927975302	remote
+0.4927975302	vehicle
+0.4927975302	predictive
+0.4927975302	considerations
+0.4927975302	spatially
+0.4924456303	strategy
+0.4923109462	min
+0.4922890066	variables
+0.4922458824	scheduling
+0.4922348810	materials
+0.4921390102	reading
+0.4921351642	typically
+0.4920896522	structures
+0.4920450668	carry
+0.4920321902	pathway
+0.4920321902	proper
+0.4920321902	robotic
+0.4920321902	essentially
+0.4918999518	randomly
+0.4918999518	cryptographic
+0.4918999518	electrons
+0.4918999518	performances
+0.4918999518	scientific
+0.4918999518	stochasticity
+0.4918548535	evaluate
+0.4917572033	important
+0.4916160946	modern
+0.4916106882	synchronization
+0.4913969161	operate
+0.4911732111	time
+0.4911570632	stable
+0.4911267323	radial
+0.4911267323	compartment
+0.4908853508	accelerators
+0.4907209801	experimentally
+0.4901435911	metrics
+0.4901073699	shape
+0.4901016046	projections
+0.4901016046	maximizing
+0.4901016046	reversal
+0.4901016046	closer
+0.4901016046	dielectric
+0.4901016046	situations
+0.4901016046	display
+0.4901016046	conceptual
+0.4901016046	narrow
+0.4901016046	severe
+0.4901016046	positions
+0.4901016046	emulators
+0.4901016046	imposed
+0.4901016046	dependency
+0.4901016046	glue
+0.4901016046	maximally
+0.4898849401	explore
+0.4898667583	develop
+0.4896610732	article
+0.4895563544	suited
+0.4895515776	flip
+0.4894335927	temperatures
+0.4894335927	pixels
+0.4892723156	tunable
+0.4892723156	scenario
+0.4892723156	operators
+0.4892723156	magnets
+0.4892723156	numerically
+0.4888509517	library
+0.4885217384	calibration
+0.4884598001	called
+0.4884038551	filtering
+0.4878393061	stability
+0.4878164893	realize
+0.4878117847	resulting
+0.4877476254	rank
+0.4877476254	robotics
+0.4873309534	non ideal
+0.4872465065	horizon
+0.4872465065	fuse
+0.4870467814	efficient hardware
+0.4870089230	focus
+0.4869029826	ability
+0.4861650426	probabilistic
+0.4859484400	c
+0.4857867247	enough
+0.4852996326	efficiently
+0.4850209946	endurance
+0.4850209946	sufficiently
+0.4850209946	adding
+0.4850209946	fundamentally
+0.4850209946	approximately
+0.4850209946	tissue
+0.4850209946	analyses
+0.4848838385	suitable
+0.4847554374	t
+0.4847541689	these
+0.4846243713	regime
+0.4845530512	exploit
+0.4843817626	clifford + t gates
+0.4840895461	these gates
+0.4839222035	computational memory
+0.4837783050	n bit
+0.4835781036	evaluation
+0.4834425837	limit
+0.4834032745	tremendous
+0.4834032745	locking
+0.4834032745	reception
+0.4834032745	shorter
+0.4834032745	movements
+0.4834032745	determining
+0.4834032745	pruning
+0.4834032745	behaviours
+0.4834032745	experimentation
+0.4831472284	great
+0.4829572337	attacks
+0.4828186802	computations
+0.4824419667	64
+0.4824399609	capability
+0.4824140043	physical design
+0.4822788330	single memristor
+0.4822598203	constrained
+0.4818107123	mould physarum polycephalum
+0.4814827994	three dimensional
+0.4814715522	estimated
+0.4814590927	_
+0.4812652722	accuracies
+0.4812652722	erasure
+0.4812652722	filters
+0.4812652722	contact
+0.4812652722	assume
+0.4812652722	nondeterministic
+0.4812652722	bonds
+0.4812652722	representative
+0.4812652722	seed
+0.4812652722	rotations
+0.4812652722	nanomagnets
+0.4812652722	predictions
+0.4812652722	factorization
+0.4812652722	producing
+0.4812652722	innovative
+0.4812652722	illustrated
+0.4810102317	decades
+0.4810102317	transformations
+0.4810102317	inside
+0.4810102317	feasible
+0.4808216287	codes
+0.4807989004	perspective
+0.4807371131	mm
+0.4806064389	kernels
+0.4806064389	offering
+0.4806064389	calculations
+0.4806064389	specifications
+0.4806064389	inherently
+0.4797180612	such
+0.4795164596	analog computing
+0.4793969719	throughput
+0.4792835012	on chip
+0.4792403742	software based
+0.4791082539	introduce
+0.4790461203	achieved
+0.4789835594	full duplex
+0.4787976352	program
+0.4783793999	advances
+0.4782179116	writing
+0.4779881447	demonstrating
+0.4779384943	researchers
+0.4779309788	execution
+0.4778128866	issues
+0.4776628733	quantum walks
+0.4774951351	look
+0.4774453115	novel
+0.4773980437	resting
+0.4773371279	successful
+0.4773371279	creating
+0.4773371279	completely
+0.4773371279	tuning
+0.4773371279	storing
+0.4773371279	characterize
+0.4772510729	tiles
+0.4770261687	possibility
+0.4767384862	thin
+0.4766298112	microscale
+0.4766298112	reconfigurability
+0.4766298112	added
+0.4766298112	qualitative
+0.4766298112	derivation
+0.4766298112	word
+0.4766298112	opportunity
+0.4766298112	column
+0.4766298112	benchmarked
+0.4766298112	covering
+0.4766298112	transceivers
+0.4766298112	loops
+0.4765980300	memristive circuits
+0.4765654112	self
+0.4765178837	limiting
+0.4764708004	component
+0.4762489679	magnitude
+0.4761894573	benefits
+0.4759924090	leads
+0.4757517140	instead
+0.4756937165	enabling
+0.4755650959	machine learning applications
+0.4755633658	proposed architecture
+0.4753399827	knowledge
+0.4752960806	non
+0.4752809776	not
+0.4750945646	robustness
+0.4750475042	period
+0.4750435975	interval
+0.4748653296	rotation
+0.4747606323	permutations
+0.4747196617	memristor devices
+0.4743102234	next
+0.4742348937	layout
+0.4738032443	manufacturing
+0.4736976889	oxide semiconductor
+0.4731383584	protocols
+0.4730302351	quantum software
+0.4728095503	samples
+0.4727649302	nanomachines
+0.4727649302	partition
+0.4727649302	statistics
+0.4727649302	mediated
+0.4727649302	simplified
+0.4727649302	identifying
+0.4727649302	classifiers
+0.4727649302	profile
+0.4727139298	new
+0.4725659303	2x
+0.4725659303	quickly
+0.4725659303	fanout
+0.4723393857	180
+0.4723393857	regardless
+0.4722537997	community
+0.4722537997	objects
+0.4721151806	capacitors
+0.4721151806	budget
+0.4718150828	6g
+0.4716547939	market
+0.4716253703	on
+0.4709725228	built
+0.4706018859	analyze
+0.4704562140	mw
+0.4703252685	fit
+0.4702415559	simulating
+0.4702179543	quantum gates
+0.4701383584	simultaneously
+0.4701328877	2ham
+0.4691242509	phenomena
+0.4691242509	efforts
+0.4690980304	m
+0.4687251275	functionality
+0.4685241585	system
+0.4684927003	details
+0.4681169392	mmwave
+0.4680852921	spatial
+0.4679969897	memristor networks
+0.4677331017	amplitudes
+0.4677331017	remove
+0.4677331017	frameworks
+0.4677331017	strengths
+0.4677331017	counterpart
+0.4677331017	hold
+0.4677331017	forming
+0.4677331017	excitatory
+0.4677331017	ago
+0.4677331017	meaningful
+0.4677331017	meaning
+0.4677331017	separated
+0.4677331017	port
+0.4677331017	understood
+0.4677331017	periods
+0.4677331017	buildings
+0.4677331017	facing
+0.4677331017	system's
+0.4677331017	interplay
+0.4677331017	motivates
+0.4677331017	brought
+0.4677331017	possibly
+0.4677331017	resolve
+0.4677331017	skin
+0.4677331017	guarantees
+0.4677331017	facilitates
+0.4677331017	contexts
+0.4677331017	predicted
+0.4677331017	remaining
+0.4677331017	vital
+0.4677331017	prominent
+0.4677331017	believed
+0.4677331017	interfacing
+0.4677331017	ongoing
+0.4677331017	highest
+0.4677331017	appropriately
+0.4677331017	analysed
+0.4677331017	modelled
+0.4677331017	complement
+0.4677331017	phenomenological
+0.4677331017	thought
+0.4677331017	efficiencies
+0.4677331017	adoption
+0.4677331017	recursive
+0.4677331017	drawbacks
+0.4677331017	conjecture
+0.4677331017	interpreted
+0.4677331017	solves
+0.4677331017	held
+0.4677331017	scope
+0.4677331017	hope
+0.4677331017	option
+0.4677331017	challenged
+0.4677331017	thesis
+0.4677331017	exceed
+0.4677331017	accommodate
+0.4677331017	tractable
+0.4677331017	outline
+0.4677331017	examined
+0.4677331017	approximates
+0.4677331017	propagating
+0.4677331017	programmers
+0.4677331017	impinging
+0.4677331017	brain's
+0.4677331017	reports
+0.4677331017	impacts
+0.4677331017	tag
+0.4677331017	photo
+0.4677331017	popularity
+0.4677331017	choices
+0.4677331017	lay
+0.4677331017	turns
+0.4677331017	termed
+0.4677331017	vitro
+0.4677331017	penalty
+0.4677331017	named
+0.4677331017	realizes
+0.4677331017	180nm
+0.4677331017	integers
+0.4677331017	expand
+0.4677331017	modify
+0.4677331017	5g
+0.4677331017	superiority
+0.4677331017	pj
+0.4677331017	percentage
+0.4677331017	tune
+0.4677331017	beneficial
+0.4677331017	nanowires
+0.4677331017	redundancy
+0.4677331017	layouts
+0.4677331017	horizontal
+0.4677331017	centric
+0.4677331017	uniformly
+0.4677331017	stacking
+0.4677331017	bipolar
+0.4677328092	accurate
+0.4676578667	individual
+0.4673519029	learning algorithms
+0.4673425716	robust
+0.4672791306	outputs
+0.4670636135	i
+0.4669788072	quantum annealer
+0.4668213976	changing
+0.4668213976	shapes
+0.4666422344	intrinsic
+0.4665909604	switches
+0.4665250503	organized
+0.4665250503	topic
+0.4665250503	mycelium
+0.4665250503	purely
+0.4665250503	ancillae
+0.4665250503	uncertainty
+0.4665250503	primarily
+0.4665250503	modules
+0.4665250503	assignment
+0.4664934748	derive
+0.4664461149	least
+0.4659014536	environments
+0.4658626738	synapse
+0.4658180629	conventional computing
+0.4655514678	perspectives
+0.4655514678	groups
+0.4655514678	strings
+0.4655514678	excellent
+0.4655514678	optimum
+0.4655514678	terminals
+0.4655514678	versus
+0.4655514678	behavioural
+0.4655514678	track
+0.4655514678	included
+0.4655514678	reasonable
+0.4655514678	layered
+0.4655514678	simpler
+0.4655514678	outstanding
+0.4655514678	assemble
+0.4655514678	heuristics
+0.4655184277	offset
+0.4655184277	ants
+0.4655134219	due
+0.4652929520	memristance
+0.4652734965	driving
+0.4652734965	includes
+0.4652734965	benefit
+0.4652734965	unknown
+0.4652734965	created
+0.4651208632	transmit
+0.4651208632	insights
+0.4649719963	algorithmic
+0.4647643993	more
+0.4647034294	columns
+0.4647034294	oracles
+0.4647034294	angle
+0.4647034294	polymers
+0.4647034294	mixing
+0.4644993855	digital circuits
+0.4642872510	nevertheless
+0.4642767190	simulators
+0.4642767190	modeled
+0.4642731451	tasks
+0.4641602719	exploits
+0.4641602719	magnetization
+0.4641602719	precise
+0.4641602719	comparing
+0.4641602719	paths
+0.4640477977	former
+0.4637953219	paper proposes
+0.4637812339	discovered
+0.4637812339	forcing
+0.4637190204	flexible
+0.4634970139	simulate
+0.4632682873	physically
+0.4632682873	chips
+0.4632470139	unique
+0.4630757817	fj
+0.4624819909	12
+0.4623862185	units
+0.4619492161	self assembled
+0.4617674618	hysteresis
+0.4617308585	overheads
+0.4615227294	passive
+0.4615145312	cmos logic
+0.4613389231	non volatile
+0.4612835769	micro
+0.4612687760	node
+0.4612585632	absorbed
+0.4612585632	2000q
+0.4611100260	physical implementation
+0.4611017259	cmos circuits
+0.4610263542	to
+0.4604310980	connecting
+0.4604310980	earlier
+0.4604310980	optimally
+0.4604310980	coefficients
+0.4604310980	handle
+0.4604310980	tuned
+0.4603173760	q
+0.4601021280	outperforms
+0.4601021280	combines
+0.4601021280	executing
+0.4601021280	identified
+0.4601021280	approximations
+0.4601021280	substantial
+0.4601021280	probabilities
+0.4601021280	argue
+0.4597473124	yield
+0.4597473124	locations
+0.4597473124	validated
+0.4597473124	randomness
+0.4596644546	non uniform
+0.4596102315	predicting
+0.4596102315	tail
+0.4596102315	receive
+0.4596102315	mentioned
+0.4596102315	returned
+0.4596102315	classifying
+0.4596102315	controllers
+0.4596102315	1t
+0.4596102315	asymmetry
+0.4596102315	failures
+0.4596102315	investigates
+0.4596102315	proposing
+0.4596102315	calibrated
+0.4596102315	manuscript
+0.4596102315	anticipated
+0.4596102315	reason
+0.4596102315	degrees
+0.4596102315	suboptimal
+0.4596102315	fading
+0.4596102315	coherence
+0.4596102315	stringent
+0.4596102315	solely
+0.4596102315	continuously
+0.4596102315	reaching
+0.4596102315	splitting
+0.4596102315	assumptions
+0.4596102315	develops
+0.4596102315	programmability
+0.4596102315	impossible
+0.4596102315	preparation
+0.4596102315	libraries
+0.4596102315	relations
+0.4596102315	detects
+0.4596102315	tradeoff
+0.4596102315	integrates
+0.4596102315	commercially
+0.4596102315	activated
+0.4596102315	generations
+0.4596102315	runs
+0.4596102315	thresholding
+0.4596102315	updating
+0.4596102315	excitability
+0.4596102315	suggesting
+0.4596102315	influenced
+0.4596102315	physiological
+0.4596102315	reached
+0.4596102315	multiplexed
+0.4596102315	decreasing
+0.4596102315	mathematically
+0.4596102315	replacing
+0.4596102315	quantities
+0.4596102315	wiring
+0.4596102315	optically
+0.4596102315	mimicking
+0.4596102315	decide
+0.4596102315	aid
+0.4596102315	classically
+0.4596102315	converge
+0.4596102315	proximity
+0.4596102315	similarities
+0.4596102315	portable
+0.4596102315	learns
+0.4596102315	scientists
+0.4596102315	correlations
+0.4596102315	produces
+0.4596102315	comprising
+0.4596102315	couplings
+0.4596102315	illumination
+0.4596102315	widespread
+0.4596102315	criticality
+0.4596102315	necessitates
+0.4596102315	imperfections
+0.4596102315	modification
+0.4595498404	also
+0.4595307804	given
+0.4593014757	generated
+0.4592685736	droplets
+0.4592685736	wire
+0.4592685736	electrodes
+0.4592685736	distinct
+0.4590340738	co
+0.4590140607	cooperation
+0.4589149680	compiled
+0.4585493493	works
+0.4585222626	rather
+0.4582820370	this paper presents
+0.4581871199	updates
+0.4581871199	satisfy
+0.4581871199	proved
+0.4581871199	remain
+0.4581871199	peak
+0.4581871199	conclude
+0.4581871199	ways
+0.4581871199	early
+0.4581871199	theoretically
+0.4581860424	quantum operations
+0.4581245760	part
+0.4575604604	simulated
+0.4575059782	by
+0.4574185421	investigate
+0.4573668907	bottom
+0.4569924593	modelling
+0.4568948574	nanoscale
+0.4567387597	protein
+0.4567042866	circuitry
+0.4567042866	graphs
+0.4565303549	secure key
+0.4565269954	32 bit
+0.4564590927	conductive
+0.4560352251	then
+0.4559817753	in
+0.4555154852	analog circuits
+0.4544998655	z
+0.4544405088	an
+0.4542703850	two
+0.4540029485	realized
+0.4539010631	based synthesis
+0.4537646555	currents
+0.4536586830	variability
+0.4536298658	a
+0.4532934355	on chip learning
+0.4528693629	elementary
+0.4528693629	running
+0.4527939330	paper introduces
+0.4526017105	counterparts
+0.4526017105	establish
+0.4514613775	nor
+0.4513735856	strategies
+0.4511647424	evidence
+0.4511647424	conducted
+0.4511647424	addresses
+0.4511647424	assess
+0.4511647424	controlling
+0.4511647424	minimizes
+0.4511647424	yields
+0.4511647424	applicable
+0.4511647424	supports
+0.4509836307	chip area
+0.4507352080	behaviors
+0.4504774605	classes
+0.4502829190	4 bit
+0.4500498410	changes
+0.4500303171	ranges
+0.4500303171	background
+0.4500303171	attractors
+0.4500303171	eliminate
+0.4500303171	exhibiting
+0.4500303171	save
+0.4500303171	presenting
+0.4500303171	break
+0.4500303171	devise
+0.4500303171	constitute
+0.4500303171	grows
+0.4500303171	defining
+0.4500303171	faces
+0.4500303171	triggered
+0.4500303171	incurs
+0.4500303171	downlink
+0.4500303171	actively
+0.4500303171	pave
+0.4500303171	cover
+0.4500303171	helps
+0.4500303171	located
+0.4500303171	ends
+0.4500303171	micromagnetic
+0.4500303171	captured
+0.4500303171	translate
+0.4500303171	monitor
+0.4500303171	normalization
+0.4500303171	check
+0.4500303171	transfers
+0.4500303171	publicly
+0.4500303171	drive
+0.4500303171	encountered
+0.4500303171	routes
+0.4500303171	db
+0.4500303171	reflect
+0.4500303171	compares
+0.4500303171	arranged
+0.4500303171	comprises
+0.4500303171	determines
+0.4500303171	replaced
+0.4500303171	perturbations
+0.4500303171	dissipated
+0.4500303171	enormous
+0.4500303171	satisfying
+0.4500303171	attractants
+0.4500303171	geometries
+0.4500303171	proposals
+0.4500303171	history
+0.4500303171	tightly
+0.4500303171	live
+0.4500303171	briefly
+0.4492626300	match
+0.4490658646	examples
+0.4490029877	suggests
+0.4490029877	showed
+0.4490029877	interacting
+0.4489788867	classifier
+0.4487275076	representations
+0.4486070797	limits
+0.4486036694	relation
+0.4484988335	s
+0.4481695021	increasingly
+0.4481695021	direction
+0.4481695021	massive
+0.4480031336	rigorous
+0.4480031336	arises
+0.4480031336	leveraged
+0.4480031336	locality
+0.4480031336	consumed
+0.4480031336	extensions
+0.4480031336	contribute
+0.4480031336	reproduce
+0.4480031336	obstacles
+0.4480031336	discusses
+0.4480031336	interact
+0.4480031336	tradeoffs
+0.4480031336	clusters
+0.4480031336	operates
+0.4480031336	circular
+0.4480031336	unprecedented
+0.4480031336	recover
+0.4480031336	agents
+0.4480031336	latencies
+0.4480031336	distances
+0.4480031336	subthreshold
+0.4480031336	incomplete
+0.4480031336	hitting
+0.4480031336	swing
+0.4480031336	converting
+0.4480031336	repeated
+0.4480031336	adopting
+0.4480031336	biasing
+0.4480031336	forces
+0.4480031336	arguments
+0.4480031336	captures
+0.4480031336	difficulties
+0.4480031336	extends
+0.4480031336	branching
+0.4480031336	lengths
+0.4480031336	constructs
+0.4480031336	detected
+0.4480031336	extent
+0.4480031336	simply
+0.4480031336	displacement
+0.4480031336	compatibility
+0.4480031336	discover
+0.4480031336	select
+0.4480031336	serves
+0.4477437379	quantum programming
+0.4476634237	findings
+0.4476634237	reveal
+0.4476634237	exhibits
+0.4476634237	solved
+0.4475575594	adjacent
+0.4475575594	obtaining
+0.4475575594	neighbours
+0.4475323442	scaling
+0.4474072362	x
+0.4473505759	towards
+0.4473191271	concepts
+0.4469465988	reliable
+0.4464646009	interesting
+0.4462020537	numbers
+0.4460672293	resistances
+0.4454028781	tops w
+0.4450849014	formulation
+0.4450304872	measure
+0.4450304872	highlight
+0.4450304872	baseline
+0.4450304872	combine
+0.4450304872	leverage
+0.4450304872	transmitted
+0.4450304872	play
+0.4450304872	internal
+0.4443675902	techniques
+0.4443428151	demonstrates
+0.4443428151	selected
+0.4441731902	rapidly
+0.4441731902	compiler
+0.4440361335	tube
+0.4439643221	but
+0.4438918801	circuit simulations
+0.4437649150	\
+0.4436514267	considering
+0.4432894810	up
+0.4429344370	unfortunately
+0.4428792975	accordingly
+0.4424785617	roots
+0.4424785617	refractory
+0.4424698959	voltages
+0.4424698959	superior
+0.4423212560	+ 1
+0.4418538884	one
+0.4418004193	stages
+0.4416124436	stimulus
+0.4414222438	near
+0.4411767855	a case study
+0.4408931943	the
+0.4408868404	importance
+0.4408868404	scales
+0.4408868404	cycles
+0.4407574692	aimed
+0.4407574692	die
+0.4405967110	analogue
+0.4404789688	computes
+0.4404026477	functionalities
+0.4396335816	beyond
+0.4395346919	analytically
+0.4395346919	involves
+0.4395346919	precisely
+0.4395346919	readily
+0.4395346919	dedicated
+0.4395346919	digit
+0.4395346919	linearly
+0.4395346919	setting
+0.4395346919	substantially
+0.4395346919	demands
+0.4395346919	calculated
+0.4395346919	deployed
+0.4394775490	constructions
+0.4394775490	continue
+0.4394176695	excitation
+0.4392159153	reducing
+0.4391672706	bring
+0.4391672706	assumption
+0.4391672706	representing
+0.4391672706	involving
+0.4391672706	diverse
+0.4391672706	nanodevices
+0.4391672706	attracted
+0.4391672706	configured
+0.4391672706	peripheral
+0.4391672706	photon
+0.4391672706	phenomenon
+0.4391672706	adapt
+0.4391672706	concentrations
+0.4391672706	proven
+0.4391672706	communicate
+0.4391672706	outperform
+0.4391672706	confirm
+0.4391109716	1
+0.4385424227	theoretical
+0.4384303019	measured
+0.4382545295	k
+0.4381605225	speeds
+0.4381509096	cifar 10
+0.4380351494	successfully
+0.4379159782	metric
+0.4379159782	links
+0.4378056078	full
+0.4377814214	improved
+0.4377814214	decomposition
+0.4377056026	external
+0.4375170835	understanding
+0.4372985655	resource
+0.4370154910	criteria
+0.4370154910	approximated
+0.4370154910	specialized
+0.4370154910	closely
+0.4370154910	exists
+0.4370154910	leverages
+0.4370154910	combinations
+0.4370154910	written
+0.4370154910	gained
+0.4370154910	extensively
+0.4370154910	nonlinearity
+0.4370154910	automatically
+0.4370154910	exist
+0.4370154910	examine
+0.4370154910	huge
+0.4367493115	steps
+0.4364063640	released
+0.4364063640	activities
+0.4364063640	fold
+0.4364063640	recorded
+0.4362434277	consequently
+0.4361610146	maps
+0.4361610146	situation
+0.4361610146	auxiliary
+0.4360993902	computing architectures
+0.4359301516	\ mathbb
+0.4355755197	oscillators
+0.4352392977	likely
+0.4352269869	traditional
+0.4349945337	local
+0.4348251501	pinched
+0.4348251501	executed
+0.4348251501	occurring
+0.4348251501	prone
+0.4348251501	safety
+0.4348251501	rich
+0.4348251501	formulated
+0.4348251501	unbounded
+0.4348251501	questions
+0.4348251501	ideas
+0.4348251501	formulate
+0.4348251501	intrinsically
+0.4348251501	memristor's
+0.4348251501	possibilities
+0.4348251501	sophisticated
+0.4348251501	finds
+0.4348251501	harness
+0.4348251501	communities
+0.4348251501	wise
+0.4348251501	largely
+0.4348251501	preserve
+0.4348251501	transformed
+0.4348251501	observations
+0.4348251501	constructing
+0.4348060403	mappings
+0.4348060403	options
+0.4348060403	incorporate
+0.4348060403	chosen
+0.4348060403	advance
+0.4348060403	summation
+0.4348060403	simplicity
+0.4348060403	interconnection
+0.4348060403	concerns
+0.4348060403	contribution
+0.4348060403	transmitting
+0.4348060403	decreases
+0.4348060403	tailored
+0.4348060403	families
+0.4348060403	wider
+0.4348060403	encodes
+0.4348060403	inefficient
+0.4348060403	absorption
+0.4348060403	follow
+0.4348060403	eliminates
+0.4348060403	suitability
+0.4348060403	implies
+0.4348060403	degrade
+0.4348060403	opens
+0.4348060403	share
+0.4348060403	adapting
+0.4348060403	vast
+0.4348060403	controllable
+0.4348060403	miniaturization
+0.4348060403	destination
+0.4348060403	claim
+0.4348060403	inverters
+0.4348060403	overcomes
+0.4348060403	variants
+0.4348060403	adopted
+0.4348060403	pure
+0.4348060403	reliably
+0.4348060403	crosspoint
+0.4348060403	classified
+0.4348060403	exciting
+0.4348060403	carefully
+0.4348060403	matches
+0.4348060403	reductions
+0.4348060403	procedures
+0.4348060403	addressed
+0.4348060403	server
+0.4348060403	spins
+0.4348060403	alternatives
+0.4348060403	poses
+0.4347681947	filament
+0.4347681947	guarantee
+0.4347062662	conduct
+0.4347062662	https
+0.4347062662	workloads
+0.4347062662	arbitrarily
+0.4347062662	guide
+0.4347062662	purposes
+0.4347062662	handling
+0.4347062662	studying
+0.4347062662	employs
+0.4347062662	dissipative
+0.4347062662	targeting
+0.4347062662	polarization
+0.4347062662	targeted
+0.4347062662	practically
+0.4347062662	expressed
+0.4347062662	extracted
+0.4347062662	shared
+0.4347062662	subsequent
+0.4347062662	abilities
+0.4347062662	streams
+0.4347062662	creates
+0.4347062662	explain
+0.4347062662	intended
+0.4347062662	reveals
+0.4347062662	holds
+0.4345077151	regions
+0.4344231451	while
+0.4340793925	connect
+0.4340594837	b
+0.4340341076	together
+0.4339995857	at
+0.4337393153	quantum systems
+0.4337301720	benchmark
+0.4336878004	classical computing
+0.4335159782	images
+0.4326789868	requiring
+0.4326789868	factors
+0.4326789868	requirement
+0.4326789868	exponentially
+0.4323314252	$ bit
+0.4323024563	advantages
+0.4322631178	hardware architecture
+0.4322335556	measures
+0.4322335556	nutrients
+0.4321806294	well
+0.4320221313	hardware design
+0.4314286762	beyond cmos
+0.4312954841	string
+0.4309178856	sources
+0.4307987881	does
+0.4305595329	device circuit
+0.4302870302	besides
+0.4298910887	complicated
+0.4298910887	gains
+0.4298910887	instructions
+0.4298910887	negligible
+0.4298910887	applies
+0.4298910887	volume
+0.4298910887	assumed
+0.4298910887	occurs
+0.4298910887	observe
+0.4298910887	industrial
+0.4298910887	slow
+0.4298910887	flexibility
+0.4298910887	consumes
+0.4298910887	losses
+0.4298910887	operated
+0.4298910887	occur
+0.4298910887	infrastructure
+0.4298401442	sensors
+0.4298133352	construction
+0.4296761692	for
+0.4296586175	patterns
+0.4295555935	employ
+0.4293253363	structure based computer
+0.4288652617	using
+0.4288456535	parts
+0.4287161114	inspired computing
+0.4285266058	speedup
+0.4284407090	so
+0.4282358135	8 bit
+0.4282320913	realistic
+0.4282320913	activity
+0.4282306140	sized
+0.4280123201	savings
+0.4280123201	remains
+0.4280123201	scaled
+0.4280123201	connection
+0.4280123201	utilize
+0.4280123201	sequences
+0.4280123201	suggested
+0.4280123201	utilizes
+0.4279924397	equal
+0.4279924397	plant
+0.4279924397	start
+0.4279924397	realizations
+0.4276801516	\ rangle
+0.4275941570	t count
+0.4274343814	showing
+0.4274343814	performs
+0.4274343814	substrates
+0.4273805895	2
+0.4272184072	considers
+0.4272184072	dominant
+0.4272184072	extra
+0.4272184072	separate
+0.4272184072	contributions
+0.4272184072	involve
+0.4272184072	dramatically
+0.4272184072	considerably
+0.4272184072	setup
+0.4272184072	greatly
+0.4272184072	saving
+0.4272184072	emerge
+0.4272184072	interconnected
+0.4272184072	considerable
+0.4272184072	edges
+0.4272184072	limitation
+0.4270900283	expensive
+0.4270900283	define
+0.4269300079	sizes
+0.4267613671	$
+0.4266873200	last
+0.4264506843	flows
+0.4264506843	conservative
+0.4264506843	designers
+0.4260736611	with
+0.4260242780	co optimization
+0.4259999594	if
+0.4256201990	compared to conventional
+0.4255993379	used
+0.4254259458	many
+0.4251770181	yet
+0.4251759121	stimuli
+0.4251741709	brief
+0.4249171842	controls
+0.4249171842	carrying
+0.4249171842	prevent
+0.4249171842	desirable
+0.4249171842	record
+0.4249171842	incorporates
+0.4249171842	symbols
+0.4249171842	gradients
+0.4249171842	constants
+0.4249171842	possess
+0.4249171842	keeping
+0.4249171842	bulk
+0.4249171842	fewer
+0.4249171842	valid
+0.4249171842	processed
+0.4249171842	independently
+0.4249171842	engineers
+0.4249171842	arise
+0.4249171842	feedforward
+0.4249171842	phases
+0.4249171842	grow
+0.4249171842	explores
+0.4249171842	constitutes
+0.4249171842	envisioned
+0.4249171842	trend
+0.4249171842	entities
+0.4249171842	rise
+0.4249171842	gaining
+0.4249171842	convert
+0.4249171842	remarkable
+0.4249171842	supporting
+0.4249171842	directional
+0.4249171842	eliminating
+0.4249171842	involved
+0.4249171842	formalism
+0.4249171842	fungi
+0.4249171842	costly
+0.4249171842	bottlenecks
+0.4248409526	it's
+0.4247858510	latter
+0.4244180885	nodes
+0.4244173647	apart
+0.4243673782	do
+0.4241233939	followed
+0.4239519354	mean
+0.4236390704	points
+0.4229955947	simulator
+0.4228856589	indeed
+0.4228555623	intractable
+0.4228555623	plays
+0.4228555623	paves
+0.4228555623	perfect
+0.4228555623	vectors
+0.4228555623	regular
+0.4228555623	stimulation
+0.4228555623	explicitly
+0.4228555623	affect
+0.4228555623	carried
+0.4228555623	consideration
+0.4228555623	accessible
+0.4228555623	classify
+0.4228555623	consistent
+0.4228555623	effort
+0.4228555623	analyse
+0.4228555623	missing
+0.4228555623	generates
+0.4228555623	project
+0.4228555623	describing
+0.4228555623	synthesized
+0.4228555623	greater
+0.4228555623	demonstrations
+0.4228555623	solvers
+0.4228037485	work
+0.4228022619	most
+0.4226632934	show
+0.4226390704	neuronal
+0.4225523146	all
+0.4223153780	this paper proposes
+0.4223073666	accurately
+0.4223073666	constructed
+0.4223073666	analyzed
+0.4221800404	energy delay
+0.4221738637	current state
+0.4217889055	procedure
+0.4216429964	one bit
+0.4215379723	herein
+0.4212797818	tested
+0.4212797818	takes
+0.4202669705	synthesis of reversible
+0.4201484002	use
+0.4199626606	processors
+0.4198940133	forms
+0.4197783305	p bits
+0.4195953843	non linear
+0.4195857710	known
+0.4195656551	y
+0.4194944222	actual
+0.4194944222	dimensions
+0.4194944222	suggest
+0.4194944222	domains
+0.4193095818	of
+0.4192909876	number of qubits
+0.4192768183	corresponding
+0.4189153227	rules
+0.4181045298	from
+0.4176119021	scenarios
+0.4176119021	configurations
+0.4164658450	over
+0.4163920299	aspects
+0.4160602512	$ qubit
+0.4160153159	60
+0.4157037145	t depth
+0.4155016451	the number of qubits
+0.4143070219	the human body
+0.4141912000	effectively
+0.4141863692	three
+0.4141770615	quantum hardware
+0.4141607713	interactions
+0.4141607713	variations
+0.4140838487	especially
+0.4138590516	detail
+0.4136203297	each
+0.4134121790	stage
+0.4134121790	easily
+0.4130745887	evaluated
+0.4130537125	the d wave
+0.4128617122	going
+0.4126916220	encoding
+0.4126698902	link
+0.4123489224	length
+0.4117756390	particles
+0.4114810045	sense
+0.4112861192	processes
+0.4112173408	than
+0.4109725479	bottleneck
+0.4109725479	represents
+0.4109725479	intensive
+0.4109375926	whereas
+0.4108686519	even
+0.4106926514	fabricated
+0.4106926514	explored
+0.4106926514	potentially
+0.4104721381	32
+0.4101815710	throughout
+0.4099619658	representation
+0.4098364467	performing
+0.4096619838	requirements
+0.4090725479	instances
+0.4090346523	other
+0.4086839924	once
+0.4086071711	mechanism
+0.4084038358	\ frac
+0.4080386546	the proposed method
+0.4079658413	datasets
+0.4075861561	connections
+0.4074358134	needs
+0.4068156461	\ times
+0.4061414609	manner
+0.4061414609	increased
+0.4061414609	leading
+0.4058853501	present
+0.4056041501	signal to noise
+0.4053712546	design space
+0.4048311513	however
+0.4043701316	28
+0.4043105390	between
+0.4041438287	solutions
+0.4031683719	fabrication
+0.4029490810	costs
+0.4029490810	benchmarks
+0.4029063002	relevant
+0.4026233650	moreover
+0.4024610123	pulses
+0.4021327021	ibm q
+0.4019356001	move
+0.4017172195	example
+0.4014592759	+
+0.4012985406	components
+0.4012205223	furthermore
+0.4008173957	need
+0.4006937969	along
+0.4005939052	wide range
+0.4005815902	off
+0.4005546844	\ log
+0.4004629200	into
+0.4004031303	way
+0.4002178863	different
+0.3998194322	although
+0.3997188626	\ sim
+0.3993812511	proposed designs
+0.3992466337	here
+0.3991296500	only
+0.3989069756	make
+0.3985644404	the subset sum problem
+0.3981148204	measurements
+0.3979732916	previously
+0.3975430549	\ sqrt
+0.3969924190	possible
+0.3968761536	fire
+0.3962673586	connectivity
+0.3962165182	necessary
+0.3960146861	appropriate
+0.3957122311	characteristics
+0.3956462044	third
+0.3956080553	investigated
+0.3956080553	allowing
+0.3950779372	until
+0.3949975418	based approach
+0.3947896684	mechanisms
+0.3941964153	described
+0.3941323973	toward
+0.3940477827	good
+0.3939366747	reduces
+0.3935876115	parameter
+0.3934080553	apply
+0.3932791930	10
+0.3921414718	3
+0.3921288809	following
+0.3919387715	conductance
+0.3918179317	\ phi
+0.3917414389	resources
+0.3915649519	larger
+0.3915135919	parallelism
+0.3915135919	growing
+0.3913856267	behaviour
+0.3913145983	\ log_2
+0.3912890055	memory arrays
+0.3912527814	take
+0.3910204872	same
+0.3905940370	|
+0.3905202565	including
+0.3901923230	via
+0.3890857149	computing architecture
+0.3890417639	values
+0.3886323725	few
+0.3885684991	include
+0.3885684991	improves
+0.3883776269	\ omega
+0.3881877903	emerging non volatile
+0.3880459874	layers
+0.3878632794	experimental demonstration
+0.3872178089	despite
+0.3870370742	cmos based
+0.3870137574	quantum states
+0.3869858112	=
+0.3869063302	very
+0.3868564162	inner product
+0.3868179317	\ tau
+0.3866260428	in memory
+0.3860972234	2016
+0.3860319301	4
+0.3860295916	7
+0.3857150553	dna based
+0.3848892118	`
+0.3848179477	truly
+0.3840900567	processing systems
+0.3840788560	five
+0.3837928079	top
+0.3831386545	features
+0.3830948835	^
+0.3829458794	interest
+0.3823301033	180 nm
+0.3821918826	clifford + t circuits
+0.3817966617	schemes
+0.3810551649	providing
+0.3807007418	improvements
+0.3806750745	\ mathbf
+0.3804699941	allows
+0.3801127319	according
+0.3790383297	associated
+0.3789701748	$ qubits
+0.3787463730	quantum dots
+0.3785046629	3d
+0.3784453465	our
+0.3780115967	i.e
+0.3779621701	quantum device
+0.3775910409	quantum processor
+0.3772285663	an iterative
+0.3765425922	trained
+0.3763659571	prove
+0.3763546042	able
+0.3761274732	find
+0.3760315001	scalability
+0.3759877872	discuss
+0.3758979505	2014
+0.3757839542	demonstrated
+0.3754455043	we
+0.3754178224	$ ^ 2
+0.3753291146	quantum computations
+0.3752550331	hence
+0.3751902342	less
+0.3748959959	offers
+0.3748959959	underlying
+0.3739542330	compare
+0.3738402575	paper describes
+0.3736332652	increases
+0.3736332652	offer
+0.3732862259	et al
+0.3732482273	reduced
+0.3728084043	enables
+0.3724097341	time series
+0.3721228486	discussed
+0.3721228486	illustrate
+0.3720914984	thus
+0.3720546747	attention
+0.3720546747	computationally
+0.3718369797	quantum approximate
+0.3716363613	therefore
+0.3716291994	optical neural
+0.3716266358	$ \ mu
+0.3715403708	8
+0.3714972025	available
+0.3712482273	overhead
+0.3709554857	experimental demonstration of
+0.3707196946	since
+0.3705361278	temperature 1
+0.3705323724	challenging
+0.3701993652	in recent years
+0.3701727002	constraints
+0.3701713110	$ \ times
+0.3699567162	shows
+0.3692430086	best
+0.3688013650	introduced
+0.3688013650	tools
+0.3686809724	e.g
+0.3681789384	require
+0.3680279725	quantum annealers
+0.3678013650	levels
+0.3674975022	achieves
+0.3674423897	intermediate scale quantum
+0.3673255990	at temperature 1
+0.3666440698	cases
+0.3663846951	$ 1
+0.3663630921	task
+0.3663630921	requires
+0.3662867710	better
+0.3662114784	makes
+0.3659975022	studied
+0.3659975022	directly
+0.3659975022	exhibit
+0.3658519137	an energy efficient
+0.3657565101	switching devices
+0.3655955731	a promising solution
+0.3652171084	1d
+0.3652145093	c p c
+0.3649703408	p bit
+0.3647524010	conditions
+0.3646757641	observed
+0.3645249051	\ mu
+0.3642979717	significantly
+0.3642811184	help
+0.3642414948	the kirchhoff law johnson noise
+0.3638739694	it
+0.3635990524	found
+0.3632594469	quantum devices
+0.3631287169	~
+0.3630329708	now
+0.3628747099	further
+0.3627450772	far
+0.3627236578	why
+0.3626503557	2011
+0.3621336620	capabilities
+0.3617864017	causes
+0.3617237054	a large number
+0.3615969080	done
+0.3610600783	a multi agent
+0.3609059813	no
+0.3608565383	after
+0.3607895808	based logic
+0.3606304667	second
+0.3605470718	useful
+0.3604436807	recent advances in
+0.3604434076	among
+0.3602693553	experimental results show
+0.3599160426	thereby
+0.3589239504	60 ghz
+0.3588879168	whole
+0.3585084499	there
+0.3578077539	intermediate scale
+0.3570291163	28 nm
+0.3569254309	upon
+0.3562932422	$ _2
+0.3561214598	regarding
+0.3559083327	indicate
+0.3552129889	a single
+0.3549414636	later
+0.3546545709	this paper describes
+0.3546529852	*
+0.3546451543	below
+0.3546048549	made
+0.3541179057	proposed approach
+0.3529423844	time delay
+0.3520912033	simulation results show
+0.3508627590	the mnist dataset
+0.3508298389	out
+0.3507972133	quantum classical
+0.3507242867	particular
+0.3497039171	his
+0.3493616037	allow
+0.3491729263	people
+0.3491678084	last decade
+0.3490743982	real time
+0.3489127036	of slime mould
+0.3487673123	vs
+0.3483216297	300
+0.3483216297	put
+0.3483216297	70
+0.3483216297	behind
+0.3480081205	crossbar based
+0.3476669345	1.5
+0.3476669345	18
+0.3476669345	keep
+0.3476669345	right
+0.3476669345	name
+0.3476669345	eight
+0.3476669345	seems
+0.3476669345	see
+0.3474819830	immune system
+0.3469713135	self assembling
+0.3459309824	per
+0.3454532785	when
+0.3452746564	20
+0.3452708363	six
+0.3445993232	proposed technique
+0.3440793026	access memory
+0.3435877477	11
+0.3432315473	^ 2
+0.3431500229	back
+0.3429361208	based accelerator
+0.3428004468	others
+0.3428004468	30
+0.3422183847	placed
+0.3421156686	taken
+0.3420362101	usually
+0.3418818265	and
+0.3411922854	mainly
+0.3411922854	re
+0.3410228501	noise based
+0.3406113456	more energy efficient
+0.3403127020	i v
+0.3400862101	little
+0.3397902715	just
+0.3396351400	the human brain
+0.3390981577	well suited
+0.3389666148	the proposed scheme
+0.3385720971	this paper introduces
+0.3379824056	$ \ mathcal
+0.3375237680	wide range of
+0.3366168014	both
+0.3365166344	one step
+0.3364835401	several
+0.3358657695	what
+0.3352628946	some
+0.3346150309	$ 2
+0.3344939347	non idealities
+0.3341053221	four
+0.3339789186	#
+0.3334849682	serious
+0.3334849682	follows
+0.3334849682	80
+0.3334849682	200
+0.3334849682	get
+0.3331828975	actually
+0.3331828975	contain
+0.3331828975	15
+0.3331828975	seven
+0.3327779007	25
+0.3324771963	the proposed approach
+0.3322263615	mostly
+0.3316013763	above
+0.3316013763	before
+0.3311821844	16
+0.3309593348	overall
+0.3306651212	through
+0.3301128114	the slime mould
+0.3290881784	they
+0.3290738564	contains
+0.3274589548	sub
+0.3270733286	currently
+0.3268579778	two dimensional
+0.3262504006	reservoir computer
+0.3258722757	based molecular communication
+0.3253753580	zero
+0.3251138825	&
+0.3251138825	call
+0.3248172457	or
+0.3246652223	already
+0.3245818488	ever
+0.3245818488	seen
+0.3244470773	various
+0.3243091470	gives
+0.3241159397	believe
+0.3241159397	own
+0.3241159397	indicates
+0.3238326862	because
+0.3236384391	on chip area
+0.3230634921	\ emph
+0.3227799478	side
+0.3214376902	another
+0.3212069588	come
+0.3212069588	front
+0.3212069588	comes
+0.3212069588	wherein
+0.3208269512	fan out
+0.3207041364	quite
+0.3207041364	alone
+0.3207041364	90
+0.3207041364	40
+0.3207041364	had
+0.3206327799	day
+0.3204640985	near term
+0.3203576282	9
+0.3199716077	during
+0.3199709711	the proposed model
+0.3195788351	whether
+0.3194606792	45
+0.3194606792	65
+0.3194606792	themselves
+0.3194606792	know
+0.3178263388	computing applications
+0.3171064399	spin transfer
+0.3162302909	too
+0.3162302909	entirely
+0.3162302909	specified
+0.3162302909	containing
+0.3160131601	the art
+0.3147841721	might
+0.3147841721	exactly
+0.3147841721	cause
+0.3144654709	having
+0.3144654709	relatively
+0.3138905463	\ textit
+0.3137646290	the bit error
+0.3131833575	the proposed circuit
+0.3130197545	course
+0.3130197545	nearly
+0.3130197545	13
+0.3130197545	concerning
+0.3128826275	3d ics
+0.3123549687	time varying
+0.3110470828	computing approach
+0.3110118141	its
+0.3109088599	provides
+0.3105743133	always
+0.3105743133	onto
+0.3104880782	^ 3
+0.3099409069	time domain
+0.3093035247	ones
+0.3092714473	effect transistor
+0.3090588899	us
+0.3089962273	t gates
+0.3083302479	how
+0.3081399116	no longer
+0.3078711795	becomes
+0.3078711795	becoming
+0.3073530850	1 bit
+0.3070772504	their
+0.3069568000	without
+0.3067973507	itself
+0.3067820863	novel computing
+0.3067457293	within
+0.3058595810	these models
+0.3056780211	every
+0.3055885178	almost
+0.3053147748	3d integration
+0.3046338673	the proposed
+0.3045314712	so called
+0.3042482816	like
+0.3041891444	an overview
+0.3025834523	down
+0.3025162020	$ 10
+0.3023566396	much
+0.3019991560	namely
+0.3007167135	i o
+0.3002865435	0
+0.3002796940	in situ
+0.3000262635	a wide range
+0.2999762199	any
+0.2996517546	etc
+0.2994707497	6
+0.2988628175	first step
+0.2984707497	50
+0.2979372159	this paper
+0.2969459934	been
+0.2961754944	non trivial
+0.2961648236	against
+0.2957480403	value
+0.2956680025	the proposed design
+0.2956097377	2d
+0.2949587253	a reversible circuit
+0.2949302592	which
+0.2949302592	have
+0.2944687207	has
+0.2939302592	are
+0.2932833093	variational quantum
+0.2929302592	be
+0.2929302592	that
+0.2927307698	ibm quantum
+0.2924226449	is
+0.2919032868	around
+0.2914240520	a neural network
+0.2912999841	where
+0.2911207551	non volatility
+0.2908353728	can
+0.2882806512	this gap
+0.2879205393	trade off
+0.2876646795	under
+0.2872124863	may
+0.2870641429	computer based
+0.2862124863	was
+0.2857124863	will
+0.2814738996	molecular communication via
+0.2811505492	this end
+0.2806713896	across
+0.2804452705	quantum computer
+0.2797341827	being
+0.2795325839	often
+0.2790261595	still
+0.2776089886	5
+0.2767634408	could
+0.2764530613	100
+0.2750933939	the synaptic weight
+0.2745083511	certain
+0.2742515702	leaky integrate and fire
+0.2740256552	give
+0.2739470731	them
+0.2735981871	respectively
+0.2735881552	cannot
+0.2734608602	proposed method
+0.2733825995	either
+0.2729546875	should
+0.2724929924	system level
+0.2720758256	whose
+0.2717024672	particularly
+0.2715128673	step towards
+0.2711393652	the received signal
+0.2710021414	would
+0.2709202874	were
+0.2706499071	\ epsilon
+0.2705216024	non deterministic
+0.2703488976	computer science
+0.2698825459	to solve
+0.2677355418	c p
+0.2676068456	a quantum circuit
+0.2674291914	must
+0.2674044979	uses
+0.2668456613	quantum cost
+0.2667378313	describe
+0.2661612325	become
+0.2661349491	those
+0.2658011330	system design
+0.2654621326	large number
+0.2651880877	consider
+0.2628716483	about
+0.2626854550	neural network based
+0.2624886311	adiabatic quantum
+0.2603507984	proposed design
+0.2603314035	non linearity
+0.2597992139	very simple
+0.2590152811	a low power
+0.2548048802	discrete time
+0.2526127309	time consuming
+0.2521529540	the proposed architecture
+0.2521208281	gap between
+0.2502559004	clifford +
+0.2495250871	faster than
+0.2493620734	widely used
+0.2490697733	an additional
+0.2485481985	to implement
+0.2483636811	fault tolerant quantum
+0.2477975698	more complex
+0.2468730050	two qubit
+0.2463884423	two orders of magnitude
+0.2453910911	building block for
+0.2450362842	these issues
+0.2440277992	one dimensional
+0.2420053495	integrate and fire
+0.2408812835	structure based
+0.2403370561	one way
+0.2381159317	while maintaining
+0.2375822903	co design
+0.2373231597	very low
+0.2357527338	trade off between
+0.2353747436	into account
+0.2349279574	clifford + t
+0.2343687212	quantum advantage
+0.2342021204	leaky integrate and
+0.2331772822	very large
+0.2327394412	mc system
+0.2326976600	near term quantum
+0.2323392773	a finite
+0.2322278837	large number of
+0.2318665370	very high
+0.2312288815	the design space
+0.2308303837	physical implementation of
+0.2298089258	two terminal
+0.2293677426	a small
+0.2293211773	based simulation
+0.2293113676	log n
+0.2290589038	hardware implementation of
+0.2288387233	to build
+0.2281288504	building blocks for
+0.2280691041	speed up
+0.2270851779	the brain
+0.2263147351	of quantum circuits
+0.2259582137	efficient implementation of
+0.2258721225	the receiver
+0.2258707110	this article
+0.2258678829	the proposed algorithm
+0.2230084636	current state of
+0.2223904521	wide variety of
+0.2219419638	higher than
+0.2211048855	commonly used
+0.2210446540	design approach
+0.2208430279	an algorithm
+0.2190255506	using memristors
+0.2189832122	all optical
+0.2187278993	to write
+0.2181198752	a spherical
+0.2171971359	and energy efficient
+0.2162265519	used to implement
+0.2155210843	circuit model
+0.2151886390	a new approach
+0.2151661541	an input
+0.2151128004	2 d
+0.2150230296	3 d
+0.2147893414	memory computing
+0.2145681654	n =
+0.2139258226	insight into
+0.2134141066	| g
+0.2124796458	at temperature
+0.2121001491	this framework
+0.2115305070	these networks
+0.2110481686	these systems
+0.2108954590	polynomial time
+0.2107344697	of quantum computing
+0.2102571208	efficient than
+0.2100592237	proposed algorithm
+0.2098883221	a transmitter
+0.2090613206	logic circuit
+0.2077513670	change memory
+0.2075964553	space time
+0.2073910439	bottom up
+0.2069509069	this letter
+0.2068168421	\ mu m
+0.2066645883	also demonstrate
+0.2061680167	the other hand
+0.2057364425	and power consumption
+0.2056124706	time complexity
+0.2051502082	promising solution
+0.2050164465	a survey
+0.2043525408	an ultra
+0.2040928701	prior work
+0.2032544042	to achieve
+0.2022483968	to perform
+0.2009802247	quantum networks
+0.2009045178	more efficient
+0.2004240466	the shelf
+0.2000098859	an analytical
+0.1998190808	a path
+0.1995300738	previous work
+0.1989849721	n +
+0.1981991430	this problem
+0.1979218918	also proposed
+0.1976420173	based simulations
+0.1959131896	scalable quantum
+0.1950568811	a proof of concept
+0.1940746432	the slime
+0.1932784392	for on chip
+0.1929420891	\ log n
+0.1929224250	smaller than
+0.1924661063	the mnist
+0.1921993512	to date
+0.1918861854	this issue
+0.1918620447	and energy efficiency
+0.1917879806	operate at
+0.1915324476	by utilizing
+0.1904347108	other hand
+0.1903803473	used to perform
+0.1901232173	these challenges
+0.1900189691	improvement over
+0.1898755059	system performance
+0.1894969321	an important
+0.1894877629	lower than
+0.1872872716	the original
+0.1870488217	a physical
+0.1866986854	an equivalent
+0.1865737291	by employing
+0.1863534677	these circuits
+0.1862030131	also presented
+0.1861132342	^ n
+0.1858483917	the transmitter
+0.1857985036	an efficient
+0.1852083871	2 ^ n
+0.1845580778	an approach
+0.1839404152	continuous time
+0.1834821104	work presents
+0.1832871318	this method
+0.1823592289	clifford and t
+0.1803691698	to enable
+0.1802967977	many applications
+0.1801226240	the power consumption
+0.1797226046	the memristor based
+0.1789007801	an experimental
+0.1788653285	the target
+0.1786692457	the network
+0.1779517824	hardware neural
+0.1779267556	by applying
+0.1778394962	\ times n
+0.1778320818	$ n
+0.1766304860	these algorithms
+0.1765267744	in terms of energy
+0.1756863778	in diffusion based
+0.1749031993	the energy consumption
+0.1736096392	the results of
+0.1734158095	these devices
+0.1728195175	two orders
+0.1723269586	a compact
+0.1722116478	a reversible
+0.1721899170	in place
+0.1720797658	of on chip
+0.1714697653	a novel
+0.1712429963	new approach
+0.1710867687	this model
+0.1709222285	the reservoir
+0.1706972152	represented by
+0.1697796392	the accuracy of
+0.1691915341	10 ^
+0.1690633501	this study
+0.1682518437	of in memory
+0.1679357717	the expected
+0.1678821347	$ \ mathcal o
+0.1671081932	an effective
+0.1670028530	$ d
+0.1667502442	two way
+0.1664306396	hardware based
+0.1662459202	results indicate
+0.1658720277	a review
+0.1645058486	by exploiting
+0.1643885768	2 ^
+0.1640055974	relationship between
+0.1639824481	based on
+0.1638150490	number of
+0.1637470596	high energy
+0.1636461277	compared to
+0.1635499678	to realize
+0.1633666532	a simple
+0.1632916267	referred to as
+0.1630984797	this algorithm
+0.1630917910	a tool
+0.1628619895	the circuit
+0.1627398145	an ideal
+0.1625713711	$ m
+0.1619189799	computing system
+0.1618908258	using spin
+0.1615621286	by introducing
+0.1614541341	this research
+0.1612978842	to address
+0.1612779890	such devices
+0.1612062357	to reduce
+0.1609175834	an open
+0.1609033070	to scale
+0.1607043467	a hybrid
+0.1605669195	an arbitrary
+0.1598137896	an attractive
+0.1598074821	the input
+0.1594994433	$ o
+0.1594241777	compared to state of
+0.1593184606	based computing
+0.1590620747	an optimal
+0.1588214216	the maximum
+0.1587857395	also propose
+0.1583597841	$ \
+0.1583556651	these results
+0.1582365520	an alternative
+0.1575595708	$ a ^
+0.1565867285	$ 10 ^
+0.1564458973	operating at
+0.1564353853	the von neumann
+0.1562395683	the concentration
+0.1554331708	neuromorphic system
+0.1548686215	the memristor
+0.1548430444	an optical
+0.1546988750	neural network with
+0.1546763956	energy efficiency of
+0.1546761484	$ a ^ n
+0.1546524061	n ^
+0.1545230553	the magnitude
+0.1541258495	the output
+0.1540026875	this approach
+0.1538706069	so far
+0.1537726102	an average
+0.1535297712	$ l
+0.1534519365	focus on
+0.1532908033	suffer from
+0.1530421755	an exponential
+0.1523492607	a graph
+0.1519039869	even though
+0.1516148250	does not
+0.1513693920	to deliver
+0.1513619632	well known
+0.1510936734	and energy consumption
+0.1510168157	a computational
+0.1507658397	1 \
+0.1503882237	to provide
+0.1503778368	this technology
+0.1503250059	an analog
+0.1501722536	to maximize
+0.1501642177	to deal
+0.1498760392	a global
+0.1497538289	the experimental results
+0.1494203792	at room
+0.1491805942	proposed scheme
+0.1491236053	$ x
+0.1490923589	proposed framework
+0.1490774600	the fact
+0.1483806274	the notion
+0.1483597233	a quantum computer
+0.1482631431	the atam
+0.1482262917	recent work
+0.1481025477	the relative
+0.1480258503	assembly systems
+0.1467642000	an electronic
+0.1461424823	energy per
+0.1461106039	an adaptive
+0.1459463059	the quality of
+0.1456886543	to maintain
+0.1455421368	subset of
+0.1453222372	a memristor
+0.1449968362	$ k
+0.1449489236	differences between
+0.1443526659	the next generation
+0.1439347672	$ p
+0.1436959839	classical and quantum
+0.1431001787	suited for
+0.1427846701	ranging from
+0.1427763059	the structure of
+0.1427510292	the question
+0.1426883067	dynamical system
+0.1423526040	$ f
+0.1422107948	a classical
+0.1421123790	a quadratic
+0.1419671822	$ ^
+0.1416806998	a consequence
+0.1410727188	$ s
+0.1408580418	self assembly of
+0.1406076024	the simulation results
+0.1400122751	integrated into
+0.1399292822	a binary
+0.1387763059	the efficiency of
+0.1384873897	millions of
+0.1382281019	circuits based on
+0.1381329191	the number of
+0.1379827240	such systems
+0.1375792036	best known
+0.1373100638	an application
+0.1372220389	rather than
+0.1370457874	rely on
+0.1369890827	well as
+0.1367799221	for machine learning
+0.1359393048	information on
+0.1358903606	the channel
+0.1356238374	memory based
+0.1350476604	2 \
+0.1348678488	future work
+0.1341884453	execution time
+0.1339209001	governed by
+0.1336878630	offered by
+0.1334938545	distance between
+0.1334840812	$ n \
+0.1334424029	$ t
+0.1333048967	the total
+0.1331870120	affected by
+0.1328756922	learning applications
+0.1324376473	results show
+0.1317857819	the presence
+0.1314192865	computing hardware
+0.1312898585	an emerging
+0.1311754820	focuses on
+0.1299010709	quantum circuits for
+0.1288767099	depends on
+0.1287625114	motivated by
+0.1286357118	inspiration from
+0.1283562573	the main
+0.1283137849	a sequence of
+0.1278194229	emerged as
+0.1278122755	starting from
+0.1277763059	the power of
+0.1272970671	dealing with
+0.1272750208	less than
+0.1267795384	high data
+0.1265672170	the state of
+0.1264302578	relies on
+0.1263429725	the concept of
+0.1262896806	+ +
+0.1259948837	serve as
+0.1259191078	to replace
+0.1258815258	a factor of
+0.1255814917	do not
+0.1254296647	a circuit
+0.1250467428	the plasmodium
+0.1246510404	to create
+0.1244305980	depending on
+0.1243133403	in addition
+0.1242959935	derived from
+0.1239112803	depend on
+0.1238282487	for energy efficient
+0.1232176600	caused by
+0.1229786338	capable of
+0.1228868749	experiments show
+0.1227527872	neural network for
+0.1225816676	a photonic
+0.1225607565	inspired by
+0.1223429725	the cost of
+0.1220961028	to extract
+0.1220255744	an artificial
+0.1218675667	in depth
+0.1217905180	of memristor based
+0.1217763059	the properties of
+0.1217763059	the operation of
+0.1217569159	in terms of
+0.1216338958	in turn
+0.1212103311	with respect to
+0.1210892366	to meet
+0.1206059488	a molecular
+0.1196464865	reduction in
+0.1193429725	the dynamics of
+0.1191192833	to obtain
+0.1190629501	obtained from
+0.1185510335	in order to
+0.1179696163	as well as
+0.1176548551	focusing on
+0.1173972119	the number
+0.1171773478	focused on
+0.1171372471	a large
+0.1169356875	resulted in
+0.1168783053	the performance of
+0.1161825527	increase in
+0.1160800630	due to
+0.1159919272	impact on
+0.1159806713	supported by
+0.1155618253	better than
+0.1154911160	state of
+0.1154070839	hundreds of
+0.1153697514	the size of
+0.1152889822	characterized by
+0.1151605495	the evolution of
+0.1149975939	a given
+0.1148909129	an upper
+0.1148510335	the field of
+0.1146665973	to construct
+0.1140706628	a multi
+0.1140384214	enabled by
+0.1138751207	to overcome
+0.1135587025	this report
+0.1134444281	the efficacy of
+0.1134070839	thousands of
+0.1133637122	with up to
+0.1133052371	energy consumption of
+0.1132980348	proposed model
+0.1132289149	to synthesize
+0.1129005847	the achievable
+0.1127409979	the global
+0.1121203800	large scale quantum
+0.1118205922	act as
+0.1118196161	unable to
+0.1117316414	lack of
+0.1117211468	network architectures
+0.1115096392	the order of
+0.1112887371	a scalable
+0.1112466734	close to
+0.1110683536	this work
+0.1107451831	a wide variety of
+0.1105934192	more energy
+0.1105096392	the purpose of
+0.1100237833	paper provides
+0.1096019548	the device
+0.1094792720	the same
+0.1094392688	the effects of
+0.1093001365	in parallel
+0.1092741615	corresponds to
+0.1092146347	a new
+0.1083327997	compared with
+0.1082636835	at least
+0.1082377094	and simulation of
+0.1080065640	more than
+0.1079216494	the d wave quantum
+0.1078434893	based communication
+0.1077622590	to minimize
+0.1074073319	leads to
+0.1071874355	this area
+0.1071520787	suitable for
+0.1069619869	power consumption of
+0.1068540010	to tackle
+0.1063893368	well suited for
+0.1063488976	to produce
+0.1062487828	fraction of
+0.1059847885	a reconfigurable
+0.1059808444	a generic
+0.1059506403	generated by
+0.1059409854	the critical
+0.1058492673	the derived
+0.1057633934	up to
+0.1056424713	the effect of
+0.1055096392	the principles of
+0.1054895024	a lot
+0.1054855204	as well
+0.1052608818	to improve
+0.1052006723	the implications of
+0.1049985149	to encode
+0.1048814954	a promising
+0.1045653472	quantum network
+0.1044996141	the context of
+0.1042187755	to avoid
+0.1040640944	to optimize
+0.1037094508	the energy
+0.1037059451	the physical
+0.1035096392	the study of
+0.1035096392	the complexity of
+0.1035080656	the correct
+0.1034602740	not only
+0.1033853440	a set of
+0.1032686680	to understand
+0.1028493690	the aim of
+0.1026059355	a series of
+0.1024446193	a large number of
+0.1020737127	notion of
+0.1020184215	accounting for
+0.1017933205	for instance
+0.1017599698	the symbol
+0.1009994198	the continuous
+0.1009120115	a model of
+0.1007752534	quantum error
+0.1003424543	a standard
+0.1003323306	considered as
+0.0998656499	achieved by
+0.0997723108	consisting of
+0.0996717725	even if
+0.0996062377	the problem of
+0.0993963396	a specific
+0.0993930055	a method
+0.0993226278	communication via
+0.0993049934	the influence of
+0.0991443352	a wide range of
+0.0990336794	realized by
+0.0990015944	to mitigate
+0.0989362786	amenable to
+0.0987790079	an integrated
+0.0987287839	produced by
+0.0986059355	the limitations of
+0.0985058224	the ability of
+0.0979730616	able to
+0.0979343288	the distance
+0.0976983287	this result
+0.0975619415	not yet
+0.0970575611	the body
+0.0970490650	probability of
+0.0966901314	to demonstrate
+0.0959540303	to ensure
+0.0957508772	the correctness of
+0.0957177878	the synthesis of
+0.0956923764	of up to
+0.0956326810	such as
+0.0955900101	simulations show
+0.0954882473	to generate
+0.0953834383	the entire
+0.0952213093	a key
+0.0951907281	taking into
+0.0951469935	by means of
+0.0949633019	to facilitate
+0.0939669977	the impact of
+0.0939392688	the theory of
+0.0937357592	applied to
+0.0934332093	the goal of
+0.0934095436	on average
+0.0932121367	implementation of
+0.0931217019	to train
+0.0929080030	the transmission
+0.0928325120	set of
+0.0928287048	a function of
+0.0924999273	in terms
+0.0923299137	a quantum
+0.0921158272	each other
+0.0921059355	the benefits of
+0.0921059355	the application of
+0.0920721183	the role of
+0.0919697518	a universal
+0.0919392688	the usage of
+0.0914966748	the design
+0.0914880518	but also
+0.0913049330	the help of
+0.0909497610	on device
+0.0908513813	of freedom
+0.0907788675	a hierarchical
+0.0903755612	communication between
+0.0903248355	the problem
+0.0900853705	a general
+0.0897669496	the security
+0.0896748039	to store
+0.0893878360	in comparison to
+0.0893186531	a network of
+0.0892365640	in conjunction with
+0.0888558736	to accelerate
+0.0888401698	the measurement
+0.0885208436	compatible with
+0.0884715996	for use in
+0.0883109679	a generalized
+0.0882398598	the class of
+0.0880930597	a high
+0.0879768793	followed by
+0.0878476158	a prototype
+0.0878077598	verified by
+0.0872527907	to emulate
+0.0869566266	induced by
+0.0869239709	in fact
+0.0864490490	to design
+0.0862337080	to verify
+0.0860620382	the form of
+0.0857330021	flux quantum
+0.0852506850	the amount of
+0.0851700855	obtained by
+0.0847153210	the desired
+0.0846485013	consists of
+0.0845559238	absence of
+0.0842453448	the lack of
+0.0841901860	a population
+0.0839449909	built on
+0.0838637510	used to
+0.0834224514	determined by
+0.0833339392	to simulate
+0.0831930550	by up to
+0.0831700035	a long
+0.0831463588	to form
+0.0830560619	comprised of
+0.0830373591	information from
+0.0829663006	the development of
+0.0829179186	via diffusion
+0.0829134513	make use of
+0.0828438840	a significant
+0.0823044188	new method
+0.0822906915	a lot of
+0.0821908722	variety of
+0.0821005374	the performance
+0.0819601156	this leads
+0.0818585830	concept for
+0.0818327023	the sensor
+0.0818057375	a random
+0.0817806453	the case
+0.0817699411	existence of
+0.0816983649	in practice
+0.0816076275	model based on
+0.0815176292	of view
+0.0814240277	a result
+0.0810695201	the fundamental
+0.0807505899	agreement with
+0.0803042259	led to
+0.0802345668	a target
+0.0801348943	related to
+0.0797956752	to enhance
+0.0797244382	bounds on
+0.0795188828	deal with
+0.0794185774	to execute
+0.0792254713	the use of
+0.0790589020	with increasing
+0.0789003539	applications such as
+0.0788380829	quantum machine
+0.0787241714	a typical
+0.0785172311	limited by
+0.0783840629	computation using
+0.0783603290	used as
+0.0781751918	the potential for
+0.0779653558	amounts of
+0.0779195242	aims to
+0.0777208244	this new
+0.0775701795	a fixed
+0.0774630106	different from
+0.0774239137	of spikes
+0.0773220982	the emergence of
+0.0773123541	the creation
+0.0772938109	the best known
+0.0770207623	for achieving
+0.0763471574	the emergence
+0.0763251601	to increase
+0.0763091676	to develop
+0.0762330364	different types
+0.0756375316	computing based on
+0.0756370401	the distribution
+0.0755902191	different types of
+0.0752978820	approach to
+0.0752193362	adapted to
+0.0752121673	the mean
+0.0751445120	subject to
+0.0750979008	a comprehensive
+0.0749650625	a major
+0.0746102691	to represent
+0.0746076453	to mimic
+0.0745788295	+ t
+0.0743704275	to evaluate
+0.0742022068	an architecture
+0.0738511140	the literature
+0.0738327023	the capacity
+0.0738236263	the initial
+0.0736579186	defined by
+0.0736033238	combined with
+0.0734063869	also known as
+0.0733829952	for solving
+0.0733139028	this system
+0.0732187967	to model
+0.0730856563	parameters such as
+0.0728879844	a broad
+0.0728061703	communication system
+0.0726894207	the design of
+0.0721974012	a practical
+0.0721370343	a natural
+0.0720918977	a mixed
+0.0720472959	a uniform
+0.0717466511	a range of
+0.0716969227	to explore
+0.0716164047	the effectiveness of
+0.0714257135	to detect
+0.0712099986	the set of
+0.0711097717	comparable to
+0.0708105948	provided by
+0.0705389394	the majority
+0.0702844269	in general
+0.0701788487	the realization of
+0.0699001104	to study
+0.0697629903	to use
+0.0694881110	a total
+0.0694684166	the search
+0.0693782540	first time
+0.0691907030	d wave quantum
+0.0688133091	the difficulty
+0.0680772742	a suitable
+0.0680164192	a comparison
+0.0676845960	the basis of
+0.0676791958	to compute
+0.0674541254	the possibility
+0.0672517599	the gain
+0.0669206819	shown to
+0.0667940715	the same time
+0.0666990781	amount of
+0.0664745728	two types of
+0.0663190913	the final
+0.0661249757	the environment
+0.0659206961	to exploit
+0.0656389394	the medium
+0.0649662374	a brief
+0.0649356231	to support
+0.0648120446	to determine
+0.0648099485	a d
+0.0646444251	the basic
+0.0646330904	for finding
+0.0644330106	kind of
+0.0644234966	a nonlinear
+0.0643944154	a fundamental
+0.0643083857	role in
+0.0643049138	an implementation of
+0.0642462544	the corresponding
+0.0641510202	attempts to
+0.0640516327	advances in
+0.0640385929	a powerful
+0.0640142680	composed of
+0.0637690013	a dynamic
+0.0637486393	the potential
+0.0636950261	description of
+0.0633555960	the human
+0.0630801439	strategy for
+0.0629274107	orders of
+0.0627332665	a biological
+0.0625278120	to estimate
+0.0624292442	to extend
+0.0623575107	in contrast to
+0.0622746466	a software
+0.0622573400	for designing
+0.0622314831	the objective
+0.0622087402	along with
+0.0621754930	by considering
+0.0620403284	based on quantum
+0.0619948197	foundation for
+0.0617776292	the internet of
+0.0616643976	a common
+0.0615531451	available at
+0.0614788255	the potential to
+0.0614082960	a unique
+0.0613797425	to map
+0.0612601780	to correct
+0.0609375649	model for
+0.0608795757	used by
+0.0608435854	ability to
+0.0605658407	generalization of
+0.0604615656	regardless of
+0.0600247098	at most
+0.0598802474	the presence of
+0.0597552380	a viable
+0.0596950921	emergence of
+0.0594945648	of slime
+0.0594510130	class of
+0.0593737642	for implementing
+0.0593090684	to validate
+0.0592364207	a state of
+0.0590674120	the way for
+0.0587546166	types of
+0.0586217165	to run
+0.0584922864	one such
+0.0584539450	allowed to
+0.0584519102	but not
+0.0584485224	a combination of
+0.0582670354	to learn
+0.0581491244	comparison with
+0.0580657278	a wide
+0.0580239840	the exact
+0.0579316818	the context
+0.0578828929	a central
+0.0578110793	a constant
+0.0577193057	the modified
+0.0576941365	the notion of
+0.0576937527	the capability of
+0.0576683616	this leads to
+0.0574995749	to analyze
+0.0572631066	a low
+0.0570190013	a threshold
+0.0569265987	the end
+0.0568827652	a custom
+0.0567925948	n \
+0.0566514727	for realizing
+0.0564687287	to predict
+0.0564554240	to capture
+0.0561483383	a detailed
+0.0561182532	design of
+0.0560859114	a result of
+0.0559187406	a number
+0.0556485116	degree of
+0.0556297858	the first time
+0.0555906675	a strong
+0.0553446509	the inherent
+0.0552912444	and fire
+0.0551588632	an example
+0.0551270312	version of
+0.0550331792	an appropriate
+0.0549702893	a critical
+0.0549677347	associated with
+0.0549061615	network based on
+0.0547995215	an algorithm for
+0.0547873066	the well known
+0.0547609202	two orders of
+0.0546027967	an overview of
+0.0544487703	combination of
+0.0542846787	developments in
+0.0539326773	driven by
+0.0539319937	enough to
+0.0538743953	work on
+0.0538274787	framework for
+0.0538098703	studies on
+0.0536310932	dependent on
+0.0531696696	to move
+0.0531639756	of living
+0.0530801696	a special
+0.0528830844	the minimum
+0.0527606326	a method to
+0.0526774696	in contrast
+0.0525605456	a network
+0.0523906072	lies in
+0.0522762531	property of
+0.0520281463	a cost
+0.0520266538	sum of
+0.0516431316	a direct
+0.0516358870	demonstration of
+0.0515976788	to derive
+0.0514732611	then show
+0.0511903864	together with
+0.0510750141	quantum key
+0.0510598750	used for
+0.0509869716	a framework for
+0.0508711583	a crucial
+0.0506099489	equivalent to
+0.0505439152	a complete
+0.0503931696	done in
+0.0503828837	advantage of
+0.0503717800	implemented by
+0.0503246552	the results show
+0.0503080298	to state of
+0.0501965610	model of
+0.0497232198	nature of
+0.0497058264	efficient quantum
+0.0497048165	a substrate
+0.0495691141	the electrical
+0.0495477892	to introduce
+0.0495192963	to reach
+0.0492715710	controlled by
+0.0490236377	an array of
+0.0489705323	a modified
+0.0489582550	to identify
+0.0488002386	creation of
+0.0487774014	the charge
+0.0485374092	this type of
+0.0484669025	performed by
+0.0484364496	a programmable
+0.0479455804	works on
+0.0475910307	by using
+0.0470150941	the minimal
+0.0469879266	built in
+0.0469243830	with existing
+0.0468981751	a sequence
+0.0468830955	relative to
+0.0468684472	candidates for
+0.0466860249	used in
+0.0466682194	a hardware
+0.0465216581	expression for
+0.0465172471	the experiment
+0.0464501032	lot of
+0.0464289840	developed by
+0.0462079508	a distributed
+0.0461189913	a stochastic
+0.0459736507	the idea
+0.0458073356	the functionality of
+0.0457867999	the effect
+0.0457092851	the associated
+0.0457082984	characterization of
+0.0455565532	realization of
+0.0455092758	computing with
+0.0452983131	changes in
+0.0452541465	interpretation of
+0.0450558855	a case
+0.0448479930	presence of
+0.0445230902	research on
+0.0442800266	implementation on
+0.0441867999	a technology
+0.0438809456	easy to
+0.0438809456	mapped to
+0.0437491241	the primary
+0.0437060356	the challenge
+0.0436594862	the behavior of
+0.0435502109	known as
+0.0433962827	validity of
+0.0433953835	implemented on
+0.0432292021	the readout
+0.0431791968	two different
+0.0431658931	the past
+0.0429735078	opportunities for
+0.0428488729	over time
+0.0427946572	solution for
+0.0427867999	a function
+0.0427028680	analysis of
+0.0426971516	introduction to
+0.0426357438	a means
+0.0423962827	collection of
+0.0421896508	respect to
+0.0421177106	a real
+0.0420899360	way to
+0.0419719408	the possibility of
+0.0419144656	the case of
+0.0418785188	as compared to
+0.0416317566	correctness of
+0.0415166283	tool for
+0.0414698015	a popular
+0.0409029466	described by
+0.0408639792	designed to
+0.0407839655	sensitive to
+0.0401387208	implemented as
+0.0397013469	report on
+0.0391375003	synthesis of
+0.0389280005	type of
+0.0387379015	availability of
+0.0386656694	candidate for
+0.0386139792	required to
+0.0384303671	quantum circuit for
+0.0382379953	the potential of
+0.0379034236	the need to
+0.0378386023	also show
+0.0378054122	a framework
+0.0376448406	development of
+0.0374496462	performed on
+0.0374008648	a number of
+0.0373758727	utility of
+0.0373701618	demand for
+0.0373391514	the full
+0.0373302765	a technique
+0.0371191459	crucial for
+0.0369709483	similar to
+0.0367722641	a test
+0.0364392485	the ability to
+0.0361262383	to find
+0.0360210210	quantum neural
+0.0358946774	the gap
+0.0352348961	the implementation of
+0.0350042252	proof of
+0.0349612901	implemented with
+0.0349597574	attempt to
+0.0348800965	bounds for
+0.0348656799	required for
+0.0348091427	coupled with
+0.0347227649	a simulation
+0.0346086849	to switch
+0.0345394514	a type
+0.0344833106	the feasibility of
+0.0344833106	a variety of
+0.0344184166	the effective
+0.0341872739	behavior of
+0.0338653190	the propagation
+0.0336840462	terms of
+0.0335328727	the efficacy
+0.0334119580	to process
+0.0332490390	applicability of
+0.0330830764	configuration of
+0.0329017610	a fast
+0.0328918210	needed for
+0.0326465648	a variety
+0.0323799885	the kirchhoff
+0.0323323976	in addition to
+0.0322732884	optimized for
+0.0320810300	impact of
+0.0320766561	the aim
+0.0320095999	approach for
+0.0316142885	algorithm for
+0.0315996940	the reliability
+0.0314918784	plasmodium of
+0.0314562856	dependence of
+0.0314142990	implemented in
+0.0313392804	the need for
+0.0312246543	range of
+0.0311650151	the functionality
+0.0310043011	proposed by
+0.0307510359	exploited to
+0.0305690013	the surface
+0.0304948815	a mathematical
+0.0304225030	the first
+0.0303682241	resulting in
+0.0302867378	improvement in
+0.0302722265	network on
+0.0301545595	a class of
+0.0299597749	instead of
+0.0298430316	the latter
+0.0297836174	possible to
+0.0296044609	search for
+0.0295896398	the individual
+0.0295855302	bound on
+0.0295076107	possibility of
+0.0294706812	promise for
+0.0292110549	a dynamical
+0.0291364674	expected to
+0.0288539379	the ability
+0.0283177215	a factor
+0.0282673349	utilized to
+0.0281514504	lead to
+0.0281216454	essential for
+0.0278946774	the ground
+0.0278487373	scale quantum
+0.0277508818	in detail
+0.0277049787	utilized for
+0.0276248332	factor of
+0.0276205729	referred to
+0.0275492031	alternative to
+0.0273991082	performance of
+0.0273590624	stored in
+0.0272566213	a set
+0.0271016634	progress in
+0.0270633069	employed to
+0.0267447491	a full
+0.0266397661	an array
+0.0265387048	sufficient to
+0.0265341454	decrease in
+0.0264520107	the development
+0.0261672854	an energy
+0.0261136389	a few
+0.0259501957	conjunction with
+0.0258629105	the effectiveness
+0.0257591427	language for
+0.0257342497	extended to
+0.0256057344	feasibility of
+0.0255219172	effectiveness of
+0.0254386504	found to
+0.0253094242	same time
+0.0253082300	likely to
+0.0251628211	needed to
+0.0251091427	methodology for
+0.0251021561	hard to
+0.0248160563	part of
+0.0247207755	necessary for
+0.0242537910	the existence
+0.0242354997	contrast to
+0.0241124878	difficult to
+0.0239884114	reported in
+0.0238674787	definition of
+0.0238674787	variant of
+0.0237784832	to make
+0.0237181036	use of
+0.0235240237	employed in
+0.0232765531	potential for
+0.0231377151	allows for
+0.0231031914	to approximate
+0.0229458212	restricted to
+0.0228480714	the former
+0.0227591427	basis for
+0.0221949912	the received
+0.0216381585	the basis
+0.0216062490	allow for
+0.0214537910	an end
+0.0211091839	yet to
+0.0211005015	encoded in
+0.0204837352	described in
+0.0203463942	a particular
+0.0203399823	to investigate
+0.0202964235	to control
+0.0199059402	era of
+0.0198221857	useful for
+0.0195984349	needs to
+0.0193712242	corresponding to
+0.0191895131	found in
+0.0191504784	only on
+0.0191057334	especially for
+0.0190509591	for example
+0.0189448431	the feasibility
+0.0187758505	to do
+0.0186968096	off between
+0.0185352330	pair of
+0.0182390126	overview of
+0.0178844618	efficacy of
+0.0177941283	need for
+0.0174973695	to take
+0.0171821307	interest in
+0.0170995133	evolution of
+0.0170908388	developed for
+0.0169649227	a good
+0.0163740595	made of
+0.0158766550	a basis
+0.0158745779	verification of
+0.0153831328	the goal
+0.0151163223	necessary to
+0.0141155943	estimation for
+0.0138471747	a great
+0.0138432092	the impact
+0.0113554062	available to
+0.0108399532	influence of
+0.0094734776	developed to
+0.0087879482	promises to
+0.0075234776	considered to
