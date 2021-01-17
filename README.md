@@ -49,5 +49,6 @@ Reset the run if you want to rerun the whole repo or start a new run with anothe
 ```
 python run.py reset
 ```
+models/domains directory contains the autophrase results for different scientific domains and topics
 
 ## Responsbilities: Yichun and Joey equally contributed to the repo.
