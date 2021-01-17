@@ -1,0 +1,5168 @@
+0.9623004360	hydrogen storage
+0.9558726024	ramachandran plot
+0.9542265231	magnetic moment
+0.9535822736	circular dichroism
+0.9531939988	carbon nanotube
+0.9515798799	polycyclic aromatic hydrocarbon
+0.9511187398	surface tension
+0.9509434393	noble gas
+0.9504963895	carbon nanotubes
+0.9488691501	water vapor
+0.9486496470	fermi gas
+0.9473459333	dipole moment
+0.9459366381	machine learning
+0.9437011756	kinetic energy
+0.9437002181	fourier transform
+0.9436572947	electron transfer
+0.9436233047	perturbation theory
+0.9424097344	density functional theory
+0.9411570911	phase transitions
+0.9394283327	monte carlo
+0.9381991910	electric fields
+0.9368424486	conical intersections
+0.9360892417	genetic algorithm
+0.9359450194	hyperfine structure
+0.9357676507	excited state
+0.9357039207	hydrogen atom
+0.9356507006	laser ablation
+0.9342250921	bound state
+0.9335287471	configuration interaction
+0.9333995979	global optimization
+0.9332829120	extreme ultraviolet
+0.9319546782	quantum mechanical
+0.9317807073	exchange interaction
+0.9315965176	elastic scattering
+0.9304092970	molecular dynamics
+0.9296555176	ab initio
+0.9293024477	wave function
+0.9276928062	carbon dioxide
+0.9274017374	quantum mechanics
+0.9258368817	electric field
+0.9249266109	steady state
+0.9249046060	storage ring
+0.9242463829	quantum monte carlo
+0.9221036255	ground state
+0.9214820181	radiation damage
+0.9198652875	harmonic oscillator
+0.9194878671	electron affinity
+0.9186705509	magnetic field
+0.9186571973	symmetry breaking
+0.9181455254	van der waals
+0.9178890025	optimal control
+0.9175613169	quantum dot
+0.9172392774	electronic structure
+0.9160968038	effective field theory
+0.9160397527	coupled cluster
+0.9158104964	angular momentum
+0.9154065198	wave packet
+0.9153099499	phase diagram
+0.9144639952	phase space
+0.9139252563	differential equations
+0.9115609593	phase change
+0.9113180559	electric dipole
+0.9107846662	density matrix
+0.9093490887	charge transfer
+0.9087060345	band gap
+0.9080982356	bond length
+0.9076603161	specific heat
+0.9075006962	path integral
+0.9071916557	quantum chemistry
+0.9066204440	periodic table
+0.9065651827	hydrogen bond
+0.9064250032	point group
+0.9062225301	magnetic moments
+0.9061326842	quantum numbers
+0.9060640243	amino acids
+0.9051639615	nuclear physics
+0.9045529875	density functional
+0.9044601057	phase transition
+0.9030206250	magic numbers
+0.9018880717	room temperature
+0.9018079175	interatomic coulombic decay
+0.9011557044	nonlinear optical
+0.9008737151	diffusion monte carlo
+0.8993859789	scattering length
+0.8991099220	magnetic anisotropy
+0.8987835420	binding energies
+0.8980150336	multiply charged
+0.8959293788	transition metal
+0.8958384601	gold nanoclusters
+0.8958179466	leading order
+0.8944637803	global minima
+0.8938138064	helium droplets
+0.8936318777	linear response
+0.8936073194	scanning tunneling
+0.8927698969	binding energy
+0.8919932906	free electron laser
+0.8918429594	coulombic decay
+0.8908323971	fine structure
+0.8897427139	water dimer
+0.8889140649	symmetry adaptation
+0.8885336236	magnetic fields
+0.8873280208	power law
+0.8865337451	auger decay
+0.8857378276	radio frequency
+0.8851654337	vibrational modes
+0.8843442703	alkaline earth
+0.8838807969	force field
+0.8838167676	inelastic scattering
+0.8835861963	plane wave
+0.8830008383	helium nanodroplets
+0.8824396537	cross section
+0.8818826192	pulse duration
+0.8818419305	buffer gas
+0.8807409116	photon absorption
+0.8807198549	dipole moments
+0.8803034062	hydrogen bonds
+0.8800747855	quantum chemical
+0.8799531269	quantum dots
+0.8798848123	heat capacity
+0.8797771327	basis set
+0.8788409568	cross sections
+0.8782326199	free energy
+0.8781756949	laser pulse
+0.8755714581	photoabsorption spectra
+0.8755709545	gold nanoparticles
+0.8749375556	energy landscape
+0.8749101749	electron transport
+0.8742377683	jellium model
+0.8740823688	energy landscapes
+0.8731929044	energy transfer
+0.8728153946	bond lengths
+0.8726138451	alkali metal
+0.8721769100	oscillating tip
+0.8705749999	symmetry adapted
+0.8700391717	activation energy
+0.8699559257	circularly polarized
+0.8690924514	angular momenta
+0.8690845462	bound states
+0.8686851311	molecular orbitals
+0.8685765589	photoelectron spectra
+0.8678688063	electron diffraction
+0.8669511780	quantum state
+0.8667313700	scattering lengths
+0.8666608206	magnetic dipole
+0.8665753108	random phase approximation
+0.8665696727	high harmonic generation
+0.8663429408	proton transfer
+0.8661898879	functional theory
+0.8649019761	mass spectrometry
+0.8640672721	conical intersection
+0.8631269186	basis functions
+0.8629017050	metal clusters
+0.8618695104	giant resonances
+0.8613521476	molecular orbital
+0.8611664117	velocity map imaging
+0.8600453059	coherent control
+0.8598692975	minimum energy
+0.8594990222	double ionization
+0.8580646159	angular distributions
+0.8580322581	highly charged
+0.8578997636	force fields
+0.8575900643	sodium clusters
+0.8575477964	molecular dynamics simulation
+0.8571298050	superfluid helium
+0.8559829988	nearest neighbor
+0.8553796489	positive charge
+0.8548864916	hybrid functional
+0.8541021615	high precision
+0.8534699643	rare gas
+0.8532414521	infra red
+0.8526970838	doubly excited
+0.8523477234	wave functions
+0.8517357291	laser beam
+0.8515051282	hydrogen bonding
+0.8507292588	endohedral atoms
+0.8481735037	laser pulses
+0.8477682267	interstellar medium
+0.8475254889	path integral monte carlo
+0.8474601716	charge migration
+0.8470431384	basin hopping
+0.8463683505	probe pulse
+0.8459795589	molecular beam
+0.8453391850	force microscopy
+0.8451773459	quantum information
+0.8449355347	feshbach resonances
+0.8446665284	singles doubles
+0.8446077413	generalized gradient approximation
+0.8442730957	polar molecules
+0.8436971674	analytical expressions
+0.8436527774	photoelectron spectroscopy
+0.8432895776	supersonic slit jet
+0.8428782280	valence electrons
+0.8423295113	electron hole
+0.8417188588	feshbach resonance
+0.8414344029	laser intensities
+0.8413861731	electron impact
+0.8413515297	potential energy
+0.8412117779	electron affinities
+0.8411311552	diatomic molecules
+0.8410104048	diffractive imaging
+0.8406427359	weakly bound
+0.8402332360	confinement resonances
+0.8398129066	absorption spectroscopy
+0.8388661049	distribution function
+0.8378271684	external field
+0.8362369875	building blocks
+0.8358688924	medium sized
+0.8358688758	hydrogen bonded
+0.8356253263	carbon chains
+0.8354157978	potential energy surface
+0.8346947671	potential energy surfaces
+0.8331541471	polycyclic aromatic
+0.8331140904	local density approximation
+0.8330354664	liquid drop
+0.8326232649	doubly charged
+0.8320937024	infrared spectrum
+0.8310271954	hard core
+0.8302661219	strongly correlated
+0.8298220352	partial waves
+0.8297836770	aromatic hydrocarbons
+0.8294449857	` `
+0.8293174616	solid state
+0.8292542060	lowest energy
+0.8291958559	dipole plasmon
+0.8291186782	high resolution
+0.8287030710	monte carlo simulations
+0.8282935641	gas phase
+0.8282296553	electron capture
+0.8280978479	matrix elements
+0.8275804790	faddeev equations
+0.8273541219	orbital angular momentum
+0.8269038767	highest occupied
+0.8266932646	linearly polarized
+0.8264030529	induced transparency
+0.8262882063	molecular dynamics simulations
+0.8258557788	excited states
+0.8258400256	singly charged
+0.8252932279	electronically excited
+0.8249126873	highly accurate
+0.8240317340	semi classical
+0.8239170903	experimental observations
+0.8237286384	recently developed
+0.8228278145	transition state
+0.8225269900	intense laser
+0.8225171241	collective excitations
+0.8221611357	generalized gradient
+0.8219398660	thermodynamic properties
+0.8216740866	heat capacities
+0.8215553647	low temperature
+0.8213840447	vdw df
+0.8201564417	hybrid functionals
+0.8200918239	photon energies
+0.8191085717	basis sets
+0.8187725561	photoelectron angular
+0.8187330016	band structure
+0.8187079696	oscillator strengths
+0.8181144544	highly excited
+0.8175250782	low energy
+0.8174058087	mass ratio
+0.8166657909	open quantum
+0.8165748996	chiral response
+0.8156014601	electron density
+0.8154476793	exact exchange
+0.8149124712	enhanced ionization
+0.8147581539	diffraction patterns
+0.8138746853	coulomb explosion
+0.8138549394	para hydrogen
+0.8131855507	core hole
+0.8130139643	stabilized jellium
+0.8128924915	pz sic
+0.8127788076	finite temperature
+0.8116256089	absorption spectra
+0.8115804916	giant resonance
+0.8113641668	laser field
+0.8113451616	linear carbon chains
+0.8113422843	pump pulse
+0.8112660330	momentum distribution
+0.8110957890	boundary conditions
+0.8103378206	density functionals
+0.8089034558	absorption spectrum
+0.8087943354	quantum number
+0.8083491757	free space
+0.8075783996	theoretical predictions
+0.8071859436	intense laser pulses
+0.8071850725	structural transitions
+0.8071728955	single particle
+0.8068140798	chemical reactions
+0.8058556346	strong field
+0.8052286880	atomic scale
+0.8048548064	photoionization cross sections
+0.8037582755	thomas fermi
+0.8034774534	kcal mol
+0.8025739981	starting point
+0.8024113141	melting temperature
+0.8003053690	long lived
+0.8002651348	homo lumo
+0.7999790596	mass selected
+0.7999484712	computational cost
+0.7997589035	ionization potentials
+0.7994162066	wave packets
+0.7991293976	rydberg states
+0.7983168513	takes place
+0.7981703292	odinger equation
+0.7978753816	molecular frame
+0.7976977862	sympathetic cooling
+0.7975393944	forward backward
+0.7967577031	finite size
+0.7963122135	angular distribution
+0.7960462207	single photon
+0.7959247833	positively charged
+0.7958831821	infrared spectra
+0.7957688388	charged particles
+0.7955891798	coulomb interaction
+0.7955541414	range separated
+0.7955467254	born oppenheimer
+0.7955009607	size dependence
+0.7952651931	polyatomic molecules
+0.7946927224	global minimum
+0.7946052168	chirped laser pulses
+0.7944093158	silver clusters
+0.7929837742	short range
+0.7927864367	laser fields
+0.7922043366	low lying
+0.7921223937	low dimensional
+0.7918094210	rotational spectroscopy
+0.7905818229	single shot
+0.7901573054	alkali metal clusters
+0.7900917365	theoretical investigation
+0.7894281930	probe pulses
+0.7889462023	theoretical framework
+0.7887368145	linear optical absorption
+0.7867951504	quantum interference
+0.7862514528	stark decelerator
+0.7851764868	photoionization cross section
+0.7851709491	vacuum ultraviolet
+0.7847916651	spin orbit
+0.7846604539	femtosecond laser pulses
+0.7838583395	total angular momentum
+0.7828049667	cluster ions
+0.7825842045	mass spectra
+0.7823213584	atom diatom
+0.7822704294	molecular ion
+0.7820860183	intense laser pulse
+0.7819592391	optimized effective potential
+0.7809998952	magic number
+0.7804284243	van der
+0.7804159605	strong field ionization
+0.7797248588	high order harmonic generation
+0.7788710154	kohn sham
+0.7788448613	valence electron
+0.7787603888	spin polarized
+0.7784147541	photoelectron circular dichroism
+0.7780029546	electron phonon
+0.7779440522	higher order
+0.7776834285	effective range
+0.7775923887	free electron lasers
+0.7775869631	single walled
+0.7770906891	long range
+0.7768534434	ion trap
+0.7767833250	surface plasmon
+0.7760811862	laser induced
+0.7741492901	phase shifts
+0.7735171030	high level
+0.7728406032	experimental data
+0.7727264622	velocity map
+0.7726372952	optical absorption
+0.7725716827	helium dimer
+0.7725337068	response function
+0.7706630498	temperature range
+0.7706501542	recently proposed
+0.7703543899	photo electron
+0.7696883248	electron beam
+0.7693793791	hydrogen molecule
+0.7691826217	tight binding
+0.7688058294	helium droplet
+0.7681545629	real space
+0.7681158491	high energy
+0.7675952489	negative ion
+0.7675588374	permanent dipole
+0.7673445950	laser intensity
+0.7656667316	helium atom
+0.7656036640	der waals
+0.7655108455	angle resolved
+0.7654139706	cluster size
+0.7644626144	laser driven
+0.7644231350	moller plesset
+0.7642653042	molecular structure
+0.7639119438	semi empirical
+0.7627464210	particle hole
+0.7614361730	spectroscopic parameters
+0.7613793787	alkali metal atoms
+0.7610128361	photon energy
+0.7607786128	nc afm
+0.7606703183	correlation effects
+0.7606627388	gamma ray spectra
+0.7605896461	collective electron
+0.7605048286	multi photon
+0.7595658539	strong coupling
+0.7593947835	hartree fock
+0.7587154237	ro vibrational
+0.7584782781	embedded atom
+0.7583818029	electron dynamics
+0.7570076224	atomic structure
+0.7560164435	rare gas clusters
+0.7559618197	pump probe
+0.7558743316	c60 fullerene
+0.7550898016	franck condon
+0.7548418274	simple metal clusters
+0.7525057407	electron emission
+0.7525019505	bohr
+0.7522703763	theoretical studies
+0.7518214015	decay channels
+0.7515355154	qualitative agreement
+0.7513745942	close coupling
+0.7498680387	theoretical analysis
+0.7487385402	bose einstein condensates
+0.7478578513	bose einstein
+0.7477748385	jet expansion
+0.7461282632	stern gerlach
+0.7453605762	ab initio calculations
+0.7450328823	liquid helium
+0.7449151074	exchange correlation
+0.7440599999	large scale
+0.7437849797	previous studies
+0.7432081390	plasmon resonances
+0.7430038111	diamond
+0.7421649207	dipole dipole
+0.7421553966	ionization threshold
+0.7419207105	water molecules
+0.7415072459	jahn teller
+0.7411013356	energy loss
+0.7407677087	multi reference
+0.7399585256	electronics
+0.7399470610	local density
+0.7395321019	spin orbit coupling
+0.7393379175	tetrahedral
+0.7391551717	electron correlation effects
+0.7390272746	size dependent
+0.7381336164	negative ions
+0.7380444635	numerical simulations
+0.7373098061	carbon atoms
+0.7372967520	high pressure
+0.7368516981	raman spectra
+0.7367338894	high harmonic
+0.7361170355	communication
+0.7360029738	coupled channel
+0.7358851576	helium atoms
+0.7352388985	poisson
+0.7335392465	cluster sizes
+0.7321231363	molecular beams
+0.7303268521	magnetic
+0.7296218040	energy absorption
+0.7295212017	field free
+0.7295190048	quantum
+0.7294679882	water clusters
+0.7287660630	electronic states
+0.7283086723	single
+0.7282032294	helium
+0.7281448969	coupled cluster theory
+0.7276244295	hydrogen
+0.7271919068	excellent agreement
+0.7263979773	final state
+0.7251517457	cold atoms
+0.7245161701	efimov states
+0.7244182033	hubbard
+0.7242934911	coulomb potential
+0.7242895912	optical absorption spectra
+0.7237321760	iron
+0.7235121724	structure
+0.7227584457	molecule imaging
+0.7227139299	carbon
+0.7222113249	aluminium
+0.7217242487	molecular systems
+0.7215709604	spin
+0.7202767767	interatomic coulombic
+0.7196951031	chiral molecules
+0.7196286659	catalysis
+0.7196286659	breakdown
+0.7184565753	double hybrid
+0.7183601663	organic molecules
+0.7179799615	packing
+0.7172999970	theory
+0.7168027614	atomic clusters
+0.7165767949	noble gas atoms
+0.7161522707	zinc
+0.7158940219	phase
+0.7157417196	microcanonical
+0.7156384522	iterative
+0.7152353350	light induced
+0.7148650237	lennard jones
+0.7148253801	kinetics
+0.7146613559	femtosecond pump probe
+0.7143705398	energy curves
+0.7142922489	optical
+0.7140047739	molecular
+0.7139433235	energy range
+0.7134783583	freezing
+0.7134737500	titanium
+0.7132034910	insulator
+0.7131753399	temperature dependent
+0.7129874686	vibrational spectrum
+0.7128192992	electron
+0.7122041322	ambient
+0.7121800728	visible
+0.7112630062	stokes
+0.7111753667	scattering
+0.7110579322	supersonic slit
+0.7109767750	fractional
+0.7101684470	dirac
+0.7099928989	electron energy loss
+0.7097522514	electrical
+0.7094525216	theoretical
+0.7094307660	field theory
+0.7092203342	semiconductor
+0.7092203342	dimensionality
+0.7088501846	energy levels
+0.7087630097	ion
+0.7086815447	langevin
+0.7082459179	cascade
+0.7082459179	ladder
+0.7076855065	spectroscopy
+0.7075915234	multipole
+0.7075915165	incident electron
+0.7072922273	electronic
+0.7071437846	aromatic hydrocarbon
+0.7070485042	physics
+0.7063901022	membrane
+0.7061370316	experimental
+0.7060879370	oxidation
+0.7059617647	doppler
+0.7059495914	boltzmann
+0.7058983302	cartesian
+0.7055736025	lithium
+0.7052397289	simple
+0.7051629606	simulation results
+0.7051618448	nmr
+0.7051220227	deposition
+0.7050904591	biology
+0.7050461975	harmonic
+0.7050414402	slit jet
+0.7043956331	microwave
+0.7042799778	photon ionization
+0.7041910672	stimulated
+0.7041170276	quantum states
+0.7041140072	nebulae
+0.7034285778	bound
+0.7031947250	vapour
+0.7019215815	optics
+0.7018694491	experimental results
+0.7015145767	optical response
+0.7011390556	spectra
+0.7010301466	atomic
+0.7007927070	density functional calculations
+0.7006167190	penning
+0.7003189234	morse
+0.7001540171	small
+0.6996622462	interaction potentials
+0.6995779502	femtosecond
+0.6991923619	water
+0.6991625536	kerr
+0.6990358325	sigma_u
+0.6989517339	algebra
+0.6984599705	covalent
+0.6975206235	coulomb
+0.6974525071	object
+0.6974525071	paramagnetic
+0.6974207945	c60
+0.6971768085	formation
+0.6970520665	laser
+0.6970356328	methyl
+0.6970171134	oriented
+0.6968191958	control
+0.6967208336	intermolecular
+0.6965665796	ultracold
+0.6964316492	x ray
+0.6962460355	field
+0.6961182039	dissociation energies
+0.6956237533	heterogeneous
+0.6949427751	science
+0.6947555399	argon
+0.6945459944	photoelectron circular
+0.6941212601	correlated
+0.6941108564	electronic motion
+0.6940225946	icosahedral
+0.6940198197	renormalization
+0.6939867735	stopping
+0.6939857237	matter
+0.6937515496	analysis
+0.6936119765	relativistic
+0.6935497060	singlet
+0.6934592928	contact
+0.6933993525	sampling
+0.6926140469	entanglement
+0.6925984384	fluorescence
+0.6924064297	invariance
+0.6923720171	cooper
+0.6920274684	large
+0.6918816865	relative phase
+0.6917940829	results obtained
+0.6909750258	vibrational frequencies
+0.6908203515	cold
+0.6903127170	ionization potential
+0.6902488287	faddeev
+0.6900729375	finite systems
+0.6898919051	energy gap
+0.6897266033	situ
+0.6896116402	ring
+0.6894920642	nanoclusters
+0.6894815787	ultrafast
+0.6890995189	orbital free
+0.6890656335	thermal
+0.6889799959	li
+0.6888575498	ultracold atoms
+0.6887791287	metal
+0.6886247158	electron attachment
+0.6886063481	dft
+0.6884245823	efficient
+0.6874689674	compound
+0.6874689674	computing
+0.6874356238	vibrational levels
+0.6872388169	photo
+0.6871131797	equilibrium
+0.6870621619	important role
+0.6868980448	high intensity
+0.6867730967	compounds
+0.6866807289	controlled
+0.6866577633	confined
+0.6866470065	magnesium
+0.6863808876	statistical
+0.6861008817	effective
+0.6859033198	ionic structure
+0.6855691337	fractal
+0.6854790776	structural
+0.6850968895	theoretical study
+0.6849704876	intense
+0.6849668484	harmonics
+0.6848479124	dissociative
+0.6848077673	non perturbative
+0.6846856128	hall
+0.6845687431	oxygen
+0.6843364493	transport
+0.6842376015	silicon
+0.6841190446	state
+0.6836346283	free
+0.6835665968	source
+0.6834033666	standard
+0.6833730060	clusters
+0.6832391788	ionic
+0.6831444852	rayleigh
+0.6830238748	organic
+0.6829727270	initial state
+0.6829426322	nature
+0.6826600620	energy level
+0.6826287917	experimental values
+0.6824471073	resonant
+0.6821471645	uv
+0.6816462300	extensive
+0.6814918635	universal
+0.6810162620	photoionization
+0.6807810622	energy
+0.6805757879	reflection
+0.6804957711	infrared
+0.6804559693	employing
+0.6803596173	confinement
+0.6802865366	liquid
+0.6801339946	sic
+0.6801150596	heavy atoms
+0.6800699842	induced
+0.6797654738	basis
+0.6796951395	recently
+0.6794300980	case study
+0.6793665472	h_2
+0.6793469671	high density
+0.6792643182	partial
+0.6790625315	tight binding model
+0.6786869907	nitrogen
+0.6786061381	ising
+0.6783648935	coherent
+0.6782602608	network
+0.6781502687	parametric
+0.6781203864	study
+0.6780512793	pulsed supersonic
+0.6779171980	gaussian basis
+0.6778700330	spectrometer
+0.6778618259	rydberg
+0.6778388610	s wave
+0.6775737165	explicit
+0.6775243491	ch
+0.6774045948	classical
+0.6773751355	interaction potential
+0.6772506356	analytical
+0.6772009657	quantity
+0.6769562754	closed
+0.6765873900	crystal
+0.6764809724	green's
+0.6763196546	special
+0.6760820981	ionization
+0.6759314042	angular
+0.6758852061	excitation
+0.6756665072	diffusion
+0.6752125746	mass
+0.6750336915	energetics
+0.6748121032	dark
+0.6748027704	x ray diffraction
+0.6745616249	adiabatic
+0.6744058662	melting
+0.6743027777	accurate
+0.6742365247	general
+0.6740667070	momentum
+0.6739990240	stark
+0.6739979973	h2
+0.6737589122	imaging
+0.6736341064	solvation
+0.6735499436	xe
+0.6733172091	remarkable
+0.6732241705	boron
+0.6730758450	modeling
+0.6729545547	proton
+0.6729239071	excited
+0.6727746315	global
+0.6725972537	endohedral
+0.6725145522	center
+0.6723486232	resonances
+0.6723295584	stability
+0.6722805536	wave
+0.6721551045	similar
+0.6719203867	generalized
+0.6717887466	co2
+0.6716900718	low energy electrons
+0.6716874121	chiral
+0.6714415578	order
+0.6712397923	subsequent
+0.6711995135	spectroscopic
+0.6708839916	correlation
+0.6706106896	rb
+0.6705045195	grain
+0.6704395528	collective
+0.6703696251	atomic orbitals
+0.6701889199	space
+0.6701825303	variational
+0.6701030961	density
+0.6701029844	gw
+0.6698938586	model
+0.6697136033	weakly
+0.6696663070	lattice
+0.6696661834	loop
+0.6696590725	systematic
+0.6694785281	correlations
+0.6694343062	n_
+0.6693377375	excitation spectrum
+0.6690180883	heavy
+0.6689048398	comparison
+0.6688588289	silver
+0.6687750627	mechanical
+0.6685892877	past
+0.6685808007	processing
+0.6684163021	nanotube
+0.6683668041	orbital
+0.6683209532	driven
+0.6683164974	attosecond
+0.6682658710	estimates
+0.6682085982	gold
+0.6681652585	ground states
+0.6678898916	solid
+0.6678417756	truncated
+0.6677680608	kinetic
+0.6677086399	size
+0.6676994641	hot
+0.6676703284	test
+0.6674179859	phi
+0.6672266620	finite
+0.6672058953	mol
+0.6671686253	charge
+0.6669815549	al
+0.6669341106	optimal
+0.6667252415	taking into account
+0.6665628369	plesset
+0.6664713764	ablation
+0.6664008667	detailed
+0.6662675590	nonlinear
+0.6662229852	microscope
+0.6661351071	atom
+0.6660805624	negative
+0.6660148330	decomposition
+0.6659082721	building
+0.6657546660	charged
+0.6655198923	tunable
+0.6654978959	photoabsorption
+0.6654165165	canonical
+0.6652901411	coherence
+0.6652129921	temperature
+0.6651497487	hydrocarbon
+0.6649514467	dynamic
+0.6648704161	soft
+0.6648363605	doped
+0.6648283871	efimov
+0.6646260729	modulus
+0.6644478402	teller
+0.6642578847	analyzing
+0.6642301280	raman
+0.6641646836	transition
+0.6640665367	microscopy
+0.6640306557	long
+0.6637934948	asymptotic
+0.6636945095	sodium
+0.6636233882	spontaneous
+0.6635480675	root
+0.6633544598	supersonic
+0.6630207786	dynamics
+0.6629595843	density functional theory calculations
+0.6628585548	high order harmonic
+0.6626180874	anionic
+0.6624750522	synchrotron
+0.6624389173	direct
+0.6624067993	dispersion
+0.6620863196	potential
+0.6619635023	virtual
+0.6616530179	transparency
+0.6613436500	methane
+0.6613289153	creation
+0.6613009445	understanding
+0.6611201799	xe @ c60
+0.6610140952	auger
+0.6609455770	cosmic
+0.6608282227	gaussian
+0.6607212821	recent
+0.6606967244	na
+0.6605238663	properties
+0.6604180839	simulations
+0.6603969084	unitary
+0.6603571686	strong
+0.6600757553	dependent
+0.6599637300	optical field
+0.6594619873	fermi
+0.6593990672	harmonic generation
+0.6593697672	double
+0.6592411100	nh3
+0.6591320489	center of mass
+0.6588452076	atoms
+0.6588128685	probe
+0.6584594869	simply
+0.6583918144	bond
+0.6582270031	pi
+0.6580681995	landscape
+0.6580002668	soft x ray
+0.6578453619	metal cluster
+0.6577454033	fragmentation
+0.6575606043	lennard jones clusters
+0.6575151708	applying
+0.6572704330	structural properties
+0.6572032454	born
+0.6571567409	scanning
+0.6571163213	magnetism
+0.6570231423	tio2
+0.6568263028	cal
+0.6567875794	fusion
+0.6567331899	nanotubes
+0.6566247843	results
+0.6565879451	diffractive
+0.6565723131	giant
+0.6564286804	atmospheric
+0.6561792886	numerical
+0.6561030348	ion yields
+0.6559739151	low
+0.6559682751	calculating
+0.6559362562	experimental conditions
+0.6558419702	unified
+0.6558273224	interaction
+0.6557730083	multi
+0.6557351420	crossing
+0.6555728110	electric
+0.6554856443	coulombic
+0.6549675990	recent experimental
+0.6548971362	cm
+0.6548221582	dispersive
+0.6548221582	conversion
+0.6547882996	gold clusters
+0.6546391419	decay
+0.6544406606	photoelectron
+0.6543685176	aspect
+0.6543477124	signature
+0.6542324501	chemistry
+0.6541654621	charge states
+0.6540481706	algorithm
+0.6539138379	random
+0.6538272412	representation
+0.6536968917	climate
+0.6536968917	carbonyl
+0.6535629692	n2
+0.6535437436	impact
+0.6533630690	high
+0.6532546645	interstellar
+0.6531834010	mhz
+0.6530158587	simulated
+0.6528175372	capture
+0.6527507944	monoxide
+0.6527507944	conduction
+0.6527411088	lead
+0.6526324370	condensed
+0.6525878889	computational
+0.6525447624	machine
+0.6525323883	cluster
+0.6522826020	incident
+0.6522615962	homo
+0.6521615983	path
+0.6520934890	vibrational
+0.6520826766	degrees of freedom
+0.6518907081	feshbach
+0.6518820583	mo
+0.6518449032	emission
+0.6518426172	gauge
+0.6517322888	branch
+0.6517289956	symmetry
+0.6516697624	steady
+0.6515837244	ti
+0.6515271004	free electron
+0.6514647623	electron correlation
+0.6510540970	surface
+0.6508241351	o2
+0.6508241351	swcnts
+0.6506933412	cs2
+0.6506131729	mgo
+0.6505721943	condensation
+0.6504860492	range
+0.6504847457	semi
+0.6504811638	nps
+0.6502928229	experimentally observed
+0.6502714196	effect
+0.6502081452	aromatic
+0.6501953081	chemical
+0.6501675597	relevance
+0.6501351914	pahs
+0.6500976532	hf
+0.6500789818	decoherence
+0.6500789818	ionizing
+0.6500789818	depletion
+0.6499720826	doubles
+0.6496784723	hybrid
+0.6496152012	afm
+0.6493672234	h2o
+0.6491353240	genetic
+0.6489931516	nac
+0.6489931516	cnt
+0.6489931516	qed
+0.6488281525	nuclear
+0.6487590002	kr
+0.6487281594	tb
+0.6481986675	fission
+0.6481907586	recent experiments
+0.6479146148	face
+0.6476178887	molecules
+0.6476058882	assessment
+0.6473679792	ii
+0.6470286122	ch3
+0.6468592778	electron spectra
+0.6465799861	cn
+0.6465345850	thz
+0.6465285190	breaking
+0.6465285190	square
+0.6465132701	advances
+0.6465004879	letter
+0.6464288370	treatment
+0.6463351228	dna
+0.6462988009	pz
+0.6462833245	inverse
+0.6461390531	van der waals interaction
+0.6460101838	evolution
+0.6459506613	tip
+0.6458660345	dimensions
+0.6457600756	electronic excitations
+0.6456980950	laser polarization
+0.6456614053	magic
+0.6456594367	dipole
+0.6455269309	rpa
+0.6452720364	light
+0.6451504302	periodic
+0.6450791734	photoemission
+0.6450457308	geometric
+0.6449735032	hhg
+0.6449342102	aggregation
+0.6445168074	ci
+0.6444417764	ionization energies
+0.6444084240	spectrum
+0.6440441397	c2h4
+0.6440264588	lda
+0.6439205714	condon
+0.6438780599	adding
+0.6437064101	ptcda
+0.6435640388	dust
+0.6435586661	embedded
+0.6433845550	imi
+0.6433337791	calculations
+0.6432412646	alkali
+0.6431683650	comparing
+0.6431458569	c70
+0.6430787300	gga
+0.6429930061	cl
+0.6428524093	vector
+0.6428061455	stm
+0.6427329982	pah
+0.6425003636	heat
+0.6424291149	qtaim
+0.6423926127	storage
+0.6423814200	charge state
+0.6422753221	silicon clusters
+0.6422086025	differential cross
+0.6420906583	absorption
+0.6417656963	shear
+0.6417234242	fourier
+0.6417171116	mp2
+0.6415937499	static
+0.6415741809	interatomic
+0.6413911756	diagram
+0.6412797750	ga
+0.6411013076	based
+0.6410618563	pes
+0.6410448328	landau
+0.6409069540	femtosecond pump
+0.6408997654	insights
+0.6407047095	implications
+0.6406046929	ots
+0.6405209210	characterization
+0.6404371135	effects
+0.6403882113	enhanced
+0.6402805553	pronounced
+0.6402352108	ch4
+0.6402352108	lm2m2
+0.6402352108	mie
+0.6402352108	floquet
+0.6400667937	reduction
+0.6397788608	d2o
+0.6397128022	polarized
+0.6392201094	triangular
+0.6387872688	force
+0.6387532249	gas
+0.6387401561	inelastic
+0.6385162535	lj
+0.6384949722	stochastic
+0.6381430220	natural
+0.6381071058	rabi
+0.6379741098	exchange
+0.6378847507	intersections
+0.6378280431	nacl
+0.6378039748	rest
+0.6377230387	systems
+0.6376705520	property
+0.6376343019	modulation
+0.6375433829	na_n
+0.6372661403	interactions
+0.6371981982	neutron
+0.6369294305	version
+0.6369256503	photon
+0.6368038776	sam
+0.6368018123	na_
+0.6367285662	synthesis
+0.6363931050	diagonal
+0.6363931050	calcium
+0.6363931050	principal
+0.6362240567	fine
+0.6361499388	angulon
+0.6360455896	sr
+0.6359132764	optimize
+0.6358985128	sio
+0.6358198443	icd
+0.6358124563	nanoparticles
+0.6357970164	ions
+0.6357601819	lc
+0.6357007768	fano
+0.6356051494	precision
+0.6356051494	sized
+0.6355565641	plot
+0.6353999291	deviation
+0.6353999291	air
+0.6353260185	br
+0.6353260185	nb
+0.6353103301	m1
+0.6353103301	angstrom
+0.6352407395	tdlda
+0.6349986645	trapped
+0.6349976830	pressure
+0.6349837329	nuclear dynamics
+0.6349564073	integer
+0.6349460911	tddft
+0.6348777321	bi
+0.6348462181	sapt
+0.6346763110	md
+0.6345090155	hamiltonian
+0.6343708636	energies
+0.6342216540	neutral
+0.6341911333	xuv
+0.6341187481	design
+0.6340947893	earth
+0.6340372402	pbe
+0.6340104677	sh
+0.6338958216	orders of magnitude
+0.6338438180	reactions
+0.6337131549	na clusters
+0.6335760940	electromagnetic
+0.6332500850	clear
+0.6331941187	deep
+0.6329998105	ozone
+0.6329250222	qualitative
+0.6328770584	family
+0.6328770584	multiply
+0.6327580678	lambda
+0.6327134217	comprehensive
+0.6325964639	nanodroplets
+0.6325311760	cesium
+0.6324774220	optimization
+0.6323152877	xfel
+0.6322582661	rotational
+0.6322370074	highly
+0.6320858554	lumo
+0.6319762505	law
+0.6318946034	ultrashort
+0.6316762389	elastic
+0.6316753941	condensates
+0.6314404867	von
+0.6313410965	accuracy
+0.6312921530	b3lyp
+0.6312729196	zno
+0.6309627960	contrast
+0.6309266768	wigner
+0.6307980609	radical
+0.6305671291	oep
+0.6304433769	exact
+0.6303611056	perdew
+0.6302163514	orbit
+0.6300721943	esr
+0.6300227767	substantial
+0.6298384925	electronic structure calculations
+0.6297848931	method
+0.6297682643	collision
+0.6297596982	amorphous
+0.6297584308	alternative
+0.6295823364	n2o
+0.6295409544	ati
+0.6294499324	explosion
+0.6291334752	close
+0.6290772304	coupled
+0.6289508766	minimum
+0.6289375666	ocs
+0.6288549800	dimer
+0.6287516606	td
+0.6287426273	contrary
+0.6287130112	complete
+0.6286279476	pulses
+0.6282998785	scan
+0.6281849379	broadening
+0.6281457992	flux
+0.6280650736	mechanics
+0.6279210127	states
+0.6278291150	thermodynamics
+0.6277060264	superconducting
+0.6275616410	c_60
+0.6275379651	spin density
+0.6275073854	specifically
+0.6275020389	fullerenes
+0.6275015738	unlike
+0.6274861441	minimal
+0.6274839510	bonding
+0.6274251544	derivation
+0.6274251544	suited
+0.6273970052	initial
+0.6272409340	measurements
+0.6270870786	spatial
+0.6270793359	resolved
+0.6268879293	ccsd
+0.6268221918	np
+0.6267566328	studying
+0.6267329810	mechanism
+0.6267131736	nh
+0.6265350152	iii
+0.6264812358	extending
+0.6264812358	excitons
+0.6264302863	vuv
+0.6263837868	pauli
+0.6263837868	anderson
+0.6263837868	heisenberg
+0.6263247126	xenon
+0.6262875888	approach
+0.6262788137	c_
+0.6262081455	cloud
+0.6261562933	delta
+0.6259476217	valence
+0.6258597849	fluctuation
+0.6258597849	manifold
+0.6258597849	correspondence
+0.6258597849	mobility
+0.6255185808	polyatomic
+0.6255100029	tao
+0.6254033670	ir
+0.6253994400	embedded in helium
+0.6253796157	affected
+0.6253439104	ism
+0.6253439104	bec
+0.6252046492	growth
+0.6251335303	position
+0.6251211893	ni
+0.6251185066	weak
+0.6251131802	oc
+0.6250055741	molecule
+0.6249306660	behavior
+0.6247563211	rg
+0.6245941829	ag
+0.6245489001	hole
+0.6244481009	evaluation
+0.6243475978	generation
+0.6243439104	pecd
+0.6241466223	coordinate
+0.6240524934	external electric
+0.6238656620	acid
+0.6238571014	data
+0.6236202025	structures
+0.6236048437	anomalous
+0.6234894000	t_
+0.6233963238	dynamical
+0.6233021398	short
+0.6232180080	qubit
+0.6229682743	fermionic
+0.6229622631	boson
+0.6229261433	para
+0.6229172966	tool
+0.6228907991	rh
+0.6228358967	revealing
+0.6228290803	ho
+0.6228266759	excitonic
+0.6225944497	search
+0.6224439806	chem
+0.6223973396	carlo simulations
+0.6223583317	heterodyne
+0.6223534346	drop
+0.6223474414	cs
+0.6220312693	ge
+0.6220186184	group
+0.6219756508	sources
+0.6218988926	significant
+0.6217945834	detailed analysis
+0.6217883398	transfer
+0.6216827288	ca
+0.6214670858	increasing
+0.6213895051	geometry
+0.6213248465	optimized effective
+0.6213001770	stabilized
+0.6212932637	luminescence
+0.6210991649	cu
+0.6210437928	cr
+0.6208140333	differential
+0.6207186536	neon
+0.6206721101	fcc
+0.6206379431	investigation
+0.6206070993	hyperspherical
+0.6205632052	combining
+0.6205088978	cc
+0.6205081189	atomistic
+0.6204314844	channel
+0.6203971094	embedding
+0.6203815813	antihydrogen
+0.6203397970	extended
+0.6203125402	local
+0.6203040871	aspects
+0.6202925545	condensate
+0.6202340390	mixture
+0.6200549284	beam
+0.6200504682	experimentally
+0.6200082180	networks
+0.6199127115	slater
+0.6199127115	ba
+0.6198155512	hd
+0.6197877143	ramachandran
+0.6197752083	au
+0.6196948050	em
+0.6196187115	gain
+0.6194914482	shot
+0.6193078475	transformation
+0.6191984762	integral
+0.6190608912	velocity
+0.6188521400	chirality
+0.6188521400	spatially
+0.6188122003	c2
+0.6187877143	hilbert
+0.6187299012	rev
+0.6186927427	static electric
+0.6186767986	ng
+0.6186526600	radiative
+0.6186506831	evidence
+0.6186094790	rich
+0.6185865457	coordination
+0.6185351888	pulse
+0.6185144732	sigma
+0.6184391295	shock
+0.6183061333	glass
+0.6182623387	aluminum
+0.6181400646	hyperfine
+0.6180100858	mn
+0.6179970754	terahertz
+0.6177713093	dc
+0.6175965259	intermediate
+0.6174872931	monolayer
+0.6174872931	stabilities
+0.6174814854	coupling
+0.6173765271	deuterium
+0.6173563753	element
+0.6173330144	larger
+0.6172297295	combined
+0.6172285881	series
+0.6171240921	aim
+0.6170547741	ar
+0.6170105119	waves
+0.6169350882	electrons
+0.6168613961	su
+0.6168152992	f_
+0.6167967933	lett
+0.6167762191	pl
+0.6167762191	lici
+0.6167584176	oscillator
+0.6164847191	heh
+0.6164847191	zener
+0.6164345564	table
+0.6162940759	linear
+0.6162846669	polarization
+0.6160864736	suppression
+0.6160864736	decelerator
+0.6160472952	remarkably
+0.6160447020	transitions
+0.6159403422	functions
+0.6157235180	single molecule
+0.6155881258	achieving
+0.6155881258	approaching
+0.6154722991	simulation
+0.6151983540	bragg
+0.6150974511	cryogenic
+0.6150974511	potassium
+0.6150974511	deviations
+0.6149047736	ip
+0.6147848559	controlling
+0.6145725991	particle
+0.6144872197	resonance
+0.6144694788	strontium
+0.6143714981	surprisingly
+0.6142146699	owing
+0.6142122726	obtained
+0.6142048739	theoretical methods
+0.6141729479	observations
+0.6140563540	fe
+0.6139246877	probing
+0.6137753403	propagation
+0.6137739054	triple
+0.6137293055	function
+0.6136649571	calculated
+0.6135318566	discrete
+0.6134401690	qm
+0.6134033389	mev
+0.6133405827	parts
+0.6133377630	carrier
+0.6133334086	low energy electron
+0.6132696323	sharp
+0.6132696323	rubidium
+0.6132696323	bare
+0.6132696323	solvated
+0.6132391295	balance
+0.6129329742	parallel
+0.6128505778	protonated
+0.6128322864	ks
+0.6127856337	collisions
+0.6127302076	noise
+0.6127138624	bcc
+0.6126909688	unique
+0.6126636201	laboratory
+0.6126596973	jellium
+0.6125925458	particles
+0.6124189646	topological
+0.6123836703	droplets
+0.6122508371	he2
+0.6122350567	hbar
+0.6121529945	ab
+0.6119227918	half
+0.6117689479	development
+0.6116917880	tc
+0.6115724511	hydrogenated
+0.6114923004	sci
+0.6114827365	distance
+0.6114810978	topology
+0.6113573819	sc
+0.6113568971	fields
+0.6113459063	high order
+0.6111104660	small clusters
+0.6110559737	hamiltonians
+0.6109607183	desorption
+0.6109339061	aromaticity
+0.6109339061	millimeter
+0.6108172746	translational
+0.6105999753	multiphoton
+0.6104858569	si
+0.6104676965	activity
+0.6104676965	standing
+0.6104446030	ac
+0.6103882350	hcn
+0.6103461678	affinity
+0.6102895643	accounts
+0.6102895643	sympathetic
+0.6102871299	e_2
+0.6102400520	thomas
+0.6101386900	adsorbed
+0.6100372538	ghz
+0.6099577416	nickel
+0.6096409877	slit
+0.6095276184	broad
+0.6095276184	detection
+0.6094594573	r_
+0.6094013686	crystalline
+0.6093695022	tensor
+0.6092867868	rf
+0.6091649201	rearrangements
+0.6091649201	colloidal
+0.6088162464	laser cluster
+0.6088040351	production
+0.6087545176	femtosecond laser
+0.6086532439	hard
+0.6086359859	electronic properties
+0.6085335015	post
+0.6085012706	methanol
+0.6082449788	mackay
+0.6080420676	gradient
+0.6080420676	power
+0.6079917897	microscopic
+0.6079862084	ne
+0.6078339179	mc6li6
+0.6078339179	c240
+0.6076111506	high temperature
+0.6074283047	response
+0.6071619543	subsystem
+0.6070468801	diatom
+0.6068311883	studied
+0.6067281793	a_
+0.6066948439	finally
+0.6066397260	conformational
+0.6066397260	formulas
+0.6066397260	autoionization
+0.6066371542	mg
+0.6065557786	bose
+0.6062280606	ground and excited
+0.6060762043	case
+0.6060158444	cages
+0.6059248893	index
+0.6058721352	previous
+0.6058045699	bar
+0.6055713129	gross
+0.6054348728	curve
+0.6054348108	order of magnitude
+0.6052828289	reaction
+0.6051891469	maximum
+0.6051571044	length
+0.6049224966	films
+0.6049131305	interestingly
+0.6048017020	realization
+0.6047183696	radio
+0.6046133237	rotationally
+0.6044556874	semiclassical
+0.6044381448	optoelectronic
+0.6044381448	tailored
+0.6044381448	utilizing
+0.6044248251	challenge
+0.6044248251	trajectory
+0.6043068592	active
+0.6042934957	bubbles
+0.6041682645	pulsed
+0.6037308631	blocks
+0.6035988927	comment
+0.6035284755	dissipation
+0.6034975890	time dependent density functional theory
+0.6034790017	interpretation
+0.6033915010	_8
+0.6033154281	fullerene
+0.6032002547	hidden
+0.6031517589	class
+0.6031469010	monomer
+0.6031469010	localization
+0.6029810610	rotational energy
+0.6029542378	inorganic
+0.6029542378	analogous
+0.6029542378	factorization
+0.6029542378	renormalisation
+0.6029017416	observed
+0.6028429437	diatomic
+0.6027149985	internal
+0.6026847522	fermions
+0.6026176347	excitation energies
+0.6025932345	absolute
+0.6025843088	enhancement
+0.6025107778	matrix
+0.6024733165	bridging
+0.6024733165	empirically
+0.6024733165	interparticle
+0.6024733165	hydrides
+0.6024733165	dication
+0.6024733165	exploiting
+0.6024733165	naphthalene
+0.6024733165	assisted
+0.6024733165	recoil
+0.6024733165	photoinduced
+0.6024733165	peculiar
+0.6024733165	requirements
+0.6024733165	optimizing
+0.6024522056	strength
+0.6024268060	wide
+0.6024114376	led
+0.6024114376	cos
+0.6024114376	prior
+0.6023054237	xenon clusters
+0.6022521845	hydrogen atoms
+0.6020155333	route
+0.6020155333	endohedrals
+0.6019478639	critical
+0.6019358215	simulating
+0.6019358215	characterizing
+0.6019171622	influence
+0.6017789323	efficiency
+0.6017016117	average
+0.6014121781	factor
+0.6013643331	nuclei
+0.6013523497	chirped
+0.6012627504	superfluid
+0.6011942689	calculation
+0.6010587667	lying isomers
+0.6010451820	ps
+0.6007819657	transmission
+0.6007448442	level
+0.6004844897	phys
+0.6003266556	anisotropy
+0.5998523726	additional
+0.5997551495	additionally
+0.5996626813	assembled
+0.5996626813	_5
+0.5996336952	limit
+0.5995985745	intersection
+0.5995745415	computation
+0.5995359989	future
+0.5995259183	manipulation
+0.5995237491	starting
+0.5994317360	coefficient
+0.5992405203	functional
+0.5990741208	migration
+0.5988910381	rapid
+0.5988792111	hydrocarbons
+0.5987962233	cis
+0.5987739530	objects
+0.5987317172	plasmon
+0.5986614507	learning
+0.5986614507	contribute
+0.5986614507	acids
+0.5985439468	sticky
+0.5984055247	oppenheimer
+0.5983386589	dressed
+0.5982984720	basin
+0.5981380641	isomerization
+0.5981380641	attention
+0.5981380641	typically
+0.5980924374	diffraction
+0.5980151038	stars
+0.5980151038	chaotic
+0.5980151038	photodetachment
+0.5980151038	laws
+0.5980151038	pick
+0.5980151038	halide
+0.5980151038	array
+0.5980151038	inversion
+0.5980151038	opportunities
+0.5980151038	unexpectedly
+0.5979000079	background
+0.5975408791	review
+0.5974705247	life
+0.5974112279	construction
+0.5974082442	fluctuations
+0.5974075266	circularly
+0.5973157683	partially
+0.5972470614	comparisons
+0.5970868150	high spin
+0.5970035671	ago
+0.5969567589	reactivity
+0.5966749487	approximation
+0.5966437266	meta
+0.5966059773	breathing
+0.5965622138	experiment
+0.5965384634	solving
+0.5965277907	elastic and inelastic
+0.5964909804	mm
+0.5961415166	morphology
+0.5959358711	graphene
+0.5958980602	nano
+0.5957198418	stacked
+0.5957198418	pumping
+0.5957198418	clustering
+0.5957198418	photoassociation
+0.5956759974	dependence
+0.5955539793	tunneling microscopy
+0.5955243379	centered
+0.5950975042	extract
+0.5950911471	parameters
+0.5949520882	walled
+0.5949146492	detect
+0.5947969318	reference
+0.5947412574	similarly
+0.5947096076	testing
+0.5947096076	conducting
+0.5947096076	chromophore
+0.5947096076	fringe
+0.5947096076	emergent
+0.5947096076	photoion
+0.5947096076	coherences
+0.5947096076	sublimation
+0.5947096076	tubes
+0.5947096076	tests
+0.5944890749	implementation
+0.5944890749	action
+0.5944478092	cationic
+0.5944478092	bosonic
+0.5944171638	cycle
+0.5943359290	interacting
+0.5943225263	differences
+0.5942583607	related
+0.5942025421	experiments
+0.5940774880	interference
+0.5940744418	modification
+0.5940556346	forces
+0.5939027304	cavity
+0.5938307984	powerful
+0.5937182747	physical
+0.5936485119	emergence
+0.5934729076	measurement
+0.5933866262	ultra
+0.5933410737	excitations
+0.5933151813	spectrometry
+0.5932800455	barrier
+0.5931528166	potentials
+0.5929923448	total energies
+0.5928743120	problem
+0.5923052216	flow
+0.5920388861	singly
+0.5919761561	rm
+0.5919294042	prismane
+0.5918076552	products
+0.5913441660	intensity
+0.5910638767	above threshold
+0.5909979263	taking
+0.5909691489	vdw
+0.5908786268	relations
+0.5908289598	_m
+0.5908246352	monomers
+0.5908134854	pyrrole
+0.5907879987	integrated
+0.5907599329	conductivity
+0.5905920640	perturbed
+0.5905920640	subsequently
+0.5905920640	motivated
+0.5905723412	modified
+0.5904617928	relative
+0.5904313498	platinum
+0.5903352823	numerous
+0.5903309069	constant
+0.5903079612	restricted
+0.5901364378	core
+0.5900270359	graphite
+0.5897195933	universality
+0.5897195933	prospects
+0.5897195933	modelling
+0.5896379995	present
+0.5895613874	observables
+0.5894747183	equation
+0.5894450380	measuring
+0.5894287294	anion
+0.5894039061	singles
+0.5894039061	hcp
+0.5893928211	conical
+0.5891217269	dissociation
+0.5890529267	nanographite
+0.5889583395	distributions
+0.5888796063	proportional
+0.5887873546	predicted
+0.5887439838	resolved photoelectron
+0.5886563818	photonic
+0.5886563818	modern
+0.5886563818	break
+0.5886396339	complex
+0.5884734220	crystals
+0.5884578048	sum
+0.5884182609	ln
+0.5883195995	correction
+0.5882356557	slow
+0.5881935044	line
+0.5880334337	knowledge
+0.5880292305	pairs
+0.5880267133	methods
+0.5879718883	robust
+0.5879094834	predissociation
+0.5877445357	point
+0.5877054611	resulting
+0.5875814363	lowest
+0.5874620519	varying
+0.5873197004	rate
+0.5872265494	alpha
+0.5872213407	sphere
+0.5871753157	centre
+0.5871085117	bonded
+0.5871058820	capacities
+0.5870969905	nanocluster
+0.5868310944	classification
+0.5866621831	electrostatic
+0.5866381451	promising
+0.5863852823	crystallization
+0.5863852823	comparative
+0.5862106152	patterns
+0.5861520400	numerical results
+0.5861292706	radiation
+0.5860508372	electron exchange
+0.5858883808	frame
+0.5857328242	spectral
+0.5857137275	solar
+0.5857137275	tens
+0.5856754446	formed
+0.5853744348	transmission electron
+0.5852702848	triplet
+0.5851987638	cations
+0.5851598696	gases
+0.5848975194	signatures
+0.5848764271	relaxation
+0.5848435692	integral monte carlo
+0.5847694866	self interaction correction
+0.5847541702	shape
+0.5846740250	compact
+0.5846740250	defects
+0.5846127605	conditions
+0.5844950182	events
+0.5844155615	volume
+0.5843905277	r matrix
+0.5843539363	scaling
+0.5841568517	nucleus
+0.5841036933	quantitative
+0.5840778540	super
+0.5838512748	small molecules
+0.5836466761	hexagonal
+0.5836193724	magnetic properties
+0.5835993074	problems
+0.5834976081	perspective
+0.5834976081	acetylene
+0.5834976081	nanocrystals
+0.5833527237	higher
+0.5832731255	motion
+0.5831221024	phonon
+0.5831058820	rho
+0.5829716781	continuous
+0.5828723738	dielectric
+0.5828302887	precise
+0.5826762467	planetary
+0.5826449970	quasiparticle
+0.5826449970	screened
+0.5826449970	variable
+0.5826449970	predicting
+0.5826449970	bases
+0.5824602323	hartree
+0.5824406920	affinities
+0.5824049952	boundary
+0.5823379820	kohn
+0.5823210336	v_
+0.5822804308	bf
+0.5821444366	metallic
+0.5820996452	population
+0.5819611409	strongly
+0.5817867530	binding
+0.5816044618	fs
+0.5813544770	antiferromagnetic
+0.5813544770	macroscopic
+0.5813071330	plasmonic
+0.5812840658	step
+0.5812697223	relationship
+0.5812457047	decoupling
+0.5812457047	vibrationally
+0.5812457047	stabilization
+0.5811129190	supercooled
+0.5811031740	evaporation
+0.5810144704	isomer
+0.5809833383	analytic
+0.5809348182	variables
+0.5807556416	vacancies
+0.5806776513	complex molecules
+0.5806708158	field ionization
+0.5806588416	improved
+0.5806115881	irradiated
+0.5805582324	benchmark
+0.5805582324	vibrations
+0.5805107664	observe
+0.5804922870	technique
+0.5802849135	discuss
+0.5802585750	tight
+0.5801664417	monte
+0.5801623188	hydrodynamic
+0.5801428846	defect
+0.5801428846	inhomogeneous
+0.5801428846	ordering
+0.5800834473	far infrared
+0.5797707927	cross
+0.5797103490	fully
+0.5796883241	configuration
+0.5793591188	shifts
+0.5793563874	fast
+0.5793443843	mapping
+0.5793443843	classically
+0.5793443843	criteria
+0.5793443843	guided
+0.5793443843	clouds
+0.5793443843	monopole
+0.5793443843	rescattering
+0.5792299891	adsorption
+0.5791877119	points
+0.5791781455	perturbation
+0.5791260292	orbitals
+0.5791140194	homogeneous
+0.5791134124	correlation energy
+0.5789555978	vibronic
+0.5789200325	operator
+0.5789200325	radicals
+0.5788205059	trapping
+0.5787920014	vapor
+0.5785611054	agreement with experiment
+0.5785101289	nucleation
+0.5785055027	application
+0.5784850902	polarizabilities
+0.5784565532	entropy
+0.5784112616	turn
+0.5784112616	reduce
+0.5782624900	ray spectra
+0.5780979548	information
+0.5780422122	orientation
+0.5779997928	solve
+0.5779141110	latent
+0.5778974601	dot
+0.5778539197	liquids
+0.5778539197	optically
+0.5778539197	rearrangement
+0.5778539197	nonadiabatic
+0.5777001408	pm
+0.5776763185	experimental measurements
+0.5776209065	interaction energy
+0.5776060540	scale
+0.5775643792	pair
+0.5775635387	connected
+0.5775635387	ordered
+0.5775277707	specific
+0.5774081863	photoexcitation
+0.5774081863	vertical
+0.5773931948	localized
+0.5773765194	rotation
+0.5773759848	atomic or molecular
+0.5773434762	existence
+0.5772072914	beams
+0.5771711229	complexes
+0.5769914722	levels
+0.5768822636	resonant states
+0.5768794207	doping
+0.5767695620	simulate
+0.5767695620	address
+0.5766453639	benzene
+0.5762351562	equations
+0.5759257090	domain
+0.5755811451	frequencies
+0.5755779127	distribution
+0.5755616983	wavefunctions
+0.5753215633	investigated
+0.5751574218	fraction
+0.5751461207	functionals
+0.5751046063	extension
+0.5751046063	identification
+0.5750939146	orientational
+0.5750939146	chemically
+0.5750939146	ignition
+0.5750939146	selective
+0.5750939146	bremsstrahlung
+0.5750939146	focusing
+0.5750882722	composition
+0.5749654670	positronium
+0.5748349956	lived
+0.5748149181	liquid phase
+0.5746695271	describing
+0.5745532672	image
+0.5744506797	metastable
+0.5743362964	mediated
+0.5743362964	residual
+0.5743362964	streaking
+0.5743362964	excess
+0.5743362964	rovibrational
+0.5742694124	stationary
+0.5741409678	signal
+0.5739655758	impurity
+0.5739127731	fock
+0.5738269476	waals
+0.5738033730	create
+0.5737091986	heating
+0.5736967311	shells
+0.5736605159	candidate
+0.5736486696	dots
+0.5735187772	susceptibility
+0.5735187772	assess
+0.5735010367	definition
+0.5733821948	modes
+0.5733764775	candidates
+0.5732070949	augmented
+0.5732070949	protected
+0.5732070949	propensity
+0.5732070949	delocalization
+0.5732070949	investigating
+0.5732070949	incoherent
+0.5731325414	determined
+0.5730848155	classical molecular dynamics
+0.5730322701	current
+0.5727912529	formalism
+0.5727912529	characteristics
+0.5727738491	applicability
+0.5727068678	complexity
+0.5727068678	evolving
+0.5727068678	nanoplasmas
+0.5727068678	scissors
+0.5727068678	unusual
+0.5727068678	initially
+0.5727067854	electron correlations
+0.5725892962	consists
+0.5725044788	odd
+0.5725044788	ammonia
+0.5724806552	collisional
+0.5721381370	anions
+0.5718826119	lines
+0.5718691530	smaller
+0.5718365357	locsitons
+0.5717641110	relies
+0.5717641110	ro
+0.5717641110	lack
+0.5717469633	neighbor
+0.5716443150	radial
+0.5716438911	ground state structures
+0.5716239270	disorder
+0.5716137465	nu
+0.5714817155	sham
+0.5714817155	lennard
+0.5714185149	conformers
+0.5713117973	dipolar
+0.5712127507	triatomic
+0.5711153379	multiple
+0.5707437370	important
+0.5707172267	transverse
+0.5705873268	body
+0.5705591179	classical and quantum
+0.5705013407	nearest
+0.5705013407	transform
+0.5704777313	times
+0.5704702177	shown
+0.5704216453	atom molecule
+0.5704126154	external
+0.5703733669	ultrafast x ray
+0.5702816893	surfaces
+0.5698765583	radius
+0.5698038824	difficult
+0.5693382764	perpendicular
+0.5693382764	construct
+0.5692034014	equivalent
+0.5690105050	solutions
+0.5689810336	cubic
+0.5687899493	isomers
+0.5685042331	observation
+0.5684735469	increase
+0.5683904741	channels
+0.5683752251	doubly
+0.5683206100	sim
+0.5682223624	ethylene
+0.5680090789	solids
+0.5679359821	symmetric
+0.5676957709	landscapes
+0.5674967485	spin dynamics
+0.5673230975	detected
+0.5673145105	chains
+0.5672145341	contribution
+0.5671698430	studies
+0.5670645399	wavepacket
+0.5670645399	superfluidity
+0.5670645399	formulation
+0.5670645399	intramolecular
+0.5670645399	distortion
+0.5670645399	simultaneous
+0.5670645399	oblate
+0.5669330190	delayed
+0.5669059193	atoms in molecules
+0.5668622218	sizes
+0.5666779182	validity
+0.5666181455	oscillating
+0.5661661828	planar
+0.5660546641	red
+0.5660546641	hopping
+0.5659988315	band
+0.5656070698	process
+0.5654783270	yield
+0.5652340062	basic
+0.5652340062	equal
+0.5651108834	dense
+0.5650100332	spherical
+0.5648262223	quantified
+0.5648262223	preparation
+0.5648262223	beamline
+0.5648262223	composite
+0.5648262223	tube
+0.5648262223	wire
+0.5648262223	familiar
+0.5648262223	averaging
+0.5648262223	passing
+0.5648262223	frustrated
+0.5648262223	melt
+0.5648262223	layered
+0.5648262223	identifying
+0.5648262223	importantly
+0.5648262223	quantized
+0.5648262223	surprising
+0.5648262223	scalar
+0.5648262223	colliding
+0.5648262223	interferences
+0.5647840723	reported
+0.5645897330	lifetime
+0.5644884295	ability
+0.5641940581	carlo
+0.5641493616	ev
+0.5641102993	rare
+0.5640962676	dopant
+0.5640934315	images
+0.5640934315	degenerate
+0.5638461245	unit
+0.5637509508	open
+0.5636782604	lower
+0.5635478540	key
+0.5633053295	interface
+0.5631933885	tend
+0.5631722552	adapted
+0.5629527281	site
+0.5629370455	exciton
+0.5629165195	materials
+0.5628607110	outer
+0.5627408101	low temperatures
+0.5627244911	common
+0.5627067846	supported
+0.5626777292	stretching
+0.5623795366	waveguide
+0.5623795366	adamantane
+0.5622778058	hcp phase
+0.5622040544	width
+0.5622039788	applications
+0.5621564663	polymer
+0.5621509033	smallest
+0.5621509033	spheres
+0.5621509033	statistics
+0.5621509033	perfect
+0.5621509033	trial
+0.5621509033	steps
+0.5621509033	reducing
+0.5621509033	curvature
+0.5621098348	activation
+0.5620665633	distinct
+0.5618756583	traps
+0.5618756583	bubble
+0.5613344754	_6
+0.5613180002	astronomical
+0.5613180002	ideal
+0.5613180002	regular
+0.5612775601	geometrical
+0.5609282312	temperatures
+0.5604568812	acting
+0.5604568812	halogen
+0.5604568812	ubiquitous
+0.5604568812	reconstruction
+0.5604568812	distorted
+0.5604568812	coated
+0.5604568812	list
+0.5604568812	measures
+0.5604568812	magnetically
+0.5604568812	frozen
+0.5604568812	nanosecond
+0.5604568812	micro
+0.5604568812	imaginary
+0.5604568812	spherically
+0.5604568812	deceleration
+0.5603978979	exponential
+0.5603656423	concentration
+0.5603329004	expansion
+0.5601649093	damage
+0.5600934993	selected
+0.5600384570	measured
+0.5597928087	occurrence
+0.5597477493	coordinates
+0.5597346667	usual
+0.5597277312	driving
+0.5597277312	intrinsic
+0.5597277312	theories
+0.5595702228	longitudinal
+0.5594464927	hundreds
+0.5594464927	entire
+0.5593444012	result
+0.5592860643	trends
+0.5592668040	mechanisms
+0.5591453044	plasma
+0.5591381283	cost
+0.5588901473	values
+0.5585243727	hydration
+0.5584893905	dimensional
+0.5584293208	coefficients
+0.5580441993	quadrupole
+0.5579576538	edge
+0.5578143474	quantum classical
+0.5577072075	inclusion
+0.5576511467	positron
+0.5575037484	increases
+0.5574735738	inter
+0.5571601661	selection
+0.5570384775	deformed
+0.5569506115	total
+0.5565816521	optimized
+0.5565711557	structural and electronic
+0.5562741286	backward
+0.5562741286	rules
+0.5561805390	ratio
+0.5561181177	estimate
+0.5561155637	glassy
+0.5560847778	stacking
+0.5560847778	theorem
+0.5560843110	individual
+0.5558843486	proposed
+0.5558746302	characteristic
+0.5558743545	region
+0.5558343417	dimension
+0.5557390234	paid
+0.5557390234	adaptation
+0.5557390234	originates
+0.5556914107	coronene
+0.5556914107	diameter
+0.5556753030	material
+0.5555807098	variations
+0.5555807098	tuned
+0.5555807098	quantitatively
+0.5555807098	simultaneously
+0.5555807098	couplings
+0.5554653072	absorption and emission
+0.5554575738	neutral and charged
+0.5553752819	excitation energy
+0.5550054605	environment
+0.5550054605	independent
+0.5549658654	vacancy
+0.5549074436	discussed
+0.5548432011	color
+0.5546894163	magnetization
+0.5546394023	tetramer
+0.5546171042	splitting
+0.5545824096	theoretical results
+0.5545650472	cage
+0.5545142193	original
+0.5544015622	correctly
+0.5544015622	improvement
+0.5544015622	hybridization
+0.5543554129	applied
+0.5542402860	tension
+0.5542169034	prolate
+0.5542031740	report
+0.5540825409	stable
+0.5538124864	derived
+0.5538089133	sigma_
+0.5537599052	bulk
+0.5537095912	cases
+0.5536861263	predictions
+0.5535310070	electron scattering
+0.5533235624	threshold
+0.5533167450	functional theory calculations
+0.5531672548	nm
+0.5531436472	electronically
+0.5531436472	serve
+0.5529333810	effective potential
+0.5528458197	tunneling
+0.5528185735	insight
+0.5528128791	energetic
+0.5526531082	positively
+0.5526501832	quality
+0.5526277388	presented
+0.5525566720	ensemble
+0.5523762878	rings
+0.5523080220	determine
+0.5521976913	techniques
+0.5521100749	literature
+0.5520417621	mode
+0.5519840672	shapes
+0.5519116895	holography
+0.5519116895	failure
+0.5518681742	change
+0.5517953723	comparable
+0.5517310497	error
+0.5517073935	fluid
+0.5517035640	developed
+0.5515040290	performed
+0.5515012334	making
+0.5515012334	vibration
+0.5515012334	bosons
+0.5515012334	photodissociation
+0.5514220499	map
+0.5513215241	density of states
+0.5511676782	drops
+0.5511103836	phase approximation
+0.5511070376	determining
+0.5511070376	investigations
+0.5511070376	trajectories
+0.5511070376	qualitatively
+0.5511064723	plasmas
+0.5511064723	tools
+0.5511064723	nanoscale
+0.5511064723	solved
+0.5510237913	electronic state
+0.5510058203	regimes
+0.5509483018	widths
+0.5509483018	observable
+0.5509483018	systematically
+0.5509483018	greatly
+0.5507644285	deformations
+0.5507644285	tomography
+0.5507644285	stress
+0.5507644285	connection
+0.5507644285	changing
+0.5507644285	astrophysical
+0.5507644285	rigorous
+0.5507644285	early
+0.5507644285	decreasing
+0.5507644285	tuning
+0.5507644285	built
+0.5507644285	switching
+0.5507644285	charging
+0.5507644285	decays
+0.5505456811	superposition
+0.5505034557	gap
+0.5504538097	local spin
+0.5503932025	yields
+0.5501628219	rule
+0.5500957891	arising
+0.5500546550	wafers
+0.5500119185	generate
+0.5499201185	coincidence
+0.5499201185	catalytic
+0.5499201185	practical
+0.5499201185	traditional
+0.5499201185	isotropic
+0.5499201185	producing
+0.5499201185	picosecond
+0.5498311690	condition
+0.5497787830	isolated
+0.5497681394	chain
+0.5495764182	phases
+0.5494094573	appearance
+0.5492280723	phenomena
+0.5491534518	flat
+0.5491381626	droplet
+0.5491319737	rotating
+0.5490826633	medium
+0.5487970583	scheme
+0.5487586020	alkaline
+0.5487083687	fragmentation dynamics
+0.5486978447	form
+0.5486687820	intensities
+0.5486606418	permanent
+0.5486173597	mixed
+0.5486173597	samples
+0.5484781178	odinger
+0.5482571965	computed
+0.5481749264	vortex
+0.5480562977	shift
+0.5479533875	dimers
+0.5479358308	agree
+0.5478936883	forward
+0.5477673971	view
+0.5476874019	depth
+0.5475519025	corrected
+0.5474692336	ground
+0.5474393702	calculate
+0.5474322012	radii
+0.5473313564	directly
+0.5471891454	frequency
+0.5471640045	solvent
+0.5471640045	approximate
+0.5469667689	cooling
+0.5467945325	abundance
+0.5467945325	perturbative
+0.5467896953	component
+0.5467077365	accounting
+0.5465896107	extreme
+0.5465724277	paper
+0.5459575690	orbits
+0.5459575690	generic
+0.5459376139	computations
+0.5459376139	transient
+0.5459111449	initio calculations
+0.5459053746	electrochemical
+0.5459053746	solidlike
+0.5459053746	immersed
+0.5459053746	unidirectional
+0.5459053746	polaron
+0.5459053746	mono
+0.5459053746	critically
+0.5459053746	flexible
+0.5459053746	thermally
+0.5459053746	evaporating
+0.5459053746	semilocal
+0.5459053746	degeneracies
+0.5459053746	diagnostic
+0.5459053746	enabling
+0.5459053746	deuterated
+0.5459053746	setting
+0.5459053746	popular
+0.5459053746	vectors
+0.5459053746	rough
+0.5459053746	conclusions
+0.5459053746	oligomers
+0.5459053746	benchmarks
+0.5459053746	di
+0.5459053746	fluorescent
+0.5459053746	avoided
+0.5459053746	spaces
+0.5459053746	ethanol
+0.5459053746	consequences
+0.5459053746	bigger
+0.5459053746	successful
+0.5459053746	expansions
+0.5459053746	polymers
+0.5459053746	envelope
+0.5457988838	asymmetric
+0.5457988838	finding
+0.5457988838	deformation
+0.5457988838	recombination
+0.5457988838	established
+0.5456031386	groups
+0.5449072134	fermion
+0.5447439942	time dependent local density approximation
+0.5446764266	atom atom
+0.5444695042	bands
+0.5444080530	provide
+0.5443639131	extracted
+0.5442842757	trap
+0.5442207884	assigned
+0.5440430023	plasmons
+0.5432039918	lasers
+0.5431928367	polytetrahedral
+0.5431928367	minimization
+0.5431928367	sheets
+0.5431928367	ionisation
+0.5431928367	atmospheres
+0.5431928367	eigenstates
+0.5431928367	crossover
+0.5431928367	growing
+0.5431928367	domains
+0.5431928367	enabled
+0.5431928367	favor
+0.5431928367	gaseous
+0.5431928367	unprecedented
+0.5431928367	manganese
+0.5431928367	uncertainty
+0.5431928367	emphasis
+0.5430093708	minima
+0.5428499656	size distributions
+0.5428417512	first principle
+0.5427713392	oscillations
+0.5426167408	positions
+0.5425897523	self assembled
+0.5424508270	target
+0.5424324901	~
+0.5424141911	quasi
+0.5424048910	onset
+0.5423021165	predict
+0.5421998882	quantum monte
+0.5421558001	cell
+0.5418718046	origin
+0.5418718046	context
+0.5417591775	essential
+0.5417591775	realistic
+0.5417403571	isotopic
+0.5417403571	purely
+0.5417403571	progress
+0.5417403571	broken
+0.5417403571	faster
+0.5417403571	representations
+0.5417403571	ensembles
+0.5417403571	iodine
+0.5417403571	aggregates
+0.5417403571	developing
+0.5417403571	device
+0.5417403571	ansatz
+0.5417403571	mutual
+0.5417403571	phenomenological
+0.5417324346	amino
+0.5416903322	theoretically
+0.5416764270	fragment
+0.5416128549	details
+0.5415180977	choice
+0.5415037307	understand
+0.5414272510	investigate
+0.5413923971	corresponds
+0.5413923971	competition
+0.5413624130	near infrared
+0.5412114302	nanoplasma
+0.5411444363	solution
+0.5410874585	pure
+0.5410395375	dioxide
+0.5408528333	photons
+0.5408528333	numerically
+0.5407309988	considered
+0.5406866168	pump
+0.5405460631	numbers
+0.5404796814	occurring
+0.5402030700	thermodynamic
+0.5401685542	momenta
+0.5400930092	gaps
+0.5400930092	existing
+0.5398698906	non adiabatic
+0.5398509260	annihilation
+0.5395582988	helium clusters
+0.5395516544	providing
+0.5395516544	convergence
+0.5395516544	irradiation
+0.5395516544	anisotropic
+0.5395516544	predicts
+0.5394853951	place
+0.5393847989	reduced
+0.5392484164	fact
+0.5390152860	explained
+0.5387868779	widely
+0.5386383676	conventional
+0.5385953763	fixed
+0.5381916908	characterized
+0.5379975498	corrections
+0.5379690157	`
+0.5379243437	theoretical and experimental
+0.5377658804	obtain
+0.5377137867	ejection
+0.5377137867	wall
+0.5377137867	competing
+0.5377137867	splittings
+0.5377137867	arrangement
+0.5377137867	analogy
+0.5377137867	discovery
+0.5377137867	inherent
+0.5377137867	advanced
+0.5377137867	reactive
+0.5377137867	copper
+0.5377137867	forbidden
+0.5377137867	technology
+0.5377137867	unoccupied
+0.5377137867	strategy
+0.5377137867	nonlinearity
+0.5377137867	spheroidal
+0.5377137867	challenges
+0.5377137867	assuming
+0.5373164111	principle
+0.5372537923	cluster structure
+0.5371700054	expressions
+0.5370583774	purpose
+0.5369543533	optical spectra
+0.5368322752	magnitude
+0.5367993437	experimental and theoretical
+0.5367689045	derive
+0.5364925912	feature
+0.5362492157	included
+0.5362237510	mean square
+0.5360700377	polarizability
+0.5356987250	fundamental
+0.5356544102	electronic structures
+0.5356192259	infinite
+0.5354149333	suitable
+0.5353841902	dissociative electron
+0.5352935293	time delayed
+0.5350316738	separation
+0.5349409813	species
+0.5349191357	procedure
+0.5349015538	plane
+0.5348719657	analyzed
+0.5347700818	variation
+0.5345097458	temporal
+0.5344921858	lengths
+0.5344899724	size effects
+0.5344191357	densities
+0.5344048979	emitted
+0.5343521137	lifetimes
+0.5343221069	vibrational spectra
+0.5343205070	produced
+0.5342622743	importance
+0.5341309044	number of particles
+0.5341059245	continuum
+0.5340010989	attachment
+0.5337579008	electronic and vibrational
+0.5337113669	models
+0.5335675491	capacity
+0.5334167323	probability
+0.5333617597	rays
+0.5333464527	main
+0.5333163307	behaviour
+0.5332936312	located
+0.5332395304	rigid
+0.5332078858	normal
+0.5331837885	terms
+0.5329942026	expression
+0.5328992677	contributions
+0.5328740672	exhibit
+0.5328740672	geometries
+0.5328512074	improve
+0.5326903042	curves
+0.5325995165	required
+0.5325328396	access
+0.5325328396	duration
+0.5323617597	kind
+0.5323228510	trimer
+0.5322895368	analyze
+0.5322840675	hydrolysis
+0.5322840675	cascading
+0.5322840675	net
+0.5322631975	generated
+0.5321352482	loss
+0.5319765845	dominated
+0.5319508713	involved
+0.5316688425	code
+0.5316688425	schemes
+0.5316359160	sign
+0.5316359160	emerging
+0.5316359160	octahedral
+0.5316359160	cutoff
+0.5316359160	symmetries
+0.5316359160	operation
+0.5316359160	striking
+0.5316359160	program
+0.5316359160	coherently
+0.5316359160	directions
+0.5316359160	transformations
+0.5316359160	prototypical
+0.5316359160	instantaneous
+0.5314022151	alignment
+0.5312327434	sensitivity
+0.5310378228	focus
+0.5310378228	sequence
+0.5310323799	depend
+0.5309889604	function of size
+0.5309857554	extremely
+0.5306863662	linearly
+0.5300904257	cm 1
+0.5299785511	n
+0.5299707920	ultraviolet
+0.5298104369	vacuum
+0.5296731272	molecular ions
+0.5296683350	indole
+0.5295760501	type
+0.5295366049	equation of state
+0.5293168080	appears
+0.5293106273	characterize
+0.5291430200	sensitive
+0.5290647028	nanostructures
+0.5289316648	hand
+0.5289146602	moment
+0.5288963888	3he
+0.5287644891	examples
+0.5287644891	earlier
+0.5287415932	cluster cations
+0.5286888211	atomic and molecular
+0.5284842693	narrow
+0.5284842693	repulsive
+0.5284842693	increased
+0.5284842693	oscillation
+0.5282319681	responsible
+0.5280212951	occur
+0.5279466959	capable
+0.5278213248	deflection
+0.5276570963	parameter
+0.5274288715	suggested
+0.5274288715	accurately
+0.5274288715	constructed
+0.5274288715	wavefunction
+0.5274288715	approximations
+0.5271782600	created
+0.5270743358	model potential
+0.5268832819	_
+0.5268550560	framework
+0.5267161829	crucial
+0.5266421203	identical
+0.5265489339	allowing
+0.5265117638	highest
+0.5264801308	mean field
+0.5264250544	pattern
+0.5262192457	new
+0.5260617913	self consistent
+0.5260138143	nanoparticle
+0.5260118314	cation
+0.5260030835	atoms and molecules
+0.5259929821	performance
+0.5259004859	article
+0.5258667359	few cycle
+0.5256763684	interpreted
+0.5256698696	x rays
+0.5255552848	three
+0.5254123297	positive
+0.5254077537	interesting
+0.5253959551	lying
+0.5252721598	expected
+0.5251920180	off resonant
+0.5250992458	sets
+0.5250395983	addition
+0.5247650339	x
+0.5246666888	pole
+0.5243073391	identified
+0.5242885200	energy barrier
+0.5242402481	explain
+0.5236435682	rotational states
+0.5236361526	prediction
+0.5235608150	bonds
+0.5233052239	single electron
+0.5232554740	include
+0.5232393301	wavelength
+0.5231580408	next
+0.5231440896	oxide
+0.5230730021	jet
+0.5229873504	configurational
+0.5228638143	binary
+0.5227689197	backbone
+0.5226547412	consequence
+0.5222525230	picture
+0.5222525230	photoelectrons
+0.5222306325	features
+0.5219881113	scales
+0.5216835119	rangle
+0.5216570870	level of theory
+0.5216470922	identify
+0.5215468509	called
+0.5213934914	relevant
+0.5212889953	screening
+0.5210735814	findings
+0.5209548076	4he
+0.5209324832	reproduce
+0.5207231617	peak
+0.5205475956	defined
+0.5204714847	character
+0.5204378124	sigma_g
+0.5204351776	regime
+0.5204197771	employed
+0.5201763901	xc
+0.5200551622	relation
+0.5198544791	buffer
+0.5197803751	evaluate
+0.5196567290	moments
+0.5194369381	brief
+0.5193233051	decrease
+0.5191920710	shaped
+0.5189820934	angle
+0.5188969330	configurations
+0.5186201709	produce
+0.5182374025	effective field
+0.5181996014	previously
+0.5180962842	energy minima
+0.5180160178	limited
+0.5177838284	vicinity
+0.5176340165	freedom
+0.5175792249	occupied
+0.5175792249	takes
+0.5173132947	resolution
+0.5172267101	compute
+0.5172193935	role
+0.5171142566	description
+0.5170348202	elements
+0.5169685819	real
+0.5167793412	account
+0.5166890952	ph2
+0.5165856866	delay
+0.5164748287	arbitrary
+0.5164088284	room
+0.5163562543	such
+0.5161872703	strengths
+0.5160648122	empirical
+0.5160398796	acceptor
+0.5160398796	preferred
+0.5160398796	divalent
+0.5160398796	coating
+0.5160398796	bridges
+0.5160398796	graphs
+0.5160398796	projectiles
+0.5160398796	discrepancy
+0.5160398796	derivative
+0.5160398796	passage
+0.5160398796	reaches
+0.5160398796	ejected
+0.5160398796	frequently
+0.5160398796	recording
+0.5160398796	facilitate
+0.5160398796	relating
+0.5160398796	holds
+0.5160398796	content
+0.5160398796	partly
+0.5160398796	trace
+0.5160398796	rationalized
+0.5160398796	emphasize
+0.5160398796	detecting
+0.5160398796	concluded
+0.5160398796	diagrams
+0.5160398796	attribute
+0.5160398796	analyse
+0.5160398796	scaled
+0.5160398796	conductance
+0.5160398796	vanishes
+0.5160398796	torsion
+0.5160398796	initiated
+0.5160398796	arrangements
+0.5160398796	weaker
+0.5160398796	cores
+0.5160398796	opening
+0.5160398796	neutrons
+0.5160398796	prove
+0.5160398796	localised
+0.5160398796	media
+0.5160398796	transformed
+0.5160398796	phonons
+0.5160398796	ranges
+0.5160398796	combinations
+0.5160398796	magnets
+0.5160398796	explains
+0.5160398796	grown
+0.5160398796	situation
+0.5160398796	enhancements
+0.5160398796	ortho
+0.5160398796	treatments
+0.5160398796	permits
+0.5160398796	spacing
+0.5160398796	centers
+0.5160398796	build
+0.5160398796	dilute
+0.5160398796	bring
+0.5160398796	nucleon
+0.5158591506	depends
+0.5155879352	derivatives
+0.5155879352	performing
+0.5155879352	distributed
+0.5155879352	currents
+0.5155879352	criterion
+0.5155879352	methodology
+0.5155879352	grid
+0.5155879352	diagonalization
+0.5155879352	constrained
+0.5155879352	armchair
+0.5155879352	heteronuclear
+0.5155879352	possibilities
+0.5155879352	dramatic
+0.5155879352	consistency
+0.5155826891	metals
+0.5153336814	pseudopotential
+0.5153174101	1s
+0.5152935156	revealed
+0.5152452657	infrared laser
+0.5151838284	zeta
+0.5149605374	maps
+0.5149605374	plateau
+0.5148770350	energy density
+0.5146717911	difference
+0.5146514904	hydrogenation
+0.5145311962	2p
+0.5143273313	orders
+0.5141404453	khz
+0.5139653395	processes
+0.5139480799	muon
+0.5136123990	stoichiometric
+0.5136123990	ice
+0.5134598381	peaks
+0.5131409645	funnel
+0.5131409645	operators
+0.5131409645	skimmer
+0.5131409645	negatively
+0.5131409645	consistently
+0.5131409645	reach
+0.5131409645	advantages
+0.5131409645	guide
+0.5131409645	ways
+0.5131409645	differ
+0.5131409645	interact
+0.5131409645	complicated
+0.5131409645	considerable
+0.5131409645	release
+0.5131409645	consideration
+0.5131409645	moderate
+0.5131409645	shallow
+0.5131409645	interferometry
+0.5131409645	broadband
+0.5131409645	simplest
+0.5131409645	produces
+0.5128723485	timescale
+0.5127915150	1,2
+0.5127157654	final
+0.5125513603	large molecules
+0.5125258943	measure
+0.5125010073	four body
+0.5124432397	_n
+0.5124312230	a.u
+0.5122775757	window
+0.5122775757	sp
+0.5122088201	unitary limit
+0.5122032702	inside
+0.5121080426	anthracene
+0.5120462735	stretch
+0.5117011452	angles
+0.5114322053	set
+0.5112041543	attractive
+0.5105884118	doublet
+0.5103358823	3p
+0.5103345992	vibrational states
+0.5101648453	disordered
+0.5100085758	explore
+0.5099585561	dephasing
+0.5099269564	exposed
+0.5098787692	compare
+0.5098787692	amplitude
+0.5097807147	reveals
+0.5097807147	reveal
+0.5097250679	separated
+0.5095713063	as
+0.5093158790	compression
+0.5093158790	quantities
+0.5093158790	simplified
+0.5093158790	induce
+0.5093158790	illustrated
+0.5093158790	secondary
+0.5093158790	concept
+0.5093158790	generating
+0.5093158790	question
+0.5093158790	stronger
+0.5093158790	constraints
+0.5093158790	remain
+0.5093158790	abundant
+0.5093158790	published
+0.5093158790	discovered
+0.5093158790	stored
+0.5093158790	diffuse
+0.5093158790	upper
+0.5093158790	analyses
+0.5093158790	lattices
+0.5092964567	transparent
+0.5092804046	h
+0.5092724557	excellent
+0.5092388013	ionized
+0.5092310091	extent
+0.5092310091	effectively
+0.5092310091	agrees
+0.5092310091	largely
+0.5092310091	reproduces
+0.5092310091	speed
+0.5092310091	fold
+0.5092310091	acceleration
+0.5092310091	profiles
+0.5092310091	applicable
+0.5092310091	edges
+0.5092310091	exploited
+0.5092310091	isotope
+0.5092310091	confirmed
+0.5092310091	thickness
+0.5092310091	impurities
+0.5092310091	signals
+0.5092310091	closely
+0.5092310091	implemented
+0.5092310091	separate
+0.5091598455	ligand
+0.5091598455	opposite
+0.5087661299	layers
+0.5087561047	concentrations
+0.5087561047	dominates
+0.5087561047	manifests
+0.5087561047	sensitively
+0.5087561047	achieve
+0.5087561047	unpaired
+0.5087561047	cantilever
+0.5087561047	imidazole
+0.5087561047	gate
+0.5087561047	removal
+0.5087561047	alloys
+0.5087561047	degeneracy
+0.5087561047	ultimately
+0.5087561047	counting
+0.5087561047	primary
+0.5087561047	pave
+0.5087561047	feasibility
+0.5087561047	motions
+0.5087561047	proper
+0.5087561047	majority
+0.5087561047	act
+0.5087561047	qubits
+0.5087561047	dissociating
+0.5087561047	instability
+0.5087561047	physically
+0.5087561047	orientations
+0.5087561047	quantify
+0.5087561047	redistribution
+0.5087561047	limits
+0.5087561047	scenarios
+0.5087561047	nanodroplet
+0.5087561047	accelerated
+0.5087561047	primarily
+0.5087561047	diameters
+0.5087561047	mk
+0.5087561047	match
+0.5087561047	causing
+0.5087561047	conformations
+0.5087561047	amplitudes
+0.5087561047	nanometer
+0.5087561047	giving
+0.5087561047	projection
+0.5087561047	formulated
+0.5087561047	picoseconds
+0.5087561047	demonstrating
+0.5087561047	drastically
+0.5087561047	improves
+0.5087561047	aggregate
+0.5087561047	idea
+0.5087561047	working
+0.5087561047	verified
+0.5087561047	cobalt
+0.5087561047	collinear
+0.5087561047	populations
+0.5087561047	exploit
+0.5087561047	sequences
+0.5087561047	generalization
+0.5087561047	representative
+0.5087561047	emerges
+0.5087241938	parity
+0.5085511870	axis
+0.5084346599	height
+0.5084221673	sheet
+0.5083228786	using
+0.5083065244	means
+0.5082856053	attached
+0.5082456693	though
+0.5081546971	rise
+0.5079812102	6s
+0.5079415001	polar
+0.5078594817	c
+0.5078497640	flight
+0.5075925407	support
+0.5074869852	involving
+0.5074832458	components
+0.5072497534	rotations
+0.5072497534	breakup
+0.5070806936	icosahedron
+0.5070806936	sequential
+0.5067382083	small systems
+0.5066958960	regions
+0.5066958960	e.g
+0.5066369273	circular
+0.5064314718	possess
+0.5064314718	offer
+0.5064314718	interpret
+0.5064314718	pseudopotentials
+0.5064314718	implies
+0.5064314718	viscosity
+0.5064314718	require
+0.5064314718	added
+0.5064314718	orthogonal
+0.5064314718	remaining
+0.5064314718	straightforward
+0.5064314718	influences
+0.5064314718	alloy
+0.5064314718	bath
+0.5064314718	host
+0.5064314718	arrays
+0.5064314718	ratios
+0.5064314718	neighboring
+0.5064314718	offers
+0.5064314718	dominate
+0.5064314718	affects
+0.5064314718	induces
+0.5064314718	carry
+0.5064290663	z
+0.5063065244	consistent
+0.5062590557	2s
+0.5061707649	staircase
+0.5061707649	v_8
+0.5061707649	routines
+0.5061707649	integrals
+0.5059135331	considering
+0.5058613678	time dependent density functional
+0.5057531808	l
+0.5056874151	employ
+0.5056291631	kev
+0.5056056013	dramatically
+0.5056056013	occupation
+0.5056056013	polarizable
+0.5056056013	deduced
+0.5056056013	turns
+0.5056056013	detector
+0.5056056013	wavepackets
+0.5056056013	drive
+0.5056056013	mid
+0.5056056013	algorithms
+0.5056056013	ligands
+0.5056056013	decades
+0.5056056013	internuclear
+0.5056056013	developments
+0.5056056013	mixing
+0.5056056013	shaping
+0.5056056013	singular
+0.5056056013	continuously
+0.5056056013	goal
+0.5056056013	essentially
+0.5056056013	exceeds
+0.5056056013	filling
+0.5056056013	pairwise
+0.5056056013	conclusion
+0.5056056013	quenching
+0.5056056013	masses
+0.5056056013	establish
+0.5053333085	r_s
+0.5052129854	dopants
+0.5052129854	seed
+0.5052129854	connecting
+0.5052129854	resonantly
+0.5052129854	situations
+0.5052129854	rapidly
+0.5052129854	accessible
+0.5052129854	software
+0.5052129854	reduces
+0.5052129854	indirect
+0.5052129854	properly
+0.5052129854	reviewed
+0.5052129854	scenario
+0.5052129854	greater
+0.5052129854	predominantly
+0.5052129854	biomolecules
+0.5052129854	expanding
+0.5052129854	proof
+0.5052129854	expressed
+0.5052129854	concrete
+0.5052129854	kinds
+0.5052129854	released
+0.5052129854	apparent
+0.5052129854	cancellation
+0.5052129854	voltage
+0.5052129854	unstable
+0.5052129854	focused
+0.5052129854	modeled
+0.5051774320	eigenvalue
+0.5051774320	pairing
+0.5051565583	trimers
+0.5051251494	play
+0.5051251494	constants
+0.5051251494	apply
+0.5051251494	occurs
+0.5050886522	x ray free electron
+0.5048693624	self consistent field
+0.5048400279	this
+0.5047439432	3s
+0.5046567664	agreement
+0.5045952336	fluids
+0.5045182169	averaged
+0.5045182169	units
+0.5045182169	argue
+0.5045182169	involve
+0.5045182169	period
+0.5045182169	assumption
+0.5045182169	enhance
+0.5045182169	pathway
+0.5045182169	reliable
+0.5045182169	extra
+0.5045182169	zigzag
+0.5045182169	chosen
+0.5045182169	presents
+0.5045182169	explanation
+0.5045182169	grains
+0.5045182169	conformer
+0.5045182169	transferred
+0.5045182169	great
+0.5045182169	intra
+0.5045182169	incoming
+0.5044420857	relatively
+0.5044000028	electron ion
+0.5040754250	t
+0.5039364133	eta
+0.5038879778	w
+0.5038218238	suggest
+0.5038119456	k
+0.5034322154	so
+0.5029097567	x ray pulses
+0.5028650354	deg
+0.5028650354	micrometer
+0.5027116578	targets
+0.5026156639	distances
+0.5023875797	rates
+0.5022051131	protons
+0.5022051131	wavelengths
+0.5022051131	designed
+0.5022051131	dipoles
+0.5022051131	tested
+0.5022051131	deposited
+0.5022051131	undergo
+0.5020507781	analysed
+0.5020507781	briefly
+0.5020507781	holes
+0.5020507781	commonly
+0.5020507781	location
+0.5020507781	synthesized
+0.5020507781	invariant
+0.5020507781	paths
+0.5020507781	cooled
+0.5020507781	manner
+0.5020507781	shifted
+0.5020507781	detachment
+0.5020507781	yielding
+0.5020507781	subject
+0.5020507781	subshells
+0.5020507781	assumed
+0.5020507781	shorter
+0.5020507781	exists
+0.5020507781	plays
+0.5020507781	enable
+0.5020507781	negligible
+0.5020507781	arises
+0.5020298968	ferromagnetic
+0.5020298968	demonstrates
+0.5020298968	matrices
+0.5020298968	stage
+0.5020298968	pathways
+0.5020298968	understood
+0.5020298968	needed
+0.5020298968	easily
+0.5018808052	numerical calculations
+0.5018179063	strong laser
+0.5018177665	many particle
+0.5017207310	versus
+0.5017207310	favorable
+0.5015708452	approx
+0.5014046392	including
+0.5013593819	potential model
+0.5012506477	challenging
+0.5012506477	examined
+0.5012506477	projectile
+0.5012506477	follow
+0.5012506477	delocalized
+0.5010480729	bending
+0.5007188861	film
+0.5007188861	ns
+0.5001268566	donor
+0.5000412484	propose
+0.4996713559	carried
+0.4995552429	shows
+0.4992664392	direction
+0.4992259898	affect
+0.4992259898	moving
+0.4992259898	computationally
+0.4992259898	parent
+0.4992259898	overlap
+0.4992259898	makes
+0.4992259898	valid
+0.4992259898	errors
+0.4992259898	prominent
+0.4992203423	beta
+0.4992101674	significantly
+0.4990981254	environments
+0.4990981254	spins
+0.4988365690	barriers
+0.4987288295	instabilities
+0.4987288295	torsional
+0.4987288295	assignments
+0.4987288295	highlight
+0.4987288295	responses
+0.4987288295	potentially
+0.4987288295	demanding
+0.4987288295	saturation
+0.4987288295	appeared
+0.4987288295	deflector
+0.4987288295	enhances
+0.4987288295	emissions
+0.4987288295	removed
+0.4987288295	cycles
+0.4987288295	semiconductors
+0.4987288295	implement
+0.4987288295	ends
+0.4987288295	renormalized
+0.4987288295	magnitudes
+0.4987288295	argued
+0.4987288295	plots
+0.4987288295	carefully
+0.4987288295	constitute
+0.4987288295	counterparts
+0.4987288295	split
+0.4987288295	satisfactory
+0.4987288295	randomly
+0.4987288295	reaching
+0.4987288295	repetition
+0.4987288295	reports
+0.4987288295	overlapping
+0.4987288295	resolve
+0.4987288295	viewed
+0.4987288295	missing
+0.4987288295	nonlocal
+0.4987288295	trans
+0.4987288295	assign
+0.4987288295	generates
+0.4987288295	similarities
+0.4987288295	pyridine
+0.4987288295	lies
+0.4987288295	monitored
+0.4987288295	autoionizing
+0.4987288295	broadened
+0.4987288295	irreducible
+0.4987288295	utilize
+0.4987288295	solvable
+0.4987288295	diverse
+0.4987288295	constituent
+0.4987288295	pre
+0.4987288295	operations
+0.4987288295	possessing
+0.4987288295	abundances
+0.4987288295	modifies
+0.4987288295	issue
+0.4987288295	apparatus
+0.4987288295	atomization
+0.4987288295	quickly
+0.4987288295	possibly
+0.4987288295	overview
+0.4987288295	exhibiting
+0.4987288295	adopt
+0.4987288295	superior
+0.4987288295	conserving
+0.4987288295	numbered
+0.4987288295	modelled
+0.4987288295	seeking
+0.4987288295	sharing
+0.4987288295	convenient
+0.4987288295	dependencies
+0.4987288295	reflected
+0.4987288295	fringes
+0.4987288295	adjusted
+0.4986630054	q
+0.4980050143	two color
+0.4979966487	d
+0.4979644350	desired
+0.4979644350	subsystems
+0.4979644350	halo
+0.4979644350	authors
+0.4977844772	p
+0.4976701560	anti
+0.4976701560	fit
+0.4975656149	i.e
+0.4975287642	f
+0.4970769820	demonstrated
+0.4969368227	sufficiently
+0.4969368227	newly
+0.4969368227	extend
+0.4969368227	fitting
+0.4969368227	arise
+0.4969368227	asymmetry
+0.4969368227	uniform
+0.4969368227	prepared
+0.4969368227	repulsion
+0.4969368227	determines
+0.4969368227	reproduced
+0.4969368227	end
+0.4969368227	respective
+0.4967532441	o
+0.4967275115	j
+0.4965783085	largest
+0.4965783085	describes
+0.4965783085	represent
+0.4965783085	represents
+0.4965783085	setup
+0.4965783085	formula
+0.4965783085	considerably
+0.4965783085	energetically
+0.4964960823	s
+0.4964708471	showing
+0.4964302573	introducing
+0.4964302573	precisely
+0.4964302573	packed
+0.4964302573	additive
+0.4964302573	exotic
+0.4964302573	photoexcited
+0.4964302573	capability
+0.4964302573	fitted
+0.4964302573	creating
+0.4964302573	rotor
+0.4964302573	behaviors
+0.4964302573	representing
+0.4964302573	valuable
+0.4964302573	perturbations
+0.4964302573	isotopes
+0.4964302573	varied
+0.4964302573	suggesting
+0.4964302573	artificial
+0.4964302573	bunch
+0.4964302573	effort
+0.4964302573	constituents
+0.4964302573	suppressed
+0.4964302573	removing
+0.4964302573	distinguish
+0.4964302573	treat
+0.4964302573	emerge
+0.4964302573	thresholds
+0.4964302573	area
+0.4964302573	approximately
+0.4964302573	naturally
+0.4964302573	nozzle
+0.4964302573	represented
+0.4964302573	elucidate
+0.4964302573	showed
+0.4964302573	define
+0.4964302573	fluence
+0.4964302573	ordinary
+0.4964302573	vary
+0.4964302573	input
+0.4964302573	partition
+0.4964302573	heavier
+0.4964302573	roles
+0.4964302573	attraction
+0.4964302573	captured
+0.4964302573	optimum
+0.4964302573	sufficient
+0.4964302573	package
+0.4964302573	excimer
+0.4964302573	date
+0.4964302573	works
+0.4964302573	fail
+0.4964302573	trend
+0.4964302573	validate
+0.4964302573	reasonable
+0.4964302573	cut
+0.4964302573	serves
+0.4964302573	delays
+0.4964302573	practically
+0.4964302573	mesoscopic
+0.4964302573	pressures
+0.4960740381	novel
+0.4960597670	fragments
+0.4959621052	types
+0.4959131655	v
+0.4958921072	layer
+0.4956378639	velocities
+0.4956378639	research
+0.4955926491	muonic
+0.4955926491	conclude
+0.4955926491	central
+0.4955926491	successfully
+0.4955926491	allowed
+0.4955926491	perform
+0.4955208004	longer
+0.4955208004	profile
+0.4954952318	utilized
+0.4954952318	slightly
+0.4954952318	biological
+0.4954952318	substantially
+0.4954952318	surrounding
+0.4954952318	devices
+0.4954480278	compared
+0.4950969751	oh
+0.4950255370	non equilibrium
+0.4948149737	e
+0.4947453475	interplay
+0.4946375137	mixtures
+0.4946375137	evaluated
+0.4946375137	confirm
+0.4945024249	charges
+0.4945024249	factors
+0.4945024249	explored
+0.4945024249	indicating
+0.4943293115	these
+0.4942613873	non
+0.4941005832	involves
+0.4941005832	probed
+0.4941005832	forms
+0.4941005832	analytically
+0.4941005832	years
+0.4941005832	efficiently
+0.4937832330	probabilities
+0.4935920733	energy spectrum
+0.4935299455	time resolved
+0.4929710546	estimated
+0.4929710546	opens
+0.4929710546	recorded
+0.4929710546	sites
+0.4929710546	achieved
+0.4928945189	approaches
+0.4927951745	underlying
+0.4927951745	introduce
+0.4927663298	forming
+0.4927663298	exhibits
+0.4927663298	examine
+0.4927203357	wires
+0.4926495107	correspond
+0.4925260901	aligned
+0.4925260901	requires
+0.4923550589	damping
+0.4922816240	introduced
+0.4921951745	sample
+0.4921950719	number
+0.4921055130	attributed
+0.4918122362	suggests
+0.4918122362	phenomenon
+0.4918122362	exist
+0.4916495107	omega
+0.4916150402	term
+0.4912448347	develop
+0.4906863323	major
+0.4906863323	substrate
+0.4906863323	correct
+0.4906863323	illustrate
+0.4904125617	product
+0.4904125617	decreases
+0.4902899960	explicitly
+0.4902899960	treated
+0.4902899960	includes
+0.4902899960	generally
+0.4902899960	completely
+0.4902800751	self
+0.4902632554	enables
+0.4902632554	provided
+0.4901436934	gamma
+0.4900993549	\ textrm ch
+0.4900783104	many
+0.4898330789	r
+0.4898315241	interaction correction
+0.4896128858	all
+0.4895285208	energy surfaces
+0.4894786635	vibrational state
+0.4893141904	short laser
+0.4889769358	dominant
+0.4889769358	remains
+0.4885946963	sector
+0.4885946963	dianions
+0.4885946963	branches
+0.4879023261	demonstrate
+0.4874128976	does
+0.4873605756	_2
+0.4864088610	so called
+0.4861169922	ranging
+0.4860684857	interaction energies
+0.4859012630	b
+0.4857490269	total energy
+0.4854601584	sections
+0.4852401044	mu
+0.4850385431	m
+0.4849805409	here
+0.4849674415	typical
+0.4848255566	presence
+0.4842694877	c_ 60
+0.4839833650	an
+0.4836355695	degree
+0.4835603635	non relativistic
+0.4833620089	caused
+0.4833087255	atomic systems
+0.4832072759	principles
+0.4831482334	two
+0.4828614916	the
+0.4827723486	density approximation
+0.4823495963	et
+0.4820480238	first
+0.4809534014	on
+0.4807317391	dichroism
+0.4805992976	atomic hydrogen
+0.4805793904	determination
+0.4804770109	_4
+0.4804271863	present results
+0.4801248449	noble
+0.4798597800	available experimental data
+0.4797004536	total electron
+0.4794553931	due
+0.4781005945	collision energy
+0.4775349012	molecular clusters
+0.4774287158	number of atoms
+0.4765981217	few body
+0.4761508473	first principles
+0.4760718777	a
+0.4760618229	more
+0.4758511728	cm ^ 1
+0.4753136895	consisting
+0.4752204012	present study
+0.4748306518	respect
+0.4745965342	electron spin
+0.4737375111	do
+0.4736119325	possibility
+0.4730557530	composed
+0.4728478448	degrees
+0.4726531029	initio
+0.4725100629	depending
+0.4724846346	most
+0.4723279590	four
+0.4716717779	van
+0.4716499043	_3
+0.4714750409	size range
+0.4712445219	time domain
+0.4711262598	time delay
+0.4710811385	many body
+0.4709789904	each
+0.4708117742	shell correction
+0.4705072906	packet
+0.4705044664	example
+0.4703502303	mean
+0.4702322256	leads
+0.4701930561	molecular spectroscopy
+0.4701178452	for
+0.4700837265	section
+0.4686663944	dependent density functional theory
+0.4674652987	at room temperature
+0.4666366768	at large
+0.4665818469	by
+0.4664720190	shell
+0.4664604813	w cm
+0.4658947306	polarization potential
+0.4658042979	dynamics simulations
+0.4656802799	in
+0.4653926503	atom cluster
+0.4648577699	leading
+0.4645041007	one
+0.4636707212	besides
+0.4633679440	atom model
+0.4620756632	self interaction
+0.4615365358	argon clusters
+0.4611937347	away
+0.4609849108	three dimensional
+0.4604813609	time
+0.4603038277	combination
+0.4602573597	two dimensional
+0.4601091359	dft calculations
+0.4599853111	ground state energy
+0.4583255316	three dimensions
+0.4582503732	second order
+0.4577088975	despite
+0.4560064505	nevertheless
+0.4554046304	time dependent
+0.4548676210	cluster interactions
+0.4544864271	one dimensional
+0.4544501945	well defined
+0.4540032168	at
+0.4532863737	quantum effects
+0.4521896057	quantum systems
+0.4517668610	i
+0.4516420644	possible
+0.4511620389	inelastic cross
+0.4511537440	neutral molecules
+0.4505819225	de
+0.4505014049	he
+0.4504489255	why
+0.4492612155	y
+0.4489667895	from
+0.4486703878	hybrid density
+0.4479195355	up
+0.4478406672	used
+0.4475833763	dipole interaction
+0.4474935236	to
+0.4464544611	both
+0.4464331851	\
+0.4463584521	three body
+0.4460026812	thereby
+0.4458971993	magnetic circular
+0.4454247190	large systems
+0.4452884518	+
+0.4435227468	co
+0.4424582683	second
+0.4421990656	dependent density
+0.4419526791	=
+0.4416084685	different
+0.4415041353	furthermore
+0.4408736084	ionization process
+0.4406826341	above
+0.4401113933	doped helium
+0.4400836460	g
+0.4398202423	course
+0.4397177703	way
+0.4396240417	well
+0.4395384974	another
+0.4393733016	although
+0.4383998185	2
+0.4382682847	metal atoms
+0.4379828188	two photon
+0.4378065887	together
+0.4377228770	energy curve
+0.4373929984	moreover
+0.4373326602	zero range
+0.4370461230	consequently
+0.4366271822	map imaging
+0.4355070997	therefore
+0.4348232526	1
+0.4342625709	hence
+0.4339239507	800
+0.4336531035	at low temperatures
+0.4336487208	optical properties
+0.4330881274	throughout
+0.4326533599	state energy
+0.4326268039	time scales
+0.4318685172	energy surface
+0.4317720198	electron laser
+0.4310632361	since
+0.4309353655	very
+0.4303093419	u
+0.4288179361	help
+0.4279017091	much
+0.4275651637	instead
+0.4274684144	indeed
+0.4272564780	experimental study
+0.4268817820	$
+0.4260185174	theoretical calculations
+0.4259201253	single molecules
+0.4258217708	our
+0.4252695843	following
+0.4244053859	work
+0.4238359412	associated
+0.4233200798	between
+0.4233175698	even
+0.4232063862	it
+0.4225793466	we
+0.4224297772	however
+0.4217013730	larger clusters
+0.4214674192	carbon clusters
+0.4214079210	towards
+0.4213144951	closed shell
+0.4213053245	no
+0.4208366136	if
+0.4207572825	with
+0.4206739528	thus
+0.4199261118	also
+0.4196237781	amount
+0.4193814328	principles calculations
+0.4192976784	^
+0.4192960356	near
+0.4192178649	further
+0.4187277864	state energies
+0.4185554889	least
+0.4184528884	along
+0.4180627293	because
+0.4178800741	while
+0.4177213765	core shell
+0.4174937753	there
+0.4169013519	energy functionals
+0.4165452123	electron energy
+0.4163163485	what
+0.4157382327	electron wave
+0.4157021643	time of flight mass
+0.4151787961	then
+0.4149617136	system
+0.4149220264	scattering calculations
+0.4146822802	but
+0.4144130662	they
+0.4143010474	especially
+0.4142967869	among
+0.4137849795	4
+0.4136348355	energy functional
+0.4122687047	toward
+0.4122687047	last
+0.4121584274	far
+0.4112332468	how
+0.4110697608	particularly
+0.4109382297	time dependent density
+0.4106387063	400
+0.4102421143	containing
+0.4102070134	sub
+0.4099978047	when
+0.4094878775	first order
+0.4092018320	3
+0.4090372200	useful
+0.4090306683	whereas
+0.4087423497	quantum dynamics
+0.4085681095	photoionization cross
+0.4076120164	several
+0.4073963539	not
+0.4073301284	until
+0.4070545133	open shell
+0.4067587184	electron motion
+0.4066197504	10
+0.4065571957	than
+0.4063453003	^ 3he ^ 4he_2
+0.4062739363	plus
+0.4052323992	known
+0.4047582506	@
+0.4044055981	overall
+0.4038256675	other
+0.4036111789	x ray scattering
+0.4030550501	corresponding
+0.4027377199	go
+0.4027156406	energy electrons
+0.4026212526	those
+0.4020661992	part
+0.4019940618	found
+0.4019731532	less
+0.4016490817	given
+0.4016120276	use
+0.4015449911	linear carbon
+0.4012454508	only
+0.4011344084	zero
+0.4007654323	enough
+0.4005133203	described
+0.4005094581	energy distribution
+0.3984157801	6
+0.3977363813	some
+0.3976728799	properties of small
+0.3976228166	five
+0.3975148163	into
+0.3965498355	of
+0.3958068137	100
+0.3953105237	describe
+0.3949002551	good
+0.3943134136	particular
+0.3941493004	appear
+0.3937378629	detail
+0.3935331010	cluster theory
+0.3932586934	taken
+0.3931578896	need
+0.3930641501	et al
+0.3929138776	800 nm
+0.3924816585	large scattering
+0.3923589264	per atom
+0.3920410581	electron electron
+0.3916849551	gas atoms
+0.3916380496	inner
+0.3910890231	allows
+0.3908710108	rather
+0.3908681667	3d
+0.3906282550	during
+0.3903393390	0
+0.3900552876	two body
+0.3900199363	about
+0.3899684262	after
+0.3893062932	full
+0.3891391646	electronic wave
+0.3888079395	like
+0.3884066287	body interaction
+0.3878276506	ionization cross
+0.3867513723	except
+0.3859799826	off
+0.3859682112	followed
+0.3857427793	value
+0.3850039558	few
+0.3839348614	just
+0.3834253889	upon
+0.3833809109	*
+0.3831545203	charged ions
+0.3829094608	usually
+0.3826908416	make
+0.3824580257	spatial separation
+0.3816297483	electronic excitation
+0.3815385882	charged clusters
+0.3808104412	three body systems
+0.3801809080	state structures
+0.3789786936	without
+0.3784057376	computer
+0.3779083952	gives
+0.3778470812	available
+0.3773868778	namely
+0.3773126922	7
+0.3756518350	energy electron
+0.3754675536	60
+0.3740405012	and
+0.3736764292	likely
+0.3734155531	5
+0.3734061858	two component
+0.3732143550	first principles calculations
+0.3727000123	thin
+0.3722722592	9
+0.3722418507	certain
+0.3719398005	calculations based
+0.3718121900	wide range
+0.3717563043	six
+0.3712213760	through
+0.3707671927	12
+0.3704806849	simple model
+0.3704670783	give
+0.3704101251	2009
+0.3699141555	or
+0.3698745771	per
+0.3691868893	top
+0.3687903088	quite
+0.3679026624	001
+0.3676607481	theory calculations
+0.3668870340	interest
+0.3665086637	re
+0.3652942418	yet
+0.3652761644	allow
+0.3643917286	within
+0.3630237338	non resonant
+0.3628933080	able
+0.3625204947	\ emph ab
+0.3624988421	almost
+0.3619192078	best
+0.3618829270	various
+0.3611057556	indicate
+0.3598849785	its
+0.3588301479	beyond
+0.3586579878	over
+0.3572263405	bottom
+0.3569602243	spatial separation of
+0.3568517642	o dinger
+0.3556435608	2014
+0.3552549992	changes
+0.3549355224	20
+0.3547558577	2015
+0.3544363411	shell structure
+0.3542254844	gas clusters
+0.3537022986	under
+0.3532619514	random phase
+0.3527061956	2012
+0.3527061956	2010
+0.3525375852	spin 1
+0.3522206533	2008
+0.3514421659	147
+0.3514421659	17
+0.3514421659	0.6
+0.3510155527	mostly
+0.3500920010	total angular
+0.3492632518	14
+0.3491333818	28
+0.3491333818	36
+0.3488884059	regarding
+0.3488884059	had
+0.3488884059	240
+0.3488884059	1000
+0.3488884059	250
+0.3488884059	44
+0.3485001889	0.8
+0.3482326643	15
+0.3477952784	110
+0.3469334359	often
+0.3469143272	^ 4he
+0.3469057006	18
+0.3461405099	orbital angular
+0.3456846164	ones
+0.3455447832	c60 shell
+0.3453527906	order harmonic
+0.3450964959	24
+0.3450652416	2d
+0.3449346196	relatively small
+0.3448252276	chirped laser
+0.3446716123	4d
+0.3446716123	0.1
+0.3446474618	third
+0.3446474618	nearly
+0.3444863852	111
+0.3441658762	22
+0.3439218443	good agreement
+0.3437834567	time of flight
+0.3437476086	21
+0.3428076318	time scale
+0.3427704899	38
+0.3427704899	follows
+0.3427704899	vs
+0.3427704899	0.5
+0.3427704899	contain
+0.3425806896	16
+0.3423684688	35
+0.3423035967	down
+0.3419351397	40
+0.3417367626	13
+0.3415715881	structure calculations
+0.3414025781	excellent agreement with
+0.3413086828	linear optical
+0.3409578663	87
+0.3408277786	move
+0.3408277786	90
+0.3408277786	cause
+0.3408277786	200
+0.3408277786	onto
+0.3398482405	taken into account
+0.3397908743	nor
+0.3397908743	comes
+0.3397908743	29
+0.3397908743	eight
+0.3397908743	get
+0.3397908743	26
+0.3394345257	50
+0.3392453878	3.4
+0.3392453878	own
+0.3392453878	needs
+0.3392453878	themselves
+0.3392453878	300
+0.3392453878	45
+0.3392453878	goes
+0.3392453878	0.3
+0.3392453878	27
+0.3392001978	8
+0.3390085532	1d
+0.3382583018	below
+0.3370955822	better
+0.3368416016	causes
+0.3368416016	23
+0.3368416016	1.5
+0.3368416016	150
+0.3368416016	too
+0.3368066952	gradient approximation
+0.3367705730	into account
+0.3363379538	put
+0.3363379538	entirely
+0.3357971007	become
+0.3357807078	the unitary limit
+0.3353564164	around
+0.3350899579	either
+0.3350899579	becomes
+0.3346293196	their
+0.3343032336	placed
+0.3343032336	80
+0.3343032336	4f
+0.3343032336	etc
+0.3343032336	ten
+0.3343032336	concerning
+0.3343032336	39
+0.3341906593	whose
+0.3341673489	side
+0.3336648082	done
+0.3335234544	widely used
+0.3332443903	500
+0.3332443903	70
+0.3332443903	32
+0.3332443903	currently
+0.3332199253	uses
+0.3332199253	outside
+0.3332199253	19
+0.3330900191	consider
+0.3327543481	now
+0.3326620276	exactly
+0.3325428197	clearly
+0.3325428197	still
+0.3324291564	us
+0.3323439331	should
+0.3320093814	non linear
+0.3318873037	|
+0.3315909594	\ hbar
+0.3314350991	always
+0.3312430796	necessary
+0.3311826949	inner shell
+0.3308613106	back
+0.3308085956	25
+0.3307411045	against
+0.3307357017	75
+0.3306025997	n body
+0.3304875419	itself
+0.3304875419	55
+0.3303130183	any
+0.3302424838	made
+0.3300677459	having
+0.3300677459	11
+0.3298770167	whether
+0.3298770167	would
+0.3298770167	before
+0.3297576353	being
+0.3292433297	be
+0.3291353447	same
+0.3289403303	oxide clusters
+0.3287119018	contains
+0.3287119018	might
+0.3287119018	seen
+0.3286840943	must
+0.3286840943	already
+0.3286569783	across
+0.3281527574	indicates
+0.3281527574	latter
+0.3279151453	them
+0.3278133803	whole
+0.3277911826	dynamics simulation
+0.3277576353	respectively
+0.3276045794	appropriate
+0.3276045794	cannot
+0.3270405597	provides
+0.3269873733	could
+0.3264412878	take
+0.3262280080	have
+0.3260952273	electronic ground
+0.3260405597	will
+0.3255140858	atom scattering
+0.3254176632	can
+0.3247509965	which
+0.3239765964	30
+0.3239765964	mainly
+0.3238309063	very good agreement
+0.3237280080	has
+0.3236260439	where
+0.3227280080	been
+0.3227280080	show
+0.3226576683	out
+0.3222267501	real time
+0.3218735341	find
+0.3218735341	was
+0.3218419056	are
+0.3216620315	an important role
+0.3215085723	that
+0.3208735341	were
+0.3208419056	is
+0.3194358793	scattering cross
+0.3173584799	polarized laser
+0.3170127055	via
+0.3169417723	may
+0.3163586784	\ phi
+0.3133860456	those obtained
+0.3131241675	lower than
+0.3115595829	atomic force
+0.3095046331	@ c60
+0.3076219240	relaxation time
+0.3076205022	\ textbf
+0.3074611418	\ alpha
+0.3061948217	two center
+0.3027657521	fullerene like
+0.3026845319	this letter
+0.3012138550	\ rho
+0.3000155131	$ v_ \ rm
+0.2980097373	clusters consisting
+0.2978695813	\ em
+0.2975352023	this article
+0.2970579388	electron lasers
+0.2960380883	insight into
+0.2952221070	higher than
+0.2951992375	the ground state
+0.2948665786	\ scriptscriptstyle
+0.2936173402	outer shell
+0.2914140423	information about
+0.2905115864	optical properties of
+0.2896203213	fullerenes shell
+0.2890297620	solvation shell
+0.2886919780	\ pi_
+0.2873966170	a wide range
+0.2852368561	^ 9
+0.2850477744	\ nu
+0.2837031074	theoretical study of
+0.2824700341	\ theta
+0.2804196889	\ sigma_
+0.2803929213	a simple model
+0.2803698594	new approach
+0.2800576631	insights into
+0.2795112521	\ emph
+0.2771968582	\ textit
+0.2764041145	\ aa
+0.2758407606	\ bf
+0.2751101284	an optical
+0.2749960262	time dependent local density
+0.2733640190	at approx
+0.2732008413	using density functional theory
+0.2726977657	cross sections for
+0.2711111487	\ cdot
+0.2709021667	\ sigma_g
+0.2684957641	smaller than
+0.2683854036	\ delta
+0.2680914061	\ zeta
+0.2679098115	\ pm
+0.2660341915	^ 1
+0.2660179828	\ beta
+0.2650806366	h bond
+0.2632615176	this paper
+0.2632331342	= 0
+0.2626010842	\ theta_
+0.2617484217	\ sigma
+0.2602175210	\ pi
+0.2589431579	^ 4he_2
+0.2577811051	two step
+0.2571385906	electron attachment to
+0.2569326753	competition between
+0.2532768211	^ 4
+0.2519099730	\ sim
+0.2518004217	all electron
+0.2514751385	larger than
+0.2511901443	\ approx
+0.2502364795	schr \
+0.2499803154	^ 3
+0.2485537247	non local
+0.2459453430	\ le
+0.2454884982	^ 2
+0.2446823444	using ab initio
+0.2443894671	n = 1
+0.2443084129	many electron
+0.2432829525	c atoms
+0.2432456268	\ rm
+0.2431823732	\ rangle
+0.2422741309	\ text
+0.2416475811	well known
+0.2411200451	so far
+0.2411126713	^ 3he
+0.2396081449	shell model
+0.2383257528	$ _
+0.2376985096	using time dependent density functional
+0.2372172342	relationship between
+0.2371615398	\ omega
+0.2360950896	\ gamma
+0.2357202675	= 1
+0.2355835922	$ _2
+0.2332993427	the art
+0.2328557401	\ textrm
+0.2323308424	n = 4
+0.2322718079	zero energy
+0.2318885684	\ rightarrow
+0.2303104946	\ leq
+0.2279147811	self energy
+0.2270172883	clusters consisting of
+0.2263192181	o d
+0.2258371544	$ \ chi
+0.2256370237	even though
+0.2244333755	\ mu
+0.2241425303	the hcp phase
+0.2238842199	+ \ mu ^ e ^
+0.2227030347	= 7
+0.2208879941	$ \ text c _
+0.2208315621	wide range of
+0.2200058596	in helium nanodroplets
+0.2197952875	based on
+0.2197871664	agree well with
+0.2192507744	_ 7
+0.2182487368	\ times
+0.2180001207	more stable
+0.2179524525	a pulsed supersonic
+0.2164242432	n = 2
+0.2163280868	these findings
+0.2160414174	shell effects
+0.2152488792	in superfluid helium
+0.2151117334	detailed analysis of
+0.2150134269	the interstellar medium
+0.2142128591	\ mu_b
+0.2141797625	cross section of
+0.2138647706	$ c_ 60
+0.2128877166	less than
+0.2127557284	$ \ mu_b
+0.2125553273	the global minimum
+0.2119078434	the available experimental
+0.2113808347	^ 6
+0.2111727691	used to calculate
+0.2097853541	\ text c _
+0.2093601529	$ ^ 1 \ sigma
+0.2075233443	two electron
+0.2053868036	much larger
+0.2047581500	body system
+0.2046994201	the present study
+0.2043185634	$ _6
+0.2038247486	ranging from
+0.2034891230	the gas phase
+0.2025210659	an electronic
+0.2020662598	n \ leq
+0.2019852871	atomic system
+0.2013796691	depending on
+0.2013167523	by solving
+0.2000543221	n = 6
+0.1997520649	\ mathrm
+0.1993761503	cross sections of
+0.1993102129	large number of
+0.1989258556	^ 1 \ sigma_g
+0.1980878995	the size range
+0.1980187980	optical response of
+0.1972441011	h2 +
+0.1968828800	time dependent local
+0.1966404466	the time dependent density functional theory
+0.1952898021	difference between
+0.1952754728	other hand
+0.1950234840	n = 5
+0.1944516544	x ray free
+0.1944028051	these systems
+0.1922267009	\ bar
+0.1920796717	^ 1 \ pi
+0.1919759575	an alternative
+0.1916334243	interaction between
+0.1911431322	@ b
+0.1899913712	ground state energy of
+0.1891503983	the potential energy surface
+0.1890932340	$ \ langle
+0.1889981057	serve as
+0.1881752411	the other hand
+0.1875789505	originates from
+0.1863259251	each other
+0.1863027081	$ _3
+0.1862401249	$ _n
+0.1858770040	the time dependent local density
+0.1855371086	the long range
+0.1849709022	co2 +
+0.1849176680	comment on
+0.1840238336	to obtain
+0.1837989884	$ \ bar
+0.1835142116	depends on
+0.1834602102	the coulomb explosion
+0.1834560801	$ _4
+0.1830848579	this effect
+0.1827202091	leads to
+0.1822047827	$ _m
+0.1820869441	rather than
+0.1818700578	this model
+0.1817224812	caused by
+0.1814742890	$ ^ 1
+0.1810739184	+ 2
+0.1800024860	n = 3
+0.1793983207	both cases
+0.1791540901	one electron
+0.1784786610	in liquid helium
+0.1783752710	$ \ sim
+0.1780135503	calculations based on
+0.1776029476	these results
+0.1775473496	by applying
+0.1772771597	depend on
+0.1771370236	at low
+0.1762201555	do not
+0.1758074721	excited states of
+0.1757668940	arising from
+0.1757272492	_n ^ +
+0.1756844893	an atom
+0.1746928229	^ 5
+0.1742099591	clusters embedded in
+0.1741432018	the random phase
+0.1737517361	compared with
+0.1737271323	does not
+0.1730250957	very small
+0.1726268108	starting from
+0.1721536892	$ \ lambda
+0.1712767935	also discuss
+0.1712555101	this process
+0.1708079048	compared to
+0.1703497360	this method
+0.1699619430	$ \ mathrm
+0.1688659080	an efficient
+0.1687652543	a molecular beam
+0.1686927388	in gas phase
+0.1683962332	n = 10
+0.1669807004	the basic
+0.1665569791	coulomb explosion of
+0.1645171544	the potential energy
+0.1644486945	at room
+0.1642256440	using time dependent
+0.1642095243	this study
+0.1639732946	this approach
+0.1638552761	a weak
+0.1634745388	relies on
+0.1631380355	c _
+0.1629023398	accompanied by
+0.1628999862	this purpose
+0.1627936942	the time dependent local
+0.1627456569	the total energy
+0.1622078011	bound states of
+0.1619091664	relation between
+0.1617438696	infrared spectra of
+0.1615794717	sigma_u ^
+0.1612240486	_ 6
+0.1601612965	ground state of
+0.1599141516	electronic properties of
+0.1584405860	in good agreement
+0.1579301713	give rise to
+0.1577673990	at least
+0.1576368926	$ \ delta
+0.1574109082	by comparing
+0.1569249828	time dependent schr \
+0.1567873943	state properties of
+0.1566016371	interpreted as
+0.1565611045	$ ^ 4
+0.1556441202	c h
+0.1552858033	two level
+0.1542541091	the local density approximation
+0.1542529652	applied to
+0.1541814921	produced by
+0.1541606524	magnetic properties of
+0.1541409046	characterized by
+0.1539501173	the ground state energy
+0.1537051720	the electric dipole
+0.1534013981	the magic numbers
+0.1533864701	for calculating
+0.1519737078	this transition
+0.1519662935	very large
+0.1519144237	quantum system
+0.1513655479	$ \ beta
+0.1513533993	the charge transfer
+0.1510806210	an effective
+0.1504596363	an exact
+0.1502615647	\ lambda
+0.1501470953	gives rise to
+0.1497086027	presented here
+0.1495565116	dependence on
+0.1495411184	experimental data for
+0.1494690489	results indicate
+0.1492785178	close to
+0.1492432315	leading to
+0.1485466871	an extensive
+0.1483697475	the absence
+0.1481254055	the kinetic energy
+0.1478459427	application to
+0.1474937454	dominated by
+0.1473464973	a good agreement
+0.1473136941	\ cal
+0.1471354067	\ chi ^
+0.1471215561	dissociation into
+0.1469896251	the exchange correlation
+0.1467175511	the wave function
+0.1464662727	a new method
+0.1463421409	differences between
+0.1462190751	an analytic
+0.1460388689	correlation between
+0.1460251708	$ _5
+0.1458847197	the ground states
+0.1457323414	^ z
+0.1456514570	new method
+0.1456065573	state energy of
+0.1453144963	away from
+0.1449297026	quantum dynamics of
+0.1443396584	most stable
+0.1435520113	magnetic moments of
+0.1434878797	also presented
+0.1424595093	$ \ mu
+0.1417769157	of sodium clusters
+0.1414480392	also discussed
+0.1412289759	molecular dynamics simulations of
+0.1408048557	magnetic moment of
+0.1403958780	a universal
+0.1394630282	absorption spectra of
+0.1392136438	\ cos
+0.1391740995	= 2
+0.1391654982	excited state of
+0.1390997784	\ times10 ^
+0.1389965001	+ 1
+0.1387396623	binding energies of
+0.1382597524	to determine
+0.1377785454	^ 7
+0.1373447988	by measuring
+0.1373338225	studied by means of
+0.1370798699	accounted for
+0.1370788206	a spherical
+0.1369159890	supported by
+0.1365277301	corresponds to
+0.1364271447	by adding
+0.1360912558	these resonances
+0.1354363382	more complex
+0.1344170984	@ c
+0.1343942877	generated by
+0.1341958236	focus on
+0.1341574896	in situ
+0.1338796952	an infinite
+0.1338486464	bound states in
+0.1338456543	the self consistent
+0.1337347363	electronic structure of
+0.1331856830	to form
+0.1330774905	affected by
+0.1324889353	time evolution
+0.1322484632	a @ c60
+0.1318767690	not only
+0.1313837096	subjected to
+0.1313125593	electron dynamics in
+0.1312851713	the high energy
+0.1310041924	this result
+0.1307249815	this review
+0.1306233859	an explicit
+0.1305218218	dynamics simulations of
+0.1304385337	comparison between
+0.1303322764	\ times 10
+0.1302384756	much more
+0.1294754459	^ *
+0.1294621370	next to
+0.1292604102	an intense
+0.1291174707	binding energy of
+0.1289021793	accounting for
+0.1285211843	+ ion
+0.1285199499	and electronic properties
+0.1279594265	$ \ pi
+0.1274362770	\ cos ^
+0.1271120081	the time dependent density
+0.1269590224	the time dependent
+0.1268516718	derived from
+0.1268421581	the energy gap
+0.1263314961	lead to
+0.1254082349	the cluster size
+0.1252812705	more than
+0.1252186261	a critical
+0.1250574096	100 k
+0.1248162207	explained by
+0.1243389531	the laser field
+0.1240765915	related to
+0.1237932616	by varying
+0.1235012141	to produce
+0.1232572677	to provide
+0.1227133232	l =
+0.1225646623	$ \ sigma
+0.1221745746	proportional to
+0.1220582394	the binding energy
+0.1218684999	an external
+0.1216708465	$ _ 1
+0.1215264917	of methane
+0.1214697457	extracted from
+0.1214212379	+ ions
+0.1208555129	this technique
+0.1207527012	as well as
+0.1206937601	attached to
+0.1205587959	this work
+0.1195263039	an analytical
+0.1191615639	$ ^ 6
+0.1191394054	correspond to
+0.1189321451	in addition
+0.1188187507	interplay between
+0.1187396333	responsible for
+0.1185459687	$ ~
+0.1184971138	by analyzing
+0.1182831560	the optical absorption
+0.1180752886	a single
+0.1177264043	tend to
+0.1174954386	$ n_
+0.1174717255	in vacuum
+0.1172330883	due to
+0.1171369016	in general
+0.1170977516	the laser pulse
+0.1169229475	v =
+0.1168519479	the time domain
+0.1166549506	kind of
+0.1163253368	with increasing
+0.1161997458	\ partial
+0.1160330299	in spite of
+0.1158753643	$ \ rm
+0.1154422484	\ times 10 ^
+0.1154111230	degree of
+0.1150395669	_ 1
+0.1147312721	an excited
+0.1147021259	consistent with
+0.1145200418	coupling between
+0.1141604259	exposed to
+0.1141566076	q =
+0.1140013932	to study
+0.1139004196	in contrast
+0.1136074781	= 3
+0.1135728506	fullerene shell
+0.1135407153	investigated using
+0.1135387346	interactions between
+0.1128653019	to understand
+0.1123185526	the most stable
+0.1121965489	$ _8
+0.1119228591	at temperatures
+0.1115931704	$ ^ 2
+0.1113456652	owing to
+0.1111898084	an arbitrary
+0.1109130344	to analyze
+0.1108324390	$ w cm
+0.1106724395	to calculate
+0.1103718705	an electron
+0.1103502204	paid to
+0.1102658924	$ _ 6
+0.1099033248	an oscillating
+0.1096595075	studied using
+0.1095672456	$ \ pm
+0.1095441462	with respect to
+0.1095372952	an experimental
+0.1093433087	10 ^
+0.1092105712	obtained from
+0.1089095985	of photoelectrons
+0.1088209613	the electron density
+0.1087611102	attributed to
+0.1086157142	to predict
+0.1082830162	a comparison
+0.1081779404	to investigate
+0.1081631737	transitions between
+0.1076893207	a large
+0.1074880817	^ q +
+0.1074405134	$ ^ 3
+0.1064710671	an accurate
+0.1064571329	followed by
+0.1063329799	at higher
+0.1054431275	by means of
+0.1052232377	= 5
+0.1046089242	agreement with
+0.1043284420	m =
+0.1043240061	\ lambda =
+0.1040795618	^ +
+0.1040661272	absence of
+0.1040645301	implications for
+0.1040580965	the many body
+0.1039118484	$ \ rightarrow
+0.1038624993	\ sigma ^
+0.1036932608	in principle
+0.1035249337	calculated using
+0.1033824224	this problem
+0.1032763847	a detailed
+0.1028266394	an important
+0.1027937124	variety of
+0.1027446263	in order to
+0.1023892603	a wide
+0.1020918548	the time dependent schr \
+0.1019997277	$ \ gamma
+0.1016526244	contribute to
+0.1016394632	determined by
+0.1011953586	n =
+0.1008062438	model system
+0.1007175331	\ sigma ^ +
+0.1005635382	prior to
+0.1005635382	led to
+0.1002315265	_2 ^ +
+0.0999465715	at short
+0.0992663038	to probe
+0.0988282633	first excited
+0.0983952010	d ^ 1 \
+0.0979839150	^ 1 \ sigma_g ^ +
+0.0979319804	$ \ text
+0.0973997279	such as
+0.0968797711	a simple
+0.0965276143	to derive
+0.0964833500	contrary to
+0.0964418359	a broad
+0.0963148376	$ \ alpha
+0.0962999419	accounts for
+0.0962887194	the angulon
+0.0958628619	in depth
+0.0954185291	suited for
+0.0952783605	to include
+0.0952136830	to create
+0.0951592266	by calculating
+0.0950566242	= 10
+0.0950313230	a direct
+0.0949894016	at lower
+0.0946897974	^ 1 \ sigma ^ +
+0.0946552763	in terms of
+0.0944780921	to detect
+0.0941421670	e ^
+0.0937978008	spite of
+0.0934601794	associated with
+0.0928826423	for understanding
+0.0928011174	$ n \
+0.0927982294	for larger
+0.0927915625	the literature
+0.0927119768	an example
+0.0926995555	with experiment
+0.0926671675	to compute
+0.0925197492	a promising
+0.0922352632	$ \ bar \
+0.0921501935	$ \ leq
+0.0917336182	properties of
+0.0916732394	adsorbed on
+0.0913538712	$ \ zeta
+0.0911294684	a significant
+0.0905604865	far from
+0.0905161737	distance between
+0.0903924783	$ \ omega
+0.0901776715	collisions between
+0.0901552821	report on
+0.0900496841	two orders of
+0.0897018593	long time
+0.0890531334	studied by
+0.0888928240	the yield of
+0.0888631388	agreement between
+0.0882323859	for describing
+0.0881175319	experiments on
+0.0878555248	$ \ textrm
+0.0877247905	the past
+0.0876101585	in excellent agreement with
+0.0871943610	a unique
+0.0871898711	to control
+0.0870796817	and subsequent
+0.0867824547	the first excited
+0.0867488034	up to
+0.0863928240	the contribution of
+0.0863631628	able to
+0.0863533808	potential well
+0.0857984942	the interaction of
+0.0857545109	driven by
+0.0856311464	composed of
+0.0853588298	capable of
+0.0849512953	^ 0
+0.0848971572	to explain
+0.0848939515	$ n = 3
+0.0846915767	^ + \ mu ^
+0.0844625202	the first time
+0.0843928240	the motion of
+0.0843928240	the dissociation of
+0.0842182003	shown to
+0.0841845375	to solve
+0.0840331718	a complete
+0.0839440191	a special
+0.0838928240	the level of
+0.0838642930	according to
+0.0837518465	a general
+0.0836551946	computed using
+0.0833094906	the ratio of
+0.0832883710	to construct
+0.0832794760	the usual
+0.0831211302	a result
+0.0829875850	the time delay
+0.0828928240	the generation of
+0.0823009709	performed using
+0.0821148244	= 6
+0.0820780092	the lifetime of
+0.0820077006	each cluster
+0.0819966648	to explore
+0.0816428240	the efficiency of
+0.0814207791	to occur
+0.0814203753	a suitable
+0.0813167624	taken into
+0.0812185729	molecular system
+0.0809473442	very good
+0.0809376505	$ gw
+0.0808928240	the emission of
+0.0807525063	electron shell
+0.0807275818	the problem of
+0.0807143171	to optimize
+0.0806100990	a systematic
+0.0800594906	the value of
+0.0798722920	to test
+0.0797462660	an average
+0.0793061993	good agreement with
+0.0788850344	a tool
+0.0787275818	the impact of
+0.0787164404	the interplay
+0.0786439895	transition from
+0.0782384852	$ c_
+0.0777031007	respect to
+0.0774507608	but also
+0.0770997231	= 4
+0.0766929931	induced by
+0.0766799981	to measure
+0.0766018187	of atoms in
+0.0762467511	hundreds of
+0.0761640632	to reduce
+0.0760989587	to observe
+0.0760780092	the limit of
+0.0760780092	the frame of
+0.0760780092	the field of
+0.0760780092	the mechanism of
+0.0759949176	+ \ mu ^
+0.0759836794	the basis of
+0.0759836794	the surface of
+0.0759351520	the density of
+0.0757441490	effect on
+0.0757275818	the size of
+0.0756694619	description of
+0.0750780092	the region of
+0.0750780092	the form of
+0.0747275252	$ h_2
+0.0746614348	formed by
+0.0746228112	$ li
+0.0746197180	considered as
+0.0746017725	attosecond time
+0.0745750821	obtained using
+0.0745091797	sensitive to
+0.0744132856	this new
+0.0741848284	pulses from
+0.0740780092	the ionization of
+0.0740780092	the process of
+0.0739764200	obtained by
+0.0737830850	an analysis
+0.0737275818	the shape of
+0.0737275818	the order of
+0.0734210984	different from
+0.0730857353	to evaluate
+0.0730780092	the energy of
+0.0730248595	used to
+0.0728374537	a b
+0.0727840580	results for
+0.0727576278	a key
+0.0726577720	combined with
+0.0726507828	for studying
+0.0725636934	a unified
+0.0724416455	the scattering of
+0.0724201222	an important role in
+0.0721995317	$ 3d
+0.0718164495	the main
+0.0716407350	described by
+0.0710780092	the magnitude of
+0.0706918572	irradiated by
+0.0702797602	a pronounced
+0.0702777925	the original
+0.0702530196	comparison with
+0.0701913114	modification of
+0.0700246822	a powerful
+0.0698556471	emission from
+0.0697710382	a function of
+0.0697685019	\ sigma_g ^
+0.0695601969	lack of
+0.0694435884	sigma ^ +
+0.0693217268	the ground
+0.0690081431	the fact
+0.0687446758	a system of
+0.0686590084	r ^
+0.0685706347	with more than
+0.0685611891	effects on
+0.0683909109	stabilized by
+0.0683080498	number of
+0.0681592499	of atoms and molecules
+0.0681535115	predicted by
+0.0680638458	a variational
+0.0679289125	to reproduce
+0.0679014677	a wide range of
+0.0677588444	the entire
+0.0675619861	the former
+0.0666810043	evaluation of
+0.0664139845	similar to
+0.0663257949	found to
+0.0660094735	the emergence
+0.0658567534	t =
+0.0652321028	to identify
+0.0649617430	extension of
+0.0645798485	the possibility
+0.0645621150	investigated by
+0.0644570980	ar @
+0.0644448334	created by
+0.0642589460	a substantial
+0.0641297262	calculated by
+0.0640759707	2 +
+0.0640680685	to improve
+0.0639936820	by employing
+0.0636345179	a tunable
+0.0635604652	to characterize
+0.0630488052	x =
+0.0630276433	determination of
+0.0628929602	a comprehensive
+0.0624558252	dependence of
+0.0623974130	electronic shell
+0.0622655989	identified as
+0.0618589048	calculated for
+0.0617674535	interacting with
+0.0617194073	presented for
+0.0616649290	to account for
+0.0615080653	types of
+0.0615009993	of view
+0.0613985199	a clear
+0.0613556824	identification of
+0.0612247174	\ sigma_g ^ +
+0.0612192184	to estimate
+0.0610793565	^ 2 +
+0.0607458350	$ v_
+0.0604696097	information on
+0.0601181231	two different
+0.0600611769	^ 1 \
+0.0600136900	tool for
+0.0597243647	also found
+0.0596854125	advances in
+0.0595808571	to extract
+0.0595385175	transition between
+0.0589912323	the well known
+0.0588221226	of ethylene
+0.0585225645	access to
+0.0583795273	presence of
+0.0583222015	together with
+0.0582959239	a function
+0.0579391635	consisting of
+0.0579133269	a factor
+0.0578855267	$ ^
+0.0578022156	state of
+0.0575421009	scheme for
+0.0572592388	a remarkable
+0.0569698127	obtained for
+0.0567792687	excited by
+0.0566900680	to assess
+0.0565547061	\ pi ^
+0.0565028161	$ rb
+0.0562107693	$ _2 ^ +
+0.0560985017	the validity
+0.0560857082	studies on
+0.0559907510	view of
+0.0557932502	for solving
+0.0556202371	even for
+0.0555713251	a few
+0.0550582428	the quality
+0.0549809155	$ ev
+0.0548640658	controlled by
+0.0546889255	inclusion of
+0.0545307730	agree with
+0.0544602253	in very good
+0.0544474093	and singly
+0.0544223033	$ _n ^
+0.0542339096	intense x
+0.0541191031	$ _2 ^
+0.0537961280	study of
+0.0537640930	this leads to
+0.0530631695	to generate
+0.0527979048	in combination
+0.0526245668	candidate for
+0.0526047558	proposed by
+0.0523389256	a semi
+0.0523290091	$ ^ 3 +
+0.0522995564	in turn
+0.0522351990	this system
+0.0522267347	$ ^ +
+0.0521582192	_2 ^
+0.0516240947	employed to
+0.0514670150	taking into
+0.0514216345	and anionic
+0.0512368449	doped with
+0.0511446990	class of
+0.0511274115	j =
+0.0510725834	up to n =
+0.0507515911	assigned to
+0.0506645021	to simulate
+0.0506645021	to address
+0.0506117417	the electronic structure of
+0.0504640732	determined for
+0.0504588745	emitted from
+0.0503617153	a consequence
+0.0502599049	by using
+0.0502233983	in good agreement with
+0.0501919437	in combination with
+0.0501295052	observed in
+0.0501165180	present work
+0.0500250195	m \
+0.0499823198	contribution to
+0.0498510070	candidates for
+0.0498423031	very different
+0.0495924383	the presence
+0.0494595845	range from
+0.0494284908	up to n
+0.0494182577	equal to
+0.0494072850	in contrast to
+0.0493791982	approach to
+0.0493465230	measured for
+0.0490944893	+ +
+0.0490907697	contribution from
+0.0488670966	method for
+0.0488379676	equivalent to
+0.0488354400	and electronic properties of
+0.0488342748	atom by
+0.0488329121	spectra from
+0.0488280501	especially for
+0.0485169510	~ \
+0.0482617718	analysis of
+0.0482208506	amount of
+0.0478981832	modeling of
+0.0477620272	a continuous
+0.0475689657	extended to
+0.0470407614	expected to
+0.0466951105	difficult to
+0.0464611991	performed to
+0.0461795825	ability to
+0.0461558407	evidence for
+0.0460553147	interaction with
+0.0457350922	predicted to
+0.0456007462	to account
+0.0455937596	_ n
+0.0454758579	first time
+0.0454352202	investigation of
+0.0454180922	occurrence of
+0.0451365517	the onset
+0.0450710531	model for
+0.0450624833	at n =
+0.0450517602	a hard
+0.0448329001	search for
+0.0447688475	a large number of
+0.0446644263	+ cluster
+0.0446007478	obtained with
+0.0445043433	the appearance
+0.0444599365	resulting from
+0.0443853740	the design of
+0.0443536570	difference in
+0.0442509265	n +
+0.0435877354	course of
+0.0435412103	using ab
+0.0435407919	confined in
+0.0434089661	resolution of
+0.0432794599	\ mu ^
+0.0431454526	$ d ^
+0.0430863228	role in
+0.0430624027	the presence of
+0.0428911210	comparable to
+0.0425416901	transfer between
+0.0425195742	a series
+0.0424341617	even at
+0.0421105377	formation of
+0.0421091312	$ \
+0.0420700838	scattering from
+0.0419710139	6 ^
+0.0416551376	allows to
+0.0413776927	expressions for
+0.0411257853	\ mathrm c
+0.0409212161	important for
+0.0408527470	derivation of
+0.0407127353	the creation
+0.0405901864	analyzed in
+0.0405105160	the interplay between
+0.0404631537	2 ^
+0.0404622143	relative to
+0.0403645187	well with
+0.0403470104	relevant for
+0.0402331078	a new
+0.0401329598	in detail
+0.0400426861	representation of
+0.0400227478	coupling to
+0.0399217937	b ^
+0.0399214279	by considering
+0.0398994595	of freedom
+0.0398520771	contributions from
+0.0396424262	used as
+0.0396153013	collisions with
+0.0395636401	spectra of
+0.0395291978	$ \ text c
+0.0395287069	equation for
+0.0393817905	the time evolution of
+0.0393180495	possible to
+0.0391447553	detected in
+0.0390573884	increases with
+0.0389460739	the development of
+0.0388819201	limited by
+0.0387153288	series of
+0.0386518832	interest in
+0.0386263599	addition to
+0.0384547691	and magnetic properties of
+0.0383774313	detection of
+0.0383732606	^ 3 +
+0.0383222589	version of
+0.0381577111	a combination
+0.0381281611	^ + +
+0.0379860113	behavior of
+0.0379590467	observation of
+0.0379253000	_n ^
+0.0378938293	understanding of
+0.0375476537	$ _ n
+0.0375405220	allows for
+0.0374383533	the existence
+0.0373346161	of magnitude
+0.0372589991	reported for
+0.0370997519	as compared to
+0.0369322220	contrast to
+0.0368132859	technique for
+0.0367506986	= \
+0.0364979650	proposed to
+0.0362992858	way for
+0.0362783955	$ d
+0.0362536329	transfer from
+0.0361446075	quality of
+0.0361374058	this allows
+0.0360440038	^ 3 \
+0.0360076681	the performance of
+0.0358919701	functionals for
+0.0358533818	corresponding to
+0.0358383548	s =
+0.0357914339	the hcp
+0.0356121759	$ \ langle \
+0.0355534428	manipulation of
+0.0355214931	the vicinity
+0.0354847589	consists of
+0.0354123378	a variety of
+0.0351776873	1 \
+0.0349607578	$ e ^
+0.0347944724	variation of
+0.0347770627	perpendicular to
+0.0346972194	to describe
+0.0346404221	revealed by
+0.0346166513	combination of
+0.0345439109	the occurrence
+0.0345063278	structure of
+0.0345053460	_ \
+0.0343469309	evolution of
+0.0343191957	spectrum of
+0.0342706508	clusters containing
+0.0341834791	the degree of
+0.0340511058	$ s
+0.0339191670	$ 10 ^
+0.0338862244	a set
+0.0338535105	possibility to
+0.0338216181	system at
+0.0336647920	tens of
+0.0336145210	allowing for
+0.0335610515	in addition to
+0.0335537917	resonances in
+0.0335475890	a number of
+0.0335457033	a factor of
+0.0334784436	the present work
+0.0334778348	action of
+0.0334429582	$ ^ \
+0.0332135518	account for
+0.0329803106	change in
+0.0328959505	distribution of
+0.0327906153	an analysis of
+0.0326618869	nature of
+0.0325591723	excitations in
+0.0325320280	prediction of
+0.0325065933	the effect of
+0.0324691681	resulting in
+0.0323185003	the framework of
+0.0323185003	the existence of
+0.0322183495	the interaction between
+0.0320894277	$ n =
+0.0319123378	a series of
+0.0318273416	a number
+0.0318009148	relevance of
+0.0317582182	derived for
+0.0316450450	^ 2 \
+0.0316392184	approximation for
+0.0315714797	the help of
+0.0315622204	the need for
+0.0315452375	set of
+0.0315004721	details of
+0.0314883078	correction to
+0.0314200824	$ ^ 2 +
+0.0312536570	reactivity of
+0.0311877541	the structure of
+0.0311446908	the use of
+0.0310003253	coupled to
+0.0309971020	attachment to
+0.0309868866	required to
+0.0309508310	along with
+0.0308959505	photoionization of
+0.0308503755	motion in
+0.0306981605	application of
+0.0305655163	sections for
+0.0305330836	the case of
+0.0303549701	3 +
+0.0300534428	interpretation of
+0.0300482582	as well as for
+0.0298956907	applicability of
+0.0297669606	the study of
+0.0297669606	the analysis of
+0.0296244137	^ \
+0.0296015950	appear in
+0.0294974492	context of
+0.0294648973	used for
+0.0292970110	origin of
+0.0292592741	the role of
+0.0292081437	a novel
+0.0291680439	the ground state of
+0.0291227198	expression for
+0.0290944467	range of
+0.0290540139	located in
+0.0290457843	n \
+0.0289543836	picture of
+0.0288246807	the emergence of
+0.0286683553	function of
+0.0286572040	choice of
+0.0285790045	the importance of
+0.0285275988	case of
+0.0283963676	combination with
+0.0283637362	the formation of
+0.0283470133	the nature of
+0.0283355155	parts of
+0.0283284016	given by
+0.0283217331	$ n
+0.0282684277	computation of
+0.0282290721	mixture of
+0.0281018149	energetics of
+0.0280410761	the number of
+0.0280370231	as well
+0.0280027586	solution of
+0.0279528770	calculation of
+0.0278802383	the description of
+0.0278191041	fraction of
+0.0276867506	appears to
+0.0276633724	a certain
+0.0275715520	position of
+0.0274159218	rules for
+0.0273822326	characterization of
+0.0272500149	the influence of
+0.0272162944	the context of
+0.0271267588	decrease in
+0.0270418446	magnetism in
+0.0269150873	stability of
+0.0268788616	construction of
+0.0268601736	the binding energy of
+0.0268408865	the stability of
+0.0267309912	interest for
+0.0265588797	a combination of
+0.0265122701	synthesis of
+0.0264820881	the appearance of
+0.0263999874	restricted to
+0.0263317221	trapped in
+0.0262381899	order to
+0.0261763764	useful for
+0.0261601806	the production of
+0.0260730603	the quality of
+0.0260289426	the possibility to
+0.0259971339	emergence of
+0.0259869692	superposition of
+0.0259662944	a consequence of
+0.0259495701	effect of
+0.0259303466	the range of
+0.0258952196	validity of
+0.0258921205	design of
+0.0256340971	comparison to
+0.0256278171	the choice of
+0.0256170320	included in
+0.0255967939	crucial for
+0.0255457949	the fullerene shell
+0.0255056348	in agreement with
+0.0253843537	treatment of
+0.0253169839	definition of
+0.0252845678	the evolution of
+0.0252020849	suitable for
+0.0251582455	the action of
+0.0251127331	$ fs
+0.0250768473	the origin of
+0.0250212283	rise to
+0.0249609044	to allow
+0.0248624535	increase in
+0.0248454410	involved in
+0.0248134051	degrees of
+0.0247765334	sensitivity of
+0.0247484354	k =
+0.0247318108	enough to
+0.0246763333	time evolution of
+0.0244283852	$ @ c
+0.0243569475	topology of
+0.0243278130	vicinity of
+0.0243118503	embedded in
+0.0242873375	consequence of
+0.0242278882	$ 2 \
+0.0241763764	allow for
+0.0241494320	realization of
+0.0240359186	interplay of
+0.0240205258	strength of
+0.0240196834	the sum of
+0.0239609528	$ o
+0.0239531037	produced in
+0.0238395839	development of
+0.0238237910	signature of
+0.0237967254	the accuracy of
+0.0237200901	enhancement of
+0.0236862051	use of
+0.0235878100	6 \
+0.0235203540	for example
+0.0234179554	well as
+0.0233822326	family of
+0.0233608776	accuracy of
+0.0233363839	^ q
+0.0232340640	the possibility of
+0.0230979289	$ =
+0.0230854926	performance of
+0.0229472232	a way to
+0.0228604150	character of
+0.0227847320	center of
+0.0227793832	$ ^ 1 \
+0.0227775687	existence of
+0.0226548317	the center of
+0.0226500219	abundance of
+0.0226470394	implementation of
+0.0226341128	means of
+0.0225569475	creation of
+0.0225568117	production of
+0.0225453993	a set of
+0.0224009140	a range of
+0.0223355164	with n =
+0.0222758182	the onset of
+0.0221774484	n ^
+0.0221466634	possibility of
+0.0219370271	the computation of
+0.0219363014	d ^
+0.0219344890	composition of
+0.0218937516	suppression of
+0.0218614198	importance of
+0.0218533065	occurring in
+0.0218291650	sequence of
+0.0217742416	appearance of
+0.0216089004	^ + \
+0.0215828656	way to
+0.0215140113	to give
+0.0214577103	onset of
+0.0210558354	a good
+0.0210162707	for n =
+0.0208135069	part of
+0.0202368680	the application of
+0.0202070352	the vicinity of
+0.0200756108	behaviour of
+0.0200554394	influence of
+0.0199258252	$ +
+0.0199007099	assessment of
+0.0198143462	the spectrum of
+0.0197758835	$ e
+0.0195657446	1 +
+0.0195439838	role of
+0.0193829611	a result of
+0.0192947384	the observation of
+0.0192798953	orders of
+0.0192673444	the transition from
+0.0192598118	sum of
+0.0190374710	5 \
+0.0190170628	+ b
+0.0188388270	the relation between
+0.0188129205	$ r
+0.0184557777	$ j
+0.0183550501	$ @
+0.0183310837	framework of
+0.0183051863	appear to
+0.0182947384	the calculation of
+0.0182237684	a brief
+0.0181553234	$ f
+0.0181286903	need for
+0.0180096324	the photoionization of
+0.0177041377	e ^ +
+0.0175950416	the spectra of
+0.0171386322	the dependence of
+0.0166618040	to make
+0.0165550256	the behavior of
+0.0164972034	$ x
+0.0158954651	known to
+0.0154725954	the determination of
+0.0153305499	the strength of
+0.0152383589	the solution of
+0.0146859289	$ h
+0.0141804886	the treatment of
+0.0140807618	the variation of
+0.0135493765	the way to

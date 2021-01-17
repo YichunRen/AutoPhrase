@@ -1,0 +1,5713 @@
+0.9817841050	virtual reality
+0.9786782044	special relativity
+0.9767464093	gravitational wave
+0.9758475541	high schools
+0.9727936031	doppler effect
+0.9710958517	black hole
+0.9705514520	cosmic ray
+0.9702908924	quantum computing
+0.9701744667	dark matter
+0.9696749692	brownian motion
+0.9688840464	black holes
+0.9686687051	formative assessment
+0.9681200273	item response theory
+0.9680255772	classical mechanics
+0.9678932080	critical thinking
+0.9673614227	angular momentum
+0.9673420359	dimensional analysis
+0.9666692575	fluid mechanics
+0.9659378280	statistical mechanics
+0.9654660815	secondary school
+0.9651837627	augmented reality
+0.9642731456	harmonic oscillator
+0.9639380536	higgs boson
+0.9633375811	dark energy
+0.9631900465	middle school
+0.9628252916	quantum key distribution
+0.9612009799	vector calculus
+0.9602085371	vector fields
+0.9593904493	natural sciences
+0.9593015943	scientific literacy
+0.9587726968	concept inventories
+0.9583707041	free fall
+0.9578479077	ideal gas
+0.9566128036	gravitational field
+0.9564838392	climate change
+0.9562961861	problem solving
+0.9560900246	cosmic rays
+0.9551918353	social network analysis
+0.9545226151	white paper
+0.9541852266	secondary schools
+0.9539657934	maxwell's equations
+0.9537945528	lorentz transformations
+0.9536525883	general relativity
+0.9535108029	mobile phone
+0.9524710396	delta function
+0.9519783823	gravitational waves
+0.9519664526	open source
+0.9515234424	gauss's law
+0.9512079563	active learning
+0.9506267051	high school
+0.9500078098	kinetic energy
+0.9488703393	coulomb's law
+0.9484721711	monte carlo
+0.9478760913	secondary education
+0.9476937610	citizen science
+0.9470440997	hydrogen atom
+0.9464413205	magnetic field
+0.9450957601	adaptive optics
+0.9445551007	dynamical systems
+0.9438566749	summer school
+0.9430937948	electromagnetic waves
+0.9429834363	thermal energy
+0.9426756665	quantum mechanics
+0.9425767308	elementary school
+0.9416327986	magnetic fields
+0.9403788579	cognitive load
+0.9400768596	newtonian mechanics
+0.9387132674	classical electrodynamics
+0.9385182275	electric fields
+0.9384175495	boundary conditions
+0.9382577836	learning styles
+0.9373388920	reference frame
+0.9368701878	machine learning
+0.9364618669	quantum mechanical
+0.9356244171	multiple choice
+0.9348954985	vector field
+0.9346819025	higher education
+0.9342504317	linear algebra
+0.9333327783	united states
+0.9322821544	steady state
+0.9316217326	ground state
+0.9315667066	mobile devices
+0.9292463641	quantum cryptography
+0.9281630531	molecular dynamics
+0.9274827526	vector potential
+0.9269075140	computational thinking
+0.9265079832	epistemological framing
+0.9257438630	professional development
+0.9255422612	quantitative literacy
+0.9254727059	electric field
+0.9245175843	concept inventory
+0.9231106316	electromagnetic fields
+0.9214455207	easy java simulation
+0.9209504092	particle physics
+0.9206253698	big data
+0.9200604255	quark matter
+0.9190629403	computational essays
+0.9185436911	covariational reasoning
+0.9184695449	introductory astronomy
+0.9169140355	quantum interactive learning tutorial
+0.9166138024	perturbation theory
+0.9164818418	data acquisition
+0.9158362988	resource letter
+0.9147890153	pre service
+0.9132172981	electromagnetic field
+0.9125925744	lessons learned
+0.9111734073	sector models
+0.9108558356	gamma ray
+0.9090006075	teaching assistants
+0.9089787080	incorrect responses
+0.9087476935	measurement uncertainty
+0.9078824150	quantum field theory
+0.9071862957	complex systems
+0.9071071517	differential equations
+0.9060723665	cloud based
+0.9060449139	elementary particle physics
+0.9059769352	midterm exam
+0.9030332065	central force
+0.9025421537	differential equation
+0.9023951825	gender gap
+0.9019241255	potential energy
+0.9012238415	peer instruction
+0.9005071093	pedagogical content knowledge
+0.8997819068	learning assistants
+0.8997272405	public engagement
+0.8993135755	graduate school
+0.8991626713	refractive index
+0.8991101066	open ended
+0.8989585283	hierarchical linear
+0.8989472118	learning assistant
+0.8984745695	projectile motion
+0.8972476480	nuclear physics
+0.8971316441	statistical analysis
+0.8970608581	dirac notation
+0.8959770246	network science
+0.8954594933	centrality measures
+0.8947138029	symmetry breaking
+0.8943394576	interactive simulations
+0.8929642804	data analysis
+0.8916474198	phase space
+0.8909901329	double slit experiment
+0.8909739040	alternative conceptions
+0.8904372043	21st century
+0.8902822964	upper level
+0.8898536496	air resistance
+0.8891743816	decision making
+0.8884104090	information theory
+0.8883743930	flipped classroom
+0.8879816598	stern gerlach experiment
+0.8875821237	single photons
+0.8875732503	community college
+0.8871019302	normalized gain
+0.8870449511	common sense
+0.8867596165	grading practices
+0.8855921641	mach zehnder
+0.8843519253	learning gains
+0.8842121656	gender differences
+0.8820896686	odinger equation
+0.8817573849	wide variety
+0.8808349471	variable mass
+0.8801798110	` `
+0.8801163901	conceptual survey
+0.8800711298	low stakes
+0.8796405670	agent based
+0.8793776327	collaborative learning
+0.8793074063	einsteinian physics
+0.8792894899	low cost
+0.8792657592	starting point
+0.8791577059	faculty members
+0.8786308794	theoretical framework
+0.8775039103	incorrect answer
+0.8768640129	item response
+0.8739065131	common misconceptions
+0.8737915648	cross section
+0.8736151519	quantum physics
+0.8732655157	powerful tool
+0.8721428356	active engagement
+0.8711302282	science standards
+0.8711073501	free response
+0.8706961497	high resolution
+0.8704292696	years ago
+0.8699593568	final exam
+0.8697823030	upper division
+0.8680159990	data science
+0.8677139240	central role
+0.8671555961	partial derivatives
+0.8665046304	large scale
+0.8654080056	statistically significant
+0.8647485949	partial credit
+0.8644999714	participation rates
+0.8638527484	physics gre
+0.8636151299	physical quantities
+0.8635834901	context rich
+0.8635513009	life sciences
+0.8632605354	double slit
+0.8629942664	force concept inventory
+0.8629856954	wave functions
+0.8610236019	programming exercises
+0.8606704620	large number
+0.8601890625	large enrollment
+0.8595184662	free energy
+0.8582857873	sense making
+0.8581570371	computational modeling
+0.8580993705	scaffolding support
+0.8575947332	spring mass
+0.8575573328	pen enabled mobile
+0.8556261054	stern gerlach
+0.8545732239	individual interviews
+0.8543702974	helping students learn
+0.8534496578	wave function
+0.8521432702	experimental setup
+0.8521278480	modeling instruction
+0.8504636012	post test
+0.8472664181	network analysis
+0.8471730902	elementary particle
+0.8456892597	significant differences
+0.8442407201	pre post
+0.8437429795	statistical physics
+0.8436894247	university of colorado boulder
+0.8434187728	video analysis
+0.8432407624	easy java
+0.8424781562	reference frames
+0.8423339489	small groups
+0.8418521104	evidence based
+0.8410227225	inquiry based
+0.8407308276	simple pendulum
+0.8394128122	interactive engagement
+0.8393904433	multiple choice questions
+0.8390391356	real world
+0.8387540510	quantum information
+0.8384006347	mathematics education
+0.8380111123	social network
+0.8379611425	underrepresented minority
+0.8377746422	physical intuition
+0.8377378568	interactive learning tutorial
+0.8373490859	article presents
+0.8368939025	lock in amplifier
+0.8367560687	guided inquiry
+0.8367064800	negative energy
+0.8364676563	long term
+0.8363237706	data collection
+0.8357169803	boltzmann factor
+0.8356273681	algebra based
+0.8349969511	public outreach
+0.8334991168	conceptual evaluation
+0.8322884362	clicker questions
+0.8320503304	initial conditions
+0.8315707613	findings suggest
+0.8311419213	lorentz force
+0.8310901873	instructional strategies
+0.8298199828	quantum theory
+0.8272464599	learning goals
+0.8268610003	physical meaning
+0.8265513599	science majors
+0.8247011783	educational games
+0.8223731268	case study
+0.8222562529	research based assessments
+0.8220856770	professional development program
+0.8217981675	context rich problems
+0.8213118657	context dependent
+0.8201724270	calculus based
+0.8198956838	junior level
+0.8179692729	iwant2study.org ospsg index.php interactive resources physics
+0.8172383531	student outcomes
+0.8160737632	high quality
+0.8152504884	undergraduate laboratory
+0.8110323595	science education
+0.8106940111	reasoning difficulties
+0.8097874926	resources framework
+0.8078341336	computational physics
+0.8072184921	education research
+0.8061059709	fine grained
+0.8045922683	undergraduate research
+0.8031685522	post instruction
+0.8020992785	stem disciplines
+0.8018557095	web based
+0.8005647621	astronomy education
+0.7998764703	mental models
+0.7997770341	model based reasoning
+0.7996952764	colorado learning attitudes about science survey
+0.7983160538	state university
+0.7982884748	control group
+0.7960098201	post tests
+0.7954498928	scientific reasoning
+0.7947951899	isomorphic problems
+0.7941517384	preliminary results
+0.7932924423	data set
+0.7917995880	real life
+0.7908163122	physics education research
+0.7906649394	physical situations
+0.7906526613	life science
+0.7902048851	physical laws
+0.7899434108	space science
+0.7897524302	physical phenomena
+0.7895893042	www.haus der astronomie.de raum fuer bildung
+0.7885718824	covid 19 pandemic
+0.7840349094	astronomy research
+0.7838691920	paper describes
+0.7832228427	fundamental principles
+0.7820552765	article describes
+0.7800882504	academic performance
+0.7797450255	quantum states
+0.7797170260	colorado boulder
+0.7796714006	separation of variables
+0.7796136473	advanced undergraduate
+0.7795675098	learning path
+0.7793674798	learning outcomes
+0.7792604655	basic principles
+0.7758898070	college level
+0.7743018277	quiz problem
+0.7731782954	graduate level
+0.7728581611	introductory algebra based
+0.7728379219	experimental physics
+0.7727902976	introductory physics
+0.7707001757	prior knowledge
+0.7704242911	pen enabled
+0.7697254965	conceptual difficulties
+0.7694000488	physics faculty
+0.7691432462	upper level undergraduate
+0.7673391875	common difficulties
+0.7670663529	physics education
+0.7661053493	physical principles
+0.7658103874	adaptive learning
+0.7648995818	java simulation
+0.7641459126	observational data
+0.7636836922	standard model
+0.7634613924	learning environments
+0.7624816924	assessment tool
+0.7613405015	data collected
+0.7608511447	greek
+0.7597170335	scientific knowledge
+0.7587115873	bohr
+0.7586135141	faraday
+0.7573688124	modern physics
+0.7566847346	friedmann
+0.7566847346	california
+0.7553465435	physics lab
+0.7550759701	europe
+0.7548033587	michelson
+0.7538135525	planck
+0.7538135525	euler
+0.7537159271	quantum interactive learning
+0.7530802036	singapore
+0.7528614046	peer assessment
+0.7526488467	instructional materials
+0.7520764749	pre test
+0.7514679414	rlc
+0.7514349943	compton
+0.7510293688	indian
+0.7505186417	oregon
+0.7502488475	lagrange
+0.7484936201	harmonic motion
+0.7477430223	feynman
+0.7474704477	cern
+0.7472755969	bayesian
+0.7465574244	olympiad
+0.7462083179	helmholtz
+0.7458454434	minkowski
+0.7453226361	pauli
+0.7451315602	google
+0.7442141964	high school level
+0.7437346172	theoretical physics
+0.7434133086	physical sciences
+0.7432212695	sofia
+0.7423208157	stokes
+0.7420838713	lab courses
+0.7415046704	carnot
+0.7415046704	ettore
+0.7414894765	schwarzschild
+0.7411096908	faraday's
+0.7409940883	academy
+0.7408109346	astroparticle
+0.7407023598	physical systems
+0.7394163718	newton
+0.7386489151	western
+0.7385783959	dse
+0.7374302815	self efficacy
+0.7368182935	solve problems
+0.7364825625	north
+0.7363253195	raum
+0.7361038340	mathematical reasoning
+0.7357042267	conceptual framework
+0.7354512280	galilean
+0.7342554211	michigan
+0.7332776640	bildung
+0.7332577950	hadron
+0.7332112762	conceptual understanding
+0.7315961987	traditional lecture
+0.7310127597	south
+0.7307338558	advanced physics
+0.7302999955	physical science
+0.7290019245	boulder
+0.7288033065	euclidean
+0.7284439380	research validated
+0.7283603809	master's
+0.7283573307	authentic scientific
+0.7283546934	results suggest
+0.7283371826	fourier
+0.7280788770	nobel
+0.7276920172	ccd
+0.7273455729	based assessments
+0.7267860130	european
+0.7264039839	quilt
+0.7258639833	american
+0.7246034099	ac
+0.7226163944	open source physics
+0.7217918527	maxwell
+0.7214235302	university level
+0.7209075868	green
+0.7203277263	atlas
+0.7198901052	lorentz
+0.7198389833	einsteinian
+0.7196583974	ao
+0.7194959110	observatory
+0.7189265822	tech
+0.7185262413	boltzmann
+0.7183585121	content knowledge
+0.7179635364	sun
+0.7179597131	italian
+0.7174364005	taking into account
+0.7169354628	basic concepts
+0.7169082438	fermi
+0.7168732755	gre
+0.7165482415	origins
+0.7137283750	majorana
+0.7136045779	doppler
+0.7128032314	lot
+0.7114054429	binding
+0.7112080643	astronomical data
+0.7107584826	group problem solving
+0.7100057072	maxwell's
+0.7089200619	newton's
+0.7084948241	bachelor
+0.7077031575	analytics
+0.7072705767	einstein
+0.7068742234	peak
+0.7067546159	mach
+0.7067546159	brownian
+0.7061010941	newtonian
+0.7059121596	quark
+0.7055166340	hamiltonian
+0.7046833387	english
+0.7039660851	higgs
+0.7037302420	chi
+0.7037090432	thinking skills
+0.7032197039	collider
+0.7030383108	introductory lab
+0.7030125320	graduate students
+0.7028097469	museum
+0.7012443364	gauss's
+0.7009919053	galaxy
+0.7008792124	physics courses
+0.7001612736	physics olympiad
+0.6999239603	terminal
+0.6999239603	wireless
+0.6999185944	dirac
+0.6996421000	physics labs
+0.6994593782	fisica
+0.6987268726	fluorescence
+0.6985329358	tug
+0.6977519736	accelerator
+0.6971378675	solving strategies
+0.6969788208	general education
+0.6968065306	earth's
+0.6966937723	intelligent
+0.6965482406	inverted
+0.6963065645	calculus based introductory
+0.6960480969	introductory mechanics
+0.6957295067	covid
+0.6951771200	education researchers
+0.6949928605	lattice
+0.6946915100	walk
+0.6940290915	stern
+0.6937888064	high school students
+0.6935147753	microwave
+0.6934438446	learning environment
+0.6934299289	java
+0.6932809797	effective problem solving
+0.6932360720	native
+0.6926800105	student engagement
+0.6924813787	important role
+0.6920200229	cell
+0.6919556021	stem education
+0.6919072355	smart
+0.6912525945	soft
+0.6911863329	tracking
+0.6903899206	journal
+0.6895577254	industrial
+0.6885709265	mathematics courses
+0.6884716660	prize
+0.6883568243	publication
+0.6882760765	bridge
+0.6876797001	levitation
+0.6875556661	cube
+0.6875556661	plate
+0.6875556661	tensor
+0.6874673689	college physics
+0.6872352022	institute
+0.6866120059	silicon
+0.6863774048	blending
+0.6862718885	massive
+0.6860825744	physics curriculum
+0.6860587550	citizenship
+0.6860231128	plasma
+0.6855652911	correspondence
+0.6853610003	induction
+0.6842161205	false
+0.6841309108	physical interpretation
+0.6840481423	gravitation
+0.6838726729	physics majors
+0.6833919720	based learning
+0.6832473524	interferometer
+0.6830819707	philosophy
+0.6827132214	excel
+0.6826469974	planet
+0.6824529295	student learning
+0.6817703181	center
+0.6816700623	citizen
+0.6816598669	white
+0.6814333272	colorado
+0.6811794017	lab activities
+0.6807505781	science courses
+0.6807465929	pi
+0.6802673678	search
+0.6790620643	redshift
+0.6790282962	research based
+0.6789524947	engineering education
+0.6784176780	memory
+0.6780984264	large introductory
+0.6779028276	field theory
+0.6778522484	center of mass
+0.6774066254	think aloud
+0.6771515132	derivative
+0.6770292800	sea
+0.6762636174	ci
+0.6756876972	pair
+0.6756772737	life
+0.6755598898	teaching experience
+0.6750981242	bank
+0.6750981242	pipe
+0.6750981242	dispersion
+0.6750981242	supervised
+0.6749199219	box
+0.6748108693	activity based
+0.6744220226	earth
+0.6741169786	suite
+0.6740955006	radiative
+0.6739442518	horizon
+0.6738656981	reflective
+0.6738656981	revolution
+0.6738656981	tunneling
+0.6737984855	undergraduate engineering
+0.6734981583	problem solving process
+0.6734045298	meta
+0.6730700257	moon
+0.6728881457	student participation
+0.6728241622	spiral
+0.6728085010	appreciation
+0.6727783131	fractal
+0.6725677906	universe
+0.6724670758	stem
+0.6719607193	homework problems
+0.6717526196	high energy
+0.6715632435	modulation
+0.6715632435	eddy
+0.6714668497	\ ~ ao
+0.6703279503	3d printing
+0.6699536606	student reflections
+0.6691451981	inspired
+0.6689923519	playing
+0.6689575493	contraction
+0.6688973634	universal
+0.6686543811	intelligence
+0.6686543811	deviation
+0.6686543811	carbon
+0.6685604458	hierarchical
+0.6684061286	female students
+0.6682053347	identification
+0.6681610219	radial
+0.6678155835	law
+0.6671788567	fair
+0.6670516679	electricity
+0.6670453192	delta
+0.6665367463	education
+0.6660648772	undergraduate physics
+0.6658565767	scientific research
+0.6658318070	projectile
+0.6652943739	technological
+0.6652943739	vision
+0.6648296494	fiber
+0.6647754000	reader
+0.6647369374	microscopy
+0.6645167339	di
+0.6644034457	international
+0.6642918604	ownership
+0.6640591261	ring
+0.6640591261	standing
+0.6639239485	quantum phenomena
+0.6637430432	society
+0.6633666977	inventory
+0.6633451848	pilot
+0.6631787079	relativity
+0.6626487023	student thinking
+0.6625099259	physics laboratory
+0.6625078440	summary
+0.6624755096	continuum
+0.6624755096	shadow
+0.6623503340	rule
+0.6622458847	classical physics
+0.6621501530	reflection
+0.6621252673	big
+0.6619365015	student reasoning
+0.6619101698	literacy
+0.6617121542	disabilities
+0.6615113558	problem solving skills
+0.6612387130	science
+0.6609138823	inter
+0.6608767094	problems involving
+0.6597251207	association
+0.6594384892	entanglement
+0.6592929152	refraction
+0.6592440005	web
+0.6592251818	introductory quantum
+0.6590508317	experiential
+0.6589459189	augmented
+0.6588807125	card
+0.6581672995	tutorial
+0.6574355177	college
+0.6571755120	cavity
+0.6566472644	architecture
+0.6566472644	conductivity
+0.6565568947	sector
+0.6564832523	weather
+0.6563120689	peer
+0.6556505950	transistor
+0.6556505950	motor
+0.6556505950	car
+0.6553844752	artificial
+0.6553708365	sciences
+0.6551616199	drag
+0.6548768554	pulse
+0.6548356924	network
+0.6542179636	think aloud interviews
+0.6539772012	tunnel
+0.6539372330	educational research
+0.6537330076	fall
+0.6534634901	participated
+0.6532785685	blended
+0.6527579126	algebra based introductory physics
+0.6525258366	computation
+0.6523557611	master
+0.6521891674	assistant
+0.6520664793	chamber
+0.6518032205	satellite
+0.6516313324	la
+0.6515316983	summer
+0.6514328714	stellar
+0.6512832188	spectroscopy
+0.6512677502	spontaneous
+0.6511470753	computers
+0.6510655712	qualitative analysis
+0.6509991420	muon
+0.6508402442	national
+0.6508366551	environmental
+0.6508325373	mining
+0.6505653369	microscope
+0.6503886367	counter
+0.6503886367	private
+0.6503886367	risk
+0.6502224880	formative
+0.6499169825	student ownership
+0.6494181020	climate
+0.6491444135	statistics
+0.6491265203	band
+0.6491091661	health
+0.6489866383	solar
+0.6488569837	neutrino
+0.6483450137	covid 19
+0.6478162821	physics
+0.6476691064	advances
+0.6474630954	celestial
+0.6472464272	bond
+0.6470600600	basics
+0.6470600600	rise
+0.6470130113	exponential
+0.6466048007	symmetry
+0.6465339002	astronomy
+0.6464269510	middle
+0.6462358750	epo
+0.6461105805	inflation
+0.6459654705	impedance
+0.6456970908	intervals
+0.6455925205	colorado learning attitudes about
+0.6455829859	transport
+0.6452842855	university
+0.6451388549	paradox
+0.6446463525	mathematica
+0.6445422983	usa
+0.6443112409	stem courses
+0.6443069046	meter
+0.6441513172	star
+0.6439430326	learning modules
+0.6438575105	chaos
+0.6438508421	improving
+0.6437780926	ai
+0.6435796799	iss
+0.6431587461	art
+0.6431512509	clicker
+0.6431484339	open
+0.6429500049	calculus
+0.6428315354	cocalc
+0.6428315354	italy
+0.6428315354	schrodinger
+0.6428315354	bell
+0.6427934467	mars
+0.6424607711	sky
+0.6423540371	ojibwe
+0.6423079744	index.php
+0.6421545956	engineering
+0.6420263382	cms
+0.6419694388	electromagnetism
+0.6419278553	ph.d
+0.6418791853	lorenz
+0.6418791853	india
+0.6418791853	galileo's
+0.6418791853	bose
+0.6418360166	math
+0.6415044078	ill structured
+0.6414754075	ngss
+0.6413074038	scientific practices
+0.6406697934	cosmic
+0.6406556244	android
+0.6406412457	musical
+0.6406055717	galileo
+0.6405938996	investigating
+0.6405476876	german
+0.6403656420	dynamics
+0.6403375990	fermilab
+0.6402214230	thermodynamic
+0.6397692900	spring
+0.6397003871	engaged
+0.6396374984	toy
+0.6396167021	ct
+0.6395458731	electric and magnetic fields
+0.6395078525	compact
+0.6391604029	management
+0.6391604029	width
+0.6390849587	observation
+0.6388547842	lhc
+0.6386274915	introductory physics courses
+0.6385811448	split
+0.6384613956	qcd
+0.6380534738	establish
+0.6379385538	interactive
+0.6379203790	research projects
+0.6378769603	sat
+0.6378609700	uk
+0.6377439644	measuring
+0.6376655613	matlab
+0.6376131561	rocket
+0.6375640298	learning community
+0.6374123991	physicist
+0.6372647663	electricity and magnetism
+0.6369360407	lessons
+0.6366619229	chemistry
+0.6365639507	phet
+0.6365245668	hamilton
+0.6362380391	physical world
+0.6355516198	school
+0.6354740517	proficiency
+0.6354219261	adoption
+0.6353809171	qm
+0.6351484913	pcs
+0.6349766559	magnetism
+0.6349761060	ict
+0.6345807607	ensure
+0.6344460520	u.s
+0.6343979402	dark
+0.6339679357	isomorphic
+0.6338438889	space
+0.6338109086	workshop
+0.6336887208	bending
+0.6336887208	arithmetic
+0.6336887208	spheres
+0.6336887208	orbital
+0.6336887208	neutral
+0.6335717068	pedagogical tool
+0.6335222845	sign
+0.6335222845	pass
+0.6335222845	excited
+0.6335222845	country
+0.6334824586	iwant2study.org
+0.6333787649	grounded
+0.6332997007	lasso
+0.6332842017	moocs
+0.6332793138	wee
+0.6332277877	map
+0.6332146194	brazil
+0.6330588734	guide
+0.6328300500	precession
+0.6322718582	simple harmonic
+0.6322561551	deficit
+0.6321952538	student perspectives
+0.6320863563	science teachers
+0.6312631178	response and multiple choice
+0.6312195266	sl
+0.6311922312	javascript
+0.6310591844	bema
+0.6309583371	nitarp
+0.6308876029	student performance
+0.6307211195	illinois
+0.6306880637	irt
+0.6305885397	mzi
+0.6304967487	improving students
+0.6303407310	mooc
+0.6300808433	lagrangian
+0.6300808433	keywords
+0.6300377502	led
+0.6296450691	phys
+0.6291180574	rbas
+0.6290956693	coupling
+0.6290850336	nsf
+0.6289859208	ta
+0.6287823384	planets
+0.6285651959	coulomb
+0.6284980487	printed
+0.6283983208	calculus based introductory physics
+0.6283657360	theory
+0.6282540206	mathematics
+0.6280633498	quiz
+0.6279129472	logic
+0.6279129472	sites
+0.6279129472	pictures
+0.6279129472	gradient
+0.6279129472	launch
+0.6279129472	elliptic
+0.6279129472	valued
+0.6279129472	observers
+0.6278988788	alice
+0.6277999863	cu
+0.6276695559	cr
+0.6275399328	technology
+0.6275231532	comparison
+0.6274589435	csem
+0.6274061248	stereotype
+0.6272764685	arduino
+0.6270189574	fmce
+0.6269426576	failure
+0.6267418288	exam questions
+0.6267280977	controlling
+0.6267280977	agent
+0.6266142792	inclusion
+0.6265530759	lecture
+0.6262430421	materialien
+0.6262430421	june
+0.6262430421	planck's
+0.6261437286	quantum
+0.6261027248	laws
+0.6260971337	student difficulties
+0.6258200461	einstein's
+0.6256391057	diagnostic
+0.6255570954	telescope
+0.6255403280	cloud
+0.6254883951	january
+0.6254314724	comparing
+0.6250966164	home
+0.6250571571	crystal
+0.6249024592	virtual
+0.6245904739	modeling
+0.6244783945	observational
+0.6243996736	understanding
+0.6240850336	urm
+0.6240843619	young
+0.6240189574	piql
+0.6240189574	mi
+0.6239026256	number
+0.6237675251	class
+0.6236627314	gr
+0.6234625833	learning objectives
+0.6234468501	unable
+0.6232415759	origin
+0.6231817736	phd
+0.6226835277	electrodynamics
+0.6225330520	preliminary
+0.6224619806	physics educators
+0.6223218039	conceptual questions
+0.6222567813	nasa
+0.6221723351	nature
+0.6219310494	brazilian
+0.6217849777	kankor
+0.6217680719	ancient
+0.6216001557	aware
+0.6216001557	fundamentals
+0.6216001557	relies
+0.6213987161	undergraduate level
+0.6213759040	collaboration
+0.6213619926	machines
+0.6213016854	pre
+0.6212951699	descriptive
+0.6212951699	graph
+0.6212951699	conflict
+0.6211526290	infinite
+0.6208066074	state
+0.6207313239	ejs
+0.6206701228	tracker
+0.6205719791	algebra
+0.6204689812	astrobites
+0.6200530372	traditional instruction
+0.6199143767	senior
+0.6199134680	dfw
+0.6197609170	ejss
+0.6197549357	jump
+0.6197513357	collaborative
+0.6196870891	recent
+0.6196798521	attributed
+0.6196196263	next generation
+0.6190645008	las
+0.6190526290	engine
+0.6190085243	framework
+0.6188594052	conduction
+0.6188594052	conformal
+0.6188594052	trial
+0.6185743553	strength
+0.6185163847	research
+0.6178310185	matter
+0.6177945973	python
+0.6171150884	machine
+0.6170098869	devoted
+0.6167317514	standards
+0.6164132099	pr
+0.6163564763	perturbation
+0.6163564763	cryptography
+0.6162645708	physical concepts
+0.6161981395	learn
+0.6161803726	measurement
+0.6159895300	gpa
+0.6159605114	data sets
+0.6158427964	diode
+0.6157006921	student
+0.6155278966	flipped
+0.6155188721	development
+0.6154738129	transitions
+0.6153495810	grid
+0.6151108214	spectral
+0.6149872443	participation
+0.6145826439	force
+0.6144496122	color
+0.6143817804	tube
+0.6139399702	cooling
+0.6139399702	drive
+0.6139399702	clinical
+0.6139399702	emission
+0.6135748288	electromechanics
+0.6134614763	recognition
+0.6133914682	mechanics
+0.6132804617	dc
+0.6131999383	cycle
+0.6126262072	mobile
+0.6124876446	languages
+0.6124523969	nuclear
+0.6124512573	lab
+0.6123146931	cards
+0.6122593287	tas
+0.6118647248	pd
+0.6118403053	optics
+0.6116553414	light
+0.6116521802	harmonics
+0.6116173845	astro
+0.6114604680	history
+0.6112980597	evaluation
+0.6112390197	black
+0.6110793051	short
+0.6107503337	derivatives
+0.6106588032	learning tools
+0.6104826866	si
+0.6102858625	approaches to problem solving
+0.6099763798	introductory courses
+0.6097007983	eye
+0.6095322327	additionally
+0.6094439126	orbit
+0.6089121050	cue
+0.6088474647	introduction
+0.6088082840	secondary
+0.6087358313	simulation
+0.6086429628	easy
+0.6085701671	waves
+0.6085037317	ago
+0.6083858705	digital
+0.6082115893	library
+0.6082077986	trivial
+0.6081218050	youtube
+0.6079876612	simple model
+0.6078278127	bound
+0.6075950111	compute
+0.6075950111	wind
+0.6075799713	detector
+0.6073152891	steady
+0.6069029647	breaking
+0.6065940541	experimental
+0.6065192498	radio
+0.6065047215	vr
+0.6063300592	similarly
+0.6062789560	sustainable
+0.6061852020	speed of light
+0.6059273853	predictor
+0.6059273853	resulted
+0.6059013841	model
+0.6058321222	speaking
+0.6058321222	yield
+0.6054981201	multiple
+0.6054079930	theoretical model
+0.6049240268	century
+0.6049014638	generation
+0.6048261591	outreach
+0.6046788986	diese
+0.6045558943	video
+0.6045434838	smartphone
+0.6042536357	scaffolding
+0.6041086042	quantum field
+0.6040619469	project
+0.6039910233	teaching
+0.6036675634	physics classes
+0.6035325858	foster
+0.6031394618	pendulum
+0.6030638807	developing
+0.6029676341	loop
+0.6028697982	standardized
+0.6026982096	date
+0.6026982096	appearance
+0.6026982096	covariational
+0.6026982096	odinger
+0.6024658100	game
+0.6021531205	physics teachers
+0.6021414059	purpose
+0.6019140186	innovative
+0.6017036388	solving problems
+0.6016451486	fci
+0.6014809428	physics laboratory courses
+0.6012904301	stars
+0.6011821875	study investigates
+0.6010863172	framing
+0.6009982028	glass
+0.6007478446	branch
+0.6006389059	mc
+0.6006345147	attitudes about science survey
+0.6004243367	reflections
+0.6000930797	effective problem
+0.5999655655	stakes
+0.5999655655	rely
+0.5997948380	undergraduate
+0.5996515331	central
+0.5993524956	global
+0.5992872103	direct
+0.5992310512	learning
+0.5985986368	book
+0.5985554554	fuer
+0.5985484128	computational
+0.5985280930	medical
+0.5985246640	availability
+0.5985246640	realize
+0.5984914367	team
+0.5984681768	biology
+0.5983279084	department
+0.5980184215	graduate
+0.5975512900	depth
+0.5975449586	electric
+0.5974175881	quantum measurement
+0.5974168396	funded
+0.5973614111	advanced
+0.5973100223	inquiry
+0.5970944889	male and female
+0.5966966696	motion
+0.5964878756	efficacy
+0.5964586486	optimal
+0.5963682739	undergraduate curriculum
+0.5963172228	laboratory experiment
+0.5961132312	numerical
+0.5959548477	learning process
+0.5955772571	corrections
+0.5955250724	assessment
+0.5953012702	index
+0.5952413964	tool
+0.5951943715	essays
+0.5949677379	teaching strategies
+0.5949574539	categorization
+0.5948028625	teach
+0.5947384053	classical
+0.5944778417	colleges
+0.5944363561	dipole
+0.5943868609	indigenous
+0.5942136973	fraction
+0.5938829141	formation
+0.5938810769	driven
+0.5936367603	faster
+0.5934052848	simple
+0.5933447100	data
+0.5931622200	modern
+0.5930784761	coefficient
+0.5926689161	nonetheless
+0.5926541542	schools
+0.5926020117	non science majors
+0.5925344598	heat
+0.5923958172	compass
+0.5922924310	student interactions
+0.5922913753	overview
+0.5921230749	online
+0.5921111830	results
+0.5916826435	outcomes
+0.5910833889	connections
+0.5910520730	dimension
+0.5910315217	practices
+0.5907524285	equity
+0.5904612472	project based
+0.5903939059	education and public outreach
+0.5900437504	sound
+0.5898476646	design
+0.5897263322	inverse
+0.5894589840	initial
+0.5893842032	commercial
+0.5893310968	linear
+0.5891874008	chain
+0.5887972063	previous research
+0.5887116417	research based assessment
+0.5886371238	simulating
+0.5886136193	empirical
+0.5885203504	subset
+0.5883793091	mathematical tools
+0.5882279965	decision
+0.5882279965	reduction
+0.5882274914	human
+0.5881921078	attached
+0.5878760112	statistical
+0.5878466345	proportional
+0.5874184433	absolute
+0.5872332804	correlations
+0.5872147861	concept
+0.5871817922	issues related
+0.5868783402	action
+0.5868202787	laboratory courses
+0.5864942773	straight
+0.5864942773	disc
+0.5864942773	periodic
+0.5864942773	cognition
+0.5863358266	visualize
+0.5862400768	robotics
+0.5861694282	vector
+0.5856334345	dilation
+0.5854575293	test
+0.5853715122	behaviour
+0.5853715122	acquisition
+0.5850740628	fundamental concepts
+0.5850225046	finally
+0.5848625751	division
+0.5847797929	decrease
+0.5847797929	credit
+0.5847797929	linked
+0.5847797929	categorize
+0.5845890213	making
+0.5845715510	description
+0.5845662155	conservation of energy
+0.5845612792	student groups
+0.5845090883	inertia
+0.5843440745	extending
+0.5840010939	tournament
+0.5840010939	desktop
+0.5839981711	es
+0.5838913872	electrical
+0.5837502801	resource
+0.5837418500	probe
+0.5837234381	special
+0.5834746145	closed
+0.5834088202	alternative
+0.5832656157	hybrid
+0.5831491598	nowadays
+0.5831167753	printing
+0.5830349058	misconceptions
+0.5829017856	qualitative
+0.5828831080	emphasis
+0.5826179224	gravity
+0.5823184628	conceptual
+0.5823159103	viewed
+0.5820565869	suggestions
+0.5820216923	spacetime
+0.5819843282	displacement
+0.5819781276	contrary
+0.5819637470	interactive learning
+0.5819463668	lens
+0.5818919104	grades
+0.5818889404	researchers
+0.5818486573	details
+0.5817288432	styles
+0.5815129853	planetarium
+0.5815122907	dimensional
+0.5814908279	root
+0.5813941238	regard
+0.5813941238	boson
+0.5813941238	realization
+0.5813941238	consequence
+0.5813941238	caused
+0.5813391088	crystals
+0.5813391088	homogeneous
+0.5812318700	educators
+0.5812053739	iii
+0.5811326157	structured problems
+0.5809246836	addition
+0.5809014514	processing
+0.5807353256	analysis
+0.5807173808	foundation
+0.5806845833	relativistic
+0.5805949913	performance
+0.5803887245	exposed
+0.5800959855	algebraic
+0.5800865248	mass
+0.5800746057	computing
+0.5799613728	el
+0.5797613093	depend
+0.5797613093	necessarily
+0.5795093927	inductance
+0.5793747637	introductory
+0.5793655611	comment
+0.5792727310	holography
+0.5791278871	elementary
+0.5787741994	energy
+0.5786793814	transforming
+0.5786695585	apprenticeship
+0.5786695585	wie
+0.5786695585	phenomenology
+0.5786201346	simulations
+0.5786155526	visualizing
+0.5786006431	faculty
+0.5785968289	approach
+0.5785654522	et al
+0.5783305240	proceedings
+0.5782076945	clock
+0.5778715875	extension
+0.5777336659	dealing
+0.5775920301	masterclasses
+0.5775101263	collection
+0.5773670799	interactions
+0.5772684380	unlike
+0.5772266729	case
+0.5770424072	slit
+0.5769978845	identities
+0.5769978845	rotational
+0.5768942832	kit
+0.5767723395	engaging
+0.5765571722	conservation
+0.5764552711	note
+0.5763668264	night
+0.5763622392	proposal
+0.5760750741	conference
+0.5760060239	beta
+0.5759761195	enhancing
+0.5759761195	moves
+0.5758529103	revisited
+0.5757423877	laser
+0.5757189172	create
+0.5756664975	combined
+0.5756242463	cross
+0.5755836563	interviews
+0.5751303119	guided
+0.5750010822	distinction
+0.5748723875	potato
+0.5748159279	quantitative
+0.5744279919	current research
+0.5744094052	active
+0.5743932143	classroom
+0.5743684396	masterclass
+0.5743269005	particle
+0.5739517279	beam
+0.5739359066	examining
+0.5735657310	rays
+0.5734401298	meeting
+0.5733847652	reports
+0.5731358005	significance
+0.5730979633	hardware
+0.5730979633	dot
+0.5730536521	post
+0.5729753623	minority
+0.5728885581	years
+0.5728394654	de broglie
+0.5727938648	regression
+0.5726647367	units
+0.5725828515	wide
+0.5724148602	minimum
+0.5724148602	procedural
+0.5723946039	flat
+0.5723103752	male students
+0.5722119466	technical
+0.5721228237	centre
+0.5720098671	language
+0.5718711269	starting
+0.5717838572	regional
+0.5715788547	lecture based
+0.5715152024	incorporating
+0.5713068957	add
+0.5712098980	emf
+0.5712000854	thinking
+0.5711268674	permanent
+0.5709958915	competence
+0.5709696886	recent years
+0.5708410783	conceptual knowledge
+0.5707759807	preparing
+0.5707376637	atmospheric
+0.5707012647	student ideas
+0.5703929850	absence
+0.5703330146	serves
+0.5703330146	comprehensive
+0.5702719240	spot
+0.5702571442	program
+0.5700564372	k 12
+0.5700548676	improvement
+0.5699319601	enabled
+0.5694361642	effect
+0.5691406768	gauge
+0.5691122114	worldwide
+0.5690428703	cm
+0.5690309178	controlled
+0.5689880752	teaching physics
+0.5688789336	personas
+0.5688789336	linking
+0.5687729708	image
+0.5687600391	spaces
+0.5685146451	longitudinal
+0.5684531973	structure
+0.5684283125	f
+0.5684200753	reform
+0.5681753100	survey
+0.5681296971	free
+0.5680231875	astrophysics
+0.5678222634	student's
+0.5677726716	asymmetric
+0.5677155604	cosmology
+0.5676522076	internet
+0.5676094660	past
+0.5675093039	writing
+0.5672906764	base
+0.5672906764	capture
+0.5671885655	primary
+0.5671773253	professor
+0.5669747571	working
+0.5669472837	bridging
+0.5669219196	resistive
+0.5667531738	influences
+0.5666838327	wave
+0.5666838254	um
+0.5666744772	oscillator
+0.5663804580	learning experience
+0.5661602728	phone
+0.5661532355	equivalence
+0.5660992582	teaching methods
+0.5660625290	games
+0.5660348800	user
+0.5659651507	kinetic
+0.5658064074	intuitive
+0.5657953323	agents
+0.5656308443	scaling
+0.5653267873	designers
+0.5653267873	studio
+0.5653267873	partnerships
+0.5653267873	neutrinos
+0.5653267873	dialogue
+0.5651409832	media
+0.5650888974	laboratory
+0.5649710629	entrepreneurs
+0.5649710629	personalized
+0.5648925267	educational
+0.5647804900	early
+0.5647558476	directions
+0.5646838604	magic
+0.5646762105	expert
+0.5646448569	supported
+0.5642417370	science survey for experimental physics
+0.5641765355	exploring
+0.5640554201	cluster
+0.5640337573	causality
+0.5638384214	turning
+0.5637581735	integrating
+0.5636624541	review
+0.5636056633	student responses
+0.5635062718	flows
+0.5634758624	scalar
+0.5634649147	structural
+0.5634519589	persistence
+0.5634281423	biophysics
+0.5634281423	bringing
+0.5632746755	cosmos
+0.5630782583	colliders
+0.5629477523	contributed
+0.5626282608	reality
+0.5626242629	promote
+0.5626057984	photons
+0.5625374836	heavy
+0.5624812643	reduce
+0.5624634048	configuration
+0.5623074316	na
+0.5621586964	popular
+0.5621073679	reasoning skills
+0.5620580223	property
+0.5617278401	domain
+0.5616620036	professional
+0.5616286796	supporting
+0.5615700313	electromagnetic
+0.5613938027	remote
+0.5613638371	cold
+0.5612345265	discrete
+0.5612181735	ranging
+0.5612181735	acting
+0.5610224403	output
+0.5609647728	inexpensive
+0.5609469072	slinky
+0.5607854662	matrices
+0.5607693175	equation
+0.5605915716	spatial
+0.5604837611	paper presents
+0.5603779800	uncertainty
+0.5603423763	divergence
+0.5602432622	examination
+0.5602343870	advanced undergraduate and graduate
+0.5601388302	mapping
+0.5599354919	hydrogen
+0.5599302025	problem
+0.5599183442	diversity
+0.5598994413	questionnaire
+0.5598510468	usefulness
+0.5597482269	complexity
+0.5595363166	tablet
+0.5595363166	il
+0.5594056917	implications
+0.5591779163	school teachers
+0.5590522270	enrollment
+0.5590048542	mentoring
+0.5588958405	capacity
+0.5588581739	robotic
+0.5588581739	today
+0.5588301289	event
+0.5586425258	scale
+0.5585734388	principal
+0.5585734388	logical
+0.5585734388	pure
+0.5585734388	efficiency
+0.5583827124	21st
+0.5583827124	responsible
+0.5583712919	attitudes
+0.5583464518	tug k
+0.5582755400	ray
+0.5582739169	experimental results
+0.5582463621	parity
+0.5582463621	pathways
+0.5582463621	capacitance
+0.5582331739	originally
+0.5581468595	expressing
+0.5581468595	historically
+0.5580909584	symbolic
+0.5580909584	visualizations
+0.5580909584	ontological
+0.5579772568	solving
+0.5578723187	evaluating
+0.5577885726	expertise
+0.5576997284	drawing
+0.5575859933	ii
+0.5574479794	motivate
+0.5572511964	atomic
+0.5572375291	function
+0.5567933419	mechanics problems
+0.5567012391	room
+0.5565524914	equations
+0.5564851082	creative
+0.5561198611	quaternions
+0.5561198611	paradigms
+0.5561198611	leadership
+0.5561198611	probing
+0.5561198611	mission
+0.5561198611	evolving
+0.5561198611	sheets
+0.5560929179	capable
+0.5560741412	assessing
+0.5560440840	ordinary
+0.5560440840	similarity
+0.5560440840	economic
+0.5560440840	stochastic
+0.5559499726	grade
+0.5558589698	exam
+0.5557565797	conceptual survey of electricity and magnetism
+0.5557459341	reviewed
+0.5554533962	upper division physics
+0.5552118572	solve
+0.5550963047	junior
+0.5550720260	films
+0.5550439238	centrality
+0.5550247861	thermodynamics
+0.5548771891	molecular
+0.5546219722	service
+0.5545640480	changing
+0.5545625203	access
+0.5545293726	plane
+0.5544653746	ice
+0.5543489125	altitude
+0.5541716786	community
+0.5540289670	creativity
+0.5540289670	promoting
+0.5539853072	connecting
+0.5535272633	expectations
+0.5534529620	analogous
+0.5534284376	reference
+0.5533952744	strong
+0.5533722857	physics graduate
+0.5532989457	metric
+0.5528730469	liquid
+0.5527091132	statistically
+0.5526156023	public
+0.5526018958	specifically
+0.5525184116	mechanical
+0.5523258773	lambda
+0.5521480357	blue
+0.5521480357	curiosity
+0.5521279771	resistance
+0.5519998441	studying
+0.5519131396	explanation
+0.5519093300	consideration
+0.5518919005	elasticity
+0.5518919005	importantly
+0.5518919005	females
+0.5518919005	enabling
+0.5518919005	comparative
+0.5518463100	authentic
+0.5514994708	optical
+0.5512841153	elastic
+0.5512206911	characterizing
+0.5512206911	galaxies
+0.5510588222	collect
+0.5510588222	align
+0.5510588222	separation
+0.5509897654	group
+0.5509786986	natural
+0.5507193644	underrepresented
+0.5506822534	tutorials
+0.5505151266	communication
+0.5504453843	large
+0.5503866673	physicists
+0.5499682012	freshman
+0.5497703955	percentage
+0.5497659654	gamma
+0.5496142018	findings
+0.5495891215	edge
+0.5495891215	intellectual
+0.5490976678	recently
+0.5490923170	attitude
+0.5488973787	systematic
+0.5486980908	positron
+0.5480007604	calls
+0.5478096841	physics textbooks
+0.5477379884	industry
+0.5477379884	distributed
+0.5477137668	quarks
+0.5477137668	round
+0.5474697688	high
+0.5473697219	transfer
+0.5472320334	discourse
+0.5472168620	fine
+0.5472168620	letter
+0.5470878195	phase
+0.5469151095	experimental data
+0.5468826755	absorption
+0.5468757014	discovery
+0.5468255076	age
+0.5467487601	operator
+0.5467487601	freezing
+0.5466382731	null
+0.5465685530	die
+0.5464418921	shape
+0.5463812554	quantum mechanics courses
+0.5462590054	states
+0.5462461479	momentum
+0.5462183595	common
+0.5461607453	fairness
+0.5460085957	balance
+0.5460067719	opportunity
+0.5458890196	algebra based introductory
+0.5457495985	instructional
+0.5456627074	introductory level
+0.5455373888	circuit
+0.5453585847	single
+0.5453126765	based reasoning
+0.5451998092	notes
+0.5451361471	mirror
+0.5449250616	science survey
+0.5447506214	consisting
+0.5446840586	identity
+0.5446690400	entropy
+0.5445678711	magnet
+0.5443769686	learning goal
+0.5443736925	aloud
+0.5443677868	level quantum mechanics
+0.5443232498	flow
+0.5441746713	feedback
+0.5439387323	race
+0.5438003490	curriculum
+0.5436738033	immersive
+0.5435363787	continuous
+0.5432942115	electronic
+0.5432358956	self diagnosis
+0.5432014476	mechanism
+0.5431252676	study
+0.5430406143	acoustic
+0.5430039117	projects
+0.5428688953	deal
+0.5427750731	analytic
+0.5427153344	accelerated
+0.5427153344	initiative
+0.5426974304	atom
+0.5426840538	quality
+0.5426187053	based
+0.5426071585	connection
+0.5425849269	ultimately
+0.5425849269	imaginary
+0.5425849269	freshmen
+0.5425392942	homework
+0.5424784595	majority
+0.5423318452	utility
+0.5422481781	board
+0.5419469956	modelling
+0.5418445291	applied
+0.5417902865	incorporate
+0.5417585495	general
+0.5416425390	module
+0.5416385636	moment
+0.5414235090	effort
+0.5413422082	concepts
+0.5412653878	h
+0.5410942653	physics instructors
+0.5410779876	enhanced
+0.5409531426	diagnosis
+0.5409263162	undergraduate physics laboratory
+0.5407828626	gender
+0.5407442213	introductory physics students
+0.5407438909	teacher
+0.5406880225	tests
+0.5406551344	translation
+0.5404711349	measures
+0.5404511440	representation
+0.5404429941	background
+0.5399369905	ensino
+0.5399369905	superconductor
+0.5399369905	guidelines
+0.5399369905	supplementary
+0.5399369905	dual
+0.5399369905	figure
+0.5399369905	naive
+0.5399369905	splitting
+0.5399369905	analysing
+0.5398098620	innovation
+0.5397174364	investigates
+0.5393850654	software
+0.5391843559	investigation
+0.5391734509	invariant
+0.5391242623	identifying
+0.5388631120	estimation
+0.5388474642	combination
+0.5388465721	diffraction
+0.5387742565	anti
+0.5387352122	resources
+0.5383494023	normal
+0.5381058952	effectiveness
+0.5380966834	reasoning
+0.5380451308	generalized
+0.5379272646	connect
+0.5378868501	l
+0.5378696841	perspectives
+0.5378558952	version
+0.5376383130	ball
+0.5376093349	interpretation
+0.5374172187	simpler
+0.5372350389	diffusion
+0.5372125634	hypothesis
+0.5370037210	taking
+0.5369116210	variety
+0.5369098541	geometry
+0.5368708979	survey questions
+0.5368426684	charge
+0.5366965413	reading
+0.5362677932	gendered
+0.5362677932	attending
+0.5362677932	array
+0.5362677932	humans
+0.5362677932	novices
+0.5362677932	removing
+0.5362677932	derivations
+0.5362677932	analogical
+0.5362677932	amplifiers
+0.5361011468	share
+0.5359460940	geodesics
+0.5359460940	una
+0.5358220405	picture
+0.5356764365	curve
+0.5353745908	audio
+0.5352023164	fourth
+0.5352023164	hydrodynamics
+0.5352023164	understandings
+0.5352023164	instructions
+0.5352023164	cheap
+0.5352023164	photo
+0.5352023164	utilizing
+0.5352023164	optimization
+0.5352023164	manual
+0.5352023164	innovations
+0.5352023164	reducing
+0.5350466737	electronics
+0.5350420518	inventories
+0.5349146319	mathematical
+0.5349126889	programming
+0.5347315988	charged
+0.5346414977	harmonic
+0.5346067810	engage
+0.5345707292	mit
+0.5345701119	pen
+0.5343456129	simply
+0.5342864879	ist
+0.5341643689	rest
+0.5340132555	predict
+0.5339992411	proof
+0.5339654497	electrostatics
+0.5338994689	participate
+0.5338502317	predicting
+0.5338183615	collision
+0.5337887477	chaotic
+0.5337841145	behavior
+0.5337424851	definition
+0.5337040936	acceleration
+0.5334225479	pandemic
+0.5334184828	control
+0.5333740229	epistemic
+0.5333407879	scientist
+0.5332848681	instruction
+0.5330794576	modified
+0.5329803058	hidden
+0.5329048441	der
+0.5327728215	discussion
+0.5327521330	lock
+0.5326952782	presence
+0.5326739159	instrument
+0.5324690859	error
+0.5324436107	assessments
+0.5321023997	scientific
+0.5320717695	distance
+0.5320629863	undergraduate physics curriculum
+0.5320546518	exercises
+0.5319384576	interact
+0.5316265983	core
+0.5315789779	magnitude
+0.5314964027	zur
+0.5314964027	nanotechnology
+0.5314964027	competition
+0.5314964027	macroscopic
+0.5313700672	world
+0.5310413535	learning outcome
+0.5308960688	epistemological
+0.5308402077	novice
+0.5307272626	blocks
+0.5307272626	reforms
+0.5307272626	stress
+0.5306265983	rotation
+0.5305336217	das
+0.5305336217	music
+0.5304552190	grading
+0.5302977355	notion
+0.5300908983	results obtained
+0.5300736961	additional
+0.5300446706	information
+0.5298896760	students
+0.5297729549	analog
+0.5295984712	rules
+0.5294081129	culture
+0.5294045895	k
+0.5288854128	exposure
+0.5287297434	difficulties
+0.5286229945	normalized
+0.5285882962	predictive
+0.5285882962	input
+0.5285045012	e
+0.5283667057	kinds
+0.5283543100	internal
+0.5281911139	potential
+0.5279995620	film
+0.5279357788	explicit
+0.5277726125	observer
+0.5276729509	creation
+0.5275349184	major
+0.5274926132	student populations
+0.5273906970	holes
+0.5273126417	visualization
+0.5271306314	bodies
+0.5265789081	polarization
+0.5265789081	multimedia
+0.5264856509	validation
+0.5263556368	induced
+0.5261036808	density
+0.5259774006	act
+0.5257664132	voltage
+0.5257204866	flux
+0.5256152945	geometric
+0.5254132705	part
+0.5250151843	online learning
+0.5249430902	noise
+0.5247830587	applying
+0.5247178665	drawn
+0.5245346595	experiment
+0.5242432855	investigate
+0.5237862626	gravitational
+0.5237203281	c
+0.5237053430	nonlinear
+0.5237043506	instead
+0.5236880434	courses
+0.5236681202	operational
+0.5236028488	height
+0.5232846196	treatment
+0.5232613874	feature
+0.5232555506	sample
+0.5231079614	assess
+0.5231035328	camera
+0.5231035328	retention
+0.5230630445	astrophysical
+0.5230091063	radiation
+0.5229679277	notation
+0.5229648947	atmosphere
+0.5229229172	paper
+0.5227905684	improve
+0.5227619495	reliability
+0.5222694716	consistency
+0.5222368812	college students
+0.5221198886	comparable
+0.5220957679	unit
+0.5220015522	set
+0.5219260158	research community
+0.5218271506	circular
+0.5217031884	interpreting
+0.5216079887	fundamental
+0.5215387933	interdisciplinary
+0.5214369070	existence
+0.5213105918	current
+0.5212314985	n
+0.5212269344	school level
+0.5211617097	physical
+0.5208763206	temperature
+0.5206630478	r
+0.5206018092	finite
+0.5205847224	improving student
+0.5204665127	brief
+0.5204119513	context
+0.5202070912	coupled
+0.5197873170	localization
+0.5197873170	synchronization
+0.5196046364	analyzing
+0.5196030941	disk
+0.5195446353	smartphones
+0.5195304997	astronomical
+0.5193193932	propagation
+0.5193126731	water
+0.5191992021	construction
+0.5191425249	awareness
+0.5190887588	pupils
+0.5187983703	m
+0.5186755229	relationships
+0.5186755229	approximately
+0.5186280461	mastery
+0.5185624897	success
+0.5184232586	testing
+0.5184106794	understand
+0.5183439896	enhance
+0.5183320222	hole
+0.5183245690	transition
+0.5181564770	bias
+0.5178903347	production
+0.5176720387	amplifier
+0.5175875866	dynamical
+0.5175701623	upper
+0.5174435089	characterized
+0.5174079010	time dilation
+0.5171257182	degree
+0.5170555416	agency
+0.5170212813	building
+0.5169203983	physics class
+0.5168669387	determination
+0.5168087780	support
+0.5165195879	protocol
+0.5164475566	looking
+0.5164364097	reduced
+0.5163089913	trajectory
+0.5162926717	experience
+0.5162837952	speed
+0.5162059203	express
+0.5160572882	continue
+0.5160572882	rigid
+0.5159319002	self paced
+0.5150757154	conceptual learning
+0.5150151996	struggle
+0.5147074734	des
+0.5146669967	aspect
+0.5142394733	wheel
+0.5140760876	al
+0.5139627156	air
+0.5139028411	ratio
+0.5138446531	magnetic
+0.5135928128	measure
+0.5135085452	respect
+0.5128805258	ended
+0.5128240185	formula
+0.5128193439	weak
+0.5126213047	real
+0.5126105919	interaction
+0.5125725927	angular
+0.5125575916	impacts
+0.5125515453	days
+0.5124822475	relative
+0.5124697050	mental
+0.5124331316	laboratories
+0.5123131831	modes
+0.5121679618	change
+0.5121446651	responses
+0.5118799384	matrix
+0.5118773766	midterm
+0.5118204145	girls
+0.5118204145	rotations
+0.5118204145	employing
+0.5117724306	this
+0.5116573826	equivalent
+0.5116323352	distributions
+0.5116253995	models
+0.5115841339	dependence
+0.5115186541	type
+0.5114973128	cognitive
+0.5114697050	integrate
+0.5113774650	derivation
+0.5113237906	focus
+0.5112996889	principle
+0.5112402421	temporal
+0.5111980306	exploratory
+0.5111980306	interferometry
+0.5111980306	paired
+0.5111748619	subsequent
+0.5111494628	biological
+0.5111108405	form
+0.5110156634	prior
+0.5109375122	relation
+0.5109150227	invariance
+0.5109150227	professionals
+0.5109150227	obstacles
+0.5109150227	fostering
+0.5109150227	forced
+0.5108184336	problems
+0.5107024393	critical
+0.5106730206	codes
+0.5106454248	present evidence
+0.5106286144	curricula
+0.5104972754	kind
+0.5102749293	theory of relativity
+0.5102019461	order
+0.5099659325	prior research
+0.5099582662	dependent
+0.5099376526	per
+0.5096071074	student understanding
+0.5095992033	pattern
+0.5095636544	parameter
+0.5095352224	signs
+0.5095352224	raising
+0.5094796526	rapid
+0.5094269088	bit
+0.5093292767	load
+0.5092607085	representations
+0.5091971122	field
+0.5090168735	theorem
+0.5089232440	kinematic
+0.5088714822	goal
+0.5087922201	consists
+0.5087312695	enrolled
+0.5086189941	sphere
+0.5081242602	table
+0.5079620387	focusing
+0.5078608445	aspects
+0.5078363108	sliding
+0.5078363108	proved
+0.5078363108	blog
+0.5077473027	physics students
+0.5075999427	meet
+0.5074995722	formulation
+0.5072438260	site
+0.5071832394	behaviors
+0.5069225039	implement
+0.5068409267	sense
+0.5068210304	impact
+0.5067664152	contemporary
+0.5063431003	transforms
+0.5062880212	training
+0.5062573625	tension
+0.5062007235	undergraduates
+0.5061096675	engagement
+0.5059798786	transmission
+0.5059244402	gains
+0.5059125520	trends
+0.5058754555	disciplinary
+0.5057075080	emerging
+0.5057075080	operations
+0.5057075080	foundations
+0.5056358101	women
+0.5056142823	assistants
+0.5050150063	implementation
+0.5048677980	imaging
+0.5048337484	status
+0.5047845896	arbitrary
+0.5047769111	radius
+0.5047501337	low
+0.5045302229	dissipation
+0.5045302229	generic
+0.5045302229	selecting
+0.5045302229	balls
+0.5045302229	reaching
+0.5045302229	symmetries
+0.5044153972	depends
+0.5042021395	terms
+0.5039968413	tools
+0.5039714723	characterize
+0.5039084489	undergraduate students
+0.5038629104	methods
+0.5037834827	high level
+0.5035921979	introductory students
+0.5035111724	physics teaching
+0.5035044434	damped
+0.5034184611	preparation
+0.5033749253	played
+0.5030461588	observing
+0.5030461588	semi
+0.5030461588	approximate
+0.5029939498	integration
+0.5028497980	distribution
+0.5028225467	range
+0.5027974465	agreement
+0.5027355208	professors
+0.5026215633	incorrect
+0.5025836990	estimate
+0.5025626725	resonance
+0.5024990551	growth
+0.5023941963	product
+0.5023274881	methodical
+0.5023274881	initiatives
+0.5023274881	characterization
+0.5023274881	dissipative
+0.5023274881	careful
+0.5023274881	coordination
+0.5023130346	construct
+0.5021251766	mode
+0.5019452234	play
+0.5019287033	criteria
+0.5019287033	combining
+0.5019287033	traditionally
+0.5018349998	views
+0.5017440578	focuses
+0.5017238188	spherical
+0.5015908468	quantity
+0.5015875143	hands
+0.5013687780	projection
+0.5013687780	metaphors
+0.5012524843	quick
+0.5012301972	vacuum
+0.5012301972	element
+0.5012301972	organization
+0.5010158776	insight
+0.5009369995	angle
+0.5007636541	graphical
+0.5007265868	thought
+0.5006682687	differential
+0.5005698555	attempt
+0.5005645377	examples
+0.5005049182	perception
+0.5003113585	factor
+0.5003083641	academia
+0.5003083641	orders
+0.5003083641	nano
+0.5003083641	wavefunctions
+0.5003083641	treatments
+0.5003083641	smooth
+0.5003083641	worksheet
+0.5003083641	knowing
+0.5003083641	contributing
+0.5003083641	excitation
+0.5003083641	semiotic
+0.5003083641	articulated
+0.5003083641	mediated
+0.5003083641	verifying
+0.5003083641	demanding
+0.5003083641	partnership
+0.5003083641	recurrence
+0.5003083641	optional
+0.5003083641	iteration
+0.5003083641	cooperation
+0.5003083641	societal
+0.5003083641	simplifying
+0.5003083641	constructs
+0.5003083641	poorly
+0.5003083641	seminar
+0.5003083641	constellations
+0.5003083641	putting
+0.5003083641	independence
+0.5003083641	aiming
+0.5003083641	proposals
+0.5003083641	feasibility
+0.5003068898	vertical
+0.5000048324	ground
+0.4999182687	evolution
+0.4999059708	electron
+0.4998068850	effects
+0.4996301052	expansion
+0.4996162379	videos
+0.4994372664	integrated
+0.4994038599	standard
+0.4993009430	advantage
+0.4992365844	main
+0.4992275836	code
+0.4992058139	article
+0.4991137343	fields
+0.4990370995	superposition
+0.4990193186	boundary
+0.4989563747	variations
+0.4989563747	radioactivity
+0.4988144527	cost
+0.4987111139	mixed
+0.4984451616	ideal
+0.4984004198	cultural
+0.4983227401	coordinates
+0.4983094074	interpretations
+0.4981264493	scientists
+0.4980846994	influence
+0.4979789832	s
+0.4979023855	period
+0.4978934917	teamwork
+0.4978934917	jumping
+0.4978923500	selection
+0.4978443851	package
+0.4978426733	equilibrium
+0.4977703257	biologists
+0.4976386895	fluid
+0.4976114395	frame
+0.4975463251	probability
+0.4974827411	section
+0.4974177582	half
+0.4973626064	pedagogical
+0.4971995853	astronomers
+0.4971959774	reflect
+0.4971038424	expression
+0.4969792120	encourage
+0.4969529257	focused
+0.4969204068	learning experiences
+0.4969014806	solid
+0.4968912200	networks
+0.4967625747	freely
+0.4964990583	extent
+0.4963778937	hearing
+0.4963778937	inequities
+0.4963778937	eine
+0.4963778937	researcher
+0.4963778937	differently
+0.4963778937	analogue
+0.4963778937	vital
+0.4963778937	placing
+0.4963778937	lengths
+0.4963778937	spreadsheet
+0.4963778937	recordings
+0.4963778937	trick
+0.4963778937	illustrations
+0.4963778937	comprehension
+0.4963778937	affordable
+0.4963778937	economics
+0.4963778937	commercially
+0.4963778937	prospective
+0.4963778937	heuristic
+0.4963778937	quasi
+0.4963778937	strategic
+0.4963778937	communicative
+0.4963778937	metacognition
+0.4963778937	associations
+0.4963778937	mentors
+0.4963778937	reproduce
+0.4963778937	falls
+0.4963274763	variation
+0.4962365795	achieved
+0.4961854750	conduct
+0.4961854750	assumption
+0.4961611389	administration
+0.4961611389	generate
+0.4961035493	geometrical
+0.4960428585	level
+0.4960397090	component
+0.4960284992	correlated
+0.4958960319	introducing
+0.4957222552	suitable
+0.4955232947	w
+0.4954901683	generated
+0.4954246581	evidence
+0.4953411422	teaching practices
+0.4952417235	historical
+0.4950717986	partial
+0.4949076501	informal
+0.4949076501	engineers
+0.4945978568	implications for instruction
+0.4945871873	personal
+0.4945506740	previous
+0.4945024753	environments
+0.4944228081	effective
+0.4942852328	cylinder
+0.4942852328	incoming
+0.4942852328	motivations
+0.4942852328	analogies
+0.4942852328	metrics
+0.4942852328	comments
+0.4942604903	size
+0.4942438815	impossible
+0.4942438815	micro
+0.4942438815	lifetime
+0.4942438815	generalization
+0.4940152042	cosmological
+0.4938903514	axis
+0.4936345087	teachers
+0.4935570910	negative
+0.4934181402	related
+0.4932812625	modules
+0.4932373075	engaging students
+0.4931242819	transverse
+0.4931211715	day
+0.4930721511	deep
+0.4930721511	helpful
+0.4930425755	participants
+0.4930421969	recommendations
+0.4929961333	conclusions
+0.4928700994	administering
+0.4928649738	demonstrations
+0.4927841352	established
+0.4927841352	contribution
+0.4924961428	calculation
+0.4924066176	differences
+0.4924046585	essential
+0.4924008630	qualitative and quantitative
+0.4922831752	overcome
+0.4922799687	rich
+0.4921818476	rubric
+0.4921818476	telescopes
+0.4921818476	addressing
+0.4921818476	microscopic
+0.4921725051	third law
+0.4921371040	dynamic
+0.4921224198	beginning
+0.4919495667	properties
+0.4918917749	area
+0.4918035910	majors
+0.4916958044	paradoxes
+0.4916591873	thermal
+0.4916065185	interface
+0.4916021025	account
+0.4915031400	astronomy courses
+0.4914449528	admissions
+0.4914449528	constructing
+0.4914449528	expanding
+0.4912663759	circuits
+0.4911050010	key
+0.4909272715	examinations
+0.4906767836	approximation
+0.4904965638	kinematics
+0.4904261573	amplitude
+0.4904038391	programs
+0.4903589764	physics departments
+0.4902919416	role
+0.4902462766	creating
+0.4902404494	questions
+0.4902200103	describes
+0.4899937896	based instruction
+0.4898961254	rate
+0.4897863359	choice
+0.4894260324	interacting
+0.4892992567	t
+0.4892551856	departments
+0.4892463144	basic
+0.4891774313	experts
+0.4891692051	intermediate
+0.4891063456	source
+0.4890418735	bring
+0.4888880022	inertial
+0.4888608540	instructors
+0.4887370883	besides
+0.4886606516	surprisingly
+0.4886606516	directed
+0.4886606516	verbal
+0.4886606516	postulates
+0.4886606516	maps
+0.4883903266	quantization
+0.4883559802	peers
+0.4882448914	similar
+0.4881933111	response
+0.4881408374	research project
+0.4880592706	instruments
+0.4878953050	von
+0.4878693337	second law
+0.4875922219	produce
+0.4874851602	possibility
+0.4874723334	high school physics
+0.4874239105	damping
+0.4872391737	confidence
+0.4872065185	external
+0.4871232438	decay
+0.4870971031	teaching quantum
+0.4870786271	diagrams
+0.4867242343	encountered
+0.4865604198	intensity
+0.4864497936	service teachers
+0.4863690660	view
+0.4863669824	spectrum
+0.4863326971	participating
+0.4862914427	develop
+0.4862144536	point of view
+0.4861275961	physics identity
+0.4858869183	ongoing
+0.4858810356	adaptive
+0.4856242810	fly
+0.4854400458	prepare
+0.4854064097	tried
+0.4854030239	important
+0.4852361468	oscillations
+0.4852150403	plan
+0.4851082617	draw
+0.4849329688	theoretical
+0.4846283517	consistent
+0.4844604148	relevance
+0.4844431352	female
+0.4844026074	didactic
+0.4840829377	square
+0.4839171114	best practices
+0.4837245995	aims
+0.4837194076	anxiety
+0.4835706156	achieve
+0.4834815410	front
+0.4834117558	conditions
+0.4833701091	uma
+0.4832744276	implementing
+0.4831592563	gas
+0.4831554726	volume
+0.4830530771	functions
+0.4830206166	extended
+0.4828904247	analyse
+0.4826233871	small
+0.4825179888	interview
+0.4824967388	knowledge
+0.4824304170	oriented
+0.4824118994	medium
+0.4824118994	simultaneously
+0.4823382626	quantum systems
+0.4823311531	teaching learning
+0.4822569541	importance
+0.4821837114	graphs
+0.4821291894	frequency
+0.4819253707	solution
+0.4818949477	assignment
+0.4818880789	shift
+0.4818605672	intended
+0.4818290448	extend
+0.4816586541	aimed
+0.4815577633	devices
+0.4815504448	close
+0.4815294388	random
+0.4815250134	gap
+0.4814841877	curricular
+0.4814043917	organized
+0.4813184581	hard
+0.4813018791	centered
+0.4812927216	multi
+0.4811734060	contact
+0.4811254493	objectives
+0.4809635918	paradigm
+0.4809259654	transformations
+0.4806839211	interpret
+0.4806418131	condition
+0.4804759926	report
+0.4801727989	operation
+0.4801717932	lack
+0.4801205905	types
+0.4800394635	minimal
+0.4800123908	here
+0.4799833279	detectors
+0.4799439984	lead
+0.4798765882	came
+0.4798765882	ill
+0.4797720120	diagram
+0.4795410477	scattering
+0.4794789319	perspective
+0.4794767264	means
+0.4794747810	beats
+0.4794747810	misconception
+0.4794747810	acceptance
+0.4794747810	assume
+0.4794747810	cheating
+0.4794337125	bubble
+0.4794337125	deflection
+0.4794337125	troubleshoot
+0.4794337125	dominant
+0.4794337125	traits
+0.4794337125	superior
+0.4793239059	contrast
+0.4793105757	sequence
+0.4790698189	hand
+0.4789383475	interesting
+0.4787916762	threshold
+0.4787916762	talented
+0.4787745693	opportunities
+0.4786309708	cues
+0.4782764058	process
+0.4781082518	line
+0.4780293757	attention
+0.4779678291	item
+0.4778750527	result
+0.4777353003	next
+0.4776948112	after
+0.4776466032	designed
+0.4775762574	orbits
+0.4775372432	lines
+0.4775185223	populations
+0.4775185223	transform
+0.4775153871	systems
+0.4774900695	compared
+0.4771721178	labs
+0.4771507606	objective
+0.4771350307	increase
+0.4770101842	large research
+0.4769707204	object
+0.4768303573	interested
+0.4767430004	end
+0.4767173355	programme
+0.4766998264	`
+0.4766034707	gain
+0.4765794615	chemical
+0.4765485431	application
+0.4763710620	spin
+0.4763553680	j
+0.4763456548	characteristics
+0.4762736430	goals
+0.4761774336	beliefs
+0.4760818757	obtained
+0.4758232380	am
+0.4758157877	counts
+0.4757424187	meaning
+0.4757173080	accessible
+0.4756645286	limit
+0.4756157609	second
+0.4754307677	pre and post
+0.4753339644	body
+0.4747734757	higher
+0.4747540699	evaluate
+0.4746002836	social
+0.4745168345	qualitatively
+0.4745168345	actions
+0.4744650178	powerful
+0.4744650178	helping
+0.4744166601	integral
+0.4744119066	ability
+0.4743244673	ontologies
+0.4741382827	basis
+0.4741288320	method
+0.4741235668	dataset
+0.4741235668	complementary
+0.4741235668	gaining
+0.4741235668	subtle
+0.4741235668	illustrating
+0.4741235668	necessity
+0.4741235668	coil
+0.4741235668	conversion
+0.4741235668	visually
+0.4741235668	tablets
+0.4741235668	subsequently
+0.4741235668	unknown
+0.4741235668	competences
+0.4741235668	dominated
+0.4741235668	implementations
+0.4741235668	forma
+0.4741235668	animation
+0.4741235668	dramatic
+0.4741235668	select
+0.4739683912	structured
+0.4739408353	aim
+0.4737079339	level quantum
+0.4737079147	direction
+0.4735522201	attitudes and approaches
+0.4734089211	functional
+0.4733545554	academic
+0.4732382926	familiar
+0.4731460713	informed
+0.4729630845	11
+0.4729518102	step
+0.4729106617	presentation
+0.4727417168	encouraging
+0.4727417168	uniformly
+0.4727417168	demand
+0.4727417168	equally
+0.4727417168	covering
+0.4727417168	implicit
+0.4727290035	perform
+0.4727172942	constant
+0.4724713834	pressure
+0.4723773712	length
+0.4723184477	characteristic
+0.4718521842	designing
+0.4717139391	discussed
+0.4714388252	follow
+0.4714129519	activity
+0.4713366612	identify
+0.4713340029	provide
+0.4710421053	explain
+0.4710061304	observe
+0.4708947196	signal
+0.4708404327	seeking
+0.4708404327	correlate
+0.4708404327	records
+0.4708404327	running
+0.4708404327	formulae
+0.4707101498	region
+0.4706840774	studies
+0.4705069115	works
+0.4703742159	path
+0.4703729827	positive
+0.4703236030	benefit
+0.4702217826	intuition
+0.4701214453	calculate
+0.4699735662	transformation
+0.4699017246	illustrate
+0.4697264001	term
+0.4696908694	facility
+0.4695402892	roles
+0.4694707966	correlation
+0.4691458004	explore
+0.4690369534	sensor
+0.4690086042	variables
+0.4689341478	series
+0.4689197482	conceptions
+0.4688078560	collected
+0.4687177026	difference
+0.4687135906	do
+0.4682320886	files
+0.4680779296	practice
+0.4678752417	produced
+0.4677909486	asked
+0.4676418844	em
+0.4676330614	clear
+0.4675531624	benefits
+0.4675498292	materials
+0.4675181133	obtain
+0.4674765518	serve
+0.4674453009	introduced
+0.4674437609	setup
+0.4674155806	nevertheless
+0.4673926582	valuable
+0.4672879427	covered
+0.4671603318	character
+0.4671313417	barriers
+0.4670478841	sets
+0.4669619042	derive
+0.4669595350	validated
+0.4669595350	facilitate
+0.4665214961	insights
+0.4665121493	stage
+0.4665071725	conducting
+0.4664713717	members
+0.4664608035	platform
+0.4664159994	classification
+0.4662310509	principles
+0.4661928868	consequences
+0.4661793138	postulate
+0.4661793138	sampling
+0.4661793138	fun
+0.4661268453	moving
+0.4659155891	outcome
+0.4658431120	this study investigates
+0.4658302398	textbook
+0.4658057283	build
+0.4656378345	resolution
+0.4655000494	involved
+0.4654185957	taught
+0.4653438236	presents
+0.4652059168	learning physics
+0.4652041319	validity
+0.4651412227	moreover
+0.4651061070	addressed
+0.4650360917	~
+0.4649782409	address
+0.4647858590	v
+0.4647020451	male
+0.4646908630	unique
+0.4646199032	quantities
+0.4645441962	commonly
+0.4644372561	measured
+0.4643820278	deployed
+0.4643820278	formulations
+0.4643820278	proposes
+0.4643820278	inspire
+0.4643820278	outstanding
+0.4643820278	targets
+0.4643820278	ubiquitous
+0.4643820278	spontaneously
+0.4643820278	quadratic
+0.4643820278	nodes
+0.4643820278	strives
+0.4643820278	precisely
+0.4643820278	moved
+0.4643820278	considerably
+0.4643820278	recommended
+0.4643820278	gyroscope
+0.4643820278	characterizes
+0.4643820278	price
+0.4643820278	player
+0.4643820278	disadvantages
+0.4643820278	mid
+0.4643820278	isolated
+0.4643820278	aligned
+0.4643820278	incentives
+0.4643820278	seminars
+0.4643820278	motivational
+0.4643820278	competitive
+0.4643820278	ipads
+0.4643820278	plotting
+0.4643820278	duration
+0.4643820278	tailored
+0.4643820278	educate
+0.4643820278	ethnicity
+0.4643820278	extreme
+0.4643820278	contradictory
+0.4643820278	worse
+0.4643820278	supposed
+0.4643820278	geometries
+0.4643820278	revisions
+0.4643820278	superconducting
+0.4643820278	solver
+0.4643820278	hosted
+0.4643820278	planetary
+0.4643820278	began
+0.4643820278	viable
+0.4643820278	arrangement
+0.4643820278	appropriately
+0.4643820278	psychological
+0.4643820278	alongside
+0.4643820278	suspended
+0.4643820278	raise
+0.4643820278	revise
+0.4643820278	exclusively
+0.4643820278	attended
+0.4643820278	devised
+0.4643820278	guides
+0.4643820278	concise
+0.4643820278	remarkable
+0.4643820278	handle
+0.4643820278	relates
+0.4643820278	ends
+0.4643820278	regarded
+0.4643820278	affects
+0.4643820278	attempted
+0.4643820278	friendly
+0.4643820278	reinforce
+0.4643820278	promotes
+0.4643820278	contributes
+0.4643820278	refer
+0.4643820278	organizations
+0.4643820278	sharing
+0.4643820278	proven
+0.4643820278	instance
+0.4643820278	varies
+0.4643820278	operate
+0.4643820278	extraordinary
+0.4643820278	participant
+0.4643820278	gained
+0.4643820278	colleagues
+0.4643820278	probed
+0.4643424935	though
+0.4642941179	administered
+0.4642667367	achieving
+0.4642667367	track
+0.4642083586	required
+0.4641932806	pedagogy
+0.4641534121	ideas
+0.4640623314	ontology
+0.4640623314	manipulating
+0.4640623314	decline
+0.4640623314	scientifically
+0.4640623314	wall
+0.4640422189	making sense
+0.4638201214	double
+0.4637704050	determine
+0.4633481228	introduce
+0.4633139444	long
+0.4633081046	needed
+0.4631629961	derived
+0.4630904095	a level
+0.4630828694	learn physics
+0.4628867427	content
+0.4628357794	los
+0.4628180180	exploration
+0.4627555804	complex
+0.4626423259	conclude
+0.4625612234	intrinsic
+0.4624343409	wavefunction
+0.4622203110	topics
+0.4622109966	accessibility
+0.4622109966	inclusive
+0.4622109966	reliable
+0.4622109966	stability
+0.4621362375	coherence
+0.4619875984	greater
+0.4619707037	naturally
+0.4619707037	travel
+0.4619707037	missing
+0.4619451772	relationship
+0.4619118008	undergraduate courses
+0.4617128779	least
+0.4615761971	style
+0.4615430614	built
+0.4613849249	answer
+0.4613408284	coin
+0.4612685059	friction
+0.4610633970	reasons
+0.4606487263	power
+0.4606386971	degrees
+0.4605487304	strongly
+0.4602406894	successive
+0.4602406894	strengths
+0.4602406894	lasting
+0.4602406894	syllabus
+0.4602406894	problematic
+0.4602406894	customized
+0.4602406894	highlighting
+0.4602406894	handling
+0.4602406894	invented
+0.4602406894	fits
+0.4602406894	oscillatory
+0.4602406894	recording
+0.4602406894	journals
+0.4602406894	thoughts
+0.4602406894	opposed
+0.4602406894	agree
+0.4602406894	heart
+0.4602406894	stronger
+0.4602406894	adopt
+0.4602406894	centers
+0.4602406894	drew
+0.4602406894	facilitates
+0.4602406894	discrepancies
+0.4602406894	transient
+0.4602406894	restricted
+0.4602406894	demands
+0.4602406894	develops
+0.4602406894	noted
+0.4602406894	capability
+0.4602406894	iterative
+0.4602406894	meanings
+0.4602406894	fairly
+0.4602406894	functionality
+0.4602406894	reinforcing
+0.4602406894	colour
+0.4602406894	affected
+0.4602406894	persist
+0.4602406894	latitude
+0.4602406894	boundaries
+0.4602406894	deals
+0.4602406894	poor
+0.4602406894	decide
+0.4602406894	verified
+0.4602406894	entering
+0.4602406894	closer
+0.4602406894	displays
+0.4602406894	begins
+0.4602406894	detect
+0.4602406894	chance
+0.4602406894	pointing
+0.4602406894	shapes
+0.4602406894	reporting
+0.4602406894	confirmed
+0.4602406894	options
+0.4602406894	locally
+0.4602406894	passing
+0.4602406894	gestures
+0.4602406894	inconsistent
+0.4602406894	deviations
+0.4602406894	member
+0.4602406894	indicators
+0.4602406894	failed
+0.4602406894	specialist
+0.4602406894	opposite
+0.4602406894	elaborate
+0.4602406894	slowly
+0.4602406894	schemes
+0.4602406894	prevalent
+0.4602406894	1st
+0.4602304065	fact
+0.4602256326	rates
+0.4601485398	physics in films
+0.4599646591	problem based
+0.4599479639	skills
+0.4594754591	oscillation
+0.4594754591	precision
+0.4593573677	epistemologies
+0.4593573677	pursuing
+0.4593573677	cover
+0.4593573677	variance
+0.4593573677	instrumental
+0.4593573677	categorized
+0.4593573677	quarter
+0.4593573677	3rd
+0.4593573677	interplay
+0.4593573677	substantially
+0.4593573677	temperatures
+0.4593573677	lost
+0.4593573677	located
+0.4593573677	grown
+0.4593573677	methodological
+0.4593573677	live
+0.4593573677	trained
+0.4593573677	counterpart
+0.4593573677	constancy
+0.4593573677	inferences
+0.4593573677	starts
+0.4593573677	speeds
+0.4593573677	unter
+0.4593573677	keeping
+0.4593573677	scope
+0.4593573677	succeed
+0.4593573677	publicly
+0.4593573677	specially
+0.4593573677	striking
+0.4593573677	solvers
+0.4593573677	compatible
+0.4593573677	creates
+0.4593573677	spirit
+0.4593573677	symbols
+0.4593573677	confirm
+0.4593573677	pieces
+0.4593573677	coils
+0.4593573677	analytically
+0.4593573677	progression
+0.4593573677	deduce
+0.4593573677	repeated
+0.4593573677	coded
+0.4593573677	categorizations
+0.4593573677	today's
+0.4593573677	distinguish
+0.4593573677	emerge
+0.4593573677	intensive
+0.4593573677	undertaken
+0.4593573677	cite
+0.4593573677	transmitted
+0.4593573677	behavioral
+0.4593573677	accounts
+0.4593573677	reached
+0.4593573677	della
+0.4593573677	tendency
+0.4592484170	electric and magnetic
+0.4592256864	idea
+0.4590033765	expressions
+0.4589797248	constraints
+0.4589116258	variable
+0.4589036712	theories
+0.4588450671	contribute
+0.4587398487	helps
+0.4583502485	negligible
+0.4583502485	microphone
+0.4583502485	collaborate
+0.4583154183	images
+0.4581895655	slits
+0.4581775961	format
+0.4581109400	population
+0.4580321421	string
+0.4579323179	phenomenon
+0.4578423540	semester
+0.4578156107	traditional
+0.4576893489	furthermore
+0.4575460897	colorado learning attitudes about science
+0.4575120375	final
+0.4575110110	correct
+0.4572370868	widely
+0.4566687414	energy and momentum
+0.4564023489	such
+0.4563512615	third
+0.4563336020	help students learn
+0.4561786543	thermal physics
+0.4561225371	experiments
+0.4559049361	called
+0.4558659002	suggest
+0.4556888655	physics principles
+0.4555398906	parallel
+0.4554442618	away
+0.4552731620	think
+0.4552388505	activities
+0.4550434290	implemented
+0.4550158368	highlight
+0.4548890467	students learn
+0.4548716330	revised
+0.4547314954	rather
+0.4546745377	point
+0.4544173225	connected
+0.4542685701	math in physics
+0.4541922059	static
+0.4541304921	as
+0.4541183175	lies
+0.4540355995	textbooks
+0.4535661192	students in introductory
+0.4535479100	levels
+0.4534543949	elements
+0.4533990400	student attitudes
+0.4533936025	orientation
+0.4533638667	velocity
+0.4533501935	19
+0.4533108885	provided
+0.4531598039	countries
+0.4528191748	efficient
+0.4528191748	determining
+0.4528191748	charges
+0.4526924903	increasing
+0.4524546695	fast
+0.4524270135	consequently
+0.4521760581	achievement
+0.4519846383	university of colorado
+0.4517150673	interference
+0.4517150673	true
+0.4515645080	device
+0.4513468801	detection
+0.4511129281	capacitor
+0.4511046873	graduate student
+0.4508994957	situations
+0.4505487028	developed
+0.4504466190	expected
+0.4504057775	belonging
+0.4503937518	old
+0.4503830574	first
+0.4503458201	represent
+0.4503289854	seeing
+0.4501833264	reason
+0.4499257843	learned
+0.4495126212	simple method
+0.4495083884	apply
+0.4494539916	contexts
+0.4492449163	patterns
+0.4490722211	average
+0.4490637656	periods
+0.4490637656	expand
+0.4490637656	fitting
+0.4490637656	propagating
+0.4490637656	engines
+0.4490637656	prevalence
+0.4490637656	constructivist
+0.4490637656	pedagogic
+0.4490637656	interpretive
+0.4490637656	precise
+0.4490637656	blind
+0.4490637656	combine
+0.4490637656	asymptotic
+0.4490637656	shadows
+0.4490637656	workforce
+0.4490637656	instrumentation
+0.4490637656	emphasizing
+0.4490637656	matching
+0.4490637656	photographs
+0.4490637656	functioning
+0.4490637656	reactions
+0.4490637656	coming
+0.4490471185	difficulty
+0.4489934525	category
+0.4489069623	significant
+0.4485711147	issues
+0.4485484007	workshops
+0.4484994325	three dimensional
+0.4483892347	present
+0.4479307009	due
+0.4477159817	considerations
+0.4477001735	individual
+0.4476055014	task
+0.4473863601	these
+0.4469963202	narratives
+0.4469801706	z
+0.4468875235	simultaneity
+0.4468779162	frames
+0.4468743930	demonstrate
+0.4465549332	met
+0.4465549332	collapse
+0.4465549332	forward
+0.4464176655	physics problems
+0.4460155423	solved
+0.4458802795	relevant
+0.4454439164	examine
+0.4454107664	disciplines
+0.4453071356	surrounding
+0.4453071356	sensemaking
+0.4451986795	determined
+0.4451739055	simulated
+0.4450772505	classes
+0.4444386883	detailed
+0.4444006782	science teaching
+0.4442661779	strategies
+0.4441165026	environment
+0.4439942010	pedagogical content
+0.4436872967	involving
+0.4434053505	does
+0.4429461528	deeper
+0.4429461528	maximum
+0.4428545069	considerable
+0.4428545069	orientations
+0.4428545069	preferences
+0.4428545069	accurately
+0.4428545069	fluctuations
+0.4428545069	pedagogically
+0.4428545069	da
+0.4428545069	invited
+0.4428545069	flexibility
+0.4428545069	confusion
+0.4428545069	theme
+0.4428545069	preferred
+0.4428545069	train
+0.4428545069	collaborations
+0.4428545069	reflecting
+0.4428545069	calculating
+0.4428545069	springs
+0.4428545069	approximations
+0.4428545069	foundational
+0.4428545069	resonant
+0.4428545069	thesis
+0.4428545069	flexible
+0.4428545069	suspension
+0.4428545069	influenced
+0.4428451557	even
+0.4427467356	going
+0.4421753593	students taking
+0.4421423362	transparent
+0.4418345706	groups
+0.4416731623	studied
+0.4414625998	included
+0.4411146833	decreases
+0.4411146833	treat
+0.4410086439	i
+0.4409875149	conducted
+0.4409845853	self
+0.4409195146	40
+0.4408774743	surfaces
+0.4408774743	copying
+0.4408774743	solids
+0.4408774743	download
+0.4408774743	graphing
+0.4408326544	complete
+0.4408207783	b
+0.4406629339	present paper
+0.4406351608	broadly
+0.4406351608	monitoring
+0.4403323247	scales
+0.4402777430	student interviews
+0.4400203514	using easy java
+0.4400181603	books
+0.4400181603	limitations
+0.4398765566	subject
+0.4398309100	indeed
+0.4395520423	leads
+0.4394625998	difficult
+0.4394378295	total
+0.4393905749	physics problem solving
+0.4393340720	experiences
+0.4392871923	topic
+0.4390668594	applications
+0.4389388629	assist
+0.4389388629	submitted
+0.4389388629	portable
+0.4389388629	communicate
+0.4389388629	affective
+0.4389388629	applicability
+0.4389388629	platforms
+0.4389388629	averages
+0.4389388629	protocols
+0.4389388629	viscosity
+0.4389388629	perfect
+0.4389388629	physically
+0.4389388629	facilitating
+0.4389388629	intention
+0.4389388629	match
+0.4389388629	reaction
+0.4389372417	help students build
+0.4389233739	created
+0.4388536311	u
+0.4387974255	include
+0.4386188146	attitudinal
+0.4386188146	session
+0.4386188146	collisions
+0.4385942849	compare
+0.4382185832	cases
+0.4381775851	investigations
+0.4381775851	flight
+0.4377361355	proctored
+0.4374874564	reported
+0.4374082785	words
+0.4370354813	decades
+0.4369804550	phases
+0.4369804550	algorithms
+0.4368375826	freedom
+0.4367105413	chapter
+0.4366483650	performed
+0.4364625531	processes
+0.4363940200	scores
+0.4362944955	measurements
+0.4361477454	attempts
+0.4360364624	app
+0.4360364624	edition
+0.4359448371	realistic
+0.4359448371	plots
+0.4358307833	discuss
+0.4356443371	troubleshooting
+0.4355803430	literature
+0.4355120318	sensitivity
+0.4353966674	phenomena
+0.4352529655	habits
+0.4350078186	shown
+0.4349918503	g
+0.4342192266	observable
+0.4342192266	accelerometer
+0.4342192266	potentially
+0.4342192266	story
+0.4342192266	curved
+0.4342192266	gathered
+0.4342192266	visible
+0.4342192266	expensive
+0.4342192266	coefficients
+0.4342192266	properly
+0.4342192266	cohort
+0.4342192266	conclusion
+0.4342192266	estimated
+0.4342192266	representational
+0.4342192266	concerned
+0.4342192266	moments
+0.4341220799	analyzed
+0.4340786247	coherent
+0.4336452784	nm
+0.4335828229	torque
+0.4335828229	posttest
+0.4335828229	partially
+0.4323993205	previously
+0.4323103837	challenges
+0.4321901820	an
+0.4318491690	surface
+0.4315902681	motivation
+0.4314317378	d
+0.4313248720	didactical
+0.4311685929	reformed
+0.4310452827	analyze
+0.4308480995	propose
+0.4308012630	twenty
+0.4307990650	students in physics
+0.4307565191	_
+0.4307399772	time
+0.4306756116	physics lab courses
+0.4306465470	once
+0.4305216325	mechanics courses
+0.4302392525	ci \ ^
+0.4299744525	physics and biology
+0.4296159793	question
+0.4293894787	although
+0.4293801183	sensitive
+0.4293801183	varied
+0.4293801183	mentor
+0.4293801183	targeted
+0.4293801183	toolkit
+0.4293801183	beneficial
+0.4293801183	differentiation
+0.4293801183	modification
+0.4293801183	utilize
+0.4293801183	embedded
+0.4293801183	spread
+0.4293447985	novel
+0.4291845915	physics content
+0.4291007455	discussions
+0.4289467521	gaps
+0.4283548959	considered
+0.4277302162	falling
+0.4276851338	website
+0.4276068971	demonstration
+0.4276028657	new
+0.4273391183	presented
+0.4272796482	conventional
+0.4268845788	computer
+0.4260517467	\ alpha
+0.4258700265	despite
+0.4258611301	rolling
+0.4258205744	recitations
+0.4256684414	however
+0.4256623729	suggested
+0.4256223414	maintaining
+0.4256223414	deeply
+0.4256223414	oscillating
+0.4256223414	one's
+0.4256223414	trip
+0.4256223414	sequences
+0.4256223414	representative
+0.4256223414	incomplete
+0.4256223414	combines
+0.4256223414	quantify
+0.4256223414	promising
+0.4256223414	delivered
+0.4256223414	read
+0.4256223414	constitutes
+0.4256223414	advice
+0.4256223414	deterministic
+0.4256223414	auf
+0.4256223414	ur
+0.4256223414	scoring
+0.4256223414	screen
+0.4256223414	earn
+0.4256223414	versatile
+0.4256223414	seek
+0.4256223414	prove
+0.4256223414	manuscript
+0.4256223414	regular
+0.4256223414	desirable
+0.4256223414	daily
+0.4256223414	resistor
+0.4256223414	stance
+0.4256223414	specialized
+0.4256223414	respective
+0.4256223414	composed
+0.4256223414	campus
+0.4256223414	belief
+0.4256223414	respond
+0.4256223414	purely
+0.4256223414	citizens
+0.4256223414	rod
+0.4256223414	family
+0.4256223414	couple
+0.4256026204	rings
+0.4256026204	statement
+0.4256026204	audiences
+0.4256026204	predicts
+0.4256026204	conception
+0.4256026204	newly
+0.4256026204	facing
+0.4256026204	leaders
+0.4256026204	journey
+0.4256026204	sustained
+0.4256026204	volunteers
+0.4256026204	systematically
+0.4256026204	accomplished
+0.4256026204	dissemination
+0.4256026204	check
+0.4256026204	hour
+0.4256026204	posed
+0.4256026204	variational
+0.4256026204	surprising
+0.4256026204	efficiently
+0.4256026204	pointed
+0.4256026204	alike
+0.4256026204	composition
+0.4256026204	slightly
+0.4256026204	losses
+0.4256026204	receiving
+0.4256026204	generates
+0.4256026204	justify
+0.4256026204	mentioned
+0.4256026204	concern
+0.4256026204	emitted
+0.4256026204	convenient
+0.4256026204	classified
+0.4256026204	connects
+0.4256026204	illustrative
+0.4256026204	expanded
+0.4256026204	prototype
+0.4256026204	discern
+0.4256026204	bar
+0.4256026204	discrimination
+0.4256026204	modify
+0.4256026204	exhibited
+0.4255080426	et
+0.4246953400	motivated
+0.4246953400	velocities
+0.4246953400	varying
+0.4246500659	secondary school students
+0.4243152673	the
+0.4236142928	postgraduate
+0.4236142928	energies
+0.4235953874	steps
+0.4235953874	simplified
+0.4233000340	approaches
+0.4231374905	calculus based physics
+0.4231024102	in
+0.4229744525	women in physics
+0.4229331067	independent
+0.4228239772	this article describes
+0.4226953400	molecules
+0.4224186477	visual
+0.4218668170	regime
+0.4216532743	months
+0.4216532743	publications
+0.4216532743	scenario
+0.4216363811	ways
+0.4215550350	tasks
+0.4209744525	laws of physics
+0.4208163339	physics instruction
+0.4207911649	p
+0.4206402096	classic
+0.4205512015	several
+0.4204529644	the force concept inventory
+0.4204297013	common student
+0.4203766118	obvious
+0.4202526409	learning activities
+0.4197613997	analyses
+0.4195703400	transformed
+0.4194561142	equations of motion
+0.4194327271	y
+0.4193356679	hence
+0.4192499807	alignment
+0.4192499807	covers
+0.4192028640	undergraduate and graduate
+0.4191814064	physics contexts
+0.4191557950	displacements
+0.4191557950	cycles
+0.4191557950	hot
+0.4191527781	relations
+0.4191527781	crucial
+0.4190369525	teaching of physics
+0.4188633325	since
+0.4188603205	challenge
+0.4188589190	reviews
+0.4188589190	stand
+0.4188589190	captured
+0.4188589190	implies
+0.4188589190	landscape
+0.4188589190	spent
+0.4188589190	evident
+0.4188589190	famous
+0.4188589190	attend
+0.4188589190	acquire
+0.4188589190	modeled
+0.4188589190	notebooks
+0.4188589190	diagnose
+0.4188589190	zu
+0.4188589190	graded
+0.4188589190	critically
+0.4188589190	refine
+0.4188589190	completing
+0.4188589190	inherent
+0.4188589190	answered
+0.4188589190	simulate
+0.4188589190	continued
+0.4188589190	perceive
+0.4188589190	narrow
+0.4188589190	highlighted
+0.4188589190	seldom
+0.4188589190	incorporates
+0.4188589190	builds
+0.4188589190	promoted
+0.4188589190	manipulation
+0.4188589190	cylindrical
+0.4188589190	requirements
+0.4188589190	instructive
+0.4188589190	facilities
+0.4188589190	holds
+0.4188589190	achievements
+0.4188589190	ease
+0.4188589190	clusters
+0.4188589190	differs
+0.4188589190	animations
+0.4188589190	added
+0.4188589190	turns
+0.4188589190	integrates
+0.4188589190	displayed
+0.4188589190	arising
+0.4188589190	favor
+0.4188589190	summarize
+0.4188589190	partly
+0.4188589190	leave
+0.4187970077	perceptions
+0.4187970077	careers
+0.4187618150	each
+0.4186609058	your
+0.4183773277	progress
+0.4180545603	three
+0.4176664680	de
+0.4173802393	e class
+0.4171378037	ask
+0.4170649908	\ bf
+0.4170096136	datasets
+0.4170096136	methodologies
+0.4170096136	shared
+0.4170096136	presentations
+0.4170096136	roughly
+0.4170096136	possibly
+0.4170096136	spectrometer
+0.4170096136	interviewed
+0.4170096136	frameworks
+0.4170096136	fail
+0.4169239497	just
+0.4165975776	why
+0.4165319125	viscous
+0.4165319125	texts
+0.4159712488	versus
+0.4157638669	learning of physics
+0.4152756715	facts
+0.4150554291	target
+0.4149029185	physics community
+0.4147516054	she
+0.4145813059	evaluations
+0.4145813059	list
+0.4145813059	yields
+0.4145813059	represented
+0.4142809135	del
+0.4133569694	abstract
+0.4133096266	meaningful
+0.4133096266	accurate
+0.4132053469	it's
+0.4130915793	re
+0.4129385603	adapt
+0.4129385603	individually
+0.4129385603	demographics
+0.4129385603	programmes
+0.4129385603	highest
+0.4129385603	desired
+0.4129385603	guiding
+0.4129385603	equitable
+0.4129385603	graduates
+0.4129385603	huge
+0.4129385603	supplement
+0.4129385603	learner
+0.4129385603	pursue
+0.4129385603	offering
+0.4129385603	stances
+0.4129385603	practicing
+0.4129385603	discoveries
+0.4129385603	simultaneous
+0.4129385603	answering
+0.4129385603	considers
+0.4129385603	greatly
+0.4129385603	equipped
+0.4129385603	complement
+0.4129385603	products
+0.4129385603	consensus
+0.4129385603	discover
+0.4129385603	longer
+0.4129385603	named
+0.4125594079	algebra based physics
+0.4123403104	one
+0.4123272093	^ 2
+0.4121027886	pretest
+0.4119179885	talk
+0.4118630346	curves
+0.4117617403	nothing
+0.4116308438	sizes
+0.4115539817	thus
+0.4109011822	questionnaires
+0.4105929861	good
+0.4104200269	learning difficulties
+0.4104083893	x
+0.4103856860	universities
+0.4103321364	children
+0.4102784131	therefore
+0.4102001950	den
+0.4102001950	scenarios
+0.4102001950	outlined
+0.4102001950	widespread
+0.4102001950	setups
+0.4102001950	conferences
+0.4102001950	interests
+0.4102001950	grasp
+0.4102001950	extensively
+0.4102001950	exists
+0.4102001950	gave
+0.4102001950	movements
+0.4102001950	misleading
+0.4102001950	staff
+0.4102001950	easier
+0.4102001950	producing
+0.4102001950	exploit
+0.4102001950	integrals
+0.4102001950	theoretically
+0.4102001950	quickly
+0.4102001950	generating
+0.4102001950	extremely
+0.4102001950	brought
+0.4102001950	contained
+0.4102001950	correspond
+0.4102001950	binary
+0.4102001950	currents
+0.4102001950	profile
+0.4102001950	display
+0.4102001950	started
+0.4102001950	advance
+0.4102001950	detected
+0.4102001950	hours
+0.4102001950	expect
+0.4102001950	simplest
+0.4102001950	documents
+0.4102001950	initially
+0.4102001950	reasonable
+0.4102001950	produces
+0.4101931704	physics concepts
+0.4097446672	he
+0.4096436081	so called
+0.4095340384	\ pm
+0.4093445873	equation of motion
+0.4088791166	following
+0.4087959371	communities
+0.4087637073	yet
+0.4086910777	o
+0.4084887413	sensors
+0.4084665295	choosing
+0.4078621813	satisfaction
+0.4078621813	parametric
+0.4078621813	comparisons
+0.4078621813	entry
+0.4078621813	viewing
+0.4078621813	supply
+0.4078621813	contents
+0.4078621813	masses
+0.4078621813	conserved
+0.4078621813	possibilities
+0.4075178929	polarized
+0.4074850551	typically
+0.4073446459	most
+0.4070261862	us
+0.4067207508	purposes
+0.4065377647	things
+0.4064850551	learners
+0.4063977419	\ rm
+0.4063814022	database
+0.4063814022	applicants
+0.4063244525	classical and quantum
+0.4056043396	wrong
+0.4055327843	perhaps
+0.4052934953	samples
+0.4050737106	author
+0.4043901440	sources
+0.4041948759	errors
+0.4041436142	force and motion
+0.4040826723	we
+0.4040266201	along
+0.4038694296	amongst
+0.4038694296	getting
+0.4036076437	exhibit
+0.4035611704	look
+0.4033090104	theoretical and experimental
+0.4032152183	right
+0.4023411569	uniform
+0.4022336951	un
+0.4021821626	some
+0.4021611919	solutions
+0.4019974921	neither
+0.4017840384	\ emph
+0.4016467330	specialists
+0.4016467330	fit
+0.4016467330	curvature
+0.4016367933	photon
+0.4015173873	teachers and students
+0.4011557734	towards
+0.4009829085	beyond
+0.4009636945	setting
+0.4009605243	amount
+0.4009263975	non trivial
+0.4008440221	last
+0.4006479792	much
+0.4004108998	\ sim
+0.4001465471	divided
+0.4001465471	vary
+0.4001465471	examines
+0.4001465471	extra
+0.4001465471	suited
+0.4001465471	arises
+0.4001465471	accompanying
+0.4001465471	affordances
+0.4001465471	loss
+0.4001465471	acquired
+0.4001465471	backgrounds
+0.4001465471	clarify
+0.4001465471	correctness
+0.4001465471	carefully
+0.4001465471	claim
+0.4001465471	sophomore
+0.3998450904	approaches to problem
+0.3997578717	stationary
+0.3997328578	according
+0.3997236488	original
+0.3996671928	model based
+0.3991109185	proper
+0.3991109185	intervention
+0.3988686352	people
+0.3985108611	nine
+0.3985065960	future
+0.3984455399	using
+0.3983660528	drop
+0.3983390416	attractive
+0.3983390416	highlights
+0.3983390416	argued
+0.3983390416	seemingly
+0.3983390416	prepared
+0.3983390416	versions
+0.3983390416	separate
+0.3983390416	addresses
+0.3983390416	funding
+0.3983390416	services
+0.3983390416	immediately
+0.3983390416	remain
+0.3983390416	regions
+0.3983390416	https
+0.3983390416	wire
+0.3983390416	positions
+0.3983390416	documentation
+0.3983390416	brings
+0.3983390416	utilized
+0.3983390416	wavelength
+0.3983390416	rapidly
+0.3983390416	configurations
+0.3983390416	beams
+0.3983390416	verify
+0.3983390416	begin
+0.3983390416	experiencing
+0.3983390416	emphasizes
+0.3983390416	simplicity
+0.3983390416	claims
+0.3983137840	metacognitive
+0.3983137840	usage
+0.3983137840	improvements
+0.3983137840	job
+0.3983137840	fluids
+0.3983137840	suggesting
+0.3983137840	independently
+0.3983137840	phenomenological
+0.3983137840	essentially
+0.3983137840	left
+0.3983137840	explaining
+0.3981022580	forms
+0.3978153807	a case study
+0.3977905652	\
+0.3974053093	computer simulations
+0.3972237915	weight
+0.3971296819	if
+0.3964093987	formalism
+0.3963062134	link
+0.3963062134	quizzes
+0.3963062134	formulas
+0.3963062134	substantial
+0.3963062134	symmetric
+0.3963062134	contextual
+0.3963062134	demonstrating
+0.3963062134	constrained
+0.3963062134	exciting
+0.3963062134	horizontal
+0.3962394402	angles
+0.3951871714	electrostatic
+0.3948809200	weekly
+0.3948809200	statements
+0.3948809200	recognized
+0.3945028360	non
+0.3939480979	canonical
+0.3939480979	carrying
+0.3939480979	constants
+0.3939480979	decade
+0.3939480979	record
+0.3939480979	contributions
+0.3939480979	dedicated
+0.3939480979	exchange
+0.3939480979	establishing
+0.3939480979	representing
+0.3938259406	latter
+0.3932762626	this paper presents
+0.3931648924	a
+0.3931323951	whereas
+0.3929931490	while
+0.3929480896	science and technology
+0.3926619845	tend
+0.3926619845	uncertainties
+0.3926619845	consistently
+0.3926619845	illustrated
+0.3926619845	emphasized
+0.3926619845	forming
+0.3926619845	observables
+0.3926619845	documented
+0.3926619845	conceptually
+0.3926619845	helped
+0.3926619845	domains
+0.3926619845	positively
+0.3926619845	capabilities
+0.3926619845	stable
+0.3926619845	dielectric
+0.3926619845	write
+0.3926619845	occurs
+0.3926619845	employ
+0.3926619845	plays
+0.3926619845	explains
+0.3926619845	avoid
+0.3923728002	typical
+0.3920292026	it
+0.3920132285	understanding of quantum mechanics
+0.3916585089	person
+0.3912797359	require
+0.3911051998	respondents
+0.3911051998	en
+0.3911051998	substance
+0.3908292026	our
+0.3905535126	university physics
+0.3905089836	werden
+0.3905089836	complicated
+0.3905089836	lives
+0.3905089836	excellent
+0.3905089836	largely
+0.3905089836	largest
+0.3905089836	feel
+0.3905089836	emerged
+0.3905089836	reveals
+0.3905089836	closely
+0.3905089836	indicating
+0.3905089836	faced
+0.3905089836	corresponds
+0.3905089836	essay
+0.3905089836	rigorous
+0.3905089836	seeks
+0.3905089836	predicted
+0.3905089836	argument
+0.3905089836	incorporated
+0.3905089836	electrons
+0.3905089836	trend
+0.3905089836	unexpected
+0.3902934734	epistemology
+0.3902934734	barrier
+0.3902934734	atoms
+0.3901520979	education and public
+0.3899286178	same
+0.3898432753	attitudes towards
+0.3898352765	primarily
+0.3897543567	investigating student
+0.3894743118	there
+0.3893507934	able
+0.3888324168	doing
+0.3887090670	plans
+0.3887090670	motions
+0.3887090670	pairs
+0.3887090670	numerically
+0.3887090670	recitation
+0.3882074447	this study aims
+0.3881565933	reflected
+0.3881565933	oscillators
+0.3881565933	para
+0.3881565933	microcontroller
+0.3881565933	definitions
+0.3881565933	expectation
+0.3881565933	quantitatively
+0.3881565933	relating
+0.3880259565	specific
+0.3876781695	mind
+0.3875693017	teaching and learning
+0.3875610791	exact
+0.3875610791	explores
+0.3875610791	robust
+0.3874692748	numbers
+0.3873357924	analytical
+0.3872208677	on
+0.3866866325	throughout
+0.3866685608	all
+0.3864349497	settings
+0.3862774906	inside
+0.3862774906	numerous
+0.3862774906	institutional
+0.3859935296	system
+0.3858949851	presenting
+0.3858949851	constructed
+0.3858949851	rarely
+0.3857080244	demographic
+0.3857080244	players
+0.3857080244	formats
+0.3857080244	trajectories
+0.3857080244	completion
+0.3856948373	formal
+0.3853544185	taken
+0.3851236702	limits
+0.3848389801	descriptions
+0.3848352192	growing
+0.3846548873	science and engineering
+0.3844204088	recorded
+0.3838660944	operators
+0.3836205645	broad
+0.3836205645	performing
+0.3834504486	choose
+0.3834504486	articles
+0.3834504486	paths
+0.3834314229	physics and mathematics
+0.3832228595	year
+0.3831112077	mindset
+0.3831112077	wider
+0.3831112077	released
+0.3831112077	adopted
+0.3831112077	interpreted
+0.3831112077	alternate
+0.3831112077	formed
+0.3831112077	appears
+0.3831112077	occur
+0.3831112077	differ
+0.3831112077	driving
+0.3831036140	followed
+0.3829872641	real time
+0.3829446797	serious
+0.3827869932	weeks
+0.3827774670	wide range of
+0.3826591615	move
+0.3824077762	lenses
+0.3822755495	students and teachers
+0.3820913532	choice questions
+0.3820801358	themes
+0.3820801358	define
+0.3816208654	by
+0.3815947972	help students develop
+0.3812741312	discussing
+0.3811996377	identical
+0.3810532412	did
+0.3809822973	above
+0.3809003435	my
+0.3808158804	plot
+0.3808158804	developments
+0.3808158804	similarities
+0.3808158804	clocks
+0.3808158804	individuals
+0.3808158804	planning
+0.3805788009	skill
+0.3803679311	teams
+0.3803647562	physics and astronomy
+0.3799507433	material
+0.3798676060	this paper describes
+0.3798373312	diverse
+0.3796634497	local
+0.3796159829	choices
+0.3795695051	placed
+0.3794485135	making sense of
+0.3791898757	authors
+0.3790597533	sessions
+0.3789469759	mistakes
+0.3788493476	men
+0.3787743382	well
+0.3785063398	work
+0.3784844109	appear
+0.3783911332	everyday
+0.3776678959	not
+0.3776224951	face
+0.3772090211	over
+0.3769773602	particles
+0.3768933285	supports
+0.3765844469	an important role
+0.3764209646	until
+0.3763963686	assignments
+0.3763963686	experimentation
+0.3761209417	smaller
+0.3761209417	distinct
+0.3757392413	when
+0.3755847229	spectra
+0.3754490116	assessed
+0.3754490116	lesson
+0.3754490116	start
+0.3754490116	held
+0.3754490116	semesters
+0.3754490116	demonstrates
+0.3750831111	broader
+0.3750831111	reach
+0.3750831111	coding
+0.3750831111	entire
+0.3750831111	applicable
+0.3748519213	arguments
+0.3747447959	sections
+0.3746584186	used
+0.3746131821	successful
+0.3745339871	way
+0.3745032193	week
+0.3744490116	algorithm
+0.3743494471	two
+0.3742109164	equal
+0.3742109164	readily
+0.3742109164	usual
+0.3741134178	to
+0.3740049885	sch \
+0.3737028225	advantages
+0.3734966339	sufficient
+0.3731944471	many
+0.3730990591	stages
+0.3730990591	distances
+0.3730990591	procedures
+0.3730990591	discusses
+0.3730990591	run
+0.3730129515	need
+0.3728519126	goes
+0.3727845557	performance of students
+0.3727603725	frequencies
+0.3727269213	apparent
+0.3727269213	scheme
+0.3727269213	adapted
+0.3727269213	reveal
+0.3727269213	completed
+0.3727269213	valid
+0.3727269213	introduces
+0.3725717990	encounter
+0.3725717990	increases
+0.3725717990	notions
+0.3725717990	discovered
+0.3725717990	completely
+0.3725717990	chosen
+0.3725717990	relate
+0.3725717990	concerns
+0.3725717990	mathematically
+0.3724046357	sophisticated
+0.3724046357	parts
+0.3722523451	fixed
+0.3722523451	emphasize
+0.3722173049	perceived
+0.3722072766	based introductory physics courses
+0.3721021437	12
+0.3720609327	describing
+0.3720280104	signals
+0.3720280104	decisions
+0.3720280104	experienced
+0.3716401023	location
+0.3716381020	worked
+0.3715984574	users
+0.3715984574	coordinate
+0.3713488468	physics graduate students
+0.3713057401	example
+0.3711185506	\ lambda
+0.3711000468	given
+0.3709109411	together
+0.3708250295	analysed
+0.3708250295	inform
+0.3708250295	carry
+0.3708250295	aid
+0.3708250295	concrete
+0.3708250295	straightforward
+0.3708250295	potentials
+0.3708250295	assumptions
+0.3708250295	calculated
+0.3708250295	assumed
+0.3707307023	technologies
+0.3706577162	hundred
+0.3706279524	dimensions
+0.3706279524	experimentally
+0.3705303703	get
+0.3705255495	learning and teaching
+0.3703175987	because
+0.3702602310	arise
+0.3702602310	actively
+0.3702602310	expressed
+0.3702602310	links
+0.3702602310	involve
+0.3702602310	document
+0.3702602310	mechanisms
+0.3702602310	prediction
+0.3700982572	evaluated
+0.3700982572	turn
+0.3699062609	schr \
+0.3698715500	2
+0.3697532838	than
+0.3695925217	realized
+0.3695925217	assigned
+0.3695925217	accepted
+0.3695925217	changed
+0.3695925217	guidance
+0.3695925217	obtaining
+0.3695925217	illustrates
+0.3695833509	likely
+0.3695463186	events
+0.3694922923	use
+0.3694789383	explanations
+0.3693490858	vectors
+0.3690514768	surveys
+0.3690081675	percent
+0.3686188713	interventions
+0.3686188713	offered
+0.3686188713	giving
+0.3685434843	mathematics and physics
+0.3685212063	allowed
+0.3685212063	outline
+0.3683498989	text
+0.3683203942	course
+0.3682985481	receive
+0.3680381334	causal
+0.3678752380	place
+0.3674462376	recognize
+0.3674462376	remains
+0.3674462376	adequate
+0.3674462376	competencies
+0.3674462376	extensive
+0.3674462376	earlier
+0.3674462376	requiring
+0.3674462376	represents
+0.3672344977	actual
+0.3672344977	leading
+0.3672344977	explained
+0.3668982466	of
+0.3668041866	value
+0.3667769290	finding
+0.3664216114	highly
+0.3664022281	\ beta
+0.3662003561	improved
+0.3660985879	set up
+0.3660509206	well established
+0.3659239970	eight
+0.3657316075	affect
+0.3656945590	exams
+0.3653808308	discipline
+0.3653808308	career
+0.3652003561	technique
+0.3652003561	strategy
+0.3649849100	novice students
+0.3647715767	02
+0.3645790701	rotating
+0.3645527804	few
+0.3641830750	help
+0.3641185917	but
+0.3641011451	great
+0.3639932773	back
+0.3639196310	computer models
+0.3638813132	considering
+0.3638326981	about
+0.3638066861	practical
+0.3629770859	^
+0.3627830111	self reported
+0.3622273697	observations
+0.3620127738	factors
+0.3619418331	subjects
+0.3616661930	outside
+0.3615221610	general public
+0.3612815302	answers
+0.3612000597	currently
+0.3611315109	demonstrated
+0.3610819995	audience
+0.3610819995	movement
+0.3609815979	non linear
+0.3609543150	hope
+0.3609543150	understood
+0.3609543150	takes
+0.3606432417	between
+0.3605938054	values
+0.3603757138	situation
+0.3602731060	analogy
+0.3601055143	lectures
+0.3599369640	equipment
+0.3595545689	=
+0.3587803421	correctly
+0.3587803421	offers
+0.3587803421	enable
+0.3586899039	items
+0.3586844874	institutions
+0.3583684808	more
+0.3581205082	so
+0.3580722553	tested
+0.3579966973	interest
+0.3578365788	known
+0.3578190432	plus
+0.3577320928	increasingly
+0.3577320928	enables
+0.3577320928	briefly
+0.3577320928	categories
+0.3577008603	resulting
+0.3577008603	selected
+0.3575615819	published
+0.3573757138	increased
+0.3572346712	further
+0.3572342346	2016
+0.3572008603	score
+0.3570673790	classrooms
+0.3570673790	productive
+0.3569755475	features
+0.3565123452	from
+0.3563474619	four
+0.3560980726	offer
+0.3558362561	papers
+0.3556869751	before
+0.3555633829	larger
+0.3555297281	http
+0.3555297281	procedure
+0.3553879089	abilities
+0.3553879089	explicitly
+0.3553879089	defined
+0.3553879089	includes
+0.3549562686	generally
+0.3548641817	showing
+0.3548641817	limited
+0.3547008603	effectively
+0.3544180948	elsewhere
+0.3543482901	out
+0.3542915307	under graduate
+0.3541768749	too
+0.3541016464	predictions
+0.3540901972	underlying
+0.3540567401	showed
+0.3540567401	involves
+0.3538859421	explored
+0.3538859421	revealed
+0.3538859421	exist
+0.3538362561	received
+0.3538362561	manner
+0.3538362561	employed
+0.3537704130	times
+0.3537496286	$
+0.3536391720	und
+0.3533290199	institution
+0.3533290199	frequently
+0.3532192061	position
+0.3531359421	structures
+0.3530297281	lower
+0.3530185481	methodology
+0.3529829873	for
+0.3529138830	suggests
+0.3529035245	shifts
+0.3529035245	carried
+0.3529035245	exercise
+0.3528047668	having
+0.3526729067	points
+0.3523030355	detail
+0.3521125502	fully
+0.3521125502	issue
+0.3516692447	you
+0.3515926995	upon
+0.3515411217	accuracy
+0.3515087089	better
+0.3514958179	another
+0.3512290221	becoming
+0.3510398597	im
+0.3509706282	20
+0.3509438856	examined
+0.3507287463	i.e
+0.3507287463	providing
+0.3504543557	successfully
+0.3504063973	far
+0.3503516307	they
+0.3502661078	29
+0.3502661078	500
+0.3502661078	2007
+0.3502661078	merely
+0.3500539440	make
+0.3499268329	during
+0.3498165386	allow
+0.3497066891	existing
+0.3496636195	areas
+0.3495438856	makes
+0.3494616618	young people
+0.3493747526	challenging
+0.3492799786	helps students
+0.3492781533	survey for experimental physics
+0.3491387313	through
+0.3486241604	appropriate
+0.3486199027	101
+0.3486199027	normally
+0.3486199027	shall
+0.3486199027	1000
+0.3486199027	specified
+0.3486199027	2002
+0.3486199027	keep
+0.3486199027	name
+0.3486199027	60
+0.3486199027	22
+0.3485892498	2004
+0.3485720558	associated
+0.3479317569	17
+0.3479317569	appreciate
+0.3479317569	unlikely
+0.3477125189	co
+0.3476494739	directly
+0.3474161539	apparatus
+0.3472395934	also
+0.3471598321	efforts
+0.3469222338	a quantum interactive
+0.3467511864	\ gamma
+0.3466616953	&
+0.3466290133	among
+0.3465484409	identified
+0.3465167482	university students
+0.3464161539	calculations
+0.3457449676	necessary
+0.3456173897	at
+0.3452419844	what
+0.3451528190	1
+0.3449868322	including
+0.3449788990	parameters
+0.3448034547	forces
+0.3447206827	objects
+0.3446108759	up
+0.3440967920	overall
+0.3440078664	investigated
+0.3436958481	freely available
+0.3433723231	every
+0.3431473737	argue
+0.3431177879	requires
+0.3431177879	components
+0.3431110630	written
+0.3430078664	significantly
+0.3430078664	e.g
+0.3427741478	see
+0.3427275222	know
+0.3422777297	instructor
+0.3419180849	engage students
+0.3411666388	prepare students
+0.3410008240	slit experiment
+0.3409233019	conceptual physics
+0.3399851329	only
+0.3388513925	other
+0.3388141136	take
+0.3383653641	2003
+0.3382752675	general physics
+0.3381301705	last years
+0.3379007135	toward
+0.3375293809	shows
+0.3372993541	corresponding
+0.3371543668	thin
+0.3371543668	somewhat
+0.3369117062	time dependent
+0.3368691601	possible
+0.3368280735	with
+0.3363137652	less
+0.3360280752	immediate
+0.3359491187	years old
+0.3359007172	proposed
+0.3358528467	easily
+0.3353691570	different
+0.3348375080	available
+0.3343855972	techniques
+0.3329697439	show
+0.3328318323	always
+0.3327932470	into
+0.3323927614	whole
+0.3320507576	10
+0.3317308975	observed
+0.3311523396	+
+0.3310197410	except
+0.3310197410	don't
+0.3299928552	helping students
+0.3295092678	useful
+0.3284902198	thereby
+0.3284568678	top
+0.3284335466	indicate
+0.3283678079	give
+0.3279398665	zero
+0.3276437544	computer based
+0.3275034155	like
+0.3273262038	become
+0.3265627664	best
+0.3261215956	one dimension
+0.3260900170	one dimensional
+0.3260779313	very
+0.3258390365	made
+0.3255768125	bottom
+0.3253179388	contains
+0.3247668800	3d
+0.3244325960	16
+0.3236685421	describe
+0.3235749465	let
+0.3235749465	never
+0.3235329398	asking
+0.3232190718	entirely
+0.3229276087	under
+0.3224047832	actually
+0.3214998401	level physics
+0.3212098333	consider
+0.3204576794	whom
+0.3204576794	probably
+0.3203923357	physics curricula
+0.3203786803	allows
+0.3203754006	done
+0.3199280270	second semester
+0.3198994617	described
+0.3187310421	find
+0.3185687749	below
+0.3184756325	2005
+0.3184756325	25
+0.3183536139	contain
+0.3183536139	200
+0.3183536139	onto
+0.3183536139	wish
+0.3179959378	4
+0.3179150974	then
+0.3171191753	issues related to
+0.3168971453	18
+0.3168257839	2008
+0.3163594164	academic year
+0.3152182665	de la
+0.3151521018	a black hole
+0.3150093882	in recent years
+0.3149327693	and
+0.3147104901	2020
+0.3132707702	sub
+0.3128584693	not necessarily
+0.3124086937	improve students
+0.3123053825	que
+0.3121711232	off
+0.3114413839	the colorado learning attitudes
+0.3111775810	how
+0.3108265634	mostly
+0.3103870438	any
+0.3102552502	14
+0.3090969528	found
+0.3089254780	cause
+0.3089254780	alone
+0.3089254780	otherwise
+0.3089254780	nor
+0.3078655791	again
+0.3078655791	2000
+0.3078655791	really
+0.3078655791	trying
+0.3073633668	2017
+0.3062876998	introductory physics course
+0.3056014010	1 2
+0.3052617453	physics problem
+0.3051325955	namely
+0.3050100780	undergraduate and graduate students
+0.3044387417	2006
+0.3042534895	into account
+0.3041205075	particular
+0.3026114236	e & m
+0.3017450971	five
+0.3016407781	no
+0.3013450323	source physics
+0.3010755921	six
+0.3009843412	expert like
+0.3007450519	0
+0.3004586116	the harmonic oscillator
+0.3001607547	follows
+0.2996547672	2013
+0.2991241544	3
+0.2991017592	2014
+0.2986979990	50
+0.2984259120	2009
+0.2983667292	behind
+0.2982916633	solar system
+0.2980417644	2d
+0.2972447744	comes
+0.2972447744	ever
+0.2964837382	sometimes
+0.2962799074	the lorentz force
+0.2952988531	2015
+0.2950845039	within
+0.2946649597	n =
+0.2946449509	two dimensional
+0.2940506980	based upon
+0.2935250379	2012
+0.2914090775	100
+0.2907042996	put
+0.2896456635	insight into
+0.2895109859	computer simulation
+0.2894269627	conceptual survey of electricity and
+0.2894129948	good agreement
+0.2891266875	30
+0.2889194579	engineering students
+0.2876133873	student understanding of
+0.2874792738	7
+0.2869380503	2011
+0.2868930547	2018
+0.2867912521	physics classroom
+0.2862468885	basic physics
+0.2856428745	first generation
+0.2851930559	both
+0.2848113988	nearly
+0.2830491387	her
+0.2825604385	respectively
+0.2819628241	containing
+0.2819354858	especially
+0.2812849650	go
+0.2811992315	or
+0.2809076079	faster than
+0.2807767996	15
+0.2807767996	seems
+0.2807767996	8
+0.2803310624	rather than
+0.2793316608	its
+0.2787884129	ten
+0.2787884129	becomes
+0.2787884129	want
+0.2782884129	something
+0.2780933149	clearly
+0.2779862821	5
+0.2771724079	indicated
+0.2769410855	out of class
+0.2766787144	little
+0.2765464958	seem
+0.2760605506	call
+0.2760605506	took
+0.2760605506	cannot
+0.2755133024	learning tutorial
+0.2753734566	2010
+0.2750431449	and in class
+0.2748942335	down
+0.2747034878	vs
+0.2746502192	seven
+0.2746502192	2019
+0.2746267789	particularly
+0.2741564349	10 ^
+0.2740345194	causes
+0.2737807605	against
+0.2727791444	try
+0.2727791444	9
+0.2727791444	13
+0.2727791444	exactly
+0.2721140938	believe
+0.2717448339	provide students
+0.2715601193	the stern gerlach
+0.2712257950	come
+0.2712257950	concerning
+0.2709503449	later
+0.2709136962	indicates
+0.2708178081	almost
+0.2702294306	even though
+0.2698189759	needs
+0.2694093237	6
+0.2679223703	mainly
+0.2673269211	understanding of quantum
+0.2666978237	commonly used
+0.2665116830	a simple method
+0.2664339008	newton's second
+0.2663043719	well known
+0.2649480691	still
+0.2648226797	insights into
+0.2645466476	across
+0.2637707815	ones
+0.2635822767	student difficulties with
+0.2635339089	gender differences in
+0.2635150473	gives
+0.2620856266	teach students
+0.2619825029	themselves
+0.2619390450	advanced students
+0.2614145200	investigation of student
+0.2605758331	around
+0.2603650493	relatively
+0.2600140466	full
+0.2591589700	allowing
+0.2588818926	enough
+0.2588818926	itself
+0.2578460185	study of student
+0.2573649765	seen
+0.2570122269	an open source
+0.2568779283	present results
+0.2565488522	now
+0.2564692320	regarding
+0.2559514204	a low cost
+0.2559135292	whose
+0.2556662723	study aims
+0.2550001286	quite
+0.2549177110	near
+0.2548837200	might
+0.2548787096	mean
+0.2547355135	correlation between
+0.2535186992	etc
+0.2533886314	time evolution
+0.2532381924	this paper
+0.2531648986	changes
+0.2525948559	computer modeling
+0.2522692584	whether
+0.2518400450	either
+0.2509487891	can
+0.2506784639	widely used
+0.2504788191	which
+0.2504788191	were
+0.2504788191	has
+0.2504788191	that
+0.2504788191	was
+0.2500183581	certain
+0.2499788191	be
+0.2499538191	are
+0.2499538191	is
+0.2499487891	their
+0.2499007505	differences in student
+0.2498858987	been
+0.2494788191	have
+0.2490831080	already
+0.2489686730	without
+0.2486108571	others
+0.2483264228	should
+0.2482526475	them
+0.2480308584	those
+0.2480286569	must
+0.2474805910	will
+0.2474744033	may
+0.2473499783	often
+0.2472605883	usually
+0.2464674951	would
+0.2460014041	force concept
+0.2459028303	his
+0.2458524808	various
+0.2458115831	who
+0.2455990061	had
+0.2455840079	where
+0.2454480537	could
+0.2454077194	computer science
+0.2453358334	provides
+0.2452986269	uses
+0.2449337853	first semester
+0.2444657548	non stem
+0.2435153940	first year
+0.2433550093	via
+0.2432516317	in spite
+0.2431767369	being
+0.2427478654	an upper division
+0.2424492255	own
+0.2415518413	learning attitudes about
+0.2409469067	space time
+0.2396554210	students engage
+0.2381113143	the speed of sound
+0.2380598171	the wave function
+0.2380162749	simple experiment
+0.2371453848	f \
+0.2360059795	distinction between
+0.2340006579	beliefs about
+0.2332009157	m &
+0.2326383450	a simple pendulum
+0.2325047854	understanding of physics
+0.2322073713	interviews with students
+0.2320932625	students enrolled in
+0.2310923515	differences between
+0.2308673148	this article
+0.2305071139	students to engage
+0.2301282369	did not
+0.2296858881	greater than
+0.2289950021	improve student
+0.2282471966	physics learning
+0.2282120726	the electric field
+0.2272933609	learning strategies
+0.2271653121	non relativistic
+0.2261391815	learning about
+0.2252725170	depending on
+0.2251886431	outside of class
+0.2233233580	perform better
+0.2222905094	laboratory course
+0.2210029616	doing so
+0.2208179560	physics experiments
+0.2188531417	most important
+0.2187248979	familiarity with
+0.2186772536	at rest
+0.2173110827	the united states
+0.2172791820	ranging from
+0.2166492781	students to learn
+0.2159525112	solving process
+0.2138009936	for high school students
+0.2136560125	solving skills
+0.2119074146	of quantum mechanics
+0.2095173977	connections between
+0.2064199826	in upper division physics
+0.2059602981	so far
+0.2051380550	of colorado boulder
+0.2039740325	reasoning about
+0.2033525309	the undergraduate physics curriculum
+0.2019672621	hands on
+0.2002736421	focusing on
+0.1987072967	development program
+0.1980186118	the e class
+0.1973388291	attitudes about
+0.1968059336	k 12 science
+0.1965863005	does not
+0.1954258543	mechanics course
+0.1950277965	most common
+0.1940456137	new approach
+0.1936064907	take advantage
+0.1925417403	good agreement with
+0.1921217218	per based
+0.1920829914	time dependence
+0.1920450569	in quantum mechanics
+0.1912941087	a pedagogical tool
+0.1902947800	lab course
+0.1899725200	integral part of
+0.1895465839	majoring in
+0.1880910769	and multiple choice questions
+0.1877266822	aimed at
+0.1871687704	depends on
+0.1868275098	inspired by
+0.1867479016	an introductory physics
+0.1859825304	correlations between
+0.1857397905	the united
+0.1857339763	students to develop
+0.1856423371	more expert like
+0.1831277666	science students
+0.1825193033	second year
+0.1821448254	caused by
+0.1815267949	at cern
+0.1807464297	comment on
+0.1806692724	important role in
+0.1793580243	quantum key
+0.1792473294	distance between
+0.1790062866	connection between
+0.1782291931	a simple model
+0.1782263213	based physics course
+0.1782078143	e =
+0.1781985551	of physics education research
+0.1757650334	students to understand
+0.1757332864	the general public
+0.1748229859	physics course
+0.1746137683	to better understand
+0.1745157330	the open source
+0.1737746002	quantum mechanics course
+0.1729437868	a simple experiment
+0.1727082006	in physics education
+0.1726253527	students develop
+0.1723823455	an empirical
+0.1710315387	school physics
+0.1706525732	the covid 19
+0.1699575730	a high school
+0.1683917033	relationship between
+0.1681535279	student responses to
+0.1680414334	about experimental physics
+0.1678734107	on quantum mechanics
+0.1663261856	all levels
+0.1661476221	students build
+0.1653623593	controlling for
+0.1650889198	effective way
+0.1645416495	do not
+0.1635887143	acting on
+0.1625076176	views about
+0.1625020403	responsible for
+0.1619866712	the end
+0.1615000571	the other hand
+0.1611733934	\ ~
+0.1603979254	relies on
+0.1601223536	focused on
+0.1596242277	students understand
+0.1591187676	dealing with
+0.1579148461	a simple
+0.1577367939	rely on
+0.1575000000	school students
+0.1574207079	astronomy students
+0.1565233610	lock in
+0.1563553136	in class
+0.1556246510	to model
+0.1547777922	several years
+0.1547352298	focuses on
+0.1544708262	student performance on
+0.1531567421	l \
+0.1506692223	emphasis on
+0.1506151921	more effective
+0.1488961457	group work
+0.1487982392	to date
+0.1483079923	the colorado learning
+0.1478832777	r \
+0.1476411594	a lock in amplifier
+0.1476127086	using easy
+0.1471506518	non physics
+0.1466429810	based on
+0.1464198102	between student
+0.1462640007	physical system
+0.1454978833	the context
+0.1454630815	introductory physics for
+0.1442165146	less than
+0.1431595033	the final exam
+0.1428984641	an introduction
+0.1427638313	interactive computer
+0.1424678781	attitudes and approaches to
+0.1424016413	e learning
+0.1423612920	results indicate
+0.1422579645	information about
+0.1418400499	a multiple choice
+0.1412808593	three years
+0.1406111209	and graduate students
+0.1404606879	to design
+0.1392927075	student learning of
+0.1389294274	do so
+0.1385778613	problem solving in
+0.1379466214	the effect
+0.1374869070	the magnetic field
+0.1370006877	in order to understand
+0.1366799475	m \
+0.1363072303	student difficulties in
+0.1356163921	learning attitudes
+0.1356035373	order to help
+0.1350337810	better than
+0.1347635441	hundreds of
+0.1344378807	difference between
+0.1339534084	starting from
+0.1338579790	the force concept
+0.1334452226	presented here
+0.1333943061	based assessment
+0.1329851597	thanks to
+0.1329375495	relation between
+0.1322461579	support student
+0.1322197028	expectations about
+0.1316108650	at home
+0.1314264469	serve as
+0.1307751603	an instructional
+0.1304153956	a case
+0.1303458662	on student learning
+0.1301861057	an important
+0.1295839238	this study
+0.1289442207	group problem
+0.1287585612	designed to help
+0.1285914230	came from
+0.1284491324	different ways
+0.1272742609	an experiment
+0.1269924654	the standard model
+0.1267250181	non science
+0.1260077944	to present
+0.1257429663	$ c
+0.1252270423	investigation into
+0.1252197204	\ c
+0.1249873575	in introductory physics courses
+0.1245818838	devoted to
+0.1245080998	an attempt
+0.1243893779	an educational
+0.1242206307	before and after
+0.1240419945	conceptual understanding of
+0.1238951178	the introductory level
+0.1237659690	drawn from
+0.1235712144	previous work
+0.1233124949	focus on
+0.1231380137	the life sciences
+0.1218415368	the real world
+0.1218352186	to assess
+0.1217522696	undergraduate quantum
+0.1212496671	reflect on
+0.1210986290	interaction between
+0.1203899604	resulted in
+0.1198410784	k \
+0.1192591065	at least
+0.1191868450	better understand
+0.1190047624	an innovative
+0.1188733941	take advantage of
+0.1188314479	function of time
+0.1182880139	to solve
+0.1181813483	the physics lab
+0.1169042461	problems based
+0.1167099405	depend on
+0.1166595459	to teach
+0.1156451866	very simple
+0.1151061655	the role
+0.1150414642	the universe
+0.1146753022	the colorado
+0.1140646744	an arbitrary
+0.1139991625	an introductory course
+0.1137530955	the solar system
+0.1135107543	learn about
+0.1133172573	the equation of
+0.1121406149	a hands on
+0.1119634924	as well as
+0.1113711120	the resources framework
+0.1113171000	video analysis and
+0.1112049031	for experimental physics
+0.1108090523	a first year
+0.1098483362	$ ^
+0.1096379670	astronomy course
+0.1094644141	learning quantum
+0.1091699086	^ \
+0.1091692054	report on
+0.1089829750	these findings
+0.1089680315	with disabilities
+0.1088357130	case study of
+0.1085767240	the majority
+0.1083386862	to graduate
+0.1083115300	conceptual survey of
+0.1080799929	thinking about
+0.1073692398	think about
+0.1073627488	this kind
+0.1065406794	student learning in
+0.1053129062	the moon
+0.1050766722	the laws of
+0.1044059650	to determine
+0.1040385704	the quilt
+0.1036689026	to obtain
+0.1035363292	$ \
+0.1034429823	ideas about
+0.1033204801	of light
+0.1030675787	make sense of
+0.1030490051	funded by
+0.1028355316	different levels
+0.1025570330	even after
+0.1024618002	some cases
+0.1018427368	make sense
+0.1017747205	in physics education research
+0.1016647820	the development
+0.1015439526	in physics courses
+0.1014077920	the university of colorado
+0.1009711594	regardless of
+0.1007128692	content knowledge of
+0.1006606154	to create
+0.1002441656	a framework
+0.0997686525	an inquiry
+0.0995105890	interact with
+0.0991484431	first year physics
+0.0984517823	the undergraduate level
+0.0982558071	for physics education
+0.0978976167	these programs
+0.0975938060	the moment
+0.0975549247	with regard to
+0.0975441790	a tool to
+0.0972976828	the atmosphere
+0.0972708739	the results obtained
+0.0969658946	results from
+0.0965247567	the equation of motion
+0.0961514893	an alternative
+0.0959910093	related to
+0.0959325932	to understand
+0.0956719694	data from
+0.0955012074	to change
+0.0954943133	a workshop
+0.0954376999	an undergraduate
+0.0954326499	more likely to
+0.0953602784	the physics classroom
+0.0953283284	to provide
+0.0953073634	characterized by
+0.0948932941	many common
+0.0948895785	to correct
+0.0946752928	to propose
+0.0944037403	to learn
+0.0940630439	an external
+0.0940516304	an ideal
+0.0929812147	on line
+0.0918912179	more complex
+0.0917633413	of student understanding
+0.0915165687	a universal
+0.0912755804	used in physics
+0.0909306328	to visualize
+0.0908058665	to improve
+0.0907792175	to address
+0.0907690585	a graphical
+0.0907455135	an infinite
+0.0902068847	these difficulties
+0.0900299719	to help students
+0.0894213961	course grades
+0.0894022174	introduction to
+0.0893427815	a new
+0.0891702026	able to
+0.0886289482	the colorado learning attitudes about
+0.0883920295	an interdisciplinary
+0.0881067100	an interactive
+0.0878223376	in depth
+0.0872429679	in order to
+0.0871919985	the state of
+0.0871756535	an online
+0.0869376270	simple way
+0.0868701754	more advanced
+0.0866446161	not require
+0.0866339776	understanding of
+0.0863618384	a physicist
+0.0858307093	a guide
+0.0858002910	the main
+0.0857828750	the speed of light
+0.0856573045	different levels of
+0.0851530730	majority of
+0.0850557212	to explore
+0.0848328606	the higgs
+0.0846067226	an elementary
+0.0843867974	a lock in
+0.0842972923	some examples
+0.0841183012	a game
+0.0839373935	with respect to
+0.0838477961	to develop
+0.0835629926	the university of
+0.0835535663	a comprehensive
+0.0834532056	some basic
+0.0833590905	followed by
+0.0833548291	each other
+0.0832826136	a major
+0.0831693336	the experimental results
+0.0829350821	viewed as
+0.0828775123	the potential to
+0.0827776237	to introduce
+0.0827746285	ability to
+0.0826671134	an example
+0.0824668899	also discuss
+0.0821880696	more than
+0.0821736991	to investigate
+0.0821315393	results show
+0.0820671048	due to
+0.0820500096	to measure
+0.0818704307	\ ^
+0.0809835057	attached to
+0.0808356550	the day
+0.0804789709	serves as
+0.0804142288	align with
+0.0802387537	time dependence of
+0.0800771837	the effects of
+0.0797766868	percentage of
+0.0796433476	a multi
+0.0795174946	compared to
+0.0794975986	a study
+0.0791949833	not only
+0.0790279718	by comparing
+0.0789676474	the importance
+0.0788775123	the efficacy of
+0.0788014828	to set
+0.0785184394	the first year
+0.0783273834	away from
+0.0782105170	for education and
+0.0781764445	an introductory
+0.0780650902	also discussed
+0.0774984962	to increase
+0.0772248993	generated by
+0.0770762749	such as
+0.0769301439	allows students to
+0.0765013293	attributed to
+0.0762933202	supported by
+0.0761016046	to identify
+0.0758197631	aspects of
+0.0757156774	$ n
+0.0755586652	the physics of
+0.0751382842	computer model
+0.0749934610	consists of
+0.0749319724	an optical
+0.0748611878	the rest of
+0.0747819761	gap between
+0.0747279952	a critical
+0.0745754172	predictor of
+0.0745585562	and evaluation of
+0.0745212470	= \
+0.0744428465	the sky
+0.0743137348	suitable for
+0.0741919985	the size of
+0.0741714160	second part
+0.0741665083	the course of
+0.0741418704	an overview
+0.0737866536	the theory of
+0.0735586652	the teaching of
+0.0734733267	a mixed
+0.0731919985	the energy of
+0.0731531602	different types of
+0.0729121628	determination of
+0.0727522918	an essential
+0.0725771837	the field of
+0.0725771837	the introduction of
+0.0725771837	the framework of
+0.0725586652	the level of
+0.0725294511	impact on
+0.0725020988	a ball
+0.0723771837	the power of
+0.0722105170	the phenomenon of
+0.0718845058	the types of
+0.0718786298	to study
+0.0718553580	formulation of
+0.0718520221	for use in
+0.0717819691	the solar
+0.0715586652	the problem of
+0.0715586652	the performance of
+0.0713771837	the subject of
+0.0713771837	the success of
+0.0713010602	a student's
+0.0712105170	of women in
+0.0711919985	the geometry of
+0.0711520210	proportional to
+0.0710831750	one context to
+0.0708111878	allow students to
+0.0707532030	a lot of
+0.0706833442	performance on
+0.0705951926	to discuss
+0.0705057383	a century
+0.0704962485	produced by
+0.0703586652	the learning of
+0.0702631486	the inclusion of
+0.0701919985	the choice of
+0.0701919985	the experience of
+0.0701728841	the first semester
+0.0700952876	as well as for
+0.0699665083	the system of
+0.0698771837	the benefits of
+0.0696043507	the set of
+0.0695887996	an intermediate
+0.0695771837	the concept of
+0.0695771837	the case of
+0.0695771837	the concepts of
+0.0695586652	the process of
+0.0695586652	the design of
+0.0695586652	the dynamics of
+0.0694298153	the discovery of
+0.0692971247	unable to
+0.0692105170	the details of
+0.0691919985	the solution of
+0.0691919985	the model of
+0.0691919985	the principles of
+0.0689848375	the interpretation of
+0.0689832681	the measurement of
+0.0689556628	the extent
+0.0688689501	agreement with
+0.0687665399	science course
+0.0683771837	the idea of
+0.0683586652	the implications of
+0.0683586652	the design and
+0.0683586652	the characteristics of
+0.0683586652	the method of
+0.0683586652	the perspective of
+0.0682676181	first time
+0.0681919985	the frequency of
+0.0681919985	the question of
+0.0681765570	an effort to
+0.0678085562	in light of
+0.0677936407	consistent with
+0.0677602878	origins of
+0.0677332343	a pilot
+0.0675928826	two problems
+0.0675586652	the results of
+0.0674251656	to represent
+0.0673771837	the distribution of
+0.0671406654	to bring
+0.0668374711	one way
+0.0668183602	a system of
+0.0667776237	to explain
+0.0662984047	to illustrate
+0.0661114169	these issues
+0.0660649206	knowledge about
+0.0658434962	a single
+0.0653668123	much more
+0.0650745420	but also
+0.0647745140	an intuitive
+0.0646246925	to evaluate
+0.0645666257	a function
+0.0645426753	associated with
+0.0643993917	this approach
+0.0641919985	a model of
+0.0640195901	these results
+0.0638237342	approach to
+0.0635586652	a group of
+0.0634872613	to implement
+0.0634546739	in addition
+0.0633164492	a very simple
+0.0631736083	of magnitude
+0.0629983891	an explicit
+0.0629400614	the range of
+0.0627135186	derived from
+0.0626309355	an advanced
+0.0626255599	the beginning
+0.0624547204	year of
+0.0624177338	a plane
+0.0623870746	analysis of
+0.0623804655	an inexpensive
+0.0623103315	education system
+0.0617993700	each student
+0.0617984047	to build
+0.0613936886	this project
+0.0613586652	for students to
+0.0613419566	a popular
+0.0612026399	an effective
+0.0608677326	questions about
+0.0607743306	these topics
+0.0605495972	to promote
+0.0605168216	guided by
+0.0604023752	taught by
+0.0603626648	in terms of
+0.0600683862	a smartphone
+0.0599911496	of light in
+0.0598410669	the same
+0.0597437787	the well known
+0.0595404550	tool for
+0.0594442572	this framework
+0.0593818326	class time
+0.0593058579	an integral
+0.0592795799	to continue
+0.0591817262	other hand
+0.0589080474	applied to
+0.0588938554	a large
+0.0587554179	implications for
+0.0586618134	not just
+0.0583762464	look at
+0.0583628699	these concepts
+0.0583107193	a tutorial
+0.0582701060	looking at
+0.0579301929	the definition of
+0.0578884131	the fact
+0.0578253718	taking into
+0.0575885829	time to
+0.0575881804	best practices for
+0.0573610306	a didactic
+0.0571874100	correlated with
+0.0570878772	physics course for
+0.0569819213	end of
+0.0569720445	struggle with
+0.0569099810	recommendations for
+0.0569073882	solved by
+0.0568156060	the dse
+0.0568075212	of inertia
+0.0563302533	this method
+0.0563292378	the sun
+0.0563213760	variety of
+0.0562575770	a systematic
+0.0561401476	this activity
+0.0558452681	these ideas
+0.0558396398	any other
+0.0556160011	subset of
+0.0554507759	transition from
+0.0552773624	the conceptual survey of
+0.0547591659	feedback from
+0.0545902540	a unique
+0.0544982508	not always
+0.0542165154	to reason
+0.0541229204	compared with
+0.0541166467	this experiment
+0.0540568988	formula for
+0.0540435669	knowledge from
+0.0540391695	responses to
+0.0539194116	using only
+0.0539015559	designed to
+0.0536820453	difficulties with
+0.0535492602	different types
+0.0535300592	a focus on
+0.0533381061	over time
+0.0532436626	to enhance
+0.0531652964	by means of
+0.0528901145	this work
+0.0528779949	rise to
+0.0528645272	to apply
+0.0526826597	an approach
+0.0526272359	this end
+0.0525292109	to extend
+0.0524763862	these tools
+0.0524596379	an experimental
+0.0524409362	differences in
+0.0521301785	introductory course
+0.0520860665	informed by
+0.0516428945	to analyze
+0.0514547204	out of
+0.0512468576	development of
+0.0509935242	taught at
+0.0507510737	an analysis
+0.0507287976	scores on
+0.0506654995	a wide range of
+0.0506331557	combined with
+0.0505611860	exposed to
+0.0505523071	deal with
+0.0504460211	search for
+0.0503219391	well as for
+0.0502393959	research on
+0.0501008370	a number
+0.0500388319	number of
+0.0500021971	a set
+0.0499197616	as well as in
+0.0497745462	nature of
+0.0496923957	on average
+0.0496758750	interviews with
+0.0492509331	measured by
+0.0491995006	to ensure
+0.0484990883	set of
+0.0484636688	learning through
+0.0480878755	to realize
+0.0480473794	study of
+0.0479108621	branch of
+0.0477664202	consisting of
+0.0476950827	the area of
+0.0476007271	organized by
+0.0475685994	this note
+0.0474922040	a series
+0.0473507210	the analysis of
+0.0473190013	collected from
+0.0471303263	obtained by
+0.0470720711	an opportunity
+0.0470028289	kinds of
+0.0467326143	capable of
+0.0466879761	with peers
+0.0463744379	examples from
+0.0462775966	courses at
+0.0462123891	a case study of
+0.0461950186	asked to
+0.0460708803	created by
+0.0459206360	to guide
+0.0458733471	by means
+0.0456706632	to support
+0.0455056502	opportunities for
+0.0454464428	engagement with
+0.0454007210	the properties of
+0.0453877661	an introduction to
+0.0452910813	collection of
+0.0452873513	this contribution
+0.0452665052	appearance of
+0.0452312175	reports on
+0.0451736803	the site
+0.0451137359	this purpose
+0.0449297299	to calculate
+0.0449043076	to share
+0.0448631383	the speed of
+0.0447261025	undergraduate course
+0.0446243328	to perform
+0.0445414217	to generate
+0.0445373970	to collect
+0.0443750641	a central
+0.0443160523	as part of
+0.0443159269	with regard
+0.0442517669	the european
+0.0441050328	an activity
+0.0439414874	to demonstrate
+0.0439359269	findings from
+0.0438662245	driven by
+0.0436797299	to produce
+0.0434124538	description of
+0.0433598671	an object
+0.0432523760	types of
+0.0430376409	to predict
+0.0429862003	properties of
+0.0428236713	easy to
+0.0427448975	relationship with
+0.0426785990	aspect of
+0.0425254867	engage with
+0.0424959707	the relevance
+0.0423827459	about science
+0.0423289225	motion of
+0.0422991730	version of
+0.0422132188	speed of
+0.0421810395	program at
+0.0421800984	order of
+0.0421785944	research into
+0.0421718288	the use of
+0.0418738516	extent to
+0.0418369405	very different
+0.0416968661	the presence
+0.0416875261	a discussion
+0.0415375550	interested in
+0.0415148220	perspectives on
+0.0414840444	achieved by
+0.0414208104	this phenomenon
+0.0412641888	performed by
+0.0410043322	even more
+0.0407887913	developed by
+0.0404657351	exposure to
+0.0404583751	an investigation
+0.0404156357	to characterize
+0.0404030804	determined by
+0.0403769202	half of
+0.0401098671	an interesting
+0.0400880126	interacting with
+0.0398788723	decrease in
+0.0397997661	a set of
+0.0397150512	better understanding
+0.0396749342	expression for
+0.0395728448	a subset of
+0.0395323704	as measured by
+0.0394575949	considered as
+0.0394254881	in order
+0.0392524437	attempt to
+0.0391999362	calls for
+0.0389754898	first part
+0.0387677479	lack of
+0.0385659633	to gain
+0.0385186833	to reflect
+0.0385082430	an application
+0.0384800023	a variety of
+0.0384695941	the basics of
+0.0384272152	contributed to
+0.0383125291	theory of
+0.0382858792	a result
+0.0382765331	the study of
+0.0382132188	result of
+0.0380906469	an introductory physics course
+0.0380703599	the notion
+0.0380695941	the present work
+0.0379855560	tutorial on
+0.0379383482	to include
+0.0379042125	a web
+0.0377132188	principle of
+0.0375239256	learn from
+0.0375237024	an individual
+0.0374269751	a variety
+0.0374231219	to interpret
+0.0372501338	picture of
+0.0372214184	provided with
+0.0370893058	to integrate
+0.0370787625	moment of
+0.0370578906	corrections to
+0.0370292702	involved in
+0.0367457871	dependence of
+0.0367323720	to compute
+0.0366673276	a clear
+0.0366656027	context of
+0.0366382645	the type of
+0.0365846330	three different
+0.0365814866	an initial
+0.0363425578	obtained from
+0.0363155315	education at
+0.0362712718	to engage
+0.0362662340	to encourage
+0.0362152955	an early
+0.0362144843	to learn about
+0.0362111930	a strong
+0.0361788038	to probe
+0.0361739906	access to
+0.0361458197	interpretation of
+0.0360570349	history of
+0.0360486613	needed to
+0.0360241795	with respect
+0.0360234720	help students
+0.0358734708	the purpose of
+0.0357260443	the role of
+0.0357132188	aim of
+0.0357099318	majors at
+0.0356947351	enrolled in
+0.0356924010	period of
+0.0356225580	to follow
+0.0353275382	ownership of
+0.0353179969	in contrast
+0.0349625340	introduced by
+0.0348776862	to derive
+0.0348009441	to achieve
+0.0347833723	a black
+0.0347260443	the context of
+0.0347192721	derivation of
+0.0346278991	the existence
+0.0345814615	to compare
+0.0344440766	aware of
+0.0343065923	separation of
+0.0343045543	working with
+0.0342773695	a comparison
+0.0341568611	used to
+0.0340346676	a sample
+0.0337988194	better understanding of
+0.0337966166	this information
+0.0337598216	relative to
+0.0336817145	model for
+0.0336482142	observation of
+0.0336435109	classes at
+0.0336214218	to incorporate
+0.0335940934	an overview of
+0.0334235946	contact with
+0.0333560279	to establish
+0.0331377233	a summer
+0.0330343560	a wide
+0.0330018639	participated in
+0.0329589243	representations of
+0.0328813544	light on
+0.0328530242	to learn from
+0.0328028340	effect of
+0.0327990843	and magnetism
+0.0326848443	or even
+0.0326311313	a method for
+0.0325913846	to categorize
+0.0324545859	a short
+0.0322902771	this effect
+0.0322812043	conservation of
+0.0322681285	the implementation of
+0.0322555682	proof of
+0.0322079247	influence of
+0.0320244337	fundamentals of
+0.0320055975	to prepare
+0.0319887624	a subset
+0.0319677443	a suite of
+0.0319504646	to help
+0.0319280889	effort to
+0.0319269718	amount of
+0.0317812452	this topic
+0.0317633738	an open
+0.0316332816	an easy
+0.0314271647	encountered in
+0.0313338715	known as
+0.0312926498	the presence of
+0.0311848145	a tool for
+0.0311837351	to conduct
+0.0311681514	range of
+0.0310974310	measurement of
+0.0310671456	well as
+0.0310292702	accessible to
+0.0309391179	equation for
+0.0309155548	a function of
+0.0307821983	provided by
+0.0307021892	the influence of
+0.0306320595	built in
+0.0306113730	literature on
+0.0305641416	tried to
+0.0304679290	to deal
+0.0303125418	an active
+0.0302866205	role in
+0.0302200810	not only for
+0.0302002614	outcomes from
+0.0300866738	to overcome
+0.0300858423	this area
+0.0299803849	the development of
+0.0298389420	use of
+0.0297973240	perception of
+0.0297753560	this result
+0.0297528406	basis for
+0.0296473283	this context
+0.0296423856	to focus
+0.0296220066	information on
+0.0294988416	likely to
+0.0294275735	means of
+0.0294205941	to draw
+0.0294069534	respect to
+0.0293708246	this case
+0.0293470995	a period of
+0.0293046791	suggestions for
+0.0292637407	presence of
+0.0292349517	center of
+0.0292225602	to complete
+0.0291206050	summary of
+0.0291012228	to observe
+0.0290386655	to answer
+0.0289755386	for example
+0.0289392354	to use
+0.0288098656	series of
+0.0287867203	a deep
+0.0287864895	difference in
+0.0287755974	also found
+0.0285264242	an understanding of
+0.0285137079	a review of
+0.0285102036	comparison with
+0.0284854357	the help of
+0.0284720660	a valuable
+0.0283528219	to construct
+0.0283265331	a study of
+0.0283265331	and implementation of
+0.0283016184	objective of
+0.0282884878	this type
+0.0282866205	sense of
+0.0282839686	two different
+0.0281767879	the same time
+0.0281465683	to highlight
+0.0280776873	to reduce
+0.0280666190	same time
+0.0280411665	working on
+0.0279404479	the center of
+0.0277593775	this resource
+0.0277518724	to facilitate
+0.0276673662	familiar with
+0.0275581050	consequence of
+0.0274929301	the result of
+0.0272884878	this short
+0.0272274444	framework for
+0.0272054258	to engage in
+0.0271891245	the connection between
+0.0271281131	the amount of
+0.0270939165	placed on
+0.0270489884	notion of
+0.0270345583	a series of
+0.0270339648	an analysis of
+0.0269673901	to foster
+0.0269313960	to estimate
+0.0268717408	calculation of
+0.0268304888	equity in
+0.0267616939	used in
+0.0267424942	the beginning of
+0.0265291614	made by
+0.0264976968	goal of
+0.0264405674	a few
+0.0264138022	the extent to
+0.0263766510	conclude with
+0.0262804708	difficulty in
+0.0262787862	kind of
+0.0262364041	existence of
+0.0262194280	component of
+0.0261832166	the motion of
+0.0261140174	the impact of
+0.0259409431	this review
+0.0259379975	as well
+0.0257738120	this report
+0.0256743783	the principle of
+0.0256423856	the purpose
+0.0255083192	the validity of
+0.0254640174	the effect of
+0.0254454988	the end of
+0.0254053940	a lot
+0.0253875790	form of
+0.0253226786	a result of
+0.0252832895	the relationship between
+0.0252332201	the possibility of
+0.0252021931	advantage of
+0.0250484896	realization of
+0.0250226443	interaction with
+0.0249982114	shift in
+0.0249930637	to think
+0.0249549224	absence of
+0.0248882573	engaged in
+0.0248627458	spectrum of
+0.0247595635	the importance of
+0.0247263081	effect on
+0.0247171936	relevant to
+0.0246772320	axis of
+0.0246747713	to deal with
+0.0245313147	estimate of
+0.0244444354	to express
+0.0244372598	the reader
+0.0244227677	the discussion of
+0.0244106299	identification of
+0.0243653983	to motivate
+0.0243382417	a way to
+0.0243378557	the lack of
+0.0243340733	the basis of
+0.0241952087	the value of
+0.0241495996	terms of
+0.0241247716	the origin of
+0.0241228994	together with
+0.0241206683	representation of
+0.0241121369	structure of
+0.0241009897	to meet
+0.0240815701	support for
+0.0240252411	part of
+0.0239982115	engage in
+0.0239722938	method for
+0.0239126462	a lack of
+0.0237699091	a novel
+0.0236829494	the formation of
+0.0236566173	case for
+0.0236446340	far from
+0.0236371740	in addition to
+0.0236338115	categorization of
+0.0235658747	used as
+0.0235404078	designed for
+0.0235355544	increase in
+0.0234444457	a powerful
+0.0234412685	coefficient of
+0.0234111628	approach for
+0.0231116809	the aim of
+0.0230617509	validity of
+0.0229664757	a majority of
+0.0229291454	mechanism for
+0.0229205384	a framework for
+0.0228930194	a discussion of
+0.0228423570	coupled with
+0.0228005813	influence on
+0.0226701322	order to
+0.0226542590	the structure of
+0.0226089875	means for
+0.0225983743	to find
+0.0225936426	example from
+0.0224768377	the absence of
+0.0224745238	angle of
+0.0224443647	an example of
+0.0224064480	the ability to
+0.0224035433	a sequence of
+0.0223766510	proposal for
+0.0223670224	the evolution of
+0.0223341483	to connect
+0.0222984936	different from
+0.0222558118	the relevance of
+0.0221997719	utility of
+0.0221377844	a model for
+0.0221316179	intended for
+0.0220768366	difficult to
+0.0220746036	need to
+0.0220481384	placed in
+0.0220159396	aimed to
+0.0220009259	the nature of
+0.0219823808	quality of
+0.0219603895	type of
+0.0218027063	given at
+0.0217915436	the creation of
+0.0216527641	an opportunity to
+0.0216411971	the objective of
+0.0216370618	the notion of
+0.0216183868	gains on
+0.0215824792	prior to
+0.0214851507	the behavior of
+0.0214345804	the gap between
+0.0213595489	a combination of
+0.0213487089	formation of
+0.0213346086	the number of
+0.0213212982	basics of
+0.0212829060	to examine
+0.0212525177	instrument for
+0.0212444887	possibility to
+0.0212070328	discussed in
+0.0211693969	first course
+0.0211574366	a brief
+0.0210203012	usefulness of
+0.0210027007	the goal of
+0.0209536877	limit of
+0.0209228598	the quality of
+0.0208931888	program for
+0.0208410793	a lack
+0.0208033367	a range of
+0.0207504548	application of
+0.0207443232	feature of
+0.0207427948	origin of
+0.0207345804	the second part
+0.0206115569	impact of
+0.0206027630	implemented in
+0.0205907745	analyzed to
+0.0205798165	collaboration with
+0.0205177806	the difference between
+0.0205170147	attention to
+0.0204709185	the need to
+0.0203858915	implementation of
+0.0203709944	course at
+0.0203248490	the existence of
+0.0203193420	participating in
+0.0202700225	interactions with
+0.0202646069	area of
+0.0201770562	similar to
+0.0201162663	function of
+0.0201004098	the form of
+0.0200736075	required for
+0.0200628024	led to
+0.0200538877	introduced to
+0.0199552231	presentation of
+0.0199155479	the need for
+0.0198987144	value of
+0.0198967275	strength of
+0.0198557825	to allow
+0.0197794865	the application of
+0.0197400032	to describe
+0.0197032810	regard to
+0.0196696397	shown to
+0.0196559301	experience with
+0.0195739488	advances in
+0.0195334526	way to
+0.0194523575	role of
+0.0194467957	consideration of
+0.0194185015	administration of
+0.0194053025	done by
+0.0194002468	the majority of
+0.0193967005	administered to
+0.0193650933	intended to
+0.0193190475	evolution of
+0.0192601098	developed for
+0.0191996174	lot of
+0.0191678932	to do
+0.0191574412	lead to
+0.0191130465	explanation for
+0.0190901169	along with
+0.0190852843	contribute to
+0.0190200906	the construction of
+0.0190039091	combination of
+0.0189976236	creation of
+0.0189937617	used for
+0.0189378764	the first time
+0.0188611371	availability of
+0.0188248525	definition of
+0.0188042056	the last
+0.0187101231	close to
+0.0186139275	discussion of
+0.0185889765	to make
+0.0185864100	linked to
+0.0185837475	addition to
+0.0185164445	the opportunity to
+0.0185037344	explanation of
+0.0184912276	variation of
+0.0184710871	expressions for
+0.0184710871	reasons for
+0.0184620566	a number of
+0.0184479254	appreciation of
+0.0184116458	persistence in
+0.0183639177	expertise in
+0.0182564380	an investigation of
+0.0182199322	feedback on
+0.0181973507	the effectiveness of
+0.0181644067	needed for
+0.0180435747	to show
+0.0180148889	required to
+0.0180115513	importance of
+0.0179396032	shape of
+0.0178859332	behavior of
+0.0178852853	given by
+0.0177545804	the first part
+0.0177119890	relevance of
+0.0177114215	important for
+0.0177035898	reason for
+0.0176469686	basis of
+0.0175316170	account for
+0.0175316170	opportunity for
+0.0175077234	described by
+0.0174526753	competence in
+0.0174356243	to account for
+0.0172861174	magnitude of
+0.0172747501	participate in
+0.0171681511	appropriate for
+0.0170955572	to look
+0.0170813494	connected to
+0.0170694744	useful for
+0.0170217056	a good
+0.0169579541	significance of
+0.0169072423	performed with
+0.0168732424	to get
+0.0168405756	conducted with
+0.0167564031	improvement in
+0.0167055931	ratio of
+0.0166796791	comparable to
+0.0163952858	reduction of
+0.0162434438	outside of
+0.0161107804	exploration of
+0.0160944984	used by
+0.0159808086	alternative to
+0.0159751613	purpose of
+0.0158241821	preparation for
+0.0156500637	analogous to
+0.0154803561	opportunity to
+0.0154109423	included in
+0.0151620938	helpful in
+0.0150307215	investigation of
+0.0150172105	extended to
+0.0149543091	sequence of
+0.0149103687	appear in
+0.0148877087	interest in
+0.0148815573	behaviour of
+0.0147872072	evidence for
+0.0146392559	instead of
+0.0146321063	taken by
+0.0144490574	to take
+0.0144029267	students need
+0.0143053736	fraction of
+0.0142938219	addressed to
+0.0141631312	adoption of
+0.0141075796	covered in
+0.0140952417	this way
+0.0139795934	in detail
+0.0139634802	construction of
+0.0138618507	operation of
+0.0138398734	overview of
+0.0136681380	to move
+0.0133572210	participation in
+0.0133360033	a whole
+0.0133346088	to see
+0.0132490861	example of
+0.0132490438	back to
+0.0132308487	to become
+0.0131441264	an appropriate
+0.0130948528	resource for
+0.0130710449	expected to
+0.0130354092	extension of
+0.0129553936	treatment of
+0.0128725229	necessary to
+0.0128118513	studied in
+0.0127874791	benefit of
+0.0126771210	suite of
+0.0125492100	allows for
+0.0122888589	need for
+0.0121477998	to consider
+0.0119919190	to know
+0.0117666458	retention of
+0.0116892559	to give
+0.0115377115	assumption of
+0.0113921760	step in
+0.0113176983	possible to
+0.0111812832	necessary for
+0.0110952288	possibility of
+0.0110894465	corresponding to
+0.0109149159	available for
+0.0106177115	addressed in
+0.0102514157	even for
+0.0100913070	allow for
+0.0097666108	the latter
+0.0097662809	effectiveness of

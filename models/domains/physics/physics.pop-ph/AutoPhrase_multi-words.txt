@@ -1,0 +1,728 @@
+0.9924629644	ettore majorana
+0.9915027962	enrico fermi
+0.9910425623	united nations
+0.9897514052	fermi paradox
+0.9896688190	monte carlo
+0.9891384009	united states
+0.9889845666	dark matter
+0.9887382018	warp drive
+0.9877874981	bronze age
+0.9877830384	dark energy
+0.9877292712	extraterrestrial intelligence
+0.9870954637	gravitational wave
+0.9863189460	special relativity
+0.9859863379	anthropic principle
+0.9857587486	benford's law
+0.9857043841	albert einstein
+0.9849312434	artificial intelligence
+0.9847991573	general relativity
+0.9839615110	nuclear energy
+0.9837371885	big bang
+0.9836668168	wave function
+0.9834579136	citizen science
+0.9816214559	brownian motion
+0.9810703953	quantum gravity
+0.9807151513	cosmological constant
+0.9805359331	complex systems
+0.9796128314	higgs boson
+0.9794735896	particle physics
+0.9792814354	quantum mechanics
+0.9787295444	string theory
+0.9782816684	extraterrestrial life
+0.9769828068	nobel prize
+0.9765779269	interstellar travel
+0.9759006015	drake equation
+0.9757653125	classical mechanics
+0.9752679473	neutron stars
+0.9731364277	high school
+0.9724449128	habitable zone
+0.9716217542	uncertainty principle
+0.9680430711	quantum field theory
+0.9677082515	global warming
+0.9660148830	theoretical physics
+0.9653985952	black holes
+0.9627638252	solar wind
+0.9621300042	black hole
+0.9615684853	bell's theorem
+0.9577187505	magnetic field
+0.9555318436	large hadron collider
+0.9526157507	elementary particle
+0.9521609097	relativity theory
+0.9512616306	field theory
+0.9501646382	differential equations
+0.9498524360	fermi's paradox
+0.9498326167	quantum entanglement
+0.9491003024	drag coefficients
+0.9479178331	climate change
+0.9479161551	transactional interpretation
+0.9422377880	nuclear physics
+0.9374598156	quantum mechanical
+0.9367448462	relativistic effects
+0.9367410998	gravitational waves
+0.9346104401	twin paradox
+0.9330606444	power law
+0.9319551208	quantum theory
+0.9313135837	electric field
+0.9292262118	science fiction
+0.9232146047	type iii
+0.9210850667	extra terrestrial
+0.9102652133	interstellar probes
+0.9088807577	kinetic energy
+0.9087297488	blast waves
+0.9051417106	interstellar communication
+0.9034303207	elementary particles
+0.9027878249	standard model
+0.9023421620	gravitational field
+0.9011000092	open source
+0.8914614692	plastic tipped
+0.8911532630	classical physics
+0.8887706203	intelligent life
+0.8829902870	` `
+0.8816389280	high speed
+0.8808065154	quantum physics
+0.8806294788	recent advances
+0.8797675766	extraterrestrial civilizations
+0.8779419835	long term
+0.8776865974	space exploration
+0.8758241679	hot water
+0.8714934694	billion years
+0.8701449076	low cost
+0.8686016679	19th century
+0.8675304027	expanding universe
+0.8667436859	ice adhesion
+0.8655606452	large scale
+0.8575336149	advanced civilization
+0.8561493281	human space
+0.8544104754	search for extraterrestrial intelligence
+0.8542556851	introductory physics
+0.8530675823	wide range
+0.8524956414	uniform density
+0.8523861960	years ago
+0.8489902152	high level
+0.8479521983	interstellar exploration
+0.8450375369	nuclear power
+0.8412931312	general theory
+0.8402806895	undergraduate students
+0.8338769084	hadron collider
+0.8315129369	initial conditions
+0.8247951490	large hadron
+0.8125775071	quantum information
+0.8115448471	quantum field
+0.8112718464	planetary systems
+0.7984883043	modern physics
+0.7935072577	scientific community
+0.7882493671	simple model
+0.7778142939	parameter space
+0.7737290359	scientific research
+0.7652432978	real world
+0.7648643059	physical principles
+0.7552948192	basic concepts
+0.7534693849	x ray
+0.7512990978	modern science
+0.7511516771	analysis shows
+0.7495669186	high energy
+0.7487240147	paper presents
+0.7469472437	experimental data
+0.7423381800	paper describes
+0.7121654674	experimental results
+0.7072056034	physical world
+0.7036709795	recent years
+0.7032254771	self replicating
+0.6985638423	school students
+0.6981260962	energy sources
+0.6967329078	center of mass
+0.6693257562	physics students
+0.6675321471	large number
+0.6660063658	article describes
+0.6579586900	general public
+0.6450120073	covid 19
+0.6364550092	fundamental physics
+0.5970810353	at large
+0.5932536396	physics in films
+0.5835743546	the golf swing
+0.5773628161	the golf club
+0.5676356353	law of thermodynamics
+0.5638730530	search for extraterrestrial
+0.5358075865	point of view
+0.5245339417	equation of motion
+0.5205913176	present paper
+0.5165585901	interpretation of quantum
+0.5123283061	theory of relativity
+0.5074974425	the fermi paradox
+0.4971753336	laws of physics
+0.4933308205	speed of light
+0.4855943582	the big bang
+0.4763606114	solar system
+0.4718988628	this article describes
+0.4417896920	the large hadron collider
+0.4260829889	near term
+0.4248342036	milky way
+0.4223694114	et al
+0.3993641236	time dilation
+0.3988702821	a black hole
+0.3949568573	the drake equation
+0.3865373656	\ textrm
+0.3857799051	the higgs boson
+0.3835318030	^ \ circ
+0.3807363974	this paper presents
+0.3786044186	$ \ sim
+0.3758019927	km s
+0.3746618160	\ mu
+0.3693353454	\ rm
+0.3682368119	the golden
+0.3653686449	^ 2
+0.3596632042	free will
+0.3535574253	\ delta
+0.3486672396	\ sim
+0.3468689804	three dimensional
+0.3398025764	few decades
+0.3347659605	the habitable zone
+0.3314314524	for extraterrestrial intelligence
+0.3294838219	this paper describes
+0.3215273376	so called
+0.3194568975	the quantum theory
+0.3187681782	second law
+0.3098039465	a simple model
+0.2991377578	large number of
+0.2973455501	+ 1
+0.2947163663	\ emph
+0.2938626970	two dimensional
+0.2828452317	^ 1
+0.2799030680	the large hadron
+0.2798650192	well defined
+0.2777545461	\ `
+0.2776882498	insight into
+0.2761366976	\ pi
+0.2754726004	$ \ delta
+0.2661100463	the present paper
+0.2649692440	the standard model
+0.2625552084	general theory of
+0.2609050068	of quantum theory
+0.2606247113	into account
+0.2584916485	schr \
+0.2573952648	the second law
+0.2559503123	the long term
+0.2522142321	divided into
+0.2508829147	at cern
+0.2468211121	$ 10
+0.2431948876	faster than
+0.2402166065	few years
+0.2392602207	of quantum mechanics
+0.2388063364	relationship between
+0.2375264499	an introduction
+0.2370795040	10 ^
+0.2348697827	an interstellar
+0.2338063846	years after
+0.2337137612	standard model of
+0.2331266827	larger than
+0.2299443479	time travel
+0.2283727372	$ ^ 2
+0.2281414856	new approach
+0.2262666264	an astronomical
+0.2261526829	\ em
+0.2260836353	a message
+0.2249360452	and outreach
+0.2239218480	in spite
+0.2213762529	the general public
+0.2201753840	connection between
+0.2196324230	the speed of light
+0.2189434922	an average
+0.2175520061	space and time
+0.2167338256	greater than
+0.2137469184	~ \
+0.1997477477	100 years
+0.1954793870	life elsewhere
+0.1943657158	arrow of time
+0.1881250520	depending on
+0.1854034889	differences between
+0.1844918341	relation between
+0.1832910680	an experiment
+0.1802120003	the planck
+0.1793350821	space time
+0.1769837345	a flat
+0.1761851822	difference between
+0.1741813733	relations between
+0.1739381216	$ m
+0.1737541392	an interesting
+0.1734972849	doing so
+0.1728771805	one dimensional
+0.1720734754	even though
+0.1710897467	most common
+0.1697151895	at rest
+0.1685968158	accounting for
+0.1660186607	depends on
+0.1652251858	this article
+0.1627138068	most important
+0.1615952629	the shadow
+0.1603119691	the twin
+0.1559065259	$ 10 ^
+0.1557337380	referred to as
+0.1542886245	the validity
+0.1541072813	the universe
+0.1530064309	in rome
+0.1528558939	a bayesian
+0.1526196302	this paper
+0.1516496401	well known
+0.1510080324	produced by
+0.1454399167	based on
+0.1446623059	to introduce
+0.1445580440	in situ
+0.1435042519	m s
+0.1423158376	rather than
+0.1416067569	less than
+0.1407539047	this essay
+0.1397067979	the muzzle
+0.1377797867	searching for
+0.1365372769	the center
+0.1364390234	the laws of physics
+0.1360728973	ranging from
+0.1360300114	a quantitative
+0.1346666645	several years
+0.1345691419	the higgs
+0.1340159969	focused on
+0.1333125112	not yet
+0.1317617089	the earth
+0.1312291236	taking into
+0.1307146709	the sun
+0.1298331297	very simple
+0.1289976783	this note
+0.1288137639	relies on
+0.1281284977	$ ^
+0.1273108646	consistent with
+0.1260376806	to promote
+0.1259852326	the simulation
+0.1257603466	spite of
+0.1243111104	this case
+0.1240940450	an experimental
+0.1239629842	the other hand
+0.1228999993	this experiment
+0.1228683933	a pedagogical
+0.1227434188	long time
+0.1223252872	the site
+0.1220729500	to observe
+0.1217683160	life on
+0.1210155183	the moon
+0.1207075461	does not
+0.1206696071	this method
+0.1193406878	do not
+0.1187025804	hands on
+0.1183242214	search for
+0.1154153598	equation for
+0.1137273439	time period
+0.1137001296	this result
+0.1124986156	a critical
+0.1123730868	an overview
+0.1120834791	comment on
+0.1115332959	a short
+0.1100538704	$ n
+0.1097026646	second part
+0.1096152384	the era of
+0.1087501646	^ \
+0.1082465693	a review
+0.1076710802	aimed at
+0.1076415697	for instance
+0.1073511911	to determine
+0.1066944858	an important
+0.1065090095	information about
+0.1063455434	also discussed
+0.1059967009	on earth
+0.1054876724	to create
+0.1044909119	an alternative
+0.1040946913	other planets
+0.1036774806	a star
+0.1034338622	serve as
+0.1033770906	starting from
+0.1032319321	these results
+0.1031995775	more than
+0.1029735884	an explanation
+0.1028168681	a simple
+0.1026338798	an object
+0.1021465351	focus on
+0.1019966707	at least
+0.1012276194	representation of
+0.0987145830	the most important
+0.0981391726	so far
+0.0979140804	$ \
+0.0961769224	trying to
+0.0957226441	the sky
+0.0954939271	agreement with
+0.0953415535	most likely
+0.0952655876	formula for
+0.0951806737	this study
+0.0951393401	well as
+0.0950042271	the chain
+0.0937388490	a consequence
+0.0932160330	the theory of
+0.0930951632	the lhc
+0.0929247344	other hand
+0.0925805996	from earth
+0.0925691075	$ c
+0.0925052039	to bring
+0.0924453076	the ball
+0.0924324208	to reach
+0.0922691287	depend on
+0.0917110250	a single
+0.0915173721	this problem
+0.0910856395	motivated by
+0.0909708982	the golf
+0.0902853680	responsible for
+0.0894053539	to derive
+0.0881375573	an effective
+0.0880732439	a new
+0.0873215578	observed by
+0.0871439421	the solar system
+0.0867855867	proportional to
+0.0867309308	the slinky
+0.0859544152	to explain
+0.0855061160	two different
+0.0853111281	this model
+0.0850664609	also discuss
+0.0846549671	the ultimate
+0.0844723137	each other
+0.0844414125	in turn
+0.0841574326	searches for
+0.0840863779	the most common
+0.0839085619	the double
+0.0824366129	an accuracy
+0.0819338046	an elementary
+0.0818744918	explanation for
+0.0812097275	or more
+0.0811382097	the milky way
+0.0808473859	contact with
+0.0799676919	strength of
+0.0796481377	to provide
+0.0793025237	a detailed
+0.0789596111	this chapter
+0.0785619658	live in
+0.0783000300	understanding of
+0.0778952543	couple of
+0.0777219954	consequence of
+0.0754183609	the beginning
+0.0752050617	the red
+0.0746716839	to address
+0.0743005483	measured by
+0.0737390367	the fermi
+0.0724196378	analysis of
+0.0716315963	the center of
+0.0712293191	impact on
+0.0711935626	this approach
+0.0710607200	to avoid
+0.0709806970	capable of
+0.0706802614	the equation of
+0.0706421892	a universal
+0.0699592486	the highest
+0.0699379686	to learn
+0.0687777602	combined with
+0.0687448203	to generate
+0.0686802614	the point of
+0.0682485336	an attempt
+0.0681573326	the effects of
+0.0676428479	to perform
+0.0673522528	periods of
+0.0672343347	to analyze
+0.0671140127	formulation of
+0.0670194676	by means
+0.0667258950	the multiverse
+0.0666922594	derived from
+0.0662851102	the absence of
+0.0661198472	followed by
+0.0660337570	to calculate
+0.0658959848	did not
+0.0654812217	with respect
+0.0654019677	in fact
+0.0649925450	between two
+0.0646497848	to clarify
+0.0646405831	the era
+0.0646315963	an example of
+0.0636428479	to answer
+0.0633761564	introduction to
+0.0630467032	to understand
+0.0629390879	not only
+0.0629195201	suitable for
+0.0629133917	a rotating
+0.0623819437	to resolve
+0.0622914735	but rather
+0.0621862662	to illustrate
+0.0621536541	likelihood of
+0.0620654890	even if
+0.0618244721	model for
+0.0618211680	inspired by
+0.0617315388	the appearance of
+0.0616392220	a factor
+0.0614403848	obtained by
+0.0613609103	the greatest
+0.0611838058	the number of
+0.0610618712	according to
+0.0610103767	difference in
+0.0609892220	to compare
+0.0609003476	look at
+0.0604799224	theory of
+0.0602546097	able to
+0.0599421015	to develop
+0.0598124378	dependent on
+0.0597008327	to achieve
+0.0592669833	determined by
+0.0589100037	with respect to
+0.0586199390	considered as
+0.0585507489	to investigate
+0.0584327710	associated with
+0.0581736186	driven by
+0.0580117123	much more
+0.0579195150	first part
+0.0577084026	to build
+0.0576469281	the order of
+0.0575193933	the first time
+0.0574330892	different from
+0.0573522208	number of
+0.0573115833	in addition
+0.0571549588	the beginning of
+0.0568027570	this report
+0.0567386996	to predict
+0.0561723250	the lowest
+0.0561373298	a novel
+0.0556469281	the surface of
+0.0551133515	a brief
+0.0547994664	description of
+0.0547264306	stability of
+0.0536879691	method for
+0.0536764590	due to
+0.0536469281	the geometry of
+0.0535852808	compared with
+0.0533102677	a function of
+0.0532581254	the existence of
+0.0529952558	the drake
+0.0527428371	an example
+0.0523602677	in terms of
+0.0523176076	to solve
+0.0521169161	led to
+0.0518969281	the question of
+0.0518474113	to evaluate
+0.0509616594	comparison with
+0.0508599928	to date
+0.0506853896	the law of
+0.0505231979	introduced by
+0.0502342357	to increase
+0.0500400226	absence of
+0.0500269343	in order to
+0.0499538723	an analysis of
+0.0498969281	the ratio of
+0.0498895102	light on
+0.0498600379	but also
+0.0497690329	the origin of
+0.0496853896	the time of
+0.0496469281	the rate of
+0.0496469281	the evolution of
+0.0496469281	the mass of
+0.0495120396	account for
+0.0494535717	fraction of
+0.0493395347	provided by
+0.0492933371	as well as
+0.0491457600	such as
+0.0490227406	work on
+0.0488969281	the construction of
+0.0479045533	referred to
+0.0478312643	lack of
+0.0477873355	the simplest
+0.0477520049	to identify
+0.0474219281	the framework of
+0.0470721034	constraints on
+0.0469727531	approach to
+0.0468969281	the nature of
+0.0468969281	the purpose of
+0.0468777474	the late
+0.0467236713	the emergence of
+0.0466853896	the speed of
+0.0466469281	the discovery of
+0.0461842387	used by
+0.0458969281	the size of
+0.0456469281	the motion of
+0.0456469281	the physics of
+0.0455822906	the search for
+0.0455184652	leading to
+0.0454219281	the value of
+0.0454219281	the help of
+0.0454219281	the direction of
+0.0453287468	connection with
+0.0452969281	the performance of
+0.0452969281	the principle of
+0.0448969281	the probability of
+0.0448157483	variety of
+0.0447731080	to measure
+0.0446719281	the goal of
+0.0446469281	the history of
+0.0445205836	to detect
+0.0443954248	or not
+0.0443423182	defined by
+0.0442969281	the context of
+0.0442969281	the distribution of
+0.0442969281	the study of
+0.0442249487	a finite
+0.0442066450	made by
+0.0441051771	to search for
+0.0439802630	to improve
+0.0438969281	the effect of
+0.0438484498	evaluation of
+0.0437681541	along with
+0.0437048231	the nearest
+0.0436719281	the university of
+0.0436469281	the problem of
+0.0433079727	a series of
+0.0432969281	the age of
+0.0432969281	a way to
+0.0430866238	to demonstrate
+0.0429923908	the second law of
+0.0428969281	the use of
+0.0427745188	the presence of
+0.0427581254	the concept of
+0.0426469281	the case of
+0.0426310430	the amount of
+0.0424337486	the lack of
+0.0420302680	sort of
+0.0415449146	to define
+0.0413464738	to obtain
+0.0412969281	the field of
+0.0412715194	status of
+0.0411923456	far from
+0.0411258460	by means of
+0.0410165742	origin of
+0.0409788187	the reader
+0.0409006748	predicted by
+0.0408785304	allow for
+0.0408114785	difficult to
+0.0407544421	respect to
+0.0406394209	relative to
+0.0404219281	the formation of
+0.0404219281	a set of
+0.0404219281	the idea of
+0.0403874099	but not
+0.0402969281	the possibility of
+0.0398387558	validity of
+0.0396719629	intended to
+0.0396258542	derivation of
+0.0394112228	to estimate
+0.0393300921	away from
+0.0393263399	a range of
+0.0392969281	a system of
+0.0391967122	allows for
+0.0390140895	version of
+0.0390067139	required for
+0.0386719281	the role of
+0.0386719281	the end of
+0.0384219281	the form of
+0.0383248365	report on
+0.0382969281	the basis of
+0.0382969281	the aim of
+0.0382781002	sequence of
+0.0381235669	in contrast
+0.0381009942	attempt to
+0.0380777999	this work
+0.0380237783	known as
+0.0380065194	similar to
+0.0374021662	as well
+0.0373681902	contrary to
+0.0371331254	the development of
+0.0369764625	an accuracy of
+0.0367144214	the appearance
+0.0365850420	the author
+0.0362087154	or even
+0.0360067986	very different
+0.0359376663	evidence for
+0.0353216334	or less
+0.0352647956	needed to
+0.0352120180	together with
+0.0351548372	a broad
+0.0350423338	a variety of
+0.0349025796	to produce
+0.0344729599	tool for
+0.0342750340	involved in
+0.0341663497	to test
+0.0338937802	second law of
+0.0338613243	to construct
+0.0333868188	framework for
+0.0333053851	a viable
+0.0332714515	tried to
+0.0332353745	accessible to
+0.0328033339	subject to
+0.0327697501	an introduction to
+0.0319781482	the largest
+0.0318853479	close to
+0.0318151350	given by
+0.0317859295	overview of
+0.0310378576	to explore
+0.0309486929	combination of
+0.0306976747	to account for
+0.0305205245	collection of
+0.0303606996	the future of
+0.0301314970	a number of
+0.0300620411	basis for
+0.0300430107	depth of
+0.0297057223	identification of
+0.0296575969	necessary to
+0.0296420175	order to
+0.0290680182	to see
+0.0286901175	as part
+0.0285931854	the importance of
+0.0283582658	a wide
+0.0282976747	in spite of
+0.0272389499	ability to
+0.0267781002	investigation of
+0.0267624979	response to
+0.0263691035	existence of
+0.0259555614	the milky
+0.0258246105	studied in
+0.0258001300	appearance of
+0.0256258069	significance of
+0.0255353745	attention to
+0.0249734889	rise to
+0.0245857191	described by
+0.0244058074	used as
+0.0244007697	the united
+0.0235256001	accuracy of
+0.0234558970	appear in
+0.0233729066	for example
+0.0232916707	interested in
+0.0232118808	the inverse
+0.0229382636	enough to
+0.0226185450	presence of
+0.0226035305	to allow
+0.0225395142	era of
+0.0224780281	in order
+0.0217315109	part of
+0.0217110366	notion of
+0.0216592576	equal to
+0.0215266592	concept of
+0.0215058714	to make
+0.0214803019	useful for
+0.0214312635	an old
+0.0212436990	importance of
+0.0210012747	emergence of
+0.0208061990	center of
+0.0207979678	as part of
+0.0205486692	the best
+0.0203360960	in addition to
+0.0200774882	the former
+0.0200277736	need for
+0.0199563717	lot of
+0.0196394209	dependence of
+0.0195266592	development of
+0.0193884029	of everything
+0.0193682311	occurrence of
+0.0189793422	conception of
+0.0188686990	applied to
+0.0185205245	array of
+0.0185103912	a few
+0.0180199912	variability of
+0.0178596125	prior to
+0.0175393261	beginning of
+0.0167036543	extension of
+0.0163374108	to get
+0.0152416227	corresponding to
+0.0149731696	in detail
+0.0147519136	lead to
+0.0145016072	amount of
+0.0135282422	necessary for
+0.0131606080	possible to
+0.0125850119	to help
+0.0124312403	need to
+0.0096487854	likely to
+0.0094652042	alternative to

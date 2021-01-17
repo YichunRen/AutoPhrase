@@ -1,0 +1,2034 @@
+0.9623004360	hydrogen storage
+0.9558726024	ramachandran plot
+0.9542265231	magnetic moment
+0.9535822736	circular dichroism
+0.9531939988	carbon nanotube
+0.9515798799	polycyclic aromatic hydrocarbon
+0.9511187398	surface tension
+0.9509434393	noble gas
+0.9504963895	carbon nanotubes
+0.9488691501	water vapor
+0.9486496470	fermi gas
+0.9473459333	dipole moment
+0.9459366381	machine learning
+0.9437011756	kinetic energy
+0.9437002181	fourier transform
+0.9436572947	electron transfer
+0.9436233047	perturbation theory
+0.9424097344	density functional theory
+0.9411570911	phase transitions
+0.9394283327	monte carlo
+0.9381991910	electric fields
+0.9368424486	conical intersections
+0.9360892417	genetic algorithm
+0.9359450194	hyperfine structure
+0.9357676507	excited state
+0.9357039207	hydrogen atom
+0.9356507006	laser ablation
+0.9342250921	bound state
+0.9335287471	configuration interaction
+0.9333995979	global optimization
+0.9332829120	extreme ultraviolet
+0.9319546782	quantum mechanical
+0.9317807073	exchange interaction
+0.9315965176	elastic scattering
+0.9304092970	molecular dynamics
+0.9296555176	ab initio
+0.9293024477	wave function
+0.9276928062	carbon dioxide
+0.9274017374	quantum mechanics
+0.9258368817	electric field
+0.9249266109	steady state
+0.9249046060	storage ring
+0.9242463829	quantum monte carlo
+0.9221036255	ground state
+0.9214820181	radiation damage
+0.9198652875	harmonic oscillator
+0.9194878671	electron affinity
+0.9186705509	magnetic field
+0.9186571973	symmetry breaking
+0.9181455254	van der waals
+0.9178890025	optimal control
+0.9175613169	quantum dot
+0.9172392774	electronic structure
+0.9160968038	effective field theory
+0.9160397527	coupled cluster
+0.9158104964	angular momentum
+0.9154065198	wave packet
+0.9153099499	phase diagram
+0.9144639952	phase space
+0.9139252563	differential equations
+0.9115609593	phase change
+0.9113180559	electric dipole
+0.9107846662	density matrix
+0.9093490887	charge transfer
+0.9087060345	band gap
+0.9080982356	bond length
+0.9076603161	specific heat
+0.9075006962	path integral
+0.9071916557	quantum chemistry
+0.9066204440	periodic table
+0.9065651827	hydrogen bond
+0.9064250032	point group
+0.9062225301	magnetic moments
+0.9061326842	quantum numbers
+0.9060640243	amino acids
+0.9051639615	nuclear physics
+0.9045529875	density functional
+0.9044601057	phase transition
+0.9030206250	magic numbers
+0.9018880717	room temperature
+0.9018079175	interatomic coulombic decay
+0.9011557044	nonlinear optical
+0.9008737151	diffusion monte carlo
+0.8993859789	scattering length
+0.8991099220	magnetic anisotropy
+0.8987835420	binding energies
+0.8980150336	multiply charged
+0.8959293788	transition metal
+0.8958384601	gold nanoclusters
+0.8958179466	leading order
+0.8944637803	global minima
+0.8938138064	helium droplets
+0.8936318777	linear response
+0.8936073194	scanning tunneling
+0.8927698969	binding energy
+0.8919932906	free electron laser
+0.8918429594	coulombic decay
+0.8908323971	fine structure
+0.8897427139	water dimer
+0.8889140649	symmetry adaptation
+0.8885336236	magnetic fields
+0.8873280208	power law
+0.8865337451	auger decay
+0.8857378276	radio frequency
+0.8851654337	vibrational modes
+0.8843442703	alkaline earth
+0.8838807969	force field
+0.8838167676	inelastic scattering
+0.8835861963	plane wave
+0.8830008383	helium nanodroplets
+0.8824396537	cross section
+0.8818826192	pulse duration
+0.8818419305	buffer gas
+0.8807409116	photon absorption
+0.8807198549	dipole moments
+0.8803034062	hydrogen bonds
+0.8800747855	quantum chemical
+0.8799531269	quantum dots
+0.8798848123	heat capacity
+0.8797771327	basis set
+0.8788409568	cross sections
+0.8782326199	free energy
+0.8781756949	laser pulse
+0.8755714581	photoabsorption spectra
+0.8755709545	gold nanoparticles
+0.8749375556	energy landscape
+0.8749101749	electron transport
+0.8742377683	jellium model
+0.8740823688	energy landscapes
+0.8731929044	energy transfer
+0.8728153946	bond lengths
+0.8726138451	alkali metal
+0.8721769100	oscillating tip
+0.8705749999	symmetry adapted
+0.8700391717	activation energy
+0.8699559257	circularly polarized
+0.8690924514	angular momenta
+0.8690845462	bound states
+0.8686851311	molecular orbitals
+0.8685765589	photoelectron spectra
+0.8678688063	electron diffraction
+0.8669511780	quantum state
+0.8667313700	scattering lengths
+0.8666608206	magnetic dipole
+0.8665753108	random phase approximation
+0.8665696727	high harmonic generation
+0.8663429408	proton transfer
+0.8661898879	functional theory
+0.8649019761	mass spectrometry
+0.8640672721	conical intersection
+0.8631269186	basis functions
+0.8629017050	metal clusters
+0.8618695104	giant resonances
+0.8613521476	molecular orbital
+0.8611664117	velocity map imaging
+0.8600453059	coherent control
+0.8598692975	minimum energy
+0.8594990222	double ionization
+0.8580646159	angular distributions
+0.8580322581	highly charged
+0.8578997636	force fields
+0.8575900643	sodium clusters
+0.8575477964	molecular dynamics simulation
+0.8571298050	superfluid helium
+0.8559829988	nearest neighbor
+0.8553796489	positive charge
+0.8548864916	hybrid functional
+0.8541021615	high precision
+0.8534699643	rare gas
+0.8532414521	infra red
+0.8526970838	doubly excited
+0.8523477234	wave functions
+0.8517357291	laser beam
+0.8515051282	hydrogen bonding
+0.8507292588	endohedral atoms
+0.8481735037	laser pulses
+0.8477682267	interstellar medium
+0.8475254889	path integral monte carlo
+0.8474601716	charge migration
+0.8470431384	basin hopping
+0.8463683505	probe pulse
+0.8459795589	molecular beam
+0.8453391850	force microscopy
+0.8451773459	quantum information
+0.8449355347	feshbach resonances
+0.8446665284	singles doubles
+0.8446077413	generalized gradient approximation
+0.8442730957	polar molecules
+0.8436971674	analytical expressions
+0.8436527774	photoelectron spectroscopy
+0.8432895776	supersonic slit jet
+0.8428782280	valence electrons
+0.8423295113	electron hole
+0.8417188588	feshbach resonance
+0.8414344029	laser intensities
+0.8413861731	electron impact
+0.8413515297	potential energy
+0.8412117779	electron affinities
+0.8411311552	diatomic molecules
+0.8410104048	diffractive imaging
+0.8406427359	weakly bound
+0.8402332360	confinement resonances
+0.8398129066	absorption spectroscopy
+0.8388661049	distribution function
+0.8378271684	external field
+0.8362369875	building blocks
+0.8358688924	medium sized
+0.8358688758	hydrogen bonded
+0.8356253263	carbon chains
+0.8354157978	potential energy surface
+0.8346947671	potential energy surfaces
+0.8331541471	polycyclic aromatic
+0.8331140904	local density approximation
+0.8330354664	liquid drop
+0.8326232649	doubly charged
+0.8320937024	infrared spectrum
+0.8310271954	hard core
+0.8302661219	strongly correlated
+0.8298220352	partial waves
+0.8297836770	aromatic hydrocarbons
+0.8294449857	` `
+0.8293174616	solid state
+0.8292542060	lowest energy
+0.8291958559	dipole plasmon
+0.8291186782	high resolution
+0.8287030710	monte carlo simulations
+0.8282935641	gas phase
+0.8282296553	electron capture
+0.8280978479	matrix elements
+0.8275804790	faddeev equations
+0.8273541219	orbital angular momentum
+0.8269038767	highest occupied
+0.8266932646	linearly polarized
+0.8264030529	induced transparency
+0.8262882063	molecular dynamics simulations
+0.8258557788	excited states
+0.8258400256	singly charged
+0.8252932279	electronically excited
+0.8249126873	highly accurate
+0.8240317340	semi classical
+0.8239170903	experimental observations
+0.8237286384	recently developed
+0.8228278145	transition state
+0.8225269900	intense laser
+0.8225171241	collective excitations
+0.8221611357	generalized gradient
+0.8219398660	thermodynamic properties
+0.8216740866	heat capacities
+0.8215553647	low temperature
+0.8213840447	vdw df
+0.8201564417	hybrid functionals
+0.8200918239	photon energies
+0.8191085717	basis sets
+0.8187725561	photoelectron angular
+0.8187330016	band structure
+0.8187079696	oscillator strengths
+0.8181144544	highly excited
+0.8175250782	low energy
+0.8174058087	mass ratio
+0.8166657909	open quantum
+0.8165748996	chiral response
+0.8156014601	electron density
+0.8154476793	exact exchange
+0.8149124712	enhanced ionization
+0.8147581539	diffraction patterns
+0.8138746853	coulomb explosion
+0.8138549394	para hydrogen
+0.8131855507	core hole
+0.8130139643	stabilized jellium
+0.8128924915	pz sic
+0.8127788076	finite temperature
+0.8116256089	absorption spectra
+0.8115804916	giant resonance
+0.8113641668	laser field
+0.8113451616	linear carbon chains
+0.8113422843	pump pulse
+0.8112660330	momentum distribution
+0.8110957890	boundary conditions
+0.8103378206	density functionals
+0.8089034558	absorption spectrum
+0.8087943354	quantum number
+0.8083491757	free space
+0.8075783996	theoretical predictions
+0.8071859436	intense laser pulses
+0.8071850725	structural transitions
+0.8071728955	single particle
+0.8068140798	chemical reactions
+0.8058556346	strong field
+0.8052286880	atomic scale
+0.8048548064	photoionization cross sections
+0.8037582755	thomas fermi
+0.8034774534	kcal mol
+0.8025739981	starting point
+0.8024113141	melting temperature
+0.8003053690	long lived
+0.8002651348	homo lumo
+0.7999790596	mass selected
+0.7999484712	computational cost
+0.7997589035	ionization potentials
+0.7994162066	wave packets
+0.7991293976	rydberg states
+0.7983168513	takes place
+0.7981703292	odinger equation
+0.7978753816	molecular frame
+0.7976977862	sympathetic cooling
+0.7975393944	forward backward
+0.7967577031	finite size
+0.7963122135	angular distribution
+0.7960462207	single photon
+0.7959247833	positively charged
+0.7958831821	infrared spectra
+0.7957688388	charged particles
+0.7955891798	coulomb interaction
+0.7955541414	range separated
+0.7955467254	born oppenheimer
+0.7955009607	size dependence
+0.7952651931	polyatomic molecules
+0.7946927224	global minimum
+0.7946052168	chirped laser pulses
+0.7944093158	silver clusters
+0.7929837742	short range
+0.7927864367	laser fields
+0.7922043366	low lying
+0.7921223937	low dimensional
+0.7918094210	rotational spectroscopy
+0.7905818229	single shot
+0.7901573054	alkali metal clusters
+0.7900917365	theoretical investigation
+0.7894281930	probe pulses
+0.7889462023	theoretical framework
+0.7887368145	linear optical absorption
+0.7867951504	quantum interference
+0.7862514528	stark decelerator
+0.7851764868	photoionization cross section
+0.7851709491	vacuum ultraviolet
+0.7847916651	spin orbit
+0.7846604539	femtosecond laser pulses
+0.7838583395	total angular momentum
+0.7828049667	cluster ions
+0.7825842045	mass spectra
+0.7823213584	atom diatom
+0.7822704294	molecular ion
+0.7820860183	intense laser pulse
+0.7819592391	optimized effective potential
+0.7809998952	magic number
+0.7804284243	van der
+0.7804159605	strong field ionization
+0.7797248588	high order harmonic generation
+0.7788710154	kohn sham
+0.7788448613	valence electron
+0.7787603888	spin polarized
+0.7784147541	photoelectron circular dichroism
+0.7780029546	electron phonon
+0.7779440522	higher order
+0.7776834285	effective range
+0.7775923887	free electron lasers
+0.7775869631	single walled
+0.7770906891	long range
+0.7768534434	ion trap
+0.7767833250	surface plasmon
+0.7760811862	laser induced
+0.7741492901	phase shifts
+0.7735171030	high level
+0.7728406032	experimental data
+0.7727264622	velocity map
+0.7726372952	optical absorption
+0.7725716827	helium dimer
+0.7725337068	response function
+0.7706630498	temperature range
+0.7706501542	recently proposed
+0.7703543899	photo electron
+0.7696883248	electron beam
+0.7693793791	hydrogen molecule
+0.7691826217	tight binding
+0.7688058294	helium droplet
+0.7681545629	real space
+0.7681158491	high energy
+0.7675952489	negative ion
+0.7675588374	permanent dipole
+0.7673445950	laser intensity
+0.7656667316	helium atom
+0.7656036640	der waals
+0.7655108455	angle resolved
+0.7654139706	cluster size
+0.7644626144	laser driven
+0.7644231350	moller plesset
+0.7642653042	molecular structure
+0.7639119438	semi empirical
+0.7627464210	particle hole
+0.7614361730	spectroscopic parameters
+0.7613793787	alkali metal atoms
+0.7610128361	photon energy
+0.7607786128	nc afm
+0.7606703183	correlation effects
+0.7606627388	gamma ray spectra
+0.7605896461	collective electron
+0.7605048286	multi photon
+0.7595658539	strong coupling
+0.7593947835	hartree fock
+0.7587154237	ro vibrational
+0.7584782781	embedded atom
+0.7583818029	electron dynamics
+0.7570076224	atomic structure
+0.7560164435	rare gas clusters
+0.7559618197	pump probe
+0.7558743316	c60 fullerene
+0.7550898016	franck condon
+0.7548418274	simple metal clusters
+0.7525057407	electron emission
+0.7522703763	theoretical studies
+0.7518214015	decay channels
+0.7515355154	qualitative agreement
+0.7513745942	close coupling
+0.7498680387	theoretical analysis
+0.7487385402	bose einstein condensates
+0.7478578513	bose einstein
+0.7477748385	jet expansion
+0.7461282632	stern gerlach
+0.7453605762	ab initio calculations
+0.7450328823	liquid helium
+0.7449151074	exchange correlation
+0.7440599999	large scale
+0.7437849797	previous studies
+0.7432081390	plasmon resonances
+0.7421649207	dipole dipole
+0.7421553966	ionization threshold
+0.7419207105	water molecules
+0.7415072459	jahn teller
+0.7411013356	energy loss
+0.7407677087	multi reference
+0.7399470610	local density
+0.7395321019	spin orbit coupling
+0.7391551717	electron correlation effects
+0.7390272746	size dependent
+0.7381336164	negative ions
+0.7380444635	numerical simulations
+0.7373098061	carbon atoms
+0.7372967520	high pressure
+0.7368516981	raman spectra
+0.7367338894	high harmonic
+0.7360029738	coupled channel
+0.7358851576	helium atoms
+0.7335392465	cluster sizes
+0.7321231363	molecular beams
+0.7296218040	energy absorption
+0.7295212017	field free
+0.7294679882	water clusters
+0.7287660630	electronic states
+0.7281448969	coupled cluster theory
+0.7271919068	excellent agreement
+0.7263979773	final state
+0.7251517457	cold atoms
+0.7245161701	efimov states
+0.7242934911	coulomb potential
+0.7242895912	optical absorption spectra
+0.7227584457	molecule imaging
+0.7217242487	molecular systems
+0.7202767767	interatomic coulombic
+0.7196951031	chiral molecules
+0.7184565753	double hybrid
+0.7183601663	organic molecules
+0.7168027614	atomic clusters
+0.7165767949	noble gas atoms
+0.7152353350	light induced
+0.7148650237	lennard jones
+0.7146613559	femtosecond pump probe
+0.7143705398	energy curves
+0.7139433235	energy range
+0.7131753399	temperature dependent
+0.7129874686	vibrational spectrum
+0.7110579322	supersonic slit
+0.7099928989	electron energy loss
+0.7094307660	field theory
+0.7088501846	energy levels
+0.7075915165	incident electron
+0.7071437846	aromatic hydrocarbon
+0.7051629606	simulation results
+0.7050414402	slit jet
+0.7042799778	photon ionization
+0.7041170276	quantum states
+0.7018694491	experimental results
+0.7015145767	optical response
+0.7007927070	density functional calculations
+0.6996622462	interaction potentials
+0.6964316492	x ray
+0.6961182039	dissociation energies
+0.6945459944	photoelectron circular
+0.6941108564	electronic motion
+0.6918816865	relative phase
+0.6917940829	results obtained
+0.6909750258	vibrational frequencies
+0.6903127170	ionization potential
+0.6900729375	finite systems
+0.6898919051	energy gap
+0.6890995189	orbital free
+0.6888575498	ultracold atoms
+0.6886247158	electron attachment
+0.6874356238	vibrational levels
+0.6870621619	important role
+0.6868980448	high intensity
+0.6859033198	ionic structure
+0.6850968895	theoretical study
+0.6848077673	non perturbative
+0.6829727270	initial state
+0.6826600620	energy level
+0.6826287917	experimental values
+0.6801150596	heavy atoms
+0.6794300980	case study
+0.6793469671	high density
+0.6790625315	tight binding model
+0.6780512793	pulsed supersonic
+0.6779171980	gaussian basis
+0.6778388610	s wave
+0.6773751355	interaction potential
+0.6748027704	x ray diffraction
+0.6716900718	low energy electrons
+0.6703696251	atomic orbitals
+0.6693377375	excitation spectrum
+0.6681652585	ground states
+0.6667252415	taking into account
+0.6629595843	density functional theory calculations
+0.6628585548	high order harmonic
+0.6611201799	xe @ c60
+0.6599637300	optical field
+0.6593990672	harmonic generation
+0.6591320489	center of mass
+0.6580002668	soft x ray
+0.6578453619	metal cluster
+0.6575606043	lennard jones clusters
+0.6572704330	structural properties
+0.6561030348	ion yields
+0.6559362562	experimental conditions
+0.6549675990	recent experimental
+0.6547882996	gold clusters
+0.6541654621	charge states
+0.6520826766	degrees of freedom
+0.6515271004	free electron
+0.6514647623	electron correlation
+0.6502928229	experimentally observed
+0.6481907586	recent experiments
+0.6468592778	electron spectra
+0.6461390531	van der waals interaction
+0.6457600756	electronic excitations
+0.6456980950	laser polarization
+0.6444417764	ionization energies
+0.6423814200	charge state
+0.6422753221	silicon clusters
+0.6422086025	differential cross
+0.6409069540	femtosecond pump
+0.6349837329	nuclear dynamics
+0.6338958216	orders of magnitude
+0.6337131549	na clusters
+0.6298384925	electronic structure calculations
+0.6275379651	spin density
+0.6253994400	embedded in helium
+0.6240524934	external electric
+0.6223973396	carlo simulations
+0.6217945834	detailed analysis
+0.6213248465	optimized effective
+0.6186927427	static electric
+0.6157235180	single molecule
+0.6142048739	theoretical methods
+0.6133334086	low energy electron
+0.6113459063	high order
+0.6111104660	small clusters
+0.6088162464	laser cluster
+0.6087545176	femtosecond laser
+0.6086359859	electronic properties
+0.6076111506	high temperature
+0.6062280606	ground and excited
+0.6054348108	order of magnitude
+0.6034975890	time dependent density functional theory
+0.6029810610	rotational energy
+0.6026176347	excitation energies
+0.6023054237	xenon clusters
+0.6022521845	hydrogen atoms
+0.6010587667	lying isomers
+0.5970868150	high spin
+0.5965277907	elastic and inelastic
+0.5955539793	tunneling microscopy
+0.5929923448	total energies
+0.5910638767	above threshold
+0.5887439838	resolved photoelectron
+0.5861520400	numerical results
+0.5860508372	electron exchange
+0.5853744348	transmission electron
+0.5848435692	integral monte carlo
+0.5847694866	self interaction correction
+0.5843905277	r matrix
+0.5838512748	small molecules
+0.5836193724	magnetic properties
+0.5806776513	complex molecules
+0.5806708158	field ionization
+0.5800834473	far infrared
+0.5791134124	correlation energy
+0.5785611054	agreement with experiment
+0.5782624900	ray spectra
+0.5776763185	experimental measurements
+0.5776209065	interaction energy
+0.5773759848	atomic or molecular
+0.5768822636	resonant states
+0.5748149181	liquid phase
+0.5730848155	classical molecular dynamics
+0.5727067854	electron correlations
+0.5716438911	ground state structures
+0.5705591179	classical and quantum
+0.5704216453	atom molecule
+0.5703733669	ultrafast x ray
+0.5674967485	spin dynamics
+0.5669059193	atoms in molecules
+0.5627408101	low temperatures
+0.5622778058	hcp phase
+0.5578143474	quantum classical
+0.5565711557	structural and electronic
+0.5554653072	absorption and emission
+0.5554575738	neutral and charged
+0.5553752819	excitation energy
+0.5545824096	theoretical results
+0.5535310070	electron scattering
+0.5533167450	functional theory calculations
+0.5529333810	effective potential
+0.5513215241	density of states
+0.5511103836	phase approximation
+0.5510237913	electronic state
+0.5504538097	local spin
+0.5487083687	fragmentation dynamics
+0.5459111449	initio calculations
+0.5447439942	time dependent local density approximation
+0.5446764266	atom atom
+0.5428499656	size distributions
+0.5428417512	first principle
+0.5425897523	self assembled
+0.5421998882	quantum monte
+0.5413624130	near infrared
+0.5398698906	non adiabatic
+0.5395582988	helium clusters
+0.5379243437	theoretical and experimental
+0.5372537923	cluster structure
+0.5369543533	optical spectra
+0.5367993437	experimental and theoretical
+0.5362237510	mean square
+0.5356544102	electronic structures
+0.5353841902	dissociative electron
+0.5352935293	time delayed
+0.5344899724	size effects
+0.5343221069	vibrational spectra
+0.5341309044	number of particles
+0.5337579008	electronic and vibrational
+0.5309889604	function of size
+0.5300904257	cm 1
+0.5296731272	molecular ions
+0.5295366049	equation of state
+0.5287415932	cluster cations
+0.5286888211	atomic and molecular
+0.5270743358	model potential
+0.5264801308	mean field
+0.5260617913	self consistent
+0.5260030835	atoms and molecules
+0.5258667359	few cycle
+0.5256698696	x rays
+0.5251920180	off resonant
+0.5242885200	energy barrier
+0.5236435682	rotational states
+0.5233052239	single electron
+0.5216570870	level of theory
+0.5182374025	effective field
+0.5180962842	energy minima
+0.5152452657	infrared laser
+0.5148770350	energy density
+0.5125513603	large molecules
+0.5125010073	four body
+0.5122088201	unitary limit
+0.5103345992	vibrational states
+0.5067382083	small systems
+0.5058613678	time dependent density functional
+0.5050886522	x ray free electron
+0.5048693624	self consistent field
+0.5044000028	electron ion
+0.5029097567	x ray pulses
+0.5018808052	numerical calculations
+0.5018179063	strong laser
+0.5018177665	many particle
+0.5013593819	potential model
+0.4980050143	two color
+0.4950255370	non equilibrium
+0.4935920733	energy spectrum
+0.4935299455	time resolved
+0.4900993549	\ textrm ch
+0.4898315241	interaction correction
+0.4895285208	energy surfaces
+0.4894786635	vibrational state
+0.4893141904	short laser
+0.4864088610	so called
+0.4860684857	interaction energies
+0.4857490269	total energy
+0.4842694877	c_ 60
+0.4835603635	non relativistic
+0.4833087255	atomic systems
+0.4827723486	density approximation
+0.4805992976	atomic hydrogen
+0.4804271863	present results
+0.4798597800	available experimental data
+0.4797004536	total electron
+0.4781005945	collision energy
+0.4775349012	molecular clusters
+0.4774287158	number of atoms
+0.4765981217	few body
+0.4761508473	first principles
+0.4758511728	cm ^ 1
+0.4752204012	present study
+0.4745965342	electron spin
+0.4714750409	size range
+0.4712445219	time domain
+0.4711262598	time delay
+0.4710811385	many body
+0.4708117742	shell correction
+0.4701930561	molecular spectroscopy
+0.4686663944	dependent density functional theory
+0.4674652987	at room temperature
+0.4666366768	at large
+0.4664604813	w cm
+0.4658947306	polarization potential
+0.4658042979	dynamics simulations
+0.4653926503	atom cluster
+0.4633679440	atom model
+0.4620756632	self interaction
+0.4615365358	argon clusters
+0.4609849108	three dimensional
+0.4602573597	two dimensional
+0.4601091359	dft calculations
+0.4599853111	ground state energy
+0.4583255316	three dimensions
+0.4582503732	second order
+0.4554046304	time dependent
+0.4548676210	cluster interactions
+0.4544864271	one dimensional
+0.4544501945	well defined
+0.4532863737	quantum effects
+0.4521896057	quantum systems
+0.4511620389	inelastic cross
+0.4511537440	neutral molecules
+0.4486703878	hybrid density
+0.4475833763	dipole interaction
+0.4463584521	three body
+0.4458971993	magnetic circular
+0.4454247190	large systems
+0.4421990656	dependent density
+0.4408736084	ionization process
+0.4401113933	doped helium
+0.4382682847	metal atoms
+0.4379828188	two photon
+0.4377228770	energy curve
+0.4373326602	zero range
+0.4366271822	map imaging
+0.4336531035	at low temperatures
+0.4336487208	optical properties
+0.4326533599	state energy
+0.4326268039	time scales
+0.4318685172	energy surface
+0.4317720198	electron laser
+0.4272564780	experimental study
+0.4260185174	theoretical calculations
+0.4259201253	single molecules
+0.4217013730	larger clusters
+0.4214674192	carbon clusters
+0.4213144951	closed shell
+0.4193814328	principles calculations
+0.4187277864	state energies
+0.4177213765	core shell
+0.4169013519	energy functionals
+0.4165452123	electron energy
+0.4157382327	electron wave
+0.4157021643	time of flight mass
+0.4149220264	scattering calculations
+0.4136348355	energy functional
+0.4109382297	time dependent density
+0.4094878775	first order
+0.4087423497	quantum dynamics
+0.4085681095	photoionization cross
+0.4070545133	open shell
+0.4067587184	electron motion
+0.4063453003	^ 3he ^ 4he_2
+0.4036111789	x ray scattering
+0.4027156406	energy electrons
+0.4015449911	linear carbon
+0.4005094581	energy distribution
+0.3976728799	properties of small
+0.3935331010	cluster theory
+0.3930641501	et al
+0.3929138776	800 nm
+0.3924816585	large scattering
+0.3923589264	per atom
+0.3920410581	electron electron
+0.3916849551	gas atoms
+0.3900552876	two body
+0.3891391646	electronic wave
+0.3884066287	body interaction
+0.3878276506	ionization cross
+0.3831545203	charged ions
+0.3824580257	spatial separation
+0.3816297483	electronic excitation
+0.3815385882	charged clusters
+0.3808104412	three body systems
+0.3801809080	state structures
+0.3756518350	energy electron
+0.3734061858	two component
+0.3732143550	first principles calculations
+0.3719398005	calculations based
+0.3718121900	wide range
+0.3704806849	simple model
+0.3676607481	theory calculations
+0.3630237338	non resonant
+0.3625204947	\ emph ab
+0.3569602243	spatial separation of
+0.3568517642	o dinger
+0.3544363411	shell structure
+0.3542254844	gas clusters
+0.3532619514	random phase
+0.3525375852	spin 1
+0.3500920010	total angular
+0.3469143272	^ 4he
+0.3461405099	orbital angular
+0.3455447832	c60 shell
+0.3453527906	order harmonic
+0.3449346196	relatively small
+0.3448252276	chirped laser
+0.3439218443	good agreement
+0.3437834567	time of flight
+0.3428076318	time scale
+0.3415715881	structure calculations
+0.3414025781	excellent agreement with
+0.3413086828	linear optical
+0.3398482405	taken into account
+0.3368066952	gradient approximation
+0.3367705730	into account
+0.3357807078	the unitary limit
+0.3335234544	widely used
+0.3320093814	non linear
+0.3315909594	\ hbar
+0.3311826949	inner shell
+0.3306025997	n body
+0.3289403303	oxide clusters
+0.3277911826	dynamics simulation
+0.3260952273	electronic ground
+0.3255140858	atom scattering
+0.3238309063	very good agreement
+0.3222267501	real time
+0.3216620315	an important role
+0.3194358793	scattering cross
+0.3173584799	polarized laser
+0.3163586784	\ phi
+0.3133860456	those obtained
+0.3131241675	lower than
+0.3115595829	atomic force
+0.3095046331	@ c60
+0.3076219240	relaxation time
+0.3076205022	\ textbf
+0.3074611418	\ alpha
+0.3061948217	two center
+0.3027657521	fullerene like
+0.3026845319	this letter
+0.3012138550	\ rho
+0.3000155131	$ v_ \ rm
+0.2980097373	clusters consisting
+0.2978695813	\ em
+0.2975352023	this article
+0.2970579388	electron lasers
+0.2960380883	insight into
+0.2952221070	higher than
+0.2951992375	the ground state
+0.2948665786	\ scriptscriptstyle
+0.2936173402	outer shell
+0.2914140423	information about
+0.2905115864	optical properties of
+0.2896203213	fullerenes shell
+0.2890297620	solvation shell
+0.2886919780	\ pi_
+0.2873966170	a wide range
+0.2852368561	^ 9
+0.2850477744	\ nu
+0.2837031074	theoretical study of
+0.2824700341	\ theta
+0.2804196889	\ sigma_
+0.2803929213	a simple model
+0.2803698594	new approach
+0.2800576631	insights into
+0.2795112521	\ emph
+0.2771968582	\ textit
+0.2764041145	\ aa
+0.2758407606	\ bf
+0.2751101284	an optical
+0.2749960262	time dependent local density
+0.2733640190	at approx
+0.2732008413	using density functional theory
+0.2726977657	cross sections for
+0.2711111487	\ cdot
+0.2709021667	\ sigma_g
+0.2684957641	smaller than
+0.2683854036	\ delta
+0.2680914061	\ zeta
+0.2679098115	\ pm
+0.2660341915	^ 1
+0.2660179828	\ beta
+0.2650806366	h bond
+0.2632615176	this paper
+0.2632331342	= 0
+0.2626010842	\ theta_
+0.2617484217	\ sigma
+0.2602175210	\ pi
+0.2589431579	^ 4he_2
+0.2577811051	two step
+0.2571385906	electron attachment to
+0.2569326753	competition between
+0.2532768211	^ 4
+0.2519099730	\ sim
+0.2518004217	all electron
+0.2514751385	larger than
+0.2511901443	\ approx
+0.2502364795	schr \
+0.2499803154	^ 3
+0.2485537247	non local
+0.2459453430	\ le
+0.2454884982	^ 2
+0.2446823444	using ab initio
+0.2443894671	n = 1
+0.2443084129	many electron
+0.2432829525	c atoms
+0.2432456268	\ rm
+0.2431823732	\ rangle
+0.2422741309	\ text
+0.2416475811	well known
+0.2411200451	so far
+0.2411126713	^ 3he
+0.2396081449	shell model
+0.2383257528	$ _
+0.2376985096	using time dependent density functional
+0.2372172342	relationship between
+0.2371615398	\ omega
+0.2360950896	\ gamma
+0.2357202675	= 1
+0.2355835922	$ _2
+0.2332993427	the art
+0.2328557401	\ textrm
+0.2323308424	n = 4
+0.2322718079	zero energy
+0.2318885684	\ rightarrow
+0.2303104946	\ leq
+0.2279147811	self energy
+0.2270172883	clusters consisting of
+0.2263192181	o d
+0.2258371544	$ \ chi
+0.2256370237	even though
+0.2244333755	\ mu
+0.2241425303	the hcp phase
+0.2238842199	+ \ mu ^ e ^
+0.2227030347	= 7
+0.2208879941	$ \ text c _
+0.2208315621	wide range of
+0.2200058596	in helium nanodroplets
+0.2197952875	based on
+0.2197871664	agree well with
+0.2192507744	_ 7
+0.2182487368	\ times
+0.2180001207	more stable
+0.2179524525	a pulsed supersonic
+0.2164242432	n = 2
+0.2163280868	these findings
+0.2160414174	shell effects
+0.2152488792	in superfluid helium
+0.2151117334	detailed analysis of
+0.2150134269	the interstellar medium
+0.2142128591	\ mu_b
+0.2141797625	cross section of
+0.2138647706	$ c_ 60
+0.2128877166	less than
+0.2127557284	$ \ mu_b
+0.2125553273	the global minimum
+0.2119078434	the available experimental
+0.2113808347	^ 6
+0.2111727691	used to calculate
+0.2097853541	\ text c _
+0.2093601529	$ ^ 1 \ sigma
+0.2075233443	two electron
+0.2053868036	much larger
+0.2047581500	body system
+0.2046994201	the present study
+0.2043185634	$ _6
+0.2038247486	ranging from
+0.2034891230	the gas phase
+0.2025210659	an electronic
+0.2020662598	n \ leq
+0.2019852871	atomic system
+0.2013796691	depending on
+0.2013167523	by solving
+0.2000543221	n = 6
+0.1997520649	\ mathrm
+0.1993761503	cross sections of
+0.1993102129	large number of
+0.1989258556	^ 1 \ sigma_g
+0.1980878995	the size range
+0.1980187980	optical response of
+0.1972441011	h2 +
+0.1968828800	time dependent local
+0.1966404466	the time dependent density functional theory
+0.1952898021	difference between
+0.1952754728	other hand
+0.1950234840	n = 5
+0.1944516544	x ray free
+0.1944028051	these systems
+0.1922267009	\ bar
+0.1920796717	^ 1 \ pi
+0.1919759575	an alternative
+0.1916334243	interaction between
+0.1911431322	@ b
+0.1899913712	ground state energy of
+0.1891503983	the potential energy surface
+0.1890932340	$ \ langle
+0.1889981057	serve as
+0.1881752411	the other hand
+0.1875789505	originates from
+0.1863259251	each other
+0.1863027081	$ _3
+0.1862401249	$ _n
+0.1858770040	the time dependent local density
+0.1855371086	the long range
+0.1849709022	co2 +
+0.1849176680	comment on
+0.1840238336	to obtain
+0.1837989884	$ \ bar
+0.1835142116	depends on
+0.1834602102	the coulomb explosion
+0.1834560801	$ _4
+0.1830848579	this effect
+0.1827202091	leads to
+0.1822047827	$ _m
+0.1820869441	rather than
+0.1818700578	this model
+0.1817224812	caused by
+0.1814742890	$ ^ 1
+0.1810739184	+ 2
+0.1800024860	n = 3
+0.1793983207	both cases
+0.1791540901	one electron
+0.1784786610	in liquid helium
+0.1783752710	$ \ sim
+0.1780135503	calculations based on
+0.1776029476	these results
+0.1775473496	by applying
+0.1772771597	depend on
+0.1771370236	at low
+0.1762201555	do not
+0.1758074721	excited states of
+0.1757668940	arising from
+0.1757272492	_n ^ +
+0.1756844893	an atom
+0.1746928229	^ 5
+0.1742099591	clusters embedded in
+0.1741432018	the random phase
+0.1737517361	compared with
+0.1737271323	does not
+0.1730250957	very small
+0.1726268108	starting from
+0.1721536892	$ \ lambda
+0.1712767935	also discuss
+0.1712555101	this process
+0.1708079048	compared to
+0.1703497360	this method
+0.1699619430	$ \ mathrm
+0.1688659080	an efficient
+0.1687652543	a molecular beam
+0.1686927388	in gas phase
+0.1683962332	n = 10
+0.1669807004	the basic
+0.1665569791	coulomb explosion of
+0.1645171544	the potential energy
+0.1644486945	at room
+0.1642256440	using time dependent
+0.1642095243	this study
+0.1639732946	this approach
+0.1638552761	a weak
+0.1634745388	relies on
+0.1631380355	c _
+0.1629023398	accompanied by
+0.1628999862	this purpose
+0.1627936942	the time dependent local
+0.1627456569	the total energy
+0.1622078011	bound states of
+0.1619091664	relation between
+0.1617438696	infrared spectra of
+0.1615794717	sigma_u ^
+0.1612240486	_ 6
+0.1601612965	ground state of
+0.1599141516	electronic properties of
+0.1584405860	in good agreement
+0.1579301713	give rise to
+0.1577673990	at least
+0.1576368926	$ \ delta
+0.1574109082	by comparing
+0.1569249828	time dependent schr \
+0.1567873943	state properties of
+0.1566016371	interpreted as
+0.1565611045	$ ^ 4
+0.1556441202	c h
+0.1552858033	two level
+0.1542541091	the local density approximation
+0.1542529652	applied to
+0.1541814921	produced by
+0.1541606524	magnetic properties of
+0.1541409046	characterized by
+0.1539501173	the ground state energy
+0.1537051720	the electric dipole
+0.1534013981	the magic numbers
+0.1533864701	for calculating
+0.1519737078	this transition
+0.1519662935	very large
+0.1519144237	quantum system
+0.1513655479	$ \ beta
+0.1513533993	the charge transfer
+0.1510806210	an effective
+0.1504596363	an exact
+0.1502615647	\ lambda
+0.1501470953	gives rise to
+0.1497086027	presented here
+0.1495565116	dependence on
+0.1495411184	experimental data for
+0.1494690489	results indicate
+0.1492785178	close to
+0.1492432315	leading to
+0.1485466871	an extensive
+0.1483697475	the absence
+0.1481254055	the kinetic energy
+0.1478459427	application to
+0.1474937454	dominated by
+0.1473464973	a good agreement
+0.1473136941	\ cal
+0.1471354067	\ chi ^
+0.1471215561	dissociation into
+0.1469896251	the exchange correlation
+0.1467175511	the wave function
+0.1464662727	a new method
+0.1463421409	differences between
+0.1462190751	an analytic
+0.1460388689	correlation between
+0.1460251708	$ _5
+0.1458847197	the ground states
+0.1457323414	^ z
+0.1456514570	new method
+0.1456065573	state energy of
+0.1453144963	away from
+0.1449297026	quantum dynamics of
+0.1443396584	most stable
+0.1435520113	magnetic moments of
+0.1434878797	also presented
+0.1424595093	$ \ mu
+0.1417769157	of sodium clusters
+0.1414480392	also discussed
+0.1412289759	molecular dynamics simulations of
+0.1408048557	magnetic moment of
+0.1403958780	a universal
+0.1394630282	absorption spectra of
+0.1392136438	\ cos
+0.1391740995	= 2
+0.1391654982	excited state of
+0.1390997784	\ times10 ^
+0.1389965001	+ 1
+0.1387396623	binding energies of
+0.1382597524	to determine
+0.1377785454	^ 7
+0.1373447988	by measuring
+0.1373338225	studied by means of
+0.1370798699	accounted for
+0.1370788206	a spherical
+0.1369159890	supported by
+0.1365277301	corresponds to
+0.1364271447	by adding
+0.1360912558	these resonances
+0.1354363382	more complex
+0.1344170984	@ c
+0.1343942877	generated by
+0.1341958236	focus on
+0.1341574896	in situ
+0.1338796952	an infinite
+0.1338486464	bound states in
+0.1338456543	the self consistent
+0.1337347363	electronic structure of
+0.1331856830	to form
+0.1330774905	affected by
+0.1324889353	time evolution
+0.1322484632	a @ c60
+0.1318767690	not only
+0.1313837096	subjected to
+0.1313125593	electron dynamics in
+0.1312851713	the high energy
+0.1310041924	this result
+0.1307249815	this review
+0.1306233859	an explicit
+0.1305218218	dynamics simulations of
+0.1304385337	comparison between
+0.1303322764	\ times 10
+0.1302384756	much more
+0.1294754459	^ *
+0.1294621370	next to
+0.1292604102	an intense
+0.1291174707	binding energy of
+0.1289021793	accounting for
+0.1285211843	+ ion
+0.1285199499	and electronic properties
+0.1279594265	$ \ pi
+0.1274362770	\ cos ^
+0.1271120081	the time dependent density
+0.1269590224	the time dependent
+0.1268516718	derived from
+0.1268421581	the energy gap
+0.1263314961	lead to
+0.1254082349	the cluster size
+0.1252812705	more than
+0.1252186261	a critical
+0.1250574096	100 k
+0.1248162207	explained by
+0.1243389531	the laser field
+0.1240765915	related to
+0.1237932616	by varying
+0.1235012141	to produce
+0.1232572677	to provide
+0.1227133232	l =
+0.1225646623	$ \ sigma
+0.1221745746	proportional to
+0.1220582394	the binding energy
+0.1218684999	an external
+0.1216708465	$ _ 1
+0.1215264917	of methane
+0.1214697457	extracted from
+0.1214212379	+ ions
+0.1208555129	this technique
+0.1207527012	as well as
+0.1206937601	attached to
+0.1205587959	this work
+0.1195263039	an analytical
+0.1191615639	$ ^ 6
+0.1191394054	correspond to
+0.1189321451	in addition
+0.1188187507	interplay between
+0.1187396333	responsible for
+0.1185459687	$ ~
+0.1184971138	by analyzing
+0.1182831560	the optical absorption
+0.1180752886	a single
+0.1177264043	tend to
+0.1174954386	$ n_
+0.1174717255	in vacuum
+0.1172330883	due to
+0.1171369016	in general
+0.1170977516	the laser pulse
+0.1169229475	v =
+0.1168519479	the time domain
+0.1166549506	kind of
+0.1163253368	with increasing
+0.1161997458	\ partial
+0.1160330299	in spite of
+0.1158753643	$ \ rm
+0.1154422484	\ times 10 ^
+0.1154111230	degree of
+0.1150395669	_ 1
+0.1147312721	an excited
+0.1147021259	consistent with
+0.1145200418	coupling between
+0.1141604259	exposed to
+0.1141566076	q =
+0.1140013932	to study
+0.1139004196	in contrast
+0.1136074781	= 3
+0.1135728506	fullerene shell
+0.1135407153	investigated using
+0.1135387346	interactions between
+0.1128653019	to understand
+0.1123185526	the most stable
+0.1121965489	$ _8
+0.1119228591	at temperatures
+0.1115931704	$ ^ 2
+0.1113456652	owing to
+0.1111898084	an arbitrary
+0.1109130344	to analyze
+0.1108324390	$ w cm
+0.1106724395	to calculate
+0.1103718705	an electron
+0.1103502204	paid to
+0.1102658924	$ _ 6
+0.1099033248	an oscillating
+0.1096595075	studied using
+0.1095672456	$ \ pm
+0.1095441462	with respect to
+0.1095372952	an experimental
+0.1093433087	10 ^
+0.1092105712	obtained from
+0.1089095985	of photoelectrons
+0.1088209613	the electron density
+0.1087611102	attributed to
+0.1086157142	to predict
+0.1082830162	a comparison
+0.1081779404	to investigate
+0.1081631737	transitions between
+0.1076893207	a large
+0.1074880817	^ q +
+0.1074405134	$ ^ 3
+0.1064710671	an accurate
+0.1064571329	followed by
+0.1063329799	at higher
+0.1054431275	by means of
+0.1052232377	= 5
+0.1046089242	agreement with
+0.1043284420	m =
+0.1043240061	\ lambda =
+0.1040795618	^ +
+0.1040661272	absence of
+0.1040645301	implications for
+0.1040580965	the many body
+0.1039118484	$ \ rightarrow
+0.1038624993	\ sigma ^
+0.1036932608	in principle
+0.1035249337	calculated using
+0.1033824224	this problem
+0.1032763847	a detailed
+0.1028266394	an important
+0.1027937124	variety of
+0.1027446263	in order to
+0.1023892603	a wide
+0.1020918548	the time dependent schr \
+0.1019997277	$ \ gamma
+0.1016526244	contribute to
+0.1016394632	determined by
+0.1011953586	n =
+0.1008062438	model system
+0.1007175331	\ sigma ^ +
+0.1005635382	prior to
+0.1005635382	led to
+0.1002315265	_2 ^ +
+0.0999465715	at short
+0.0992663038	to probe
+0.0988282633	first excited
+0.0983952010	d ^ 1 \
+0.0979839150	^ 1 \ sigma_g ^ +
+0.0979319804	$ \ text
+0.0973997279	such as
+0.0968797711	a simple
+0.0965276143	to derive
+0.0964833500	contrary to
+0.0964418359	a broad
+0.0963148376	$ \ alpha
+0.0962999419	accounts for
+0.0962887194	the angulon
+0.0958628619	in depth
+0.0954185291	suited for
+0.0952783605	to include
+0.0952136830	to create
+0.0951592266	by calculating
+0.0950566242	= 10
+0.0950313230	a direct
+0.0949894016	at lower
+0.0946897974	^ 1 \ sigma ^ +
+0.0946552763	in terms of
+0.0944780921	to detect
+0.0941421670	e ^
+0.0937978008	spite of
+0.0934601794	associated with
+0.0928826423	for understanding
+0.0928011174	$ n \
+0.0927982294	for larger
+0.0927915625	the literature
+0.0927119768	an example
+0.0926995555	with experiment
+0.0926671675	to compute
+0.0925197492	a promising
+0.0922352632	$ \ bar \
+0.0921501935	$ \ leq
+0.0917336182	properties of
+0.0916732394	adsorbed on
+0.0913538712	$ \ zeta
+0.0911294684	a significant
+0.0905604865	far from
+0.0905161737	distance between
+0.0903924783	$ \ omega
+0.0901776715	collisions between
+0.0901552821	report on
+0.0900496841	two orders of
+0.0897018593	long time
+0.0890531334	studied by
+0.0888928240	the yield of
+0.0888631388	agreement between
+0.0882323859	for describing
+0.0881175319	experiments on
+0.0878555248	$ \ textrm
+0.0877247905	the past
+0.0876101585	in excellent agreement with
+0.0871943610	a unique
+0.0871898711	to control
+0.0870796817	and subsequent
+0.0867824547	the first excited
+0.0867488034	up to
+0.0863928240	the contribution of
+0.0863631628	able to
+0.0863533808	potential well
+0.0857984942	the interaction of
+0.0857545109	driven by
+0.0856311464	composed of
+0.0853588298	capable of
+0.0849512953	^ 0
+0.0848971572	to explain
+0.0848939515	$ n = 3
+0.0846915767	^ + \ mu ^
+0.0844625202	the first time
+0.0843928240	the motion of
+0.0843928240	the dissociation of
+0.0842182003	shown to
+0.0841845375	to solve
+0.0840331718	a complete
+0.0839440191	a special
+0.0838928240	the level of
+0.0838642930	according to
+0.0837518465	a general
+0.0836551946	computed using
+0.0833094906	the ratio of
+0.0832883710	to construct
+0.0832794760	the usual
+0.0831211302	a result
+0.0829875850	the time delay
+0.0828928240	the generation of
+0.0823009709	performed using
+0.0821148244	= 6
+0.0820780092	the lifetime of
+0.0820077006	each cluster
+0.0819966648	to explore
+0.0816428240	the efficiency of
+0.0814207791	to occur
+0.0814203753	a suitable
+0.0813167624	taken into
+0.0812185729	molecular system
+0.0809473442	very good
+0.0809376505	$ gw
+0.0808928240	the emission of
+0.0807525063	electron shell
+0.0807275818	the problem of
+0.0807143171	to optimize
+0.0806100990	a systematic
+0.0800594906	the value of
+0.0798722920	to test
+0.0797462660	an average
+0.0793061993	good agreement with
+0.0788850344	a tool
+0.0787275818	the impact of
+0.0787164404	the interplay
+0.0786439895	transition from
+0.0782384852	$ c_
+0.0777031007	respect to
+0.0774507608	but also
+0.0770997231	= 4
+0.0766929931	induced by
+0.0766799981	to measure
+0.0766018187	of atoms in
+0.0762467511	hundreds of
+0.0761640632	to reduce
+0.0760989587	to observe
+0.0760780092	the limit of
+0.0760780092	the frame of
+0.0760780092	the field of
+0.0760780092	the mechanism of
+0.0759949176	+ \ mu ^
+0.0759836794	the basis of
+0.0759836794	the surface of
+0.0759351520	the density of
+0.0757441490	effect on
+0.0757275818	the size of
+0.0756694619	description of
+0.0750780092	the region of
+0.0750780092	the form of
+0.0747275252	$ h_2
+0.0746614348	formed by
+0.0746228112	$ li
+0.0746197180	considered as
+0.0746017725	attosecond time
+0.0745750821	obtained using
+0.0745091797	sensitive to
+0.0744132856	this new
+0.0741848284	pulses from
+0.0740780092	the ionization of
+0.0740780092	the process of
+0.0739764200	obtained by
+0.0737830850	an analysis
+0.0737275818	the shape of
+0.0737275818	the order of
+0.0734210984	different from
+0.0730857353	to evaluate
+0.0730780092	the energy of
+0.0730248595	used to
+0.0728374537	a b
+0.0727840580	results for
+0.0727576278	a key
+0.0726577720	combined with
+0.0726507828	for studying
+0.0725636934	a unified
+0.0724416455	the scattering of
+0.0724201222	an important role in
+0.0721995317	$ 3d
+0.0718164495	the main
+0.0716407350	described by
+0.0710780092	the magnitude of
+0.0706918572	irradiated by
+0.0702797602	a pronounced
+0.0702777925	the original
+0.0702530196	comparison with
+0.0701913114	modification of
+0.0700246822	a powerful
+0.0698556471	emission from
+0.0697710382	a function of
+0.0697685019	\ sigma_g ^
+0.0695601969	lack of
+0.0694435884	sigma ^ +
+0.0693217268	the ground
+0.0690081431	the fact
+0.0687446758	a system of
+0.0686590084	r ^
+0.0685706347	with more than
+0.0685611891	effects on
+0.0683909109	stabilized by
+0.0683080498	number of
+0.0681592499	of atoms and molecules
+0.0681535115	predicted by
+0.0680638458	a variational
+0.0679289125	to reproduce
+0.0679014677	a wide range of
+0.0677588444	the entire
+0.0675619861	the former
+0.0666810043	evaluation of
+0.0664139845	similar to
+0.0663257949	found to
+0.0660094735	the emergence
+0.0658567534	t =
+0.0652321028	to identify
+0.0649617430	extension of
+0.0645798485	the possibility
+0.0645621150	investigated by
+0.0644570980	ar @
+0.0644448334	created by
+0.0642589460	a substantial
+0.0641297262	calculated by
+0.0640759707	2 +
+0.0640680685	to improve
+0.0639936820	by employing
+0.0636345179	a tunable
+0.0635604652	to characterize
+0.0630488052	x =
+0.0630276433	determination of
+0.0628929602	a comprehensive
+0.0624558252	dependence of
+0.0623974130	electronic shell
+0.0622655989	identified as
+0.0618589048	calculated for
+0.0617674535	interacting with
+0.0617194073	presented for
+0.0616649290	to account for
+0.0615080653	types of
+0.0615009993	of view
+0.0613985199	a clear
+0.0613556824	identification of
+0.0612247174	\ sigma_g ^ +
+0.0612192184	to estimate
+0.0610793565	^ 2 +
+0.0607458350	$ v_
+0.0604696097	information on
+0.0601181231	two different
+0.0600611769	^ 1 \
+0.0600136900	tool for
+0.0597243647	also found
+0.0596854125	advances in
+0.0595808571	to extract
+0.0595385175	transition between
+0.0589912323	the well known
+0.0588221226	of ethylene
+0.0585225645	access to
+0.0583795273	presence of
+0.0583222015	together with
+0.0582959239	a function
+0.0579391635	consisting of
+0.0579133269	a factor
+0.0578855267	$ ^
+0.0578022156	state of
+0.0575421009	scheme for
+0.0572592388	a remarkable
+0.0569698127	obtained for
+0.0567792687	excited by
+0.0566900680	to assess
+0.0565547061	\ pi ^
+0.0565028161	$ rb
+0.0562107693	$ _2 ^ +
+0.0560985017	the validity
+0.0560857082	studies on
+0.0559907510	view of
+0.0557932502	for solving
+0.0556202371	even for
+0.0555713251	a few
+0.0550582428	the quality
+0.0549809155	$ ev
+0.0548640658	controlled by
+0.0546889255	inclusion of
+0.0545307730	agree with
+0.0544602253	in very good
+0.0544474093	and singly
+0.0544223033	$ _n ^
+0.0542339096	intense x
+0.0541191031	$ _2 ^
+0.0537961280	study of
+0.0537640930	this leads to
+0.0530631695	to generate
+0.0527979048	in combination
+0.0526245668	candidate for
+0.0526047558	proposed by
+0.0523389256	a semi
+0.0523290091	$ ^ 3 +
+0.0522995564	in turn
+0.0522351990	this system
+0.0522267347	$ ^ +
+0.0521582192	_2 ^
+0.0516240947	employed to
+0.0514670150	taking into
+0.0514216345	and anionic
+0.0512368449	doped with
+0.0511446990	class of
+0.0511274115	j =
+0.0510725834	up to n =
+0.0507515911	assigned to
+0.0506645021	to simulate
+0.0506645021	to address
+0.0506117417	the electronic structure of
+0.0504640732	determined for
+0.0504588745	emitted from
+0.0503617153	a consequence
+0.0502599049	by using
+0.0502233983	in good agreement with
+0.0501919437	in combination with
+0.0501295052	observed in
+0.0501165180	present work
+0.0500250195	m \
+0.0499823198	contribution to
+0.0498510070	candidates for
+0.0498423031	very different
+0.0495924383	the presence
+0.0494595845	range from
+0.0494284908	up to n
+0.0494182577	equal to
+0.0494072850	in contrast to
+0.0493791982	approach to
+0.0493465230	measured for
+0.0490944893	+ +
+0.0490907697	contribution from
+0.0488670966	method for
+0.0488379676	equivalent to
+0.0488354400	and electronic properties of
+0.0488342748	atom by
+0.0488329121	spectra from
+0.0488280501	especially for
+0.0485169510	~ \
+0.0482617718	analysis of
+0.0482208506	amount of
+0.0478981832	modeling of
+0.0477620272	a continuous
+0.0475689657	extended to
+0.0470407614	expected to
+0.0466951105	difficult to
+0.0464611991	performed to
+0.0461795825	ability to
+0.0461558407	evidence for
+0.0460553147	interaction with
+0.0457350922	predicted to
+0.0456007462	to account
+0.0455937596	_ n
+0.0454758579	first time
+0.0454352202	investigation of
+0.0454180922	occurrence of
+0.0451365517	the onset
+0.0450710531	model for
+0.0450624833	at n =
+0.0450517602	a hard
+0.0448329001	search for
+0.0447688475	a large number of
+0.0446644263	+ cluster
+0.0446007478	obtained with
+0.0445043433	the appearance
+0.0444599365	resulting from
+0.0443853740	the design of
+0.0443536570	difference in
+0.0442509265	n +
+0.0435877354	course of
+0.0435412103	using ab
+0.0435407919	confined in
+0.0434089661	resolution of
+0.0432794599	\ mu ^
+0.0431454526	$ d ^
+0.0430863228	role in
+0.0430624027	the presence of
+0.0428911210	comparable to
+0.0425416901	transfer between
+0.0425195742	a series
+0.0424341617	even at
+0.0421105377	formation of
+0.0421091312	$ \
+0.0420700838	scattering from
+0.0419710139	6 ^
+0.0416551376	allows to
+0.0413776927	expressions for
+0.0411257853	\ mathrm c
+0.0409212161	important for
+0.0408527470	derivation of
+0.0407127353	the creation
+0.0405901864	analyzed in
+0.0405105160	the interplay between
+0.0404631537	2 ^
+0.0404622143	relative to
+0.0403645187	well with
+0.0403470104	relevant for
+0.0402331078	a new
+0.0401329598	in detail
+0.0400426861	representation of
+0.0400227478	coupling to
+0.0399217937	b ^
+0.0399214279	by considering
+0.0398994595	of freedom
+0.0398520771	contributions from
+0.0396424262	used as
+0.0396153013	collisions with
+0.0395636401	spectra of
+0.0395291978	$ \ text c
+0.0395287069	equation for
+0.0393817905	the time evolution of
+0.0393180495	possible to
+0.0391447553	detected in
+0.0390573884	increases with
+0.0389460739	the development of
+0.0388819201	limited by
+0.0387153288	series of
+0.0386518832	interest in
+0.0386263599	addition to
+0.0384547691	and magnetic properties of
+0.0383774313	detection of
+0.0383732606	^ 3 +
+0.0383222589	version of
+0.0381577111	a combination
+0.0381281611	^ + +
+0.0379860113	behavior of
+0.0379590467	observation of
+0.0379253000	_n ^
+0.0378938293	understanding of
+0.0375476537	$ _ n
+0.0375405220	allows for
+0.0374383533	the existence
+0.0373346161	of magnitude
+0.0372589991	reported for
+0.0370997519	as compared to
+0.0369322220	contrast to
+0.0368132859	technique for
+0.0367506986	= \
+0.0364979650	proposed to
+0.0362992858	way for
+0.0362783955	$ d
+0.0362536329	transfer from
+0.0361446075	quality of
+0.0361374058	this allows
+0.0360440038	^ 3 \
+0.0360076681	the performance of
+0.0358919701	functionals for
+0.0358533818	corresponding to
+0.0358383548	s =
+0.0357914339	the hcp
+0.0356121759	$ \ langle \
+0.0355534428	manipulation of
+0.0355214931	the vicinity
+0.0354847589	consists of
+0.0354123378	a variety of
+0.0351776873	1 \
+0.0349607578	$ e ^
+0.0347944724	variation of
+0.0347770627	perpendicular to
+0.0346972194	to describe
+0.0346404221	revealed by
+0.0346166513	combination of
+0.0345439109	the occurrence
+0.0345063278	structure of
+0.0345053460	_ \
+0.0343469309	evolution of
+0.0343191957	spectrum of
+0.0342706508	clusters containing
+0.0341834791	the degree of
+0.0340511058	$ s
+0.0339191670	$ 10 ^
+0.0338862244	a set
+0.0338535105	possibility to
+0.0338216181	system at
+0.0336647920	tens of
+0.0336145210	allowing for
+0.0335610515	in addition to
+0.0335537917	resonances in
+0.0335475890	a number of
+0.0335457033	a factor of
+0.0334784436	the present work
+0.0334778348	action of
+0.0334429582	$ ^ \
+0.0332135518	account for
+0.0329803106	change in
+0.0328959505	distribution of
+0.0327906153	an analysis of
+0.0326618869	nature of
+0.0325591723	excitations in
+0.0325320280	prediction of
+0.0325065933	the effect of
+0.0324691681	resulting in
+0.0323185003	the framework of
+0.0323185003	the existence of
+0.0322183495	the interaction between
+0.0320894277	$ n =
+0.0319123378	a series of
+0.0318273416	a number
+0.0318009148	relevance of
+0.0317582182	derived for
+0.0316450450	^ 2 \
+0.0316392184	approximation for
+0.0315714797	the help of
+0.0315622204	the need for
+0.0315452375	set of
+0.0315004721	details of
+0.0314883078	correction to
+0.0314200824	$ ^ 2 +
+0.0312536570	reactivity of
+0.0311877541	the structure of
+0.0311446908	the use of
+0.0310003253	coupled to
+0.0309971020	attachment to
+0.0309868866	required to
+0.0309508310	along with
+0.0308959505	photoionization of
+0.0308503755	motion in
+0.0306981605	application of
+0.0305655163	sections for
+0.0305330836	the case of
+0.0303549701	3 +
+0.0300534428	interpretation of
+0.0300482582	as well as for
+0.0298956907	applicability of
+0.0297669606	the study of
+0.0297669606	the analysis of
+0.0296244137	^ \
+0.0296015950	appear in
+0.0294974492	context of
+0.0294648973	used for
+0.0292970110	origin of
+0.0292592741	the role of
+0.0292081437	a novel
+0.0291680439	the ground state of
+0.0291227198	expression for
+0.0290944467	range of
+0.0290540139	located in
+0.0290457843	n \
+0.0289543836	picture of
+0.0288246807	the emergence of
+0.0286683553	function of
+0.0286572040	choice of
+0.0285790045	the importance of
+0.0285275988	case of
+0.0283963676	combination with
+0.0283637362	the formation of
+0.0283470133	the nature of
+0.0283355155	parts of
+0.0283284016	given by
+0.0283217331	$ n
+0.0282684277	computation of
+0.0282290721	mixture of
+0.0281018149	energetics of
+0.0280410761	the number of
+0.0280370231	as well
+0.0280027586	solution of
+0.0279528770	calculation of
+0.0278802383	the description of
+0.0278191041	fraction of
+0.0276867506	appears to
+0.0276633724	a certain
+0.0275715520	position of
+0.0274159218	rules for
+0.0273822326	characterization of
+0.0272500149	the influence of
+0.0272162944	the context of
+0.0271267588	decrease in
+0.0270418446	magnetism in
+0.0269150873	stability of
+0.0268788616	construction of
+0.0268601736	the binding energy of
+0.0268408865	the stability of
+0.0267309912	interest for
+0.0265588797	a combination of
+0.0265122701	synthesis of
+0.0264820881	the appearance of
+0.0263999874	restricted to
+0.0263317221	trapped in
+0.0262381899	order to
+0.0261763764	useful for
+0.0261601806	the production of
+0.0260730603	the quality of
+0.0260289426	the possibility to
+0.0259971339	emergence of
+0.0259869692	superposition of
+0.0259662944	a consequence of
+0.0259495701	effect of
+0.0259303466	the range of
+0.0258952196	validity of
+0.0258921205	design of
+0.0256340971	comparison to
+0.0256278171	the choice of
+0.0256170320	included in
+0.0255967939	crucial for
+0.0255457949	the fullerene shell
+0.0255056348	in agreement with
+0.0253843537	treatment of
+0.0253169839	definition of
+0.0252845678	the evolution of
+0.0252020849	suitable for
+0.0251582455	the action of
+0.0251127331	$ fs
+0.0250768473	the origin of
+0.0250212283	rise to
+0.0249609044	to allow
+0.0248624535	increase in
+0.0248454410	involved in
+0.0248134051	degrees of
+0.0247765334	sensitivity of
+0.0247484354	k =
+0.0247318108	enough to
+0.0246763333	time evolution of
+0.0244283852	$ @ c
+0.0243569475	topology of
+0.0243278130	vicinity of
+0.0243118503	embedded in
+0.0242873375	consequence of
+0.0242278882	$ 2 \
+0.0241763764	allow for
+0.0241494320	realization of
+0.0240359186	interplay of
+0.0240205258	strength of
+0.0240196834	the sum of
+0.0239609528	$ o
+0.0239531037	produced in
+0.0238395839	development of
+0.0238237910	signature of
+0.0237967254	the accuracy of
+0.0237200901	enhancement of
+0.0236862051	use of
+0.0235878100	6 \
+0.0235203540	for example
+0.0234179554	well as
+0.0233822326	family of
+0.0233608776	accuracy of
+0.0233363839	^ q
+0.0232340640	the possibility of
+0.0230979289	$ =
+0.0230854926	performance of
+0.0229472232	a way to
+0.0228604150	character of
+0.0227847320	center of
+0.0227793832	$ ^ 1 \
+0.0227775687	existence of
+0.0226548317	the center of
+0.0226500219	abundance of
+0.0226470394	implementation of
+0.0226341128	means of
+0.0225569475	creation of
+0.0225568117	production of
+0.0225453993	a set of
+0.0224009140	a range of
+0.0223355164	with n =
+0.0222758182	the onset of
+0.0221774484	n ^
+0.0221466634	possibility of
+0.0219370271	the computation of
+0.0219363014	d ^
+0.0219344890	composition of
+0.0218937516	suppression of
+0.0218614198	importance of
+0.0218533065	occurring in
+0.0218291650	sequence of
+0.0217742416	appearance of
+0.0216089004	^ + \
+0.0215828656	way to
+0.0215140113	to give
+0.0214577103	onset of
+0.0210558354	a good
+0.0210162707	for n =
+0.0208135069	part of
+0.0202368680	the application of
+0.0202070352	the vicinity of
+0.0200756108	behaviour of
+0.0200554394	influence of
+0.0199258252	$ +
+0.0199007099	assessment of
+0.0198143462	the spectrum of
+0.0197758835	$ e
+0.0195657446	1 +
+0.0195439838	role of
+0.0193829611	a result of
+0.0192947384	the observation of
+0.0192798953	orders of
+0.0192673444	the transition from
+0.0192598118	sum of
+0.0190374710	5 \
+0.0190170628	+ b
+0.0188388270	the relation between
+0.0188129205	$ r
+0.0184557777	$ j
+0.0183550501	$ @
+0.0183310837	framework of
+0.0183051863	appear to
+0.0182947384	the calculation of
+0.0182237684	a brief
+0.0181553234	$ f
+0.0181286903	need for
+0.0180096324	the photoionization of
+0.0177041377	e ^ +
+0.0175950416	the spectra of
+0.0171386322	the dependence of
+0.0166618040	to make
+0.0165550256	the behavior of
+0.0164972034	$ x
+0.0158954651	known to
+0.0154725954	the determination of
+0.0153305499	the strength of
+0.0152383589	the solution of
+0.0146859289	$ h
+0.0141804886	the treatment of
+0.0140807618	the variation of
+0.0135493765	the way to
