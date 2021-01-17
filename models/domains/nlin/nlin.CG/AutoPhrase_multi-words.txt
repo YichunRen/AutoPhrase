@@ -1,0 +1,842 @@
+0.9664361621	quantum mechanics
+0.9605612683	differential equations
+0.9577348373	boundary condition
+0.9573827021	random walk
+0.9560533568	pattern formation
+0.9549724700	statistical mechanics
+0.9527766183	phase diagram
+0.9504150069	monte carlo
+0.9434689121	boltzmann equation
+0.9415099657	dynamic range
+0.9408192603	prandtl number
+0.9383525995	prisoner's dilemma
+0.9370053812	kinetic theory
+0.9357913798	neural networks
+0.9350565628	von neumann
+0.9348490724	magnetic field
+0.9334735322	turing machines
+0.9329582011	statistical physics
+0.9328766073	mutual information
+0.9287785358	fractal dimension
+0.9266028739	information processing
+0.9262758104	square lattice
+0.9242213516	traffic light
+0.9228270799	correlation function
+0.9187952740	phase transitions
+0.9184284946	steady state
+0.9177738802	dynamical systems
+0.9176298091	complex systems
+0.9173679403	lattice gases
+0.9152335065	reynolds number
+0.9128795916	probability distribution
+0.9123411638	master equation
+0.9099408280	cellular automata
+0.9029452434	phase transition
+0.9012670407	cellular automaton
+0.9009208930	phase space
+0.9004977561	state space
+0.8975040693	information theory
+0.8942278126	fluid flow
+0.8938891742	differential equation
+0.8923205811	distribution function
+0.8904191698	finite difference
+0.8900844196	quantum mechanical
+0.8885226036	configuration space
+0.8863847322	traffic lights
+0.8858564746	shortest path
+0.8856670436	molecular dynamics
+0.8845235187	synchronized flow
+0.8834381127	power law
+0.8804973513	random walks
+0.8713318635	open boundary
+0.8688835674	exclusion processes
+0.8666198966	excitable media
+0.8665065846	fundamental diagram
+0.8659928914	conway's game of life
+0.8636404461	anomalous diffusion
+0.8635453798	spiral waves
+0.8591551189	asymmetric simple exclusion process
+0.8576600546	class iii
+0.8571814113	` `
+0.8533220915	density classification
+0.8528345313	diffusion coefficient
+0.8519061230	free flow
+0.8513744033	exclusion process
+0.8480248481	surrogate data
+0.8479649518	lattice boltzmann
+0.8473376017	boundary conditions
+0.8472408477	boolean functions
+0.8415850800	parameter space
+0.8412158557	vehicular traffic
+0.8405874058	latin squares
+0.8375790866	exact solution
+0.8371937010	correlation functions
+0.8355143962	empirical data
+0.8324814120	universal computation
+0.8324675454	matrix product
+0.8322240173	space gap
+0.8317507866	totally asymmetric simple exclusion process
+0.8312920722	random boolean networks
+0.8297990094	boolean networks
+0.8280982919	correlation length
+0.8278949998	abelian sandpile
+0.8264536006	higher order
+0.8260814037	lattice gas
+0.8244943771	initial configurations
+0.8236353440	poiseuille flow
+0.8234565236	kauffman networks
+0.8227700513	open boundaries
+0.8227179954	simulation results
+0.8225065127	lattice bgk
+0.8219898314	synchronization problem
+0.8193931075	update rule
+0.8187706138	experimental data
+0.8176651084	traffic breakdown
+0.8176015567	directed percolation
+0.8155933174	large scale
+0.8153335512	experimental results
+0.8150584034	reynolds numbers
+0.8145939589	initial conditions
+0.8144487977	equilibrium distribution
+0.8142042289	critical point
+0.8137689883	agent based
+0.8126847031	numerical simulations
+0.8126630120	discrete dynamical
+0.8115115560	fixed point
+0.8098027153	transport coefficients
+0.8082862469	central moments
+0.8082181528	navier stokes
+0.8076961899	totally asymmetric
+0.8076569046	traffic flow
+0.8074397711	continuum limit
+0.8067974612	small world
+0.8059629905	steady states
+0.8043348063	updating scheme
+0.8031368934	elementary cellular automata
+0.8029659005	chapman enskog
+0.8024223875	diffusion equation
+0.8019659005	kardar parisi zhang
+0.8016976208	optimal velocity
+0.7996576590	results suggest
+0.7985923854	coupled map
+0.7985265620	porous media
+0.7974722799	ising model
+0.7967791863	multiple relaxation
+0.7965760812	random initial configuration
+0.7959833781	partial differential
+0.7945543902	damage spreading
+0.7934914110	local structure
+0.7914238941	lyapunov exponents
+0.7912194031	energy dissipation
+0.7902987382	order parameter
+0.7902087782	physical systems
+0.7897346487	stationary state
+0.7896962438	surface growth
+0.7893040946	logical gates
+0.7874910970	regulatory networks
+0.7853050313	information transfer
+0.7846113258	numerical results
+0.7828378933	domain wall
+0.7827715756	biological systems
+0.7826769607	belousov zhabotinsky
+0.7809774050	lattice boltzmann method
+0.7806405435	upper bound
+0.7792435322	exclusive queueing process
+0.7784655440	conservation laws
+0.7778208150	discrete velocity
+0.7772741947	finite size
+0.7762009421	discrete dynamical systems
+0.7758233152	monte carlo simulations
+0.7757063060	transition function
+0.7738521312	short range
+0.7711208454	update rules
+0.7703242069	ultra discrete
+0.7701541434	analytical results
+0.7685830462	complex dynamics
+0.7684713563	finite state
+0.7643130242	real world
+0.7633837900	statistical properties
+0.7605050732	spatially extended
+0.7585454344	numerical simulation
+0.7546311241	exclusive queueing
+0.7544848579	entropy rate
+0.7533765345	numerical experiments
+0.7525979450	reaction diffusion
+0.7516998348	initial configuration
+0.7509993848	asymmetric exclusion
+0.7475493423	long range
+0.7465207766	number conserving
+0.7429846337	exact results
+0.7411458348	probabilistic cellular automaton
+0.7362257783	random graphs
+0.7355950276	point of view
+0.7352158791	self organization
+0.7342987418	elementary cellular automaton
+0.7325251743	coarse grained
+0.7321797526	information theoretic
+0.7319059193	asymptotic behavior
+0.7305337992	spatio temporal
+0.7287625607	probabilistic cellular automata
+0.7285716044	coarse graining
+0.7280841469	quasi periodic
+0.7276761290	lattice gas automata
+0.7264977274	universality class
+0.7250718783	nagel schreckenberg
+0.7250509250	complex networks
+0.7248457266	dynamical properties
+0.7204622275	scale free
+0.7202260758	single lane
+0.7202040322	critical behavior
+0.7198672507	totally asymmetric simple exclusion
+0.7175206787	case study
+0.7135436147	quantum lattice gas
+0.7133021086	high dimensional
+0.7122480742	long term
+0.7092584587	finite size scaling
+0.7060972928	short term
+0.7055935913	game of life
+0.7044060226	eca rules
+0.7003400834	asymmetric simple exclusion
+0.6982311193	simple exclusion process
+0.6926418743	three phase
+0.6924429486	open ended
+0.6896008484	lattice boltzmann methods
+0.6889018539	slow to start
+0.6861134693	box ball
+0.6855992807	lattice boltzmann equation
+0.6853556389	belousov zhabotinsky reaction
+0.6818788928	navier stokes equations
+0.6724708986	flow density
+0.6652675586	quantum walk
+0.6553839570	bgk model
+0.6542313828	elementary cellular
+0.6351045819	number conserving cellular automata
+0.6221049975	field theory
+0.6171288905	elementary ca
+0.6132753727	periodic boundary
+0.6131445434	initial state
+0.6129398016	ca rule
+0.6127716168	lattice gas model
+0.6119585908	probabilistic cellular
+0.6053485648	discrete time quantum
+0.6041466354	self organizing
+0.6038178140	weakly universal
+0.5993774041	self organized
+0.5964800425	a weakly universal cellular automaton
+0.5918255829	random boolean
+0.5896845176	mean field theory
+0.5863649385	conway's game
+0.5859236425	mean field
+0.5816011456	rule 54
+0.5761647999	totally asymmetric simple
+0.5761146648	ca rules
+0.5681828816	covid 19
+0.5462113786	velocity gas
+0.5458051911	random initial
+0.5452930306	mean field approximation
+0.5431726585	many body
+0.5400217945	complex behavior
+0.5383948230	local rule
+0.5356778525	asymmetric simple
+0.5338417433	range interactions
+0.5334403331	wide range
+0.5306276880	simple exclusion
+0.5183238164	second order
+0.5160057824	size scaling
+0.5145077601	three level
+0.5102976084	box ball system
+0.5094011988	rule 184
+0.5088405897	quantum cellular automata
+0.5029387181	asynchronous cellular automata
+0.5021582708	rule space
+0.5002079509	classification problem
+0.4997913653	number conserving cellular
+0.4988360340	cell state
+0.4930095836	cellular automaton model
+0.4924381220	special case
+0.4906319994	max plus
+0.4864550037	rule 110
+0.4861966695	non uniform
+0.4813900520	this paper presents
+0.4801380984	field approximation
+0.4790698282	non trivial
+0.4784763923	ca based
+0.4779694529	cellular automaton rule
+0.4749662687	time dependent
+0.4696255885	traffic model
+0.4695614400	et al
+0.4624072321	one dimensional cellular
+0.4621143290	initial density
+0.4620395371	three dimensions
+0.4525544835	so called
+0.4510688357	one dimensional cellular automata
+0.4484792119	three dimensional
+0.4482384455	state transition
+0.4478269133	local rules
+0.4467007754	lane traffic
+0.4449841012	queueing process
+0.4431530491	one dimensional
+0.4283459270	a large number
+0.4276479110	reversible cellular automata
+0.4262911576	time series
+0.4157619794	into account
+0.4069475676	life like
+0.4060563825	asynchronous cellular
+0.4058655827	non equilibrium
+0.4006009339	results obtained
+0.3993736752	stochastic cellular automata
+0.3954459692	more precisely
+0.3906863825	two dimensional
+0.3889714717	gas automata
+0.3889232945	car following
+0.3856765177	the nagel schreckenberg
+0.3844733964	good agreement
+0.3822938885	\ em
+0.3732211353	quantum lattice
+0.3723612733	dimensional cellular
+0.3686050214	^ \ alpha
+0.3678788533	\ rho
+0.3678714767	lattice boltzmann model
+0.3668083837	first order
+0.3640677658	self similar
+0.3619674814	particle systems
+0.3618398653	faster than
+0.3604154751	more realistic
+0.3587736673	non linear
+0.3576117374	local transition
+0.3532189986	non deterministic
+0.3521130704	the present paper
+0.3494660843	automaton rule
+0.3447203890	traffic models
+0.3403430974	this paper
+0.3390268746	previous work
+0.3387380373	present paper
+0.3383992028	schr \
+0.3308759288	+ 1
+0.3265817306	= 0
+0.3242755798	\ le
+0.3238505518	each cell
+0.3235726231	\ sim
+0.3227868020	dimensional lattice
+0.3206712105	larger than
+0.3202954803	\ emph
+0.3195093065	boltzmann method
+0.3179464961	\ bf
+0.3078349353	= 1
+0.3065745981	binary cellular
+0.3059621470	\ infty
+0.3055311203	relationship between
+0.3037070874	linear cellular
+0.3031283170	real time
+0.3015193186	each time step
+0.3009332259	$ \ lambda
+0.2990153875	^ 2
+0.2962263635	reversible cellular
+0.2956409960	2 + 1
+0.2953960087	computer simulations
+0.2923546299	$ \ kappa
+0.2922424075	exclusion process with
+0.2921955174	n 1
+0.2918652720	boltzmann models
+0.2911978272	+ 1 dimensional
+0.2911810391	sandpile model
+0.2886239835	does not
+0.2856661901	more complex
+0.2840992578	density of ones
+0.2837932092	\ approx
+0.2810165266	$ \ alpha
+0.2792051315	a new class
+0.2755508362	depending on
+0.2753332958	system size
+0.2752211941	critical value
+0.2729416452	a cellular automaton
+0.2716879478	\ mathbb
+0.2713174687	^ 1
+0.2691600844	automata rules
+0.2687384503	\ frac
+0.2657818408	a special case
+0.2657292850	1 2
+0.2656252192	well known
+0.2655671457	lattice boltzmann model for
+0.2652171826	l ^
+0.2645546374	$ \ mathbb
+0.2635708554	do not
+0.2626155468	universal cellular automaton
+0.2624946004	linear ca
+0.2611730006	\ mu
+0.2608621173	relation between
+0.2588836036	based on
+0.2584759496	deterministic cellular
+0.2580132005	$ \ mu
+0.2573708086	\ rightarrow
+0.2553588883	two dimensional cellular automata
+0.2550010185	space time
+0.2548697505	interplay between
+0.2529387416	$ \ rho
+0.2525682335	$ \ rightarrow
+0.2522631281	\ lambda
+0.2508353802	cellular automata model
+0.2502266534	an effective
+0.2493548878	time steps
+0.2492314824	one dimension
+0.2492148502	lattice model
+0.2489748520	wide range of
+0.2483970554	$ v_
+0.2458753827	governed by
+0.2451634075	a simple model
+0.2447857989	automaton model
+0.2428137401	rather than
+0.2389780567	\ kappa
+0.2386354817	the other hand
+0.2376338645	characterized by
+0.2368924744	conway's game of
+0.2351127744	stochastic cellular
+0.2349469921	different types
+0.2343591604	viewed as
+0.2296719110	phase transitions in
+0.2273023686	the lattice boltzmann method
+0.2271639946	boltzmann model
+0.2270305972	$ k_c
+0.2269980133	cellular automaton model for
+0.2264598266	interactions between
+0.2255060976	special case of
+0.2252164013	this article
+0.2247662535	dimensional ca
+0.2246624291	automata networks
+0.2245356421	state cellular
+0.2237406787	discrete time
+0.2210842767	dynamical system
+0.2198364477	cellular automata models
+0.2171127744	quantum cellular
+0.2167696409	deterministic cellular automata
+0.2148394503	two state
+0.2106674500	cellular automata model for
+0.2093880166	belongs to
+0.2092400442	\ beta
+0.2089642503	long time
+0.2072329122	\ alpha
+0.2070550547	t ^
+0.2059643554	caused by
+0.2050922988	starting from
+0.2035779182	by introducing
+0.2017759727	contribute to
+0.2010336944	\ tau
+0.1989206102	in two dimensions
+0.1988702082	$ d_
+0.1970466516	two dimensional cellular
+0.1969650604	depends on
+0.1955951823	cellular automata based
+0.1949182819	other hand
+0.1945276785	an interesting
+0.1941635863	based model
+0.1921833108	the guard
+0.1915834139	an algorithm
+0.1909483664	obtained from
+0.1892622861	interpreted as
+0.1891353708	an explicit
+0.1891061732	derived from
+0.1888472067	motivated by
+0.1869991684	for simulating
+0.1861239059	time scales
+0.1840202030	an efficient
+0.1821431630	\ sigma
+0.1818534248	the state of
+0.1814537996	good agreement with
+0.1803272196	relaxation time
+0.1802687180	depend on
+0.1802386671	these results
+0.1791853476	focus on
+0.1764117670	the optimal velocity
+0.1759852407	proportional to
+0.1736708772	n =
+0.1726158641	leads to
+0.1720017410	as well as
+0.1719819399	determined by
+0.1712799845	more than
+0.1708534248	the probability of
+0.1708534248	the theory of
+0.1708196221	polynomial time
+0.1707629097	a lattice gas
+0.1704304219	2 ^
+0.1704201913	at least
+0.1701668576	the formation of
+0.1690598047	simple model
+0.1687392507	$ p
+0.1681668576	the problem of
+0.1681668576	the study of
+0.1671668576	the density of
+0.1671668576	the results of
+0.1665821994	controlled by
+0.1661668576	the effects of
+0.1660834206	only if
+0.1655499626	an important
+0.1651668576	the size of
+0.1631668576	the complexity of
+0.1631206519	these conditions
+0.1629727941	such systems
+0.1624464383	inspired by
+0.1621668576	a model of
+0.1621668576	a system of
+0.1618115980	kinds of
+0.1611867581	the limit of
+0.1607238079	universality class of
+0.1606943288	number of particles
+0.1602092532	two phase
+0.1598534248	the length of
+0.1596706291	a series of
+0.1589840619	the use of
+0.1587846321	represented by
+0.1585866533	$ n
+0.1584282987	all possible
+0.1584052066	the lattice boltzmann equation
+0.1578121354	in addition
+0.1569226709	the stationary state
+0.1565266438	induced by
+0.1544216009	tend to
+0.1525659057	the phase diagram
+0.1524412714	n ^
+0.1522040937	due to
+0.1520599416	to understand
+0.1520379072	three states
+0.1503439506	dimensional cellular automata
+0.1501294676	lead to
+0.1497350912	this phenomenon
+0.1496056085	an arbitrary
+0.1489317159	to achieve
+0.1488378923	consistent with
+0.1479401776	with respect
+0.1471657350	results show
+0.1464330735	correspond to
+0.1455807742	the steady state
+0.1454882684	corresponds to
+0.1454853260	but not
+0.1443990687	each other
+0.1435861154	velocity model
+0.1431173273	$ 1 f
+0.1430771756	phase transition in
+0.1406998808	this model
+0.1405595321	generated by
+0.1401034106	not only
+0.1385762987	implications for
+0.1385337229	rise to
+0.1382804938	with respect to
+0.1377911506	the number of particles
+0.1366656122	numerical simulations of
+0.1360358519	an exact
+0.1358779801	a phase transition
+0.1343818493	valid for
+0.1338155470	compared with
+0.1337219899	such as
+0.1333088531	automata model
+0.1324885650	cellular automaton model of
+0.1317515236	agreement with
+0.1317141770	automaton model for
+0.1306749609	a lattice boltzmann
+0.1300447958	but also
+0.1295331253	in order to
+0.1287534122	$ \
+0.1276801755	with memory
+0.1275440703	these models
+0.1274304226	cellular automata with
+0.1273791309	two dimensions
+0.1259741934	this work
+0.1256957462	large number of
+0.1243884167	compared to
+0.1228825506	in terms of
+0.1222444591	a simple
+0.1211537339	close to
+0.1210002578	attempt to
+0.1189977710	to simulate
+0.1172579332	applied to
+0.1167780759	ball system
+0.1165304267	to generate
+0.1150619075	or even
+0.1142944250	related to
+0.1136277598	expressions for
+0.1131962246	the density classification
+0.1131885226	driven by
+0.1122736632	by means of
+0.1115469795	a mean field
+0.1112251624	leading to
+0.1107359996	cellular automaton with
+0.1103986929	time step
+0.1102496430	two types
+0.1101609943	to solve
+0.1097766906	required for
+0.1094847815	considered as
+0.1089263028	capable of
+0.1086452326	analogous to
+0.1082023553	to implement
+0.1078839377	a single
+0.1073118039	the mean field
+0.1071178605	to compute
+0.1070410431	time evolution
+0.1068169498	account for
+0.1055291989	a wide
+0.1053732575	an active
+0.1039378344	linear time
+0.1034998159	to determine
+0.1031698538	applicable to
+0.1027990717	a systematic
+0.1018060791	consisting of
+0.1015403125	1 dimensional
+0.1012425297	these systems
+0.1008870374	able to
+0.0997346505	versions of
+0.0989288649	a wide range of
+0.0981117468	number of
+0.0980686618	this approach
+0.0979841486	ability to
+0.0974395738	occurrence of
+0.0973032173	also show
+0.0971863825	by means
+0.0971813278	equal to
+0.0961756136	this type
+0.0959913535	1 f
+0.0957743390	according to
+0.0952569690	between two
+0.0945980666	shown to
+0.0945591962	possibility of
+0.0925037532	tends to
+0.0920314634	by considering
+0.0915606675	obtained by
+0.0911222474	an infinite
+0.0903644431	in contrast to
+0.0901885837	kind of
+0.0896815030	the presence of
+0.0894707872	two types of
+0.0887029998	a new
+0.0882059337	cellular automaton on
+0.0881904789	a large number of
+0.0873711025	transition between
+0.0871586896	transition from
+0.0865940736	defined by
+0.0861433137	to estimate
+0.0859690992	equivalent to
+0.0859535210	in contrast
+0.0855383424	$ q
+0.0848037022	to predict
+0.0831668996	this result
+0.0823399297	$ l
+0.0820469020	this study
+0.0818562405	investigation of
+0.0809140739	variety of
+0.0797204174	properties of
+0.0792189389	fraction of
+0.0785807406	version of
+0.0781100637	used to
+0.0775260833	systems such as
+0.0774182982	generalization of
+0.0767720828	the context of
+0.0761602672	simulations show
+0.0761540556	a class of
+0.0753559205	$ f
+0.0751315926	a novel
+0.0746411375	a variety of
+0.0741750392	the game of life
+0.0738772233	the well known
+0.0735439791	the time evolution
+0.0722035946	to obtain
+0.0717330571	presence of
+0.0712160213	together with
+0.0709490899	respect to
+0.0708907535	similar to
+0.0708751901	the onset of
+0.0704041419	$ r
+0.0702902286	over time
+0.0701478223	absence of
+0.0698163938	the original
+0.0698083368	to test
+0.0696214105	characterization of
+0.0680707223	the role of
+0.0678004615	$ k
+0.0673441828	2 +
+0.0666529235	two different
+0.0660707223	a function of
+0.0658842777	introduction of
+0.0654227498	a rich
+0.0641673183	the same
+0.0640290172	applications to
+0.0640036881	associated with
+0.0639388620	an example
+0.0635472866	described by
+0.0625954445	to capture
+0.0623388641	framework for
+0.0623297032	the usual
+0.0620338609	in biology
+0.0617616781	to study
+0.0600093101	a special case of
+0.0598666319	subset of
+0.0596536323	defined on
+0.0595894165	to classify
+0.0595610497	seems to
+0.0592738112	effects on
+0.0591110254	the existence of
+0.0579407138	the effect of
+0.0577025169	degrees of
+0.0577025169	derivation of
+0.0568534951	the main
+0.0567079552	a set of
+0.0564853834	known as
+0.0564133429	to analyze
+0.0556285291	a general
+0.0549054790	expression for
+0.0545362141	in addition to
+0.0540048881	problem with
+0.0528268399	in particular
+0.0525921500	description of
+0.0525280174	to identify
+0.0524629674	the time evolution of
+0.0508467176	the number of
+0.0499156724	the emergence of
+0.0498515354	flow at
+0.0497238041	families of
+0.0495370606	$ t
+0.0492461429	the case of
+0.0488028119	a bottleneck
+0.0483922790	approach to
+0.0473506016	a modified
+0.0468359620	a rigorous
+0.0467301292	edge of
+0.0465346608	the dynamics of
+0.0460541977	model for
+0.0458612339	development of
+0.0455133842	the evolution of
+0.0452316554	orders of
+0.0451838344	in detail
+0.0451341366	set of
+0.0449324424	the notion of
+0.0448237916	the entire
+0.0446671679	a finite
+0.0446495062	time series of
+0.0446195740	proposed by
+0.0444847715	to explore
+0.0442367960	combination of
+0.0439394797	to reproduce
+0.0438237916	the validity
+0.0435814406	response to
+0.0434951991	analysis of
+0.0434847690	choice of
+0.0426735539	dynamics of
+0.0424684440	types of
+0.0420877177	as well
+0.0416636779	behaviour of
+0.0414605362	algorithm for
+0.0411874939	model with
+0.0407464105	degree of
+0.0403969482	definition of
+0.0402014002	conditions for
+0.0398013237	by using
+0.0388969482	consists of
+0.0387865991	^ \
+0.0385690443	an example of
+0.0381191704	construction of
+0.0365700112	an approach
+0.0364510034	the influence of
+0.0364139002	understanding of
+0.0363774887	advantage of
+0.0361253971	addition to
+0.0359768175	given by
+0.0358612686	dependence of
+0.0356654431	theorem for
+0.0356451717	increase in
+0.0351923162	the spread of
+0.0349510034	the behavior of
+0.0347882030	feature of
+0.0347761284	notion of
+0.0346761871	the concept of
+0.0343879532	solution of
+0.0341570919	well with
+0.0336099787	application of
+0.0334527114	family of
+0.0334359669	a number of
+0.0334359669	the distribution of
+0.0333239173	sum of
+0.0331945172	the parity
+0.0331602589	time evolution of
+0.0331507850	the latter
+0.0331447247	onset of
+0.0328394742	a constant
+0.0324359669	the properties of
+0.0323596315	interpretation of
+0.0322417404	instead of
+0.0322416822	used as
+0.0318106595	the system
+0.0317169124	observed in
+0.0316002206	distribution of
+0.0315758073	ergodicity of
+0.0313509250	a lattice
+0.0313002458	performance of
+0.0310224320	the set of
+0.0309215171	representation of
+0.0308713732	amount of
+0.0307833981	corresponding to
+0.0305055635	for example
+0.0300464089	extension of
+0.0299988993	experiments on
+0.0299504776	a method for
+0.0297467301	associated to
+0.0293195189	simulation of
+0.0291225072	the possibility
+0.0290499029	the nature of
+0.0289532083	the structure of
+0.0289067692	extended to
+0.0282160274	variation of
+0.0281672787	range of
+0.0277364830	$ 1
+0.0275470511	the firing
+0.0271029930	class of
+0.0268367537	case of
+0.0266077689	occur in
+0.0263218549	a special
+0.0262700178	the absence
+0.0260899824	the class of
+0.0260893294	the form of
+0.0259238609	condition for
+0.0258262915	to describe
+0.0256337069	concept of
+0.0256072238	a model for
+0.0254229940	the simulation of
+0.0252786459	structure of
+0.0251330518	$ i
+0.0251072238	the dependence of
+0.0241252083	method for
+0.0238339454	behavior of
+0.0237157594	to investigate
+0.0236072238	the range of
+0.0232192020	existence of
+0.0229167916	changes in
+0.0226138064	means of
+0.0222846432	the value of
+0.0217000981	automata with
+0.0216536925	a few
+0.0214405537	universality in
+0.0213700284	found to
+0.0211048600	proposed to
+0.0209282796	evolution of
+0.0209022697	to construct
+0.0206120294	as well as in
+0.0204914170	allows for
+0.0186345340	the presence
+0.0183442029	used for
+0.0176605629	context of
+0.0173695263	and then
+0.0173360521	possible to
+0.0172387543	a certain
+0.0167122656	form of
+0.0161572847	nature of
+0.0157000981	order to
+0.0156209957	effect of
+0.0152421453	to find
+0.0150348462	function of
+0.0148199231	way to
+0.0146892032	influence of
+0.0144947588	emergence of
+0.0137596362	example of
+0.0133429155	terms of
+0.0123867017	allows to
+0.0122763028	value of
+0.0117173394	role of
+0.0108173394	spread of
+0.0101009875	known to
+0.0095187966	well as
