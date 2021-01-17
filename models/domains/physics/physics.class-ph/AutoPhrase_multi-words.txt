@@ -1,0 +1,5439 @@
+0.9677133658	charge density
+0.9625664105	quantum mechanics
+0.9614944400	variational principle
+0.9595470089	gravitational field
+0.9595013560	magnetic moment
+0.9585929283	newtonian mechanics
+0.9584150960	continuum mechanics
+0.9552261828	phase space
+0.9543886758	conservation law
+0.9541099057	radiation pressure
+0.9536475449	lorentz force
+0.9526576780	magnetic dipole
+0.9525789893	electric field
+0.9524002406	transmission lines
+0.9523247432	integral equation
+0.9522991509	heat flux
+0.9513551731	perturbation theory
+0.9508249054	standing wave
+0.9500310879	length contraction
+0.9498803297	noether's theorem
+0.9496460406	free fall
+0.9493617271	shear modulus
+0.9493471651	vector potential
+0.9484704374	lorentz transformations
+0.9484102499	electric potential
+0.9477416262	transformation optics
+0.9476702643	kinetic energy
+0.9472271926	synchrotron radiation
+0.9464559067	energy conservation
+0.9463775861	general relativity
+0.9462214665	geometrical optics
+0.9451018752	double layer
+0.9444174437	maxwell equations
+0.9435675770	hamilton's principle
+0.9432804462	cherenkov radiation
+0.9423225852	classical mechanics
+0.9420860177	energy density
+0.9417938759	thermal radiation
+0.9417080534	hidden momentum
+0.9413605340	equivalence principle
+0.9411253908	mass density
+0.9408543205	differential equations
+0.9408299120	blackbody radiation
+0.9401968516	inverse problem
+0.9398533970	point charge
+0.9397660248	electric charge
+0.9388632475	angular velocity
+0.9385363483	point charges
+0.9383138702	boundary condition
+0.9379905991	boundary layer
+0.9379707735	bulk modulus
+0.9377860721	negative refraction
+0.9375672232	orbital angular momentum
+0.9369102572	current density
+0.9367289055	doppler effect
+0.9366092367	charged particle
+0.9364318826	hamiltonian systems
+0.9363666262	dynamical systems
+0.9363458382	reference frame
+0.9360345810	optical tweezers
+0.9358510553	central force
+0.9358246521	magnetic fields
+0.9357513744	finite element
+0.9356716512	radiation reaction
+0.9355505858	elliptic functions
+0.9353285140	angular momentum
+0.9352418684	multiple scattering
+0.9352007109	field theories
+0.9351514895	photonic crystal
+0.9349956479	wave packet
+0.9344187384	harmonic oscillators
+0.9343948384	machine tool
+0.9342141805	magnetic flux
+0.9341511091	noether theorem
+0.9335334026	magnetic monopole
+0.9334963415	classical physics
+0.9330546634	rigid body
+0.9328223675	electromagnetic radiation
+0.9315877375	rough surfaces
+0.9315096828	unit cell
+0.9310684475	differential equation
+0.9307580980	energy harvesting
+0.9306115740	light cone
+0.9305174494	normal modes
+0.9298317226	water waves
+0.9295423464	coordinate transformation
+0.9292562371	rest mass
+0.9290406997	maxwell's demon
+0.9290169719	thomas precession
+0.9289726407	heat transfer
+0.9288235733	impedance matching
+0.9288034520	inertial frame
+0.9284588674	fractional derivatives
+0.9284397706	doppler shift
+0.9279975842	magnetic field
+0.9278034949	heat engine
+0.9275530881	transmission line
+0.9273132079	exceptional points
+0.9270701967	harmonic oscillator
+0.9269967606	mach's principle
+0.9268272858	symmetry breaking
+0.9267111723	light speed
+0.9265279322	radiative transfer
+0.9264949670	coulomb's law
+0.9263562177	phononic crystal
+0.9261585793	dark matter
+0.9260181630	poisson's ratio
+0.9259956262	electric dipole
+0.9257927217	vector fields
+0.9257614040	reynolds number
+0.9257046300	gauge theory
+0.9253870027	minkowski spacetime
+0.9253821888	perfectly conducting
+0.9246630443	solitary waves
+0.9245333328	classical electrodynamics
+0.9244034493	quantum mechanical
+0.9243258204	linear momentum
+0.9241631908	green's function
+0.9240366807	gauge invariance
+0.9240016911	brownian motion
+0.9239549953	finite element method
+0.9238034193	shock wave
+0.9234565360	power law
+0.9233409174	green function
+0.9232250516	phase transition
+0.9230790997	correlation function
+0.9228608220	classical electromagnetism
+0.9225762234	relative equilibria
+0.9220171191	ideal gas
+0.9216708735	higher derivative
+0.9216453204	conservation laws
+0.9215357623	black hole
+0.9215202447	laplace's equation
+0.9213550019	normal force
+0.9210308696	lattice boltzmann
+0.9210177940	displacement current
+0.9208339802	centrifugal force
+0.9204171323	electrically small
+0.9203007396	spherical harmonics
+0.9202316964	black holes
+0.9201033929	thermal equilibrium
+0.9199582097	wave turbulence
+0.9197610424	foucault pendulum
+0.9191506657	plane wave
+0.9191446179	electromagnetic waves
+0.9184836846	charged particles
+0.9184461780	drag force
+0.9183723239	electromagnetic fields
+0.9183038872	transfer function
+0.9183036366	photonic crystals
+0.9181673940	hilbert space
+0.9181547491	external magnetic field
+0.9181544146	steady state
+0.9180396459	maxwell's equations
+0.9180309488	uniformly accelerated
+0.9178246255	mechanical systems
+0.9178191133	fractional calculus
+0.9175597455	normal form
+0.9175107479	acoustic metamaterial
+0.9170785545	phononic crystals
+0.9170695644	constitutive law
+0.9169581936	phased array
+0.9169495982	euler equations
+0.9168976257	travelling wave
+0.9165740699	dissipative systems
+0.9162941283	heat engines
+0.9162033584	wave propagation
+0.9160082909	inverted pendulum
+0.9159973609	geometric algebra
+0.9159847906	lorentz contraction
+0.9155832341	probability distribution
+0.9155231264	entropy production
+0.9153301555	finite volume
+0.9151167439	fourier transform
+0.9150501670	contact area
+0.9148401485	continuity equation
+0.9147146925	mechanical momentum
+0.9142737254	constitutive laws
+0.9141881870	kinetic theory
+0.9140154325	surface tension
+0.9137370699	light pulse
+0.9134199184	uniformly charged
+0.9133735117	rigid bodies
+0.9131655286	gradient elasticity
+0.9129865302	hamiltonian mechanics
+0.9126226617	vortex beams
+0.9125626323	surface waves
+0.9124045471	edge states
+0.9123446256	boundary element method
+0.9121114156	timoshenko beam
+0.9121089145	variational principles
+0.9120667280	electric fields
+0.9119690120	introductory physics
+0.9118173185	axially symmetric
+0.9116565871	video analysis
+0.9116195920	canonical transformation
+0.9116085147	numerical integration
+0.9114188445	frequency comb
+0.9114174837	thermal expansion
+0.9113582490	shallow water
+0.9109630612	evanescent waves
+0.9109365535	linear elasticity
+0.9108767813	symmetry classes
+0.9108395302	wigner rotation
+0.9108343790	bessel beams
+0.9107712318	geometric phase
+0.9106731663	linear elastic
+0.9105121970	stored energies
+0.9101534284	green functions
+0.9098838279	faraday's law
+0.9098656402	chemical potential
+0.9097697049	heat conduction
+0.9097203219	special relativity
+0.9096538488	configuration space
+0.9094462727	high frequency
+0.9090304090	multipole moments
+0.9090093739	diffusion equation
+0.9085078155	band gaps
+0.9084261986	shear stress
+0.9083766435	vector field
+0.9082895821	path integral
+0.9082670852	differential geometry
+0.9080880721	permanent magnet
+0.9080855616	momentum conservation
+0.9078264259	transformation rules
+0.9076694108	electromagnetic field
+0.9076590580	impulse response
+0.9076406168	frequency domain
+0.9068573809	energy transfer
+0.9068526242	gibbs paradox
+0.9068415795	magnus effect
+0.9063971727	chain fountain
+0.9063188525	magnetic dipoles
+0.9060482397	optimization problem
+0.9059801931	meissner effect
+0.9058794798	planck's constant
+0.9058349063	preferred frame
+0.9057773540	high speed
+0.9056924064	delta function
+0.9055412091	lower bound
+0.9053182123	normal mode
+0.9052918504	standing waves
+0.9051933558	sound waves
+0.9049683357	poisson brackets
+0.9048499451	lagrangian mechanics
+0.9048124330	general relativistic
+0.9047445667	poisson bracket
+0.9046495690	stress tensor
+0.9046355716	quality factor
+0.9045913475	warping functions
+0.9043789418	free surface
+0.9040769481	hooke's law
+0.9039548755	external force
+0.9039455749	stirling engine
+0.9038350452	experimental evidence
+0.9035855158	elastic waves
+0.9035019789	traveling wave
+0.9033150370	boltzmann equation
+0.9032010326	equivalent circuit
+0.9024808118	quantum field theory
+0.9024516832	covariant derivative
+0.9024031087	constitutive parameters
+0.9023155044	low frequency
+0.9017886182	poynting theorem
+0.9017411193	volume fraction
+0.9011169583	high school
+0.9009324608	acoustic metamaterials
+0.9008666401	anomalous diffusion
+0.9006774357	simple pendulum
+0.9006332127	young's modulus
+0.9005822437	periodic orbits
+0.9004369575	wind instruments
+0.9003409441	surface plasmon
+0.9002185207	watt balance
+0.8999979213	poynting vector
+0.8998863890	newtonian gravity
+0.8997481387	conformal mapping
+0.8991505496	stimulated emission
+0.8988791722	bessel beam
+0.8988245777	phase transitions
+0.8987938377	reference frames
+0.8986445657	simulation results
+0.8984141414	electron beam
+0.8983623341	canonical transformations
+0.8983228942	lorentz invariance
+0.8977550941	fluid mechanics
+0.8975671062	topological insulators
+0.8974356777	newtonian gravitation
+0.8973849795	carnot cycle
+0.8970383523	dielectric media
+0.8969809284	frequency range
+0.8967303668	helmholtz theorem
+0.8967037917	power loss
+0.8965523970	band gap
+0.8965227952	force law
+0.8964347781	relative humidity
+0.8964080388	refractive index
+0.8963938231	conserved quantities
+0.8963854437	polar coordinates
+0.8963358926	newtonian dynamics
+0.8962937934	inertial frames
+0.8962895420	lab frame
+0.8962714354	vortex beam
+0.8962638488	world line
+0.8962079017	long wavelength
+0.8958751092	square lattice
+0.8954539844	lie algebra
+0.8950188136	random walks
+0.8948081547	electromagnetic momentum
+0.8941580720	solitary wave
+0.8940868427	inertial mass
+0.8936581928	resonance frequency
+0.8936359685	exact solutions
+0.8936097995	electric current
+0.8935725680	partition function
+0.8935339911	coriolis force
+0.8935199172	constitutive relations
+0.8934328107	charge distribution
+0.8934001218	momentum density
+0.8933889500	boundary conditions
+0.8930512780	closed form
+0.8927146982	constitutive equations
+0.8922628475	free space
+0.8921847562	relative motion
+0.8920938150	gauge invariant
+0.8920521981	acoustic waves
+0.8920448669	maxwell demon
+0.8918890988	plane waves
+0.8917061881	electrically charged
+0.8914223718	radio frequency
+0.8913228614	musical instruments
+0.8911156345	locally resonant
+0.8909354092	scalar field
+0.8908345699	hall effect
+0.8908197846	molecular dynamics
+0.8907596502	relativistic mechanics
+0.8907564976	electromagnetic wave
+0.8907312429	magnetic induction
+0.8906354419	longitudinal electric
+0.8906179254	higher order
+0.8906131182	traveling waves
+0.8904293285	dimensional analysis
+0.8903173623	electromotive force
+0.8899042179	dispersive media
+0.8897609570	laser beam
+0.8897181583	inertial reference frames
+0.8896899078	parametric resonance
+0.8896765697	curved space
+0.8896077058	fractional derivative
+0.8892060031	long wave
+0.8887636225	vlasov equation
+0.8887128030	hannay angle
+0.8886281030	axiomatic approach
+0.8882523827	fluid dynamics
+0.8880893029	uncertainty relation
+0.8878009900	coupled oscillators
+0.8877222449	point mass
+0.8875667019	cartesian coordinates
+0.8872851206	metric tensor
+0.8871807740	gauss's law
+0.8871105267	high order
+0.8870261667	circularly polarized
+0.8868096495	faraday induction
+0.8867556316	numerical simulation
+0.8867276653	heat bath
+0.8866798255	hydrogen atom
+0.8865877193	spatial dispersion
+0.8865862098	porous materials
+0.8863885064	circular orbits
+0.8862840579	flexural waves
+0.8860730128	rlc circuits
+0.8860562174	numerical scheme
+0.8857596891	length scale
+0.8857489244	constitutive relation
+0.8856500421	rest frame
+0.8856053988	quantum theory
+0.8855074334	master equation
+0.8851342897	acoustic cloak
+0.8849068297	ideal gases
+0.8848530532	variable mass systems
+0.8848236665	conservative systems
+0.8847414559	guided wave
+0.8846602592	separation distance
+0.8846332349	schrodinger equation
+0.8842408296	induced transparency
+0.8841038429	flat spacetime
+0.8840082628	deep water
+0.8839766513	physical meaning
+0.8837112220	integral equations
+0.8836139476	lowest order
+0.8834838915	wave packets
+0.8834218352	isotropic turbulence
+0.8833889039	straight line
+0.8831862770	electromagnetic scattering
+0.8828493166	rogue wave
+0.8827581898	rindler frame
+0.8827514883	linearly polarized
+0.8827377743	magnetic monopoles
+0.8825785042	driving force
+0.8825727585	electron bunch
+0.8825490874	contact angle
+0.8824116481	inertial observer
+0.8821383676	point particle
+0.8821224867	thought experiment
+0.8821148074	relative velocity
+0.8819456476	acoustic wave
+0.8819295461	hanging chain
+0.8815761480	exceptional point
+0.8815656700	thermal conductivity
+0.8813177657	numerical method
+0.8812353914	heat capacity
+0.8811902196	interacting particles
+0.8811435488	negative index
+0.8806521357	action principle
+0.8805978595	topological defects
+0.8803543698	phase diagram
+0.8803370312	perfect absorption
+0.8802472227	rutherford scattering
+0.8801794811	larmor's formula
+0.8800346161	single particle
+0.8797410736	point masses
+0.8793462603	helmholtz decomposition
+0.8792767681	experimental setup
+0.8789920011	lyapunov analysis
+0.8787615750	saddle point
+0.8785517242	partial differential equations
+0.8779530144	thermodynamic equilibrium
+0.8778093702	gravitational potential
+0.8777033018	complex valued
+0.8775275444	guided modes
+0.8773389777	seismic wave
+0.8773304789	finite size
+0.8773212728	poisson systems
+0.8773105070	reynolds numbers
+0.8772744372	random walk
+0.8768160314	crack tip
+0.8766528360	premixed flames
+0.8765406820	lower bounds
+0.8765308723	half space
+0.8762736723	lyapunov exponents
+0.8759411616	radiation force
+0.8756249821	initial condition
+0.8755003314	analytical solution
+0.8754756465	upper bound
+0.8753386474	theoretical predictions
+0.8746503115	electromagnetic induction
+0.8744934238	poisson equation
+0.8744336122	fourth order
+0.8741406468	large scale
+0.8741157253	differential form
+0.8740021258	energy flux
+0.8739588977	hamiltonian dynamics
+0.8738666680	band structure
+0.8738610587	distribution function
+0.8738265443	film thickness
+0.8736310451	fourier series
+0.8735449856	correlation functions
+0.8734752074	illustrative examples
+0.8734562527	analytical results
+0.8731687773	rayleigh damping
+0.8730317897	lorenz gauge
+0.8729651586	constitutive tensors
+0.8729619322	circular orbit
+0.8726863948	slowly varying
+0.8726439758	seismic waves
+0.8725783765	mouth pressure
+0.8723941923	differential forms
+0.8722903613	internal friction
+0.8722761323	anisotropic media
+0.8722709851	frozen waves
+0.8722273197	impedance surfaces
+0.8721163305	direct numerical simulations
+0.8721136242	wide band
+0.8719980395	aspect ratio
+0.8717388152	dispersion curves
+0.8717111340	odinger equation
+0.8716127772	ordinary differential equations
+0.8715043667	constant speed
+0.8714452842	fractal distribution
+0.8712926439	cross correlation
+0.8711127664	asymptotic expansions
+0.8710788112	friction coefficient
+0.8710413139	stop band
+0.8709639979	constitutive tensor
+0.8708247481	electric charges
+0.8707367213	governing equations
+0.8707278239	bound states
+0.8705541225	material parameters
+0.8702526033	fundamental constants
+0.8701488734	fixed point
+0.8700553779	discrete breathers
+0.8700266648	experimental realization
+0.8694391759	arbitrarily shaped
+0.8691172042	periodic solutions
+0.8690965844	yield stress
+0.8690442148	maximum entropy
+0.8690000234	jump conditions
+0.8689356852	partial derivatives
+0.8689056845	maximal acceleration
+0.8688550993	stored energy
+0.8688370459	leading order
+0.8688107277	boundary integral
+0.8686429739	newton's law
+0.8685128804	euclidean space
+0.8684216432	viscous fluid
+0.8683932014	exterior calculus
+0.8675407333	group velocity
+0.8674483198	resonant modes
+0.8673883034	initial conditions
+0.8672329748	heat conductivity
+0.8671099427	wire medium
+0.8670949854	lagrangian formalism
+0.8667685218	finite length
+0.8663157934	takes place
+0.8662996565	crack growth
+0.8661353129	dispersion relations
+0.8660582414	magneto dielectric
+0.8655690899	static magnetic field
+0.8653583914	ground plane
+0.8652803461	analytic solutions
+0.8651384530	vapor recoil
+0.8650491031	lorentz transformation
+0.8649795103	neutron stars
+0.8647494031	stop bands
+0.8646748704	symmetry axis
+0.8645556916	frequency shift
+0.8644600112	shock waves
+0.8644049632	plate capacitor
+0.8641234500	boltzmann distribution
+0.8640151145	digital image correlation
+0.8639874654	modern physics
+0.8636579335	fractional laplacian
+0.8633787306	duffing oscillator
+0.8633181791	phase shift
+0.8629673043	wave number
+0.8629338882	arc length
+0.8629242792	velocity space
+0.8628108534	numerical results
+0.8621540456	` `
+0.8621337520	force density
+0.8619250684	undergraduate students
+0.8618379976	weak turbulence
+0.8617546979	inertial observers
+0.8615569350	em field
+0.8613591125	guided waves
+0.8608986247	lorentz invariant
+0.8608806382	green's functions
+0.8608740123	bessel functions
+0.8608562748	analytic solution
+0.8608552623	pt symmetry
+0.8606016198	coordinate transformations
+0.8604499753	shallow water equations
+0.8601895818	relaxed micromorphic
+0.8601865046	cross section
+0.8600814369	heat transport
+0.8600720532	cross sections
+0.8597525053	signal processing
+0.8597424850	field theory
+0.8597342067	wave function
+0.8597341919	helmholtz resonators
+0.8596203806	localized waves
+0.8596145665	simply supported
+0.8593445776	condensed matter
+0.8592304427	faster than light
+0.8588835657	stiffness matrix
+0.8587966254	sufficiently large
+0.8585554813	inclined plane
+0.8584462687	numerical experiments
+0.8581572021	blowing pressure
+0.8581285194	power laws
+0.8580723372	machine learning
+0.8579617303	radiative heat transfer
+0.8579569632	experimental results
+0.8578905662	physical systems
+0.8577951235	circular motion
+0.8577410999	strain gradient
+0.8577378699	projectile motion
+0.8576658475	shear wave
+0.8573735729	surface wave
+0.8573018539	porous media
+0.8569498142	capillary wave turbulence
+0.8567063582	recent developments
+0.8566450565	velocity dependent
+0.8565185366	current loop
+0.8564442216	gauge transformations
+0.8562565742	energy dissipation
+0.8561495833	thomson problem
+0.8560657634	electromagnetic potentials
+0.8559277951	radiated energy
+0.8559203904	scattering matrix
+0.8557123198	integral representation
+0.8557041504	transversely isotropic
+0.8556253722	equilibrium states
+0.8555659114	clock paradox
+0.8555620628	newton's laws
+0.8553897321	frequency dependent
+0.8552613295	optical fiber
+0.8551701673	world lines
+0.8550530646	field lines
+0.8548547571	energy balance
+0.8546236018	wave vector
+0.8545706515	energy conservation law
+0.8545156459	uniformly moving
+0.8543241028	laplace transform
+0.8541654350	numerical solutions
+0.8541247265	wave equation
+0.8540551102	solid state
+0.8538681703	briefly discussed
+0.8537351365	stationary action
+0.8537181206	minkowski momentum
+0.8537019668	triangular lattice
+0.8536922932	nonholonomic constraints
+0.8536191457	quantum physics
+0.8536024620	ad hoc
+0.8534699025	electromagnetic theory
+0.8533162368	finite difference
+0.8531657478	fluctuation theorem
+0.8531332074	finite thickness
+0.8528778716	soliton solution
+0.8527381554	holonomic constraints
+0.8522162938	single bubble
+0.8517930185	light propagation
+0.8515032075	van der waals
+0.8511814649	opposite sign
+0.8510754800	granular materials
+0.8505463946	infinitely long
+0.8505224359	green tensor
+0.8505115188	sandwich beams
+0.8504171770	limit cycle
+0.8503708145	gauge theories
+0.8501148881	planck constant
+0.8499544591	spherically symmetric
+0.8499126032	information theory
+0.8498697351	physical reality
+0.8497235717	cartesian grid
+0.8495083272	test cases
+0.8494702667	quasi static
+0.8494179381	pentagon packing
+0.8492569455	surface impedance
+0.8492237666	electrolyte solution
+0.8491625378	wireless power transfer
+0.8490213724	frequency selective
+0.8488011438	poynting's theorem
+0.8487251370	elastic collisions
+0.8486412565	relativistic dynamics
+0.8484813194	scalar potential
+0.8480161862	spin hall effect
+0.8480085531	poisson structures
+0.8477441566	leaky wave
+0.8472659670	externally applied
+0.8472530981	stress field
+0.8468312855	antenna arrays
+0.8468138005	acoustic black holes
+0.8467691276	point particles
+0.8461386448	ambient vibrations
+0.8460975601	state space
+0.8460579824	upper limit
+0.8458306121	vocal tract
+0.8457441381	lorentz group
+0.8453463492	bertrand's theorem
+0.8453192300	generalized sheet transition
+0.8450691808	seismic site
+0.8450504330	dielectric medium
+0.8448185075	neumann boundary
+0.8446455841	potential energy
+0.8445428156	multiple scales
+0.8444199950	low order
+0.8441828596	vocal folds
+0.8441809226	years ago
+0.8441473081	boussinesq type
+0.8440002354	space charge
+0.8438801331	dielectric cylinder
+0.8438354346	oscillation threshold
+0.8436248207	limiting cases
+0.8434744576	gauge fields
+0.8429765938	input impedance
+0.8425864579	ground state
+0.8425722485	sound wave
+0.8425005310	lorentz boosts
+0.8421848124	growth rate
+0.8421209300	maximum entropy principle
+0.8418131748	inhomogeneous media
+0.8416009180	horizontal plane
+0.8414857166	numerical computations
+0.8414702583	momentum conserving
+0.8413466923	unit cells
+0.8411031569	aspect ratios
+0.8409478240	magnetic permeability
+0.8408920643	transfer matrix method
+0.8408526463	low cost
+0.8407106392	scale invariant
+0.8406559518	arbitrarily large
+0.8405088441	travelling waves
+0.8404951244	numerical methods
+0.8400693253	sufficiently small
+0.8400398717	physical optics
+0.8397656084	incident wave
+0.8395702199	series expansions
+0.8395022707	previous works
+0.8394446520	physically meaningful
+0.8392872660	nematic liquid
+0.8385988961	laboratory experiments
+0.8378509036	effective medium
+0.8378113898	torsional waves
+0.8377977786	scalar product
+0.8376888220	rigid body dynamics
+0.8376593538	manifestly covariant
+0.8376305006	d'alembert's principle
+0.8375200831	acoustic scattering
+0.8372478343	coulomb gauge
+0.8372427699	dipole moments
+0.8370337690	recent experiments
+0.8369522634	analytical solutions
+0.8367786872	eisenhart lift
+0.8366993406	thermal emission
+0.8366206943	elastic wave
+0.8364399888	plane strain
+0.8362663091	zeroth order
+0.8361143894	length scales
+0.8360525707	elastic medium
+0.8357342042	square root
+0.8356962333	integer order
+0.8355109860	elasticity tensor
+0.8353743692	starting point
+0.8353558167	electric conductor
+0.8351978326	elastic modulus
+0.8351922584	wave amplitude
+0.8349956349	liquid crystal
+0.8343951336	action functional
+0.8343770906	schott term
+0.8343275368	key role
+0.8341521512	partial differential
+0.8340659054	monte carlo
+0.8339854175	experimental observations
+0.8339431868	excellent agreement
+0.8335974490	reduced order model
+0.8328088610	output power
+0.8325864468	material media
+0.8324524101	domain decomposition
+0.8320588673	free energy
+0.8317052048	elastic properties
+0.8314637919	slow light
+0.8314627580	experimental data
+0.8313290794	negative phase velocity
+0.8312503870	double pendulum
+0.8308953725	wave scattering
+0.8308514036	variable mass
+0.8308463070	current densities
+0.8304597922	total reflection
+0.8301155235	spinning particles
+0.8300111383	sommerfeld sphere
+0.8299538310	spinning particle
+0.8298032619	long range
+0.8297365093	masses connected
+0.8296620591	line integral
+0.8294183700	core sandwich
+0.8294109785	divergence free
+0.8292008116	physical quantities
+0.8290711630	gravitational waves
+0.8289611024	problems involving
+0.8289046498	classical field theory
+0.8288501250	fluid loaded
+0.8287285453	special attention
+0.8284751461	reaction force
+0.8283364402	radiated power
+0.8281730778	hopf bifurcation
+0.8280913030	dimensional space
+0.8279269601	distribution functions
+0.8278288345	angular frequency
+0.8277328244	relativity principle
+0.8276797137	velocity profile
+0.8276068777	jacobi equations
+0.8274095492	pt symmetric
+0.8272184255	spring mass
+0.8271596880	recently published
+0.8269165024	computational cost
+0.8267408353	black body
+0.8266780758	forced vibration
+0.8266547490	real world
+0.8265560403	inverse square
+0.8263944953	analytical approach
+0.8261465969	dynamical equations
+0.8258460274	gaussian beam
+0.8256895326	granular media
+0.8253959872	angular momenta
+0.8252933600	hamiltonian formalism
+0.8251771152	mathematical model
+0.8250857233	irreversible processes
+0.8249487526	torque exerted
+0.8247187088	dielectric constant
+0.8244851771	poroelastic media
+0.8244549881	single frequency
+0.8242923252	charge distributions
+0.8242415092	phase velocity
+0.8242203449	dipole moment
+0.8238526159	dispersion relation
+0.8238433354	soliton solutions
+0.8235977644	power spectrum
+0.8235687151	crucial role
+0.8235063019	internal variable
+0.8234956931	surface integral
+0.8233587206	static friction
+0.8233242942	special cases
+0.8231691721	storage rings
+0.8228732104	toy model
+0.8227949752	flat space
+0.8224913343	gradient index
+0.8219623129	mathematical physics
+0.8216057504	acoustic properties
+0.8215807690	classical dynamics
+0.8215103151	boiling crisis
+0.8214911259	ether drift
+0.8213553351	lagrangian formulation
+0.8213125276	essential role
+0.8210890009	direct measurement
+0.8210156302	numerical simulations
+0.8204281910	ab initio
+0.8204262478	diffusion coefficient
+0.8199015415	scattered field
+0.8198772785	small scale
+0.8195467058	harmonic generation
+0.8193274608	variational formulation
+0.8192850761	gravitational mass
+0.8192549830	true transformations
+0.8191989071	viscous dissipation
+0.8187109907	frequency band
+0.8184468708	force acting
+0.8182771793	lorentz covariant
+0.8182040675	bending stiffness
+0.8179539474	energy loss
+0.8175578327	rayleigh waves
+0.8174634743	numerical calculations
+0.8171981342	high energy
+0.8168628731	numerical examples
+0.8166601504	inverse square law
+0.8163637121	room temperature
+0.8162118089	hamiltonian formulation
+0.8157372480	fully developed
+0.8156922448	physical phenomena
+0.8156233641	electric dipoles
+0.8151101834	artificial magnetic
+0.8149923438	reduced order
+0.8147148362	mechanical energy
+0.8146884939	stress intensity
+0.8146654816	photon gas
+0.8142950021	analytical mechanics
+0.8142837732	dynamic oscillation threshold
+0.8138611411	flow velocity
+0.8137549493	vibrational modes
+0.8137359430	relaxation scheme
+0.8133182158	small amplitude
+0.8131136962	van der pol
+0.8129168574	em wave
+0.8125079172	translational motion
+0.8123516630	reflection coefficient
+0.8121336997	surrounding medium
+0.8114792987	evolution equations
+0.8114606416	previously reported
+0.8109607592	recently proposed
+0.8107754148	uniform magnetic field
+0.8107671844	closed form solution
+0.8107304514	numerical schemes
+0.8104479918	theoretical framework
+0.8102498347	moving charge
+0.8101700340	background medium
+0.8100303653	external forces
+0.8099728716	physically relevant
+0.8099318010	molecular dynamics simulations
+0.8093118652	constant velocity
+0.8091802362	19th century
+0.8090173283	wave equations
+0.8089013032	frequency dependence
+0.8087916152	closed orbits
+0.8086736957	conserved quantity
+0.8083660671	optical properties
+0.8082523140	incompressible fluid
+0.8081924368	boundary layers
+0.8080878504	group velocities
+0.8079944190	semi analytical
+0.8075975795	action angle
+0.8075907020	asymptotic analysis
+0.8075471192	group theory
+0.8072887570	recently developed
+0.8068455395	vortex lines
+0.8068446783	elastic rod
+0.8066801141	fluid flow
+0.8066720091	critical point
+0.8062025416	finite volume method
+0.8059239240	phase shifts
+0.8058051416	closed form expression
+0.8057752005	series expansion
+0.8057663068	laser pulse
+0.8057059271	stress strain
+0.8054695026	hamiltonian description
+0.8054492550	modal density
+0.8052638973	long standing
+0.8051516711	proper acceleration
+0.8050337998	body problem
+0.8047838191	elliptical instability
+0.8046397422	inverse scattering
+0.8043655599	weakly nonlinear
+0.8039416081	analytical expressions
+0.8038795850	solved numerically
+0.8037876788	minkowski space
+0.8037463574	natural frequency
+0.8036167764	charge conservation
+0.8031438326	practical applications
+0.8030359539	multi symplectic
+0.8029748695	slow dynamics
+0.8029361246	energy momentum tensor
+0.8029314331	stiffness tensor
+0.8026419699	rotational inertia
+0.8024977602	classical electron
+0.8023845168	quantum systems
+0.8022490048	field strengths
+0.8015763201	electrostatic energy
+0.8011774866	electret based
+0.8011745004	pressure field
+0.8009995605	strain energy
+0.8004246262	thermo mechanical
+0.8003393746	dry friction
+0.8003043419	sound absorption
+0.8002005644	partial differential equation
+0.7999509398	quasi periodic
+0.7996547542	long term
+0.7995979035	scattering problem
+0.7994981871	kinetic equation
+0.7991732830	gravitational wave
+0.7991731181	analytical formulas
+0.7991160502	scaling laws
+0.7984989784	symmetry class
+0.7984608719	relativistic effects
+0.7983391714	nonlinear schrodinger equation
+0.7979702947	important issue
+0.7975090165	low mach
+0.7974523960	internal energy
+0.7973481465	main result
+0.7973268223	site city
+0.7971639112	energy transport
+0.7969509634	approximate solutions
+0.7968575439	probability distributions
+0.7967819832	previous studies
+0.7966167197	energy momentum
+0.7963390064	elastic moduli
+0.7961412782	field equations
+0.7959447894	complex systems
+0.7958969585	thermal energy
+0.7958408243	semi infinite
+0.7956805116	flow rate
+0.7953890898	asymptotic expansion
+0.7949633443	theoretical study
+0.7945104902	incident field
+0.7945069060	solved analytically
+0.7942664218	transverse shear
+0.7942206424	numerical calculation
+0.7939310360	helmholtz equation
+0.7937913788	half spaces
+0.7936175589	hamiltonian structure
+0.7932961558	high power
+0.7932778449	trapped mode
+0.7926059046	post buckling
+0.7923727733	transmission loss
+0.7915587987	radiation resistance
+0.7915385904	form invariance
+0.7914102744	strain rate
+0.7913818249	fully nonlinear
+0.7913502609	scattering problems
+0.7911916392	contact dynamics
+0.7911505459	whispering gallery
+0.7907822446	coulomb interaction
+0.7907119148	momentum space
+0.7905994199	fractal media
+0.7904942167	closely related
+0.7903213013	rotational symmetry
+0.7902424051	abraham momentum
+0.7901683168	surface charge density
+0.7899815961	differential error
+0.7899441437	skewon field
+0.7898767683	finite dimensional
+0.7895988480	stick slip
+0.7893779705	coherent perfect
+0.7890000365	contact line
+0.7888244382	theoretical results
+0.7886862732	gravity waves
+0.7880130078	continuous media
+0.7877717912	lossy media
+0.7875807886	elastic wave propagation
+0.7871820504	covariant formulation
+0.7869945545	retarded potentials
+0.7866238288	maxwell lorentz
+0.7865052681	analytical expression
+0.7859768067	relativistic particle
+0.7859467083	short range
+0.7858894517	energy momentum tensors
+0.7853896704	navier stokes equations
+0.7852599082	probability density
+0.7846044660	radiation efficiency
+0.7845701779	dirac equation
+0.7845329400	magneto electric
+0.7842031233	approximate solution
+0.7839890641	fokker planck equation
+0.7836159409	gauge symmetry
+0.7835327001	total energy
+0.7830260717	long range interactions
+0.7829789485	balance equations
+0.7829509894	maxwell's macroscopic equations
+0.7828593034	web core
+0.7827829916	special class
+0.7817415099	position dependent
+0.7816286834	continuous medium
+0.7814572253	bound charge
+0.7814146895	variational problem
+0.7813647967	twin paradox
+0.7813245795	elementary particle physics
+0.7812249089	high temperature
+0.7801228811	maxwell's electrodynamics
+0.7798136840	constitutive equation
+0.7797891784	response functions
+0.7796567224	canonical equations
+0.7794466944	newton's second law
+0.7794118188	spatio temporal
+0.7792008449	size dependent
+0.7791559217	small angle
+0.7788961062	accelerated motion
+0.7787435675	experimental measurements
+0.7782557468	harmonic balance
+0.7782238125	momentum flux
+0.7779562460	electromagnetic forces
+0.7774314298	electromagnetic interaction
+0.7773466713	nearest neighbor
+0.7767147962	weak field
+0.7764568245	rayleigh wave
+0.7764163604	arbitrarily moving
+0.7764144427	experimentally demonstrate
+0.7762837454	velocity distribution
+0.7761975455	critical points
+0.7755922844	rayleigh taylor
+0.7755328944	numerical study
+0.7754369939	nonlinear dynamics
+0.7751513311	spatial dimension
+0.7746068645	invariant measure
+0.7745826881	magnetic vector potential
+0.7745067253	micro inertia
+0.7743671367	stationary states
+0.7742825006	gravitational force
+0.7742725188	van der
+0.7741451219	spherical shells
+0.7740002341	current distribution
+0.7735723842	general solution
+0.7735688178	water wave
+0.7735585106	constant curvature
+0.7735440387	retarded fields
+0.7735394569	briefly discuss
+0.7734499065	digital image
+0.7733744867	strain gradient elasticity
+0.7733349785	star shaped
+0.7730819558	scattering cross section
+0.7730422283	spatial coordinates
+0.7728384236	reactive energy
+0.7727358482	euler lagrange equations
+0.7724171875	external fields
+0.7724030568	coherent structures
+0.7723866629	energy stored
+0.7719023359	classical particle
+0.7716119104	liouville equation
+0.7714559168	finite element simulations
+0.7713151330	circular polarization
+0.7712349058	periodic structure
+0.7711070737	analytical study
+0.7707875143	physical space
+0.7705061250	equation describing
+0.7705028396	generalized coordinates
+0.7702515315	stress tensors
+0.7698477223	meta atoms
+0.7697592118	open source
+0.7696882271	type equations
+0.7696359580	propagating waves
+0.7695636095	canonical form
+0.7694316288	von neumann
+0.7688834702	poisson structure
+0.7680452988	volume change
+0.7680355555	parity time symmetric
+0.7679690128	parameter space
+0.7678787894	boundary element
+0.7676790262	split ring resonators
+0.7676701840	single layer
+0.7668007909	propagating modes
+0.7665755204	material properties
+0.7664231575	resonant frequencies
+0.7662076499	generating functions
+0.7656344381	linear response
+0.7655607105	crack propagation
+0.7647628796	mass spring
+0.7646863676	abraham lorentz
+0.7644103731	constrained systems
+0.7642264053	gauge conditions
+0.7642246068	elastic rods
+0.7639853308	cross sectional
+0.7637335554	spatial dimensions
+0.7637090001	low energy
+0.7636729998	fundamental frequency
+0.7636407493	capacitor problem
+0.7634630061	split ring
+0.7633725792	stress force
+0.7629562689	meta atom
+0.7625919378	previous results
+0.7625696829	high accuracy
+0.7624206885	temperature difference
+0.7621926522	particle interactions
+0.7621212535	gravity capillary
+0.7620125889	long lived
+0.7615401015	wheeler feynman
+0.7615209798	field strength
+0.7614693902	coulomb potential
+0.7607781869	modal analysis
+0.7605976320	experimental test
+0.7604883128	electron beams
+0.7603379159	standard model
+0.7601932588	physical properties
+0.7597018071	dipole antenna
+0.7595760039	image charges
+0.7594436106	abraham minkowski
+0.7589092302	classical zero point radiation
+0.7588863015	planck spectrum
+0.7583013960	euler lagrange
+0.7582589745	physical interpretation
+0.7581482311	transition radiation
+0.7579977289	homogeneous medium
+0.7577884744	action reaction
+0.7577443387	conformal symmetry
+0.7574727994	capillary gravity
+0.7574264293	continuum limit
+0.7562726026	beam beam
+0.7561516874	plate theory
+0.7560856480	total mass
+0.7554145945	total force
+0.7554042638	effective potential
+0.7553534400	high impedance
+0.7553103434	aharonov bohm phase shift
+0.7549739407	fixed points
+0.7546799541	high resolution
+0.7546502286	axion field
+0.7544583937	incident beam
+0.7543359733	trapped modes
+0.7541614445	vice versa
+0.7540896533	pre stress
+0.7538867247	dielectric slab
+0.7536545418	scattering theory
+0.7533864154	landau lifshitz
+0.7533223155	effective mass
+0.7533181451	lie poisson
+0.7532720874	gauge field
+0.7530767490	pulse propagation
+0.7530616778	free vibration
+0.7525239880	ginzburg landau
+0.7524127626	left handed
+0.7517954357	relativistic kinematics
+0.7517256877	high precision
+0.7515615289	experimental approach
+0.7513504315	numerical analysis
+0.7510644332	friction force
+0.7506393757	radiation field
+0.7503108506	boltzmann gibbs
+0.7502218145	material element
+0.7501247889	frequency response
+0.7500523941	shear deformation
+0.7499907000	relativity theory
+0.7499841144	electromagnetic energy
+0.7499323425	dielectric permittivity
+0.7499219325	shear waves
+0.7498248966	newton's third law
+0.7497465096	boundary value problem
+0.7497433418	displacement field
+0.7493344033	hyperbolic motion
+0.7492289776	expansion method
+0.7491536687	point source
+0.7491281261	finite elements
+0.7490226298	transverse electric
+0.7489871061	fluid structure
+0.7487514053	topological properties
+0.7486677603	elementary particles
+0.7485013784	low dimensional
+0.7483403578	particle dynamics
+0.7481965994	moving objects
+0.7481157320	acoustic propagation
+0.7473718348	transmission coefficient
+0.7473638867	large amplitude
+0.7467428890	thermal noise
+0.7466239483	abraham minkowski controversy
+0.7464969235	image charge
+0.7458688538	external field
+0.7458348626	evolution equation
+0.7455370791	stationary state
+0.7449230761	shear flow
+0.7448482613	theoretical analysis
+0.7445102461	kramers kronig relations
+0.7442266584	integro differential
+0.7439759870	power flow
+0.7439693198	thermodynamic limit
+0.7438353381	lorentz abraham dirac equation
+0.7435785737	low velocity
+0.7434224706	thermal fluctuations
+0.7432699386	mathematical models
+0.7428536247	ideal fluid
+0.7427911299	equations governing
+0.7427435378	internal structure
+0.7426590675	finite amplitude
+0.7426364280	entropy generation
+0.7426274084	axial symmetry
+0.7422024472	dielectric material
+0.7417160301	equilibrium state
+0.7414785617	three body problem
+0.7413732944	abraham lorentz dirac
+0.7411966715	radiation intensity
+0.7407974183	force chains
+0.7407160697	magnetic material
+0.7406489280	current distributions
+0.7404727469	single point
+0.7400434847	scale separation
+0.7399961645	optical resonators
+0.7398555304	left handed materials
+0.7397521669	n body problem
+0.7397283000	wave fields
+0.7396012353	navier stokes
+0.7393681330	paper addresses
+0.7392951463	order derivatives
+0.7391921088	fractional order
+0.7387596262	hidden energy
+0.7387518439	single mode
+0.7386354045	energy storage
+0.7385419368	transformation method
+0.7384441113	negative permittivity
+0.7382504650	loading conditions
+0.7382193870	incident light
+0.7380225517	finite scale
+0.7373763841	euler bernoulli
+0.7369023573	material constants
+0.7367946090	classical statistical mechanics
+0.7366741212	lorentz force law
+0.7364059823	maxwell's theory
+0.7357606043	critical coupling
+0.7351309378	neo hookean
+0.7350620202	clarinet model
+0.7350164760	exact expression
+0.7347217416	aharonov bohm
+0.7345573010	semi classical
+0.7342056693	optical force
+0.7341686250	wave field
+0.7337679942	porous material
+0.7335472391	low frequencies
+0.7335421232	signal velocity
+0.7331361450	isotropic media
+0.7330330480	elastic plates
+0.7327302918	electric and magnetic dipoles
+0.7326462700	fluid flows
+0.7326337246	frequency conversion
+0.7324336535	impedance boundary
+0.7322097944	polarization state
+0.7321538273	electromagnetic wave propagation
+0.7321428805	relativistic mass
+0.7313511411	coarse graining
+0.7310765407	gravity wave
+0.7308959274	special relativity theory
+0.7308531473	kepler problem
+0.7307521765	asymptotic solutions
+0.7305858801	radiation fields
+0.7299246414	moving charges
+0.7294865345	acoustic pressure
+0.7289762542	quantum electrodynamics
+0.7288903374	frequency ranges
+0.7287694647	deformation gradient
+0.7283590016	enard wiechert
+0.7280733533	general form
+0.7278502493	large class
+0.7275020910	continuity equations
+0.7272933644	resonance frequencies
+0.7272537291	flow field
+0.7272200252	small oscillations
+0.7271087187	gravitational constant
+0.7269509440	small size
+0.7266717108	heat current
+0.7254305446	radiation torque
+0.7253117778	nonlinear elasticity
+0.7248569728	circuit model
+0.7239812617	biot savart
+0.7237176159	circular waveguide
+0.7236860877	gravity driven
+0.7235516706	magnetic materials
+0.7232460947	uniform motion
+0.7231873796	incident plane
+0.7231873756	dielectric layer
+0.7227310618	transverse magnetic
+0.7218665026	einstein laub
+0.7215675863	simple examples
+0.7212235742	klein gordon equation
+0.7212111706	elastic material
+0.7204541187	contact force
+0.7201516867	inter particle
+0.7201176563	radiation reaction force
+0.7198196355	partial wave series
+0.7195888718	boussinesq equations
+0.7195767071	viscous damping
+0.7195262877	hamilton jacobi
+0.7193610835	surface currents
+0.7191089810	bose einstein
+0.7187745953	special relativistic
+0.7183881433	constraint forces
+0.7183063305	order parameter
+0.7182632762	elastic plate
+0.7179381913	abraham lorentz dirac equation
+0.7179230373	spin orbit coupling
+0.7179196791	high quality
+0.7178375744	classical systems
+0.7174049542	self recovery
+0.7172089130	thermal effects
+0.7171351612	symmetry properties
+0.7170672057	minimum energy
+0.7168011256	opposite direction
+0.7165844522	coarse grained
+0.7165313555	elementary particle
+0.7164566249	radiation pattern
+0.7163770618	electromagnetic force
+0.7157583525	observed experimentally
+0.7153602252	general framework
+0.7150934044	scattering coefficients
+0.7149807258	nonlinear schrodinger
+0.7148367808	wave particle
+0.7146379724	two body problem
+0.7146212029	rotation rate
+0.7141391223	finite deformation
+0.7141180620	elastic tensor
+0.7127696427	recently introduced
+0.7127402074	homogeneous isotropic
+0.7126843773	parallel plate
+0.7122359447	polarization dependent
+0.7120474532	angular distribution
+0.7120213873	potential barrier
+0.7118927620	sound propagation
+0.7113997425	der waals
+0.7111289150	relativistic particles
+0.7110149559	local resonance
+0.7107353231	light beam
+0.7106579172	rotation axis
+0.7105102929	waves propagate
+0.7103693260	fermi pasta ulam
+0.7102842342	numerically investigated
+0.7101542100	temperature field
+0.7100347184	information entropy
+0.7095038444	energy cascade
+0.7094547844	finite difference time domain
+0.7091320434	acceleration dependent
+0.7089615635	r_ \ mathrm
+0.7083119555	velocity vector
+0.7082307895	chaotic behavior
+0.7081588696	spin hall
+0.7080516150	test particle
+0.7079841927	rotating frame
+0.7074483538	harmonic potential
+0.7073899002	zero group velocity
+0.7071833227	internal variables
+0.7071771305	mathematical framework
+0.7065326276	gravitational radiation
+0.7064910666	fokker planck
+0.7058332048	electric magnetic
+0.7054296144	laplace runge lenz
+0.7051097711	dispersion equation
+0.7051011447	floquet bloch
+0.7049649406	topological edge
+0.7047318975	classical thermodynamics
+0.7046833610	dielectric sphere
+0.7040512442	symplectic structure
+0.7040376376	physical parameters
+0.7036956312	exact solution
+0.7036599052	mode coupling
+0.7034379040	particle moving
+0.7031826526	external excitation
+0.7031434625	x ray
+0.7030593977	scaling law
+0.7027073074	incident waves
+0.7025371780	moving media
+0.7023962811	smith purcell
+0.7010188642	interaction energy
+0.7008696248	transverse waves
+0.6999750201	three body orbits
+0.6996849784	constant acceleration
+0.6993982579	relativistic systems
+0.6990829190	stability analysis
+0.6986816699	dispersive medium
+0.6982706952	experimentally demonstrated
+0.6973760372	sine gordon
+0.6973695811	current carrying
+0.6970560378	displacement fields
+0.6967435817	dielectric response
+0.6967398098	longitudinal waves
+0.6965267668	analytical models
+0.6961262196	coupled nonlinear
+0.6960404399	linear theory
+0.6958236853	x shaped
+0.6956424238	wave control
+0.6950075904	surface charge
+0.6949871386	quantum states
+0.6946456830	lattice dynamics
+0.6943067750	wave interaction
+0.6938514608	nonlinear klein gordon
+0.6938060298	relativistic physics
+0.6937685250	simple mechanical
+0.6935425240	material medium
+0.6934480216	dipole field
+0.6933269239	_ \ mathrm
+0.6932894840	quantum effects
+0.6931329624	aharonov casher
+0.6930254990	beams in storage rings
+0.6930205909	constant force
+0.6930176378	partial wave
+0.6926030028	direct numerical
+0.6924519829	main results
+0.6921228310	transfer matrix
+0.6920765084	negative real
+0.6916527931	nonlinear elastic
+0.6916525916	geometric approach
+0.6914481032	magnetic moments
+0.6908458683	lienard wiechert
+0.6907222380	relativistic momentum
+0.6903344768	physics courses
+0.6898617515	koopman von neumann
+0.6897826946	wave phenomena
+0.6896403827	born infeld
+0.6895978816	macroscopic fields
+0.6895000368	radiation forces
+0.6894215297	arbitrary order
+0.6892530170	polarized light
+0.6892243640	amp \ `
+0.6889902133	studied numerically
+0.6887498334	previously developed
+0.6886419174	interface model
+0.6880969917	analysis shows
+0.6879369425	riemann silberstein
+0.6879178647	lorentz law
+0.6864624944	open systems
+0.6863983772	magnetic current
+0.6863106570	analytical model
+0.6862910024	simple harmonic
+0.6862838948	qualitative agreement
+0.6862801903	michelson morley experiment
+0.6862338892	yang mills
+0.6857198100	wiener hopf
+0.6854561211	numerical model
+0.6851498263	closed form solutions
+0.6846770232	energy theorem
+0.6846750568	edge modes
+0.6843713532	relativistic transformation
+0.6836478061	wave solutions
+0.6835105018	small particles
+0.6834771770	mass energy
+0.6830133978	analytical description
+0.6828810861	recent years
+0.6828728826	source free
+0.6825228148	general expression
+0.6824748855	lagrangian density
+0.6823085717	source term
+0.6822292195	classical electromagnetic
+0.6820673830	additional term
+0.6814981554	energy flow
+0.6807433021	potential flow
+0.6801062383	klein gordon
+0.6791756642	numerical models
+0.6791562627	interface method
+0.6789107411	relativistic case
+0.6789077900	isotropic material
+0.6780819646	general theory
+0.6779696087	topological charge
+0.6761562883	liquid gas
+0.6759910455	transverse spin
+0.6755642764	stress fields
+0.6751700281	zero point energy
+0.6744719171	stress free
+0.6743577812	low frequency regime
+0.6741764526	periodic solution
+0.6736055609	integrable systems
+0.6717818500	experimentally observed
+0.6714200200	lorentz abraham dirac
+0.6713050678	initial velocity
+0.6709446713	classical charged particle
+0.6706062224	dynamical behavior
+0.6705932036	euler lagrange equation
+0.6702249348	moving body
+0.6700483128	point force
+0.6698681832	time reversal symmetry
+0.6696800314	linear dielectric
+0.6687063776	acoustic response
+0.6685918727	coupled mode
+0.6676745724	zero point radiation
+0.6664461035	ring resonators
+0.6654408476	purely classical
+0.6652045033	small parameter
+0.6650238308	velocity field
+0.6649449903	elastic half space
+0.6643994199	complex media
+0.6635529008	elastic beam
+0.6632734662	simple harmonic oscillator
+0.6628175856	non hermitian
+0.6627981694	element method
+0.6627810167	chaotic systems
+0.6619227971	closed form expressions
+0.6612435601	momentum balance
+0.6610413444	spin and orbital angular
+0.6605754005	contact forces
+0.6605470526	takes into account
+0.6604610922	saint venant
+0.6602041249	boundary value problems
+0.6598039305	complex scattering
+0.6596422328	particle physics
+0.6578219722	experimental observation
+0.6577916379	simple expression
+0.6575851150	case study
+0.6571164552	free electron
+0.6570110209	infinite dimensional
+0.6569306908	sufficient condition
+0.6566757605	michelson morley
+0.6561403827	su schrieffer heeger
+0.6558467447	high density
+0.6556523686	figure of merit
+0.6548013666	index of refraction
+0.6545266660	fabry perot
+0.6544327121	random field
+0.6544162838	simple derivation
+0.6543823728	acoustic vortex
+0.6542296219	relativistic electron
+0.6541516454	density function
+0.6527535030	dielectric magnetic
+0.6523499260	results obtained
+0.6521108883	planar interface
+0.6519598860	approximate analytical
+0.6518345846	linear stability
+0.6510485421	interface conditions
+0.6507337946	contact point
+0.6506552394	elastic materials
+0.6506096040	transformation properties
+0.6505850186	equilibrium equations
+0.6492763699	runge lenz vector
+0.6491692561	mechanical model
+0.6485032261	nonlinear effects
+0.6480272826	beam theory
+0.6480218136	systems with long range
+0.6479050593	simple model
+0.6477506624	equations describing
+0.6464455268	entropy principle
+0.6461026068	separation of variables
+0.6455759676	light wave
+0.6453064321	rotational motion
+0.6450110429	kramers kronig
+0.6436996925	taking into account
+0.6436927329	acoustic radiation
+0.6436156319	wiechert potentials
+0.6435302634	recent experimental
+0.6428325302	efficiency at maximum
+0.6425749335	alternative formulation
+0.6424588416	lorentz dirac
+0.6420793990	classical solution
+0.6419108817	special theory of relativity
+0.6418444436	koopman von
+0.6415751592	simple analytical
+0.6415312161	limiting case
+0.6410657717	high frequencies
+0.6399594740	acoustic field
+0.6395721113	thin films
+0.6385662844	relativistic classical
+0.6374379226	laser field
+0.6370393517	nonlinear oscillator
+0.6367920170	fractional integrals
+0.6367172193	initial value problem
+0.6365819836	maximum power
+0.6358014918	damped harmonic
+0.6354151477	site effects
+0.6352750606	fundamental physical
+0.6350264783	dimensional case
+0.6346566778	electromagnetic angular
+0.6337517782	runge lenz
+0.6333825398	friction forces
+0.6331389496	control parameters
+0.6326485691	perfect electric
+0.6325479269	energy gradient
+0.6324997801	orbital angular
+0.6322397523	wave energy
+0.6322251019	self adjoint
+0.6319751894	classical hamiltonian
+0.6315871746	dispersive wave
+0.6314182937	natural frequencies
+0.6306431614	classical case
+0.6300345640	field enhancement
+0.6290040559	rayleigh jeans
+0.6288278194	relativistic motion
+0.6280431343	center of mass
+0.6276358917	degree of freedom
+0.6274397016	bohm phase shift
+0.6270312725	total momentum
+0.6266058049	acoustic spin
+0.6256420807	classical radiation
+0.6249690854	quantum classical
+0.6243046473	fluid layer
+0.6236127842	mechanical behaviour
+0.6223042029	initial temperature
+0.6220815203	statistical mechanics
+0.6215553752	covariant form
+0.6204405438	magnetic force
+0.6202385457	point charge moving
+0.6202346725	accelerated charge
+0.6197873806	inverse kinetic
+0.6195730589	constants of motion
+0.6195587291	sufficient conditions
+0.6183078985	non diffracting
+0.6179576436	scalar and vector potentials
+0.6178352398	important role
+0.6170670766	interaction force
+0.6168424645	obtained results
+0.6168325644	non perturbative
+0.6167107604	sound transmission
+0.6166544374	speed of light
+0.6160189463	ordinary differential
+0.6160056208	motion equations
+0.6143058927	orders of magnitude
+0.6135182048	magnetic energy
+0.6134273645	equilibrium thermodynamics
+0.6123872037	effective permittivity
+0.6111828427	self similarity
+0.6107227487	surface current
+0.6106593821	scalar wave
+0.6106505601	finite energy
+0.6106192460	results suggest
+0.6098930043	law of thermodynamics
+0.6095022113	degrees of freedom
+0.6092411822	electric or magnetic
+0.6086402462	particle trajectories
+0.6085055188	numerical modeling
+0.6080508609	main features
+0.6079559144	floating bodies of equilibrium
+0.6078276850	moving charged particle
+0.6076892349	surface energy
+0.6075397609	h theorem
+0.6066972685	mechanical properties
+0.6062335051	classical limit
+0.6057798868	momentum vector
+0.6057618153	nonlinear oscillators
+0.6047206177	floating bodies
+0.6040136155	zero index
+0.6035287010	numerical approach
+0.6029498635	present analysis
+0.6022616398	paper discusses
+0.6022515918	isotropic materials
+0.6021468168	theoretically and experimentally
+0.6019722511	field patterns
+0.6019520473	self excited vibrations
+0.6007034716	lagrange equations
+0.6005682932	surface gravity
+0.6005327623	turbulence theory
+0.6004989288	generalized form
+0.6002117327	hamiltonian structures
+0.5997358121	exactly solvable
+0.5989330283	experimental set
+0.5989290069	self affine
+0.5985882511	recent paper
+0.5976736619	classical model
+0.5951602286	propagation speed
+0.5950215177	radiation force and torque
+0.5941162331	elastic energy
+0.5940739943	analytic expressions
+0.5929284502	canonical hamiltonian
+0.5921297077	te and tm
+0.5915244456	imaginary parts
+0.5913278035	discrete model
+0.5895011111	physical models
+0.5883723894	flux density
+0.5882627900	acoustic radiation force
+0.5876444970	classical particles
+0.5873245469	\ rm eff
+0.5869508380	time reversal
+0.5866806383	electric and magnetic fields
+0.5866502900	power transfer
+0.5866374020	general case
+0.5857729049	particle moves
+0.5856002693	elasticity theory
+0.5847992326	\ mathrm eff
+0.5834991471	well posed
+0.5815048797	phase flow
+0.5812251180	x shaped waves
+0.5812239003	exact analytical
+0.5811314928	non linearity
+0.5810922444	magnetic currents
+0.5789850280	self oscillation
+0.5780411045	classical electromagnetic field
+0.5772770430	relativistic limit
+0.5763816046	theoretical model
+0.5762151253	classical theory
+0.5755230264	recent theoretical
+0.5754039769	lorentz dirac equation
+0.5753790274	self action
+0.5751090172	paper presents
+0.5746142919	field distribution
+0.5731434320	particles moving
+0.5716885404	giving rise
+0.5707797463	numerical studies
+0.5707192861	charge current
+0.5703857727	equation of state
+0.5696330757	korteweg de vries
+0.5688915251	comment on `
+0.5687315456	abraham force
+0.5686563296	stress energy
+0.5685026584	3 body problem
+0.5680924771	direction of propagation
+0.5678763050	nonlinear waves
+0.5678089255	mean free path
+0.5670455374	non commutative
+0.5667325734	constant of motion
+0.5667045105	spin orbit
+0.5659693602	hamilton jacobi equation
+0.5655789996	three body
+0.5655086660	arbitrary shape
+0.5646007093	physical model
+0.5643352541	dynamic model
+0.5634304318	electromagnetic energy momentum
+0.5626031017	charges and currents
+0.5624443173	oscillator model
+0.5622045218	fluctuation dissipation
+0.5616355584	electrostatic force
+0.5614065721	general approach
+0.5613355131	four vector
+0.5610869168	metamaterial based
+0.5608836748	time domain
+0.5605715271	balance equation
+0.5601342303	scale free
+0.5598376369	abraham and minkowski
+0.5566301343	q factor
+0.5543010645	gauge condition
+0.5539132730	time reversible
+0.5536925091	exact analytic
+0.5513984458	waves propagating
+0.5513110413	sub wavelength
+0.5509319135	forces and torques
+0.5504173574	third order
+0.5491373288	complex plane
+0.5489384518	potential applications
+0.5482990595	non equilibrium
+0.5481879859	explicit expressions
+0.5469713403	maxwell's macroscopic
+0.5459252870	equations of motion
+0.5457544722	non smooth
+0.5453654660	spin and orbital
+0.5453082725	propagation of electromagnetic waves
+0.5453048802	wave antenna
+0.5447120047	nonlinear systems
+0.5428137317	permittivity and permeability
+0.5421211100	4 vector
+0.5418372688	point of view
+0.5417133005	real and imaginary
+0.5409246860	image correlation
+0.5402994942	far field
+0.5386454169	paper aims
+0.5385370956	self similar
+0.5384404701	self force
+0.5365297246	vector potentials
+0.5359004373	interaction forces
+0.5355991335	relativistic velocity
+0.5354720293	large number
+0.5353024608	non hermitian systems
+0.5346580550	dipole radiation
+0.5345774841	self dual
+0.5325068802	field energy
+0.5320721786	kronig relations
+0.5315421217	wave dynamics
+0.5309451757	analytically and numerically
+0.5307855324	conservation of energy
+0.5305596345	centre of mass
+0.5298574176	experimental demonstration
+0.5297871213	de broglie
+0.5296217580	method of moments
+0.5293542164	longitudinal and transverse
+0.5291934513	three phase
+0.5289871206	spatial and temporal
+0.5278583753	an accelerated charge
+0.5278275750	angle of incidence
+0.5268091119	third law
+0.5264734530	minkowski space time
+0.5258595600	inertial reference
+0.5249985830	periodic three body
+0.5244683007	equation of motion
+0.5218445930	propagation of light
+0.5217757722	cylindrical coordinates
+0.5213660277	scalar and vector
+0.5210351290	moment of inertia
+0.5208414154	total angular
+0.5206469426	reflection and transmission
+0.5201221272	presented results
+0.5200924418	particle motion
+0.5194766621	near field radiative
+0.5184185619	field distributions
+0.5175147407	characteristic length
+0.5170970049	classical maxwell
+0.5170852221	matrix method
+0.5155669413	beam model
+0.5151608978	nonlinear shallow
+0.5150150277	part ii
+0.5144174210	wave motion
+0.5139808937	wave propagating
+0.5132901939	non singular
+0.5123725276	non gaussian
+0.5114530004	method of images
+0.5112470874	gauge covariant
+0.5110618801	position and velocity
+0.5105700555	flow model
+0.5097684447	experimental study
+0.5095056658	statistical physics
+0.5093564136	speed of light in vacuum
+0.5086234381	frame of reference
+0.5083964199	nonlinear model
+0.5083022904	many body
+0.5082374797	static and dynamic
+0.5077243562	co moving
+0.5074648824	second sound
+0.5068108559	non inertial
+0.5064919510	force and torque
+0.5049387152	time dilation
+0.5042724850	radiation spectrum
+0.5039899805	^ 14
+0.5039297114	phase and amplitude
+0.5036670495	velocity and acceleration
+0.5029061741	four dimensional
+0.5028330303	nonlinear wave
+0.5022822986	laws of physics
+0.5022209913	thin film
+0.5017758766	arbitrary initial
+0.5011849393	inner core
+0.5004634536	spin 1 2
+0.5004620385	an action principle
+0.5003570435	charge moving
+0.5002856481	conservation of momentum
+0.4996163293	non local
+0.4983353190	size effects
+0.4983055652	method for solving
+0.4981644663	non inertial reference
+0.4978222709	model describing
+0.4977084973	quantum field
+0.4975456113	non reciprocal
+0.4972612508	field inside
+0.4942129774	dynamic response
+0.4939888696	non radiating
+0.4938013567	lorentz law of force
+0.4922917366	classical charged
+0.4906708006	static electric
+0.4905828366	lagrangian and hamiltonian
+0.4900036844	electromagnetic and gravitational
+0.4888196539	self contained
+0.4884238434	kinetic and potential
+0.4882984716	field momentum
+0.4882517012	full wave simulations
+0.4879520863	integral formulation
+0.4876633525	density of states
+0.4872689734	particle systems
+0.4847283128	non euclidean
+0.4840084198	mean flow
+0.4836891613	canonical momentum
+0.4831876580	amplitude and phase
+0.4827443891	tippe top
+0.4823767115	previous paper
+0.4822080529	non destructive
+0.4811255127	external magnetic
+0.4801610971	non locality
+0.4800466096	an ideal gas
+0.4799784885	beams in storage
+0.4795519757	atomic force
+0.4792500307	at room temperature
+0.4780992591	classical mechanical
+0.4779047129	n body
+0.4768377996	wide range
+0.4763679235	order of magnitude
+0.4761380914	transmission coefficients
+0.4760467802	self gravitating
+0.4757518783	spatial distribution
+0.4756070135	shown to exhibit
+0.4753077507	electromagnetic zero point
+0.4748983551	potential model
+0.4746802425	near field
+0.4739902289	non dispersive
+0.4737617424	x waves
+0.4734202175	no longer
+0.4733422783	force function
+0.4731288497	theoretical and experimental
+0.4717652077	paper describes
+0.4715953946	charge and current
+0.4715440298	solutions of maxwell's
+0.4714892576	abraham dirac
+0.4713663866	run up
+0.4710753351	the rayleigh jeans
+0.4703748578	self induced
+0.4696462999	electric and magnetic
+0.4681529364	this paper presents
+0.4680971613	self sustained
+0.4675783035	forces acting
+0.4674736151	present paper
+0.4672826143	results provide
+0.4672416988	direction of motion
+0.4671444452	analytical and numerical
+0.4668316342	potential energies
+0.4663069567	self propelled
+0.4654162867	based model
+0.4650839518	volume scheme
+0.4648709341	quantum and classical
+0.4633349424	classical models
+0.4631484186	this paper investigates
+0.4621089806	mean square
+0.4617796463	self interaction
+0.4610784930	non holonomic
+0.4608750756	non trivial
+0.4603218998	principle of relativity
+0.4596436614	momentum and energy
+0.4587648973	speed of sound
+0.4583853838	the aharonov bohm phase
+0.4576593273	conservation of energy and momentum
+0.4570726843	fractional generalization of
+0.4550829192	solutions of maxwell
+0.4547422118	thin plates
+0.4533825206	magnetic and electric
+0.4528566141	energy and angular
+0.4521276321	time varying
+0.4518891856	mode theory
+0.4506840797	wavelength limit
+0.4498827406	self consistent
+0.4479098003	rate of change
+0.4469357495	giving rise to
+0.4468874139	non conservative
+0.4461203115	classical and quantum
+0.4456995294	more accurate
+0.4455037108	field measurements
+0.4442734625	model parameters
+0.4441037860	stress energy momentum
+0.4440830268	10 ^ 4
+0.4439600033	spherical shell
+0.4436325741	role played by
+0.4427479897	this paper proposes
+0.4422537512	asymmetric top
+0.4416663546	particle beams
+0.4414820530	range of frequencies
+0.4410237326	more realistic
+0.4407005498	linear and nonlinear
+0.4382006526	mc ^ 2
+0.4373512880	law of motion
+0.4366158324	developed theory
+0.4364842331	local energy
+0.4363949625	closely related to
+0.4351203115	energy and momentum
+0.4346020007	numerical and experimental
+0.4332392058	principle of least action
+0.4331389015	one dimensional
+0.4318874174	linear and angular
+0.4317446134	self excited
+0.4316020007	experimental and numerical
+0.4315446560	symmetric systems
+0.4305167876	least action
+0.4304909400	electromagnetic self force
+0.4303179976	^ 5
+0.4302035940	non dissipative
+0.4301754099	force fields
+0.4298885653	nonlinear schr \
+0.4276020007	electromagnetic and acoustic
+0.4275966799	near wall
+0.4272476846	new formulation
+0.4265453000	results of numerical
+0.4257186093	non uniform
+0.4251134517	mechanical behavior
+0.4241018204	theory of electromagnetism
+0.4240392147	well defined
+0.4238466624	parity time
+0.4236843482	three dimensional
+0.4234853723	order to study
+0.4231226625	an inertial frame
+0.4224944877	infinitely many
+0.4211910991	classical field
+0.4194644359	3 dimensional
+0.4181544194	mass systems
+0.4173786170	explicit expression
+0.4161609722	well suited
+0.4151227917	full wave
+0.4149600026	much simpler
+0.4146856570	within classical physics
+0.4144188238	take place
+0.4141435272	second order differential
+0.4140280523	per unit
+0.4138625709	second order
+0.4131004755	figure eight
+0.4130213564	ultra thin
+0.4127217460	non linear
+0.4118049137	cut off
+0.4116512889	electric and magnetic field
+0.4113700733	second gradient
+0.4112332399	infinite number
+0.4100914623	th order
+0.4094273928	velocity of light
+0.4090737249	number of degrees
+0.4085650366	time dependent
+0.4082739676	3 body
+0.4079119414	non uniqueness
+0.4077329265	classical approach
+0.4051591622	the landau lifshitz
+0.4049278835	scattering properties
+0.4038768153	double well
+0.4027794890	frequency regime
+0.4025348326	virtual work
+0.4015683730	\ propto
+0.4013940494	much larger
+0.4000197578	partial t
+0.3997421415	good agreement
+0.3993671456	new perspective
+0.3988893089	lenz vector
+0.3972937993	so called
+0.3971105088	\ deg
+0.3969916813	shed light
+0.3960767882	time modulated
+0.3957478343	classical zero point
+0.3955019715	numerical solution
+0.3952914441	empty space
+0.3952836825	force exerted by
+0.3947601629	complete set of
+0.3939201103	put forward
+0.3917634907	well established
+0.3895036749	linear wave
+0.3888794621	an electric dipole
+0.3886134116	non stationary
+0.3867040266	first order
+0.3862644476	radiative heat
+0.3859406260	classical wave
+0.3858913475	non vanishing
+0.3853320805	\ chi
+0.3851501027	initial boundary value
+0.3850740918	second law
+0.3840004340	very large
+0.3834228501	much smaller
+0.3830593285	\ ge
+0.3822915501	time series
+0.3808844404	\ xi
+0.3807627144	an exact solution
+0.3806083016	force acting on
+0.3805975374	order bessel
+0.3790375242	detailed analysis
+0.3786204649	\ cite
+0.3779615027	an inclined plane
+0.3760864028	mean field
+0.3749911844	defined in terms
+0.3747856170	an alternative approach
+0.3741893894	\ rm
+0.3741445998	time averaged
+0.3739905426	analytical expressions for
+0.3739360467	non radiative
+0.3733926988	more complicated
+0.3733428437	wireless power
+0.3720587754	expressed in terms
+0.3713442953	computer simulations
+0.3708556953	\ dot
+0.3699473431	\ hbar
+0.3697200588	algorithm based
+0.3690194548	\ sqrt
+0.3689399069	^ 4
+0.3677548036	\ rho
+0.3671767591	acoustic black
+0.3663760657	einstein's special
+0.3657949621	\ pm
+0.3655286377	10 ^ 3
+0.3654648603	zero point
+0.3652839941	spin 1
+0.3652230356	at low frequencies
+0.3651668067	an arbitrarily moving
+0.3650135947	field induced
+0.3643699383	non relativistic
+0.3631480411	\ theta
+0.3628957752	a special case
+0.3624652763	^ 1
+0.3619796312	two dimensional
+0.3609207532	\ beta
+0.3603199919	o dinger
+0.3598677803	momentum of light
+0.3598529022	qualitative agreement with
+0.3596067949	\ psi
+0.3593049026	mean velocity
+0.3588305429	force field
+0.3586480411	\ tau
+0.3581645390	most common
+0.3577644968	motion of charged
+0.3576566094	analytical solution for
+0.3573491185	faster than
+0.3571290178	\ text
+0.3571018343	n dimensional
+0.3567967326	time scale
+0.3561371063	\ ll
+0.3559827341	\ sim
+0.3548154933	three dimensional space
+0.3548017737	an analytical solution
+0.3543353505	the twin paradox
+0.3541574442	= 0
+0.3528918406	\ gamma
+0.3527122216	s ^ 2
+0.3525696942	\ infty
+0.3525477294	\ em
+0.3518950180	heat transfer between
+0.3516571118	force exerted on
+0.3515038499	+ 1
+0.3514640140	explicit expression for
+0.3508437628	^ \ alpha
+0.3488638823	\ ll 1
+0.3485455536	\ lambda
+0.3483842019	full field
+0.3482655736	\ omega
+0.3474942558	\ pi
+0.3469334731	\ cal
+0.3463074433	\ emph
+0.3454681927	energy function
+0.3452932002	\ delta
+0.3448289991	more precisely
+0.3438065876	there exist
+0.3436185003	excellent agreement with
+0.3435588429	gives rise
+0.3428015977	time intervals
+0.3421608470	nonlinear acoustic
+0.3416275927	take into account
+0.3415673037	solar system
+0.3413063510	explicit expressions for
+0.3412760355	\ nu
+0.3404767250	\ sigma
+0.3399288869	\ phi
+0.3397480428	self energy
+0.3397007272	the present article
+0.3395690837	\ epsilon
+0.3392013220	paper investigates
+0.3388918406	\ mu
+0.3388829726	3 + 1
+0.3388728098	theory of relativity
+0.3386075111	paper proposes
+0.3385400595	time scales
+0.3384527629	proposed method
+0.3377970048	number of particles
+0.3377878295	\ kappa
+0.3377306029	an electric charge
+0.3374931654	et al
+0.3363817003	= mc ^ 2
+0.3355826958	\ textit
+0.3346752236	and vice versa
+0.3343685597	statistical model
+0.3341328198	thin layer
+0.3339799860	relatively small
+0.3337517289	very high
+0.3334527469	3 d
+0.3332784175	the hamilton jacobi equation
+0.3332393218	\ alpha
+0.3331222782	non integer
+0.3329165932	effective material
+0.3328679056	moving along
+0.3327765535	an experimental study
+0.3325828949	small n
+0.3320410217	finite number
+0.3317158722	frequency stop
+0.3314479900	experimental investigation
+0.3313518246	one way speed of light
+0.3312714695	flame front
+0.3310115209	the lorentz transformation
+0.3307973302	the einstein laub
+0.3305763623	sufficient condition for
+0.3305622500	most important
+0.3303914440	\ bf
+0.3299610905	zero temperature
+0.3288068605	present results
+0.3285044389	analytic expressions for
+0.3283096121	the michelson morley experiment
+0.3282377668	closed form expressions for
+0.3280871404	exact expressions for
+0.3276252411	much higher
+0.3267991934	\ mu \ nu
+0.3261599191	\ approx
+0.3261519717	alternative approach
+0.3260439081	$ \ nabla
+0.3257688467	the lorentz dirac
+0.3256623941	the kepler problem
+0.3249043635	\ cdot
+0.3247853763	the euler lagrange
+0.3247606962	time harmonic
+0.3246662210	range of parameters
+0.3240625399	very good agreement
+0.3240523287	1 + 1
+0.3236006234	formulation of classical
+0.3233370003	a semi infinite
+0.3231690992	wave turbulence on
+0.3224211682	space time
+0.3223116794	an analytic solution
+0.3223032892	first principles
+0.3222562543	\ frac
+0.3221443737	\ `
+0.3199146984	zero thickness
+0.3198215665	possible applications
+0.3198007104	r ^ 2
+0.3176798176	\ leq
+0.3176702583	\ eta
+0.3166622991	theory of electrodynamics
+0.3148231044	does not require
+0.3148071505	^ 3
+0.3143754800	\ times
+0.3142842273	\ ln
+0.3134750202	$ \ boldsymbol
+0.3129987030	c ^ 2
+0.3129725380	$ \ eta
+0.3127833003	surface acoustic
+0.3122203508	lock in
+0.3121086814	one hand
+0.3117070849	$ a_
+0.3116045476	an improved
+0.3112010495	viscoelastic properties
+0.3107069206	several examples
+0.3103362724	the lorentz abraham dirac
+0.3103321208	most general
+0.3101093796	capillary wave
+0.3098417834	\ tilde
+0.3095182473	particular attention
+0.3092569903	wave solution
+0.3088996333	$ \ mathcal
+0.3087744985	set up
+0.3086997769	more generally
+0.3085796466	wide variety of
+0.3085548031	an alternative
+0.3081482953	= 3
+0.3080317795	based upon
+0.3076030928	viscoelastic properties of
+0.3074686349	v ^ 2
+0.3074684839	$ \ kappa
+0.3073110905	$ \ zeta
+0.3072865936	= 1
+0.3071918759	function method
+0.3066632777	into account
+0.3066203414	a charged particle
+0.3064406291	the lorentz force law
+0.3060359025	time delay
+0.3058710874	\ textbf
+0.3056044069	\ mathrm
+0.3055908816	nos \
+0.3055088593	non hamiltonian
+0.3053826327	^ \ mu
+0.3052310527	\ gg
+0.3052066171	smaller than
+0.3051967852	time period
+0.3050503531	the abraham minkowski
+0.3049960126	the present paper
+0.3048209071	different methods
+0.3047354341	self field
+0.3043291845	this paper describes
+0.3041988890	\ partial
+0.3039866083	\ geq
+0.3019421638	\ epsilon_
+0.3012513477	$ t_
+0.3012323549	dynamic oscillation
+0.3009643562	non existence
+0.3009461580	r ^ 4
+0.2996955906	an axially symmetric
+0.2990903057	more general
+0.2988133187	simple linear
+0.2987361351	\ zeta
+0.2985643073	directly related to
+0.2983094389	point like
+0.2981816706	time variation
+0.2980526936	in recent years
+0.2977310527	\ bm
+0.2972655905	\ eps
+0.2970624072	greater than
+0.2964596995	generalized sheet
+0.2961987090	non integrable
+0.2957604618	$ h_
+0.2956678854	near zero
+0.2951437163	propagating along
+0.2951203209	step towards
+0.2949684839	$ \ sigma
+0.2948862421	at large
+0.2942310527	\ perp
+0.2940807006	shaped waves
+0.2938312892	two bodies
+0.2937856867	two parallel
+0.2936031966	imaginary part
+0.2932269119	widely used
+0.2931299578	very low
+0.2930285794	dynamic response of
+0.2928094635	imaginary parts of
+0.2925190220	the electrostatic potential
+0.2923112899	\ mathbf
+0.2922255686	2 d
+0.2919752497	\ left
+0.2917243428	an analytical
+0.2915985197	a broad range
+0.2914564429	time independent
+0.2912598952	an efficient
+0.2908899922	plane electromagnetic
+0.2907994688	a left handed
+0.2907985648	at rest
+0.2907466005	= 10
+0.2903749778	two body
+0.2902390774	spin angular
+0.2899537268	\ _ \ varepsilon
+0.2899211591	any desired
+0.2897341989	mechanical properties of
+0.2895903977	relativistic quantum
+0.2893748657	cylindrical shell
+0.2893178888	nonlinear differential
+0.2892066240	4 potential
+0.2887054257	scattering cross
+0.2881586995	transmission through
+0.2878401276	very small
+0.2874966945	a current carrying
+0.2872554215	1 2
+0.2872525669	real time
+0.2868120294	in cylindrical coordinates
+0.2865602190	wave modes
+0.2864280483	1 d
+0.2864140949	$ \ varepsilon
+0.2862889440	$ \ gamma
+0.2859243394	the lorentz dirac equation
+0.2849804370	order equations
+0.2846677197	$ \ alpha
+0.2846022731	^ 2
+0.2843756277	the present study
+0.2838570953	experimental demonstration of
+0.2838030593	$ \ pi
+0.2837196504	$ \ mathbb
+0.2836966945	the fluctuation dissipation
+0.2836040258	more complex
+0.2835028475	4 velocity
+0.2831668950	an important role
+0.2827756925	experimental observation of
+0.2826355691	the planck constant
+0.2822150265	2 \ pi
+0.2821751153	commonly used
+0.2819123170	decomposed into
+0.2817612135	$ \ epsilon
+0.2810937285	larger than
+0.2810490923	$ \ beta
+0.2810274621	the poynting vector
+0.2809150544	$ ra
+0.2807408688	optical response
+0.2803518963	$ k_
+0.2802319360	= 2
+0.2798575916	quantum spin
+0.2798214275	optical response of
+0.2788591216	different ways
+0.2788473028	\ vec
+0.2786309267	taken into account
+0.2785199188	this article
+0.2784099882	in free space
+0.2777020375	at maximum power
+0.2772637999	classical relativistic
+0.2772332152	the navier stokes
+0.2771105767	more efficient
+0.2771054052	large enough
+0.2769697427	$ \ mathbf
+0.2769358444	$ \ vec
+0.2763912710	an infinite
+0.2758930935	li \
+0.2757454037	this comment
+0.2752691481	experimental investigation of
+0.2749373400	the abraham lorentz
+0.2736808332	a point charge
+0.2734995720	a point source
+0.2728435120	non symmetric
+0.2726338707	more specifically
+0.2725661148	$ \ rho
+0.2724363471	\ varepsilon
+0.2717456020	$ \ nu
+0.2711499454	$ \ lambda_
+0.2710607944	^ \ circ
+0.2708173157	insights into
+0.2707715821	time modulation
+0.2706413638	insight into
+0.2697912896	the euler lagrange equation
+0.2696002784	transfer equation
+0.2694251327	$ \ mu
+0.2694112114	\ boldsymbol
+0.2693791018	numerical solution of
+0.2686125063	wide range of
+0.2684972104	an electromagnetic wave
+0.2684269325	$ r_
+0.2682001003	\ nabla
+0.2681283180	behaves like
+0.2677994943	one dimension
+0.2677204079	poincar \
+0.2673655981	the fermi pasta ulam
+0.2668831043	$ \ delta
+0.2662875458	wave propagation in
+0.2662534475	in porous media
+0.2654394814	$ \ lambda
+0.2648624907	non resonant
+0.2647661439	arbitrary number of
+0.2646616375	paper deals with
+0.2646316836	under certain conditions
+0.2642130936	two phase
+0.2641682175	the planck spectrum
+0.2640401631	light in vacuum
+0.2638831112	two coupled
+0.2637969525	most interesting
+0.2629136116	general class of
+0.2625347967	model developed
+0.2624537474	the proposed approach
+0.2624404577	$ \ bf
+0.2621546565	mechanical behavior of
+0.2620973826	three dimensions
+0.2620820455	the coulomb gauge
+0.2620606485	a finite volume
+0.2618248770	$ \ phi
+0.2616736016	1 dimensional
+0.2612708755	high q
+0.2605960271	good approximation
+0.2597844971	potential applications in
+0.2595259914	$ \ tau
+0.2592031130	very efficient
+0.2591382127	a watt balance
+0.2588624047	a recent paper
+0.2584571284	$ 2 \ pi
+0.2577701123	very long
+0.2573548534	$ \ psi
+0.2566925880	water equations
+0.2566417381	^ *
+0.2563963303	an explicit expression
+0.2555088042	the vocal tract
+0.2548800065	\ mathcal
+0.2548727858	new insights
+0.2543144013	the lorentz group
+0.2541963754	in situ
+0.2535594449	$ \ omega
+0.2534605898	very similar
+0.2532883326	hamiltonian system
+0.2531836068	a simple model
+0.2527858572	an algebraic
+0.2525387745	invariant under
+0.2522978189	the lienard wiechert
+0.2521945910	point method
+0.2518012637	flexural waves in
+0.2515060960	the lorenz gauge
+0.2509544743	the electric field
+0.2509022048	these effects
+0.2504934646	the proposed method
+0.2504566088	\ mathbb
+0.2500875176	zero energy
+0.2495475794	or equivalently
+0.2493713861	relation between
+0.2490107627	radiation q
+0.2489807072	the steady state
+0.2489503294	these findings
+0.2488212442	body dynamics
+0.2487225155	necessary conditions
+0.2484964956	schr \
+0.2483691873	wave expansion
+0.2483353715	difference between
+0.2481448780	propagation of electromagnetic
+0.2477717468	previously known
+0.2469798406	broad range of
+0.2469362704	out of plane
+0.2467659299	does not exist
+0.2466332534	a wide class
+0.2463217536	in two dimensions
+0.2458694790	critical value
+0.2457628946	dynamic contact
+0.2456375242	comparison between
+0.2454010691	the lorentz force
+0.2453976085	coupling between
+0.2450824045	numerical modeling of
+0.2448770913	limiting case of
+0.2444496872	found to depend
+0.2441804183	far fields
+0.2434890557	lower than
+0.2425826877	an arbitrary
+0.2425326202	previous work
+0.2423783803	an active
+0.2421513828	the rest frame
+0.2417646091	static case
+0.2408665479	interference between
+0.2403118650	exact solution for
+0.2400448379	information about
+0.2395350614	also discussed
+0.2394613203	first integrals
+0.2393352005	4 3
+0.2389149357	an accurate
+0.2388057288	this letter
+0.2385895598	an anisotropic
+0.2382764350	of arbitrary shape
+0.2381557116	a fourth order
+0.2380504542	distinction between
+0.2380229475	inner sphere
+0.2378973564	very close
+0.2373853232	inner and outer
+0.2369199452	the frequency domain
+0.2368337271	two parameter
+0.2365949451	higher than
+0.2364648609	some cases
+0.2362505072	energy momentum tensor for
+0.2361253461	these models
+0.2360511750	simple method
+0.2348723454	a power law
+0.2347712069	new results
+0.2346711254	\ le
+0.2342243390	the aharonov bohm
+0.2340135690	a uniformly accelerated
+0.2337139911	micromorphic model
+0.2334956757	elastic properties of
+0.2325165580	each case
+0.2324408377	detailed analysis of
+0.2322129175	the quality factor
+0.2322036151	waves propagating in
+0.2321179669	an analytical model
+0.2319288150	this work presents
+0.2316204728	the sun
+0.2315098079	two component
+0.2311943279	$ \ sim
+0.2310494662	the lorentz abraham
+0.2310360764	depends on
+0.2308021082	an intrinsic
+0.2304427699	zero frequency
+0.2301916269	time interval
+0.2299648878	n 1
+0.2299404382	energy tensor
+0.2298440290	at one end
+0.2298027973	the energy momentum tensor
+0.2297732628	these solutions
+0.2296155855	the electromagnetic field
+0.2294477256	relationship between
+0.2294141274	the magnetic force
+0.2284829829	proper time
+0.2283086247	lam \
+0.2282782509	f =
+0.2281403842	spatial distribution of
+0.2280197327	and angular momentum
+0.2279283992	also discuss
+0.2278871291	released from
+0.2277613148	transformed into
+0.2270087659	at high
+0.2269423091	a rigid body
+0.2259759378	the special theory of relativity
+0.2257828008	time evolution
+0.2257117313	also presented
+0.2254096949	element model
+0.2253668343	$ _
+0.2246536349	the euler lagrange equations
+0.2245404116	all cases
+0.2244504402	analytical solutions for
+0.2242192450	two cases
+0.2241515596	static magnetic
+0.2239901025	also investigated
+0.2238733694	by introducing
+0.2228033408	used to construct
+0.2226290934	the equivalence principle
+0.2225358539	macroscopic equations
+0.2223342854	this note
+0.2222161040	coming from
+0.2221796687	particular cases
+0.2217760830	making use of
+0.2215164035	model based
+0.2215062403	this feature
+0.2212300383	integrated into
+0.2212122397	used to solve
+0.2210135493	one way
+0.2208830691	the paper presents
+0.2204705669	in other words
+0.2202544870	all angle
+0.2202393287	electrostatic potential
+0.2200630218	earlier work
+0.2193323520	first law
+0.2191929538	an object
+0.2190374064	by taking into account
+0.2190011182	\ mathbb l
+0.2187958623	the magnetic field
+0.2174030580	$ \ theta
+0.2169242493	scattering properties of
+0.2168915801	an ideal
+0.2168443494	variational principle for
+0.2166571961	the contact line
+0.2164661481	general class
+0.2162250473	near fields
+0.2161880198	the obtained results
+0.2158286080	mod \
+0.2154093214	physical interpretation of
+0.2153598815	an electron
+0.2149137404	ranging from
+0.2142004335	energy momentum tensor of
+0.2134855604	orbit coupling
+0.2134566234	approach based on
+0.2132552065	for flexural waves
+0.2131293864	an equivalent
+0.2130180527	did not
+0.2130036112	interplay between
+0.2126152010	$ \ textbf
+0.2124909363	starting from
+0.2120567331	relativistic charged
+0.2117265918	a perfectly conducting
+0.2115882862	inside and outside
+0.2114145141	in storage rings
+0.2111658849	electromagnetic waves in
+0.2108917266	a previous paper
+0.2108701683	l =
+0.2106134134	a uniform magnetic field
+0.2103396325	caused by
+0.2102982730	some interesting
+0.2101413701	stability analysis of
+0.2101288717	action principle for
+0.2100862635	interaction between
+0.2099828390	used to measure
+0.2097804104	cross section of
+0.2096318383	a negative index
+0.2089807250	comment on
+0.2089220706	necessary and sufficient
+0.2087211805	a finite difference
+0.2086426628	formed by
+0.2083211218	rotational motion of
+0.2082820348	periodic array
+0.2081194115	classical theory of
+0.2078529962	new insight
+0.2078429108	agree well with
+0.2073488217	dynamical system
+0.2072279508	differences between
+0.2070511667	\ vec p
+0.2065444042	the boiling crisis
+0.2063023988	also shown
+0.2062873170	bound states in
+0.2062491567	the phase space
+0.2059331038	produced by
+0.2058195818	at low
+0.2053063256	very general
+0.2052521932	connection between
+0.2048697274	used to calculate
+0.2047743664	this paper
+0.2047211720	relaxation time
+0.2044093047	generated by
+0.2044042096	in vacuo
+0.2043280267	much smaller than
+0.2042722576	used to obtain
+0.2037895421	boundary conditions at
+0.2035709952	\ textdegree c
+0.2034862899	in order to obtain
+0.2034579070	an attempt
+0.2029930270	10 ^
+0.2029361973	proposed approach
+0.2029164110	the abraham force
+0.2027211788	determined by
+0.2026401252	used to explain
+0.2025943762	from first principles
+0.2024187141	characterized by
+0.2021858229	depending on
+0.2020987629	an accelerated
+0.2015384838	newton's law of
+0.2015274639	regarded as
+0.2014457643	an optimal
+0.2010271426	these equations
+0.2009418931	an interesting
+0.2007175858	both cases
+0.2004012830	an additional
+0.2004004979	a level
+0.2001432360	depends only on
+0.1996555957	non dimensional
+0.1996188593	other hand
+0.1994696936	these results
+0.1994327759	finite time
+0.1994192198	interactions between
+0.1993935178	time derivatives
+0.1992679607	one way speed
+0.1992584087	law of force
+0.1991091295	stokes equations
+0.1990667115	interface between two
+0.1990210660	presented here
+0.1985027357	depend on
+0.1983411799	an elementary
+0.1983263149	the classical electromagnetic
+0.1982403529	an increase
+0.1979420312	bf b
+0.1979138351	an observer
+0.1976511294	much less
+0.1975371083	phase transitions in
+0.1972255294	an effective
+0.1971711377	the other hand
+0.1969924528	some examples
+0.1969738786	conservation laws for
+0.1966744453	two layer
+0.1964726355	relationships between
+0.1964717958	an explicit
+0.1964113010	in one dimension
+0.1963435913	an electrostatic
+0.1963371499	leads to
+0.1963072715	this purpose
+0.1961725557	exact expressions
+0.1960895532	less than
+0.1959217025	2 3
+0.1957911442	classical problem
+0.1956895642	the unit cell
+0.1950790125	a comparative
+0.1950715294	time derivative
+0.1949114384	order lagrangian
+0.1939786153	\ textdegree
+0.1938693411	two approaches
+0.1938191866	r ^ 3
+0.1937924925	thin elastic
+0.1937923391	natural frequencies of
+0.1934476568	a detailed analysis
+0.1934450053	different approaches
+0.1933308886	a rigorous
+0.1930070804	governed by
+0.1929735483	a wide range
+0.1928143836	the maxwell equations
+0.1926139066	different forms
+0.1920850297	the fractional integrals
+0.1919935530	non interacting
+0.1918157892	an approximate
+0.1917301942	infinite number of
+0.1914890056	also derive
+0.1910714215	a new method
+0.1909406089	approach based
+0.1908850462	the input impedance
+0.1908721231	also provide
+0.1908143667	correspondence between
+0.1906457047	a uniformly moving
+0.1904937219	replaced by
+0.1895633927	each point
+0.1893651207	to take into account
+0.1893076268	even though
+0.1892656730	by observing
+0.1889150357	the radiation reaction force
+0.1888773105	different points
+0.1885938559	passing through
+0.1885331885	two distinct
+0.1884022914	arrow of time
+0.1879862307	the coulomb potential
+0.1876458728	a unified
+0.1873126779	angular momenta of
+0.1870687764	hamiltonian systems with
+0.1870205003	external electromagnetic
+0.1870196664	the finite element method
+0.1864350344	refractive index of
+0.1859517053	amount of energy
+0.1857330179	the schott
+0.1857015820	a steady state
+0.1853575906	charge separation
+0.1852338074	used to determine
+0.1852111126	\ parallel
+0.1851753992	by applying
+0.1851373747	relations between
+0.1851061353	present study
+0.1849445166	in three dimensions
+0.1849438332	to achieve
+0.1849285247	a priori
+0.1848953584	necessary condition
+0.1848745342	this end
+0.1847468264	by comparing
+0.1846601039	expressed in terms of
+0.1844220543	periodic array of
+0.1834957516	to solve
+0.1834271316	an analytic
+0.1833353931	numerical simulation of
+0.1832636298	the present approach
+0.1831858708	much larger than
+0.1831617718	the hamilton jacobi
+0.1826931303	body systems
+0.1826832093	$ \ cal
+0.1825492040	various types
+0.1822726198	$ \ vec f
+0.1821725490	the so called
+0.1821425052	for instance
+0.1820939596	field produced
+0.1819615109	recent work
+0.1819239206	interpreted in terms of
+0.1818831378	many applications
+0.1816230925	the refractive index
+0.1815780304	not valid
+0.1815500076	these systems
+0.1814725343	large number of
+0.1814414964	an experiment
+0.1810968891	simple physical
+0.1809338510	very important
+0.1805460825	the quasi static
+0.1802168164	important role in
+0.1801247481	find applications
+0.1800280316	two parts
+0.1796172829	an open
+0.1795986316	contact between
+0.1795422260	this result
+0.1792356368	moving charged
+0.1791936235	\ bf b
+0.1790753468	point out
+0.1790367080	proportional to
+0.1790306262	a note on
+0.1789888531	this study
+0.1787462347	an important
+0.1785569999	an external
+0.1785069114	those obtained
+0.1784761795	an application
+0.1784677906	the deformation gradient
+0.1784410566	an inhomogeneous
+0.1783580298	one end
+0.1781841148	two regimes
+0.1781131832	the fourier transform
+0.1780738460	coordinate system
+0.1780168056	wide class of
+0.1779757643	body motion
+0.1779485242	to simulate
+0.1779438625	also provided
+0.1778600455	field generated by
+0.1777949861	arrive at
+0.1777429702	differs from
+0.1776827105	acoustic radiation force and
+0.1775798326	an isotropic
+0.1775077418	these potentials
+0.1773693620	such systems
+0.1773549934	results indicate
+0.1772981605	second harmonic
+0.1771204148	method based on
+0.1767192426	well known
+0.1760557112	model based on
+0.1760018981	this phenomenon
+0.1759576338	the proposed model
+0.1758241959	lead to
+0.1753749341	some special
+0.1753683329	in conjunction
+0.1752985984	a finite element
+0.1752382830	the total energy
+0.1752309527	$ matrix
+0.1746537855	rest frame of
+0.1745779968	different frequencies
+0.1745779107	to determine
+0.1744555351	elastic waves in
+0.1742937701	boundary conditions for
+0.1742451122	two models
+0.1740544279	leading to
+0.1739819471	time dependence
+0.1739428831	\ to \ infty
+0.1736795347	dimensional elastic
+0.1736626078	rather than
+0.1736591714	these orbits
+0.1734905447	finite number of
+0.1734203998	lagrange equation
+0.1732514847	by adjusting
+0.1729148116	work done
+0.1726719819	general theory of
+0.1725904744	special case
+0.1724732560	this approach
+0.1723037268	stemming from
+0.1722065197	system of units
+0.1720464651	arising from
+0.1720116346	more recent
+0.1719777462	this fact
+0.1719647290	method based
+0.1718234086	a simple
+0.1717682164	radiation reaction in
+0.1716584619	uniform magnetic
+0.1715484244	located at
+0.1714708063	an experimental
+0.1713006480	close to
+0.1711960838	originates from
+0.1710836873	the aspect ratio
+0.1710301878	an integral
+0.1709536232	to overcome
+0.1706241862	this framework
+0.1704275793	one parameter
+0.1703021849	stems from
+0.1702962499	subject to
+0.1698518856	newton's third
+0.1697120075	to date
+0.1696515837	these conditions
+0.1696293773	transition from
+0.1694340417	wave front
+0.1692926157	charged particles in
+0.1692130294	the sake
+0.1689604154	a dielectric medium
+0.1689292633	phase transition in
+0.1688411379	other methods
+0.1688016013	theoretical analysis of
+0.1687667688	the green function
+0.1687581850	new concept
+0.1682127263	an electromagnetic field
+0.1677112458	consistent with
+0.1676270496	experimental study of
+0.1675791415	1 1
+0.1675462544	wave equation for
+0.1675226963	so far
+0.1673848133	referred to as
+0.1673574079	a magnetic dipole
+0.1672323139	compared with
+0.1671832254	\ times 10 ^
+0.1671370091	by solving
+0.1670895396	momentum tensors
+0.1670681920	connections between
+0.1669703354	represented by
+0.1669144252	induced by
+0.1668866435	to realize
+0.1666064398	compared to
+0.1665667377	these cases
+0.1665400117	applied to
+0.1664304119	to identify
+0.1663969098	the incident wave
+0.1662434749	long time
+0.1660794448	based on
+0.1660622632	other words
+0.1659301789	follow from
+0.1658847544	analytical solution to
+0.1655844548	two state
+0.1655609188	differential equation for
+0.1653670765	potential well
+0.1647900968	linear constitutive
+0.1647182818	the second law of thermodynamics
+0.1646836647	relies on
+0.1645887570	any arbitrary
+0.1645217754	very simple
+0.1644557804	$ sl
+0.1644310993	momentum tensor for
+0.1643688345	work energy
+0.1642225287	short time
+0.1641610771	an elastic
+0.1639899812	not so
+0.1639030205	electromagnetic fields in
+0.1636658683	the band gap
+0.1636356256	derived from
+0.1635704856	mechanical system
+0.1635148642	a closed form
+0.1633685329	the art
+0.1633180763	\ bf f
+0.1631749078	^ 2 +
+0.1631218796	these quantities
+0.1631122196	predicted by
+0.1629532806	lorentz transformation of
+0.1628600620	these properties
+0.1627697668	corresponds to
+0.1625317984	to calculate
+0.1625060356	considered as
+0.1624741267	to compute
+0.1624229143	differential equations for
+0.1623817640	the cross section
+0.1623761625	a piecewise
+0.1621206320	an exact
+0.1621082528	equal to zero
+0.1620864842	the static case
+0.1620432242	an unexpected
+0.1620428363	related to
+0.1619815887	under gravity
+0.1619563985	the michelson morley
+0.1618630452	physical properties of
+0.1617460090	not limited
+0.1615541612	equivalence between
+0.1615459942	material system
+0.1615060843	dispersion relation of
+0.1612765455	an extended
+0.1612441827	two sets
+0.1610953457	numerical analysis of
+0.1610833745	deduced from
+0.1610721854	normal modes of
+0.1609955907	some basic
+0.1609762048	the centre of mass
+0.1607988876	two way
+0.1603414473	mean free
+0.1603290472	kinetic theory of
+0.1601939821	no need
+0.1600234225	subjected to
+0.1599353186	= m
+0.1598979809	\ degree c
+0.1596873283	the van der
+0.1596869035	a periodic structure
+0.1596463849	force problem
+0.1596449202	relativistic equation
+0.1596373718	form expressions for
+0.1594872900	tends to zero
+0.1592660567	time step
+0.1592581280	by exploiting
+0.1589151315	this question
+0.1582937389	to obtain
+0.1581659527	an adiabatic
+0.1581451898	supported by
+0.1575147790	the complex plane
+0.1574169240	discussed in detail
+0.1573704228	the shallow water
+0.1573338003	initial value
+0.1573274731	by analyzing
+0.1570585128	the lorentz law of force
+0.1569665538	interpreted as
+0.1569313925	used to derive
+0.1568152180	boundary conditions on
+0.1567166134	more or less
+0.1565234760	an acoustic
+0.1563619429	work presents
+0.1563597771	obtained from
+0.1559197568	studied in detail
+0.1557705087	e ^
+0.1557344827	do not
+0.1557075910	a variational principle
+0.1556981956	$ \ mathbb r ^
+0.1556841252	magnetic vector
+0.1556673008	acting on
+0.1555517435	an original
+0.1546008406	the speed of light
+0.1545964228	by adding
+0.1545111042	dimensional systems
+0.1544746990	the second law
+0.1544080706	used to investigate
+0.1542261147	dealt with
+0.1538277739	1 f
+0.1538217137	these laws
+0.1538007051	$ \ gamma =
+0.1537768602	special case of
+0.1537458359	aims at
+0.1537421950	classical point
+0.1534176325	a single
+0.1533581446	in phase space
+0.1532752532	serve as
+0.1531983994	collisions between
+0.1529165589	two points
+0.1529150776	momentum tensor
+0.1528574596	written in terms of
+0.1527998546	a_ \
+0.1523607797	viewed as
+0.1521637827	the resonance frequencies
+0.1518176942	retarded time
+0.1516497225	numerical simulations of
+0.1515526532	by replacing
+0.1515221996	an expansion
+0.1514225843	the conservation laws
+0.1514210524	nonlinear dynamics of
+0.1513432331	driven by
+0.1511593436	square root of
+0.1511141403	bf e
+0.1510789715	classical problem of
+0.1510379564	not directly
+0.1507701451	a well defined
+0.1505636781	compatible with
+0.1504736024	space and time
+0.1504001371	value problem
+0.1502916187	the total momentum
+0.1498166137	focus on
+0.1497709642	the yield stress
+0.1496843415	comments on
+0.1496757230	the liouville equation
+0.1496055502	to assess
+0.1495815203	two fluid
+0.1495425905	\ to 0
+0.1492782162	latter case
+0.1492575683	this effect
+0.1491689333	exchange between
+0.1491511518	second law of thermodynamics
+0.1489614779	focuses on
+0.1485484750	by examining
+0.1484051508	surrounded by
+0.1481535232	obtained by
+0.1480833462	serves as
+0.1479008602	the dispersion curves
+0.1475959525	comply with
+0.1475637418	^ n
+0.1475461666	an electric field
+0.1475067902	\ mathbb r ^
+0.1474794577	m s
+0.1474753298	the de broglie
+0.1474096302	form solution
+0.1474057440	the special case
+0.1472407939	this property
+0.1471575861	exact solution of
+0.1469224468	integral over
+0.1468334180	by showing
+0.1468099137	the international
+0.1467666020	by imposing
+0.1467179334	m \
+0.1466847355	accounts for
+0.1466409217	aimed at
+0.1465602618	the low frequency
+0.1463655715	with increasing
+0.1461447395	the ground state
+0.1459500758	influenced by
+0.1458128252	a periodic array
+0.1455552350	in material media
+0.1455487749	gap between
+0.1454747633	time periodic
+0.1454570946	special cases of
+0.1454231761	the acoustic radiation force
+0.1453890007	g =
+0.1452282306	maxwell's equations in
+0.1451151270	link between
+0.1451106730	for studying
+0.1449995210	also considered
+0.1449495868	motivated by
+0.1448812286	correspond to
+0.1448768047	defined as
+0.1448576191	relativistic point
+0.1448271629	new approach
+0.1447717194	\ mathbb r
+0.1447256526	and vice
+0.1446865254	results show
+0.1446393868	the lagrangian
+0.1445793996	certain conditions
+0.1445680991	studied using
+0.1445603441	the velocity field
+0.1444997405	of synchrotron radiation
+0.1442321216	nonlinear normal
+0.1441661973	taken into
+0.1440346844	defined by
+0.1440152452	to produce
+0.1439894998	affected by
+0.1439341869	two charged
+0.1438185327	the energy momentum
+0.1438134463	acts as
+0.1436842863	a plane wave
+0.1436717646	taking into
+0.1434939624	the self force
+0.1434785540	to extend
+0.1434024335	to define
+0.1433482792	two particle
+0.1432749612	new method
+0.1432317305	in quantum mechanics
+0.1429803630	shown to
+0.1428276238	these problems
+0.1426801584	to understand
+0.1425712008	does not
+0.1424926861	the vicinity
+0.1423945821	special theory
+0.1423312950	f ^
+0.1422431567	these modes
+0.1421239245	the middle
+0.1420881088	relativistic equation of
+0.1419551487	the latter case
+0.1416421411	\ vec e
+0.1415727179	the principle of relativity
+0.1415294407	relying on
+0.1414812392	each other
+0.1414661270	a novel approach
+0.1414488608	the large scale
+0.1414358170	to prevent
+0.1412635550	maxwell equations in
+0.1412462789	the experimental results
+0.1411947590	an illustrative
+0.1411573213	to evaluate
+0.1411281323	resonance frequency of
+0.1410903758	this concept
+0.1410667985	analogy between
+0.1409923544	a short
+0.1409202586	the free surface
+0.1409104257	separation between
+0.1408565960	angular momentum of
+0.1408004351	unable to
+0.1406745313	non zero
+0.1406342483	action at
+0.1406235937	the helmholtz equation
+0.1405657166	some recent
+0.1405640695	a very simple
+0.1405635446	to perform
+0.1405042553	these phenomena
+0.1404963357	$ ^ 2
+0.1404235982	radiated by
+0.1401824143	$ 1
+0.1399467300	illustrated by
+0.1397709642	the doppler effect
+0.1397444698	the inner core
+0.1397272775	boundary value
+0.1396080026	the first part
+0.1395867246	to reduce
+0.1394657362	much more
+0.1391894539	present approach
+0.1391427159	the fourth
+0.1391080579	possible to obtain
+0.1390530483	h =
+0.1390475971	basing on
+0.1388868276	stem from
+0.1387871162	a numerical method
+0.1386939895	give rise to
+0.1386445956	r ^
+0.1384833274	first step
+0.1383360643	obtained using
+0.1383179023	transition between
+0.1383107162	closed system
+0.1382225485	influence on
+0.1382097895	two formulations
+0.1381493174	for solving
+0.1380485202	the electric dipole
+0.1377227164	the electrostatic force
+0.1375818308	simple model for
+0.1375329063	to construct
+0.1374892149	expressed as
+0.1374267656	paid to
+0.1373706434	valid only
+0.1373163305	a theoretical model
+0.1373097733	the volume fraction
+0.1372090399	an internal
+0.1371395109	_ \
+0.1370653933	way speed of light
+0.1369243985	to discretize
+0.1367214127	the surface tension
+0.1366945368	by changing
+0.1366893151	\ degree
+0.1365543735	dependence on
+0.1361810535	the lorentz
+0.1361107310	the reference frame
+0.1359951819	2 +
+0.1359722217	general case of
+0.1359347685	$ n =
+0.1359253811	a magnetic field
+0.1357605195	by varying
+0.1356036043	tens of
+0.1353118007	some general
+0.1350004916	at least
+0.1349459619	the canonical momentum
+0.1349232310	the heat flux
+0.1347894676	to implement
+0.1347286978	differ from
+0.1345608787	a time varying
+0.1345285484	the q factor
+0.1345237086	this report
+0.1344147730	resulting from
+0.1343556168	to represent
+0.1341718637	intend to
+0.1341435146	two point
+0.1340799299	inspired by
+0.1340721653	any physical
+0.1340606541	to derive
+0.1339597768	also present
+0.1337754548	$ 1 r
+0.1333936046	with respect
+0.1331016638	inferred from
+0.1330529298	contributes to
+0.1328004501	to explain
+0.1327408809	effective way
+0.1327266316	numerical example
+0.1324085341	this problem
+0.1323772875	characterised by
+0.1322817451	the elasticity tensor
+0.1320634234	some applications
+0.1320191700	l \
+0.1320003813	the radiation reaction
+0.1319074808	the probability density
+0.1317598108	rate of change of
+0.1315782554	of power law
+0.1315631858	the group velocity
+0.1312303226	by simply
+0.1309634964	good agreement between
+0.1309531522	an incompressible
+0.1309266752	tend to
+0.1308604320	conjunction with
+0.1308340381	new exact
+0.1307283391	open system
+0.1305170643	apart from
+0.1303930847	an axiomatic
+0.1303589159	the coulomb
+0.1302755547	the power law
+0.1302120830	the field strengths
+0.1300056227	experienced by
+0.1299761482	in addition
+0.1298396423	modeled by
+0.1297878745	the orbital angular momentum
+0.1297809732	kinetic energy of
+0.1296764173	than light
+0.1296654277	to infinity
+0.1296407379	time and space
+0.1294918824	field theory for
+0.1294776572	two orthogonal
+0.1293967477	to accommodate
+0.1293573034	a relativistic particle
+0.1292299056	to improve
+0.1291134046	directly from
+0.1290168541	exact solutions of
+0.1290020503	two dimensions
+0.1289043158	the gravitational constant
+0.1287321601	to characterize
+0.1287306441	to extract
+0.1285579667	a circle
+0.1283802457	the single particle
+0.1283787561	an instantaneous
+0.1283747753	rely on
+0.1283481009	a self consistent
+0.1283445454	= \
+0.1282661903	the scalar and vector potentials
+0.1282124231	used to study
+0.1280207129	a singularity
+0.1279067515	to create
+0.1278892348	$ 0
+0.1278839278	contrary to
+0.1277591202	an inviscid
+0.1276653970	accompanied by
+0.1273491067	explained by
+0.1272121810	the center of mass
+0.1271473807	not hold
+0.1271367085	a fully
+0.1270994399	agreement between
+0.1269242293	transitions between
+0.1269019104	also studied
+0.1268991322	looking at
+0.1268033565	to express
+0.1267634070	numerical results for
+0.1266175913	to illustrate
+0.1264582886	system of equations
+0.1263027103	a broad
+0.1261549436	refer to
+0.1260967585	gives rise to
+0.1260306060	the kinetic energy
+0.1259870558	the classical limit
+0.1259827042	the non linear
+0.1258244903	defined in terms of
+0.1257444035	the vector potential
+0.1256400711	devoted to
+0.1255980542	for calculating
+0.1254453696	extracted from
+0.1254334288	this case
+0.1252809944	k =
+0.1252649706	these states
+0.1251414703	$ body
+0.1249784615	more than
+0.1248307418	to include
+0.1247099737	applications such as
+0.1245988988	confirmed by
+0.1245639511	the inner sphere
+0.1245582536	a century
+0.1245239880	also propose
+0.1244646909	to avoid
+0.1244516079	two methods
+0.1243231422	a systematic
+0.1242583918	bounds on
+0.1241386536	angular momentum in
+0.1241032107	to investigate
+0.1237583716	a wave equation
+0.1237178419	surface waves in
+0.1236682048	the far field
+0.1235445223	principle of least
+0.1234262456	to relate
+0.1233749985	generally not
+0.1230528550	to manipulate
+0.1230408788	physical meaning of
+0.1228882691	a uniform magnetic
+0.1228670393	by tuning
+0.1228055682	accounted for
+0.1227390036	the dispersion relation
+0.1227289679	the speed of sound
+0.1226298336	neighbourhood of
+0.1226298336	virtue of
+0.1226178092	the lorentz law
+0.1224614469	good agreement with
+0.1224480780	properties of
+0.1223312356	a non local
+0.1220537227	the lorenz
+0.1220486465	quite different
+0.1219578126	such structures
+0.1219268262	dealing with
+0.1218502752	an isolated
+0.1217991617	an approach
+0.1217717768	to predict
+0.1216768445	among other
+0.1216673926	agreement with
+0.1216258292	a time dependent
+0.1214800577	analytical solution of
+0.1214265312	the one way speed of
+0.1214012970	the stress tensor
+0.1212772409	very useful
+0.1212127576	h \
+0.1210865777	m ^
+0.1209926886	treated as
+0.1209739965	calculated using
+0.1208849566	the third order
+0.1208129426	deals with
+0.1207990838	three different
+0.1207916767	to develop
+0.1207916597	a quantitative
+0.1206418638	derives from
+0.1206266953	these parameters
+0.1206148508	this short
+0.1206003875	to generate
+0.1205525685	the electric and magnetic fields
+0.1203794792	modeled as
+0.1203618295	responsible for
+0.1202936925	refers to
+0.1201690162	electromagnetic self force of
+0.1201552783	the method of images
+0.1201057014	an arbitrarily
+0.1200013743	as opposed to
+0.1199333765	known results
+0.1199215797	by employing
+0.1197945278	these methods
+0.1197419117	to verify
+0.1196538957	system parameters
+0.1196526853	two capacitor
+0.1195656718	even if
+0.1195312544	to explore
+0.1194930435	of point charges
+0.1192081003	to measure
+0.1191720165	data from
+0.1191652608	electromagnetic field in
+0.1191144879	provided by
+0.1191090965	attributed to
+0.1189394912	mediated by
+0.1189259383	to analyze
+0.1188608325	to estimate
+0.1187945592	the boltzmann equation
+0.1187227985	the boundary layer
+0.1187032372	$ function
+0.1186943559	acoustic waves in
+0.1185861183	frequency range of
+0.1185519034	two types
+0.1185099709	to validate
+0.1184972742	owing to
+0.1184757114	an easy
+0.1183222379	the electromagnetic fields
+0.1180192983	of revolution
+0.1179443559	analytical solutions of
+0.1178627440	the hamilton
+0.1177092189	coincides with
+0.1176505301	resorting to
+0.1175642570	controlled by
+0.1173990140	a generic
+0.1171844587	deviations from
+0.1170754746	the heat transfer
+0.1170213389	$ n
+0.1168519304	wave equation in
+0.1168097742	endowed with
+0.1168078547	the general case
+0.1167608871	this contribution
+0.1166887924	the special theory
+0.1166406906	arises from
+0.1165730913	for obtaining
+0.1165176072	excited by
+0.1164983751	interfaces between
+0.1163668256	and far field
+0.1163148817	interacting with
+0.1162970518	described in terms
+0.1162292324	gravitational field of
+0.1161507460	\ right
+0.1160545587	v =
+0.1158819081	approximated by
+0.1155539902	a dilute
+0.1153944245	this issue
+0.1153846180	the aforementioned
+0.1153336366	approach to
+0.1152706154	distance between
+0.1151873796	the envelope
+0.1150754426	exerted by
+0.1148926992	in practice
+0.1148608214	an asymptotic
+0.1148562616	akin to
+0.1146285354	accounting for
+0.1146083859	covered by
+0.1145967752	a pedagogical
+0.1145408810	also observed
+0.1143852804	introduced by
+0.1143774881	deal with
+0.1143488638	a sudden
+0.1142299070	the transfer matrix
+0.1138509302	potential energy of
+0.1136189405	equal to
+0.1133475917	of simultaneity
+0.1132418110	for designing
+0.1131704831	to clarify
+0.1131186392	belong to
+0.1129161122	analogous to
+0.1129122351	electric field of
+0.1129052479	to detect
+0.1128221445	respect to
+0.1127844140	do so
+0.1126991601	special theory of
+0.1126394702	this technique
+0.1126161196	the scalar potential
+0.1125289979	this model
+0.1125231505	the energy density
+0.1125115864	to enhance
+0.1124905994	solved by
+0.1124791538	a formal
+0.1124453655	consisting of two
+0.1123810720	expression for
+0.1122030855	act as
+0.1121609660	achieved by
+0.1119345041	similar to
+0.1118989070	but rather
+0.1118532468	the second order
+0.1117863456	body problem in
+0.1117300845	difficult to
+0.1115073509	perpendicular to
+0.1114637404	an underlying
+0.1113207332	constancy of
+0.1113124871	a straightforward
+0.1112912292	equivalent to
+0.1112703029	necessary condition for
+0.1112564929	away from
+0.1110423768	the field strength
+0.1110179892	to build
+0.1109503519	magnetic field in
+0.1107328129	an optical
+0.1105207599	easy to
+0.1102781932	for computing
+0.1100532189	the time reversal
+0.1099990390	vicinity of
+0.1099495209	by performing
+0.1099452587	paper provides
+0.1098809309	obtained through
+0.1096661708	this observation
+0.1096569460	valid for
+0.1095645454	^ i
+0.1094501822	played by
+0.1093443422	forces between
+0.1093353749	a region
+0.1093015886	this sense
+0.1091288546	a non linear
+0.1089647095	this method
+0.1088531918	$ 2
+0.1087858079	the experimental data
+0.1086874352	to formulate
+0.1085601363	behaves as
+0.1083829025	charged particle in
+0.1083576340	the quantum mechanical
+0.1083007329	distances between
+0.1079301085	a rough
+0.1078520731	the main features
+0.1077847841	magnetic field of
+0.1077250025	the first order
+0.1076190974	conservation laws of
+0.1075046358	the equations of motion
+0.1074914841	an antenna
+0.1073998677	to reach
+0.1070941477	equations of motion for
+0.1069995416	a reference
+0.1068129228	often used
+0.1067857487	introduction to
+0.1065366824	the results obtained
+0.1065241941	extended to
+0.1065127769	to recover
+0.1064862918	a simplified
+0.1064829772	assumed to
+0.1064681750	the high frequency
+0.1063379973	to modify
+0.1062953511	$ 10 ^
+0.1062672375	the author
+0.1062509895	the wave equation
+0.1061351959	time symmetric
+0.1060125217	a time independent
+0.1059753482	restricted to
+0.1058047999	the main
+0.1057695606	performed using
+0.1057453061	these structures
+0.1054021189	consisting of
+0.1052981527	a spring
+0.1052891212	validated by
+0.1048668035	a circuit
+0.1047802857	to quantify
+0.1046350051	an elliptic
+0.1045581962	expressions for
+0.1045523050	an electromagnetic
+0.1044534383	the third law
+0.1043911995	the exact solution
+0.1043446971	composed of two
+0.1043294495	this situation
+0.1042643266	this context
+0.1040869203	scattering from
+0.1040724309	the gravitational potential
+0.1036714433	two examples
+0.1036625025	the time dependent
+0.1036539975	for analyzing
+0.1035507256	centered on
+0.1035503519	electromagnetic field of
+0.1035050859	the dielectric constant
+0.1034111211	radiation from
+0.1033425460	an extremely
+0.1033221998	an absolute
+0.1033004724	non uniformly
+0.1031897118	this methodology
+0.1031721833	n =
+0.1031521158	followed by
+0.1030650174	the natural frequencies
+0.1030541519	$ 3
+0.1029959859	spite of
+0.1029757984	different types
+0.1029314125	a comprehensive
+0.1029039678	to reproduce
+0.1028457397	by taking
+0.1027703184	accordance with
+0.1026901686	force between
+0.1026165920	by contrast
+0.1024764783	newton's second
+0.1024678449	the theory of relativity
+0.1024149710	$ t ^
+0.1022847841	phase space of
+0.1021065741	two simple
+0.1018073082	arise from
+0.1017184622	coincide with
+0.1015809673	d \
+0.1015625863	body system
+0.1014595625	a proof
+0.1014451213	this formulation
+0.1014290336	two kinds of
+0.1013848735	the physical meaning
+0.1013156473	solved using
+0.1012666326	by measuring
+0.1012014695	this paper deals with
+0.1011782212	to treat
+0.1010766846	a general
+0.1008826639	emerge from
+0.1007768098	e and h
+0.1007703287	for measuring
+0.1007159495	conditions under
+0.1006917055	report on
+0.1006178320	a clear
+0.1004701963	able to
+0.1004499815	present here
+0.1004269469	$ h =
+0.1003933856	an algorithm
+0.1003001953	to justify
+0.1002671230	objects with
+0.1002620321	measured by
+0.1001778377	both models
+0.1000802537	a second order
+0.1000491334	emphasis on
+0.0999930220	a compact
+0.0999881332	an essential
+0.0999820504	considered here
+0.0998417551	to capture
+0.0996619562	applies to
+0.0996522748	a continuum
+0.0994508661	a wide
+0.0993856587	an ordinary
+0.0992016454	to optimize
+0.0991990056	sensitive to
+0.0989502967	reply to
+0.0988815506	not yet
+0.0988347711	submitted to
+0.0988200659	to increase
+0.0986657137	supposed to
+0.0982556742	a first order
+0.0980775156	an inverted
+0.0978206336	also derived
+0.0977133066	separated by
+0.0977057400	according to
+0.0977011410	an attractive
+0.0976961681	reflection from
+0.0976504334	\ bf e
+0.0975073833	the internal energy
+0.0973761680	in order
+0.0972950818	does not depend on
+0.0971819228	the famous
+0.0971724493	a distance
+0.0971626310	a particular case
+0.0971588019	two parameters
+0.0971278819	to address
+0.0971266581	the magnetic dipole
+0.0970837126	to hold
+0.0970652776	performed by
+0.0970631803	p =
+0.0969817694	concerned with
+0.0969483641	$ r_ \
+0.0968114990	also obtained
+0.0968047999	the usual
+0.0965857322	agrees with
+0.0964254142	to introduce
+0.0963387178	a powerful
+0.0963258865	to ensure
+0.0963220623	to decrease
+0.0962112938	with vanishing
+0.0962002917	to highlight
+0.0961990616	aims to
+0.0961549520	a purely
+0.0960977088	by studying
+0.0960810552	adapted to
+0.0960761476	other physical
+0.0960325640	the earth
+0.0960262396	present work
+0.0959983513	the electromagnetic energy
+0.0959311798	these experiments
+0.0958416692	the non relativistic
+0.0958024816	a small number of
+0.0957957644	an infinitely
+0.0957250025	the near field
+0.0957017253	$ 10
+0.0956981809	to study
+0.0956483305	an analog
+0.0956370239	illuminated by
+0.0955990590	the radiation force
+0.0954407647	the electromagnetic force
+0.0954156479	needed to
+0.0953668041	in contrast
+0.0953444499	to break
+0.0951816638	by combining
+0.0951298497	$ |
+0.0951237707	this process
+0.0950684597	approach allows
+0.0950174799	only if
+0.0950023172	the momentum density
+0.0949852910	represented as
+0.0947733336	the unperturbed
+0.0945072961	this kind
+0.0945050859	the friction force
+0.0944603323	$ m
+0.0943946933	derived using
+0.0943811732	to establish
+0.0943503938	in turn
+0.0943465477	focused on
+0.0943320894	an undergraduate
+0.0943244923	a large number
+0.0942814369	by utilizing
+0.0942186729	all possible
+0.0941548572	flow through
+0.0941459018	b \
+0.0940933302	an incident
+0.0940550389	propagation through
+0.0940199704	r =
+0.0940189539	modelled as
+0.0939920971	connected by
+0.0939562619	of light in vacuum
+0.0939227465	to check
+0.0938555064	t ^
+0.0938395800	$ t
+0.0937790849	combined with
+0.0936907233	r \
+0.0933217099	a detailed
+0.0933148275	to maximize
+0.0932638833	impact on
+0.0930394132	to handle
+0.0929276275	look at
+0.0928476340	this procedure
+0.0927810218	a review
+0.0927100589	other than
+0.0925499364	attached to
+0.0925486473	developed by
+0.0924984008	to test
+0.0924774031	any other
+0.0921029227	to simplify
+0.0919796867	an explanation
+0.0918397404	created by
+0.0916140065	by means
+0.0916002715	a consequence
+0.0915604161	remarks on
+0.0914949635	implications for
+0.0914758893	k \
+0.0912929394	restrictions on
+0.0912082398	a wide variety of
+0.0911329601	led to
+0.0910537773	formulas for
+0.0910410198	an array
+0.0909419298	associated with
+0.0906618784	simple but
+0.0906148262	the current density
+0.0905751046	a prototype
+0.0905747995	applicable to
+0.0905215300	a good agreement
+0.0902859465	captured by
+0.0902307251	widely used in
+0.0902029102	formulated as
+0.0901730006	an ensemble
+0.0901322454	ratio between
+0.0901306240	the angular velocity
+0.0900739013	\ mathbf p
+0.0899795201	manifestation of
+0.0899531294	a circularly
+0.0899109806	very different
+0.0898491300	formula for
+0.0897773912	for achieving
+0.0897341142	different types of
+0.0896684359	absence of
+0.0895544403	description of
+0.0895245377	carried by
+0.0895231505	the field equations
+0.0895036872	an exponential
+0.0894137487	version of
+0.0892635462	collection of
+0.0892623258	interact with
+0.0892127241	interface between
+0.0891911302	equation for
+0.0891617350	comparable to
+0.0891181785	linear part
+0.0890727116	conservative system
+0.0890082682	irrespective of
+0.0890071579	this formalism
+0.0889795470	variety of
+0.0889614549	an inverse
+0.0889117192	the argument
+0.0889098849	a procedure
+0.0888971512	exerted on
+0.0888731302	any given
+0.0888260914	in spite of
+0.0887631883	described by
+0.0887230154	to eliminate
+0.0886844898	appears to
+0.0884636196	contribute to
+0.0884242772	the energy transfer
+0.0883490006	properties such as
+0.0883139030	consists of
+0.0882854588	the radiation pressure
+0.0882786973	results from
+0.0881925795	not only
+0.0881147784	torque on
+0.0880940289	to generalize
+0.0878570549	bead on
+0.0877715709	comes from
+0.0877642488	a major
+0.0876852142	notes on
+0.0876558867	majority of
+0.0874945826	\ phi ^
+0.0874564950	together with
+0.0873569387	effects due to
+0.0870910862	perspective on
+0.0870435494	$ g
+0.0869482076	the electromagnetic momentum
+0.0867652334	a smooth
+0.0866827654	relative to
+0.0866478375	an axially
+0.0866307908	particular case
+0.0866086190	the main features of
+0.0865896045	modulated by
+0.0865797619	the displacement field
+0.0864380465	the classical theory
+0.0863828964	filled with
+0.0862652334	a spatially
+0.0862537171	dominated by
+0.0862191807	an analogy
+0.0861473751	$ u
+0.0861335463	in vacuum
+0.0861181656	the external force
+0.0860481830	the evolution equations
+0.0860382567	g \
+0.0859589039	distance from
+0.0857200520	proposed by
+0.0856604300	application to
+0.0856154435	a step
+0.0855209949	to provide
+0.0853780026	emission from
+0.0853281659	a suitable
+0.0851945193	a semi
+0.0851671619	but also
+0.0851630418	derivation of
+0.0851472141	1 c
+0.0849477924	derived by
+0.0849316138	the phase velocity
+0.0847682713	a careful
+0.0847566143	generalisation of
+0.0846876535	e and b
+0.0845971911	and orbital angular
+0.0842826111	of least action
+0.0842756154	a realistic
+0.0842147510	as long as
+0.0841564010	agree with
+0.0841009288	the parameter space
+0.0839880733	the michelson
+0.0839680353	reminiscent of
+0.0837299086	bounded by
+0.0834307040	real part
+0.0833561819	physical system
+0.0833009005	the mean flow
+0.0832074956	analysis of
+0.0828653739	criterion for
+0.0827841990	matched to
+0.0826139111	not exist
+0.0825913798	a multiscale
+0.0825735591	a wide class of
+0.0825531860	the wave equations
+0.0825151853	some numerical
+0.0823917959	but not
+0.0823406048	result from
+0.0823305146	a sharp
+0.0823297085	set of
+0.0822295194	e =
+0.0820447658	comparison with
+0.0820411331	not require
+0.0819583757	a perfect
+0.0819085965	this work
+0.0816202596	the final
+0.0813301187	non existence of
+0.0812613924	far from
+0.0812356561	a highly
+0.0811910989	follows from
+0.0811304750	presence of
+0.0811103457	to cover
+0.0811032784	to demonstrate
+0.0810159968	a rich
+0.0809380584	an accelerating
+0.0807758861	a specific
+0.0807177302	a b
+0.0806683367	the piano
+0.0806328073	$ model
+0.0804310778	two and three
+0.0803788633	the presence
+0.0802872801	suitable for
+0.0802656866	\ partial \
+0.0802560484	an electric
+0.0802456132	$ v
+0.0802371627	a threshold
+0.0802324046	simple example
+0.0801883103	the entire
+0.0800465123	coupled system
+0.0799949825	characteristic time
+0.0799316138	the external field
+0.0798693082	imposed by
+0.0798167827	a modified
+0.0797116743	sliding on
+0.0797019076	the first experimental
+0.0795804917	reduced to
+0.0795687783	for generating
+0.0794651573	synthesis of
+0.0794596069	a finite
+0.0791775298	dedicated to
+0.0789602979	new family of
+0.0788579648	to resolve
+0.0788579648	to distinguish
+0.0788390287	the numerical solution
+0.0788008877	the soundboard
+0.0787684458	classical statistical
+0.0787560394	try to
+0.0787525422	guided by
+0.0787122357	access to
+0.0786287334	made possible
+0.0786152781	the acoustic radiation
+0.0786088668	the time scale
+0.0784591312	on top of
+0.0784499702	a large number of
+0.0784098587	proof of
+0.0783901402	verified by
+0.0782827402	the traditional
+0.0782661280	due to
+0.0782002025	electromagnetic self
+0.0780280761	incompatible with
+0.0779826974	an equilibrium
+0.0778970874	a universal
+0.0778529185	a transparent
+0.0778529185	a narrow
+0.0778125992	a prescribed
+0.0777929402	a small
+0.0776671444	at frequencies
+0.0776088611	$ s
+0.0775724217	differential system
+0.0775308197	a rectangular
+0.0774501372	a rigid
+0.0774421944	$ p
+0.0774316138	the wave function
+0.0774199596	a finite number of
+0.0773022749	$ \ phi ^
+0.0772973533	interested in
+0.0772239328	a uniform
+0.0772118708	an infinite number of
+0.0771840245	$ r
+0.0770436736	$ c
+0.0769723502	dependent on
+0.0768558584	the time domain
+0.0768350670	$ f
+0.0768075115	for constructing
+0.0767152129	an interface
+0.0766782482	start from
+0.0766557983	determination of
+0.0765188839	capable of
+0.0765068840	a new approach
+0.0764037982	the magnetic vector
+0.0762756909	analogy with
+0.0761088611	$ h
+0.0761077686	equations for
+0.0760422645	the square root of
+0.0759466155	linked to
+0.0759109105	values of
+0.0758645173	= e
+0.0757738174	computed by
+0.0757280318	and hard
+0.0757116743	rolling on
+0.0756818609	the flame front
+0.0756015917	an equation
+0.0755701988	the electric and magnetic
+0.0755363357	but still
+0.0755299348	reduces to
+0.0754647842	equation of motion for
+0.0754422647	a 2d
+0.0753824846	to control
+0.0753773570	a uniformly
+0.0752719768	$ d
+0.0751141603	c ^
+0.0750843208	with regard to
+0.0750592580	experiments show
+0.0750349282	a flat
+0.0750277887	p \
+0.0749896092	an angle
+0.0747497831	a well known
+0.0747493683	a heterogeneous
+0.0747076919	comparisons with
+0.0746299950	kinds of
+0.0746239654	an action
+0.0745238639	as expected
+0.0744693340	as well
+0.0743300231	definitions of
+0.0743211102	to play
+0.0742872948	or magnetic
+0.0741952141	number of
+0.0740978795	class of
+0.0740922778	force due to
+0.0740431388	satisfied by
+0.0740378392	also known as
+0.0738453917	connected to
+0.0738350670	$ l
+0.0738028103	a global
+0.0738001120	criteria for
+0.0737600351	also found
+0.0737153088	the momentum of light
+0.0737003835	very close to
+0.0736985631	a natural
+0.0735985667	a unique
+0.0733161342	discrete system
+0.0733044900	more than one
+0.0732098096	a minimal
+0.0731956058	required for
+0.0731562054	a series
+0.0730697898	a 3d
+0.0730568814	understood as
+0.0730031675	the total
+0.0728847902	a comparison
+0.0728663145	some aspects of
+0.0728577653	to propose
+0.0724245042	a constant
+0.0724142157	a complete
+0.0724045002	to enable
+0.0722447188	various types of
+0.0722391960	a significant
+0.0722005009	the interior
+0.0721668989	$ k
+0.0720856249	into consideration
+0.0720513877	total energy of
+0.0720158088	the first and
+0.0718671303	in section
+0.0718528715	the propagation of electromagnetic
+0.0718233443	the past
+0.0717999976	$ w
+0.0714847695	d =
+0.0714229426	tends to
+0.0714174963	a superconducting
+0.0714107747	$ \
+0.0713554786	a perfectly
+0.0713303421	a central
+0.0712715915	to apply
+0.0711632648	obtained by using
+0.0711544720	1 +
+0.0710893575	a 1d
+0.0709577802	an important role in
+0.0709502534	v ^
+0.0708963657	constraints on
+0.0708202313	valid at
+0.0706406051	employed to
+0.0706153827	the inner and
+0.0704203830	an optimization
+0.0704027487	a new
+0.0703779664	at room
+0.0702702637	foundations of
+0.0702692681	the context
+0.0701210286	a horizontal
+0.0701180230	$ e =
+0.0701012078	formation in
+0.0700492428	$ dimensional
+0.0700308290	referred to
+0.0700200080	a freely
+0.0700023355	an asymmetric
+0.0699165511	method for
+0.0698070715	an inertial
+0.0697925444	a non zero
+0.0697479211	the same order
+0.0696748438	under certain
+0.0696748164	an analysis
+0.0696095485	in terms of
+0.0695985288	degree of
+0.0695812960	embedded in
+0.0695677636	the fields of
+0.0695543707	solely on
+0.0694899013	the moment of
+0.0694151023	waveguides with
+0.0694065573	interactions with
+0.0693038204	the idea
+0.0692872699	very good
+0.0692777684	an average
+0.0692303836	m =
+0.0690970809	the connection between
+0.0690966897	classification of
+0.0690660735	for finding
+0.0690303404	a lossy
+0.0689902089	in fact
+0.0689714255	the case
+0.0689583757	a common
+0.0689481029	x ^
+0.0688856186	exposed to
+0.0688775345	the correct
+0.0688317353	$ q
+0.0688229306	this type
+0.0688180993	of sound in
+0.0687524497	inductance of
+0.0687389703	the newly
+0.0686279150	the original
+0.0686261510	a moderate
+0.0685352586	agree well
+0.0684070159	some aspects
+0.0683682732	opportunity to
+0.0683514886	many other
+0.0683392553	notion of
+0.0683299950	consists in
+0.0683261399	well known in
+0.0683177758	used to
+0.0683070512	particle under
+0.0682759346	$ b
+0.0682294827	the equation of motion
+0.0682268526	bound on
+0.0681174684	the specimen
+0.0680890041	the mouth
+0.0680849083	to discuss
+0.0680249288	a flexible
+0.0679842431	generalization of
+0.0679591407	regardless of
+0.0679040497	a convex
+0.0678543559	amounts to
+0.0678517860	very well
+0.0678200709	and experimentally
+0.0677607318	to exist
+0.0677521756	this expression
+0.0677190743	signal to
+0.0677091552	a triangular
+0.0676374666	a closed
+0.0675755619	the possibility
+0.0675704435	the mechanical properties
+0.0675409746	time derivative of
+0.0674735747	added to
+0.0674249065	of mass of
+0.0674115246	expected to
+0.0672618204	the velocity of light
+0.0672498844	systems with
+0.0671937444	with respect to
+0.0670803238	of light
+0.0670770111	constrained to
+0.0670072178	t \
+0.0669975836	as far as
+0.0669686330	a straight
+0.0668593787	emitted by
+0.0668528353	in order to
+0.0668029729	to observe
+0.0667976482	1 r
+0.0667949092	the concept
+0.0667017210	search for
+0.0665738342	by means of
+0.0665215486	analog of
+0.0665065682	three types of
+0.0664599046	to approximate
+0.0664392116	tool for
+0.0663793367	a wide range of
+0.0663436037	orthogonal to
+0.0663031574	to reveal
+0.0662897206	by assuming
+0.0662848994	validation of
+0.0662745075	exploration of
+0.0661937078	waves through
+0.0661443934	an approximation
+0.0661245866	a variety
+0.0661188595	of motion
+0.0660074320	contribution to
+0.0659497048	then use
+0.0658382470	a slightly
+0.0658312308	contained in
+0.0657907292	aspects of
+0.0657619490	composed of
+0.0657604261	family of
+0.0656175186	the time evolution
+0.0655637736	a large
+0.0655341698	+ \
+0.0654932864	different values
+0.0653719792	placed on
+0.0653206519	b ^
+0.0653041333	a critical
+0.0652042517	also give
+0.0649588085	effect on
+0.0649165511	model for
+0.0648610985	second part
+0.0648467903	the absence
+0.0647493585	to occur
+0.0646944491	used to describe
+0.0646848465	to gain
+0.0646440651	to propagate
+0.0644362866	investigated using
+0.0643563895	defined on
+0.0643533327	as well as
+0.0642931477	one side
+0.0641577803	the general theory
+0.0638938013	work done by
+0.0637581187	deviation from
+0.0636554591	an inclined
+0.0636487674	suggested by
+0.0636250039	this regime
+0.0636070126	calculations show
+0.0635778541	foundation for
+0.0635352391	s ^
+0.0635300474	to compare
+0.0635050801	seen as
+0.0634723618	to possess
+0.0634512217	prior to
+0.0634382941	even more
+0.0633749926	a novel
+0.0633342431	definition of
+0.0632876581	this behavior
+0.0632812128	dependence of
+0.0632608644	the top of
+0.0632604758	a point like
+0.0632578398	experiments on
+0.0632406280	realized by
+0.0630827016	the rattleback
+0.0630349205	reduce to
+0.0630299705	of view
+0.0630051812	derivations of
+0.0629578628	between two
+0.0628882527	ubiquitous in
+0.0626826939	effects on
+0.0625574606	reflected from
+0.0624374605	generated from
+0.0624050674	implemented by
+0.0622109968	revealed by
+0.0621261047	consist of
+0.0620386985	status of
+0.0620087974	lies in
+0.0619757605	regard to
+0.0619398570	to prove
+0.0619272759	a point
+0.0618856897	the influence
+0.0618507343	identified as
+0.0618502485	this relation
+0.0618439740	schemes for
+0.0617864893	this formula
+0.0616285034	resulted in
+0.0616003248	force on
+0.0615919554	presentation of
+0.0615524960	the interplay
+0.0615418807	the aim
+0.0615231620	not always
+0.0614832655	an impedance
+0.0614388169	to exhibit
+0.0614269824	body with
+0.0613916580	on shell
+0.0613317521	3 +
+0.0613252373	\ v
+0.0613214870	$ j
+0.0613102060	one spatial
+0.0612618367	relevant to
+0.0612108703	appears as
+0.0611875853	generality of
+0.0611808468	materials with
+0.0611361237	from rest
+0.0609730229	the one of
+0.0609501068	solution for
+0.0607986035	spreading of
+0.0607713899	function of time
+0.0607670107	occurs at
+0.0605939059	four different
+0.0605010774	spirit of
+0.0604853861	of solutions of
+0.0604079657	the method to
+0.0603920723	$ z
+0.0603862258	the same
+0.0603709257	connected with
+0.0602480133	two different
+0.0602444795	information on
+0.0601367336	the electric and
+0.0601012477	given by
+0.0600642006	many different
+0.0600586734	an example
+0.0600498976	expressed by
+0.0599962787	and momentum of
+0.0599853861	of particles with
+0.0599525421	constructed by
+0.0599251878	designed to
+0.0599170729	l ^
+0.0598401565	calculated by
+0.0598106350	a mechanism
+0.0598089046	to yield
+0.0597916879	verification of
+0.0596919995	a spherically
+0.0595821507	fields at
+0.0595295328	basis for
+0.0594929938	demonstrated by
+0.0594918359	an expression
+0.0592954861	survey of
+0.0592953050	then consider
+0.0591439345	subset of
+0.0591421528	answer to
+0.0591289041	loaded by
+0.0591249376	calculated from
+0.0590472563	one or two
+0.0589657497	for describing
+0.0589609877	usefulness of
+0.0589543619	the maximal
+0.0589140404	statistical properties of
+0.0588855464	conception of
+0.0586980515	different from
+0.0586134242	waves at
+0.0585403331	well as
+0.0584792706	by considering
+0.0583855255	coupled to
+0.0583703111	rod with
+0.0583473118	a space time
+0.0583025695	equation of motion of
+0.0583020559	a correction
+0.0581414289	a result
+0.0581176188	such as
+0.0580963608	an air
+0.0580576062	the literature
+0.0580042332	theory of
+0.0579206818	known as
+0.0578916930	takes into
+0.0578475689	a convenient
+0.0578023039	assessment of
+0.0576740118	acts on
+0.0575684863	consistency with
+0.0574996136	form of
+0.0574635729	required by
+0.0574536946	solution to
+0.0574258018	obtained for
+0.0574107999	treatment of
+0.0572682314	constructed from
+0.0572512433	proved to
+0.0571701260	an array of
+0.0571528043	this class
+0.0571466724	motion of
+0.0570951403	a brief
+0.0569483035	scheme for
+0.0569258018	derived for
+0.0568483640	the answer
+0.0568370917	accessible to
+0.0568193046	a particle in
+0.0567962802	the new model
+0.0565884073	limited to
+0.0565534830	postulate of
+0.0565213360	types of
+0.0564899908	also show
+0.0564809820	but only
+0.0564478789	$ e
+0.0564225844	generalizations of
+0.0563184903	scattering by
+0.0563116111	an appropriate
+0.0561466724	dynamics of
+0.0558954654	the origin
+0.0558940410	the moon
+0.0558874369	two types of
+0.0558567232	a minimum
+0.0558449852	characteristics of
+0.0557767310	two kinds
+0.0556370996	a broad range of
+0.0556154222	a robust
+0.0556141948	$ r ^
+0.0556108328	to analyse
+0.0553733942	sufficient to
+0.0553560794	also given
+0.0552913510	$ \ mathbb r
+0.0552568705	not possible
+0.0551929385	a deep
+0.0551261682	families of
+0.0551204100	transferred to
+0.0550085906	in good agreement with
+0.0549486089	permits to
+0.0549062572	opposed to
+0.0548881155	filled by
+0.0548337085	to design
+0.0547728087	of energy and momentum
+0.0547487635	conditions for
+0.0547210887	attempt to
+0.0546829114	also find
+0.0546362216	threshold for
+0.0545993249	a crucial
+0.0544419066	the notion
+0.0543758218	a torus
+0.0543539401	influence of
+0.0543240402	an invariant
+0.0543046796	to separate
+0.0541697589	an extension
+0.0541443209	the drude
+0.0540919223	\ mu \
+0.0539783514	advantage of
+0.0539776069	immersed in
+0.0539539401	existence of
+0.0538585979	loaded with
+0.0538533140	overview of
+0.0538274071	limited by
+0.0537223002	stabilization of
+0.0536853513	used to find
+0.0536164126	self force of
+0.0535031507	relevance to
+0.0533146280	behavior of
+0.0533015761	\ nu \
+0.0532104569	utilized to
+0.0531868272	uniqueness of
+0.0531297670	n \
+0.0531092916	center of
+0.0530460610	new model
+0.0530424885	the skin
+0.0529625627	combinations of
+0.0529125627	versions of
+0.0528677125	understanding of
+0.0528087974	needed for
+0.0528024355	characterization of
+0.0527999371	the classical theory of
+0.0527621634	^ \
+0.0526789379	constrained by
+0.0526537079	$ x
+0.0525140474	$ | \
+0.0524937430	analogue of
+0.0524661174	scattered by
+0.0524215543	the foucault
+0.0523518710	exposition of
+0.0523093058	as long
+0.0522451207	focusing on
+0.0521614399	correlated with
+0.0520908594	variant of
+0.0520646822	property of
+0.0520477871	theorems for
+0.0520330045	seems to
+0.0519388099	a simple example
+0.0519192013	this paper provides
+0.0518905100	all other
+0.0518725570	similarly to
+0.0518689770	proven to
+0.0517344742	made by
+0.0517188872	the scalar and vector
+0.0516241820	breakdown of
+0.0515919554	arising in
+0.0515582944	t =
+0.0514869958	f ^ \
+0.0514604432	in accordance
+0.0513686662	decreases with
+0.0512587452	resistance to
+0.0512165020	favor of
+0.0511370878	occurrence of
+0.0510890460	a discussion
+0.0510751844	illustration of
+0.0510710089	route to
+0.0510513348	$ i
+0.0509914346	the existence
+0.0509818938	selection of
+0.0509708225	capability of
+0.0508072960	to slow
+0.0508024355	kind of
+0.0507730973	of energy in
+0.0506982960	without using
+0.0506505969	sides of
+0.0505684222	parallel to
+0.0504882450	then applied to
+0.0504700928	starting with
+0.0504508788	tuned to
+0.0504464701	adjustment of
+0.0503449811	an extension of
+0.0503341977	required to
+0.0502944582	simulated by
+0.0502628549	solids with
+0.0501771761	suited for
+0.0501499986	discussion on
+0.0501111101	formulae for
+0.0501080003	illustrated with
+0.0500148636	superposition of
+0.0500021461	notions of
+0.0500014510	1 \
+0.0499237207	analogy to
+0.0499196998	to deal with
+0.0499188024	appearing in
+0.0498443542	a detailed analysis of
+0.0498349716	waves in
+0.0498142671	account for
+0.0497311703	to describe
+0.0497310070	classes of
+0.0497276427	the real and
+0.0497108817	occurring in
+0.0495044186	limits on
+0.0493829093	detection of
+0.0492616333	outcome of
+0.0492616333	capabilities of
+0.0492584169	relates to
+0.0491387742	found to
+0.0491367336	the first two
+0.0491367336	a method to
+0.0489865755	the validity
+0.0489814130	solutions for
+0.0489769889	some particular
+0.0489573835	a promising
+0.0489487283	utilized in
+0.0489383230	in conjunction with
+0.0489356992	the long time
+0.0489174992	at most
+0.0488976863	exploited to
+0.0488661886	expansions for
+0.0488468338	waveguide with
+0.0488268717	different values of
+0.0487989641	the special case of
+0.0487865478	algorithm to
+0.0487628119	the centre
+0.0487519462	done by
+0.0486574852	behaviour of
+0.0486341539	regularization of
+0.0486212558	tools for
+0.0485460115	encountered in
+0.0485429016	sensitivity to
+0.0484623434	or even
+0.0484133467	a pair of
+0.0482713665	reason for
+0.0482027561	the first law
+0.0481434043	mode at
+0.0480343791	calculation of
+0.0479950311	a generalization
+0.0479735389	state of
+0.0479358609	absent in
+0.0478034968	connection with
+0.0477875971	then show
+0.0477802750	performed at
+0.0477791779	used as
+0.0477556646	holds for
+0.0476667991	seem to
+0.0476276553	written in
+0.0475003206	sequence of
+0.0473810211	treated in
+0.0473103427	2 \
+0.0472291907	validity of
+0.0472140594	^ 2 \
+0.0471915799	the university of
+0.0471623757	the role played by
+0.0471486110	the physical meaning of
+0.0471374238	strategy for
+0.0470659246	sum of
+0.0469294221	analogs of
+0.0469211272	in addition to
+0.0469100811	platform for
+0.0468924324	attempts to
+0.0467474452	reconstruction of
+0.0466723378	equation with
+0.0466680572	minimization of
+0.0466384475	the same time
+0.0465606186	an expression for
+0.0465311703	corresponding to
+0.0465252469	equations of motion of
+0.0465033192	correction to
+0.0464070066	the poincar \
+0.0462579509	of two coupled
+0.0462403954	hierarchy of
+0.0462391990	the mechanism of
+0.0461915799	the force of
+0.0461907061	and subsequently
+0.0461604909	the realm of
+0.0461260463	some new
+0.0460801080	new type of
+0.0460698156	possibilities for
+0.0460512291	velocity at
+0.0460365385	an analysis of
+0.0460245715	arises in
+0.0458985896	medium with
+0.0458865309	linearly with
+0.0458823218	formulation of
+0.0458528353	the shape of
+0.0458528353	the assumption of
+0.0458528353	the end of
+0.0458528353	the action of
+0.0458111270	observation of
+0.0458054542	show here
+0.0457891834	allowing for
+0.0457391990	the motion in
+0.0456393571	confined to
+0.0456366518	features of
+0.0456315080	involved in
+0.0455930017	a new class of
+0.0455310020	strongly on
+0.0455073958	consequence of
+0.0454891990	the result of
+0.0454891990	the physics of
+0.0454651697	meaning of
+0.0454548293	emergence of
+0.0454044052	this way
+0.0454032292	choice of
+0.0453730072	\ times \
+0.0453670366	up to
+0.0453407702	first and second
+0.0452600433	character of
+0.0452391990	the plane of
+0.0452391990	the level of
+0.0452146368	$ 2 \
+0.0451815307	described as
+0.0451482900	hold for
+0.0450050528	presented as
+0.0450035807	violation of
+0.0449415799	the rate of
+0.0449415799	the field of
+0.0449415799	the energy of
+0.0449415799	the geometry of
+0.0449415799	the method of
+0.0449213666	formalism for
+0.0448992579	orientation of
+0.0448842122	independence of
+0.0448673683	$ n \
+0.0448528682	slab with
+0.0448528353	the phenomenon of
+0.0448528353	the limit of
+0.0448528353	the concepts of
+0.0448528353	the design of
+0.0448184435	foundation of
+0.0447903070	\ sim \
+0.0447091911	the stick
+0.0447037558	choices of
+0.0446241310	the basis of
+0.0446218679	fluctuations in
+0.0445917232	a sum
+0.0445766840	in contrast to
+0.0445355056	in accordance with
+0.0445117951	a number
+0.0444928711	explanation for
+0.0444891990	the effects of
+0.0444797415	studied by
+0.0444435533	advances in
+0.0444250836	origins of
+0.0444226350	the well known
+0.0443830625	the time derivative
+0.0443247241	journal of
+0.0443232689	evaluation of
+0.0442914317	applicability of
+0.0442325425	possibility of
+0.0441990268	note on
+0.0441752643	90 \
+0.0441103164	the aim of
+0.0441028353	the weight of
+0.0440776458	centre of
+0.0440560024	degrees of
+0.0440346746	product of
+0.0439501155	theory for
+0.0439415799	the amplitude of
+0.0439415799	the frequency of
+0.0439415799	a model of
+0.0439415799	the position of
+0.0439415799	the size of
+0.0439415799	the order of
+0.0439415799	the interaction of
+0.0439222036	the lab
+0.0439045385	a mixture of
+0.0438520745	real part of
+0.0438098419	transitions in
+0.0437600487	for example
+0.0437283390	ability to
+0.0436978591	moving at
+0.0436937444	as functions of
+0.0436937444	so as to
+0.0436574852	nature of
+0.0436056831	the quality
+0.0436028353	the impact of
+0.0435975383	attention to
+0.0435733254	mechanism for
+0.0435366187	back to
+0.0434958956	by using
+0.0434891990	the base of
+0.0434437010	necessity of
+0.0434353010	or not
+0.0434245264	\ frac \
+0.0434111891	independently of
+0.0433685070	modification of
+0.0433555038	analogues of
+0.0433452474	importance for
+0.0433347239	allowed to
+0.0432949314	relevant for
+0.0432574852	application of
+0.0432520188	solution of
+0.0432242227	to deal
+0.0431915799	the scattering of
+0.0431226789	not change
+0.0431028353	of interest to
+0.0431028353	the laws of
+0.0430366187	to get
+0.0430212464	by making
+0.0430008931	appear as
+0.0429890848	then used to
+0.0429415799	the length of
+0.0429415799	the mass of
+0.0429415799	the square of
+0.0429415799	the surface of
+0.0429415799	the velocity of
+0.0429116460	the case of
+0.0429086361	bounds for
+0.0428528353	the example of
+0.0427830164	oscillator with
+0.0427700229	appearance of
+0.0427391990	the entropy of
+0.0427117410	interpretation of
+0.0426937444	the first one
+0.0426669332	a few
+0.0426556265	increases with
+0.0426449842	increase in
+0.0426187681	generalized to
+0.0425850497	condition on
+0.0425596365	compatibility of
+0.0425249132	the stiffness of
+0.0425046658	the reactive
+0.0424891990	the calculus of
+0.0424891990	the thickness of
+0.0424891990	the operation of
+0.0424038286	location of
+0.0424033327	the requirement of
+0.0424033327	this results in
+0.0423615911	gaps in
+0.0423089481	used for
+0.0423066022	expressed in
+0.0422466800	a function of
+0.0421915799	the source of
+0.0421915799	the axis of
+0.0421915799	the coupling of
+0.0421391415	performed with
+0.0421386546	of refraction
+0.0421218679	statistics of
+0.0421103164	the context of
+0.0421028353	a source of
+0.0421028353	the coefficients of
+0.0421028353	the problem in
+0.0421028353	the principles of
+0.0421028353	the flow of
+0.0421028353	the power of
+0.0421028353	the failure of
+0.0421028353	the sense of
+0.0420343791	representation of
+0.0420033836	formation of
+0.0420005603	a series of
+0.0419610389	change of
+0.0419415799	the results of
+0.0418120943	lack of
+0.0418016653	continuation of
+0.0417391990	the objective of
+0.0417391990	the spectrum of
+0.0417391990	the loss of
+0.0417391990	the space of
+0.0417391990	the topology of
+0.0416936497	the first time
+0.0416765726	described in terms of
+0.0416678201	effectiveness of
+0.0416245704	the onset
+0.0416072300	signature of
+0.0415249132	the deformation of
+0.0414891990	the system in
+0.0414891990	the relation of
+0.0414891990	the inverse of
+0.0414891990	the expansion of
+0.0414214491	algorithm for
+0.0414173098	to support
+0.0413626909	modelling of
+0.0413261183	array of
+0.0412709505	extraction of
+0.0411915799	the angle of
+0.0411915799	the difference in
+0.0411915799	the displacement of
+0.0411915799	the radius of
+0.0411915799	the momentum of
+0.0411915799	the boundary of
+0.0411028353	the perspective of
+0.0411028353	the intensity of
+0.0411028353	the potential of
+0.0411028353	the addition of
+0.0411028353	the position and
+0.0411028353	the predictions of
+0.0410535854	powers of
+0.0410324519	apply to
+0.0409920842	material with
+0.0409912194	than 1
+0.0409044340	a variety of
+0.0408711992	essential for
+0.0408322508	theorem for
+0.0408154329	interaction with
+0.0407839943	time dependence of
+0.0407391990	the issue of
+0.0407391990	the condition of
+0.0407391990	a layer of
+0.0407155682	propose to
+0.0407045788	advantages of
+0.0406936497	the presence of
+0.0406878199	placed at
+0.0406716048	reported in
+0.0406556456	point of view of
+0.0406516594	change in
+0.0406374858	combination of
+0.0406372310	system of two
+0.0406118373	relationship with
+0.0405528636	procedure for
+0.0405345664	transport in
+0.0405252469	speed of light in
+0.0404931126	pendulum with
+0.0404891990	the process of
+0.0404891990	the equivalence of
+0.0404891990	the curvature of
+0.0404891990	the trajectory of
+0.0404891990	a factor of
+0.0404810376	two new
+0.0404275263	idea of
+0.0404246610	train of
+0.0403791460	allow for
+0.0403647390	identified with
+0.0403564213	generation of
+0.0403345664	pair of
+0.0403213981	coupled by
+0.0403073927	the imaginary part
+0.0403006257	strength of
+0.0402964800	relations for
+0.0402693006	introduction of
+0.0401915799	the point of
+0.0401915799	the gradient of
+0.0401915799	the type of
+0.0401915799	the rotation of
+0.0401915799	the phase of
+0.0401915799	the width of
+0.0401915799	the acceleration of
+0.0401915799	the density of
+0.0401915799	a chain of
+0.0401915799	the components of
+0.0401915799	the increase of
+0.0401700502	resolution of
+0.0401511376	importance of
+0.0401183261	separation of
+0.0401028353	the frame of
+0.0401028353	a matter of
+0.0401028353	the simulation of
+0.0401028353	the subject of
+0.0401028353	the variations of
+0.0401028353	the limits of
+0.0401028353	a method of
+0.0401028353	the implications of
+0.0400372257	scope of
+0.0400294806	obtained with
+0.0400136380	media with
+0.0399415799	a system of
+0.0398382715	occurs in
+0.0397391990	the region of
+0.0397391990	the details of
+0.0397391990	the other one
+0.0396905557	a set of
+0.0396760280	analyzed in
+0.0395717838	a periodic array of
+0.0395597384	technique for
+0.0395216657	the appearance of
+0.0394891990	the system of
+0.0394293629	a comparison between
+0.0394034920	a family
+0.0394033327	the excitation of
+0.0393597124	question of
+0.0393593551	to keep
+0.0393057821	not well
+0.0392955794	control of
+0.0392461048	relation for
+0.0392166203	couple of
+0.0391915799	the area of
+0.0391915799	the regime of
+0.0391915799	the volume of
+0.0391915799	the system to
+0.0391596906	the flame
+0.0391028353	the modeling of
+0.0390856272	the framework of
+0.0390430844	made in
+0.0389285033	of merit
+0.0388333433	obtained at
+0.0388034258	examined in
+0.0387765437	contribution of
+0.0387298927	given on
+0.0387191718	rise to
+0.0387056421	| \
+0.0387011092	suspended in
+0.0386788407	orders of
+0.0386580074	integration of
+0.0386254362	just as
+0.0386136562	included in
+0.0384921803	the onset of
+0.0384476996	part of
+0.0384388425	published in
+0.0383804534	a set
+0.0383618247	antennas with
+0.0383344868	beginning of
+0.0383047053	the state of
+0.0382955794	response of
+0.0382862856	by taking into
+0.0382681191	first show
+0.0382600107	identical to
+0.0382330894	in connection with
+0.0382269795	both theoretically
+0.0382259430	consequences on
+0.0382019898	in agreement
+0.0381649495	then applied
+0.0381639386	coupled with
+0.0381437882	realization of
+0.0381434144	the time evolution of
+0.0381359630	a note
+0.0381276900	realized in
+0.0381028353	a measure of
+0.0381028353	the way for
+0.0381019614	and magnetic fields of
+0.0380958589	relevance of
+0.0380856272	the existence of
+0.0380856272	the concept of
+0.0380296960	used in
+0.0380161085	the influence of
+0.0380088265	$ 1 \
+0.0379728420	manipulation of
+0.0379509582	particle in
+0.0378906344	coefficient of
+0.0378797448	the possibility of
+0.0378778605	to take into
+0.0378350206	making use
+0.0377884538	exists in
+0.0377166734	the sum of
+0.0376905557	a number of
+0.0376883114	normal to
+0.0376827751	the principle of
+0.0376798041	the development
+0.0376648961	chosen to
+0.0376627550	inclusion of
+0.0376572837	specified by
+0.0375661886	crucial for
+0.0374938809	the help of
+0.0374183683	opposite to
+0.0373344868	implemented to
+0.0373106772	stored in
+0.0372955794	stability of
+0.0372877295	framework for
+0.0372166203	decrease in
+0.0371915799	the time of
+0.0371907292	development of
+0.0371411677	the real part
+0.0371028353	with and without
+0.0370282276	problem of
+0.0369672924	introduced to
+0.0369311051	knowledge of
+0.0368858584	the occurrence of
+0.0368780803	derivative of
+0.0368737252	particular case of
+0.0368544444	formulation for
+0.0368156520	of freedom
+0.0367282276	equations of
+0.0367199940	identification of
+0.0365906344	efficiency of
+0.0365694000	a consequence of
+0.0365408009	the effectiveness
+0.0364771822	role in
+0.0363770760	feasibility of
+0.0363361210	calculated for
+0.0362235781	the problem of
+0.0362219908	the use of
+0.0362017810	a relation between
+0.0361390834	growth of
+0.0361058991	as seen
+0.0361039658	for determining
+0.0360644324	arranged in
+0.0359882079	improvement of
+0.0359533915	not depend on
+0.0359296165	presented for
+0.0359211682	explanation of
+0.0359209375	invariance of
+0.0358858584	the question of
+0.0357520188	observed in
+0.0357416590	a sequence
+0.0357246729	found by
+0.0357106760	explained in
+0.0356801195	measurement of
+0.0356163586	evolution of
+0.0356119564	emission of
+0.0356104078	the appearance
+0.0356065477	an explanation of
+0.0355409440	not taken
+0.0354737011	alternative to
+0.0354201729	the electromagnetic field in
+0.0353200301	needs to
+0.0352437806	a pair
+0.0351812333	estimates for
+0.0351485655	arrays of
+0.0351485655	computation of
+0.0351006017	to move
+0.0350780271	effect of
+0.0350334630	the ability
+0.0350125930	useful for
+0.0349731771	structure of
+0.0349136431	the purpose of
+0.0348386210	$ \ delta \
+0.0348299488	purpose of
+0.0347978010	the feasibility
+0.0347426309	evidence for
+0.0347381645	to account for
+0.0347354492	the relationship between
+0.0346931815	the particular case
+0.0346765293	developed for
+0.0346743371	side of
+0.0346646822	origin of
+0.0346580445	onset of
+0.0346365589	presented in
+0.0346299949	distribution of
+0.0346163586	range of
+0.0344841396	formulated in
+0.0344788985	employed in
+0.0344771822	extension of
+0.0344468791	role of
+0.0344345135	introduced as
+0.0344260613	made for
+0.0343967902	the bottom of
+0.0343778614	0 \
+0.0342806476	aim of
+0.0342513059	a connection between
+0.0342412858	decomposition of
+0.0341723378	proposed to
+0.0341361994	seen to
+0.0341276900	implemented in
+0.0340281815	new class of
+0.0340269383	a computer
+0.0340244128	discovery of
+0.0340195597	the opportunity
+0.0340194942	studied for
+0.0339679393	contact with
+0.0339499931	in front of
+0.0339432104	discussion of
+0.0339002856	done on
+0.0338780803	magnitude of
+0.0338345664	propagating in
+0.0338089036	condition for
+0.0336806452	the proof of
+0.0336725717	the importance of
+0.0336646822	variation of
+0.0336180099	the description of
+0.0335646174	range from
+0.0334877674	the present work
+0.0334875586	a family of
+0.0334771768	a clarinet
+0.0334640038	need to
+0.0334183683	place in
+0.0334001439	in agreement with
+0.0333574782	root of
+0.0333042658	used by
+0.0332780803	accuracy of
+0.0332675653	an application of
+0.0331649495	statistical properties
+0.0331631037	the sign of
+0.0331556030	achieved with
+0.0331503353	reported by
+0.0331081455	introduced in
+0.0330995907	observed by
+0.0330241398	the classical problem of
+0.0329717634	feature of
+0.0329713443	given in terms of
+0.0329509582	equation of
+0.0329467544	an almost
+0.0329131580	taken as
+0.0328835971	basis of
+0.0328418271	the relevance of
+0.0328062457	performed on
+0.0327849168	the boundary value
+0.0327814064	proposed for
+0.0326931382	a thorough
+0.0326573922	case of
+0.0325857409	sign of
+0.0325664539	made to
+0.0325547966	to satisfy
+0.0325261183	conservation of
+0.0324729041	methodology for
+0.0324696818	in favor of
+0.0324476688	principle of
+0.0324322793	demonstration of
+0.0323782503	addressed in
+0.0323510291	the role of
+0.0321629366	important to
+0.0321301249	speed of
+0.0321295002	generated in
+0.0321214311	function of
+0.0321211922	the emergence of
+0.0320755136	a combination of
+0.0320160070	analyzed by
+0.0319956883	placed in
+0.0319714135	the proper time
+0.0319136431	the notion of
+0.0318797448	the validity of
+0.0318622800	transfer between
+0.0318591565	allows for
+0.0318418271	a way to
+0.0318418271	the vicinity of
+0.0318138516	in detail
+0.0318134748	sets of
+0.0317949564	both theoretically and
+0.0317194942	moving with
+0.0316587508	study on
+0.0315906344	law of
+0.0315199298	only on
+0.0314358436	the variance of
+0.0313355669	second part of
+0.0313261183	propagation of
+0.0313235828	this kind of
+0.0312553898	a simple model for
+0.0312470840	ratio of
+0.0312439482	to depend
+0.0312235781	the effect of
+0.0312106760	analyzed for
+0.0311618399	a class of
+0.0310768275	enough to
+0.0310600264	given as
+0.0309776458	long as
+0.0309764178	given to
+0.0309311051	estimation of
+0.0309054826	the latter
+0.0308932270	made from
+0.0308509998	a connection
+0.0308390834	fraction of
+0.0308154710	study of
+0.0307166734	the center of
+0.0306944690	3 \
+0.0306536248	a modification
+0.0306444705	the same as
+0.0306008675	the interplay between
+0.0305920125	a new approach to
+0.0305477586	addition to
+0.0305023636	implementation of
+0.0305015684	the real part of
+0.0304942982	or less
+0.0304544139	a very good
+0.0304478302	crystals with
+0.0303695699	effects due
+0.0303657368	aim to
+0.0303190989	system under
+0.0302694256	a review of
+0.0302477773	direction of
+0.0302477773	defined in
+0.0302277589	the quality of
+0.0301912652	novel approach
+0.0301769227	contrast with
+0.0301214311	terms of
+0.0300692733	studied as
+0.0300379423	the link between
+0.0300292603	a fractional generalization of
+0.0299321974	to make
+0.0299294851	occur in
+0.0296574097	tested in
+0.0296444256	the aid of
+0.0295521173	the electric field of
+0.0294713405	instead of
+0.0294294020	likely to
+0.0293849274	the accuracy of
+0.0293238428	appear to
+0.0292595114	the status of
+0.0292477773	means of
+0.0292006637	value problems
+0.0291631037	the goal of
+0.0291609169	contrast to
+0.0290789270	allow to
+0.0290176958	the dynamics of
+0.0289709805	errors in
+0.0288527589	this type of
+0.0288075393	parts of
+0.0287667751	amount of
+0.0287145989	appropriate for
+0.0287106760	goal of
+0.0286914935	goes to
+0.0286575543	located in
+0.0286377904	demonstrated to
+0.0284106355	a result of
+0.0283967902	the second one
+0.0283579319	with regard
+0.0283302783	the solution of
+0.0282963800	the analysis of
+0.0282067130	rules for
+0.0281946589	considered to
+0.0281818419	necessary to
+0.0281678201	understood in
+0.0281637384	take into
+0.0281114066	two other
+0.0280890854	the distance between
+0.0280837700	scheme to
+0.0280754414	the ratio between
+0.0280564213	performance of
+0.0280515941	the ratio of
+0.0280410038	outside of
+0.0279981407	a preferred
+0.0279818383	the former
+0.0279603402	work on
+0.0276226512	work by
+0.0275898659	the coupling between
+0.0275714983	the dependence of
+0.0275666101	the extension of
+0.0275015684	the language of
+0.0274994857	the magnetic field of
+0.0274414788	resulting in
+0.0274300590	the stability of
+0.0273302783	the nature of
+0.0272903478	view of
+0.0272069821	the equations of
+0.0271006257	observed for
+0.0270176958	the number of
+0.0270176958	the motion of
+0.0269661396	observed on
+0.0269617755	along with
+0.0268527589	the need for
+0.0268423889	taken to
+0.0267714983	the range of
+0.0267266271	force from
+0.0266343944	seen in
+0.0266343791	concept of
+0.0266180099	the distribution of
+0.0265714983	the derivation of
+0.0265714983	the application of
+0.0265551648	investigated in
+0.0264875586	a generalization of
+0.0264346656	a solution of
+0.0264106355	an example of
+0.0263920794	construction of
+0.0263906344	developed in
+0.0263510291	the study of
+0.0263510291	the propagation of
+0.0262897547	context of
+0.0262344868	enables to
+0.0262204517	evaluated in
+0.0261937119	considered for
+0.0261587909	either by
+0.0261388587	available for
+0.0261082934	especially for
+0.0260015684	the ability of
+0.0259751780	a point charge in
+0.0259332467	component of
+0.0259332467	reduction of
+0.0259112516	into account in
+0.0258916181	the theory of
+0.0258488959	a contribution
+0.0257937904	the magnitude of
+0.0257714983	the calculation of
+0.0257481763	the efficiency of
+0.0257069821	the structure of
+0.0255666101	the interpretation of
+0.0255666101	the understanding of
+0.0255303200	discussed in
+0.0254926208	the idea of
+0.0254826737	the necessity of
+0.0254826737	the robustness of
+0.0254406707	investigation of
+0.0254220565	the exact solution of
+0.0254148430	the speed of
+0.0254123247	the construction of
+0.0253510291	the origin of
+0.0253510291	the development of
+0.0252963800	the behavior of
+0.0252816000	depends only
+0.0252345323	the feasibility of
+0.0252332767	a formulation of
+0.0252094900	series of
+0.0250306032	new approach to
+0.0250176958	the direction of
+0.0249477773	framework of
+0.0249397836	v \
+0.0248945808	coupling to
+0.0248903385	to appear
+0.0248897547	period of
+0.0248363752	associated to
+0.0248229970	the first part of
+0.0248214932	a special case of
+0.0247165945	propagation in
+0.0247069821	the definition of
+0.0246787660	consequences of
+0.0246767478	the formation of
+0.0246425478	the same order of
+0.0246095323	the effectiveness of
+0.0245898659	a description of
+0.0245457767	the identification of
+0.0244038286	introduced for
+0.0243673116	same time
+0.0242481763	the performance of
+0.0242344868	strategy to
+0.0241147056	the evolution of
+0.0238916181	the form of
+0.0238680049	the total energy of
+0.0238336542	an alternative to
+0.0238330956	to allow
+0.0238214932	an exact solution of
+0.0238122645	robustness of
+0.0238046012	a method for
+0.0237800208	useful to
+0.0237675218	done in
+0.0237261592	interest for
+0.0236962263	prediction of
+0.0236631037	the point of view of
+0.0236104344	$ ^ \
+0.0236095323	a sum of
+0.0235242980	to give
+0.0235071349	order to
+0.0234226876	$ =
+0.0234023488	a kind
+0.0233510291	the absence of
+0.0233379345	the value of
+0.0233207360	the behaviour of
+0.0232547278	as compared to
+0.0231806452	the case in
+0.0231791317	demonstrated for
+0.0230714983	the choice of
+0.0230551463	a sequence of
+0.0229874410	$ ^
+0.0228903385	to take
+0.0228367549	a charged particle in
+0.0228258778	a modification of
+0.0228073701	known for
+0.0225690326	the equations of motion for
+0.0222663302	allows to
+0.0222350329	known from
+0.0221418013	interest in
+0.0221000224	time evolution of
+0.0220906344	studied in
+0.0220150670	the strength of
+0.0219925444	in case of
+0.0219231992	the reduction of
+0.0218642291	the need to
+0.0218377904	performed to
+0.0218290313	the second part
+0.0218258778	in view of
+0.0218214932	the nonlinear dynamics of
+0.0218151867	as well as for
+0.0216093427	the initial value
+0.0215694529	the location of
+0.0215690326	the radiation from
+0.0214925444	a study of
+0.0213804068	the kinetic energy of
+0.0213677549	in particular
+0.0212869664	some properties of
+0.0212124434	the change of
+0.0212032804	two examples of
+0.0211052091	to lead to
+0.0210031887	possibility to
+0.0209918992	appear in
+0.0209874027	the response of
+0.0209169093	presented to
+0.0208869970	possible to
+0.0208059531	the determination of
+0.0208012709	in 1 +
+0.0207646011	the work done
+0.0207594415	the law of
+0.0206168652	system with
+0.0205666101	the measurement of
+0.0204356992	this approach to
+0.0204210705	and hence
+0.0203168411	an approach to
+0.0203038437	as well as to
+0.0202710430	developed to
+0.0202698826	the course of
+0.0202332767	the formulation of
+0.0202198609	the speed of light in
+0.0202124434	the discussion of
+0.0202091929	to depend on
+0.0201785022	the equation of
+0.0201348067	a toy
+0.0201016271	beam with
+0.0200150670	the foundations of
+0.0199978856	investigated by
+0.0198551463	the second part of
+0.0198217055	help of
+0.0197457767	the separation of
+0.0197457767	the invariance of
+0.0195898659	the treatment of
+0.0195690326	the violation of
+0.0195457767	the resolution of
+0.0195139785	the advantage of
+0.0195139785	the formula for
+0.0194556811	of variation of
+0.0194226876	move in
+0.0194124434	the orientation of
+0.0194107291	the work done by
+0.0192698826	the need of
+0.0192039010	of motion of
+0.0190987272	a change of
+0.0190295046	the introduction of
+0.0189925444	a range of
+0.0189679990	a definition of
+0.0188059531	the conservation of
+0.0187887643	language of
+0.0185457767	the equations of motion of
+0.0184498337	second law of
+0.0184124434	the equation of motion for
+0.0183591853	a principle of
+0.0183478302	aid of
+0.0181879907	not contain
+0.0181392865	the variation of
+0.0181292617	to find
+0.0180927748	the generation of
+0.0177949840	well as for
+0.0177907642	in two different
+0.0177838720	the observation of
+0.0177459824	efficiency at
+0.0177457767	the combination of
+0.0176144198	the lorentz law of
+0.0176046633	the literature on
+0.0175898659	the solution to
+0.0175690326	the knowledge of
+0.0175520777	a thin
+0.0175457767	the equation of motion of
+0.0174312241	by use of
+0.0174124434	of space and time
+0.0174124434	of motion for
+0.0173913326	help to
+0.0172539187	the angular momentum of
+0.0171520777	value of
+0.0171032159	the centre of
+0.0170532357	the possibility to
+0.0170150670	the lack of
+0.0170032804	in contact with
+0.0170026936	n ^
+0.0169580724	to see
+0.0167949840	well as in
+0.0167690326	of conservation of
+0.0167690326	the realization of
+0.0166456451	the interface between
+0.0165372343	the decomposition of
+0.0164365492	a physical system
+0.0163990275	of light with
+0.0162879164	the constancy of
+0.0162462498	the inclusion of
+0.0162124434	the coefficient of
+0.0161024156	a fourth
+0.0160570606	in presence of
+0.0158219759	way to
+0.0157352809	of motion with
+0.0156212498	the advantages of
+0.0155849924	the force on
+0.0155567336	a discussion of
+0.0155556167	of light in
+0.0152198609	a constant of
+0.0151885503	a problem of
+0.0151809531	the period of
+0.0151024156	the constancy
+0.0148047360	the ability to
+0.0148013951	known to
+0.0147714699	the beginning of
+0.0147117384	as well as in
+0.0146123790	a long time
+0.0145690326	the prediction of
+0.0145493687	changes in
+0.0145491643	a change in
+0.0145000988	need for
+0.0144400362	of least
+0.0143172053	the investigation of
+0.0143109987	course of
+0.0142462498	the statistics of
+0.0141754208	interpreted in
+0.0139074976	a medium with
+0.0138528666	same as
+0.0138512476	a kind of
+0.0138306783	in comparison with
+0.0137690326	the detection of
+0.0137514887	the second law of
+0.0137402199	the scope of
+0.0137034757	the contribution of
+0.0135567336	the discovery of
+0.0134730017	of motion in
+0.0133071474	a model for
+0.0132996615	the change in
+0.0132858696	need of
+0.0131067130	realm of
+0.0130889500	an equation of
+0.0130849252	the evaluation of
+0.0129663281	the product of
+0.0128824976	the meaning of
+0.0127282329	a theory for
+0.0121763422	use of
+0.0121754208	turbulence on
+0.0120996615	the computation of
+0.0117034757	the applicability of
+0.0116925186	a superposition of
+0.0114730017	of view of
+0.0112639472	the amount of
+0.0106672121	4 \
+0.0104730017	of propagation of
+0.0102684115	the consequences of
+0.0102639472	the way to
+0.0101754208	figure of
+0.0097514887	the emission of
+0.0087282329	the distance from

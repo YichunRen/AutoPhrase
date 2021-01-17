@@ -1,0 +1,3847 @@
+0.9592512593	machine learning
+0.9583035663	aortic valve
+0.9566349927	fourier transform
+0.9551645619	deep learning
+0.9544450862	compressed sensing
+0.9543226000	chemical shift
+0.9532788919	magnetic resonance
+0.9527004814	finite element
+0.9499775466	supervised learning
+0.9492025877	drug delivery
+0.9489573006	bayesian inference
+0.9472272646	wavelet transform
+0.9468691138	blood pressure
+0.9467624386	total variation
+0.9456066855	heat transfer
+0.9455484749	computed tomography
+0.9451661085	heart rate
+0.9450533812	radon transform
+0.9446804918	liquid xenon
+0.9445872524	public health
+0.9442798492	heart rate variability
+0.9416183483	monte carlo simulation
+0.9412367825	positron emission tomography
+0.9405692923	raman spectroscopy
+0.9397908353	optical coherence tomography
+0.9397497449	cortical bone
+0.9386022573	artificial intelligence
+0.9384364960	spinal cord injuries
+0.9369912987	random forest
+0.9369528098	electrical impedance
+0.9368079908	left ventricle
+0.9360651719	ionization chamber
+0.9358468520	charged particle
+0.9345382983	fractal dimension
+0.9342896385	neural network
+0.9341021286	simulated annealing
+0.9332943854	permanent magnet
+0.9330948270	radiation therapy
+0.9318827090	atrial fibrillation
+0.9314450840	gold nanoclusters
+0.9313852773	hdr brachytherapy
+0.9309199317	left ventricular
+0.9309071769	proton therapy
+0.9306906470	shock wave
+0.9302178849	wall shear stress
+0.9300747617	artificial neural networks
+0.9291226197	focal spot
+0.9290613794	material decomposition
+0.9286669982	mitral valve
+0.9283926787	carotid artery
+0.9282387936	sleep apnea
+0.9282076916	breast cancer
+0.9281535321	soft tissue
+0.9273407171	cerebral blood flow
+0.9265616699	principal component analysis
+0.9264094320	computational fluid dynamics
+0.9260757567	maximum likelihood
+0.9256997417	magnetic fields
+0.9255199577	flattening filter
+0.9253446838	convolutional neural network
+0.9250545737	power law
+0.9249462647	blood vessels
+0.9248347330	stopping power
+0.9244974011	magnetic resonance imaging
+0.9244016991	traumatic brain injury
+0.9235930866	lung cancer
+0.9235093850	obstructive sleep apnea
+0.9231554063	steady state
+0.9229214803	lorentz force
+0.9228877380	ascending aorta
+0.9225418760	convex optimization
+0.9224580268	compressive sensing
+0.9222820400	fiber bundle
+0.9220433811	bragg peak
+0.9219705474	electric fields
+0.9216473987	plastic scintillators
+0.9211478488	neural networks
+0.9209360561	wound healing
+0.9201486119	feature selection
+0.9196299260	alzheimer's disease
+0.9192229587	monte carlo
+0.9189614805	alpha particles
+0.9189473754	reynolds number
+0.9188357733	convolutional neural networks
+0.9186283617	white matter
+0.9181598123	optic nerve
+0.9171303391	flat panel
+0.9167965204	treatment planning
+0.9166906936	spinal cord
+0.9162642363	sound speed
+0.9161408289	reinforcement learning
+0.9158957541	ionizing radiation
+0.9157554095	myocardial infarction
+0.9154754038	deep neural networks
+0.9154335748	prostate cancer
+0.9145188266	small animal
+0.9142721104	positron emission
+0.9139173394	photon counting
+0.9136884882	young's modulus
+0.9135227823	nuclear magnetic resonance
+0.9134223039	coronary artery
+0.9132671863	nuclear medicine
+0.9129515958	quality assurance
+0.9125872003	diabetic retinopathy
+0.9121548504	photoacoustic tomography
+0.9114800378	blood flow
+0.9114527148	epileptic seizures
+0.9111058414	ear canal
+0.9109438672	circadian rhythm
+0.9108278161	vocal tract
+0.9106793113	inverse problem
+0.9099774082	oxygen saturation
+0.9096165855	soft tissues
+0.9095681621	heavy ion
+0.9093012146	electrical impedance tomography
+0.9091693601	filtered backprojection
+0.9091460780	linear accelerator
+0.9089698134	pareto optimal
+0.9089088077	silicon photomultipliers
+0.9082295352	coronary arteries
+0.9079456055	inverse problems
+0.9071736488	wave propagation
+0.9064568523	fluence map
+0.9063545549	contrast agent
+0.9061802154	radiation oncology
+0.9059510033	generative adversarial
+0.9059306047	heart failure
+0.9058795276	magnetic resonance fingerprinting
+0.9051870229	tear film
+0.9049488672	differential equations
+0.9049181894	ionization chambers
+0.9047741025	stereotactic radiosurgery
+0.9043946698	functional connectivity
+0.9043147642	fully automated
+0.9039967345	jugular venous
+0.9038099337	ct scan
+0.9030480961	generative adversarial network
+0.9020034139	heartbeat intervals
+0.9015736748	parkinson's disease
+0.9010246270	carbon nanotubes
+0.9005425876	iterative reconstruction
+0.9000733728	contrast agents
+0.8996709637	permanent magnets
+0.8996664207	compton scattering
+0.8993611865	volumetric modulated arc therapy
+0.8992542298	shock waves
+0.8992477473	graphics processing units
+0.8989220309	electric field
+0.8988299243	refractive index
+0.8977734930	gray matter
+0.8975031091	nuclear polarization
+0.8973470434	action potential
+0.8973419687	blood vessel
+0.8972024346	standard deviation
+0.8970208940	motion compensation
+0.8967093775	interior tomography
+0.8964524622	strain rate
+0.8962082359	pressure ulcer
+0.8960884294	adipose tissue
+0.8954702083	shock tube
+0.8953200669	social distancing
+0.8953042083	ct scans
+0.8949139759	prompt gamma
+0.8948176230	nerve fiber
+0.8945626987	radio frequency
+0.8945179058	attenuation correction
+0.8943729092	gamma rays
+0.8937049086	acoustic impedance
+0.8936283846	pencil beams
+0.8935687699	heart valves
+0.8935033496	bq kg
+0.8932174064	immune cells
+0.8931553046	heterogeneous media
+0.8926878153	support vector machine
+0.8925638572	spin echo
+0.8917399042	ad hoc
+0.8917144028	film dosimetry
+0.8915703787	frontal eeg
+0.8915645269	gamma knife
+0.8909810194	pancreatic cancer
+0.8905168020	optoacoustic tomography
+0.8904690595	dose calculation
+0.8904411222	metal artifact reduction
+0.8901229939	dna damage
+0.8900450994	hurst exponent
+0.8896629741	ray tracing
+0.8893317336	multiple sclerosis
+0.8891664374	phase transition
+0.8890828137	surgical gesture
+0.8888759783	electron density
+0.8885088890	electron capture
+0.8881492535	bloch equation
+0.8881362457	turbid media
+0.8880338678	blood glucose
+0.8880118794	risk assessment
+0.8878958815	fat suppression
+0.8876065841	action potentials
+0.8875296639	expectation maximization
+0.8874207456	maxillofacial surgery
+0.8874065607	photothermal therapy
+0.8873198525	parameter estimation
+0.8869817933	aortic aneurysms
+0.8869632804	intensity modulated radiation therapy
+0.8869354406	computerized tomography
+0.8868155317	digital breast tomosynthesis
+0.8867799454	fully sampled
+0.8866184652	gamma camera
+0.8863750865	plan quality
+0.8862017469	point spread function
+0.8861996489	feature extraction
+0.8860886032	diffusion mri
+0.8859282537	radiation exposure
+0.8855573298	eddy current
+0.8853199756	gold nanoparticles
+0.8852600035	proton radiography
+0.8850743959	artificial neural network
+0.8850227062	source separation
+0.8848865324	molecular dynamics
+0.8848597672	articular cartilage
+0.8841374325	health care
+0.8836991721	double diffusion encoding
+0.8836794470	computationally efficient
+0.8836234994	cardiac cycle
+0.8834111898	artifact removal
+0.8833567507	dice similarity
+0.8832642854	artifact reduction
+0.8831629793	carbon ions
+0.8831104171	fiducial markers
+0.8830350647	structural alterations
+0.8825631204	shot epi
+0.8823684168	fully connected
+0.8822135688	magnetic resonance spectroscopy
+0.8819501982	linear energy transfer
+0.8819369150	strand breaks
+0.8817197482	radiation protection
+0.8808619602	monte carlo simulations
+0.8808504685	nuclear reactions
+0.8808126393	guided interventions
+0.8807698045	dynamic bowtie
+0.8806369470	cancellous bone
+0.8805200825	naturally occurring
+0.8800460629	integral equation
+0.8799766817	magnetic hyperthermia
+0.8798815770	liquid metal
+0.8798172728	optimization problem
+0.8796791742	inversion recovery
+0.8796668764	red blood cells
+0.8795584678	lower limb
+0.8794865963	stainless steel
+0.8794393009	medical physics
+0.8793365845	hankel matrix
+0.8790987961	free precession
+0.8788999756	convolutional neural
+0.8786442838	multiple coulomb scattering
+0.8785643428	heavy ions
+0.8785435047	short term
+0.8784903779	partial fourier
+0.8784756143	attenuation coefficient
+0.8784618699	diffusion encoding
+0.8780013854	gold standard
+0.8779140951	markov chain
+0.8779109927	superparamagnetic iron oxide
+0.8775691512	gamma ray
+0.8774284669	hadron therapy
+0.8773731620	prior knowledge
+0.8773412163	plane wave
+0.8773298920	speech production
+0.8770559407	scintillation light
+0.8764129273	ion beam
+0.8762803487	current density
+0.8760696850	heavy charged
+0.8757899995	boundary conditions
+0.8757333776	pareto surface
+0.8755812145	emission tomography
+0.8754186193	receiver operating characteristic
+0.8752529456	sparse coding
+0.8750317627	cerebrospinal fluid
+0.8748594996	electrical conductivity
+0.8748256621	electrical properties
+0.8746696568	vessel segmentation
+0.8745308728	iron oxide
+0.8738768588	transfer learning
+0.8738172285	plastic scintillator
+0.8736848633	ion beams
+0.8735073112	parallel imaging
+0.8734945032	biomedical applications
+0.8734912574	air kerma
+0.8734907922	energy deposition
+0.8732553034	cancer therapy
+0.8732464851	absorbed dose
+0.8727443999	shear wave
+0.8727159992	shear stress
+0.8726333385	deformable image registration
+0.8726230429	wave elastography
+0.8725514498	fractional order
+0.8725151314	correlation coefficient
+0.8724782443	magnetic field
+0.8723783499	temporal resolution
+0.8720077891	genetic algorithm
+0.8718599347	boron neutron capture therapy
+0.8717535660	femoral stem
+0.8713283247	guided radiotherapy
+0.8712429610	dictionary learning
+0.8711676832	image registration
+0.8710027718	gpu card
+0.8709806934	microsoft kinect
+0.8707252327	fretting corrosion
+0.8706846885	coarse grained
+0.8701975669	complex valued
+0.8701256437	decision making
+0.8701062342	chemical exchange
+0.8700902200	human eye
+0.8700463814	anomalous diffusion
+0.8696803568	gradient echo
+0.8695180651	perfusion roi
+0.8695036758	phase space
+0.8686910052	room temperature
+0.8684785066	finite difference
+0.8680510008	bold activity
+0.8680277000	saturation transfer
+0.8677808073	structural similarity index
+0.8677098541	coherence tomography
+0.8673778191	radiomic features
+0.8673519240	lower bound
+0.8672454656	minimally invasive
+0.8672418878	shear waves
+0.8671887418	gradient descent
+0.8671139287	diffusion weighted
+0.8670842139	drug release
+0.8668798088	myelin water
+0.8668503112	spike train
+0.8668358585	fourier domain
+0.8668146686	ballistic pressure wave
+0.8667084376	relative biological effectiveness
+0.8666212834	single shot
+0.8664838879	resting state
+0.8661374927	tofpet2 asic
+0.8659510311	inverse planning
+0.8656011164	pulse wave
+0.8654216692	fiber orientations
+0.8654006387	forward problem
+0.8651941156	cross sections
+0.8649714559	basis functions
+0.8648029636	peripheral nerve
+0.8647856512	tumor growth
+0.8647533284	low rank
+0.8646032109	myocardial perfusion
+0.8643812514	magnetization transfer
+0.8641596854	fluid dynamics
+0.8638874562	preliminary results
+0.8633424900	gray level
+0.8633201285	dielectric properties
+0.8631540305	analytical expressions
+0.8629671796	real world
+0.8628473963	adaptive radiation therapy
+0.8627775265	frequency bands
+0.8626484851	flip angle
+0.8625662645	motion correction
+0.8625328903	healthy adults
+0.8622805936	detrended fluctuation analysis
+0.8621860901	cross correlation
+0.8618476918	geant4 toolkit
+0.8617773474	cell survival
+0.8615209313	free breathing
+0.8610896656	respiratory motion
+0.8610784482	mr fingerprinting
+0.8609894778	phase retrieval
+0.8608062005	count rate
+0.8602584748	stereotactic body radiation therapy
+0.8602145953	microscopic anisotropy
+0.8601270908	computationally expensive
+0.8598977384	coated gold
+0.8598617480	upper airways
+0.8596214502	sparsity prior
+0.8595707766	edge preserving
+0.8593596292	deep neural network
+0.8589922566	charged particles
+0.8589019127	laser doppler
+0.8584814639	mouse brain
+0.8582614547	scaling exponents
+0.8578214809	gamma index
+0.8578091639	frequency domain
+0.8577614169	probability distribution
+0.8576390090	` `
+0.8576195343	beam hardening
+0.8576050698	standard deviations
+0.8572960831	range verification
+0.8572312372	ground truth
+0.8571925956	cross section
+0.8570939747	healthy volunteers
+0.8569293934	blood oxygenation
+0.8566061197	energy loss
+0.8565002332	magnetic nanoparticles
+0.8564540053	dice similarity coefficient
+0.8562930165	en face
+0.8562254182	acceleration factors
+0.8559960295	superconducting quantum
+0.8559179417	breath hold
+0.8558283103	brain injury
+0.8558223614	treatment plans
+0.8557683497	intensity modulated
+0.8557081897	crucial role
+0.8556914963	proximal femur
+0.8553804908	monte carlo code
+0.8553624857	signal processing
+0.8552071314	statistically significant
+0.8550572164	biological effectiveness
+0.8547150735	stent graft
+0.8546981116	nir ii
+0.8543212230	pulse duration
+0.8543123194	glucose levels
+0.8541660629	vmat plans
+0.8539803859	linear regression
+0.8538396931	streaking artifacts
+0.8537748877	processing techniques
+0.8533581662	orientation distribution
+0.8530532859	great promise
+0.8529213901	respiratory droplets
+0.8529051361	boundary element method
+0.8529026517	trabecular bone
+0.8525235347	finite element analysis
+0.8524378074	ion therapy
+0.8520336104	penetration depth
+0.8516232877	electrical stimulation
+0.8513704369	motion artifacts
+0.8512702589	cone beam ct
+0.8511928538	air puff
+0.8510643775	heart beat
+0.8506891859	computational complexity
+0.8506246441	ulf mri
+0.8503866819	intensive care
+0.8495315780	quantitative susceptibility mapping
+0.8494769806	bv tv
+0.8490979979	pressure ulcers
+0.8489426542	electrical activity
+0.8486524406	spectral ct
+0.8486045606	central nervous
+0.8485795732	strain rates
+0.8485630617	nvidia tesla c1060
+0.8481572352	data set
+0.8479806309	sampling schemes
+0.8478537595	statistical analysis
+0.8477834344	highly sensitive
+0.8475453715	pilot study
+0.8474546911	detrended fluctuation
+0.8473123421	carbon ion
+0.8471423341	diffusion tensor
+0.8470430293	early diagnosis
+0.8465585735	frequency response
+0.8463436565	half maximum
+0.8462871761	methyl methacrylate
+0.8459264153	routine blood
+0.8458585184	excellent agreement
+0.8457261297	gpu implementation
+0.8452222956	cardiovascular disease
+0.8451371952	human brain
+0.8448951256	ebt film
+0.8448150271	isotropic resolution
+0.8445259745	nuclear track detectors
+0.8443608762	cost function
+0.8441847594	rf pulses
+0.8441657402	wave equation
+0.8439932101	shear wave speed
+0.8437272467	pencil beam
+0.8436505181	treatment plan
+0.8435182862	magnetic particle imaging
+0.8434852131	dice coefficient
+0.8433077136	open source
+0.8432088965	light scattering
+0.8431675568	primal dual
+0.8430761651	mesh generation
+0.8421894658	ultrasonic transducer
+0.8419836866	parameter selection
+0.8413096906	modulation transfer function
+0.8412403327	spectrum estimation
+0.8408701139	quality control
+0.8407856960	higher order
+0.8404081143	parametric maps
+0.8402862960	optical coherence
+0.8402591565	wall stress
+0.8398741334	medical imaging
+0.8396770293	image processing
+0.8395954000	limited angle
+0.8395343404	sliding window
+0.8393464736	functional magnetic resonance imaging
+0.8392614346	fully automatic
+0.8392430464	tactile sensor
+0.8391674524	clinically relevant
+0.8390692366	radiation dose
+0.8381886410	elastic properties
+0.8378276281	pencil beam scanning
+0.8375928646	photoacoustic microscopy
+0.8375483767	cone beam
+0.8375265908	autonomic nervous
+0.8374655462	attenuation coefficients
+0.8371869327	bone remodelling
+0.8371465431	neural activity
+0.8370241731	spatial resolution
+0.8368090269	finite element method
+0.8363281114	biological effects
+0.8360755052	t1 mapping
+0.8357746122	nuclear interactions
+0.8357399053	low cost
+0.8353849122	ultra fast
+0.8352615068	great potential
+0.8351643228	coronavirus disease
+0.8351479964	cancer cells
+0.8350793454	angular resolution
+0.8349637083	phase shift
+0.8349486704	cell death
+0.8349448319	metal artifacts
+0.8346249202	mr images
+0.8343329768	radiation damage
+0.8337799219	photoacoustic computed tomography
+0.8337550017	previously published
+0.8335816249	maximum likelihood expectation
+0.8334231172	long term
+0.8326829408	root mean square error
+0.8322589269	atomic number
+0.8320472785	tomographic reconstruction
+0.8308198104	carbon ion beams
+0.8304871214	magnetic susceptibility
+0.8304813504	ion chamber
+0.8303106793	lineal energy
+0.8302297584	double strand
+0.8300070806	t2 weighted
+0.8298939178	sparse view
+0.8296433570	high fidelity
+0.8292912057	algebraic reconstruction
+0.8291152553	numerical simulations
+0.8288572318	field strength
+0.8283416400	receiver operating
+0.8277786586	multiscale approach
+0.8276977826	previously reported
+0.8273472739	linear accelerators
+0.8266631067	heart disease
+0.8266271923	characteristic curve
+0.8262068080	regularization term
+0.8261158735	nuclear spin
+0.8260295489	patient specific
+0.8257282648	roc curve
+0.8256223888	large scale
+0.8256101859	cellular level
+0.8254375512	early stages
+0.8246015721	computational cost
+0.8245280395	cone beam computed tomography
+0.8243872265	contrast enhanced
+0.8243182715	tensor valued
+0.8241268399	contrast enhancement
+0.8240349027	solid state
+0.8237589474	software packages
+0.8230477741	human body
+0.8230176034	target coverage
+0.8227907604	single walled carbon
+0.8226131658	biological tissues
+0.8221843502	adaptive radiotherapy
+0.8221654144	dose volume histogram
+0.8220769699	principal component
+0.8216522057	closed form
+0.8216328394	gaussian noise
+0.8216040753	apparent diffusion
+0.8215705905	cell inactivation
+0.8214765255	fluid flow
+0.8212743778	super resolution
+0.8206146974	cardiovascular diseases
+0.8200324038	transverse relaxation
+0.8195527312	worst case
+0.8192312536	bone density
+0.8191828177	early stage
+0.8191187376	dose deposition
+0.8190428892	intra operative
+0.8189906601	partial volume effects
+0.8186703943	linear array
+0.8183242729	encoder decoder
+0.8181384799	objective function
+0.8178973440	electromagnetic fields
+0.8173202432	material properties
+0.8172907250	treatment response
+0.8169995105	proton beam
+0.8163018141	image quality
+0.8159080751	field strengths
+0.8158916999	healthy subjects
+0.8158906884	point source
+0.8158268755	success rate
+0.8154389838	finite element model
+0.8154261995	acceleration factor
+0.8151569971	significant role
+0.8143636997	spatio temporal
+0.8138898866	test set
+0.8138702169	iterative image reconstruction
+0.8137199300	broad range
+0.8137156759	pressure gradient
+0.8136170729	scatter correction
+0.8135194441	rf pulse
+0.8134912751	death rate
+0.8134519259	iterative algorithms
+0.8134329778	classification accuracy
+0.8130948756	human connectome
+0.8130671644	anatomical structures
+0.8129752746	fold cross validation
+0.8126483602	gamma radiation
+0.8125085411	dna molecule
+0.8124887090	brain tumor
+0.8123972698	cross sectional
+0.8123766188	forward projection
+0.8123115846	optical absorption
+0.8122038512	focused ultrasound
+0.8116746888	microscopic diffusion anisotropy
+0.8115942913	dynamical systems
+0.8115458673	quantitative evaluation
+0.8115119742	electromagnetic field
+0.8111744625	healthy individuals
+0.8110223806	fast spin echo
+0.8106847641	high intensity focused ultrasound
+0.8106251465	clinical practice
+0.8105456154	clinical trials
+0.8101595238	spectral domain
+0.8100551605	eeg recordings
+0.8100399015	feature set
+0.8098796420	major challenge
+0.8098221380	t2 mapping
+0.8094800224	beam angles
+0.8087346231	high speed
+0.8086978833	variable density
+0.8086252985	bioimpedance measurements
+0.8086237438	dark field
+0.8082059461	resonance imaging
+0.8081525654	blood volume
+0.8080143015	treatment plan optimization
+0.8080005903	open source software
+0.8079529622	numerical simulation
+0.8076159995	ecg signal
+0.8075997968	modulated arc therapy
+0.8075264375	high resolution
+0.8075174076	flow rate
+0.8074869012	ortho positronium
+0.8072120255	phase synchronization
+0.8071747196	dynamic range
+0.8070003858	effective atomic number
+0.8060907552	beam delivery
+0.8059280348	proton beams
+0.8058420561	data sets
+0.8056100422	differential phase contrast
+0.8055587022	phase grating
+0.8055552227	false positive
+0.8053269761	microtesla mri
+0.8052730977	finite elements
+0.8049528124	feasibility seeking
+0.8047880102	prostate brachytherapy
+0.8043052055	tof pet
+0.8039426439	computational efficiency
+0.8037777702	energy density
+0.8035764599	low snr
+0.8035197817	ff oct
+0.8032855951	findings suggest
+0.8030170403	free water
+0.8026007278	recurrent neural
+0.8023409145	post processing
+0.8022069212	anterior posterior
+0.8012693948	manual segmentation
+0.8007629489	differential equation
+0.8004233128	newly developed
+0.8000566347	vector field
+0.8000086725	correction factors
+0.7997873447	infrared spectroscopy
+0.7997204914	bland altman
+0.7996518387	cost effective
+0.7994357106	reduced order
+0.7985118862	recently developed
+0.7979285357	tissue mimicking
+0.7978753700	filtered back projection
+0.7978453454	digital image
+0.7978382828	adaptive filter
+0.7976617990	beam orientation
+0.7975663544	pulse sequences
+0.7975581690	wide field
+0.7968703867	fan beam
+0.7967037920	low power
+0.7966167146	mechanical behavior
+0.7965731377	dce mri
+0.7965346043	electron microscopy
+0.7964585461	radio guided surgery
+0.7956508540	temperature distribution
+0.7956425133	target volume
+0.7942438283	image reconstruction
+0.7940360557	diffusion tensor imaging
+0.7935937421	eeg signals
+0.7935312627	beam profile
+0.7933109000	large area
+0.7929091564	results suggest
+0.7927045874	multi channel
+0.7926930659	texture features
+0.7925449932	relaxation times
+0.7920884947	numerical experiments
+0.7915795045	dose distributions
+0.7913896292	recently proposed
+0.7912784240	single photon emission
+0.7911220079	cross validation
+0.7907315130	radiomics features
+0.7906341723	imaging modality
+0.7904111067	beam hardening artifacts
+0.7902884972	echo planar imaging
+0.7899334800	label free
+0.7891621915	fixed point
+0.7891261032	energy transfer
+0.7887545570	attenuation map
+0.7883101008	t1 weighted
+0.7879932365	planning target volume
+0.7879625903	ultra low
+0.7879160088	early detection
+0.7879053803	field sizes
+0.7877004364	tongue placed tactile biofeedback
+0.7876553204	point spread
+0.7876361840	analytical solutions
+0.7875452186	frame rate
+0.7873755470	significant improvement
+0.7873654771	volume fraction
+0.7871040860	functional brain
+0.7870792820	biological organs
+0.7870718219	abdominal aortic
+0.7869770896	monte carlo method
+0.7868450360	finite difference time domain
+0.7860364665	multi dimensional
+0.7855811968	secondary particles
+0.7849592327	ultra high field
+0.7848285639	high quality
+0.7847962452	matrix variate
+0.7847738917	dual energy
+0.7847416624	noise reduction
+0.7846141945	bloch torrey
+0.7843347406	long range
+0.7843127723	resonance fingerprinting
+0.7839687057	rf coil
+0.7839470354	meta analysis
+0.7837719727	feasibility study
+0.7832918153	spatial frequency
+0.7827140419	source localization
+0.7826400922	computational modeling
+0.7824996836	finite element models
+0.7823292512	transfer function
+0.7822301769	dose rate
+0.7821576002	list mode
+0.7818270057	motion corrected
+0.7818085311	voxel size
+0.7816236268	proton computed tomography
+0.7815774804	dual energy ct
+0.7812462979	radiation safety
+0.7811848830	data fidelity term
+0.7809325175	track structure
+0.7807990098	optical fiber
+0.7807763046	post operative
+0.7805966720	real life
+0.7805408506	dose volume histograms
+0.7805308621	high throughput
+0.7804770802	tactile biofeedback
+0.7800478635	pre operative
+0.7800406879	parameter space
+0.7798537693	deep neural
+0.7796240788	multi leaf
+0.7793897023	depth dose
+0.7787593840	photon beams
+0.7781228549	acoustic properties
+0.7780906499	pressure waves
+0.7779417524	power density
+0.7778367610	ambient dose
+0.7777903161	rtfmri nf
+0.7777714179	risk factors
+0.7776710195	semi automated
+0.7776198170	flow patterns
+0.7773672688	chest ct
+0.7771743862	stereotactic body
+0.7770811777	tv minimization
+0.7769502785	parameter maps
+0.7767569259	physics guided
+0.7767284913	quasi static
+0.7765378548	bio inspired
+0.7765262171	free running
+0.7763776926	deep learning based
+0.7760300718	parallel plate
+0.7758974235	healthy tissues
+0.7753674760	mechanical properties
+0.7753413360	small angle
+0.7752441069	sampling rate
+0.7752327404	mathematical model
+0.7750817651	pressure wave
+0.7744775781	limited view
+0.7741344266	grating based
+0.7741051182	absorption rate
+0.7740511514	nanoscale structural
+0.7733833796	root mean square
+0.7729088421	total body
+0.7729020597	bloch torrey equation
+0.7727110813	magnetic particle
+0.7723327492	csi ept
+0.7723251637	image guided
+0.7722980220	significantly reduce
+0.7722881909	fluence maps
+0.7721265655	total variation regularization
+0.7720474840	low dose ct
+0.7719481244	carbon ion radiotherapy
+0.7718428032	mc simulations
+0.7717942321	detection limit
+0.7711947767	single channel
+0.7710117716	gpu based
+0.7708936671	imaging modalities
+0.7706669833	prior information
+0.7704775242	synthetic ct
+0.7702031331	skin cancer
+0.7700162476	air flow
+0.7696482771	voxel wise
+0.7688265471	artifact free
+0.7686530906	data acquisition
+0.7684641301	near infrared spectroscopy
+0.7683373737	dynamic pet
+0.7679029067	pet detectors
+0.7678679420	acquisition speed
+0.7678378565	significant differences
+0.7674305268	multi slice
+0.7668495944	multi echo
+0.7667741615	network architecture
+0.7665794448	sparse reconstruction
+0.7665612763	cancer treatment
+0.7663238664	fully convolutional
+0.7662867372	ivim net
+0.7658269174	rtfmri eeg nf
+0.7656232230	arterial pressure
+0.7655204413	surface area
+0.7653999601	experimental data
+0.7648668633	flow velocity
+0.7647506011	biological processes
+0.7647331782	linear quadratic
+0.7643196471	dose calculations
+0.7641466226	iterative algorithm
+0.7640349445	ct scanners
+0.7639847447	multi modal
+0.7639528680	automated segmentation
+0.7637321410	beam angle
+0.7636668566	single photon
+0.7634889149	water fat
+0.7622436181	brain tumors
+0.7622073971	physics based
+0.7620178256	human retina
+0.7618633181	intra axonal
+0.7615715816	pet scanner
+0.7614085523	learning framework
+0.7611672932	deep convolutional neural network
+0.7611302859	data driven
+0.7611284356	dose distribution
+0.7609630948	disease diagnosis
+0.7609081116	mathematical models
+0.7604788101	photoacoustic imaging
+0.7604697751	significant reduction
+0.7601926887	pet scanners
+0.7599155291	ion beam therapy
+0.7596240015	carbon ion beam
+0.7596133653	projection domain
+0.7595144036	parallel magnetic resonance imaging
+0.7589561564	t2 flair
+0.7588864534	paper presents
+0.7588669682	acoustic waves
+0.7581405613	sparse view ct
+0.7581065120	brain connectivity
+0.7576170615	spin relaxation
+0.7572908317	high frame rate
+0.7572246333	experimental setup
+0.7570076476	noise levels
+0.7561926461	mev proton
+0.7556769868	particle therapy
+0.7552558190	planning objectives
+0.7550845018	guided surgery
+0.7549395221	human head
+0.7544540755	energy spectra
+0.7542168742	proton range
+0.7541787936	support vector
+0.7541134486	simultaneous multi slice
+0.7540798423	vfa fleet
+0.7537853598	ct number
+0.7533425519	low dose
+0.7530679328	neutron capture
+0.7529868721	protected gold
+0.7525419050	long acquisition
+0.7524215700	pulse echo
+0.7523529999	biomedical imaging
+0.7522983971	ct images
+0.7519993088	pulse sequence
+0.7511463003	ct scanner
+0.7508395486	head motion
+0.7507647879	photon counting detectors
+0.7505347564	frequency dependent
+0.7504153882	wavelet analysis
+0.7496695010	data analysis
+0.7495389613	previous studies
+0.7491139350	head phantom
+0.7486572564	pet mr
+0.7486121647	highly undersampled
+0.7485269757	quantitative ultrasound
+0.7483367292	dynamic contrast enhanced
+0.7480920150	oxide nanoparticles
+0.7475315538	reaction diffusion
+0.7475180475	recently introduced
+0.7474567273	significant increase
+0.7471035435	mathematical framework
+0.7470738709	physical activity
+0.7468912340	significantly reduced
+0.7468178962	human skin
+0.7467003218	carbon ion therapy
+0.7454156294	single fraction
+0.7452933072	rat brain
+0.7451085452	medical applications
+0.7441784351	multi shot
+0.7440412118	human breast
+0.7430479162	tumor segmentation
+0.7428300754	boron neutron capture
+0.7426391586	tissue types
+0.7420622737	strong correlation
+0.7420001401	blood cells
+0.7419234023	volumetric modulated arc
+0.7416234741	mr imaging
+0.7411630348	skin contact
+0.7410387279	fdg pet
+0.7409050474	signal to noise ratio
+0.7408328359	clinical settings
+0.7407294898	spread out bragg
+0.7405715488	human lung
+0.7404042986	energy spectrum
+0.7400520761	structural similarity
+0.7398790324	low dimensional
+0.7398643568	previously developed
+0.7392236578	pre processing
+0.7386153607	image domain
+0.7384170016	optical properties
+0.7383950045	fundus images
+0.7383326402	response functions
+0.7370233941	quantitative photoacoustic
+0.7367175499	phase contrast
+0.7365118297	optimal design
+0.7364899859	optical tomography
+0.7359334882	multiple scattering
+0.7358636721	carbon beam
+0.7358025970	preliminary study
+0.7356918931	mm diameter
+0.7354021748	proton radiotherapy
+0.7353034262	projection data
+0.7351844788	intra voxel
+0.7347417135	gaussian diffusion
+0.7346392619	ear eeg
+0.7345834926	subject specific
+0.7343849958	motion estimation
+0.7343806597	degrees of freedom
+0.7341996909	signal detection
+0.7341811089	coil design
+0.7334191285	external beam
+0.7332118996	root mean squared
+0.7331643706	dose prediction
+0.7331529020	image analysis
+0.7330632657	small size
+0.7324852079	noise level
+0.7324037882	dw mrs
+0.7321825600	noise spectroscopy
+0.7319056098	automated planning
+0.7313876419	clinical workflow
+0.7312049907	beam axis
+0.7308514074	radiation force
+0.7307791981	head and neck cancer
+0.7303785767	mr guided
+0.7302394529	single energy ct
+0.7294673857	scattering power
+0.7292161652	dl based
+0.7291512761	deep learning approach
+0.7290046759	brain dynamics
+0.7285987986	multi criteria optimization
+0.7283234037	sars cov
+0.7279595107	high performance
+0.7279090501	magnetic stimulation
+0.7274381883	challenging problem
+0.7274020946	prediction error
+0.7268440402	multi scale
+0.7264731448	brain tissue
+0.7253476386	biophysical models
+0.7253126416	normal tissues
+0.7249715989	frequency range
+0.7246926881	breast phantom
+0.7246810605	low count
+0.7244864269	alternating direction method
+0.7243593455	mri scanner
+0.7242010521	high temporal resolution
+0.7241774373	multi parametric mri
+0.7240557213	thermal damage
+0.7238704997	iterative method
+0.7233945865	numerical methods
+0.7226824246	takes into account
+0.7224793148	long scan
+0.7219696776	photon transport
+0.7216465671	tissue sections
+0.7214748118	light source
+0.7213850837	arterial wall
+0.7213828007	computational models
+0.7208805227	clinical research
+0.7207729172	significantly higher
+0.7206939320	peak pressure
+0.7205765183	test cases
+0.7203949711	medical images
+0.7200427632	image guided radiation therapy
+0.7198710722	taking into account
+0.7196819064	sars cov 2
+0.7194201788	neutron dose
+0.7194096169	rf field
+0.7190821643	reconstructed image
+0.7190578477	dose rates
+0.7184665076	tomographic images
+0.7181972043	reconstruction algorithms
+0.7179809159	cancer radiotherapy
+0.7178258495	human tissues
+0.7177845089	high dose rate
+0.7177543745	path length
+0.7177301566	recent years
+0.7176034366	processing units
+0.7174456807	image resolution
+0.7172226686	ct image reconstruction
+0.7170898986	high sensitivity
+0.7163343447	boundary element
+0.7162964536	brain regions
+0.7159684183	training set
+0.7153955122	medical diagnostics
+0.7153352047	low back pain
+0.7152645214	breast ct
+0.7151531649	laser beam
+0.7150411475	patient anatomy
+0.7149143300	static magnetic
+0.7143117869	sensitivity analysis
+0.7142458963	ultra low field
+0.7139449015	lateral resolution
+0.7133574703	cbct images
+0.7131462133	mri scans
+0.7129358413	improve image quality
+0.7125793612	high accuracy
+0.7124016849	human subjects
+0.7122008934	image segmentation
+0.7118483565	high frequency
+0.7118352017	acoustic wave
+0.7116981067	beam energy
+0.7112696692	physical properties
+0.7111508154	simulation tool
+0.7111434825	single layer
+0.7109011104	magnetic resonance images
+0.7108926608	proton pencil
+0.7106243768	recent studies
+0.7104863020	activity concentrations
+0.7103921974	high precision
+0.7102476509	low noise
+0.7102379001	organ dose
+0.7101799660	fully sampled data
+0.7099643155	low frequency
+0.7099347897	tomographic imaging
+0.7097184484	covid 19 pandemic
+0.7096857941	multi criteria
+0.7095154304	initial results
+0.7092682404	clinical applications
+0.7089818567	biological effect
+0.7087549746	deep convolutional neural
+0.7087284055	photon energy
+0.7085984079	energy dependent
+0.7079984745	laser light
+0.7073910657	retinal images
+0.7065172665	high contrast
+0.7063888104	raw data
+0.7058148090	relative error
+0.7040467210	component analysis
+0.7037920832	simulation study
+0.7033345139	significant difference
+0.7031829470	reconstruction framework
+0.7030845533	deep tissue
+0.7029345335	highly accurate
+0.7026944271	photon beam
+0.7025344771	orders of magnitude
+0.7023423645	mean absolute error
+0.7021843174	acquisition times
+0.7014152680	multi modality
+0.7010698744	image fusion
+0.7005680878	volumetric images
+0.7005081812	pet ct
+0.7002891555	structural information
+0.7002044031	pet mri
+0.6996420258	~ mm
+0.6995485949	image synthesis
+0.6992895504	photon emission
+0.6984278056	ct reconstruction
+0.6977507314	quantitative mri
+0.6977234938	proof of concept
+0.6972663934	pet image reconstruction
+0.6969145043	partial differential
+0.6967620313	optical attenuation
+0.6967091315	wave speed
+0.6962620279	bone tissue
+0.6959887829	normal tissue
+0.6955958876	electron beam
+0.6951476599	organs at risk
+0.6947323671	ray transform
+0.6947095260	patch based
+0.6943008096	dynamic contrast enhanced magnetic
+0.6938761217	detection efficiency
+0.6938602243	volumetric imaging
+0.6937687123	water molecules
+0.6935623243	metal artifact
+0.6932625226	pet reconstruction
+0.6928298572	point of care
+0.6926592325	low energy
+0.6921533760	pathological conditions
+0.6921033473	ultrasound imaging
+0.6920478602	dose levels
+0.6911223196	proof of principle
+0.6903624065	super resolution ultrasound
+0.6900308433	successfully applied
+0.6899191518	image guidance
+0.6894338436	previously proposed
+0.6893601396	small scale
+0.6892500987	biological tissue
+0.6890094240	distribution function
+0.6888381131	trained network
+0.6887181402	phase contrast imaging
+0.6886679590	brain mri
+0.6886150823	ghost imaging
+0.6884598301	cancer cell
+0.6882460418	direction method of multipliers
+0.6865322114	energy ct
+0.6863822509	optimization process
+0.6861287815	phantom study
+0.6855704463	dual energy computed tomography
+0.6849158365	kinetic parameters
+0.6839716023	pet images
+0.6834216119	joint reconstruction
+0.6825036625	data processing
+0.6824428235	dose enhancement
+0.6822114877	average dice
+0.6819164603	image formation
+0.6814844907	obstructive sleep
+0.6814259563	quantitative phase
+0.6809996163	healthy tissue
+0.6807793984	speed of sound
+0.6807583363	voxel based
+0.6805314862	significantly improved
+0.6802002614	oct images
+0.6798549046	impedance tomography
+0.6795951555	energy resolution
+0.6795683987	pet detector
+0.6794551714	automatic segmentation
+0.6792838436	analysis shows
+0.6787384259	learning based
+0.6786126814	undersampled k space data
+0.6785354907	multi resolution
+0.6783543079	wide variety
+0.6782075635	arc therapy
+0.6781094004	proton ct
+0.6779976664	dose delivery
+0.6778978320	lung tissue
+0.6778542063	clinical cases
+0.6766530851	quantitative maps
+0.6758193256	fluid pressure
+0.6753026273	high intensity
+0.6745926436	contrast to noise ratio
+0.6738527885	plane resolution
+0.6737976358	potential applications
+0.6731683094	fluorescence imaging
+0.6728076624	radiotherapy treatment
+0.6726192790	depth of interaction
+0.6721055561	imaging systems
+0.6714127912	multi contrast
+0.6710568937	low field
+0.6708443706	adversarial network
+0.6707310103	x ray tube
+0.6703208552	low contrast
+0.6699463464	source model
+0.6698160149	tumor volume
+0.6697069653	experimental studies
+0.6695692737	clinical application
+0.6695088037	segmentation accuracy
+0.6694905144	cancer patients
+0.6694141271	dual phase
+0.6693564941	living tissue
+0.6690434436	pmma phantom
+0.6689837704	phantom experiments
+0.6688043311	theoretical analysis
+0.6682537377	beam monitor
+0.6680739019	control group
+0.6676978518	diffusion coefficient
+0.6673918349	digital breast
+0.6672935569	diffusion weighted mri
+0.6668038493	human health
+0.6666134693	high intensity focused
+0.6664276062	low level
+0.6663341536	mr signal
+0.6660952417	position resolution
+0.6660356813	surface coil
+0.6654839068	motion fields
+0.6651561511	clinical setting
+0.6649226263	qualitatively and quantitatively
+0.6646910103	prescribed dose
+0.6643022780	clinical diagnosis
+0.6638801702	autonomic nervous system
+0.6638391465	spatial spectral
+0.6631185405	water phantom
+0.6630002455	pressure distribution
+0.6628005284	human blood
+0.6610991494	brain activity
+0.6605601103	clinical routine
+0.6604043437	mean square error
+0.6594182873	head and neck
+0.6591207959	reconstruction technique
+0.6588509590	organ at risk
+0.6587126493	tumor cells
+0.6583188679	study shows
+0.6577538330	diffusion magnetic resonance
+0.6573591434	similarity coefficient
+0.6572173710	brain sections
+0.6567958381	single scan
+0.6565691729	multi layer
+0.6563730493	field free
+0.6562514264	post treatment
+0.6559661738	wavelet based
+0.6558116502	t1 and t2
+0.6556679358	wall shear
+0.6552254739	end to end
+0.6549183122	functional mri
+0.6548293126	spectral analysis
+0.6547881095	experimental results demonstrate
+0.6543061294	low resolution
+0.6541163959	optimization problems
+0.6540384038	micro ct
+0.6536346010	experimental measurements
+0.6534679588	scan times
+0.6532813130	parallel mri
+0.6527856900	dw mri
+0.6524868587	field size
+0.6524486202	multi objective
+0.6522729530	superparamagnetic iron
+0.6520912116	atlas based
+0.6513366078	iterative reconstruction algorithm
+0.6511215546	fetal heart
+0.6510903155	high dimensional
+0.6509715021	echo planar
+0.6488579492	high spatial resolution
+0.6478574327	x ray fluorescence
+0.6478265665	pet imaging
+0.6472446536	quantitative accuracy
+0.6472023801	breast tomosynthesis
+0.6470127105	simulation studies
+0.6469310056	challenging task
+0.6466139523	significantly lower
+0.6465212577	potential application
+0.6463574854	reconstruction times
+0.6457281313	computer aided diagnosis
+0.6456780914	photoacoustic computed
+0.6456342246	sensitivity and specificity
+0.6454195257	model based iterative reconstruction
+0.6453711027	multi parametric
+0.6447150761	reconstructed images
+0.6444697240	field of view
+0.6443406636	molecular imaging
+0.6423330354	results showed
+0.6418405005	experimental results
+0.6414782865	based approach
+0.6412741501	maximum dose
+0.6406692340	pre clinical
+0.6404216664	arterial blood
+0.6403028115	theory and methods
+0.6401114457	self supervised learning
+0.6400275664	high spatial
+0.6395494553	existing methods
+0.6395088028	multi material
+0.6393599103	bone surface
+0.6392340780	energy range
+0.6388425580	qualitative and quantitative
+0.6388168019	results demonstrate
+0.6386469715	monte carlo based
+0.6383722886	improved image quality
+0.6379998302	intensity modulated radiation
+0.6379241603	image reconstruction method
+0.6374257616	breast imaging
+0.6370860327	clinical studies
+0.6367466531	nuclear magnetic
+0.6364300638	tongue placed tactile
+0.6364170939	case study
+0.6361962280	study suggests
+0.6356974478	projection based
+0.6346040354	dose profiles
+0.6344662882	resonance spectroscopy
+0.6339001331	multi energy
+0.6338864471	mri reconstruction
+0.6337043523	proposed technique
+0.6327692989	medical image
+0.6322327310	cnn based
+0.6314144560	animal models
+0.6309530894	ct imaging
+0.6304728344	dose response
+0.6304667274	pre treatment
+0.6304532664	squid based
+0.6302947949	beam line
+0.6298864204	clinical plans
+0.6294594693	tumor motion
+0.6290948318	simplified model
+0.6284371272	image artifacts
+0.6280897705	cancer detection
+0.6280499110	similarity index
+0.6279493060	operating characteristic
+0.6278671314	high risk
+0.6274778519	reconstruction problem
+0.6273539668	plan optimization
+0.6270569944	high energy
+0.6259612316	reconstruction algorithm
+0.6258043070	radiation treatment
+0.6255270888	image acquisition
+0.6253142794	patient motion
+0.6248167453	point of view
+0.6238537905	peak signal to noise ratio
+0.6237024708	full field oct
+0.6233099845	proton energy
+0.6232208040	real data
+0.6231887199	dose volume
+0.6228901325	tissue equivalent
+0.6220294557	acquisition parameters
+0.6218253769	mri data
+0.6200256507	neutron capture therapy
+0.6199924504	patient treatment
+0.6190168079	machine learning based
+0.6184156794	human tissue
+0.6179393002	reconstruction quality
+0.6175502841	delivered dose
+0.6173141272	tissue properties
+0.6170099802	segmentation algorithm
+0.6165716383	nuclear power
+0.6157942729	differential phase
+0.6154879731	\ mu fa
+0.6153273823	reference image
+0.6149188882	training data
+0.6146910302	kinetic model
+0.6135380539	projection images
+0.6132198659	computer aided detection
+0.6129412754	steady state free
+0.6127859712	synthetic data
+0.6121579310	high field
+0.6120852785	mr based
+0.6120336020	pet data
+0.6120109387	count pet
+0.6118187488	image reconstruction algorithms
+0.6117906326	absolute error
+0.6117589853	reconstruction accuracy
+0.6110890946	model based iterative
+0.6103892522	functional imaging
+0.6088447707	patient data
+0.6076178248	theoretical model
+0.6071210441	inter and intra
+0.6062740952	spatial information
+0.6052558195	spatial and temporal
+0.6052094487	images acquired
+0.6051654366	optimization algorithm
+0.6050810623	ultrasound images
+0.6044319510	human heart
+0.6044001480	ultra high
+0.6038433103	body radiation therapy
+0.6031821800	optical imaging
+0.6028102320	carlo simulations
+0.6027887257	input data
+0.6020010452	force microscopy
+0.6018948655	mri scanners
+0.6018722494	tissue microstructure
+0.6018217195	order of magnitude
+0.6017404562	data fidelity
+0.6014793522	ct image
+0.6011130655	diffusion imaging
+0.6009885850	specific absorption
+0.6009286522	dark field signal
+0.6007712870	forward model
+0.6003650293	accuracy and precision
+0.5995305383	dect images
+0.5993011502	promising results
+0.5991245095	reconstruction methods
+0.5990643659	imaging technique
+0.5990307259	numerical results
+0.5986565814	high dose
+0.5983683624	brain cells
+0.5979151492	cs mri
+0.5973090201	dose reduction
+0.5972221755	adversarial networks
+0.5972102260	fmri data
+0.5962073869	computational fluid
+0.5959050248	experiments demonstrate
+0.5958494503	x ray phase contrast imaging
+0.5957071770	imaging techniques
+0.5953505376	material specific
+0.5952656095	computational model
+0.5952507830	image noise
+0.5951200255	optimization approach
+0.5948444834	mouse model
+0.5946900519	rate variability
+0.5945852122	volumetric modulated
+0.5945006700	radial dose
+0.5944621263	artificial neural
+0.5937140306	iterative image
+0.5932979777	imaging speed
+0.5931870534	cnn model
+0.5926063991	mc dose
+0.5926043622	material parameters
+0.5918567835	simulated data
+0.5916172137	fe model
+0.5915571937	analysis showed
+0.5914511396	proposed network
+0.5912962229	high density
+0.5909483279	radiation field
+0.5906264244	stereotactic body radiation
+0.5900586121	fluctuation analysis
+0.5897304195	effective dose
+0.5891940186	mean squared error
+0.5886913600	quantitative susceptibility
+0.5886449577	data consistency
+0.5885672997	carlo simulation
+0.5881376144	proposed method
+0.5877441436	deep learning models
+0.5867216078	sinogram data
+0.5864434942	calculation method
+0.5863879841	modulated arc
+0.5863282978	guided radiation therapy
+0.5853324068	simulated and real
+0.5850281405	data acquired
+0.5842354024	image contrast
+0.5838584052	lung ct
+0.5830292713	acquired data
+0.5829188108	biomechanical model
+0.5827477996	brain tissues
+0.5817796960	pre and post
+0.5814751907	cone beam computed
+0.5811511404	accurate and robust
+0.5809789242	reconstruction method
+0.5806520615	diffusion anisotropy
+0.5804159880	monte carlo model
+0.5804071066	image space
+0.5796030834	vivo measurements
+0.5795532964	results demonstrated
+0.5785281691	data collection
+0.5777311897	paper describes
+0.5774938079	tomography angiography
+0.5771245502	learning based approach
+0.5768107620	diffusion mri data
+0.5767572547	undersampled k space
+0.5766229914	pet tomograph
+0.5762073352	monte carlo dose
+0.5758210489	model based reconstruction
+0.5755243947	prior image
+0.5753840608	correction method
+0.5751588201	fast and accurate
+0.5749210488	imaging performance
+0.5743342653	ct data
+0.5740050025	diagnosis and treatment
+0.5738747190	multi gpu
+0.5738184914	square error
+0.5721025302	data collected
+0.5719039343	simulation results
+0.5714045630	coulomb scattering
+0.5713990664	study demonstrates
+0.5712394938	dmri data
+0.5710844872	modulated radiation therapy
+0.5692694359	stochastic model
+0.5676679190	number of projections
+0.5669690524	high frame
+0.5661563915	deep convolutional
+0.5652855353	cbct image
+0.5648499215	signal to noise
+0.5646151314	tissue parameters
+0.5633392168	modulation transfer
+0.5631318009	depth of field
+0.5611681677	undersampled data
+0.5610737186	results obtained
+0.5606731104	tissue samples
+0.5598300577	regularization method
+0.5575316708	segmentation results
+0.5555482289	shift exchange
+0.5540541917	central nervous system
+0.5537337306	materials and methods
+0.5536165873	field distribution
+0.5532510821	deep learning model
+0.5531481169	weighted imaging
+0.5517752736	brain imaging
+0.5516258697	head model
+0.5514060675	boron neutron
+0.5507906600	x ray phase contrast
+0.5501844874	water content
+0.5496971190	quantitative imaging
+0.5495908260	breast tissue
+0.5491570083	resonance images
+0.5483222715	imaging applications
+0.5479626138	comparative study
+0.5473193397	physical model
+0.5472482232	model predictions
+0.5468769971	knowledge based
+0.5465240877	learning approaches
+0.5455538298	clinical data
+0.5442187811	functional magnetic resonance
+0.5441847951	dual energy x ray
+0.5435456098	mri signal
+0.5433015728	squared error
+0.5430565000	real time fmri
+0.5421038717	takes advantage of
+0.5407940957	model based
+0.5407704475	based iterative reconstruction
+0.5407116423	high computational
+0.5403738874	power plant
+0.5398872841	this paper proposes
+0.5396379694	propagation based
+0.5394111433	mri images
+0.5393449642	model parameters
+0.5383314280	times faster than
+0.5369159972	gpu based monte
+0.5360087048	clinical study
+0.5356922577	delivery systems
+0.5344022503	eeg nf
+0.5315469765	ion radiotherapy
+0.5305905336	this paper presents
+0.5305107614	acquisition and reconstruction
+0.5294512810	method enables
+0.5266123461	u net
+0.5262368100	segmentation methods
+0.5262042571	mr data
+0.5256884168	covid 19
+0.5249990336	imaging depth
+0.5228882948	covid 19 patients
+0.5220661802	mri systems
+0.5220507468	numerical model
+0.5184249965	a priori knowledge
+0.5171111106	measurement data
+0.5164738286	j pet scanner
+0.5163992138	accurate dose
+0.5157644310	at room temperature
+0.5153383808	important role
+0.5113059824	deformable image
+0.5112096351	powerful tool
+0.5108145725	mri contrast
+0.5101599640	recent advances in
+0.5094892663	coronary heart
+0.5092794505	low and high
+0.5072106346	single energy
+0.5040879026	x ray
+0.5031992135	predicted dose
+0.5029265781	dynamics simulations
+0.5026261314	counting detectors
+0.5022556416	analytical model
+0.5013400506	carlo code
+0.5003939670	a crucial step
+0.5001040903	external magnetic
+0.4964207544	3d printing
+0.4961096287	fidelity term
+0.4959630372	based approaches
+0.4950126074	image reconstruction algorithm
+0.4923411643	functional magnetic
+0.4918661651	proposed algorithm
+0.4918633306	cs 137
+0.4911333137	based method
+0.4903707863	weighted images
+0.4898653182	mr image
+0.4898506212	linear model
+0.4897922312	linear combination
+0.4889016167	based methods
+0.4881042062	biological dose
+0.4875730140	current methods
+0.4874577160	times faster
+0.4871556842	method called
+0.4871243636	projection image
+0.4854973077	x ray dark field
+0.4854754218	learning method
+0.4847925033	j pet
+0.4844265489	planning systems
+0.4839712869	hardening artifacts
+0.4829198968	volume histograms
+0.4827575652	brain networks
+0.4822873365	alternating direction
+0.4818083754	this paper describes
+0.4815129914	random field
+0.4803492436	computer aided
+0.4802514866	vivo experiments
+0.4791037170	near infrared
+0.4790942709	imaging methods
+0.4789225547	planning target
+0.4787066299	simulation and experimental
+0.4785657037	high level
+0.4764285086	relative biological
+0.4759979055	carlo calculations
+0.4754576493	therapy planning
+0.4751708098	learning based methods
+0.4749196309	temporal evolution of
+0.4743247528	paper proposes
+0.4742620802	single walled
+0.4742018305	track detectors
+0.4735810969	x ray computed tomography
+0.4734872352	paper reports
+0.4715367817	angle scattering
+0.4706731639	optimization method
+0.4701201893	grating based x ray
+0.4700072690	capture therapy
+0.4691737988	high resolution imaging
+0.4690723314	next generation
+0.4689530156	vivo mri
+0.4678768965	phantom data
+0.4676644755	quantitative analysis
+0.4674370229	test results
+0.4669381740	reconstruction approach
+0.4666776541	self supervised
+0.4663533169	computer assisted
+0.4652873511	x ray transform
+0.4649814451	dose values
+0.4642038586	neck cancer
+0.4636799455	patient dose
+0.4622425706	young healthy
+0.4603560613	surface wave
+0.4595694109	conventional methods
+0.4593669181	spread function
+0.4587351962	c arm
+0.4583078017	beam ct
+0.4577706411	proton computed
+0.4574764093	partial volume
+0.4572058483	fast spin
+0.4559314017	planning ct
+0.4556422388	x ray ct
+0.4526775099	full width
+0.4524933741	features extracted
+0.4522516878	dynamic contrast
+0.4513420788	double diffusion
+0.4511309767	least squares
+0.4495617539	image data
+0.4488982009	traumatic brain
+0.4475506703	presence of noise
+0.4472775957	tensor imaging
+0.4459330099	pet image
+0.4450041281	image guided radiation
+0.4448591105	self regulation
+0.4442847745	general framework
+0.4436983598	based algorithm
+0.4432090184	reconstruction process
+0.4431681962	contrast to noise
+0.4408166683	powerful tool for
+0.4401038457	ct systems
+0.4398122829	ex vivo
+0.4394440903	volume histogram
+0.4392155354	x ray spectra
+0.4372554308	beam scanning
+0.4359204708	24 hours
+0.4352357971	phantom images
+0.4339922645	few view
+0.4322776814	wide range
+0.4314108886	nuclear track
+0.4301938298	optimization based
+0.4277576845	reconstruct images
+0.4272298609	conventional x ray
+0.4272003081	test data
+0.4270313209	effective atomic
+0.4261799521	table top
+0.4240232695	linear energy
+0.4226625049	effective method
+0.4217982501	the present paper
+0.4194778348	using deep learning
+0.4194322977	measured data
+0.4194183984	proposed approach
+0.4171485178	3d pli
+0.4169198485	segmentation method
+0.4168519303	learning methods
+0.4167079141	dose delivered
+0.4160701805	achieve high
+0.4140474446	image based
+0.4136102286	three dimensional
+0.4134691995	tomographic x ray data of
+0.4125425433	high temporal
+0.4121330177	off resonance
+0.4115727912	18f fdg
+0.4113636878	non uniform
+0.4110965681	total number
+0.4110459312	mm ^ 2
+0.4100603715	sampled data
+0.4099996318	imaging data
+0.4086290561	learning approach
+0.4079115721	variation regularization
+0.4078618306	motion model
+0.4067954715	imaging dose
+0.4054294789	spread out
+0.4053978753	improved image
+0.4051083934	learning algorithms
+0.4044074386	2d asg
+0.4035633530	clinical proton
+0.4022981637	g factor
+0.4019044698	511 kev
+0.3996125506	simple model
+0.3985588235	k space
+0.3977454583	non coplanar
+0.3976326526	et al
+0.3974219756	compared to conventional
+0.3974109000	x rays
+0.3972996883	ill posed
+0.3948039872	spatial distribution
+0.3947461127	time series
+0.3941723061	simulation based
+0.3939449320	in recent years
+0.3935051091	this paper introduces
+0.3931218790	3 dimensional
+0.3930229087	beam therapy
+0.3929704815	time of flight
+0.3926744771	based multi
+0.3917547491	element method
+0.3915792242	u 238
+0.3892228407	learning based method
+0.3890920798	sub millimeter
+0.3880116182	parallel magnetic
+0.3877454583	non trivial
+0.3869993015	non invasive
+0.3869709984	experimental results show
+0.3860991662	tissue phantom
+0.3860120151	clinical mri
+0.3857580857	method of multipliers
+0.3847975657	q space
+0.3838129271	treatment planning system
+0.3837229748	under sampled
+0.3828507052	filtered back
+0.3824848471	reconstruction techniques
+0.3812454780	least square
+0.3807338244	peak signal to noise
+0.3801061319	dose delivered to
+0.3797590869	th 232
+0.3784818692	front end
+0.3773143800	non cartesian
+0.3772128871	linear combination of
+0.3771563905	the current state
+0.3763522166	k edge
+0.3758078231	weighted mri
+0.3753092597	t2 *
+0.3740858439	singular value
+0.3739589849	accurate results
+0.3738580043	b tensor
+0.3732550624	non contact
+0.3731882459	follow up
+0.3731765748	whole heart
+0.3731543941	\ textit
+0.3730511694	full field optical
+0.3729084126	whole body
+0.3727648192	non invasively
+0.3725567670	non destructive
+0.3717239720	above mentioned
+0.3715160242	non uniformity
+0.3712421882	order to achieve
+0.3707414906	x ray source
+0.3701308582	r2 *
+0.3691761747	clinical target
+0.3691511910	95 ci
+0.3688968470	dose equivalent
+0.3688224822	k space data
+0.3687682876	real time
+0.3683501094	3d printed
+0.3679088611	ct based
+0.3678249481	an early stage
+0.3671427864	6 mv
+0.3667587639	pile up
+0.3666123242	mev u
+0.3650175515	non linear
+0.3635097976	mean squared
+0.3628058707	signal model
+0.3619991375	automatic segmentation of
+0.3614348420	computer simulation
+0.3614083799	^ 2
+0.3599360910	p 0.001
+0.3592494262	x ray projection
+0.3591637028	learning model
+0.3587885998	p 0.01
+0.3584989365	co occurrence
+0.3579052506	trade off
+0.3565657937	this study presents
+0.3565635347	x ray photons
+0.3551630655	freely available
+0.3545915890	off axis
+0.3542739438	this paper reports
+0.3537275159	read out
+0.3529038271	first principles
+0.3524514730	\ rm
+0.3524360910	p 0.05
+0.3521844921	network model
+0.3519147695	r2 =
+0.3514957542	dose measurements
+0.3513066087	data obtained
+0.3512210439	near field
+0.3511075368	100 hz
+0.3510370423	publicly available
+0.3509900718	full field
+0.3505295845	tongue placed
+0.3504438585	b1 +
+0.3503630340	microscopic diffusion
+0.3497158282	noise ratio
+0.3495357902	two dimensional
+0.3494798049	accurate estimation of
+0.3486588165	imaging method
+0.3467124530	ray ct
+0.3459529894	commercially available
+0.3456852438	b scan
+0.3453744163	no biofeedback
+0.3443794004	vivo imaging of
+0.3443558799	so called
+0.3440485601	phase imaging
+0.3428356249	area under
+0.3428292841	\ deg
+0.3425613959	nervous system
+0.3419981402	mri based
+0.3413428059	reconstruction results
+0.3407865377	\ bf
+0.3399617149	4d cbct
+0.3396486865	well suited
+0.3394404644	readily available
+0.3391455579	\ alpha
+0.3388287818	tissue models
+0.3382369029	an important role
+0.3373902151	four dimensional
+0.3371640899	\ emph
+0.3368803977	echo time
+0.3362365439	x ray imaging
+0.3360665502	\ rangle
+0.3344359314	time resolved
+0.3344248636	phantom and in vivo
+0.3340648253	^ \ circ
+0.3338063170	while maintaining
+0.3332872599	non convex
+0.3329689449	x ray beam
+0.3328418937	carried out
+0.3323128200	\ mu
+0.3304824722	not necessarily
+0.3303917132	^ 3
+0.3302968350	insight into
+0.3300543305	improve image
+0.3299735269	\ cite
+0.3288345350	limited number of
+0.3287642992	images obtained
+0.3281782133	out of plane
+0.3277570336	brain images
+0.3273514400	time consuming
+0.3263045981	the proposed method
+0.3262539470	x ray sources
+0.3251504672	x ray spectrum
+0.3246098002	based iterative
+0.3242701818	interplay between
+0.3231941711	trade off between
+0.3228618038	set up
+0.3223251098	most likely
+0.3220499336	side effects
+0.3220372267	b mode
+0.3219737853	x ray images
+0.3216436904	$ _
+0.3203850044	small number of
+0.3201836784	non stationary
+0.3197255919	while keeping
+0.3190762971	well established
+0.3190708799	multi shell
+0.3186220860	\ pm
+0.3183535631	low signal
+0.3182546707	speed up
+0.3175226713	no longer
+0.3173083413	does not require
+0.3170103208	$ \ bm
+0.3161431389	total number of
+0.3151365348	the present study
+0.3144316417	10 ^ 4
+0.3140739140	take into account
+0.3126133059	whole brain
+0.3123258256	second order
+0.3116662880	full wave
+0.3115298849	great potential for
+0.3113451177	divided into
+0.3110443469	$ t_1
+0.3101923186	$ r_1
+0.3076671365	\ rho
+0.3071890540	~ 1
+0.3070132360	$ \ mathrm
+0.3044453353	based reconstruction
+0.3042341002	robustness against
+0.3032431595	smaller than
+0.3027587029	the art methods
+0.3015601203	quality images
+0.3011655331	b_1 ^ +
+0.3008341888	commonly used
+0.3006574071	$ \ sim
+0.3000461363	taken into account
+0.3000249919	present study
+0.2992805683	greater than
+0.2992759848	imaging experiments
+0.2991150428	activity concentrations in
+0.2973555551	\ mathrm
+0.2973058736	large number of
+0.2965407452	an open source
+0.2942002618	study presents
+0.2935483704	this study demonstrates
+0.2928282294	$ \ pm
+0.2924152124	good agreement
+0.2923036878	r ^ 2
+0.2920610629	well defined
+0.2916850991	comparative study of
+0.2916712743	of trabecular bone
+0.2915897583	x ray image
+0.2900829602	k 40
+0.2897148502	whole blood
+0.2888410536	^ 1
+0.2886647141	larger than
+0.2884711326	$ d_
+0.2875096893	incorporated into
+0.2871020567	beta ^ +
+0.2864711326	$ b_0
+0.2862720097	novel deep learning
+0.2862431024	carlo based
+0.2857819600	finite element model of
+0.2857810927	validated against
+0.2842877540	ct dose
+0.2837403787	far field
+0.2834517562	a general framework
+0.2820381496	~ 10
+0.2812306186	$ \ mu
+0.2809836146	neural network based
+0.2808808937	one dimensional
+0.2792206765	in vitro
+0.2787872780	obtained results
+0.2787269974	in vivo data
+0.2782087134	^ 4
+0.2780466104	\ `
+0.2778080025	cardiovascular system
+0.2777156084	the proposed approach
+0.2773455103	guiding system
+0.2773134403	the ground truth
+0.2769937879	quantitative results
+0.2767001176	non rigid
+0.2761050064	first order
+0.2754872862	the proposed framework
+0.2747283386	using monte carlo
+0.2742430908	widely used
+0.2727083268	mechanical properties of
+0.2723713069	resolution diffusion
+0.2717597230	a challenging task
+0.2717462551	in vivo
+0.2713130810	non local
+0.2711600648	a wide range
+0.2709999808	t wave
+0.2707976730	tissue contrast
+0.2706266476	\ gamma
+0.2700908939	h & e
+0.2688751407	previous work
+0.2685658973	time dependent
+0.2685344284	lower than
+0.2675306649	step towards
+0.2674835573	$ t_2
+0.2669341784	into account
+0.2659809022	9.4 t
+0.2652137930	time domain
+0.2651941134	$ b_1
+0.2649171977	routinely used
+0.2648245517	$ \ beta
+0.2643503686	element analysis
+0.2638458211	relation between
+0.2636596533	based monte carlo
+0.2631984574	\ lambda
+0.2629225460	wide range of
+0.2626073038	more importantly
+0.2618666537	in silico
+0.2617029122	faster than
+0.2616525010	contrast imaging
+0.2612790833	mathematical model for
+0.2612629254	x ray radiation
+0.2604578146	compared against
+0.2595552398	a low cost
+0.2590744890	$ \ alpha
+0.2588393886	this study aims
+0.2563341314	order to obtain
+0.2552756564	a powerful tool
+0.2548916241	information about
+0.2546212019	art methods
+0.2532880818	quantitative analysis of
+0.2520443907	$ _2
+0.2518156859	this letter
+0.2512010566	\ langle
+0.2506944621	computer simulations
+0.2505985894	mu m
+0.2500807269	the proposed algorithm
+0.2499748340	\ beta
+0.2499307562	study aims to
+0.2492837700	\ delta
+0.2489852130	\ text
+0.2487588838	higher than
+0.2485575571	more accurate
+0.2483411861	the fixed point
+0.2483132826	3 d
+0.2480368467	properties of human
+0.2478397026	back projection
+0.2474480764	tomographic x ray
+0.2471650524	left and right
+0.2468640196	significant differences in
+0.2468397632	even though
+0.2468013355	contrast images
+0.2464091589	approach based on
+0.2464048531	planar imaging
+0.2463199425	diffusion model
+0.2453062654	insights into
+0.2450339105	t test
+0.2448546385	those obtained
+0.2444145295	field oct
+0.2441873593	structural changes
+0.2438796553	standard deviation of
+0.2424853561	spatial distribution of
+0.2424630038	non ionizing
+0.2423777145	relationship between
+0.2423133010	like media
+0.2402142124	depending on
+0.2393769522	region of interest
+0.2392534227	dwell time
+0.2391166426	method based on
+0.2384332617	integrated into
+0.2361333559	imaging approach
+0.2350229147	2 d
+0.2348576215	h &
+0.2337743629	while preserving
+0.2329492671	differences between
+0.2328345800	second harmonic
+0.2324867557	serve as
+0.2314463793	image reconstruction from
+0.2306907249	so far
+0.2305801294	the left ventricle
+0.2305425498	correlation between
+0.2298303097	p =
+0.2295472264	relies on
+0.2293429253	model developed
+0.2292033075	passing through
+0.2289751326	wide variety of
+0.2289612595	results indicate
+0.2278542998	computation time
+0.2275988294	$ \ delta
+0.2273981765	this article
+0.2273729128	for biomedical applications
+0.2273247867	3 mm
+0.2266035701	of dna damage
+0.2264880219	caused by
+0.2260818585	rely on
+0.2259296340	b values
+0.2258161197	under sampling
+0.2254219179	easy to use
+0.2251658813	the refractive index
+0.2251102039	acoustic radiation
+0.2249400518	n =
+0.2247801211	regions of interest
+0.2247340676	learning techniques
+0.2245394232	for breast cancer
+0.2244808976	a deep learning model
+0.2244165395	for particle therapy
+0.2243086520	2d and 3d
+0.2236078117	cross section of
+0.2227909777	link between
+0.2226400481	this paper
+0.2219152214	very low
+0.2217820422	proposed model
+0.2217511138	a convolutional neural network
+0.2216122184	suffers from
+0.2215939196	$ \ times
+0.2215084652	useful tool
+0.2213904687	a computer aided detection
+0.2211482976	important role in
+0.2209959738	r =
+0.2206997006	b value
+0.2194517022	the receiver operating
+0.2193554063	a mathematical model
+0.2192907722	on board
+0.2186379652	depends on
+0.2179597330	non parametric
+0.2167564797	without requiring
+0.2158257164	influenced by
+0.2145506340	two photon
+0.2143465725	the results obtained
+0.2142372135	did not
+0.2136765305	depend on
+0.2120756855	in situ
+0.2114895440	clinical imaging
+0.2112851797	per second
+0.2112549992	in vivo experiments
+0.2110590498	focuses on
+0.2102991067	$ b_1 ^ +
+0.2100352588	m s
+0.2098866871	measurement system
+0.2094323006	aimed at
+0.2091771664	$ ^ \ circ
+0.2086472205	at 7t
+0.2079878590	$ \ gamma
+0.2065070780	each voxel
+0.2062300233	in vitro and in vivo
+0.2061485227	advantages over
+0.2051617468	ranging from
+0.2050736613	network based
+0.2045016921	arising from
+0.2044681783	high level of
+0.2038346106	do not
+0.2038329356	5 mm
+0.2035248354	a deep neural network
+0.2033717525	during af
+0.2032049598	time scales
+0.2026392829	deals with
+0.2023257525	the control group
+0.2023110563	rather than
+0.2022340762	based model
+0.2010399675	based on
+0.2006836347	mean absolute
+0.2006174124	non contrast
+0.2006155662	currently available
+0.2004952025	particle imaging
+0.1999818077	\ mu m
+0.1998502867	referred to as
+0.1992535761	for intensity modulated
+0.1990475528	well known
+0.1989517682	the arterial wall
+0.1989043274	making use of
+0.1981182119	a deep convolutional neural
+0.1979979600	$ ^ 3
+0.1978028290	in particle therapy
+0.1977212951	radiotherapy dose
+0.1971305147	for sparse view
+0.1971258838	agreement between
+0.1969725762	compared to
+0.1969565929	imaging model
+0.1965094812	in clinical practice
+0.1961640094	for medical applications
+0.1959786982	relatively small
+0.1958773494	does not
+0.1953082567	to noise ratio
+0.1949907228	monte carlo simulation of
+0.1948397579	root mean
+0.1944086567	imaging based
+0.1940709940	makes use of
+0.1940110122	reconstruction model
+0.1937433466	element model
+0.1934593330	$ ^ 1
+0.1934592230	^ 6
+0.1931270611	the rtfmri nf
+0.1914857297	coordinate system
+0.1912429702	several hours
+0.1912413360	the obtained results
+0.1911837374	cov 2
+0.1908149625	leads to
+0.1900779107	very small
+0.1899925119	much lower
+0.1896189900	19 pandemic
+0.1884844346	relying on
+0.1877525071	mm s
+0.1877147182	the human body
+0.1872931982	present results
+0.1868253400	1 mm
+0.1858946333	biological effects of
+0.1857333766	less than
+0.1855847661	interact with
+0.1844028837	$ \ beta ^ +
+0.1830916427	time intervals
+0.1830737694	of brain tissue
+0.1830407738	take advantage of
+0.1830346708	0.5 mm
+0.1829669331	very fast
+0.1826140587	characterized by
+0.1824816480	resolution images
+0.1823942893	a large number
+0.1812741422	in conjunction
+0.1812706555	a simulation study
+0.1808288883	neural networks for
+0.1806762212	a deep learning approach
+0.1805640529	model based on
+0.1805388834	time required
+0.1804568495	results presented
+0.1801119483	a lot
+0.1799923855	\ deg c
+0.1799898772	the proposed model
+0.1799794791	similarity between
+0.1797520337	the dose delivered
+0.1797003418	governed by
+0.1796478875	interactions between
+0.1794692718	phantom and in
+0.1789007284	correlations between
+0.1786284944	significant changes
+0.1781648997	this study
+0.1780391415	monitoring system
+0.1778853744	7 t
+0.1775429785	2 mm
+0.1774917768	in order to obtain
+0.1773696337	a case study
+0.1770630301	a water phantom
+0.1762072920	current state of
+0.1761391410	\ times 10 ^
+0.1756457677	good agreement between
+0.1750298531	this thesis
+0.1749285436	this manuscript
+0.1744541534	\ bm
+0.1739047363	more efficient
+0.1736184027	a simple model
+0.1736122581	suffer from
+0.1728618340	detector system
+0.1726173659	lead to
+0.1725204475	$ \ beta ^
+0.1720913083	affected by
+0.1720363978	results show
+0.1713739793	the left ventricular
+0.1710285849	less than 5
+0.1702720668	at 7 t
+0.1701395717	conjunction with
+0.1700192327	blood flow in
+0.1699420337	$ ^
+0.1698997193	10 mm
+0.1698757609	unable to
+0.1697411083	to obtain
+0.1695795576	resolution imaging
+0.1692489215	for prostate cancer
+0.1689597771	based image
+0.1689130991	* 10
+0.1688081932	produced by
+0.1687451831	serves as
+0.1686308396	field imaging
+0.1684264130	three dimensions
+0.1683938861	to assess
+0.1682557209	an order of magnitude
+0.1679030446	relationships between
+0.1678192948	equipped with
+0.1674163611	\ times
+0.1663977130	the proposed methods
+0.1662439404	reconstruction method for
+0.1661882942	relatively large
+0.1659849374	$ ^ 2
+0.1658153173	the dose distribution
+0.1656859948	pet system
+0.1652660502	extracted from
+0.1651926506	two stage
+0.1641431355	corresponds to
+0.1636074032	dealing with
+0.1635046474	asked to
+0.1632114815	dose distributions for
+0.1630683381	the steady state
+0.1627454661	spatial resolution of
+0.1624493696	very large
+0.1623231344	a small number
+0.1623132532	attributed to
+0.1622075083	better than
+0.1619034817	distinguish between
+0.1618483163	more precise
+0.1616350974	mean free
+0.1616282568	aims at
+0.1612707906	opposed to
+0.1604915584	at least
+0.1600584662	based dose
+0.1595576332	not always
+0.1593366499	inspired by
+0.1585453094	to detect
+0.1585253247	motion during
+0.1580041699	time delay
+0.1577882329	x ray data
+0.1571852783	ranged from
+0.1567339127	presented here
+0.1567044080	new insights into
+0.1563224710	short time
+0.1557549085	image reconstruction in
+0.1550964113	to determine
+0.1547412311	a priori
+0.1545943889	a data driven
+0.1542505129	tend to
+0.1539136403	the simulation results
+0.1537049717	a computational model
+0.1527212773	radiation dose in
+0.1524628485	the reconstructed images
+0.1522671334	the pulse wave
+0.1521519309	leading to
+0.1520495859	an innovative
+0.1518711676	each pixel
+0.1516104685	coupling between
+0.1514884966	the reconstructed image
+0.1513823472	the human brain
+0.1513132532	accounted for
+0.1512410854	treatment planning for
+0.1510244489	proposed framework
+0.1500760479	novel approach
+0.1495212356	significantly better
+0.1494820493	new concept
+0.1492117318	much higher
+0.1491581566	space data
+0.1488319864	a deep learning based
+0.1480938247	20 mm
+0.1478370010	dose distributions in
+0.1473287577	less than 1
+0.1471777989	emphasis on
+0.1471542678	a multi scale
+0.1469626759	difference between
+0.1469575188	this work aims
+0.1468252214	obtained from
+0.1467098119	in proton therapy
+0.1463240568	in biological tissues
+0.1460275463	\ approx
+0.1456366772	one step
+0.1454768631	a patient specific
+0.1453431264	system response
+0.1451844220	in house
+0.1448235220	very useful
+0.1448014511	a feasibility study
+0.1444679215	the low frequency
+0.1438417912	method based
+0.1438043879	for proton therapy
+0.1437397591	this work proposes
+0.1435770719	the gold standard
+0.1434056477	subjected to
+0.1429331764	time resolution
+0.1427383698	in addition
+0.1426817825	more complex
+0.1426258185	an end to end
+0.1425950763	to evaluate
+0.1423510101	the long term
+0.1419423836	spite of
+0.1418750979	at 3t
+0.1417629824	represented by
+0.1414366352	even if
+0.1410865692	an important
+0.1405793939	air dose
+0.1405097849	10 ^
+0.1401940486	overall accuracy
+0.1400870334	to address
+0.1398495224	therapy treatment
+0.1397698697	to ensure
+0.1395100940	used to evaluate
+0.1394836308	derived from
+0.1386439832	time scale
+0.1380727069	mri system
+0.1379044625	\ sim
+0.1377686600	to avoid
+0.1377312148	as opposed to
+0.1374343424	reconstruction algorithms for
+0.1373942141	4 mm
+0.1372155595	the inverse problem
+0.1364130196	reconstruction algorithm for
+0.1361819450	low back
+0.1358022223	detection system
+0.1357034212	these limitations
+0.1356455956	relatively low
+0.1355587258	no significant
+0.1354225973	1 cm
+0.1354177815	acquired during
+0.1351326788	taking into
+0.1347128321	used to simulate
+0.1343105217	the cellular level
+0.1342799796	determined by
+0.1341675959	kinds of
+0.1338580220	by applying
+0.1336134213	3d cnn
+0.1335228805	image reconstruction for
+0.1334114539	algorithm based
+0.1331755402	aiming at
+0.1330522535	$ cs
+0.1328314658	first step
+0.1327902590	propose to use
+0.1326337331	a deep convolutional
+0.1324932474	applied to
+0.1324574374	a model based
+0.1323328658	in radiation therapy
+0.1319292446	mean value
+0.1316080288	of cancer cells
+0.1315192474	gap between
+0.1309626356	to simulate
+0.1307253479	compared with
+0.1305841496	non gaussian
+0.1303390680	close to
+0.1302035428	followed by
+0.1300069981	supported by
+0.1297890335	used to generate
+0.1294722557	3d radial
+0.1293635756	algorithm based on
+0.1290503123	these findings
+0.1289815145	used to determine
+0.1288558397	numerical simulations of
+0.1286364945	mm x
+0.1285177897	not only
+0.1284430846	an alternative
+0.1283597748	before and after
+0.1281147746	correspond to
+0.1280463624	suffering from
+0.1279061906	one to one
+0.1269769924	motivated by
+0.1268450745	a finite element
+0.1267292420	deg c
+0.1266229369	the objective function
+0.1265178193	treatment planning in
+0.1265176938	$ c
+0.1264968830	more than
+0.1262022672	an efficient
+0.1262007070	the low rank
+0.1260057724	generated by
+0.1258505081	a deep learning
+0.1256622495	mathematical model of
+0.1256576317	deep learning for
+0.1249787037	accomplished by
+0.1246691330	formulated as
+0.1246071303	focus on
+0.1243174976	a high resolution
+0.1242845181	achieved through
+0.1242302618	of ionizing radiation
+0.1240630504	noise ratio of
+0.1237649607	dominated by
+0.1237506137	experiments show
+0.1234791810	showed good
+0.1230394967	coming from
+0.1230130250	to improve
+0.1228954370	formed by
+0.1227566527	responsible for
+0.1226609770	= 1
+0.1225274153	to generate
+0.1222000114	spatial resolution in
+0.1221998066	in image guided
+0.1219651506	accompanied by
+0.1218962511	as well as
+0.1214642017	the absorbed dose
+0.1212758476	knowledge about
+0.1209230344	according to
+0.1207419837	the electric field
+0.1206920688	accounts for
+0.1206843438	induced by
+0.1205739301	x ray phase
+0.1204086984	a convolutional neural
+0.1202227608	more advanced
+0.1200441021	led to
+0.1199939096	two types
+0.1199554144	two steps
+0.1196031935	scan time
+0.1194136995	much more
+0.1193473019	at 3 t
+0.1193071487	this work presents
+0.1192299405	to achieve
+0.1192108695	all cases
+0.1191151194	most common
+0.1188979889	combined with
+0.1186395163	at 1.5t
+0.1185376474	\ beta ^ +
+0.1183714424	starting from
+0.1183169673	$ \
+0.1175747720	the measured data
+0.1175603736	accounting for
+0.1173485159	the brain tissue
+0.1171252884	acquisition system
+0.1169437638	within 1
+0.1160176150	more reliable
+0.1159682130	to overcome
+0.1158735145	simulations show
+0.1158025150	an average
+0.1155675210	in order to achieve
+0.1153329462	field mri
+0.1151457788	in vivo imaging
+0.1147673414	the experimental results
+0.1147650419	imposed by
+0.1144753130	resulted in
+0.1144411945	to develop
+0.1143068209	such as
+0.1139626205	the signal to noise ratio
+0.1138921439	to predict
+0.1138533939	due to
+0.1138125254	image reconstruction with
+0.1137953834	very good
+0.1135039127	the other hand
+0.1130904767	two step
+0.1128521586	tested on
+0.1127199845	relaxation time
+0.1126901527	image quality in
+0.1124479895	new insights
+0.1121304501	new type
+0.1119370674	this work
+0.1117836594	based upon
+0.1114579462	tomography images
+0.1111759804	related to
+0.1110119644	methods based on
+0.1107928002	away from
+0.1107142447	to solve
+0.1105880560	\ sigma
+0.1104902766	the art
+0.1097164431	capable of
+0.1091996129	proposed reconstruction
+0.1090098386	proportional to
+0.1089401068	the training data
+0.1089019110	possibility of using
+0.1087807775	an emerging
+0.1086732472	obtained by
+0.1082674037	a generalized
+0.1079900931	for simulating
+0.1079678856	an inexpensive
+0.1079558381	models based on
+0.1077851398	more realistic
+0.1076603110	to investigate
+0.1074854641	more robust
+0.1074826444	a single
+0.1072892665	consists of
+0.1071996129	based phase
+0.1066152942	$ m
+0.1064575482	the point spread
+0.1063689776	focused on
+0.1063374242	the image quality
+0.1060773406	to understand
+0.1057151181	a deep neural
+0.1052719908	useful information
+0.1052267815	able to
+0.1048813207	method does not
+0.1048429523	an overview
+0.1044991447	used to predict
+0.1043346041	acquisition time
+0.1042032868	very high
+0.1041493950	performance than
+0.1035941695	system matrix
+0.1030998757	not yet
+0.1029387163	two layer
+0.1027044902	mean dose
+0.1024185966	oct system
+0.1023965915	to reduce
+0.1022597966	on line
+0.1021109147	an automated
+0.1021036126	more effective
+0.1020970561	system design
+0.1020747964	each patient
+0.1020575028	for head and
+0.1015274337	used to identify
+0.1014945143	long time
+0.1014502306	carlo simulation of
+0.1013041336	to identify
+0.1011652576	many applications
+0.1009075787	of breast cancer
+0.1007116934	more general
+0.1006294697	time dependence
+0.1005487101	clinical use
+0.1002989553	explained by
+0.1000389125	the image domain
+0.0998796288	make use of
+0.0996940760	most important
+0.0996825378	devoted to
+0.0991028321	$ f
+0.0990396829	interaction between
+0.0989502417	but also
+0.0988742960	tens of
+0.0984915096	the spatial distribution
+0.0984615844	a wide variety of
+0.0983152546	in vivo human
+0.0982627508	$ o
+0.0982334732	owing to
+0.0977927249	dose per
+0.0977110630	compared with other
+0.0976508783	to treat
+0.0975105368	by means of
+0.0972203555	modeled as
+0.0970384177	then applied
+0.0967468633	all subjects
+0.0966513531	in order to
+0.0965604439	consists of two
+0.0964375523	to reconstruct
+0.0960836080	filled with
+0.0956861183	these problems
+0.0955750550	by comparing
+0.0955357489	time frequency
+0.0953711358	3d plans
+0.0952089420	operating at
+0.0946870674	with respect to
+0.0939319467	contribute to
+0.0935987257	the results showed
+0.0930944527	an essential
+0.0929595153	computational time
+0.0929529587	consisting of
+0.0929191476	a wide range of
+0.0926287514	the most accurate
+0.0924494253	than conventional
+0.0923814070	these methods
+0.0922481911	impact on
+0.0921165379	also discussed
+0.0920565312	prone to
+0.0916331064	an analytical
+0.0915786414	to date
+0.0914914515	comparison between
+0.0913637052	this method
+0.0913234861	delivery time
+0.0907100559	widely used in
+0.0906619943	well suited for
+0.0903619175	all data
+0.0903272761	accordance with
+0.0902472574	provided by
+0.0901821048	number of
+0.0898518885	significantly different
+0.0896609225	in terms of
+0.0894742682	suitable for
+0.0890886344	to compensate
+0.0890632903	applicable to
+0.0890062910	all patients
+0.0887400287	state of
+0.0887362550	dependence on
+0.0884955459	the proposed reconstruction
+0.0882192690	used to assess
+0.0881985850	based on deep
+0.0881873084	of sars cov 2
+0.0880408864	insensitive to
+0.0879246786	parameters such as
+0.0877288217	to perform
+0.0876727317	very well
+0.0876550310	3 t
+0.0874711922	composed of
+0.0873739287	an optimal
+0.0873249403	observed between
+0.0872010025	used to estimate
+0.0871904830	to optimize
+0.0870647754	an ideal
+0.0870148536	planning system
+0.0869850951	confirmed by
+0.0869454102	the most common
+0.0869181858	such systems
+0.0867343719	m \
+0.0865430722	delivery system
+0.0864516493	in spite of
+0.0863968460	these models
+0.0862922406	takes into
+0.0861004153	specification of
+0.0860816082	to quantify
+0.0860189189	these results
+0.0860105815	to restore
+0.0859865780	associated with
+0.0859500828	driven by
+0.0859210271	captured by
+0.0858807831	by combining
+0.0857377777	= 2
+0.0854187551	3d models
+0.0853186492	flow through
+0.0852727949	an object
+0.0851727227	good agreement with
+0.0850091572	comprised of
+0.0845330851	a portable
+0.0844174317	via deep
+0.0843593979	performed on
+0.0843478507	performed at
+0.0843212148	a computer aided
+0.0840881310	in order to reduce
+0.0838410213	to calculate
+0.0837803380	to maximize
+0.0837018735	performed using
+0.0836353623	consistent with
+0.0832776406	two distinct
+0.0831956214	verified by
+0.0828360226	two main
+0.0827133431	compensate for
+0.0824530813	an extension
+0.0824275978	achieved by
+0.0823888827	a new approach
+0.0819384921	method for
+0.0819090083	\ ^
+0.0818512175	an important role in
+0.0816682563	this approach
+0.0815575743	much better
+0.0813685306	used to validate
+0.0812887838	different types of
+0.0812629705	$ n
+0.0810395059	a lot of
+0.0805586832	respect to
+0.0803945709	method uses
+0.0802535910	these parameters
+0.0802227582	benefit from
+0.0800441090	attached to
+0.0800034192	r ^
+0.0799886622	apart from
+0.0797384607	the root mean square
+0.0795554655	at low
+0.0794760836	for instance
+0.0794636001	considered as
+0.0794544532	work presents
+0.0793665001	an easy
+0.0793068725	predicted by
+0.0792618303	advancements in
+0.0792241260	variety of
+0.0791722629	overview of
+0.0790054150	to deal with
+0.0789848592	also analyzed
+0.0789322647	over conventional
+0.0789164324	this end
+0.0788798943	$ activity
+0.0787432900	time constant
+0.0786607439	a novel approach
+0.0783300160	to implement
+0.0782599883	so as to
+0.0782321904	the results of
+0.0782304108	acquired at
+0.0782015259	relatively high
+0.0781615957	performed by
+0.0780671519	tissue like
+0.0776867273	in comparison to
+0.0773384996	in conjunction with
+0.0771138599	exposed to
+0.0770633397	new algorithm
+0.0770600755	not significantly
+0.0770268685	measured by
+0.0768955686	received by
+0.0767017038	also performed
+0.0765715682	both approaches
+0.0765365382	the transport of
+0.0764495123	this kind
+0.0763865070	these effects
+0.0762195406	a fast
+0.0761143817	collected from
+0.0760924151	different materials
+0.0760574538	this problem
+0.0759998676	perpendicular to
+0.0759438701	with and without
+0.0759116422	an arbitrary
+0.0757870902	description of
+0.0755599416	the potential of
+0.0755318178	this issue
+0.0754291951	work demonstrates
+0.0752321904	the risk of
+0.0750896203	a non linear
+0.0750856263	agreed with
+0.0750570819	used to
+0.0750184690	properties of
+0.0749577095	an initial
+0.0748889328	also demonstrated
+0.0747027643	quantified by
+0.0746850009	3d tumor
+0.0746343017	a novel deep learning
+0.0745715071	an automatic
+0.0745120983	an increased
+0.0744994163	other hand
+0.0744795748	directly from
+0.0743533939	this type of
+0.0743326451	consist of
+0.0743326109	3d reconstruction
+0.0742321904	the role of
+0.0742321904	the treatment of
+0.0739438701	the concept of
+0.0739173113	an additional
+0.0739171296	these approaches
+0.0738102408	a non invasive
+0.0738068185	the spread of
+0.0737890986	resulting from
+0.0737772035	a cohort of
+0.0737700606	a total of
+0.0737700606	in contrast to
+0.0737514595	the most important
+0.0736033939	the way for
+0.0735599416	a series of
+0.0735159980	an effective
+0.0734952957	in plane
+0.0733782665	defined as
+0.0732712492	a compact
+0.0732375878	trained on
+0.0732321904	the basis of
+0.0731259909	to estimate
+0.0730618867	$ h
+0.0729388755	difficult to
+0.0728616356	taken into
+0.0728507493	the first time
+0.0727772035	the performances of
+0.0726913245	by employing
+0.0726886839	d \
+0.0726794030	trained using
+0.0725599416	the generation of
+0.0725088835	better understanding
+0.0724328141	calculated by
+0.0723408665	to provide
+0.0723024206	slice by
+0.0722449600	a new method
+0.0722123942	an optical
+0.0721659818	expense of
+0.0721535920	information from
+0.0721368616	reconstructed by
+0.0720896320	distance between
+0.0719438701	for use in
+0.0719268447	an accurate
+0.0718894248	focusing on
+0.0718760924	thousands of
+0.0718157157	imaged by
+0.0717872761	^ \
+0.0717772035	the management of
+0.0717740490	solved by
+0.0716033939	a robust and
+0.0714292246	many other
+0.0713982267	this review
+0.0713909107	compatible with
+0.0712963414	used to compare
+0.0712375878	limited by
+0.0711940708	collected by
+0.0709842207	different levels
+0.0708416072	agree with
+0.0707772035	the question of
+0.0706867273	a system for
+0.0706033939	a database of
+0.0704805383	this technique
+0.0704759636	an improved
+0.0703832429	evaluated using
+0.0702321904	the quality of
+0.0702321904	the dynamics of
+0.0702233331	n \
+0.0701843265	a proof of concept
+0.0700655237	the progression of
+0.0699790881	an image
+0.0699690325	the cost of
+0.0699438701	for reconstruction of
+0.0699241777	relation to
+0.0698731888	data from
+0.0698339186	used to measure
+0.0696033939	the assumption of
+0.0695807065	used to improve
+0.0695599416	the acquisition of
+0.0695599416	a result of
+0.0694525472	susceptible to
+0.0693932749	the advantages of
+0.0693932749	the benefits of
+0.0693357642	referred to
+0.0692659438	an extended
+0.0692615651	by incorporating
+0.0692321904	the design of
+0.0692321904	the problem of
+0.0692321904	the study of
+0.0692321904	the prediction of
+0.0692321904	the theory of
+0.0692321904	a measure of
+0.0690058579	3d image
+0.0689438701	the predictions of
+0.0688247869	imaging system
+0.0688180134	expressions for
+0.0688003738	a crucial
+0.0687772035	the capability of
+0.0687007821	introduced by
+0.0686573982	effect on
+0.0686490490	treated as
+0.0686033939	a dataset of
+0.0685599416	the addition of
+0.0685386900	dependent on
+0.0683932749	the issue of
+0.0682911210	by adding
+0.0682428500	not require
+0.0682321904	the form of
+0.0682321904	a method to
+0.0682321904	the probability of
+0.0681051006	also presented
+0.0680852851	reduced by
+0.0680691751	regard to
+0.0680068184	report on
+0.0680014838	stack of
+0.0678750475	as high as
+0.0677432806	also shown
+0.0676883699	an adaptive
+0.0676732777	together with
+0.0675599416	the limitations of
+0.0674784871	assessed using
+0.0673950903	the proposed
+0.0672844442	an external
+0.0672321904	the interaction of
+0.0672321904	the sensitivity of
+0.0672321904	the size of
+0.0672321904	the rate of
+0.0672321904	a group of
+0.0672036344	signals from
+0.0671579098	calculated using
+0.0671490490	irradiated by
+0.0670000648	to prevent
+0.0669463460	generated from
+0.0669193695	demonstrated by
+0.0669177008	the time evolution
+0.0667451015	information on
+0.0667448278	with respect
+0.0666378320	with increasing
+0.0665117440	correlated with
+0.0663925363	assessed by
+0.0662986336	commonly used in
+0.0662829529	consisted of
+0.0662491456	a simple
+0.0662406026	agreement with
+0.0662321904	the classification of
+0.0662321904	the framework of
+0.0662321904	the domain of
+0.0662321904	the order of
+0.0662321904	the objective of
+0.0662291102	correlate with
+0.0656193900	control system
+0.0656026428	these techniques
+0.0655599416	the need of
+0.0654851442	each image
+0.0654387426	tool for
+0.0652321904	the surface of
+0.0652321904	the calculation of
+0.0652321904	the shape of
+0.0652321904	the position of
+0.0652321904	the magnitude of
+0.0652321904	the end of
+0.0652321904	the ratio of
+0.0652321904	the structure of
+0.0652321904	the principle of
+0.0652321904	the efficiency of
+0.0651143612	two types of
+0.0650115909	presence of
+0.0649301199	this purpose
+0.0648792380	while still
+0.0648075338	$ t
+0.0648042349	images from
+0.0646887426	sensitive to
+0.0645997499	an x ray
+0.0645398712	both methods
+0.0642321904	the measurement of
+0.0642321904	the process of
+0.0642321904	the reconstruction of
+0.0642321904	the resolution of
+0.0642321904	the response of
+0.0642321904	the value of
+0.0642321904	the time of
+0.0642321904	the optimization of
+0.0642321904	a system of
+0.0642321904	the type of
+0.0642321904	the segmentation of
+0.0642321904	the growth of
+0.0641454272	this study aims to
+0.0641449512	to produce
+0.0640655237	the movement of
+0.0640655237	a sequence of
+0.0640010315	by exploiting
+0.0637999818	measured at
+0.0637248232	comparable to
+0.0636574196	linked to
+0.0636490490	transition from
+0.0636432212	by analyzing
+0.0633758560	interacting with
+0.0632321904	the simulation of
+0.0632321904	the orientation of
+0.0632321904	a model of
+0.0632321904	the robustness of
+0.0632321904	the behavior of
+0.0632321904	the level of
+0.0632321904	the increase of
+0.0632321904	the result of
+0.0632321904	a study of
+0.0632321904	the variation of
+0.0630655237	the location of
+0.0630649507	to mitigate
+0.0629647750	an axial
+0.0628831952	subject to
+0.0628640475	shown to
+0.0628171634	widely used for
+0.0627509266	experiments on
+0.0627193944	an analysis
+0.0626826176	estimated from
+0.0624113361	created by
+0.0623935507	each other
+0.0623707622	$ p
+0.0623484248	research on
+0.0623091577	analyzed using
+0.0622321904	a sensitivity of
+0.0622321904	the motion of
+0.0622321904	the spectrum of
+0.0622321904	a resolution of
+0.0622321904	the improvement of
+0.0622321904	the volume of
+0.0622321904	the help of
+0.0622321904	the diagnosis of
+0.0622321904	the energy of
+0.0622321904	the thickness of
+0.0619311973	patients with
+0.0617575905	model for
+0.0615406201	evaluated on
+0.0615213629	the main
+0.0612493276	in accordance with
+0.0612321904	the output of
+0.0612321904	the geometry of
+0.0612321904	the solution of
+0.0612321904	a method of
+0.0611815516	opportunity to
+0.0611643581	easy to
+0.0611251154	immersed in
+0.0608638216	validated using
+0.0608383707	three types
+0.0608370374	$ ^ \
+0.0608207768	defined by
+0.0607917820	lies in
+0.0607551158	to reach
+0.0607464122	a better understanding
+0.0606593781	to extract
+0.0606482840	to handle
+0.0605905274	in turn
+0.0605810825	approach to
+0.0605021523	possibilities for
+0.0604089157	analysis of
+0.0603540516	used as
+0.0602974443	a better understanding of
+0.0602350838	samples from
+0.0602321904	the variability of
+0.0602321904	the propagation of
+0.0601825644	an inverse
+0.0601553316	by introducing
+0.0598795501	present work
+0.0597647721	an exact
+0.0596860906	measured using
+0.0596779335	approach allows
+0.0596654860	determined from
+0.0595096802	to construct
+0.0593949840	the current state of
+0.0593070916	an iterative
+0.0591949381	estimated by
+0.0591399647	limit of
+0.0590688903	diffusion time
+0.0589936689	the corpus
+0.0589599765	all other
+0.0589490749	an original
+0.0589079077	influence on
+0.0586979763	attempts to
+0.0585737132	this contribution
+0.0585130846	deal with
+0.0584827021	validated by
+0.0583713307	during treatment
+0.0583246898	to compare
+0.0583031762	obtained at
+0.0581249370	used to study
+0.0580737132	by solving
+0.0579587067	determined using
+0.0577204710	time dependence of
+0.0576315933	an open
+0.0575250888	model provides
+0.0574281457	reductions in
+0.0574010955	an algorithm
+0.0574007640	these properties
+0.0573082664	a novel
+0.0572977614	system consists
+0.0572412539	reconstructed using
+0.0572361968	methods such as
+0.0571840985	new approach
+0.0571831415	a consequence
+0.0571396053	the latter
+0.0571340153	hundreds of
+0.0571283823	detected by
+0.0571190117	implemented on
+0.0571007796	relative to
+0.0570766274	reconstructed from
+0.0569937866	to maintain
+0.0568633277	obtained using
+0.0567891858	to compute
+0.0565362394	conducted on
+0.0564980495	modeled by
+0.0564591420	achieved at
+0.0564135899	+ +
+0.0564064878	to apply
+0.0563569243	at risk
+0.0561446189	to study
+0.0560130406	this research
+0.0559730438	an error
+0.0559481413	in good agreement
+0.0558673362	this finding
+0.0557441630	perspectives for
+0.0557251428	a custom
+0.0557241907	response to
+0.0557215051	with regard to
+0.0556962303	the presence of
+0.0556663160	$ mm
+0.0555420186	scanning system
+0.0555358485	to adjust
+0.0554717156	distance from
+0.0554692405	\ textit in
+0.0554265536	to validate
+0.0554150662	evaluation of
+0.0553628088	two orders
+0.0553301308	but not
+0.0552336232	expected to
+0.0552064911	controlled by
+0.0551340153	versions of
+0.0551188045	at room
+0.0549898259	range from
+0.0549082664	a new
+0.0548477831	method provides
+0.0548154432	a broad
+0.0547075493	reduced from
+0.0546454962	tested using
+0.0546212606	to yield
+0.0545503354	acquired from
+0.0545096802	to create
+0.0544155819	an improvement
+0.0544054042	the k space
+0.0544040225	the surgeon
+0.0543787975	at 90
+0.0543137426	similar to
+0.0542891858	to enhance
+0.0542845234	extended to
+0.0542614790	appears to
+0.0542306187	applications such as
+0.0542147010	adapted to
+0.0542084135	then compared
+0.0541641292	this context
+0.0541377598	these algorithms
+0.0541258560	demand for
+0.0540453616	normal or
+0.0540435381	acquired using
+0.0540376720	this phenomenon
+0.0538297305	$ b
+0.0538132188	the time dependent
+0.0537962303	the use of
+0.0537172095	used for
+0.0536644491	on average
+0.0535704396	investigated using
+0.0535157689	the possibility
+0.0534876539	an artificial
+0.0534853287	time evolution
+0.0534605169	children with
+0.0534209096	a challenge
+0.0533600119	two different
+0.0532536544	to diagnose
+0.0532520351	feasibility of using
+0.0532000183	function of time
+0.0531998130	change in
+0.0531515290	the same
+0.0530885701	in vivo imaging of
+0.0530425227	coated with
+0.0530310561	not available
+0.0529885340	found to
+0.0529261236	or even
+0.0529026559	irradiated with
+0.0528076533	an example
+0.0526870679	a prototype
+0.0525340029	by providing
+0.0524643816	to eliminate
+0.0523416641	to enable
+0.0520667784	to measure
+0.0519844420	well as
+0.0518640536	to characterize
+0.0518594435	to monitor
+0.0518346155	to minimize
+0.0516962303	the purpose of
+0.0516541005	by estimating
+0.0515936497	obtained with
+0.0515544173	the field of view
+0.0514787885	distribution of
+0.0514299900	arrangement of
+0.0513837862	aims to
+0.0511894083	by measuring
+0.0511636232	validated on
+0.0511516365	investigated by
+0.0511374228	$ d
+0.0509224287	a large
+0.0508869848	calculated from
+0.0508640536	to explore
+0.0507418467	the eyeball
+0.0506965899	improved by
+0.0506962303	the aim of
+0.0505715247	a small
+0.0504912484	for head and neck
+0.0504543386	an integrated
+0.0504491334	coupled with
+0.0504071037	evaluated by
+0.0503703196	a unique
+0.0503141140	different tissues
+0.0502816874	increased by
+0.0501730846	contrary to
+0.0501721656	three different
+0.0501526285	intended to
+0.0501354856	converted to
+0.0500614410	study provides
+0.0500159186	framework for
+0.0499924559	usefulness of
+0.0499840029	this project
+0.0499433467	promise for
+0.0499420837	an active
+0.0499340736	a novel deep
+0.0499211236	a promising
+0.0498927315	account for
+0.0498121527	to reveal
+0.0497721853	by calculating
+0.0497628530	behaviour of
+0.0497606204	this goal
+0.0497542726	a comprehensive
+0.0497498798	to establish
+0.0497387229	to analyze
+0.0496548918	set of
+0.0496101422	acquired with
+0.0495846155	to recover
+0.0495803467	representation of
+0.0494859213	trained with
+0.0494749744	by performing
+0.0494367838	treated with
+0.0492934298	alternative to
+0.0492710053	an excellent
+0.0492593883	consists in
+0.0491896655	derivation of
+0.0491672657	degree of
+0.0491136160	formula for
+0.0489869392	the signal to noise
+0.0489755782	aspect of
+0.0489372157	evidence for
+0.0488656636	to interpret
+0.0488594435	to correct
+0.0488448123	fitted to
+0.0488187641	the thorax
+0.0487885184	access to
+0.0487740102	required for
+0.0486176774	effect of
+0.0486081382	application of
+0.0486027610	to accelerate
+0.0485900091	the desired
+0.0485188951	computed using
+0.0484761184	prior to
+0.0484677245	to form
+0.0483511897	width at
+0.0483010954	exploration of
+0.0482422731	algorithm for
+0.0482192563	tested with
+0.0481989969	to infer
+0.0481946275	lack of
+0.0481896655	prevalence of
+0.0481518323	to extend
+0.0481477542	needed for
+0.0481404764	often used
+0.0481383249	for solving
+0.0480763926	to capture
+0.0480298777	platform for
+0.0480064374	to exploit
+0.0479991025	an experimental
+0.0478913988	placed at
+0.0478670990	the new method
+0.0478498733	to meet
+0.0478012664	in good agreement with
+0.0477501514	in accordance
+0.0477166998	an experiment
+0.0476793657	studied using
+0.0476275275	both models
+0.0476252796	implications for
+0.0475678956	for predicting
+0.0475291998	an optimized
+0.0475291998	as input
+0.0474952262	$ r
+0.0474741578	employed to
+0.0474602582	to suppress
+0.0474602582	to tackle
+0.0473656632	a major
+0.0473601757	separation of
+0.0473529980	to compensate for
+0.0473060942	over time
+0.0472748568	found between
+0.0472718123	studied by
+0.0472672529	rise to
+0.0472222705	\ \
+0.0471820816	a wide
+0.0471632467	incorporation of
+0.0471354856	exploited to
+0.0470732558	a unified
+0.0470555187	by evaluating
+0.0470077407	these features
+0.0469684077	to support
+0.0469553053	by varying
+0.0469338306	the rest
+0.0469144965	role in
+0.0468547978	with varying
+0.0467764978	the case of
+0.0467685808	from undersampled
+0.0467593646	the first step
+0.0466849627	reduction in
+0.0466266790	construction of
+0.0465558194	to boost
+0.0465190233	achieved with
+0.0465052932	helps to
+0.0464244471	to in vivo
+0.0464240299	at 7
+0.0463448123	suitability of
+0.0461992617	occurrence of
+0.0461795550	a powerful
+0.0461631428	needed to
+0.0461570582	a smartphone
+0.0461418613	an energy
+0.0461224792	this challenge
+0.0460902150	a generic
+0.0460823303	to realize
+0.0459076207	different types
+0.0458772273	a good agreement
+0.0457992545	allowing for
+0.0457933051	to represent
+0.0457653507	a fixed
+0.0457623211	to acquire
+0.0457217983	equal to
+0.0456872131	an early
+0.0455951363	the relationship between
+0.0455854955	visualization of
+0.0455571476	to map
+0.0455417820	proven to
+0.0455001801	increase in
+0.0454160544	proved to
+0.0454150102	the effect of
+0.0452286489	individuals with
+0.0451154018	an increase
+0.0450660756	usage of
+0.0450537447	to account for
+0.0450282044	availability of
+0.0450212721	up to
+0.0450111133	attempt to
+0.0449807271	delivered to
+0.0449354842	possibility of
+0.0449179488	to verify
+0.0448996870	accumulation of
+0.0448845966	regardless of
+0.0448267455	three types of
+0.0448169305	superior to
+0.0447330960	to derive
+0.0447134034	to guide
+0.0446955720	required to
+0.0446783673	amount of
+0.0446528707	essential to
+0.0445197031	validity of
+0.0444876076	regulation of
+0.0444673868	embedded in
+0.0444527388	extraction of
+0.0444204113	in combination with
+0.0443921327	observation of
+0.0443778915	for studying
+0.0443760066	administration of
+0.0443504232	measured with
+0.0442889397	decrease in
+0.0442738581	for obtaining
+0.0442671812	a region of interest
+0.0441566696	advantage of
+0.0440935915	to mimic
+0.0440559426	to facilitate
+0.0440376720	an ultra
+0.0440194718	inserted in
+0.0440002292	to select
+0.0439943614	creation of
+0.0439116434	technique for
+0.0439054184	amounts of
+0.0438805080	by simulating
+0.0438674069	a variety of
+0.0438392011	also found
+0.0437677691	a commercial
+0.0437368205	sum of
+0.0437254962	estimated using
+0.0436012925	two orders of
+0.0434881861	to demonstrate
+0.0434826847	$ k
+0.0434150102	the performance of
+0.0432745069	to introduce
+0.0432692880	developed for
+0.0432092360	designed to
+0.0431881321	contained in
+0.0430889024	used in clinical
+0.0430511976	reconstructed with
+0.0430235324	performed with
+0.0429281851	resulting in
+0.0428674069	the ability of
+0.0428498710	kind of
+0.0428079254	improvement in
+0.0427880039	demonstration of
+0.0427833565	class of
+0.0427764978	a function of
+0.0427425338	an area
+0.0425761040	a modified
+0.0425303948	the number of
+0.0425295006	assessment of
+0.0424850159	a simplified
+0.0424760935	observed in
+0.0424419578	evolution of
+0.0424360289	determination of
+0.0424360289	nature of
+0.0424269249	to analyse
+0.0424221656	described by
+0.0424033077	an integral
+0.0423902360	differences in
+0.0423678753	production of
+0.0423093423	a novel method
+0.0422861923	dedicated to
+0.0422836033	sequences with
+0.0422763947	tools for
+0.0422358261	by reducing
+0.0422276996	in patients with
+0.0421989969	to integrate
+0.0421424063	across different
+0.0421228349	as expected
+0.0421055512	an existing
+0.0420587131	by minimizing
+0.0420200754	a viable
+0.0420077591	implemented in
+0.0419681620	approach for
+0.0419669725	acquired on
+0.0419634750	downstream of
+0.0419580011	a flexible
+0.0419452582	involved in
+0.0419074876	estimation of
+0.0418987786	comparison with
+0.0418498733	to differentiate
+0.0417837367	both simulated and
+0.0417261303	detection of
+0.0417045796	to illustrate
+0.0416968642	assumed to
+0.0416791104	coupled to
+0.0416693032	an application
+0.0416543306	investigation of
+0.0414259730	a convex
+0.0413877623	to learn
+0.0413768933	utility of
+0.0413105356	efficacy of
+0.0412257600	equivalent to
+0.0410570033	existence of
+0.0410376720	by taking
+0.0410210561	ability to
+0.0410024178	imaged with
+0.0409663090	$ =
+0.0409222275	an approach
+0.0409221953	interpretation of
+0.0409093647	designed for
+0.0408927468	used in
+0.0408372958	modification of
+0.0408195769	the beginning of
+0.0407279784	aimed to
+0.0406865975	advances in
+0.0406802714	result in
+0.0406586700	range of
+0.0406330498	the state of
+0.0404812741	for calculating
+0.0403877623	to build
+0.0403603834	an overview of
+0.0403369081	extension of
+0.0402754327	to test
+0.0402698187	considered to
+0.0401900660	contribution of
+0.0401429533	a significant
+0.0401361984	indicator of
+0.0400966336	identification of
+0.0400413926	methodology for
+0.0400367363	characterization of
+0.0400228543	desirable to
+0.0399689549	the fact
+0.0398865565	to separate
+0.0398652745	four different
+0.0398479055	an estimate of
+0.0398160245	family of
+0.0397860097	to increase
+0.0397665565	to explain
+0.0397376800	to deliver
+0.0396728565	result from
+0.0395672224	consequence of
+0.0395185163	to classify
+0.0394174972	origin of
+0.0394024178	expression for
+0.0393877623	to assist
+0.0393844947	novel approach to
+0.0393745798	by using
+0.0393538572	definition of
+0.0392936256	a set of
+0.0392491083	used to model
+0.0392261303	accuracy of
+0.0391989969	to visualize
+0.0391509315	1 2
+0.0390595607	adjustment of
+0.0388734986	development of
+0.0388047661	limited to
+0.0387850518	for measuring
+0.0387346970	as part of
+0.0387302144	in order
+0.0386347155	included in
+0.0385323303	to discriminate
+0.0384872324	the impact of
+0.0383706986	a detailed
+0.0383515403	integration of
+0.0383405247	a discussion
+0.0382346656	known as
+0.0382004709	to aid
+0.0380984638	the osteotomy
+0.0380930100	using monte
+0.0380561373	performance of
+0.0380414714	developed to
+0.0380337781	suited for
+0.0380262704	then used to
+0.0379412896	a proof of
+0.0379017764	both simulated
+0.0378429902	goal of
+0.0378201507	important for
+0.0377071680	employed in
+0.0377031379	specificity of
+0.0376721953	version of
+0.0375864388	the influence of
+0.0374684918	analyzed by
+0.0374296855	to follow
+0.0374283972	a subset of
+0.0374049861	to match
+0.0373746277	contact with
+0.0373709639	suited to
+0.0373704741	to decrease
+0.0373241170	emergence of
+0.0371989969	to highlight
+0.0371989969	to remove
+0.0371213039	the development of
+0.0370876016	changes in
+0.0370120597	proposed to
+0.0369932809	as well
+0.0369849096	to train
+0.0369479446	algorithms for
+0.0369401117	to segment
+0.0368429902	context of
+0.0368383305	added to
+0.0367931922	in comparison with
+0.0367868561	stability of
+0.0367672028	field of
+0.0366486307	an individual
+0.0365622468	connected to
+0.0365411905	the potential to
+0.0365320115	the degree of
+0.0365303948	the accuracy of
+0.0365274534	especially at
+0.0365057250	absence of
+0.0364982454	developed by
+0.0364283972	in front of
+0.0363964192	dependence of
+0.0363877623	to incorporate
+0.0362879670	vicinity of
+0.0362578368	organs at
+0.0362461709	to examine
+0.0362329978	majority of
+0.0361741931	for evaluating
+0.0361269249	to reproduce
+0.0360698627	reconstruction from
+0.0359284304	the well known
+0.0359283653	a semi
+0.0359259058	the same time
+0.0358394518	for improving
+0.0356615991	2 =
+0.0356165003	order to
+0.0356154102	a novel method for
+0.0356022295	an array of
+0.0355660756	crucial for
+0.0355303948	the effects of
+0.0354773478	speed of
+0.0354756492	means of
+0.0353877623	to define
+0.0353845347	the formation of
+0.0353737191	other methods
+0.0353346643	impact of
+0.0352975589	effects of
+0.0352163938	to fit
+0.0352085607	the center of
+0.0351627526	the analysis of
+0.0350672480	an overall
+0.0350589365	optimized for
+0.0349423657	even at
+0.0347936256	a factor of
+0.0347481483	the possibility to
+0.0347377042	quantification of
+0.0346648149	the vicinity of
+0.0345240395	a generalization of
+0.0345179715	understanding of
+0.0345052769	deviation of
+0.0344726547	to combine
+0.0344650542	the goal of
+0.0344507997	function of
+0.0344489079	this technology
+0.0343193708	the feasibility of
+0.0342251563	the detection of
+0.0341392836	a survey
+0.0341313926	applicability of
+0.0341116446	the spatial distribution of
+0.0339921589	most accurate
+0.0339667000	aiming to
+0.0339589663	the application of
+0.0339015805	occur in
+0.0338860179	potential for
+0.0338688365	stored in
+0.0338493883	a number of
+0.0338373165	in addition to
+0.0338187706	concern in
+0.0337757111	combination of
+0.0337481661	introduced to
+0.0336662327	for estimating
+0.0336545877	a large number of
+0.0335991823	the mechanical properties of
+0.0335144616	the emergence of
+0.0334845347	the context of
+0.0332902429	or without
+0.0332282103	to distinguish
+0.0332014783	for analyzing
+0.0331776431	the strength of
+0.0330989365	procedure for
+0.0330826244	success in
+0.0329673810	the present work
+0.0329342244	peak to
+0.0329148149	an increase in
+0.0328337718	by more than
+0.0327186174	an optimization
+0.0326724868	implementation of
+0.0326572620	the importance of
+0.0325646213	the validity of
+0.0325498316	the difference between
+0.0325050317	interaction with
+0.0324534719	the occurrence of
+0.0324222974	the effectiveness of
+0.0324119946	to induce
+0.0323861707	an appropriate
+0.0323626624	a new method for
+0.0323145736	a popular
+0.0323135474	purpose of
+0.0323054248	a review of
+0.0322667555	in terms
+0.0321488197	an analysis of
+0.0321051841	necessary to
+0.0319747712	the utility of
+0.0319351126	biomarkers for
+0.0319176379	needs to
+0.0318839849	a few
+0.0317983327	the absence of
+0.0317689275	an accuracy of
+0.0317547649	influence of
+0.0317323397	as compared to
+0.0317216045	a pair of
+0.0316848736	basis for
+0.0316575329	reproducibility of
+0.0314730091	integrated with
+0.0314690081	laplacian of
+0.0314119946	to record
+0.0313489828	in case of
+0.0313184989	the presence
+0.0313015460	strength of
+0.0311411905	the need for
+0.0311313926	reliability of
+0.0311123483	seems to
+0.0310626585	an order of
+0.0309918157	for determining
+0.0309418738	types of
+0.0308968944	the production of
+0.0308809943	for reconstructing
+0.0308240430	a person
+0.0307853663	sufficient to
+0.0306265648	the field of
+0.0306067562	the choice of
+0.0305964511	an alternative to
+0.0305795719	choice of
+0.0305323889	severity of
+0.0303932890	a narrow
+0.0303640903	reconstruction via
+0.0302935099	to describe
+0.0302789176	3d dose
+0.0302756823	the lack of
+0.0301830042	a method for
+0.0301565022	the complexity of
+0.0300916487	novel method
+0.0300338099	found at
+0.0300126593	as much
+0.0300123799	a comparison of
+0.0300022481	a reasonable
+0.0299712933	the distance between
+0.0299048956	library for
+0.0298473331	a spatial resolution of
+0.0297474112	the reliability of
+0.0297435438	to exhibit
+0.0297126191	the existence of
+0.0296544601	available at
+0.0296488197	the possibility of
+0.0296479199	potential to
+0.0296235910	formulation for
+0.0296111194	to access
+0.0295473601	a need for
+0.0294923889	located in
+0.0294802064	a lack of
+0.0294717308	the evaluation of
+0.0294565792	the distribution of
+0.0293041661	combination with
+0.0292945507	feasibility of
+0.0292499065	appear to
+0.0292319140	the usefulness of
+0.0292080957	a range of
+0.0291962002	the onset of
+0.0291775231	introduction of
+0.0291411905	a combination of
+0.0290988543	the interaction between
+0.0289692045	generalization of
+0.0289549188	adopted to
+0.0289411466	the ability to
+0.0289012550	the efficacy of
+0.0287878728	a framework for
+0.0287861894	a new approach to
+0.0287860952	region of
+0.0287327232	aid in
+0.0286736165	terms of
+0.0285135768	inclusion of
+0.0284933467	possible to
+0.0284923889	utilized for
+0.0284565792	the range of
+0.0284447074	in agreement with
+0.0283861707	by considering
+0.0283816746	extent of
+0.0282672144	effort to
+0.0282049940	correct for
+0.0281953953	taken from
+0.0281904242	effectiveness of
+0.0280651171	imaging at
+0.0280645503	the majority of
+0.0279300058	for example
+0.0279297437	centre of
+0.0279203498	orders of
+0.0278866981	better understanding of
+0.0278392855	aim of
+0.0277403078	the evolution of
+0.0276936969	for assessing
+0.0275894822	by use of
+0.0275580026	to find
+0.0273888175	variant of
+0.0273195041	done by
+0.0273049626	along with
+0.0272593722	onset of
+0.0271379490	the course of
+0.0270482264	also compared
+0.0269934991	to get
+0.0268365264	idea of
+0.0268185286	the inverse problem of
+0.0268115724	depth of
+0.0267534198	subset of
+0.0266479199	important to
+0.0265904749	well as in
+0.0265117044	the feasibility of using
+0.0264138673	proof of
+0.0262918018	useful for
+0.0262403858	a comparative
+0.0261889343	to make
+0.0260403078	in response to
+0.0260326002	the first
+0.0259878836	a clear
+0.0258098169	for detecting
+0.0257298355	time resolution of
+0.0257156431	made by
+0.0255904749	a region of
+0.0255734435	the amount of
+0.0255617377	a factor
+0.0254586993	way to
+0.0254304953	instead of
+0.0254265125	first time
+0.0253816746	essential for
+0.0253636605	the absence
+0.0251783711	the idea of
+0.0251657229	degrees of
+0.0251656701	the advantage of
+0.0250763802	down to
+0.0248976499	to contain
+0.0248808217	the determination of
+0.0248521464	to allow
+0.0248275190	given by
+0.0247938118	to noise
+0.0246726385	the image quality of
+0.0246325220	to give
+0.0245809554	the introduction of
+0.0245548923	an array
+0.0245348440	allows for
+0.0245015530	system based on
+0.0243768093	part of
+0.0242596541	the applicability of
+0.0241585082	performed to
+0.0241262911	to help
+0.0241210079	the region of
+0.0240667680	the depth of
+0.0240318583	the assessment of
+0.0239741283	placed in
+0.0237526731	complexity of
+0.0237019864	case of
+0.0234573721	the combination of
+0.0233173344	same time
+0.0232939243	center of
+0.0231960834	utilized to
+0.0231210079	the data from
+0.0230770425	the validity
+0.0230441131	made on
+0.0229513834	the construction of
+0.0228951064	the speed of
+0.0227962047	likely to
+0.0226505632	the inclusion of
+0.0226457912	for characterizing
+0.0225542206	new method
+0.0225056233	the set of
+0.0224066021	corresponding to
+0.0223708555	signal to
+0.0222494805	as well as to
+0.0222384207	a given
+0.0222207780	for generating
+0.0222142238	allows to
+0.0221951308	enough to
+0.0221900463	the region of interest
+0.0221455820	to use
+0.0220953034	discussion of
+0.0220791346	the reproducibility of
+0.0220383900	to deal
+0.0219876441	the most
+0.0219556414	necessary for
+0.0218265536	useful to
+0.0218245033	placed on
+0.0217879029	the existence
+0.0216137211	time series of
+0.0215941132	the dependence of
+0.0215400865	kinetics of
+0.0213957284	an example of
+0.0213362045	the basis for
+0.0212832159	allow for
+0.0212400463	the contribution of
+0.0211626710	need to
+0.0209665349	the stability of
+0.0209452759	also used to
+0.0209360266	estimation from
+0.0208951064	and specificity of
+0.0208422925	the understanding of
+0.0208422925	the nature of
+0.0207647760	the availability of
+0.0207029893	then used
+0.0205941132	the estimation of
+0.0204860155	the imaging system
+0.0203941132	the implementation of
+0.0203806233	the signal to
+0.0203691170	a generalization
+0.0203328822	use of
+0.0200574440	the characterization of
+0.0200279339	the creation of
+0.0200208474	to offer
+0.0196336916	to consider
+0.0195661237	this method to
+0.0195297546	the identification of
+0.0194290617	of interest
+0.0194157301	possibility to
+0.0193511933	as well as for
+0.0193362045	a change in
+0.0192228170	need for
+0.0191833060	to take
+0.0189932803	new approach to
+0.0189298183	a proof
+0.0188735414	beginning of
+0.0186860266	conducted to
+0.0186264187	for detection of
+0.0185993624	the potential for
+0.0185952445	course of
+0.0184891170	a subset
+0.0184891170	a pair
+0.0183475618	the aim
+0.0183441132	the quantification of
+0.0181814145	point of
+0.0181768642	addition to
+0.0181591568	the way to
+0.0181591568	the need to
+0.0180474310	seen in
+0.0179952369	to end
+0.0178574440	a model for
+0.0178422925	of interest in
+0.0176264187	a tool for
+0.0175877282	the investigation of
+0.0174214238	an accuracy
+0.0171593557	demonstrated to
+0.0168765536	associated to
+0.0168461271	tomography system
+0.0167351218	as well as in
+0.0163133580	importance of
+0.0161442259	to present
+0.0157010822	a combination
+0.0154568290	higher in
+0.0151941368	to process
+0.0149109913	front of
+0.0142533994	novel method for
+0.0137174051	to set
+0.0132709433	new method for
+0.0131607234	help to
+0.0109803374	so as
+0.0107245169	work with
+0.0099107720	the best
+0.0097441247	to within
+0.0097245169	to work
+0.0096191247	first to

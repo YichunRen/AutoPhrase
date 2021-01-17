@@ -1,0 +1,5819 @@
+0.9690298355	los alamos
+0.9642287543	faraday cup
+0.9606644294	brookhaven national laboratory
+0.9598227454	peking university
+0.9584479132	storage ring
+0.9582808503	paul scherrer institute
+0.9574936379	neural networks
+0.9526359450	siberian snakes
+0.9518730103	compton scattering
+0.9506570581	permanent magnet
+0.9504607945	spallation neutron source
+0.9502356733	monte carlo
+0.9487100932	synchrotron radiation
+0.9474389258	renormalization group
+0.9470477136	mbn explorer
+0.9466442543	storage rings
+0.9462109575	rutherford appleton laboratory
+0.9458900872	pair production
+0.9457471087	machine learning
+0.9456236895	international linear collider
+0.9453996557	quantum electrodynamics
+0.9451013673	maxwell's equations
+0.9450914284	spontaneous emission
+0.9449919594	standing wave
+0.9440254123	relational database
+0.9437470324	phase space
+0.9434796727	lawrence berkeley
+0.9433714261	thomson scattering
+0.9424570480	nuclear physics
+0.9416982798	higgs boson
+0.9411636809	a0 photoinjector
+0.9396683325	electric dipole moment
+0.9391819110	special relativity
+0.9389140545	radio frequency
+0.9380663644	continuous wave
+0.9375462361	group velocity
+0.9374323552	liquid hydrogen
+0.9372459765	paul scherrer
+0.9370979643	crab waist
+0.9369771913	travelling wave
+0.9369306340	skin effect
+0.9367958071	advanced photon source
+0.9364408962	space charge
+0.9356883894	charged particle
+0.9356833300	cp violation
+0.9356531790	lorentz force
+0.9356484933	orbital angular momentum
+0.9352927430	vacuum chamber
+0.9351755134	bend achromat
+0.9345830675	vlasov equation
+0.9340263709	cern accelerator school
+0.9329834805	european xfel
+0.9329215004	fermi national accelerator laboratory
+0.9328354700	angular momentum
+0.9328132412	room temperature
+0.9321369212	green's function
+0.9320302311	gamma rays
+0.9317909040	doppler effect
+0.9314353855	electric field
+0.9313624241	quantum mechanics
+0.9312262810	finite element
+0.9288970764	magnetic fields
+0.9282161924	neural network
+0.9281086966	perturbation theory
+0.9278573752	compton backscattering
+0.9273106634	data acquisition
+0.9263502323	standard model
+0.9259000848	dirac equation
+0.9256402316	electromagnetic waves
+0.9254180030	fourier transform
+0.9253440229	rapid cycling synchrotron
+0.9249390357	jefferson lab
+0.9243855169	rare isotope
+0.9234464416	liquid helium
+0.9233840307	power supply
+0.9231939244	proton improvement plan
+0.9222111694	oak ridge
+0.9219450724	quantum efficiency
+0.9214865328	ingot niobium
+0.9214451117	slow extraction
+0.9213677001	beta functions
+0.9212436985	ground motion
+0.9211682404	normal conducting
+0.9209918737	temporal resolution
+0.9206740456	genetic algorithm
+0.9205826214	ab initio
+0.9205000678	landau damping
+0.9204241747	bent crystal
+0.9202013719	steady state
+0.9198571309	magnetic field
+0.9194272309	emittance exchange
+0.9185934505	dynamic aperture
+0.9181756755	shot noise
+0.9180310410	positively charged
+0.9179798031	stainless steel
+0.9178631925	distribution function
+0.9168925495	dark matter
+0.9163424931	secondary electron yield
+0.9160505856	cherenkov radiation
+0.9159178337	lorentz factor
+0.9153138418	relativistic heavy ion collider
+0.9150784734	alternating gradient
+0.9144759731	slowly varying
+0.9140815157	white paper
+0.9138278019	linearly polarized
+0.9135184674	pair creation
+0.9132708352	electromagnetic wave
+0.9130439711	photonic crystal
+0.9129884690	insertion devices
+0.9129261700	jlc nlc
+0.9128125720	emittance growth
+0.9128022905	magnetic moment
+0.9127746322	boundary condition
+0.9125434351	single crystal
+0.9121665577	electric fields
+0.9121543195	finite difference
+0.9115036892	main injector
+0.9113534850	analytical expression
+0.9104874593	operational experience
+0.9100489378	tightly focused
+0.9081758952	shanghai deep
+0.9080115754	resistive wall
+0.9077403397	nuclear reactions
+0.9076032255	csns rcs
+0.9069106989	electron microscopy
+0.9068497685	hefei light source
+0.9067431519	ion source
+0.9064673151	transformer ratio
+0.9064296405	horizontal plane
+0.9062465950	halo formation
+0.9060045487	betatron oscillations
+0.9059153599	mm diameter
+0.9057976786	neutron source
+0.9057167068	electron gun
+0.9056726036	cross section
+0.9050099304	circular polarization
+0.9049446795	tune shift
+0.9044093732	maxwell equations
+0.9043012401	bunch train
+0.9042967816	neutrino oscillation
+0.9041953580	bent crystals
+0.9041083019	quality factor
+0.9039715498	heavy ion
+0.9039039446	twisted photons
+0.9036223522	transfer function
+0.9035721974	surface roughness
+0.9035072855	negatively charged
+0.9034657443	volume reflection
+0.9026851888	pion production
+0.9023521548	wave packet
+0.9021837365	bunch length
+0.9021541568	boundary conditions
+0.9020699345	phase velocity
+0.9020172226	radiation damage
+0.9014491117	chemical polishing
+0.9011172622	coherence length
+0.9009272475	straight sections
+0.9008816090	super proton synchrotron
+0.9006880593	inverse compton scattering
+0.9006410225	piwinski angle
+0.9006156680	bulk niobium
+0.9004721273	residual gas
+0.9003848115	cryogenic temperatures
+0.9003380503	light sources
+0.9002251359	electric dipole moments
+0.9001912586	longitudinally polarized
+0.8998823263	grain boundaries
+0.8996555094	gas jet
+0.8995247627	feedback loops
+0.8990541880	half integer
+0.8990432794	particle physics
+0.8989649521	phase advance
+0.8988957421	harmonic generation
+0.8986103177	marx generator
+0.8982620779	closed form
+0.8980237644	vector potential
+0.8979590664	parameter space
+0.8979354146	clearing electrodes
+0.8973440694	elastic scattering
+0.8969550837	dechanneling length
+0.8965459323	gamma ray
+0.8965101038	intrabeam scattering
+0.8964663630	power supplies
+0.8959227979	skew quadrupole
+0.8955043046	traveling wave
+0.8954401473	transfer map
+0.8945740931	systematic error
+0.8945132733	scaling laws
+0.8945117427	interaction points
+0.8944790517	ionization cooling
+0.8944285662	technical design report
+0.8941699277	higgs factory
+0.8937799081	tune shifts
+0.8933132623	wigner rotation
+0.8932585199	energy spread
+0.8932082110	analytical formulae
+0.8931887169	mm mrad
+0.8931360274	final focus
+0.8930461519	tracking code
+0.8927684092	lorentz force detuning
+0.8927294269	china spallation neutron source
+0.8927179531	hard edge
+0.8924176073	beta function
+0.8921309758	ponderomotive force
+0.8919035053	emittance dilution
+0.8918342531	quench protection
+0.8917495871	free electron laser
+0.8915081770	wavelength range
+0.8914401977	analytical solution
+0.8912633019	transfer matrix
+0.8912137755	transfer maps
+0.8909760019	dipole magnet
+0.8907180913	quarter wave
+0.8907179686	thomas jefferson national accelerator
+0.8905222908	working point
+0.8902721620	damping ring
+0.8901944170	closed orbit
+0.8901207981	parameter sets
+0.8895354628	momentum compaction
+0.8895208117	decay pipe
+0.8891814308	free electron lasers
+0.8887831156	experimental setup
+0.8886315376	proton driver
+0.8885935349	spatial resolution
+0.8883841731	beam position monitors
+0.8881177623	thermionic gun
+0.8880593924	acoustic wave
+0.8879422373	flux expulsion
+0.8879291137	neutrino factory
+0.8877426903	externally injected
+0.8875917271	single shot
+0.8873931573	heat transfer
+0.8873895100	transport lines
+0.8873423975	accelerating structures
+0.8873360584	years ago
+0.8872138769	field strength
+0.8866921765	working group
+0.8864974851	bmt equation
+0.8864536628	wake fields
+0.8864022025	charged particles
+0.8863032003	surface resistance
+0.8860705361	rutherford appleton
+0.8857517289	systematic errors
+0.8855266988	probability distribution
+0.8851439001	higgs factories
+0.8850971238	accelerating gradients
+0.8849966720	pulse width
+0.8846564945	energy recovery linac
+0.8845428632	duty factor
+0.8838693701	test stand
+0.8836405722	particle accelerators
+0.8835297231	long baseline neutrino
+0.8834488433	ion beams
+0.8834027961	discovery potential
+0.8831233989	density profile
+0.8830073794	basic concepts
+0.8828411598	hls ii
+0.8827782381	electron cloud
+0.8825332437	wedge absorbers
+0.8824475645	dynamic range
+0.8824185784	betatron motion
+0.8822601833	special attention
+0.8821707639	normal zone
+0.8819617693	starting point
+0.8819424380	poisson equation
+0.8818874318	quantum mechanical
+0.8818662670	microbunching gain
+0.8818013684	pulse duration
+0.8817942595	fringe field
+0.8816554319	quality factors
+0.8816528524	shunt impedance
+0.8814785442	cancer therapy
+0.8813233573	repetition rate
+0.8813068029	electron lenses
+0.8811781671	transport line
+0.8811141701	radiation reaction
+0.8809985801	electromagnetic fields
+0.8807306858	crystallographic planes
+0.8805154233	helical undulator
+0.8802684726	international collaboration
+0.8801802148	rf gun
+0.8801652822	radioactive ions
+0.8798867372	planar channeling
+0.8798706848	undulator tapering
+0.8796219765	heat treatment
+0.8794156776	scaling law
+0.8791659437	rest frame
+0.8791210079	anomalous magnetic moment
+0.8790534247	crystalline undulator
+0.8790417618	single crystals
+0.8789992900	higher order
+0.8787985865	transition crossing
+0.8783385737	blowout regime
+0.8783264049	heat load
+0.8782334485	magnetic flux
+0.8780699036	heavy ions
+0.8777705300	narrow bandwidth
+0.8776239792	superconducting magnets
+0.8775060743	inverse compton
+0.8773924171	cern sps
+0.8773182222	bending magnet
+0.8773139569	atf damping ring
+0.8773035556	light speed
+0.8770157778	mass spectrometry
+0.8766360654	frictional cooling
+0.8761870639	energy recovery linacs
+0.8760782523	long term
+0.8760257365	thermal emittance
+0.8759739475	neutralized drift
+0.8759285266	mars15 code
+0.8759022350	isotope production
+0.8758275150	interaction point
+0.8757847167	user facility
+0.8754608594	future circular collider
+0.8752823027	electrical breakdown
+0.8749608177	linear accelerator
+0.8745250984	large hadron collider
+0.8745071639	linac coherent light source
+0.8741927430	permanent magnets
+0.8741699410	peak power
+0.8738922234	surface treatments
+0.8738912063	circularly polarized
+0.8738623748	superfluid helium
+0.8738470757	tune spread
+0.8738161716	beam position monitor
+0.8735489078	silicon crystal
+0.8734944896	ecr ion source
+0.8734757152	feasibility study
+0.8733296055	timing jitter
+0.8728165020	drift tube
+0.8727759422	helium bath
+0.8727534693	sterile neutrinos
+0.8727179468	bloch equation
+0.8723526886	energy recovery
+0.8722425773	vacuum chambers
+0.8722324053	hadron therapy
+0.8721884206	perfectly conducting
+0.8720825404	limiting factor
+0.8719239154	linear collider
+0.8718695019	high brightness
+0.8718198141	active medium
+0.8715386679	feedback systems
+0.8712231520	momentum spread
+0.8711205964	combined function
+0.8708324641	boosted frame
+0.8703291430	superconducting magnet
+0.8702808474	takes place
+0.8701612345	superconducting radiofrequency
+0.8700817597	largest scientific
+0.8699637969	neutrino factories
+0.8698614738	upper limit
+0.8696948163	experimental hall
+0.8696745368	streak camera
+0.8695584819	plasma waves
+0.8690530214	energy deposition
+0.8689119522	eddy current
+0.8684372668	specially designed
+0.8684270698	article presents
+0.8681097867	dipole moment
+0.8679654714	planar undulator
+0.8676657504	analytical formulas
+0.8676593200	conceptual design report
+0.8675098140	exact solution
+0.8672268181	excellent agreement
+0.8672074798	fixed field alternating gradient
+0.8672019317	momentum compaction factor
+0.8671002528	vibrating wire
+0.8670570494	bunch compressor
+0.8669397455	plasma wakefield acceleration
+0.8669387433	hydrogen gas
+0.8668430279	test bench
+0.8664540118	systematic uncertainty
+0.8664367793	newly developed
+0.8662781409	damped detuned
+0.8661413359	frozen spin
+0.8657777707	high gradient
+0.8657430490	output power
+0.8656612010	experience gained
+0.8655809835	spectral density
+0.8655756215	cross sections
+0.8652920270	stopping power
+0.8652658575	linear colliders
+0.8651345620	crossing angle
+0.8647031410	dipole magnets
+0.8640158403	witness bunch
+0.8639078330	light source
+0.8638591042	repetition rates
+0.8636981809	lcls baseline
+0.8633841305	energy frontier
+0.8633008473	field emission
+0.8629498533	magnetic chicane
+0.8628667359	dark current
+0.8628318294	shintake monitor
+0.8627871308	betatron tune
+0.8627140099	differential equations
+0.8626407782	bunch trains
+0.8625827690	bunch spacing
+0.8624538312	spin motion
+0.8624421520	growth rate
+0.8624035904	straight section
+0.8624018428	fringe fields
+0.8623748179	machine protection
+0.8623358879	accelerating structure
+0.8623195060	test facility
+0.8620654726	transition radiation
+0.8618393969	intensity frontier
+0.8616902699	lab frame
+0.8616894677	hadron colliders
+0.8614687313	penetration depth
+0.8612022647	twisted photon
+0.8607653327	pulse durations
+0.8606802614	spin precession
+0.8606355977	circular accelerators
+0.8601427996	superconducting radio frequency
+0.8594570825	periodically bent
+0.8593693895	planar undulators
+0.8592929527	accelerating gradient
+0.8592595728	interaction region
+0.8588570834	frequency shift
+0.8588130765	high intensity
+0.8581433758	ultrafast electron diffraction
+0.8581064019	energy chirp
+0.8580891470	proton synchrotron
+0.8579950414	gas flow
+0.8575302144	wave breaking
+0.8571188311	target station
+0.8567923202	frequency domain
+0.8567769126	conceptual designs
+0.8564539336	short bunches
+0.8562140579	fermilab booster
+0.8561730600	fully coherent
+0.8560158723	seed laser
+0.8558394581	spot size
+0.8558359386	short wavelength
+0.8557604325	special emphasis
+0.8557388796	harmonic lasing
+0.8557323314	loading effect
+0.8554093390	current density
+0.8551562573	solid state
+0.8550536249	beam dynamics
+0.8549580617	plasma wakefields
+0.8547146911	photonic crystals
+0.8542124685	space charge forces
+0.8542055632	particle tracking
+0.8541165657	analytical formula
+0.8538156541	bragg reflection
+0.8536900252	superheating field
+0.8535889473	tev scale
+0.8535564837	ka peak
+0.8530003587	closed loop
+0.8529900546	wire scanners
+0.8529448084	3rd harmonic
+0.8528774478	plane wave
+0.8528489421	radiation pressure
+0.8525182633	pulse compression
+0.8523703385	experimental evidence
+0.8522548494	dc gun
+0.8517255119	high energy physics
+0.8516541003	run ii
+0.8515023212	colliding beams
+0.8514937254	superconducting rf
+0.8513113944	power converters
+0.8509407929	key element
+0.8507711850	diamond crystal
+0.8504987552	recently proposed
+0.8503425361	nitrogen doping
+0.8502218741	higher order modes
+0.8501814579	sase fel
+0.8499700731	highly charged ions
+0.8498982150	rectangular waveguide
+0.8498176675	vortex penetration
+0.8497996469	parallel plate
+0.8497831847	transmission line
+0.8497805402	circuit model
+0.8497711435	user interface
+0.8493184981	cutting edge
+0.8490009980	profile monitors
+0.8486790533	damping rings
+0.8484478569	residual resistance
+0.8483645066	simulation code
+0.8482897415	electromagnetic field
+0.8482170076	bunch compression
+0.8481498339	superconducting cavities
+0.8479439540	bunch compressors
+0.8478385635	nitrogen doped
+0.8473934871	stochastic cooling
+0.8472348993	integrable optics
+0.8471881682	laser pulse
+0.8464610997	srf cavity
+0.8463378253	muon collider
+0.8463321490	growth rates
+0.8460547463	hamiltonian systems
+0.8459171010	srf cavities
+0.8458180447	power consumption
+0.8456519451	secondary electron emission
+0.8455652095	thz pulses
+0.8455530431	muon colliders
+0.8453620683	radioactive ion beams
+0.8451475678	twiss parameters
+0.8449479256	temperature rise
+0.8448077837	coherent synchrotron radiation
+0.8447446455	numerical simulations
+0.8442047098	meter long
+0.8440183990	focal spot
+0.8440097259	data taking
+0.8439810269	ion beam
+0.8439617752	km circumference
+0.8437961875	quantum recoil
+0.8435038662	accumulator ring
+0.8434742964	helical radiator
+0.8432620370	crab cavity
+0.8428017239	axially symmetric
+0.8426541369	accelerator complex
+0.8425779660	crab waist collision
+0.8423932565	crucial role
+0.8423519767	tapered undulator
+0.8422181137	low beta
+0.8421168035	muon campus
+0.8417424007	flux trapping
+0.8417325825	synchrotron light source
+0.8411766942	fodo lattice
+0.8408264392	analytical estimates
+0.8407674971	angular distribution
+0.8401759755	analytical expressions
+0.8401113964	photon colliders
+0.8399586488	fermi national
+0.8398411186	muon ionization cooling experiment
+0.8397022093	coulomb scattering
+0.8395597766	rf voltage
+0.8394956133	revolution frequency
+0.8392740386	paper describes
+0.8390459645	percent level
+0.8389713656	dielectric loaded
+0.8387769752	lepton collider
+0.8387130108	single pass
+0.8386301833	document describes
+0.8385454398	nanometer scale
+0.8383842360	trapped magnetic flux
+0.8383765149	cornell electron storage ring
+0.8381988996	single spoke
+0.8381782020	cooling channel
+0.8380188364	optical transition radiation
+0.8379974771	dipole modes
+0.8377524864	crystal collimation
+0.8376805630	disk loaded
+0.8376439244	transverse mode coupling instability
+0.8374842951	gas filled
+0.8372664281	` `
+0.8365229002	european spallation source
+0.8364719844	integrated luminosity
+0.8359109762	beam loading
+0.8358520515	experimental data
+0.8357148153	thermal wave model
+0.8353331660	low emittance
+0.8353243873	signal processing
+0.8353006797	bunch lengths
+0.8343774219	phase modulation
+0.8343653116	world class
+0.8342277582	fermilab main injector
+0.8337117231	electron clouds
+0.8336153699	enhancement factor
+0.8329577823	accelerating cavities
+0.8328987645	linear accelerators
+0.8327929378	bent silicon
+0.8325532243	quantum theory
+0.8321341530	dielectric lined
+0.8315983291	beam loss
+0.8315610095	laser pulses
+0.8311667573	gaussian distribution
+0.8311366577	bending magnets
+0.8307254763	hadron collider
+0.8305954741	resonance frequency
+0.8304055843	ultra short
+0.8299791254	energy gain
+0.8298313382	oak ridge national
+0.8291722358	compact linear collider
+0.8291385706	kicker magnets
+0.8291384287	integrable optics test accelerator
+0.8288926601	higher order mode
+0.8285352624	numerical cherenkov instability
+0.8284648626	recycler ring
+0.8284528767	collective effects
+0.8281944766	helium gas
+0.8280387072	linear optics
+0.8279308372	thomas jefferson
+0.8276270518	multiple scattering
+0.8271556838	energy loss
+0.8269565669	microbunching instability
+0.8265997692	numerical simulation
+0.8260547165	power converter
+0.8259690772	high fidelity
+0.8258574557	narrow band
+0.8255173601	electron diffraction
+0.8253951283	medical applications
+0.8252744753	periodically bent crystals
+0.8251498365	positron source
+0.8250576158	muon cooling
+0.8250231539	machine detector interface
+0.8246868340	proton therapy
+0.8246674536	vertical emittance
+0.8243480040	alamos national
+0.8242043255	ginzburg landau
+0.8241080242	large grain
+0.8240268002	physics motivation
+0.8238940338	diffraction radiation
+0.8238774986	ion sources
+0.8235547126	rapid cycling
+0.8233732431	simulation codes
+0.8233229997	wall plug
+0.8232870500	low level rf
+0.8231585270	minimum emittance
+0.8231099224	lorentz boosted
+0.8228801286	cooling water
+0.8226671241	unprecedented precision
+0.8225256959	successfully tested
+0.8221525283	proton linac
+0.8218650472	cyclotron resonance ion source
+0.8215695876	transverse profile
+0.8214170624	rf breakdown
+0.8213917319	photo injector
+0.8209485618	eli np
+0.8197930022	conversion efficiency
+0.8197917924	gamma factory
+0.8195413791	average power
+0.8192867601	linear induction
+0.8192736214	low energy
+0.8190172204	lepton colliders
+0.8189270841	transverse deflecting
+0.8188365518	large scale
+0.8188056446	external fields
+0.8185414301	hl lhc
+0.8184956571	high power
+0.8182001838	awake experiment
+0.8177734814	proton bunch
+0.8177238950	high luminosity
+0.8176654805	fowler nordheim
+0.8174857946	bending radius
+0.8173991543	thz radiation
+0.8172475681	spoke cavity
+0.8172441030	transfer line
+0.8169618940	ionization injection
+0.8167722350	charge state
+0.8167276877	synchronous phase
+0.8164931706	china ads
+0.8163148503	smith purcell
+0.8162436950	paper discusses
+0.8158604808	ac dipole
+0.8158226621	kinetic energy
+0.8156899654	crab cavities
+0.8153547217	national laboratory
+0.8153227377	electron lens
+0.8152077761	experimental results
+0.8151371030	coherent radiation
+0.8150477479	crystal monochromator
+0.8150022374	physical processes
+0.8146289452	electro optic
+0.8143092835	cern large hadron collider
+0.8142699290	multi objective genetic
+0.8142680966	scherrer institute
+0.8140554462	plasma wakefield
+0.8138976262	key components
+0.8137283323	trapped flux
+0.8136932583	courant snyder
+0.8134434871	accelerator physics
+0.8133839739	physics programme
+0.8130995855	niobium cavities
+0.8127656259	tunable gap
+0.8122462077	normalized emittance
+0.8121557775	radio frequency quadrupole
+0.8118799052	retarding field
+0.8116654805	lienard wiechert
+0.8115968569	optical stochastic cooling
+0.8115345291	head tail
+0.8113948556	neutrino beams
+0.8112996917	charge exchange
+0.8110776408	beam line
+0.8108052729	experimental program
+0.8104116674	analytical model
+0.8102234193	physics program
+0.8099587227	low energy beam transport
+0.8094363774	laser wakefield acceleration
+0.8094277371	spallation neutron
+0.8092524170	correlated energy spread
+0.8092343287	density modulation
+0.8091629873	relativistic electrons
+0.8087501389	space charge dominated
+0.8085128219	electron bunch
+0.8084061095	fine grain
+0.8079203525	transverse emittance
+0.8077452195	hollow channel
+0.8077071069	high current
+0.8076012479	gw level
+0.8072115117	high repetition rate
+0.8071471549	booster synchrotron
+0.8069263292	charge density
+0.8065897142	laser driven
+0.8063788698	normal mode
+0.8062906928	multilayer coating
+0.8056426679	fokker planck
+0.8055942816	plasma channels
+0.8051807333	form factor
+0.8046040433	photon emission
+0.8045179370	energy spectrum
+0.8044618785	loss monitors
+0.8042950149	micro bunching
+0.8038948791	total angular momentum
+0.8037437952	electron beam
+0.8036399060	vertex detector
+0.8035813184	preliminary results
+0.8033574777	density gradient
+0.8033135816	wide band
+0.8031059645	future linear colliders
+0.8028464683	thomas jefferson national
+0.8027890265	transform limited
+0.8027380680	great potential
+0.8022846570	china spallation neutron
+0.8021509228	vlasov maxwell
+0.8020970836	technical challenges
+0.8018518255	appleton laboratory
+0.8014633788	leakage field
+0.8014243382	acceleration gradient
+0.8014062270	low temperature
+0.8013776393	rf cavities
+0.8013517447	petawatt laser
+0.8012700034	deflection angle
+0.8010935703	extraction line
+0.8010620850	total collisions created
+0.8007247913	recent developments
+0.8005424535	high energy
+0.8004920429	multi objective
+0.8004900212	slice energy spread
+0.8003654432	particle accelerator
+0.8003499947	phi factory
+0.8002706503	accelerator test facility
+0.8001410030	short lived
+0.7997074153	proton beams
+0.7996475142	transverse size
+0.7995959473	quasi static
+0.7990665952	ultra relativistic
+0.7988017465	enhanced optical cooling
+0.7987733917	fel amplifier
+0.7984608381	atomic physics
+0.7978673786	mucool test
+0.7977652553	plasma wake
+0.7974703540	medium energy beam transport
+0.7972987186	fermilab recycler
+0.7972642775	accelerating fields
+0.7971641247	periodically bent crystal
+0.7969697406	high quality
+0.7968483209	status report
+0.7963545812	transmission efficiency
+0.7959865838	longitudinal phase space
+0.7955696918	beam losses
+0.7951283639	swiss light source
+0.7950568521	cost effective
+0.7949500649	synchro betatron
+0.7944905297	acceleration gradients
+0.7944832225	pal xfel
+0.7944046985	beam breakup
+0.7943236250	bunch lengthening
+0.7942448094	partially coherent
+0.7941714099	plasma wave
+0.7938872570	monte carlo code
+0.7937342566	recent progress
+0.7935844495	high precision
+0.7934566464	photocathode gun
+0.7931351988	dipole moments
+0.7928485372	pip ii
+0.7925857064	signal to noise ratio
+0.7925049722	hadron beams
+0.7922147519	spatio temporal
+0.7921120546	momentum acceptance
+0.7919754397	positively charged particles
+0.7915879007	physics opportunities
+0.7912954486	clic test facility
+0.7912729152	half maximum
+0.7906018553	key issues
+0.7904784752	control systems
+0.7904406248	cycling synchrotron
+0.7904159845	semi analytical
+0.7902431552	stimulated emission
+0.7899897210	pulse length
+0.7896974956	beam halo
+0.7896762153	slow positron
+0.7896515963	wake field
+0.7896081996	high intensity proton
+0.7895901427	slip stacking
+0.7894992420	photo cathode
+0.7891738468	tesla test facility
+0.7890981929	pic simulations
+0.7888438622	radially polarized laser
+0.7888223109	peak currents
+0.7887003499	beam sizes
+0.7886175304	electron cooler
+0.7886165350	electron bunches
+0.7880754007	ultrashort laser pulses
+0.7878357169	disc loaded
+0.7878292095	laser wakefield
+0.7875786436	terahertz radiation
+0.7874776703	half wave resonator
+0.7871838400	polarized positrons
+0.7871129960	broad band
+0.7869296241	feed forward
+0.7867710199	beam dump
+0.7864648683	photon energies
+0.7864589908	high voltage
+0.7862591913	los alamos national
+0.7860523002	electron beams
+0.7859891085	spin rotation
+0.7854376658	particle identification
+0.7852929213	spin tune
+0.7852556485	spectral range
+0.7850517887	interaction regions
+0.7849701024	high purity
+0.7847088988	tizrv pd
+0.7845266077	monte carlo simulation
+0.7842031018	corrugated structures
+0.7840699715	proton driven plasma wakefield acceleration
+0.7839742305	proton beam
+0.7839571038	eigen emittances
+0.7839429971	pls ii
+0.7838607760	experimental investigation
+0.7834628691	cornell electron storage
+0.7833694577	underdense plasma
+0.7829343126	mono energetic
+0.7827789964	electron microscope
+0.7825244820	high efficiency
+0.7824577097	quasi monoenergetic
+0.7821419434	accelerated electrons
+0.7820114781	counter propagating
+0.7808525325	cooler synchrotron
+0.7800897824	future colliders
+0.7799265807	phase shift
+0.7795365441	hie isolde
+0.7794884616	beam transport
+0.7793787756	high resolution
+0.7785475405	rf power
+0.7779054572	main ring
+0.7777735467	high brilliance
+0.7773746150	particle beam
+0.7771322797	data analysis
+0.7770099481	pip ii injector test
+0.7768995248	plasma density
+0.7768689810	variational wavelet
+0.7768148066	ndcx ii
+0.7767944465	tracking simulations
+0.7765180966	joint project
+0.7764977004	monte carlo simulations
+0.7764975262	national accelerator laboratory
+0.7763478038	lattice design
+0.7762949072	hollow electron
+0.7761556370	intrinsic emittance
+0.7759639428	charged particle beams
+0.7751565410	beam size
+0.7751048355	injection locked
+0.7750641190	orbital angular
+0.7749993367	loss factors
+0.7744072394	thermal analysis
+0.7743443693	spin tracking
+0.7741532243	variational wavelet approach
+0.7734278410	beam position
+0.7732178393	vertical direction
+0.7725741244	simulation results
+0.7720819842	charged particle moving
+0.7719545885	polarized positron
+0.7711986956	multi tev
+0.7705961675	fcc ee
+0.7704938530	wake function
+0.7704523802	error analysis
+0.7701931790	photon collider
+0.7701002151	ultra fast
+0.7700916687	fcc hh
+0.7698790123	undulator radiation
+0.7696630575	electron source
+0.7695098703	lepton antilepton
+0.7693384696	ion clearing
+0.7693175863	nb ti
+0.7692856355	important role
+0.7688515166	radioactive ion
+0.7684671298	numerical methods
+0.7683744745	stern gerlach
+0.7681305151	elementary particle
+0.7679332488	theoretical predictions
+0.7679146348	quality control
+0.7677864792	numerical analysis
+0.7677610773	finite length
+0.7675506871	double layer target
+0.7671646743	peak current
+0.7669108036	secondary emission
+0.7668833688	high pressure
+0.7668297906	nm rad
+0.7664019527	pep ii
+0.7663459489	single cycle
+0.7662584907	vertical test
+0.7662118886	superconducting linac
+0.7660105373	darht ii
+0.7659861610	relative energy spread
+0.7653739514	beam quality
+0.7647108265	field emitter
+0.7645791469	invariant spin
+0.7645029741	photon flux
+0.7644906272	compton sources
+0.7634138589	brookhaven national
+0.7632103261	electron positron collider
+0.7630928284	relativistic electron
+0.7627204484	equations describing
+0.7625494803	dynamical systems
+0.7621416936	lcls ii
+0.7619927214	gamma gamma
+0.7618198594	dielectric laser acceleration
+0.7614424806	single cell
+0.7603962856	higher harmonics
+0.7599395799	scaling ffag
+0.7597295478	rf cavity
+0.7592906457	pump probe
+0.7585812340	highly efficient
+0.7583237437	free space
+0.7583066398	stern gerlach force
+0.7582235189	phase locked
+0.7582050760	beam pipe
+0.7580763815	advanced superconducting test
+0.7579776634	pseudo spectral
+0.7578361748	transverse emittances
+0.7577635355	collision energies
+0.7574964373	beam position monitoring
+0.7572451895	wakefield acceleration
+0.7567791351	dynamic heat
+0.7561501153	electromagnetic radiation
+0.7555122653	drift compression
+0.7546280434	hollow plasma channel
+0.7543188368	emission yield
+0.7542030576	resonant frequency
+0.7541751038	energy range
+0.7540114714	megawatt proton
+0.7539778988	plasma wakefield accelerators
+0.7539608568	amplified spontaneous emission
+0.7534939532	dipole band
+0.7531612787	electron cooling
+0.7531477253	multi turn
+0.7530456536	muon beams
+0.7529336983	extremely low
+0.7529183967	longitudinal compression
+0.7525033331	da \ phi ne
+0.7521334204	laser wakefield accelerators
+0.7519917862	high gain
+0.7517859734	polarized protons
+0.7512048877	decay at rest
+0.7508027619	smith purcell radiation
+0.7507970882	diffraction limited storage
+0.7506150355	lower critical
+0.7502178320	plasma lenses
+0.7499026890	multi mw
+0.7495722976	dielectric lined waveguide
+0.7492147923	research program
+0.7488514511	advanced superconducting test accelerator
+0.7487775108	analytical models
+0.7486301327	ion acceleration
+0.7483990118	dimensional phase space
+0.7479644729	trapped modes
+0.7477011949	beam size monitor
+0.7473075703	linac ring type
+0.7470807038	superconducting links with negligible energy
+0.7469668305	extreme light
+0.7467352225	tevatron collider
+0.7466449484	angular distributions
+0.7464410182	orbit feedback
+0.7462988221	plasma lens
+0.7461716863	relativistic electron bunches
+0.7459445804	average current
+0.7457916060	superconducting rf cavities
+0.7457122807	synchrotron light
+0.7456388880	dipole mode
+0.7455041849	coupled bunch
+0.7452729413	mechanical design
+0.7452444072	spin flipping
+0.7452339877	rf guns
+0.7450859768	thz driven
+0.7449813041	focusing channel
+0.7449721087	extremely high
+0.7448089511	numerical calculations
+0.7442146112	super conducting
+0.7437729074	spin flip
+0.7437475759	nonlinear integrable
+0.7436742822	beam pipes
+0.7434033409	femtosecond resolution
+0.7433342404	ion motion
+0.7429932009	free electron
+0.7429463221	beam profile
+0.7429193471	high temperature
+0.7428466596	neutrino beam
+0.7426455042	turn by turn
+0.7423871520	main features
+0.7420100458	future circular
+0.7418171230	muon beam
+0.7413487669	transverse wakefields
+0.7412373266	short range
+0.7412276846	electron positron pair
+0.7411202139	plasma channel
+0.7404065681	multi objective optimization
+0.7403539958	pepper pot
+0.7397071714	feedback control
+0.7396904837	beam coupling impedance
+0.7395165297	polynomial approximations
+0.7394378264	luminosity upgrade
+0.7392714250	drift tube linac
+0.7392414014	theoretical model
+0.7391691772	particle beams
+0.7391108213	external injection
+0.7390441469	gas cell
+0.7386685868	fast cycling
+0.7386067847	surface treatment
+0.7383995075	muon ionization cooling
+0.7381243623	bunch profile
+0.7380903992	low level radio frequency
+0.7380074463	transverse motion
+0.7379238116	charge states
+0.7378973350	analytical theory
+0.7378637648	relativistic electron beams
+0.7377604632	final cooling
+0.7376373633	fixed target experiments
+0.7372951176	antiproton production
+0.7371353668	negative ion
+0.7368653264	neutrino super beam
+0.7367146491	injection scheme
+0.7367015708	electron sources
+0.7366116368	coupled bunch instabilities
+0.7365885053	small angles
+0.7365278763	period length
+0.7363749189	bunch charge
+0.7361343545	cern large hadron
+0.7359651434	fermilab tevatron
+0.7359454759	carbon ions
+0.7357136810	multi megawatt
+0.7354866919	plasma physics
+0.7350377902	high energy photon
+0.7349847838	nonlinear optics
+0.7348693295	improvement plan
+0.7348290712	helium ions
+0.7346950506	bunch charges
+0.7341630376	vertical plane
+0.7341193871	carrier envelope phase
+0.7336775372	jefferson national accelerator
+0.7331578518	drive bunch
+0.7331426147	energy modulation
+0.7327376079	longitudinal coherence
+0.7323411562	multi cell
+0.7319871761	simulation tools
+0.7319811268	design considerations
+0.7313762366	muon neutrino
+0.7313704048	ultra low emittance
+0.7310771591	fokker planck equation
+0.7310514043	iota ring
+0.7308347500	longitudinal profile
+0.7308182360	dual axis
+0.7306446118	sufficiently large
+0.7304696096	single bunch
+0.7303346058	superconducting cavity
+0.7292442056	nm wavelength
+0.7291995885	pump probe experiments
+0.7290894449	electron positron
+0.7288300389	collimation efficiency
+0.7283955164	coherent transition radiation
+0.7283215861	spatial distribution
+0.7282197998	photon energy
+0.7272846774	accelerating mode
+0.7272135603	theoretical models
+0.7270754797	root mean square
+0.7266514873	instability threshold
+0.7259642383	national lab
+0.7258748846	systematic study
+0.7256311916	density profiles
+0.7254525661	beam energy
+0.7252603103	power coupler
+0.7248832839	coherence properties
+0.7247593838	beam dumps
+0.7241623409	basic principles
+0.7240053448	rms emittance
+0.7238982962	current carrying
+0.7237581669	analytical calculations
+0.7237569482	eupraxia @ sparc_lab
+0.7235357417	baseline undulator
+0.7225210100	neutrino beamline
+0.7224986772	proton accelerator
+0.7220211566	high speed
+0.7218304778	beam parameters
+0.7217979812	electric dipole
+0.7212714363	ma cw
+0.7207791837	plasma wake field
+0.7204360557	multi gev
+0.7201300728	underlying physics
+0.7201229905	fast ion instability
+0.7200337013	static magnetic field
+0.7198479085	vlasov maxwell equations
+0.7196050851	user community
+0.7189385387	transverse coherence
+0.7186821619	bunch shape
+0.7186773645	general case
+0.7185611091	electron acceleration
+0.7185301836	attosecond pulses
+0.7184141210	china spallation
+0.7183260822	spectral distribution
+0.7183108296	solenoid magnet
+0.7174955488	initial conditions
+0.7174068583	instruments ever built
+0.7173508566	dispersion equation
+0.7170544106	multi stage
+0.7159970993	frequency range
+0.7156271147	gas target
+0.7156178009	quasi cherenkov
+0.7154172451	converter target
+0.7151069967	future lepton
+0.7150819939	wide variety
+0.7148680725	elliptical cavities
+0.7145245924	horizontal emittance
+0.7143621138	proton bunches
+0.7142405749	proton source
+0.7135464326	scattering matrix
+0.7134720079	profile monitor
+0.7132299518	radiation spectra
+0.7131929276	fermilab a0
+0.7131899410	loss rate
+0.7130887643	quadrupole magnets
+0.7129993882	collision scheme
+0.7124034236	envelope instability
+0.7122572578	decay ring
+0.7121506869	induced heating
+0.7121376031	flux density
+0.7119455004	lepton hadron
+0.7115340802	solid target
+0.7113985539	finite number
+0.7112647682	carbon ion
+0.7109513663	power levels
+0.7107626839	physics community
+0.7104471944	neutrino factory or muon collider
+0.7103874563	pw laser
+0.7099710210	injector linac
+0.7099274361	narrow band thz
+0.7097433081	synchrotron oscillations
+0.7089550823	circular colliders
+0.7088078458	space charge effects
+0.7086293531	long range
+0.7084695411	recent experiments
+0.7083408900	beamline elements
+0.7083193083	taking into account
+0.7083043962	significantly improved
+0.7079301857	fixed target
+0.7076639150	analysis shows
+0.7073631370	dielectric laser accelerators
+0.7071795041	beam current
+0.7070137059	emittance evolution
+0.7065677456	beam instrumentation
+0.7064539026	plasma accelerators
+0.7060897611	muon decay
+0.7055833169	single particle
+0.7055580084	highly polarized
+0.7053977945	plasma wakefield accelerator
+0.7052844468	electrostatic potential
+0.7051839111	proton edm
+0.7051053244	longitudinal beam dynamics
+0.7049963209	beam diagnostics
+0.7047173138	electron linac
+0.7042542315	physics reach
+0.7038104843	operating mode
+0.7037550247	stable region
+0.7037382370	spoke cavities
+0.7037155898	ring cyclotron
+0.7036619258	free electron laser oscillator
+0.7035491859	position monitor
+0.7032347929	electron cyclotron resonance
+0.7030123508	gain length
+0.7026558649	production rates
+0.7024524798	radiation emitted
+0.7019404187	relativistic particle
+0.7009002589	neutrino physics
+0.7006536276	numerical examples
+0.7002754848	positron beam
+0.6998588997	radially polarized
+0.6993831809	strong focusing
+0.6992908835	wakefield amplitude
+0.6988816657	multi bunch
+0.6986234314	multi dimensional
+0.6981227535	peak luminosity
+0.6981001497	coherent electron cooling
+0.6977371663	special case
+0.6975459098	external magnetic field
+0.6973483494	polarization control
+0.6969560371	intense laser pulses
+0.6963201139	integrable optics test
+0.6960481778	laser plasma accelerators
+0.6959503099	order modes
+0.6958265361	seeded fel
+0.6957296324	superconducting niobium
+0.6948466251	pi mm
+0.6946825681	simplified model
+0.6946546436	driven plasma wakefield acceleration
+0.6943653267	carrier envelope
+0.6943439018	intra beam scattering
+0.6936383462	relativistic electron beam
+0.6936055844	emittance reduction
+0.6932169539	modern accelerators
+0.6930214263	main linac
+0.6926843194	dielectric laser
+0.6921675735	briefly discussed
+0.6920844404	energy spectra
+0.6920013426	experimental tests
+0.6918240818	general theory
+0.6917299153	field quality
+0.6916907312	tevatron proton antiproton collider
+0.6914219603	ultra high
+0.6913509105	collimation systems
+0.6911470570	small signal
+0.6911014834	highly relativistic
+0.6908148216	high charge
+0.6905797794	upgrade project
+0.6905563625	positron ring
+0.6905249296	pre injector
+0.6903530816	vortex penetration field
+0.6903047673	muon colliders and neutrino factories
+0.6902447795	recent years
+0.6902317426	ultra high vacuum
+0.6896439024	long straight
+0.6895300630	short bunch
+0.6894964851	large aperture
+0.6894940315	space charge tune shift
+0.6892415407	pressure gas
+0.6890364190	accelerating voltage
+0.6887066736	transverse planes
+0.6874105830	design goal
+0.6873008482	degrees of freedom
+0.6872659228	extreme temperature and density
+0.6871699761	highly charged
+0.6867751429	longitudinal polarization
+0.6867438799	theoretical analysis
+0.6865076368	electron ion collider
+0.6864195736	significantly reduce
+0.6863210682	spin dynamics
+0.6858043845	material properties
+0.6856375625	particle trajectories
+0.6855971089	ultra low
+0.6854478492	multi turn injection
+0.6851817440	takes into account
+0.6850640590	coupling impedance
+0.6850419829	optical cavity
+0.6850176613	rf bucket
+0.6843531320	beam coupling impedances
+0.6842885118	analytical results
+0.6835083635	ultrafast electron
+0.6834076761	circularly polarized laser
+0.6833624988	leptonic cp
+0.6830674925	recently developed
+0.6827731477	generation light source
+0.6825318026	current status
+0.6822672979	laser plasma accelerator
+0.6821743303	optical elements
+0.6820292598	head tail modes
+0.6817949925	thz pulse
+0.6812769064	orbit correction
+0.6809688317	focusing elements
+0.6807039921	large acceptance
+0.6806354772	hollow plasma
+0.6806291817	pulse train
+0.6803846958	detailed engineering design of hl lhc
+0.6803526764	energetic electrons
+0.6802652457	significantly higher
+0.6800127307	numerical solution
+0.6798665356	carefully conceived
+0.6786936739	~ nm
+0.6785616978	positron production
+0.6783573541	short pulse
+0.6781895229	position monitors
+0.6780477842	performance limitations
+0.6777596958	beam rotation with ultra precise
+0.6775430156	large hadron electron
+0.6770257886	long range beam beam
+0.6769241605	deflecting cavity
+0.6767869180	dielectric structures
+0.6764901297	driven plasma accelerators
+0.6763012305	physics problems
+0.6762727271	test results
+0.6759064996	transverse momentum
+0.6749600315	long baseline
+0.6747863639	spin polarization
+0.6747010799	beam beam interactions
+0.6744726652	intense laser pulse
+0.6733346794	diffraction limit
+0.6729831481	spin orbit
+0.6729786766	circulating beam
+0.6727525097	detailed simulations
+0.6724448310	seeded free electron laser
+0.6723533763	accelerator magnets
+0.6720544411	laser intensities
+0.6717346534	scattered electrons
+0.6710358609	acceleration schemes
+0.6707837771	high level
+0.6699314617	significant increase
+0.6694185065	r & d
+0.6690326217	vertical beam size
+0.6687673447	beam optics
+0.6682000815	accelerating cavity
+0.6681642557	high order
+0.6681363798	double bend
+0.6680154469	based ep
+0.6678731952	pulsed mode
+0.6678432777	gev scale
+0.6676837970	laser cooling
+0.6670189018	secondary particles
+0.6666595999	beam power
+0.6664325664	particle in cell
+0.6661105632	lepton hadron and photon hadron
+0.6653355143	microbunched electron
+0.6649761373	cm long
+0.6648533834	proof of principle
+0.6645923104	experimental measurements
+0.6643010442	sc linac
+0.6642875674	detuned structure
+0.6641898238	transverse instability
+0.6641005369	beam emittance
+0.6639982592	ultra intense
+0.6634701789	wide range
+0.6633253494	particle acceleration
+0.6629800681	energy transfer
+0.6625206571	high luminosity large hadron collider
+0.6621584041	beam lines
+0.6618236409	optical diffraction radiation
+0.6617290871	coupled cavity
+0.6615929565	simulation studies
+0.6603451889	laser beam
+0.6602096581	laser plasma
+0.6601831176	orders of magnitude
+0.6599980397	stable operation
+0.6599250562	practical applications
+0.6596081152	quadrupole magnet
+0.6595897629	accelerator technology
+0.6594593867	drive beam
+0.6591062451	beam profile monitor
+0.6590426808	recent studies
+0.6589308908	cooling channels
+0.6587830383	dense plasma
+0.6587811602	small size
+0.6585090967	beam beam effects
+0.6582880861	measurement techniques
+0.6582575615	strong field
+0.6581550407	european strategy
+0.6581108564	wakefields generated
+0.6579695782	wakefield accelerator
+0.6578920376	long wavelength
+0.6571914262	high brightness electron beams
+0.6571153769	hard x ray
+0.6563035465	plasma based accelerators
+0.6554996629	plasma accelerator
+0.6553862660	infrared laser
+0.6553848172	production target
+0.6553055138	pic simulation
+0.6552466160	laser wakefield accelerator
+0.6547693348	recent results
+0.6547578388	secondary beams
+0.6543257599	space charge limited
+0.6542274986	superconducting rf cavity
+0.6538223432	future plans
+0.6532805812	laser accelerated
+0.6532748564	accelerating field
+0.6532341143	beam beam interaction
+0.6530629326	electron density
+0.6528037635	experimental conditions
+0.6524501689	short pulses
+0.6523044658	center of mass
+0.6517272935	high frequency
+0.6517035577	proton collisions
+0.6515513489	self amplified spontaneous emission
+0.6513758347	spin resonance
+0.6505328425	superconducting radio
+0.6502809420	particle motion
+0.6501829515	cavity surface
+0.6500663096	operating conditions
+0.6495997025	diffraction limited
+0.6494111733	accelerator facilities
+0.6487871293	field strengths
+0.6484907695	x ray
+0.6478798717	emittance measurement
+0.6473368218	fixed field alternating
+0.6468465980	muon production
+0.6464753930	bar \ nu
+0.6463743950	large amplitude
+0.6462431914	high power microwave
+0.6457267685	test accelerator
+0.6451530429	neutrino program
+0.6451023263	beam intensity
+0.6441950789	initial phase
+0.6441434175	incident laser
+0.6435706522	cutting edge 11 12 tesla superconducting
+0.6431198984	new muon lab
+0.6429487225	space charge compensation
+0.6429000966	single stage
+0.6426324812	seeded self modulation
+0.6424972185	ii injector test
+0.6422895755	field gradients
+0.6415480515	multi bend
+0.6415470916	nonlinear dynamics
+0.6414939127	cm 2s 1
+0.6414020619	short period
+0.6412983239	spontaneous radiation
+0.6412283721	conventional rf
+0.6409651845	point of view
+0.6406695473	proton induced
+0.6406357233	conceptual design
+0.6404865994	scale length
+0.6404313665	space charge force
+0.6403249791	proposed scheme
+0.6402057510	ion wake
+0.6400875117	clic main
+0.6394496239	beam instabilities
+0.6393460719	high field
+0.6391806236	proton antiproton collider
+0.6391316495	harmonic cavity
+0.6385582840	previous studies
+0.6374705252	coulomb field
+0.6370150507	small amplitude
+0.6365351558	proton driven plasma wakefield
+0.6364809532	analog to digital
+0.6362831288	commissioning phase
+0.6360688098	numerical studies
+0.6360517391	particle colliders
+0.6359440810	mode matching
+0.6358029646	power losses
+0.6349524374	force detuning
+0.6349120921	phase control
+0.6348072505	mean free path
+0.6345629849	shot to shot
+0.6343281975	proof of principle experiment
+0.6342094688	high luminosity large hadron
+0.6333947341	hard x rays
+0.6325230537	photon energy range
+0.6325028915	international linear
+0.6323626284	mm scale
+0.6317940693	high luminosity lhc
+0.6313669234	low cost
+0.6302771026	monoenergetic electron
+0.6300600133	measurement results
+0.6291448743	periodic structure
+0.6289394514	anti proton
+0.6285276508	alternating phase
+0.6285137798	rf photoinjector
+0.6273228027	start to end simulations
+0.6273095786	future linear collider
+0.6268804854	laser plasma interaction
+0.6267810404	micro bunches
+0.6262963683	electrons and positrons
+0.6261513714	polarized electron beams
+0.6260155359	energy spreads
+0.6258081422	vortex beams
+0.6256690913	single cell cavity
+0.6256223025	gamma t quads
+0.6236714081	laser acceleration
+0.6235558409	high luminosity upgrade
+0.6234334144	detailed analysis
+0.6230631944	tev center of mass
+0.6230458245	plasma electrons
+0.6227523895	magnetic properties
+0.6225731566	static magnetic
+0.6221312482	design study
+0.6215747797	scattering process
+0.6214151113	driven plasma wakefield
+0.6209626767	design report
+0.6207869172	start to end
+0.6203036697	laser field
+0.6201473813	push accelerator technology beyond
+0.6199554043	density distribution
+0.6195456355	polarized proton
+0.6189195547	soft x ray
+0.6184588632	parametric x ray radiation
+0.6184034623	wave optics
+0.6180532335	emittance increase
+0.6178258565	physical design
+0.6175749354	low emittance muon
+0.6173754312	plasma based
+0.6173303626	electron positron colliders
+0.6171354657	light ions
+0.6168429876	beam energies
+0.6167177784	next linear collider
+0.6163717474	systematic effects
+0.6163660961	recent experimental
+0.6157575336	nonlinear regime
+0.6153048678	longitudinal electric field
+0.6149334745	injection process
+0.6148440712	physics research
+0.6148297056	particle tracking simulations
+0.6145197388	potential applications
+0.6141878193	results obtained
+0.6139035111	high flux
+0.6138519857	mu2e experiment
+0.6138212232	design studies
+0.6137198510	power level
+0.6129716148	compaction factor
+0.6129045939	coherent light source
+0.6128121932	ray pulse
+0.6127091352	structure resonance
+0.6124568012	centre of mass energy
+0.6122769545	space charge effect
+0.6122059889	order of magnitude
+0.6120416256	edge radiation
+0.6117808912	electron ion
+0.6117581571	high power proton
+0.6108113914	low level
+0.6104240935	small angle
+0.6101276761	accelerator facility
+0.6100634149	relativistic charged particle
+0.6097589063	half wave
+0.6094995745	gaussian beam
+0.6087691998	high average power
+0.6083488559	laser beams
+0.6081884400	modulated electron beam
+0.6081749707	secondary electrons
+0.6081264451	paper reviews
+0.6077828995	circular collider
+0.6068210760	short laser pulses
+0.6063009368	double layer
+0.6050909519	technologies and components
+0.6047466917	high peak current
+0.6045326886	lhc tunnel
+0.6043816019	superconducting radio frequency cavities
+0.6043011800	injection energy
+0.6040322471	proof of concept
+0.6038869327	radiation levels
+0.6038006354	baseline design
+0.6035918463	operating frequency
+0.6033043058	coherent synchrotron
+0.6029445899	fast ion
+0.6027063360	electron cyclotron resonance ion
+0.6025605266	low loss
+0.6024602789	critical field
+0.6024019907	focusing properties
+0.6019028184	ray pulses
+0.6008606282	acceleration scheme
+0.6007687978	spallation source
+0.6003365500	proton driven plasma
+0.6002465139	future linear
+0.5995076186	temporal and spatial
+0.5993265565	physics goals
+0.5993042489	channeling radiation
+0.5992282134	machine parameters
+0.5991711750	case studies
+0.5989269792	heavy ion beams
+0.5988839380	total energy
+0.5986115930	equations of motion
+0.5983251067	transverse phase space
+0.5982643481	fermi national accelerator
+0.5981394407	beam beam compensation
+0.5978633660	future experiments
+0.5977281685	hollow electron beam
+0.5977053678	beam transport line
+0.5975776084	solenoidal magnetic
+0.5975367864	particle distributions
+0.5973750986	detailed description
+0.5969503024	nonlinear focusing
+0.5967452719	electric and magnetic fields
+0.5965698358	fundamental physics
+0.5965293696	power density
+0.5963655714	center of mass energy
+0.5960622773	beam currents
+0.5959118171	laser energy
+0.5958764225	accelerator projects
+0.5958516554	laser light
+0.5957037218	bunched beam
+0.5956681335	beam beam
+0.5953595298	maximum current
+0.5952780527	magnetic dipole
+0.5949953593	photon beam
+0.5945897818	global user community of about 7,000
+0.5945516422	cavity modes
+0.5936257037	radio frequency cavities
+0.5935322174	fundamental mode
+0.5933313709	proton proton collider
+0.5932908628	electron energy
+0.5931204535	working in fundamental particle
+0.5929786468	cold plasma
+0.5925387627	horizontal and vertical
+0.5925294655	vacuum systems
+0.5925245627	proposed method
+0.5922303236	synchrotron radiation sources
+0.5917804829	higher intensity
+0.5915296943	laser cooled
+0.5912563712	high quality electron beams
+0.5910692602	phase space density
+0.5910272554	electron guns
+0.5909798936	complex and exquisitely optimised machine so
+0.5902848731	dimensional particle in cell simulations
+0.5902370506	peak surface
+0.5902043793	fixed field
+0.5894508107	nonlinear effects
+0.5893157308	laser plasma acceleration
+0.5886880024	longitudinal space charge
+0.5880250596	center of mass energies
+0.5879568178	coasting beam
+0.5872541929	high energy colliders
+0.5870522154	emitted radiation
+0.5869849905	built and operated
+0.5864153582	multi dimensional particle in cell
+0.5863246804	non scaling ffag
+0.5861763397	physics case
+0.5861628078	physics processes
+0.5860536371	record high
+0.5859773298	bunched beams
+0.5859647358	low level radio
+0.5857207630	protection systems
+0.5856803295	obtained results
+0.5852664172	electron positron storage ring
+0.5847568842	radiation generation
+0.5846575010	high accuracy
+0.5843505486	single particle dynamics
+0.5841749967	300 metre long high power
+0.5838816454	ilc and clic
+0.5836550680	current profile
+0.5834281026	multi particle
+0.5832820231	optical pulse
+0.5832266053	longitudinal bunch
+0.5830471327	about 7,000 scientists
+0.5830175914	higher energy
+0.5824171271	present limits
+0.5822085270	accelerator structures
+0.5819617146	accelerator driven
+0.5817746290	experimental studies
+0.5816333218	energy distribution
+0.5814888639	laser technology
+0.5806472287	science and technology
+0.5805893415	proton collider
+0.5803033219	centre of mass energies
+0.5803023296	transverse focusing
+0.5800719643	cavity bpm
+0.5800711887	operation mode
+0.5800681048	undulator type
+0.5787509036	preliminary design
+0.5782252459	nlc linac
+0.5782133048	rf field
+0.5781550462	particle in cell simulations
+0.5775610848	positron beams
+0.5769829239	cavity voltage
+0.5767938430	post lhc
+0.5762203932	gev energies
+0.5761556631	accelerator based
+0.5758552029	radiation wavelength
+0.5758145423	linear electron positron collider
+0.5754912584	cavity performance
+0.5754812526	neutron sources
+0.5753193533	high intensity beams
+0.5748368410	deuteron beam
+0.5746873488	main parameters
+0.5745557830	micro bunch
+0.5744876565	collider ring
+0.5739397073	lhc era
+0.5735395615	laser power
+0.5720755727	future accelerators
+0.5718596021	head on collisions
+0.5707840033	phase space distribution
+0.5701268351	flat beams
+0.5700082723	betatron radiation
+0.5696482828	beam core
+0.5688790329	department of energy
+0.5688538806	transverse beam size
+0.5686516779	fermilab accelerator science
+0.5680596041	gamma ray source
+0.5676395745	wake field acceleration
+0.5673447568	output radiation
+0.5670392968	front end
+0.5669994044	beam beam parameter
+0.5666389155	longitudinal emittance
+0.5659567496	research facility
+0.5659372155	class laser
+0.5659251068	based facilities
+0.5654868492	transverse dynamics
+0.5651376134	llrf control
+0.5648237813	facility at desy
+0.5646112270	high energy photons
+0.5643891402	resonant cavity
+0.5639025749	field maps
+0.5638067394	transverse wakefield
+0.5636874375	rate of collisions
+0.5635388373	mhz rfq
+0.5634540176	linear regime
+0.5633217283	c + +
+0.5626755300	drive laser
+0.5616689095	plasma acceleration
+0.5611520553	gev electrons
+0.5607906672	relativistic electron bunch
+0.5606363277	gamma electron
+0.5606163955	high performance
+0.5606096720	high localized
+0.5604636274	accelerator magnet
+0.5600304641	femtosecond laser
+0.5592468022	e + e
+0.5582286156	electron emission
+0.5579395085	surface electric field
+0.5578172614	spin light
+0.5577829324	j parc
+0.5573067725	electron cloud effects
+0.5570746547	ring design
+0.5569465593	research and development
+0.5569123078	experimental study
+0.5566010694	light ion
+0.5565285241	pulse energy
+0.5561159237	ring lattice
+0.5560543708	strong space charge
+0.5559440435	beam break up
+0.5552557300	final energy
+0.5548699844	amplitude and phase
+0.5543322118	fel gain
+0.5543047944	gas filled rf
+0.5537775982	injection and extraction
+0.5534040892	laser photons
+0.5523644898	low energy spread
+0.5523323992	rf phase
+0.5519961293	mode coupling instability
+0.5518338753	proton and antiproton
+0.5517258032	quantum effects
+0.5511267612	high vacuum
+0.5507933709	power control
+0.5503433569	ilc type
+0.5501968613	rf power source
+0.5498504698	commissioning and operation
+0.5497986983	rf pulse
+0.5496894888	polarization radiation
+0.5493365759	proton facility
+0.5491764613	proton colliders
+0.5491202998	gamma radiation
+0.5488127962	beam energy measurement
+0.5484715151	proton proton
+0.5478207662	transverse gradient
+0.5477969616	ion instability
+0.5477367280	phase and amplitude
+0.5473776006	rf fields
+0.5472455789	high density
+0.5470751713	post linac
+0.5468238671	bunch intensity
+0.5466174999	long pulse
+0.5464873556	simulation model
+0.5460291993	results suggest
+0.5460043293	relativistic heavy ion
+0.5458569012	capable of generating
+0.5458255342	wavelet analysis
+0.5456050707	bunch by bunch
+0.5453999655	accelerator science
+0.5452289574	particle bunches
+0.5442051002	low frequency
+0.5441606502	rf sources
+0.5440592026	initial energy
+0.5439380568	laser generated
+0.5435610977	near critical density
+0.5434827305	the present document describes
+0.5433642634	beam stability
+0.5432984083	high power rf
+0.5432210322	radiation damping
+0.5432080338	beam based
+0.5431376893	physics experiments
+0.5431061706	rfq design
+0.5429287320	external field
+0.5423167680	charge distribution
+0.5421593507	mev electron beam
+0.5421347413	physics requirements
+0.5415763497	presented and discussed
+0.5412349212	wakefield effects
+0.5411541621	laser systems
+0.5397894390	results demonstrate
+0.5397622921	analytical and numerical
+0.5396785814	high energies
+0.5394654419	design luminosity
+0.5392634372	seeded free electron
+0.5392591218	transverse and longitudinal
+0.5392558327	radiation spectrum
+0.5391554236	extracted beam
+0.5388161777	induction accelerators
+0.5381125041	witness beam
+0.5380719900	compact linear
+0.5378980492	proton accelerators
+0.5378335618	plasma based acceleration
+0.5374289997	compact superconducting cavities for
+0.5372945529	power efficiency
+0.5369848380	snowmass 2013
+0.5365550111	coupling impedances
+0.5358058228	capable of producing
+0.5356886843	particle production
+0.5356490707	gev range
+0.5350769059	radiation shielding
+0.5347654213	beam orbit
+0.5344455883	energy density
+0.5344387574	particle losses
+0.5341902442	theoretical and experimental
+0.5336820248	measurements performed
+0.5335031017	srf linac
+0.5334627425	high power test
+0.5330760625	energy stored
+0.5330512845	beam induced
+0.5326064994	high energy proton
+0.5324373426	ion optical
+0.5323905500	coherent beam beam
+0.5322562495	recent advances in
+0.5321205324	radiation of twisted photons
+0.5320446792	energy efficiency
+0.5315738211	emittance measurements
+0.5314319194	gev electron beam
+0.5311679020	bunch structure
+0.5309052257	mode of operation
+0.5302482093	energy scale
+0.5298357143	centre of mass
+0.5297737976	radiation power
+0.5296192470	present paper
+0.5291759577	laser intensity
+0.5291568065	particle dynamics
+0.5289291695	bunch current
+0.5287469005	simple method
+0.5287353049	simulation study
+0.5285288289	single photon
+0.5283351461	high peak
+0.5277504723	proton acceleration
+0.5277395264	beam dynamics studies
+0.5272754855	longitudinal and transverse
+0.5269936496	electric and magnetic
+0.5263859379	cavity geometry
+0.5263351813	beam commissioning
+0.5262183974	llrf control system
+0.5258741910	cycle thz
+0.5253339945	photon beams
+0.5245259279	accelerator community
+0.5244797323	energy storage
+0.5236003016	numerical model
+0.5234791756	coherent optical
+0.5233813151	electron lasers
+0.5227634000	ray optics
+0.5218951892	long bunch
+0.5216879797	ionization cooling experiment
+0.5214084877	flat top
+0.5213471436	pulse to pulse
+0.5207503687	electron storage rings
+0.5207399061	superconducting accelerators
+0.5206099981	fully coherent x ray
+0.5205720742	soft x ray free electron laser
+0.5205152836	magnet design
+0.5199776372	electrons passing
+0.5199054054	high average
+0.5197756259	order to optimize
+0.5195620203	collider luminosity
+0.5194103163	physics and technology
+0.5192825993	electron injector
+0.5186274164	medium energy
+0.5185027914	point particle
+0.5184915292	equation of motion
+0.5183502716	baseline neutrino
+0.5181685411	particle loss
+0.5178764379	power loss
+0.5178183769	high brightness electron
+0.5176590318	field components
+0.5173278404	betatron phase
+0.5170486877	polarized beams
+0.5168266674	intense laser
+0.5165926543	beam extraction
+0.5162291330	modes of operation
+0.5162219812	space charge tune
+0.5162131117	plasma frequency
+0.5162069629	low intensity
+0.5161701790	high energy particles
+0.5150687069	electron and positron
+0.5147381304	rf frequency
+0.5144355656	electron proton
+0.5143288106	relativistic charged
+0.5135566541	taking advantage of
+0.5135564698	electron accelerators
+0.5133880122	number of turns
+0.5132397712	injection of electrons
+0.5129407794	rf injector
+0.5128251764	design concept
+0.5126457593	synchrotron radiation facility
+0.5122810027	design and construction
+0.5120489912	particle distribution
+0.5119543020	maximum energy
+0.5117104149	bunch instabilities
+0.5116848469	precision experiments
+0.5115342049	cavity design
+0.5108743241	superconducting accelerator
+0.5103318167	speed of light
+0.5097226208	efficient acceleration
+0.5093875258	luminosity measurement
+0.5088984854	proton antiproton
+0.5087334862	x rays
+0.5085975968	beam polarization
+0.5085927035	low energy muon
+0.5084522540	measurement method
+0.5081004710	x ray free electron laser
+0.5079721730	dipole field
+0.5075863150	spectral angular
+0.5073955242	numerical results
+0.5073091738	single electron
+0.5072139378	design and simulation
+0.5067564325	electron and positron beams
+0.5064624461	primary beam
+0.5063588535	rf losses
+0.5061864724	energy extraction
+0.5058967228	particle physics experiments
+0.5055971983	rf systems
+0.5055506777	energy resolution
+0.5051307745	charged particle beam
+0.5048957560	electron and ion
+0.5045280056	loading effects
+0.5044215148	laser wave
+0.5040514689	high beam power
+0.5038593491	present results
+0.5036075497	self amplified spontaneous
+0.5034184712	energy calibration
+0.5032516601	intense beams
+0.5030313571	bunch to bunch
+0.5026778168	beam matrix
+0.5024491031	designed and built
+0.5020908998	pulsed laser
+0.5017343685	relativistic particles
+0.5010498078	radiation sources
+0.5010114186	proton driven
+0.5009254636	electron storage ring
+0.5003800112	bi 2212
+0.5003049077	quantum regime
+0.5002613268	accelerator design
+0.5002146028	project x
+0.5002007063	mev proton
+0.5000960914	radiation emission
+0.4999713640	relativistic bunch
+0.4995262964	high energy particle
+0.4990775096	laser based
+0.4990122377	third harmonic
+0.4988540148	neutrino experiment
+0.4977565434	gev proton
+0.4971565153	bunch passing
+0.4966834793	beam brightness
+0.4965127515	pulse power
+0.4961097922	fermilab linac
+0.4957797438	linac coherent light
+0.4957350122	high beta
+0.4957187930	beam dynamics simulations
+0.4956278473	cooling of electron beams
+0.4956165643	storage ring based
+0.4954899809	ultra intense laser
+0.4951146208	beam energy spread
+0.4950978139	transverse cooling
+0.4948537636	low emittance beams
+0.4946540336	beam beam tune
+0.4946037533	wavelet approach
+0.4945932062	high energy particle accelerators
+0.4943942882	signal to noise
+0.4943157451	fermilab proton
+0.4941229465	fel operation
+0.4930436788	particle bunch
+0.4930085918	spear 3
+0.4927599274	accelerator applications
+0.4921399029	cm ^ 3
+0.4917258835	probability of radiation of twisted
+0.4916704949	radiation effects
+0.4913219332	proton and ion
+0.4906083665	a number of key innovations
+0.4904526513	spring 8
+0.4903297379	stored beam
+0.4902881168	space charge field
+0.4902760038	low charge
+0.4902154152	table top
+0.4900696393	phase and power
+0.4896261698	electron scattering
+0.4894330312	new technology and physical processes
+0.4894106141	high quality beams
+0.4893413855	electrostatic field
+0.4893170316	ring ring
+0.4885347514	charged beams
+0.4879678530	muon source
+0.4877408152	beta beam
+0.4877382587	beam motion
+0.4872209169	x ray free electron lasers
+0.4871063973	transport systems
+0.4864612888	electron ring
+0.4863646472	et al
+0.4862855789	radiation of relativistic
+0.4861037561	high intensity laser
+0.4857648370	low power
+0.4848396327	laser compton
+0.4845309481	cm ^ 2 s ^ 1
+0.4844759891	transverse electric
+0.4843916973	electron beam diagnostics
+0.4839575242	peak energy
+0.4838824278	beam diagnostic
+0.4838730710	beam intensities
+0.4836758615	muon acceleration
+0.4834098036	tracking results
+0.4829737251	driven plasma
+0.4823936888	the past decade
+0.4823541702	dominated beams
+0.4818208774	low energy electrons
+0.4814089553	plasma wakefield acceleration experiment
+0.4804821298	beam driven plasma
+0.4802209662	circular electron positron
+0.4797870066	long proton
+0.4796820844	energy losses
+0.4795865030	accelerated beam
+0.4795423289	based neutrino
+0.4786888870	known as high luminosity lhc
+0.4783067175	injected beam
+0.4782315180	gev proton beam
+0.4777160852	electron pulses
+0.4776872306	advanced accelerator
+0.4772806479	ring collider
+0.4771705775	neutrino source
+0.4770952482	low density
+0.4769548360	wave structures
+0.4767014863	field q slope
+0.4765673705	transverse coupling
+0.4765612885	ring type
+0.4764697153	particle beam optics
+0.4759581384	flat beam
+0.4756765993	compact laser
+0.4751102393	stored energy
+0.4749292607	antiproton beam
+0.4748197670	simulations performed
+0.4746140540	low field
+0.4743200699	laser induced
+0.4741045847	light dark
+0.4732336242	design parameters
+0.4724757828	focusing systems
+0.4723467489	cern accelerator
+0.4723076968	recovery linacs
+0.4720523815	x band
+0.4720330315	energy reach
+0.4717746406	photon source
+0.4717338722	gev energy
+0.4715163740	collision energy
+0.4711816845	radiation induced
+0.4709816761	beam delivery
+0.4709683004	positron storage ring
+0.4708624044	performed in order
+0.4704256695	top quark
+0.4703703365	electron beam parameters
+0.4693097840	ultrashort laser
+0.4692723606	hefei light
+0.4691381324	wakefield accelerators
+0.4690131806	electron laser
+0.4687930423	bunch generation
+0.4687134423	design and operation
+0.4684452772	position monitoring
+0.4681463761	test beam
+0.4680079458	time of flight
+0.4671687772	beam transmission
+0.4671658499	quadrupole field
+0.4671375598	physics potential
+0.4660914887	soft x ray fel
+0.4659726401	working in fundamental particle physics and
+0.4657681100	laser fields
+0.4656729389	wave structure
+0.4652985228	emission of radiation
+0.4651630238	e ^ + e ^
+0.4650494159	fermilab main
+0.4643389893	accelerator structure
+0.4639588871	six dimensional
+0.4637517337	third order
+0.4635450525	based accelerators
+0.4631384143	laser driven ion
+0.4628783220	mev electrons
+0.4625924880	beam matching
+0.4624803410	low and high
+0.4623635613	carlo code
+0.4621237752	transverse mode coupling
+0.4619485711	high harmonic
+0.4619449962	field dependent
+0.4616084371	relativistic heavy
+0.4611907704	rf photocathode
+0.4609851374	beam lifetime
+0.4604296584	beam driven plasma wakefield
+0.4604017296	~ mev
+0.4599749416	electron laser oscillator
+0.4598698265	high quality electron
+0.4597416938	beam transfer
+0.4597215545	mu ^ + \ mu ^
+0.4596376182	design and performance
+0.4595723189	crystal based
+0.4595149674	this paper presents
+0.4590063840	radio frequency cavity
+0.4585981353	carried out
+0.4582028203	beam driven
+0.4578493359	high energy electron
+0.4577365710	hadron beam
+0.4573826375	radiofrequency cavities
+0.4573353334	field enhancement
+0.4572923910	beam physics
+0.4569742300	next generation
+0.4564805273	beams in storage rings
+0.4561019490	ion collider
+0.4554811430	institute of high
+0.4554691280	heavy ion beam
+0.4552113953	driven accelerators
+0.4548556806	undulator based
+0.4547944372	future high energy
+0.4545661611	numerical cherenkov
+0.4541980453	intra beam
+0.4540261510	control system
+0.4540137858	attosecond x ray
+0.4538787582	pulsed neutron
+0.4535419571	high intensity accelerators
+0.4532163608	mv m
+0.4530632466	neutrino experiments
+0.4529731663	particle channeling
+0.4525195382	high brightness beams
+0.4522801703	optical transition
+0.4518965574	high energy beam transport
+0.4511289341	vepp 2000
+0.4510983291	beam offset
+0.4499116676	high energy electrons
+0.4497683266	\ v c erenkov
+0.4492933473	beam parameter
+0.4489825841	laser wake field
+0.4488957811	the swiss light
+0.4488054538	thin film
+0.4484502635	a global user community of
+0.4484056259	driven wakefield
+0.4475886082	injector experiment
+0.4474750792	mev energy
+0.4473109547	electron beam energy
+0.4461596328	relativistic beams
+0.4459560199	low emittance electron
+0.4459091226	collider run
+0.4457585214	multi pulse
+0.4457156450	radiation of twisted
+0.4456622253	this paper describes
+0.4454136817	colliding beam
+0.4452688108	beam excited
+0.4450298911	h2 +
+0.4447738908	beam profiles
+0.4443840498	times larger than
+0.4443719373	secondary beam
+0.4443439103	modulated electron
+0.4442083514	nonlinear plasma
+0.4441388473	beam envelope
+0.4441359360	beam properties
+0.4440527718	cool down
+0.4440387370	electron energies
+0.4436386475	\ b eta
+0.4436094204	short relativistic
+0.4434919650	technical design
+0.4433960328	cavities for beam
+0.4432365708	rf source
+0.4431112486	brief review
+0.4430610495	case study
+0.4428600881	electron injection
+0.4426836659	cm ^ 2
+0.4423448883	physics issues
+0.4419091549	precision measurements
+0.4407406470	$ p \ bar p
+0.4399973702	femtosecond electron
+0.4397901473	tw laser
+0.4392402423	gv m
+0.4392138910	\ deg c
+0.4391731760	radiation intensity
+0.4387424438	proton energy
+0.4384943573	niobium superconducting
+0.4381193694	relativistic positrons
+0.4380254202	fel facility
+0.4378144840	commercially available
+0.4377863629	high power laser
+0.4374543318	coherent light
+0.4372008255	beam phase space
+0.4372006348	reference design
+0.4370885506	transmission electron
+0.4370195621	driving laser
+0.4367553961	wave model
+0.4366954087	primary electron
+0.4360990542	electron beam dynamics
+0.4359957050	laser driven proton
+0.4357776364	electrons moving
+0.4354750510	ray range
+0.4353907194	^ \ circ
+0.4351058703	and exquisitely optimised machine so
+0.4345794079	simple model
+0.4340032155	pip ii injector
+0.4337899757	beam characteristics
+0.4337339625	laser driven plasma
+0.4335061944	this report presents
+0.4333339227	magnitude higher than
+0.4330799734	direct observation of
+0.4330605752	paper presents
+0.4330239161	benchmarked against
+0.4326833518	polarized electrons
+0.4325900115	beam spot
+0.4313816431	blow up
+0.4311815494	highest energy
+0.4303138007	self seeding
+0.4303045731	greater than
+0.4298291027	dimensional particle in cell
+0.4294738212	muon colliders and neutrino
+0.4287350974	high energy accelerators
+0.4286524984	compact light
+0.4284346269	tev energy
+0.4283333647	ion storage
+0.4271567609	transverse electron
+0.4269613457	direct laser
+0.4268490757	sim10 ^
+0.4262924787	mev electron
+0.4261836425	rf acceleration
+0.4261252009	linac based
+0.4257453568	real time
+0.4256864477	quality electron beams
+0.4253765793	beam tests
+0.4253383483	855 mev electrons
+0.4250177821	acceleration experiments
+0.4249737138	super beam
+0.4248366642	set up
+0.4247513890	focusing fields
+0.4241237836	taken into account
+0.4233509080	final focus system
+0.4231210583	intended to serve as
+0.4220248512	surface field
+0.4217185980	beam gas
+0.4215525806	fel radiation
+0.4213971777	electron photon
+0.4213510730	ring based
+0.4211656942	bunch distribution
+0.4210866485	machine protection system
+0.4210338102	time resolved
+0.4208736065	engineering design
+0.4208083487	muon ionization
+0.4206138764	beam divergence
+0.4191080158	electron cyclotron
+0.4186375583	photon photon
+0.4184413375	beam cooling
+0.4183618011	super proton
+0.4178859361	power source
+0.4177951026	accelerator laboratory
+0.4176764029	experimental observation
+0.4174845059	particle in cell code
+0.4169232627	field gradient
+0.4161415774	\ cdot 10 ^
+0.4159229033	luminosity performance
+0.4158748588	muon based
+0.4158643672	coherent diffraction
+0.4157530694	\ times10 ^
+0.4151698747	beam acceleration
+0.4142907830	accelerator problems
+0.4141491834	carefully conceived and
+0.4137979549	beam distribution
+0.4136812884	density plasma
+0.4125491436	rf parameters
+0.4115327722	to sustain and extend
+0.4113493204	experimental demonstration of
+0.4112526755	arrival time
+0.4112522343	strong laser
+0.4108589328	longitudinal field
+0.4107584176	order to obtain
+0.4105548759	cut off
+0.4101679674	mev u
+0.4100416301	three dimensional
+0.4093432714	radiation process
+0.4090581235	charge moving
+0.4087033651	stage laser
+0.4086761246	1.3 ghz
+0.4082293436	beam instability
+0.4081608917	ion accelerators
+0.4074810644	passing through
+0.4073453302	developed and tested
+0.4063651040	ambient magnetic
+0.4062688647	805 mhz
+0.4055505626	field distribution
+0.4050031813	read out
+0.4041304114	on and off
+0.4040578087	spin 1 2
+0.4039977437	beam test
+0.4038169725	10 ^ 34
+0.4037997677	accelerator performance
+0.4037867535	focused laser
+0.4027336677	u 70
+0.4027330714	sub picosecond
+0.4026400353	3.9 ghz
+0.4025810552	collective beam
+0.4023319599	\ times 10 ^
+0.4020391776	self modulation instability
+0.4018868451	acceleration of electrons
+0.4018685018	the large hadron collider
+0.4015964551	bunch parameters
+0.4008057452	muon g 2 experiment
+0.4004487388	beam generation
+0.4000751322	betatron x ray
+0.4000116754	does not
+0.4000057531	plasma wavelength
+0.3999183190	particle beam dynamics
+0.3989787598	transverse beam
+0.3980206037	ultrarelativistic electron
+0.3978517536	smaller than
+0.3973306686	radiation field
+0.3972956896	required to achieve
+0.3972138520	s band
+0.3970124447	this paper discusses
+0.3969871267	pick up
+0.3966777213	high energy electron beam
+0.3966560484	time domain
+0.3964227515	active plasma
+0.3960347265	\ mu
+0.3958758538	second order
+0.3957524002	harmonic rf
+0.3956221750	superconducting links
+0.3956159821	^ 0
+0.3955224780	low energy electron
+0.3948202320	take place
+0.3947403563	cell cavities
+0.3945786447	commonly used
+0.3941205843	rf structures
+0.3939690931	x ray fels
+0.3934040566	superconducting accelerating
+0.3933416840	kev electrons
+0.3929484612	162.5 mhz
+0.3923469654	conventional accelerator
+0.3920009205	with and without
+0.3917083731	coherent x ray
+0.3910282057	charged ions
+0.3900705597	external magnetic
+0.3899395158	\ mathrm
+0.3898978657	anomalous magnetic
+0.3891017637	do not
+0.3889395158	\ rm
+0.3888359945	accelerator components
+0.3886225528	2.45 ghz
+0.3880340321	gamma beam
+0.3874270412	longitudinal direction
+0.3873523416	cw mode
+0.3867790342	shorter than
+0.3866552724	\ sim
+0.3862707373	beam facility
+0.3858714507	$ e ^ + e ^
+0.3854309909	electron accelerator
+0.3854035503	_2 ^ +
+0.3850908386	as well as
+0.3849518412	superconducting test accelerator
+0.3846602977	accelerator lattice
+0.3846270175	intensity beams
+0.3845456626	gamma_a ^
+0.3840336169	present measurements
+0.3839668075	acceleration of ions
+0.3839064810	self consistent
+0.3832208517	bar p
+0.3829264964	charged beam
+0.3824105668	facility at fermilab
+0.3820004684	booster beam
+0.3815674886	a new energy frontier for exploration
+0.3812951625	high brightness beam
+0.3810275739	thin films
+0.3809798950	output beam
+0.3798935444	less than
+0.3796273964	induction accelerator
+0.3795210783	self modulation
+0.3794374878	critical density
+0.3793782583	particle in cell simulation
+0.3792152716	resonance ion source
+0.3791931351	so called
+0.3791383875	transient beam
+0.3790182743	all electric storage
+0.3788666605	take into account
+0.3785503415	x ray and gamma
+0.3778143642	ii storage ring
+0.3777122003	beam operation
+0.3776460343	q slope
+0.3776375574	nine cell
+0.3773703827	the large hadron
+0.3773492395	$ e ^ \ pm
+0.3771832620	650 mhz
+0.3755139558	polynomial approximations for
+0.3752251201	large energy
+0.3746382299	driven acceleration
+0.3745902610	c ads
+0.3743974615	the physics of hadronic matter at
+0.3743321343	electron dynamics
+0.3741787768	nonlinear accelerator
+0.3740623529	initial beam
+0.3738461128	low energy beam
+0.3737551643	give rise to
+0.3735840127	average beam
+0.3730333066	soft x ray free electron
+0.3729814875	\ cite
+0.3727180744	2.1 mev
+0.3726764501	cooling experiment
+0.3726621950	current measurement
+0.3725145889	ray region
+0.3717941738	third generation
+0.3715404378	magnitude higher
+0.3713422063	orders of magnitude higher than
+0.3712436804	325 mhz
+0.3709768423	in electron storage
+0.3701164981	paper summarizes
+0.3697411988	good agreement
+0.3697024810	plasma parameters
+0.3696355848	optics design
+0.3691220594	l band
+0.3689796567	^ 2
+0.3689748930	few tens
+0.3683890715	present status
+0.3681615328	off axis
+0.3680891004	so far
+0.3680306511	electron self injection
+0.3677703037	gamma collider
+0.3677171835	radial electric
+0.3666556111	faster than
+0.3664407473	for beam collimation and
+0.3664297644	beams in storage
+0.3664180025	magnitude larger than
+0.3663392094	~ 1
+0.3661855935	~ 100
+0.3658097101	10 * *
+0.3657875759	wavelet analysis to
+0.3656810011	laser oscillator
+0.3656112730	brief introduction
+0.3655993472	ultrashort electron
+0.3653311197	pulsed beam
+0.3652789953	energy physics
+0.3652453017	beam collimation
+0.3651301679	bent single
+0.3649940095	\ emph
+0.3649850406	lhc based
+0.3649765689	progress towards
+0.3646591956	laser facilities
+0.3644683246	enhanced optical
+0.3642366504	mode cavity
+0.3642258490	compact superconducting
+0.3641815753	beam pulse
+0.3639647588	llrf system
+0.3636520022	a factor of five beyond
+0.3634144370	this report describes
+0.3628551724	accelerator science and technology
+0.3626970598	mw proton
+0.3626537822	10 ^
+0.3625756002	h ion source
+0.3624408143	700 kw
+0.3620926885	heavy ion collider
+0.3619406065	relativistic beam
+0.3616404271	electron pulse
+0.3613858806	855 mev
+0.3606340507	larger than
+0.3604253581	non linearities
+0.3603803301	relativistic laser
+0.3601694998	high energy beam
+0.3593891402	accelerator center
+0.3591751133	widely used
+0.3589753607	insight into
+0.3587684697	700 mhz
+0.3585001968	tev muon
+0.3581795251	radiation generated
+0.3574234896	beam dynamic
+0.3572070913	report describes
+0.3570995667	muon accelerator
+0.3569372474	noise ratio
+0.3566354456	wave resonator
+0.3565809312	a factor ten
+0.3564130416	well suited
+0.3560789513	z pole
+0.3556011918	non destructive
+0.3552387067	single beam
+0.3549992736	\ text
+0.3548625316	physics design
+0.3548094375	coherent transition
+0.3546410089	objective optimization
+0.3544645978	\ aa
+0.3542094387	b factory
+0.3536447267	circular accelerator
+0.3524783357	x y
+0.3524217992	gev protons
+0.3521364894	few cycle
+0.3518974615	the regime of
+0.3513974615	the addition of
+0.3511555460	particular emphasis
+0.3511402850	passes through
+0.3511084325	luminosity large hadron collider
+0.3510273193	this paper reviews
+0.3509259815	large transverse
+0.3508766337	non invasive
+0.3508015430	high intensity beam
+0.3501176710	x ray pulses
+0.3500143685	applications of methods from
+0.3498780580	feedback system
+0.3495264311	particular attention
+0.3491888044	beam measurements
+0.3490883457	large number
+0.3489264950	acceleration process
+0.3483430618	transverse energy
+0.3483095122	125 gev
+0.3482326127	relativistic plasma
+0.3480641565	femtosecond x ray
+0.3480412746	hard x ray free
+0.3474001936	experiment at cern
+0.3471199788	agree well
+0.3469013090	\ nu
+0.3461042407	longitudinal beam
+0.3454445413	120 gev
+0.3453510871	probability of radiation of
+0.3451993453	high accelerating
+0.3450407356	lower than
+0.3450046147	\ approx
+0.3440972365	he lhc
+0.3433197724	size measurement
+0.3429267526	collimation system
+0.3424169306	mhz rf
+0.3423601835	per second
+0.3419301604	self modulated
+0.3418956703	well known
+0.3418024159	electron positron storage
+0.3415347164	the region of
+0.3413777626	intense ion
+0.3410505134	caused by
+0.3409171820	\ textrm
+0.3408066421	neutrino facility
+0.3404567943	the intensity of
+0.3403659355	ion research
+0.3399129717	$ \ mu ^ +
+0.3397152545	order to reduce
+0.3396196832	this letter
+0.3395347164	the growth of
+0.3395347164	the magnitude of
+0.3393524130	self consistently
+0.3391973942	800 mev
+0.3390347164	of particles in
+0.3390289964	mean square
+0.3378974615	of electrons in
+0.3377981907	even though
+0.3377439455	time dependent
+0.3377246491	require about ten years to
+0.3375559882	rf measurements
+0.3375347164	the power of
+0.3374808269	radiation emitted by
+0.3370924983	medium energy beam
+0.3365639940	\ epsilon
+0.3357363908	gives rise to
+0.3352114648	accelerator research
+0.3345338051	transverse mode
+0.3344995223	field measurement
+0.3340841523	c band
+0.3338646764	mass energy
+0.3331238912	ten years
+0.3326787375	\ omega
+0.3326266219	physics beyond
+0.3323118153	accelerator program
+0.3316710800	the source of
+0.3316710800	the position of
+0.3311749667	rather than
+0.3305551576	380 gev
+0.3304336168	beam delivery system
+0.3297875318	longitudinal space
+0.3297858230	longitudinal electric
+0.3296867113	charge field
+0.3295963847	\ rightarrow
+0.3294068676	phase focusing
+0.3292427793	1.5 tev
+0.3282965589	\ mu m
+0.3281634991	polarized beam
+0.3281247591	next step
+0.3279189296	carlo simulations
+0.3277700948	\ textit
+0.3275023763	ii project
+0.3274567943	a beam of
+0.3267765261	co propagating
+0.3264254117	\ delta
+0.3262046090	gev c
+0.3260997581	orders of magnitude higher
+0.3259743704	due to
+0.3257432592	500 gev
+0.3250748465	paper reports on
+0.3248426565	much larger
+0.3247054455	while keeping
+0.3246948606	comparison between
+0.3243391120	one dimensional
+0.3239483796	well understood
+0.3233836428	9 cell cavities
+0.3230983671	this paper
+0.3229799186	energy proton
+0.3229163263	the international muon ionization
+0.3226740806	in comparison to
+0.3226366539	well defined
+0.3225824393	successful operation
+0.3225220346	self amplified
+0.3223757639	higher than
+0.3215464481	electric storage
+0.3213299356	^ *
+0.3212892018	european strategy for
+0.3208405762	collider at cern
+0.3205540698	experiment at fermilab
+0.3205220642	at low energies
+0.3205142636	e cloud
+0.3199339570	used to realise
+0.3197359092	\ simeq
+0.3196787355	ion accelerator
+0.3195213928	250 gev
+0.3192505770	laser radiation
+0.3191889022	350 mhz
+0.3191355989	sub millimeter
+0.3184620828	order mode
+0.3181916857	g 2
+0.3176469172	better than
+0.3169612305	accelerator cavities
+0.3164762510	radiation pulse
+0.3157690135	secondary electron
+0.3155687218	x ray fel
+0.3155171651	high energy storage
+0.3153061394	based on
+0.3151925672	intense proton
+0.3150032949	while maintaining
+0.3146371742	computer code
+0.3145164726	turn injection
+0.3135443702	dimensional phase
+0.3135318022	100 ma
+0.3134822251	original design
+0.3134814552	= 0
+0.3134397989	~ 10
+0.3129158950	beam phase
+0.3128409996	\ ell
+0.3122430935	chirped laser
+0.3117523070	since opening
+0.3115130281	relies on
+0.3114163315	rely on
+0.3109272534	rf linac
+0.3106602526	$ \ sim
+0.3106489061	two dimensional
+0.3105016067	three dimensional particle in cell simulations
+0.3092317143	750 kev
+0.3092298113	depending on
+0.3085219088	transverse plane
+0.3083851972	in order to
+0.3079263196	particle energy
+0.3076703423	particle moving
+0.3076022671	time consuming
+0.3073563563	laser ion
+0.3072908133	100 km
+0.3071040083	accelerator systems
+0.3071015157	as high as
+0.3063989362	low energies
+0.3051401252	non linear
+0.3048607132	able to
+0.3045917663	interplay between
+0.3043862213	divided into
+0.3040277374	intense beam
+0.3038724119	surface electric
+0.3035238279	ultra precise
+0.3032812526	$ _3
+0.3032291380	high repetition
+0.3027864406	8 gev
+0.3026838330	beam distributions
+0.3024019524	$ b_
+0.3023210364	eupraxia @
+0.3017698868	turn by turn beam
+0.3016770286	injected into
+0.3008527508	more than
+0.3002335820	seeded free
+0.2997292556	longer than
+0.2992495489	x ray free electron
+0.2988788755	$ h_
+0.2986459768	pass through
+0.2983837235	as low as
+0.2980900023	^ + e ^
+0.2980598967	relying on
+0.2979311567	of particles and
+0.2979168207	acceleration experiment
+0.2969766400	much smaller
+0.2968303233	vertical beam
+0.2963658881	sub micron
+0.2961178713	circular e + e
+0.2957821395	longitudinal dynamics
+0.2956919141	depends on
+0.2956591968	mu +
+0.2951743847	\ pi
+0.2937194524	at brookhaven national
+0.2936195760	experimental observation of
+0.2935828791	this article
+0.2932714250	charge tune shift
+0.2929989986	~ 20
+0.2921929916	well established
+0.2916874071	results of numerical
+0.2914824662	beam beam effects in
+0.2902557506	30 kev
+0.2896410058	intensity neutrino
+0.2889366449	\ cdot
+0.2888382405	plasma electron
+0.2887846927	cope with
+0.2886408250	linac design
+0.2885986173	9 cell
+0.2885363984	sub femtosecond
+0.2883742762	test area
+0.2875460480	radiation produced
+0.2870522957	10 ^ 6
+0.2863739847	first order
+0.2861993017	advanced photon
+0.2861236488	\ vec
+0.2861013799	\ pm
+0.2860892503	short electron
+0.2857394501	$ _2
+0.2853049950	converted into
+0.2852928550	root mean
+0.2851211299	the effects of
+0.2847736544	400 mev
+0.2845440553	detailed study of
+0.2845311487	of cesr to
+0.2841488479	$ n_
+0.2840260439	wide variety of
+0.2839969754	measurement of magnetic
+0.2839116596	followed by
+0.2832465139	twisted photons by
+0.2826688229	\ lesssim
+0.2821419795	gradient acceleration
+0.2816470642	x ray emission
+0.2814903466	100 tev
+0.2796828272	according to
+0.2795093842	computer simulations
+0.2787922882	attributed to
+0.2786238173	order to achieve
+0.2782002001	\ gamma \ gamma
+0.2780930195	so as to
+0.2779034513	number of particles
+0.2778492180	accompanied by
+0.2774405052	luminosity measurement at
+0.2773255635	laser electron
+0.2771982737	self seeded
+0.2771850942	much higher
+0.2771296669	muon g 2
+0.2771294048	linac ring
+0.2767519604	up to
+0.2766036220	total beam
+0.2763592892	two color
+0.2762857543	\ hbar
+0.2757811614	contributed to
+0.2754936890	field dependence
+0.2750614246	leads to
+0.2750043688	does not depend on
+0.2749487197	instruments ever
+0.2748976369	10 ^ 9
+0.2746644252	~ 50
+0.2738141879	currently under construction
+0.2737436869	linear electron
+0.2730878028	400 gev
+0.2724504182	$ ^
+0.2724153167	regarded as
+0.2722707583	* *
+0.2719448274	self seeding scheme
+0.2713943071	step towards
+0.2710628740	^ 34
+0.2707757435	take advantage of
+0.2703334261	an analytical model
+0.2696374428	linear electron positron
+0.2695056413	driven by
+0.2691093622	cm ^
+0.2689867774	$ \
+0.2688096346	10 ^ 5
+0.2686353584	energy beam transport
+0.2682007829	3 tev
+0.2678256215	accordance with
+0.2677961927	photon hadron
+0.2673694255	subset of
+0.2671971326	difference between
+0.2671071813	$ p_
+0.2666994304	light source ii
+0.2663816947	based upon
+0.2663811048	kev electron
+0.2659681183	an electron beam
+0.2658249480	propagating through
+0.2653258897	compared to
+0.2646706352	structure design
+0.2646509888	viability of
+0.2643176259	100 mev
+0.2640723813	relationship between
+0.2638125554	much larger than
+0.2632766307	longitudinal phase
+0.2631276191	major upgrade
+0.2622535307	wakefields driven by
+0.2616764987	owing to
+0.2616016368	direct measurement of
+0.2611077402	under consideration
+0.2609075113	present design
+0.2607381285	10 ^ 7
+0.2606670287	10 ma
+0.2604538083	large dynamic
+0.2603596377	propose to use
+0.2597990293	at jefferson lab
+0.2595770243	generated by
+0.2593667909	beta =
+0.2592157556	information about
+0.2588419851	e + e linear collider
+0.2586452523	proportional to
+0.2584939903	influenced by
+0.2584557290	beam production
+0.2584275162	q value
+0.2583871225	\ lambda
+0.2582697356	$ e ^
+0.2580013033	cherenkov instability
+0.2578522049	q factor
+0.2571583768	of radiation of
+0.2569054388	150 mev
+0.2568079503	e ^ +
+0.2565897187	previous work
+0.2565302145	by means of
+0.2562680604	electron yield
+0.2560974893	thanks to
+0.2560120645	\ gamma
+0.2553392655	multi beam
+0.2551833648	beam propagating
+0.2550002606	x ray pulse
+0.2547463651	50 hz
+0.2539758260	near term
+0.2537295550	size monitor
+0.2531852150	comprised of
+0.2529237199	\ gamma_a ^
+0.2526262719	second stage
+0.2524127085	imposed by
+0.2522871882	$ h ^
+0.2522457287	$ w cm
+0.2512006227	plasma interaction
+0.2510918834	compact x ray
+0.2510885615	at high energies
+0.2510777553	occupied by
+0.2507747004	polarized laser
+0.2507135565	applied to
+0.2504098564	$ sn
+0.2502869561	relatively small
+0.2502372292	current state of
+0.2501181300	gamma p
+0.2499273780	high degree of
+0.2489637665	^ + \ mu ^
+0.2482089341	correlation between
+0.2480177496	self injected
+0.2477744816	detailed description of
+0.2477697983	successful operation of
+0.2477107040	results of simulations
+0.2474411147	under development
+0.2471783682	space manipulation
+0.2469766964	times larger
+0.2469040479	few femtosecond
+0.2466435612	high degree
+0.2465589556	most promising
+0.2457183512	work function
+0.2456061039	most important
+0.2455482901	lead to
+0.2453540248	$ \ mu
+0.2452860976	x ray source
+0.2444204087	run 1
+0.2443131954	timing system
+0.2438026384	0.5 tev
+0.2436353584	gev electron
+0.2434245786	lhc beam
+0.2433983473	\ frac
+0.2432774916	accelerator control
+0.2431121146	an electron bunch
+0.2425628428	first step
+0.2423342260	non gaussian
+0.2421372443	conjunction with
+0.2420166515	governed by
+0.2414925515	driven electron
+0.2408802689	50 mev
+0.2408558962	consists of
+0.2407771246	\ sqrt
+0.2403413950	rf system
+0.2400434300	devoted to
+0.2399041721	four dimensional
+0.2397339643	in situ
+0.2394376873	m long
+0.2394291207	physical processes for beam collimation and
+0.2389722697	in terms of
+0.2388292775	seeding scheme
+0.2387821161	coherence properties of
+0.2384561685	top up
+0.2381968945	ranging from
+0.2377096333	\ alpha
+0.2377088466	not only
+0.2376873491	able to deliver
+0.2376359390	source ii
+0.2370550190	polarized electron
+0.2370398834	electron collider
+0.2369327512	non zero
+0.2363577197	^ 1
+0.2362530460	recent developments in
+0.2357530956	an order of magnitude
+0.2354866067	optical properties of
+0.2352608800	scaling laws for
+0.2351247396	report presents
+0.2351157264	^ \ pm
+0.2350630864	^ 3
+0.2350263984	frequency quadrupole
+0.2344767765	beam particles
+0.2342576344	experimental demonstration
+0.2338554107	\ deg
+0.2338220693	~ 2
+0.2334163814	this paper reports
+0.2332488520	issues related
+0.2332158634	recovery linac
+0.2327179757	optical diffraction
+0.2326226540	dependence on
+0.2324279691	this note
+0.2316833738	multiple beam
+0.2316770051	this lecture
+0.2315604892	induced energy
+0.2315066068	* 10 ^
+0.2307999634	starting from
+0.2304792047	space distribution
+0.2304389263	^ +
+0.2303823405	into account
+0.2303083293	with respect to
+0.2300921482	beam passes
+0.2299616329	broad range of
+0.2296748228	$ \ vec
+0.2293368497	per year
+0.2290919452	10 ^ 8
+0.2285834869	produced by
+0.2284196146	such as
+0.2278868476	\ nu_ \
+0.2278378309	vicinity of
+0.2274454747	long plasma
+0.2264998930	report on
+0.2263395933	interacts with
+0.2263272862	averaged over
+0.2260805584	\ sigma
+0.2259194964	cloud effects
+0.2257754882	excited by
+0.2257373865	mhz superconducting
+0.2253945790	l =
+0.2252626487	self injection
+0.2248554675	beam injection
+0.2247687644	fermilab accelerator science and
+0.2246079663	originating from
+0.2245739724	present day
+0.2240704655	future accelerator
+0.2240671411	machine detector
+0.2237487119	affected by
+0.2236955928	e + e collider
+0.2235912186	this document
+0.2234354562	particle simulations
+0.2231659310	slice energy
+0.2231416979	long time
+0.2229936129	$ \ pm
+0.2229637089	\ bar
+0.2223820772	3 dimensional
+0.2221584878	s ^ 1
+0.2219649407	coherence time
+0.2215238995	an electron storage ring
+0.2214794440	kicker system
+0.2214593110	very high
+0.2214472120	x ray radiation
+0.2213036157	paid to
+0.2206516493	in recent years
+0.2206488090	$ \ beta
+0.2206462087	in high luminosity large hadron collider
+0.2201733250	full scale
+0.2195866132	compared with
+0.2195190252	under construction
+0.2193471166	beam conditions
+0.2192924783	relation between
+0.2191804746	serves as
+0.2191766013	comment on
+0.2188014672	10 ^ 34 cm
+0.2187825032	particles moving in
+0.2187058089	close to
+0.2185055789	new opportunities
+0.2183046475	$ \ gamma
+0.2181732773	data taken
+0.2180876400	this paper summarizes
+0.2180152010	based accelerator
+0.2176926138	highly complex
+0.2174782033	electron vortex
+0.2169635281	$ 10 ^
+0.2167968063	2.5 mev
+0.2165546383	non planar
+0.2163703610	$ ^ 3
+0.2160930879	& d
+0.2160664004	sub critical
+0.2155896219	advent of
+0.2155334804	^ 11
+0.2155259353	the electron beam
+0.2143307273	high photon
+0.2142546450	100 fs
+0.2141995053	dimensional model of
+0.2141713484	\ boldsymbol
+0.2139292771	analytical expressions for
+0.2137965938	experimental study of
+0.2136118093	used to
+0.2128896797	parametric x ray
+0.2125961435	corresponds to
+0.2125753723	a laser wakefield accelerator
+0.2111976956	r & d program
+0.2104474585	this paper introduces
+0.2104089940	time dependence
+0.2101970171	70 gev
+0.2101431947	non equilibrium
+0.2085405964	induced by
+0.2084953440	characterized by
+0.2082984396	to achieve
+0.2082764510	at fermilab
+0.2079347063	recent progress in
+0.2079252020	$ \ delta
+0.2078700997	impact on
+0.2077540717	at cern
+0.2074421197	$ \ gamma \ gamma
+0.2072386730	depend on
+0.2070780460	$ ^ 9
+0.2070315150	design of hl lhc
+0.2069155040	measurement system
+0.2068681449	three dimensional particle in cell
+0.2066844598	response time
+0.2064588211	relatively low
+0.2064567405	the swiss light source
+0.2062252978	electron beams with
+0.2062116276	7 tev
+0.2061035204	in conjunction
+0.2055426156	accelerator school
+0.2053509447	time scales
+0.2052722760	conceptual design of
+0.2050679300	an important role
+0.2050128581	$ ^ 2
+0.2043335941	aimed at
+0.2042955289	frequency cavities
+0.2039759121	order to increase
+0.2038262641	10 m long
+0.2021826299	main parameters of
+0.2021201072	laser cooling of
+0.2019874926	very low
+0.2019725195	far detector
+0.2019431423	briefly describe
+0.2016763673	3 d
+0.2008323430	rise time
+0.2008105275	precision measurements of
+0.2006182946	moving along
+0.2001588870	contribute to
+0.2001280509	full width at
+0.2000505316	not yet
+0.2000458068	deals with
+0.2000026295	an overview of
+0.1999958411	limited by
+0.1998833694	the help of
+0.1994651316	head on
+0.1989961915	$ ^ 1
+0.1989286215	a relativistic electron bunch
+0.1987936174	field magnets
+0.1986387491	currently under
+0.1985707971	the dual axis
+0.1985583261	linac beam
+0.1983846610	radiation produced by
+0.1981509204	set of coupled
+0.1977777399	emittance beams
+0.1977107332	stimulated emission of
+0.1975200297	higher order modes in
+0.1973830902	a muon collider
+0.1972148993	2s 1
+0.1970411759	break up
+0.1967701190	cyclotron resonance
+0.1965842926	x ray scattering
+0.1963083684	the original design
+0.1959406383	p p
+0.1954616658	used to simulate
+0.1951298236	future neutrino
+0.1950032203	parametric x
+0.1949905911	leading to
+0.1945946138	accounting for
+0.1943234146	laser facility
+0.1942670673	responsible for
+0.1940634870	electron plasma
+0.1937563008	serve as
+0.1933361676	at room temperature
+0.1931870389	production of high
+0.1931033942	introduction to
+0.1929182856	special case of
+0.1924273455	measurements of beam
+0.1919208696	arising from
+0.1919036218	self force
+0.1917733369	100 kw
+0.1909472562	related to
+0.1908830069	probe experiments
+0.1903585202	low z
+0.1903301457	\ leq
+0.1902552199	dealing with
+0.1902141899	cp violation in
+0.1896721860	the pep ii
+0.1896448805	act as
+0.1893649181	1 ms
+0.1893018705	x ray sources
+0.1891761153	much more
+0.1889958928	radiation generated by
+0.1885315377	beam experiments
+0.1880368984	\ beta
+0.1879547245	at desy
+0.1873833148	phase 1
+0.1873639343	a storage ring
+0.1870758422	present status of
+0.1870372492	studied in detail
+0.1866631149	very high energy
+0.1866083722	in order to achieve
+0.1865464474	beam collisions
+0.1860640279	electron bunches with
+0.1860311891	the detailed engineering
+0.1859175933	coupling impedances of
+0.1858324357	equipped with
+0.1858314380	charge effects
+0.1857781904	in storage rings
+0.1856260643	bunched electron
+0.1855395843	charge limit
+0.1854898534	acts as
+0.1848617018	beam control
+0.1845544437	all optical
+0.1843514956	focuses on
+0.1840643438	100 kev
+0.1839228377	20 years
+0.1836834416	relative energy
+0.1832869734	determined by
+0.1831653444	near field
+0.1830103149	detector interface
+0.1829351869	potential well
+0.1828314075	a major upgrade
+0.1822182442	$ \ sqrt
+0.1821383604	beam studies
+0.1818484715	from 1 to
+0.1813111235	fields generated by
+0.1811838013	much longer
+0.1810770026	kinds of
+0.1808044880	\ bar \ nu
+0.1805987427	1 gev
+0.1805662294	present results of
+0.1802792071	referred to
+0.1799268668	a bent crystal
+0.1798144894	beam axis
+0.1795061420	simulation of beam
+0.1788221303	wide range of
+0.1786266760	variety of
+0.1784381615	e ^
+0.1781413181	\ si
+0.1781374052	flat electron
+0.1777649274	10 fs
+0.1777367395	paper gives
+0.1773016917	positron collider
+0.1769635386	angular distribution of
+0.1765211376	radiation pulses
+0.1762538952	200 mev
+0.1761640549	this work
+0.1759063933	supported by
+0.1758464674	dynamics simulations
+0.1756881210	the beam axis
+0.1756618321	protons per
+0.1755038096	x ray free
+0.1751838691	radiation theory
+0.1749616647	large number of
+0.1746918507	5 ma
+0.1746187249	together with
+0.1742052079	in order to minimize
+0.1741055368	^ 17
+0.1737102976	acceleration driven
+0.1735222886	linear beam
+0.1734040037	prior to
+0.1732481735	non scaling
+0.1732364188	\ nu_
+0.1728434873	1 tev
+0.1728027973	the present document
+0.1727821605	to obtain
+0.1726905899	capable of
+0.1725708256	\ lambda_
+0.1725001584	pulse front
+0.1724412620	point like
+0.1721134741	a charge moving
+0.1720030580	g 2 experiment
+0.1716543828	to produce
+0.1716041552	300 mev
+0.1713862030	other hand
+0.1713435330	successfully used
+0.1712429039	5 kev
+0.1711561319	to reduce
+0.1710669302	gamma t
+0.1706784620	fermilab accelerator
+0.1705623908	radiation source
+0.1701452247	surface resistance of
+0.1701303104	injection into
+0.1701127150	transverse phase
+0.1701080601	one order of magnitude
+0.1698896838	10 ^ 4
+0.1692501898	4 mw
+0.1688990228	per pulse
+0.1685990990	collider based on
+0.1684314224	used to measure
+0.1684032394	dimensional model
+0.1678952742	the presence of
+0.1678825717	beam performance
+0.1678688417	few percent
+0.1670895494	60 mev
+0.1666121699	mev c
+0.1663892480	particle motion in
+0.1662497771	3 ghz
+0.1661843507	angular distributions of
+0.1660655450	time scale
+0.1659586045	halo formation in
+0.1655959154	accelerator test
+0.1654463724	results obtained with
+0.1651651125	fel beam
+0.1649528137	numerical analysis of
+0.1649128589	thermal wave
+0.1648798810	transition radiation from
+0.1648025839	a wide range of
+0.1647000029	non linear effects
+0.1641002209	perpendicular to
+0.1640344130	power laser
+0.1637123502	order of 10
+0.1635585355	the present paper
+0.1635106805	a single electron
+0.1633565746	at least
+0.1633312801	v c
+0.1633053367	taking into
+0.1632625400	deal with
+0.1629745524	20 mev
+0.1626768958	trapped magnetic
+0.1626202172	time step
+0.1624046046	agreement between
+0.1622974983	few hundred
+0.1615090780	cryogenic system
+0.1613210494	to measure
+0.1608848791	results show
+0.1607533583	new physics
+0.1606895491	consisting of
+0.1602826373	more accurate
+0.1597328638	electron beams from
+0.1593952742	a factor of
+0.1592864247	test facility at
+0.1592031227	extracted from
+0.1591367818	cm ^ 2 s
+0.1591314420	a relativistic electron beam
+0.1589619626	distance between
+0.1589435777	emittance growth due to
+0.1588263795	led to
+0.1587864764	beam break
+0.1586112724	simulation study of
+0.1584348478	in cw mode
+0.1583942774	to end simulations
+0.1581737943	for csns rcs
+0.1578893034	to generate
+0.1577824957	scheme based on
+0.1574380580	accelerated electron
+0.1573629305	results indicate
+0.1573456986	kinetic energy of
+0.1572641641	a conceptual design
+0.1572384590	colliders based on
+0.1570745295	emphasis on
+0.1569652979	laser wake
+0.1568897905	an ultra relativistic
+0.1565494730	bunch feedback
+0.1565355811	laser system
+0.1562428494	e e
+0.1561022319	resulted in
+0.1560907474	a free electron laser
+0.1558484123	mev linac
+0.1558196164	fundamental particle
+0.1557693176	relativistic electrons in
+0.1556906188	space time
+0.1556802746	consistent with
+0.1555648269	beam direction
+0.1554514682	20 kev
+0.1553113342	beam ion
+0.1550012229	an all electric
+0.1549743284	laser accelerators
+0.1549670261	conceptual design for
+0.1548758982	very challenging
+0.1547674129	test results of
+0.1547026245	the transverse plane
+0.1545978961	the total angular
+0.1545505374	correspond to
+0.1545476049	$ 5 \
+0.1543387254	x ray generation
+0.1542975922	coupling between
+0.1542731142	different types of
+0.1542325181	$ \ sigma
+0.1542286075	a function of
+0.1542210887	the order of
+0.1541101312	longitudinal dynamics of
+0.1541024985	the quality of
+0.1540373999	consist of
+0.1540231703	new possibilities
+0.1535758935	injection scheme for
+0.1532473078	beam pulses
+0.1532269774	1 mm
+0.1531468100	feasibility study of
+0.1530219007	tens of
+0.1529289286	powered by
+0.1526728483	$ _2 ^ +
+0.1526091415	15 mev
+0.1523852851	achieved by
+0.1523781198	self generated
+0.1523241133	but also
+0.1521705551	time varying
+0.1520457842	in excess of
+0.1517635489	the beam direction
+0.1516846549	energy electron beam
+0.1512543459	10 mev
+0.1510090131	dynamics studies
+0.1506729951	\ partial
+0.1503830116	a cost effective
+0.1500487102	field dependence of
+0.1500444869	this report
+0.1496399092	very small
+0.1496237825	energy storage ring
+0.1493117809	s channel
+0.1492484415	comparable to
+0.1492252656	provided by
+0.1492243282	$ ^ \ circ
+0.1487771594	the main linac
+0.1485790356	resolved electron
+0.1482985088	space charge effects in
+0.1481952742	a series of
+0.1481513213	e + e colliders
+0.1477494089	1 nc
+0.1476827535	much lower
+0.1476439356	possible solutions
+0.1475525412	a single
+0.1474907322	time resolved electron
+0.1472035690	20 t
+0.1462641648	motivated by
+0.1461291105	a broad range
+0.1460068030	the possibility of
+0.1454930692	this method
+0.1452289030	a wide range
+0.1452213670	considered in detail
+0.1451257694	an intense laser
+0.1447414702	to realize
+0.1446267874	very important
+0.1444511930	the basic principles
+0.1440427191	to avoid
+0.1436188447	\ times
+0.1434828938	better understanding
+0.1434803981	tube linac
+0.1434572918	full width
+0.1432721515	the beam energy
+0.1432319613	composed of
+0.1428665751	50 gev
+0.1428055438	model based
+0.1427304694	beam charge
+0.1425771013	a pair of
+0.1421576920	makes possible
+0.1419954538	exposed to
+0.1419530411	an important
+0.1418342168	for future accelerators
+0.1417614848	technique based on
+0.1415207374	differs from
+0.1413518503	even if
+0.1410523682	proton beam from
+0.1409320625	portion of
+0.1406732547	^ \
+0.1406374140	non relativistic
+0.1406095599	the framework of
+0.1406076578	to minimize
+0.1403401363	the case of
+0.1403264524	to optimize
+0.1395891012	the ion beam
+0.1392083057	the longitudinal dynamics
+0.1392054047	the same
+0.1390603977	high q
+0.1389629953	injection beam
+0.1387735475	10 gev
+0.1381842535	34 cm
+0.1379663977	field generated
+0.1377830299	distribution system
+0.1377246661	dominated by
+0.1374718809	energy photons
+0.1369471658	a short period
+0.1367594363	$ _
+0.1364783616	in addition
+0.1363463982	a brief introduction
+0.1363128662	number of
+0.1360336522	the art
+0.1358650054	results from
+0.1357367576	\ unit
+0.1355498269	and future plans
+0.1354217337	next linear
+0.1353282085	possible applications
+0.1352297414	presented here
+0.1349953211	report here
+0.1348855570	an ultra short
+0.1347596875	higher beam
+0.1346403833	a high intensity proton
+0.1346352317	small energy
+0.1341559209	the international muon
+0.1340300223	acting on
+0.1339674336	results of
+0.1338389877	muon beams for
+0.1336611614	simulation results for
+0.1332781361	a case study
+0.1329969793	different approaches
+0.1326316099	charge forces
+0.1324982765	charge compensation
+0.1324059372	the use of
+0.1322305463	40 mev
+0.1322304597	the electron bunch
+0.1321963684	the new configuration
+0.1321075923	$ \ mathrm
+0.1319451540	the blowout regime
+0.1315865150	2 m long
+0.1314522396	control over
+0.1313631851	relatively large
+0.1313395591	accelerator r & d
+0.1311914079	quality beams
+0.1311588287	each other
+0.1310232516	description of
+0.1308774380	to meet
+0.1307175533	\ gamma_a
+0.1306712424	even higher
+0.1305152571	inferred from
+0.1305056253	the plasma wavelength
+0.1304891449	good agreement between
+0.1304725827	to detect
+0.1303990754	x ray beams
+0.1299278465	1 khz
+0.1298419542	$ 10 ^ 3
+0.1297018983	energy measurement
+0.1296036319	^ 10
+0.1295544220	a set of
+0.1294906975	gev m
+0.1293870592	cross sections of
+0.1292324039	novel concept
+0.1288376876	many years
+0.1285945672	many applications
+0.1285806516	+ ions
+0.1281721545	beam generated
+0.1280732322	focused on
+0.1280514780	self fields
+0.1279611642	high power superconducting
+0.1279319470	separated by
+0.1279303674	discussed in detail
+0.1276777497	properties of
+0.1275291804	consists of two
+0.1272477745	these proceedings
+0.1272239497	the electron cloud
+0.1270540132	combination of
+0.1269431185	the radiation intensity
+0.1268451770	away from
+0.1267999602	mode coupling
+0.1267015192	also discussed
+0.1266895488	injector test
+0.1262452284	5 mev
+0.1260028706	suitable for
+0.1259382680	combined with
+0.1258262644	currently available
+0.1257373234	three main
+0.1251449895	study of beam
+0.1251011441	integrated into
+0.1250260264	transverse magnetic
+0.1249888468	the longitudinal direction
+0.1248984304	a low energy
+0.1248712390	presence of
+0.1248015753	simulations show
+0.1247843777	the spectral angular
+0.1246282051	high beam
+0.1243201559	to improve
+0.1242956976	energy distribution of
+0.1242829340	equal to
+0.1242743994	the main
+0.1241051032	as well
+0.1239773773	theoretical analysis and
+0.1238288659	near future
+0.1237447524	advanced superconducting
+0.1235318176	dependence of
+0.1234507121	respect to
+0.1234002978	differ from
+0.1229479500	wavelet approach to
+0.1229087682	rf control
+0.1227691589	a simple model
+0.1227048577	at slac
+0.1226646902	emittance growth in
+0.1225698981	compatible with
+0.1225513251	the beam envelope
+0.1224865156	performed by using
+0.1224414311	two decades
+0.1224328683	\ mu s
+0.1223304152	the beam
+0.1222776528	a few
+0.1222119172	confirmed by
+0.1221748691	for high energy physics
+0.1220818397	the electron beam energy
+0.1220247101	an electron cloud
+0.1219845667	method based on
+0.1218420441	the beam beam interaction
+0.1217168726	benefit from
+0.1215976551	the context of
+0.1214001089	to mitigate
+0.1211498915	high energy e + e
+0.1209491287	for use in
+0.1209336655	more general
+0.1209240390	the microbunching instability
+0.1206629312	method based
+0.1202650551	national accelerator
+0.1202416871	5 cell
+0.1200676788	ion beams from
+0.1196110388	e +
+0.1195989629	more efficient
+0.1195976823	to determine
+0.1194192074	focus on
+0.1194178891	the magnetic field
+0.1191700082	tesla superconducting
+0.1191178891	the laser pulse
+0.1191035202	held at
+0.1190800938	the beam density
+0.1189951167	time resolution
+0.1189929179	driven ion
+0.1189761989	$ ^ +
+0.1188576555	source based on
+0.1187234696	a new
+0.1186286035	to overcome
+0.1185936928	the mu2e experiment
+0.1185820621	collaboration between
+0.1184515767	the beam pipe
+0.1184058508	interaction between
+0.1182415748	bunch mode
+0.1179246087	beam coupling
+0.1177806762	beam focusing
+0.1176298708	the paper presents
+0.1175438337	to provide
+0.1173935061	high bunch
+0.1172291546	second harmonic
+0.1171282395	bpm system
+0.1169637089	design and performance of
+0.1168597350	the interaction point
+0.1168476185	30 mev
+0.1166764607	the space charge
+0.1165975597	in contrast to
+0.1165727603	accelerating rf
+0.1163469849	^ 9
+0.1157598124	interact with
+0.1156839019	facility based on
+0.1155362187	about 10
+0.1153619664	a crystalline undulator
+0.1152071425	emittance electron beam
+0.1151422043	$ m
+0.1150393817	a circular accelerator
+0.1147004924	correlated energy
+0.1143634784	intensity accelerators
+0.1143096519	to deliver
+0.1143085380	this chapter
+0.1142902477	$ ne
+0.1142515440	cavity beam
+0.1140296525	the base of
+0.1140042877	operated at
+0.1138785362	the beam beam
+0.1138332303	not always
+0.1137713053	described in detail
+0.1137353262	the level of
+0.1133737534	several years
+0.1131050603	$ e_
+0.1129029759	the european x ray
+0.1129004924	negligible energy
+0.1128143086	the european strategy
+0.1127305013	the same time
+0.1126339382	this paper reports on
+0.1124780213	the beam line
+0.1123096227	a train of
+0.1121252798	100 gev
+0.1118627053	optical cooling
+0.1118050712	h +
+0.1115183474	accomplished by
+0.1113724631	cooling system
+0.1112430389	per bunch
+0.1112373931	large hadron
+0.1112021277	cornell electron
+0.1111585895	a single crystal
+0.1110100051	current status of
+0.1106634981	to evaluate
+0.1106603936	\ sim10 ^
+0.1106490275	takes into
+0.1106438279	neutrino factory or
+0.1105384053	vacuum system
+0.1104604194	proton beam with
+0.1103826176	superconducting test
+0.1103603489	^ 4
+0.1103051950	the integrated luminosity
+0.1103028457	a variety of
+0.1101543486	also discuss
+0.1099916462	compensated by
+0.1098176432	to increase
+0.1097531667	w cm
+0.1094921730	a novel method
+0.1093961406	to ensure
+0.1093366700	the existence of
+0.1092782957	a radio frequency quadrupole
+0.1091961112	beam dynamics in
+0.1091358697	injected electron
+0.1090397157	charged particles in
+0.1089306995	x ray regime
+0.1088457665	this study
+0.1087793260	used to optimize
+0.1085200445	the anomalous magnetic
+0.1084380045	obtained by
+0.1081801350	used as
+0.1081576930	10 ^ 3
+0.1081399527	a few percent
+0.1081166112	an arbitrary
+0.1079604214	2 d
+0.1079322471	h beam
+0.1075806049	mean free
+0.1075030372	cross section for
+0.1073463008	time structure
+0.1072836499	charge force
+0.1072624970	& d program
+0.1072473948	far field
+0.1072131323	2 mw
+0.1071148655	the aim of
+0.1070793634	the need for
+0.1069335171	this contribution
+0.1067536984	irradiated by
+0.1066604687	implemented into
+0.1063566184	3 gev
+0.1061755976	the acceleration process
+0.1059292598	longitudinal electron
+0.1058972654	protection system
+0.1058873354	formed by
+0.1057028996	to study
+0.1055736090	refer to
+0.1055457993	5 gev
+0.1054085429	two stage
+0.1052810918	the spin tune
+0.1052322562	novel method
+0.1050925069	intended to
+0.1048741818	source based
+0.1047798856	this presentation
+0.1047617800	each scale
+0.1047414074	derived from
+0.1046867147	$ \ rm
+0.1046570737	model based on
+0.1041497052	very short
+0.1038552045	the amplitude of
+0.1036993919	energy particles
+0.1036395802	a neutrino factory or muon collider
+0.1035952134	operating at
+0.1035408485	based acceleration
+0.1035381210	10 kev
+0.1033058483	used for
+0.1032611373	searching for
+0.1031974453	to accelerate
+0.1031013534	the baseline undulator
+0.1028795065	of twisted photons
+0.1028599368	design study of
+0.1028227208	focusing system
+0.1027294739	to suppress
+0.1026870718	a large number of
+0.1023274134	the photon energy range
+0.1022154260	several examples
+0.1021628773	an electron
+0.1021519888	at daresbury
+0.1019284037	energy gain of
+0.1019005798	the basis of
+0.1018334651	interacting with
+0.1016374595	calculations show
+0.1016285892	the beam emittance
+0.1015684372	about 30
+0.1013310412	the first time
+0.1013172432	3 4
+0.1013122832	on axis
+0.1012599865	treated as
+0.1010682600	to understand
+0.1008478677	$ ray
+0.1006036789	cern large
+0.1004956800	well beyond
+0.1004221455	1 mw
+0.1003449730	comparison with
+0.1003384983	+ +
+0.1001506367	delivery system
+0.1001422446	optical properties
+0.1000234900	2 k
+0.0999776464	a complete
+0.0997003785	the quantum regime
+0.0995750653	superposition of
+0.0993312235	to calculate
+0.0992670040	contrary to
+0.0991862419	used to calculate
+0.0991732239	this approach
+0.0991602751	considered as
+0.0991014440	1 hz
+0.0990783114	measurements of
+0.0989297118	some cases
+0.0988747309	under study
+0.0987837238	t m
+0.0986700348	discuss possible
+0.0985712959	located at
+0.0984064992	energy electrons
+0.0983813496	energy spread of
+0.0983374293	a beam driven
+0.0983132670	applications such as
+0.0982806388	brightness electron
+0.0982679018	associated with
+0.0981084747	$ \ times
+0.0980368962	experimental studies of
+0.0979949806	cross section of
+0.0979595741	optical system
+0.0977623070	high energy e
+0.0975881528	a high energy
+0.0975157483	energies up to
+0.0975144764	a relativistic electron
+0.0974872778	very compact
+0.0974805634	the transverse beam
+0.0974030213	acceleration of electrons in
+0.0972590823	accelerators based on
+0.0971966989	spot size of
+0.0971339528	enabled by
+0.0970827707	much less
+0.0970569875	high electric
+0.0969608664	the electron energy
+0.0969443194	in particular
+0.0969384586	the end of
+0.0967885044	a few hundred
+0.0965152647	to reach
+0.0963537629	high acceleration
+0.0959630168	sensitive to
+0.0957184970	laser pulse with
+0.0956916515	the effect of
+0.0956844652	coming from
+0.0955648013	maximum beam
+0.0955229202	a number of
+0.0953259420	an alternative
+0.0952587661	replaced by
+0.0951344372	an undulator
+0.0950178401	electron beam with
+0.0949583684	operate at
+0.0948077154	an example
+0.0947070294	the other hand
+0.0946827099	several orders of magnitude
+0.0946345643	a high current
+0.0945826242	electron beam from
+0.0944740442	design and operation of
+0.0943180727	\ sim 10
+0.0942811815	accelerated by
+0.0942490885	rms beam
+0.0942249509	state of
+0.0941400238	+ \ mu
+0.0941266963	beam facilities
+0.0941043831	the longitudinal space charge
+0.0939619942	the spin precession
+0.0937840670	radiation facility
+0.0937331334	novel technique
+0.0936141732	repetition rate of
+0.0934787589	contribution to
+0.0934750836	all electric
+0.0932884586	the problem of
+0.0932329728	beam bunches
+0.0931622336	less than 1
+0.0930150292	the long baseline neutrino
+0.0929912816	even more
+0.0929614672	storage ring with
+0.0929513055	charge per
+0.0929068868	an ideal
+0.0928409458	10 20
+0.0927642712	used to accelerate
+0.0926391678	experiment at
+0.0925925498	the steady state
+0.0925145513	the rapid cycling synchrotron
+0.0924456893	in conjunction with
+0.0924023427	this effect
+0.0922427649	for nova
+0.0922117077	quality factor of
+0.0920002355	the vacuum chamber
+0.0916588036	apart from
+0.0915525141	nonlinear beam
+0.0914512964	$ p
+0.0914296744	a novel approach
+0.0914132714	a neutrino factory
+0.0914035038	used to estimate
+0.0913008921	a laser beam
+0.0912861031	required for
+0.0912687732	lack of
+0.0912253937	h ^
+0.0911889092	similar to
+0.0911764206	predicted by
+0.0911301445	a novel concept
+0.0910957267	the purpose of
+0.0910290073	field acceleration
+0.0910075930	an efficient
+0.0909781760	a single beam
+0.0908982353	space density
+0.0908864128	about 50
+0.0907961734	3 mev
+0.0907928720	superconducting magnets for
+0.0907517396	\ beta =
+0.0906700472	an intense
+0.0905574435	first direct
+0.0904788683	measurement of
+0.0904675640	two orders of magnitude
+0.0904622238	important role in
+0.0903798373	the latter
+0.0903314449	filled with
+0.0902451198	a single shot
+0.0901766153	illustrated by
+0.0900329861	the fundamental mode
+0.0899224114	1 kw
+0.0896709823	an important role in
+0.0894987679	hundreds of
+0.0894884613	the first
+0.0894883868	effect on
+0.0894429384	cell superconducting
+0.0893949951	carried out using
+0.0893901379	the storage ring
+0.0893256798	obtained from
+0.0891560176	part of
+0.0891071303	used in
+0.0890077196	up to 10
+0.0889723636	the physics goals
+0.0889387942	this talk
+0.0888505240	tool for
+0.0887717291	the beam lifetime
+0.0887703951	beam power of
+0.0887661642	the performance of
+0.0887223790	expression for
+0.0886978587	range of beam
+0.0885327136	design and construction of
+0.0883909646	beam scattering
+0.0883583959	the initial beam
+0.0882457890	a broad range of
+0.0881921780	self seeding scheme with
+0.0881853498	in order to reduce
+0.0881437122	free electron laser with
+0.0880978587	effect of beam
+0.0879948197	to resolve
+0.0879744412	to simulate
+0.0877634538	this scheme
+0.0876769619	radiation from
+0.0875037056	subject to
+0.0874067074	the electric dipole moment
+0.0872602136	the ion source
+0.0872546853	beam density
+0.0872312497	^ 5
+0.0871786945	more detailed
+0.0871386790	$ \ pi
+0.0870719021	of beam beam effects
+0.0870555719	laser acceleration of
+0.0870527185	validated by
+0.0869513500	compton scattering of
+0.0867027443	the role of
+0.0865660354	a result of
+0.0865413932	one hundred
+0.0864316650	the long term
+0.0862634538	this technique
+0.0862122784	the radiation process
+0.0862046343	to date
+0.0861116187	the design of
+0.0858145199	of muon beams
+0.0856390193	this kind
+0.0855243807	development of
+0.0855127887	the impact of
+0.0853608801	a high intensity
+0.0852817361	$ s
+0.0852751464	10 ^ 10
+0.0852681261	bunch energy
+0.0852113468	accelerating gradient of
+0.0851358062	ionization cooling of
+0.0850810293	also presented
+0.0850675477	an innovative
+0.0849151143	at cosy
+0.0848402833	1 ma
+0.0846566935	observation of
+0.0846270378	created by
+0.0846110108	used to obtain
+0.0844887639	down to
+0.0844126357	consisting of two
+0.0843568433	injection system
+0.0842891880	the beam optics
+0.0842594561	the proton beam
+0.0842045289	tuning system
+0.0841506461	very large
+0.0841040827	$ \ mu ^
+0.0836775865	e ^ + e
+0.0836014131	each cavity
+0.0835547304	shown to
+0.0835177746	represented by
+0.0835158822	1 3
+0.0833940476	mev m
+0.0833080857	4 gev
+0.0831489349	electron beam in
+0.0831347846	j \
+0.0830251947	to protect
+0.0828975289	the direction of
+0.0828022224	a novel scheme
+0.0827049997	bunch length of
+0.0826959044	$ n
+0.0826695507	about 5
+0.0826262710	\ phi
+0.0826252566	aims at
+0.0825109262	agree with
+0.0824998507	of highly charged
+0.0823903482	ion beams in
+0.0822685470	the electric field
+0.0822071635	an energy spread
+0.0820957171	a way to
+0.0820772125	the longitudinal phase space
+0.0820594079	used to determine
+0.0819757855	emission from
+0.0819529049	a review of
+0.0819354319	to create
+0.0819054505	the beam distribution
+0.0817744275	the physics potential of
+0.0815739862	30 gev
+0.0814723704	the plasma density
+0.0813347088	an average
+0.0810474532	charge induced
+0.0809972704	level rf
+0.0809464181	particle dynamics in
+0.0809441668	6 gev
+0.0808809337	of space charge effects
+0.0808293099	extraction system
+0.0807712580	transport through
+0.0805661642	the influence of
+0.0803812965	$ cm
+0.0803610340	the crab waist
+0.0802981445	influence on
+0.0802951281	photon energy of
+0.0802919022	corresponding to
+0.0801661642	the feasibility of
+0.0800535787	the free electron laser
+0.0799887310	suppressed by
+0.0799792147	transverse self
+0.0799503104	electron bunch with
+0.0799285603	mev beam
+0.0799209474	on line
+0.0797309595	distance from
+0.0797135505	energy spectrum of
+0.0795790642	in order to increase
+0.0795630980	electron acceleration in
+0.0795240776	taken into
+0.0794654959	new type
+0.0794588971	agreement with
+0.0794446578	analysis of
+0.0794290543	$ collider
+0.0794043971	these findings
+0.0793313665	the beta function
+0.0793152657	good agreement with
+0.0793122585	a novel
+0.0791733959	present here
+0.0788602572	onset of
+0.0784892625	10 ~
+0.0784235098	low beam
+0.0784226417	x ray beam
+0.0782441745	the 2020s
+0.0780931242	few mev
+0.0780200527	this idea
+0.0780172667	the muon beam
+0.0779952814	x 10 ^
+0.0779944217	the inner surface
+0.0779327584	the radiation field
+0.0779007295	transferred to
+0.0778086125	1 mev
+0.0777677929	n =
+0.0775359921	first stage
+0.0775097622	the beam current
+0.0774615732	acquisition system
+0.0774431716	$ o
+0.0774245044	the incident laser
+0.0774128562	$ \ sim 10
+0.0773975289	the goal of
+0.0773258360	becomes possible
+0.0772832665	the beam quality
+0.0772211620	dedicated to
+0.0771890148	a peak current
+0.0771673630	e + e linear
+0.0769450272	well as
+0.0766427834	role in
+0.0765021552	$ ep
+0.0764460651	an asymmetric
+0.0763292968	a high power
+0.0763025915	generation of
+0.0762793209	modern particle
+0.0761237905	+ 1
+0.0761215347	the secondary electron
+0.0760912784	a new method
+0.0760308945	a new type of
+0.0759959034	come from
+0.0759420283	assessment of
+0.0759386061	= 10 ^
+0.0759127887	the concept of
+0.0758841594	an external
+0.0758300544	growth due to
+0.0757591321	an explanation
+0.0757056038	region design
+0.0756588836	an opportunity
+0.0756446606	in particle accelerators
+0.0756320406	a new approach
+0.0755576825	1 2
+0.0754393283	to fulfil
+0.0754348260	particle beams in
+0.0752390279	resulting from
+0.0751942643	this fact
+0.0750560438	a compact
+0.0749177527	a short
+0.0749142921	attempt to
+0.0748978859	for instance
+0.0746596355	2 gev
+0.0746068116	the low energy
+0.0745905809	also studied
+0.0745050289	current state
+0.0744235098	intensity beam
+0.0744133002	on going
+0.0744066635	aiming at
+0.0743727429	comparison of
+0.0743305301	aims to
+0.0742419658	with space charge
+0.0741842387	used to produce
+0.0740723676	at gsi
+0.0740484082	status of
+0.0740224332	possibility of using
+0.0739614832	designed to
+0.0737755572	by adjusting
+0.0735988777	$ 1 \
+0.0735632999	gamma =
+0.0735493807	characteristics of
+0.0735021803	range between
+0.0734060933	used to study
+0.0734000421	energy range of
+0.0733635640	a major upgrade in
+0.0733133687	explained by
+0.0732663800	consists in
+0.0732346113	storage ring at
+0.0731425614	electron beam at
+0.0730947658	the dynamic aperture
+0.0730083714	feasibility of
+0.0729957171	the way for
+0.0729915639	storage rings with
+0.0729863858	system consists
+0.0729818235	^ 6
+0.0729541247	the surface resistance
+0.0729434737	the beam size
+0.0729115261	three orders
+0.0727613385	the extraction line
+0.0726600523	$ _2 ^
+0.0726109128	in phase space
+0.0724823729	also considered
+0.0724796771	installed in
+0.0724181574	more compact
+0.0723946606	for particle accelerators
+0.0723896228	combination with
+0.0723747094	the exit of
+0.0722512799	the residual resistance
+0.0721184966	an introduction
+0.0720369659	over 10
+0.0719723704	the plasma wave
+0.0719098272	a simple
+0.0718719561	this type of
+0.0717115253	beam loss in
+0.0715922544	beam tune
+0.0714998016	the interaction of
+0.0714352095	beam current of
+0.0713815888	exploitation of
+0.0713732426	sensitivity to
+0.0711931968	the vicinity of
+0.0710957758	used to generate
+0.0710835121	such facilities
+0.0710658641	e field
+0.0709979899	the importance of
+0.0708518157	considerations on
+0.0708301589	reports on
+0.0707855159	the production of
+0.0707800791	for use as
+0.0705867133	the amount of
+0.0704348559	the first stage
+0.0703224648	phase space of
+0.0701406399	energy gain in
+0.0701298975	the first phase
+0.0701134538	this case
+0.0700752167	analogy with
+0.0700614000	beam energies of
+0.0700300955	storage ring for
+0.0698815018	energy collider
+0.0698183832	interpretation of
+0.0697484824	expressions for
+0.0697094377	the numerical results
+0.0696330236	evolution of
+0.0696222643	beam energy of
+0.0696005725	analytical model of
+0.0695623243	the beam properties
+0.0695529421	moving through
+0.0695515870	the phase space
+0.0695481144	the possibility to
+0.0695174566	about ten
+0.0694729572	the way towards
+0.0693552162	tolerances on
+0.0693065024	the maximum
+0.0691938263	magnetic field in
+0.0691600523	\ pi ^
+0.0690833827	this problem
+0.0690349709	3d space
+0.0690153304	an optical
+0.0689881544	study of
+0.0689855968	a large
+0.0689766303	losses due to
+0.0689599730	the final focus
+0.0688975289	the process of
+0.0688040709	controlled by
+0.0687580077	$ 1
+0.0687135881	2 mm
+0.0687132891	data from
+0.0687066198	a combination of
+0.0686931968	the rest of
+0.0686296073	very sensitive
+0.0683975289	the physics of
+0.0683576019	focused by
+0.0683508357	laser pulse in
+0.0681644098	application to
+0.0679916835	new generation
+0.0679071183	vacuum chamber of
+0.0678119183	an application
+0.0674722088	realized by
+0.0674528256	neutrinos from
+0.0673714071	in front of
+0.0673652072	in order to produce
+0.0673201679	1 10
+0.0672702165	to develop
+0.0672063765	the linear regime
+0.0671885231	the beam loss
+0.0671298373	amount of
+0.0670874514	very sensitive to
+0.0670736474	under various
+0.0670644249	a new scheme
+0.0668448611	dependent on
+0.0667722646	needed to
+0.0667553202	the drive beam
+0.0665854264	self field
+0.0665560741	workshop on
+0.0665266016	about 1
+0.0664146949	two photon
+0.0663748982	x ray energy
+0.0663274078	below 1
+0.0662910983	applicable to
+0.0662256432	going to
+0.0661846695	aspects of
+0.0661334476	this result
+0.0660919649	an accelerator
+0.0659922812	the speed of light
+0.0659360443	the beam dynamics
+0.0659218518	the quality factor
+0.0658929427	expected to
+0.0658867952	loss due to
+0.0658552332	approach to
+0.0658366299	$ e ^ +
+0.0658342786	a high luminosity
+0.0657316066	also demonstrate
+0.0656589655	the validity of
+0.0654571291	influence of
+0.0654294553	the number of
+0.0654294553	the development of
+0.0653750098	a radio frequency
+0.0653490403	used to provide
+0.0652340522	understanding of
+0.0649197292	suited for
+0.0648302317	very good
+0.0647682451	a finite
+0.0647607457	electron bunch in
+0.0645010026	a laser driven
+0.0644297571	defined as
+0.0643724920	a particle beam
+0.0643484652	a laser wakefield
+0.0639175704	1 ~
+0.0639061896	the way to
+0.0638088474	second part
+0.0638044955	\ mu ^
+0.0637589147	the maximum energy
+0.0637452167	power test
+0.0637079373	installed at
+0.0635867133	the formation of
+0.0635374843	version of
+0.0635224168	transition from
+0.0635213217	widely used in
+0.0634887124	transport system
+0.0634533927	this process
+0.0634270869	the tevatron
+0.0633946266	this facility
+0.0633616517	an array of
+0.0633299056	a new generation of
+0.0633288658	by solving
+0.0632484607	or even
+0.0632122186	evaluation of
+0.0632117499	to validate
+0.0632079348	in addition to
+0.0632048448	absence of
+0.0631832432	the evolution of
+0.0631472975	verified by
+0.0631314394	at rest
+0.0630267033	a large number
+0.0629333374	range of
+0.0629321291	set of
+0.0629219002	a free electron
+0.0628380815	overview of
+0.0628046203	mu m
+0.0627485363	as part of
+0.0626839841	a high quality
+0.0625956386	during operation
+0.0625058417	reduced by
+0.0624777046	to keep
+0.0624481297	1 kev
+0.0624104963	this model
+0.0623673554	to realise
+0.0622274604	by adding
+0.0622156603	p collider
+0.0621191147	the beam parameters
+0.0620934988	physics potential of
+0.0620931411	novel approach
+0.0620609302	to replace
+0.0619077464	types of
+0.0619040819	way towards
+0.0618718159	incident on
+0.0618333283	agrees with
+0.0617301875	increased by
+0.0616893837	by introducing
+0.0616712914	information on
+0.0616125488	in order to study
+0.0615912730	the beam transport
+0.0614810523	cell cavity
+0.0614571291	investigation of
+0.0614511799	s ^
+0.0614390799	to perform
+0.0614121055	an acceptable
+0.0613776687	relevant to
+0.0611622449	= 1
+0.0611503950	three different
+0.0610511213	very long
+0.0608069964	equivalent to
+0.0608058369	optimization of
+0.0608052335	a low emittance
+0.0606924513	look at
+0.0605121897	\ mu ^ +
+0.0604929712	in good agreement with
+0.0604533676	identified as
+0.0603494550	a high
+0.0603417445	result in
+0.0603305191	cm 2
+0.0602970712	= 10
+0.0602433759	beam line of
+0.0602328468	also shown
+0.0601858612	access to
+0.0601387165	the interaction region
+0.0600888776	the next generation of
+0.0600867133	the construction of
+0.0600720286	the bunch length
+0.0600320159	the temporal resolution
+0.0599265249	the bunch train
+0.0599243620	very well
+0.0599149824	this phenomenon
+0.0599069846	method for
+0.0598832267	1 d
+0.0598170228	= 2
+0.0598040505	the beginning of
+0.0597392465	by utilizing
+0.0596559562	to prevent
+0.0596130731	the ilc
+0.0596018551	to build
+0.0595593710	the quantum efficiency
+0.0595519618	an effective
+0.0595506462	the advent of
+0.0595198671	e collisions
+0.0595119292	generated from
+0.0594869176	the total
+0.0594706381	dynamic aperture of
+0.0594358761	magnet power
+0.0594209303	measurements made
+0.0592867133	the choice of
+0.0591967958	accelerators such as
+0.0591860725	a muon beam
+0.0591267355	constraints on
+0.0590612730	the beam power
+0.0589629360	the reader
+0.0588059925	emitted from
+0.0588045962	relative to
+0.0587867133	the accuracy of
+0.0587524072	the photon collider
+0.0586667060	the beam halo
+0.0586266799	known as
+0.0585978957	$ 10
+0.0585096313	the first direct
+0.0583845229	determination of
+0.0582472332	to support
+0.0582270976	found to
+0.0581370990	two different
+0.0581228799	to address
+0.0581166952	prospects for
+0.0580372360	$ k
+0.0579571291	demonstration of
+0.0577482495	the baseline design
+0.0577395947	a wide
+0.0577121248	but not
+0.0576839841	a high gradient
+0.0576425904	candidates for
+0.0575868670	realization of
+0.0575857670	information from
+0.0575684168	the energy loss
+0.0575463219	parameters such as
+0.0574337449	intensity laser
+0.0572521181	transverse emittance of
+0.0571880234	this concept
+0.0570871382	needed for
+0.0570310246	gained by
+0.0569845552	electromagnetic field of
+0.0569538548	design of
+0.0569497780	the second part of
+0.0567671601	inner surface
+0.0566702969	now under
+0.0566454927	to cope with
+0.0565510682	electric field of
+0.0565290642	this end
+0.0565144147	in order to provide
+0.0564734153	the long range
+0.0564646599	new concept
+0.0563887935	\ gamma =
+0.0563686911	length measurements
+0.0563328401	an experiment
+0.0563257757	the experimental results
+0.0561000263	the positron source
+0.0560807243	the electron
+0.0560772000	advantage of
+0.0560343852	0.1 \
+0.0559472533	relevance to
+0.0559041400	different methods
+0.0558785545	of beam beam
+0.0558754753	to investigate
+0.0557708959	a combination
+0.0557689738	by using
+0.0557479076	need to
+0.0557167445	reduction of
+0.0556626322	to cancel
+0.0556330580	$ \ mu ^ + \
+0.0556128498	emitted by
+0.0555935967	the electromagnetic field
+0.0555867133	the motion of
+0.0554303365	a laser plasma
+0.0553408178	at kek
+0.0551947617	in connection with
+0.0551761690	the absence of
+0.0551295683	gamma ^
+0.0550937515	the order of 10
+0.0550173534	this purpose
+0.0550087885	required to
+0.0546722413	the second harmonic
+0.0545488332	a high brightness
+0.0544469162	the energy frontier
+0.0543909036	application of
+0.0542639637	a test accelerator
+0.0542614138	new results
+0.0541828278	up to 1
+0.0541566928	the origin of
+0.0541553673	options for
+0.0541309613	by combining
+0.0539903161	a vast
+0.0537415759	interaction with
+0.0537389228	the european xfel
+0.0537125467	set by
+0.0536709877	requirements for
+0.0535539718	implementation of
+0.0534390280	formula for
+0.0534237448	limitations on
+0.0534103939	the final
+0.0533975289	the field of
+0.0533925727	signal from
+0.0533591937	demand for
+0.0532910548	the electron positron
+0.0532903844	the high luminosity
+0.0532855431	performed at
+0.0532245591	designed for
+0.0531724752	the beam position
+0.0531642006	peak current of
+0.0531462299	kind of
+0.0530028859	a promising
+0.0529875637	a laser pulse
+0.0527441990	an adequate
+0.0527360155	n electron
+0.0527112479	the experimental data
+0.0526608648	an integrated
+0.0526203581	at flash
+0.0526098785	performed with
+0.0525412228	an extensive
+0.0524498916	during acceleration
+0.0524236871	an ultra
+0.0522888440	for beam diagnostics
+0.0522832931	on beam dynamics
+0.0522021685	allowing for
+0.0521934240	study on
+0.0521222364	criteria for
+0.0521112479	the emittance growth
+0.0520881810	a magnetic field
+0.0520580917	an initial
+0.0520447462	beam rotation
+0.0519758108	an effort
+0.0518676899	brightness beam
+0.0518354941	operation of
+0.0517947603	the bunch
+0.0517240881	to compensate
+0.0516006602	planned to
+0.0515665842	an x ray free electron laser
+0.0514165514	2 mev
+0.0513914166	described here
+0.0513671912	an 8 gev
+0.0513541855	performed on
+0.0513042234	the new design
+0.0512159036	calculation of
+0.0511553981	easy to
+0.0511167865	basis for
+0.0510411026	obtained with
+0.0510411026	important for
+0.0510365512	parallel to
+0.0510032932	generalization of
+0.0509921000	a long
+0.0508359911	$ nm
+0.0507611342	collisions at
+0.0507420927	the laser beam
+0.0506679048	introduced by
+0.0506384839	an additional
+0.0505942366	to enable
+0.0505734707	to characterize
+0.0505438486	$ l
+0.0504941528	to estimate
+0.0504343156	effect of
+0.0503558675	the new method
+0.0502714267	search for
+0.0502141419	the beam dump
+0.0500619971	a significant
+0.0500281917	an ultrarelativistic
+0.0499988908	the self seeding scheme
+0.0499575315	an analytical
+0.0499398771	produced from
+0.0499058623	the range of
+0.0498551795	described by
+0.0497727768	$ mev
+0.0497260742	candidate for
+0.0497198243	to treat
+0.0496554224	at peking
+0.0496326724	a strong
+0.0495706599	full energy
+0.0494958360	an infinite
+0.0494850822	an analytic
+0.0494836238	x 10
+0.0494237448	improved by
+0.0494141364	the transfer matrix
+0.0492674350	better understanding of
+0.0492660822	implications for
+0.0492585717	this review
+0.0491512494	an essential
+0.0491498613	by applying
+0.0491116909	accelerated to
+0.0490867133	the status of
+0.0490800791	in collaboration with
+0.0489131745	progress on
+0.0488110359	extension of
+0.0487487519	the undulator radiation
+0.0486935975	the middle of
+0.0486904018	an attractive
+0.0486159789	^ 2 \
+0.0485684925	formulae for
+0.0485153150	a particle accelerator
+0.0483986476	the longitudinal beam
+0.0483770496	scheme for
+0.0483694637	comparisons with
+0.0483610387	developed for
+0.0483607393	the sum of
+0.0483393140	account for
+0.0482596427	simulated by
+0.0482521918	at fnal
+0.0481915765	the generation of
+0.0481880711	a dedicated
+0.0481322115	an accurate
+0.0481261715	formulas for
+0.0481010232	turn beam
+0.0480453174	electrons into
+0.0480360394	the transverse
+0.0479880711	a key
+0.0479623883	a linear collider
+0.0479082289	in detail
+0.0478864979	$ z
+0.0478651927	different types
+0.0477799622	proposed as
+0.0477542982	by measuring
+0.0477268893	this goal
+0.0477028407	$ 5
+0.0476990767	with emphasis on
+0.0476878515	defined by
+0.0476739109	the main injector
+0.0476635289	a number of accelerator
+0.0475932116	the aid of
+0.0475155012	this system
+0.0474498292	calculated from
+0.0474445845	one way
+0.0474411817	same time
+0.0474074611	contrast to
+0.0474004928	to predict
+0.0473314100	the intensity frontier
+0.0473174278	opportunity to
+0.0471040505	in view of
+0.0470576343	choice for
+0.0470500748	$ 2 \
+0.0470223626	to verify
+0.0470029649	$ 1.5
+0.0470029649	$ 90
+0.0469955990	seems to
+0.0469026352	exploration of
+0.0468361476	\ tau
+0.0466546724	to select
+0.0466239781	$ kev
+0.0466008215	for example
+0.0465870677	$ q
+0.0465619557	working at
+0.0465196247	the effectiveness of
+0.0464724361	the proton bunch
+0.0464277060	the laser
+0.0463477179	very close to
+0.0463349104	the longitudinal phase
+0.0463050913	beam with
+0.0462421000	the cavity
+0.0462412462	extended to
+0.0462027475	to explore
+0.0461777060	the plasma
+0.0460867133	the efficiency of
+0.0460360394	the target
+0.0460133230	the transverse emittance
+0.0459578797	suppression of
+0.0459355279	a brief
+0.0459202592	a detailed
+0.0458942808	held in
+0.0458873549	an optimal
+0.0458695521	to make
+0.0458471702	protons from
+0.0458168797	by comparing
+0.0458023646	starting with
+0.0457960464	by performing
+0.0457694058	in accelerator physics
+0.0456523661	importance for
+0.0455700845	the high field
+0.0454974944	compensate for
+0.0454974944	contrast with
+0.0454636986	to maintain
+0.0454561410	intended for
+0.0454411452	engineering design of
+0.0454211965	beam from
+0.0454182473	$ ~
+0.0453098333	operation at
+0.0452284636	a crystal
+0.0451939270	a proton beam
+0.0451324636	also described
+0.0450212811	first part of
+0.0449375272	the possibility
+0.0449166329	an overview
+0.0448867133	the discovery of
+0.0448741305	simulation of
+0.0448357222	choice of
+0.0447952012	at fermilab's
+0.0445647875	protection of
+0.0444816032	a beam energy
+0.0443607393	the geometry of
+0.0443220366	required by
+0.0442794402	system design
+0.0441220896	motivation for
+0.0440629997	two methods
+0.0440345025	distribution of
+0.0440118925	limited to
+0.0440024165	cooled by
+0.0439854468	the whole
+0.0439675531	essential for
+0.0439199031	the capability to
+0.0439033955	the next
+0.0438902938	an increase of
+0.0438839936	alternative to
+0.0437972043	two main
+0.0437824611	investigation on
+0.0437357695	the parameter space
+0.0437180387	capable to
+0.0435869554	an excellent
+0.0435336484	new technique
+0.0435016786	the accelerating field
+0.0434985530	to construct
+0.0434941321	aspect of
+0.0434828797	characterization of
+0.0434793191	two types
+0.0434503299	by varying
+0.0433978895	time evolution
+0.0433951459	$ 2
+0.0433670741	equation for
+0.0433664369	the low level
+0.0432758971	2 s
+0.0432585589	to test
+0.0432556470	advances in
+0.0432087637	a linear accelerator
+0.0431553696	measured by
+0.0431412116	enhanced by
+0.0429908414	this device
+0.0429248777	summary of
+0.0428193727	the crystal
+0.0427787606	discussion on
+0.0427732207	the fact
+0.0427418928	per beam
+0.0427395299	excitation by
+0.0427031237	requirement for
+0.0426053830	a possibility to
+0.0425852839	to enhance
+0.0424972970	the physics program
+0.0424437385	to demonstrate
+0.0423564727	m \
+0.0422922251	this paper gives
+0.0422661534	list of
+0.0420955786	the fabrication of
+0.0420867133	a method for
+0.0420867133	the energy of
+0.0420674411	an extended
+0.0419509340	to match
+0.0419445813	the simulation results
+0.0419270902	an exact
+0.0418867133	the principle of
+0.0418590942	possibilities for
+0.0418130047	the second part
+0.0417932351	the potential of
+0.0417440511	to analyze
+0.0417427492	operate with
+0.0416468768	a proof of
+0.0416421594	an elliptical
+0.0414569486	$ \ bar
+0.0414280000	the last
+0.0414061896	the ability to
+0.0413369095	design for
+0.0413066634	plans for
+0.0412303017	the passage of
+0.0412028108	fraction of
+0.0412003656	addition to
+0.0411432751	at brookhaven
+0.0411090430	then used
+0.0410961230	difficult to
+0.0410941587	also consider
+0.0410867133	the method of
+0.0410867133	the study of
+0.0410408129	to solve
+0.0409735504	this series
+0.0408445743	estimation of
+0.0408155990	modified by
+0.0407950219	delivered to
+0.0407662755	a real time
+0.0407430764	limit on
+0.0407415835	the original
+0.0406672031	to preserve
+0.0405970582	accelerator system
+0.0405937513	relevant for
+0.0405880034	the positron beam
+0.0405144161	an integral
+0.0405090942	valid for
+0.0404987633	the current status of
+0.0404736075	component of
+0.0404371499	h ion
+0.0404277060	the accelerator
+0.0404130738	in combination with
+0.0403049302	operated in
+0.0402970300	take into
+0.0402914615	4 \
+0.0402848489	the design
+0.0402714527	to drive
+0.0402683446	the energy distribution
+0.0402648225	new regime
+0.0402266441	this new
+0.0401384100	two orders
+0.0401289453	solution for
+0.0400874100	100 mv
+0.0400807511	such beams
+0.0400655137	superior to
+0.0400273661	challenge for
+0.0400255149	production by
+0.0400166629	proposed for
+0.0399767046	inner surface of
+0.0399417705	only one
+0.0398952592	a major
+0.0398867133	the limit of
+0.0398760443	the relative
+0.0398222364	proven to
+0.0398193727	the undulator
+0.0397898638	by comparison
+0.0397591305	the time evolution of
+0.0396629404	opportunities for
+0.0396024940	by changing
+0.0395467380	beams with
+0.0395166462	difficulties in
+0.0394955120	at bnl
+0.0393924276	searches for
+0.0393324479	the particle beam
+0.0392824479	the photon energy
+0.0392631357	^ 8
+0.0392427023	evidence for
+0.0392420927	the energy spectrum
+0.0392303017	the center of
+0.0392243818	improvement of
+0.0391849188	an expression
+0.0391596836	converted to
+0.0390910509	under construction at
+0.0390904353	by employing
+0.0390243372	at saturation
+0.0389947880	an increase in
+0.0388897875	variation of
+0.0387917308	$ w
+0.0387867801	appears to
+0.0387698085	added to
+0.0387604694	research on
+0.0386827897	connected to
+0.0386565542	the aim to
+0.0386460098	control system for
+0.0386313058	interest in
+0.0386270540	seen by
+0.0385973903	the course of
+0.0385861289	pulses from
+0.0385455770	the first part
+0.0385250408	robustness of
+0.0384107551	history of
+0.0383122566	characterisation of
+0.0382887656	tested at
+0.0382677752	explanation of
+0.0382554807	then used to
+0.0382456671	a fast
+0.0381212740	the present status
+0.0381206005	the transition radiation
+0.0381130833	studied by
+0.0380880034	the photon beam
+0.0380865092	the clic
+0.0380679400	two types of
+0.0380390189	also provide
+0.0380360394	the longitudinal
+0.0379852734	performance of
+0.0379510035	suite of
+0.0379196144	knowledge of
+0.0379196144	class of
+0.0378850835	development of new
+0.0377867133	the form of
+0.0377712934	a special
+0.0377500408	subject of
+0.0376799951	minimization of
+0.0375967050	to implement
+0.0375660369	proposed by
+0.0375454549	needs to
+0.0374240937	an experimental
+0.0373807822	existence of
+0.0373569681	the entire
+0.0373433320	$ c
+0.0373202592	a unique
+0.0373190899	nature of
+0.0373041322	developed at
+0.0373039121	the front end of
+0.0372149177	necessary to
+0.0371540801	novel scheme
+0.0371508161	way to
+0.0371085665	product of
+0.0370869095	model for
+0.0370867133	the theory of
+0.0370811015	the spallation neutron
+0.0370665682	result from
+0.0370345025	model of
+0.0369903550	the centre of
+0.0369857479	acceleration by
+0.0369664233	a next generation
+0.0369521486	a small
+0.0369215774	the second
+0.0369200360	resulting in
+0.0369007152	tuned to
+0.0368773368	sequence of
+0.0368570733	developed by
+0.0368433988	discovery of
+0.0367877382	verification of
+0.0367309319	family of
+0.0367303017	the decay of
+0.0367182561	first time
+0.0365864997	new method
+0.0364062248	by studying
+0.0363465870	ability to
+0.0363462143	energy of
+0.0363402859	mixture of
+0.0363175625	extraction from
+0.0362867133	the stability of
+0.0362377585	new technology
+0.0361559083	projection of
+0.0361393794	the success of
+0.0361168539	a thin
+0.0361134169	pipe with
+0.0361070868	evaluated by
+0.0360856531	e colliders
+0.0360760443	the key
+0.0360345025	theory of
+0.0360334098	to decrease
+0.0360086288	the new
+0.0359987835	10 m
+0.0359389927	range from
+0.0359061962	beams from
+0.0358247621	optimized for
+0.0358158894	comparable with
+0.0358152847	the axis of
+0.0358063831	a good agreement
+0.0357725978	function of
+0.0357693985	collection of
+0.0357512188	view of
+0.0357124000	proved to
+0.0357060130	proof of
+0.0356392627	an investigation
+0.0356090054	1 +
+0.0355795538	to accommodate
+0.0355727242	to carry
+0.0355716506	x rays from
+0.0354986236	an open
+0.0354443240	to establish
+0.0354344167	$ g
+0.0353887078	the particle in
+0.0353564825	to compute
+0.0353152847	the velocity of
+0.0353124547	at shanghai
+0.0352867133	the size of
+0.0352788459	possibility to
+0.0352732103	the conceptual design
+0.0352585139	measured at
+0.0352126402	this regime
+0.0352023131	derived for
+0.0352010443	the past
+0.0351997156	in fact
+0.0351223386	option for
+0.0350567503	experience with
+0.0350116336	an approach
+0.0350059486	facility at
+0.0349694967	possibility of
+0.0349565714	instead of
+0.0349435545	to identify
+0.0349415844	derivation of
+0.0349336672	the current status
+0.0349060575	to record
+0.0348907668	treatment of
+0.0348383389	located in
+0.0348204897	the soft x ray
+0.0347873185	enhancement of
+0.0347591742	use of
+0.0347554755	several orders of
+0.0347333185	crucial for
+0.0347306878	behaviour of
+0.0346840334	x ray pulses with
+0.0346714527	to form
+0.0346292764	the electric dipole
+0.0346279150	orders of
+0.0346102145	to deal
+0.0346087499	necessary for
+0.0345973903	the prediction of
+0.0345942928	to operate
+0.0344943727	a linear
+0.0344882142	beamline at
+0.0344522638	to extract
+0.0344373846	an existing
+0.0343717050	a rigorous
+0.0342965259	presented in
+0.0342901510	produced in
+0.0342744002	the ring
+0.0342702012	a century
+0.0342663399	also show
+0.0342648016	definition of
+0.0342561025	not depend on
+0.0341932743	transfer from
+0.0341447138	calculated by
+0.0340889233	to use
+0.0340586937	the outer
+0.0340497371	far from
+0.0339855791	a powerful
+0.0339811332	composition of
+0.0339152847	the usage of
+0.0338998797	at fermi
+0.0338867133	the installation of
+0.0338867133	a source of
+0.0338764396	a path
+0.0338174599	to extend
+0.0338152847	the strength of
+0.0337928128	system as well
+0.0337193240	to quantify
+0.0336984622	the relationship between
+0.0336879674	of particle beams in
+0.0336729794	a comprehensive
+0.0336416878	a general
+0.0336069880	occur in
+0.0335790175	a proof of principle
+0.0335655542	$ x
+0.0335212989	an introduction to
+0.0333074436	first stage of
+0.0333027360	field of
+0.0333013583	to assess
+0.0332946078	success of
+0.0332768936	new type of
+0.0332380973	used to describe
+0.0331541599	placed at
+0.0330844071	a good
+0.0330345025	control of
+0.0330325919	an extension
+0.0329920057	to remove
+0.0329702698	the availability of
+0.0329224000	a plasma wakefield
+0.0328607393	the wavelength of
+0.0328290245	a comparison of
+0.0327221724	a new type
+0.0326935365	a variety
+0.0326622424	three orders of
+0.0325973903	the location of
+0.0325143821	concept for
+0.0324980705	designed by
+0.0324290721	an e + e
+0.0323693727	a plasma
+0.0323364148	idea of
+0.0322456794	time evolution of
+0.0322235315	an advanced
+0.0322024968	this experiment
+0.0321198264	to facilitate
+0.0321176055	first results of
+0.0321132531	the baseline
+0.0321063549	also present
+0.0319741038	the rf field
+0.0319236417	upgraded to
+0.0319185136	end of
+0.0319157729	figure of
+0.0318617876	to maximize
+0.0317416878	a result
+0.0316962143	acceleration of
+0.0316808941	also found
+0.0316729794	a broad
+0.0316676724	a discussion of
+0.0316570661	appearance of
+0.0315973903	the cost of
+0.0315270557	production of
+0.0315224729	the world
+0.0314784636	the machine
+0.0314061492	the beam delivery system
+0.0313777162	the front end
+0.0313737406	evidence of
+0.0312350539	a consequence
+0.0311595866	allows for
+0.0311180343	the third harmonic
+0.0311134169	representation for
+0.0311123860	sufficient to
+0.0310984504	bunch self
+0.0310760443	the nominal
+0.0310445782	observed in
+0.0310384224	useful for
+0.0310371436	an appropriate
+0.0310350539	the scope
+0.0310300218	modification of
+0.0308751578	the initial
+0.0308666518	removal of
+0.0308176831	under development at
+0.0308083929	reduced to
+0.0307611726	for positively
+0.0306111624	both transverse
+0.0305925821	the spin
+0.0305509783	accelerated from
+0.0305199792	the first experimental
+0.0304708787	new method of
+0.0304469617	availability of
+0.0304110369	proposed to
+0.0304098489	a laser
+0.0304016703	an upgrade
+0.0303941537	an electric
+0.0303582893	degradation of
+0.0303373797	to stabilize
+0.0303362573	the hard x ray
+0.0302493397	to satisfy
+0.0301954189	applicability of
+0.0301925007	for calculating
+0.0301729838	made from
+0.0301386159	a possible
+0.0300950383	foreseen to
+0.0300867133	the design and
+0.0300725750	decrease of
+0.0300266435	$ gev
+0.0300235799	implemented in
+0.0299607797	an unprecedented
+0.0299106308	a modified
+0.0299060575	to exploit
+0.0298946700	the usual
+0.0298836937	a considerable
+0.0298316075	a gaussian
+0.0296592487	the spectral
+0.0296469917	of merit
+0.0296238735	new approach
+0.0295973903	the introduction of
+0.0295646036	at ihep
+0.0295479576	representation of
+0.0295351894	\ delta \
+0.0294070160	to combine
+0.0293402487	to define
+0.0293084204	downstream of
+0.0293077185	an independent
+0.0292859473	effectiveness of
+0.0292690830	at kekb
+0.0292610977	a method
+0.0292607372	usage of
+0.0292391010	a summary of
+0.0292297700	this way
+0.0292228055	to cool
+0.0292213955	an injector
+0.0292082315	a soft x ray
+0.0292040364	also given
+0.0291578279	a suitable
+0.0291290283	consequence of
+0.0291275682	the system
+0.0291003338	the physics potential
+0.0290962143	method of
+0.0290957159	a repetition rate of
+0.0290897875	formation of
+0.0289537693	sensitivity of
+0.0289402487	to observe
+0.0289281699	to explain
+0.0289160063	a viable
+0.0289106308	a narrow
+0.0288867133	an energy of
+0.0288560482	to bring
+0.0288399724	$ =
+0.0288012971	in practice
+0.0287979794	a semi
+0.0287842487	the paper
+0.0287573407	impact of
+0.0287104206	$ e
+0.0286428287	operated with
+0.0286221779	the amplitude and
+0.0285973903	the probability of
+0.0285841747	show good
+0.0285559309	to account for
+0.0285457594	rise to
+0.0285381508	spectra from
+0.0285342487	the wakefield
+0.0285082166	a variable
+0.0285027887	to set
+0.0284586937	the incoming
+0.0284497780	and cost of
+0.0283823407	response of
+0.0283339384	at jefferson
+0.0283335066	to reconstruct
+0.0283203009	to find
+0.0283203009	to describe
+0.0283137146	by taking
+0.0282761552	to inject
+0.0282219362	system for
+0.0282071375	done by
+0.0281274650	planned for
+0.0280993219	with respect
+0.0280936007	self modulation in
+0.0280746898	by means
+0.0280295554	presented for
+0.0280266085	$ b
+0.0280161405	a homogeneous
+0.0279822250	presented as
+0.0279694000	the centre of mass
+0.0279499597	formulation of
+0.0279121684	an emittance
+0.0278425821	the injection
+0.0277842487	the average
+0.0277741245	self modulation of
+0.0277635482	the overall
+0.0276694080	a reasonable
+0.0276592487	the injector
+0.0275619813	achieved at
+0.0275554816	several orders
+0.0274586937	a pure
+0.0273084204	degree of
+0.0272927506	built at
+0.0272897425	achievement of
+0.0272867133	the operation of
+0.0272075801	series of
+0.0272043692	path to
+0.0271856308	the actual
+0.0271157029	desirable to
+0.0270481528	2 m
+0.0270096575	very close
+0.0270089814	the first order
+0.0269270557	increase in
+0.0269067429	the trajectory of
+0.0268867133	the emission of
+0.0268851000	at room
+0.0268164233	the self consistent
+0.0267808578	the bcs
+0.0267155600	to monitor
+0.0267129405	improvement in
+0.0265947814	* 10
+0.0265601073	an energy
+0.0265594646	two orders of
+0.0265382379	given by
+0.0265203448	the author
+0.0264608314	+ beam
+0.0264277060	the method
+0.0264067429	the appearance of
+0.0263879674	the speed of
+0.0263867133	the propagation of
+0.0263034219	consumption of
+0.0262933713	$ \ gamma \
+0.0262867133	a study of
+0.0262867133	the application of
+0.0262790251	possible to
+0.0261451551	moving in
+0.0261399435	the creation of
+0.0260443148	feature of
+0.0260340894	new method for
+0.0259614966	at los
+0.0259605046	an electrostatic
+0.0259395301	form of
+0.0258867133	the result of
+0.0258734843	performed for
+0.0258718747	with increasing
+0.0258379711	to do
+0.0257842487	the standard
+0.0256711474	performed by
+0.0256152787	force on
+0.0255379632	near critical
+0.0255111707	this machine
+0.0253795454	the self modulation
+0.0253355046	by increasing
+0.0253200245	irradiation of
+0.0252867133	the dependence of
+0.0252648972	the basic
+0.0252551383	50 \
+0.0252143908	the presence
+0.0251982066	proposals for
+0.0251688645	to examine
+0.0251273595	to search for
+0.0250986399	first part
+0.0250973903	the ratio of
+0.0250500486	critical to
+0.0250427328	this design
+0.0249748055	employed to
+0.0249669922	utilized to
+0.0249395301	spectra of
+0.0249049462	this upgrade
+0.0248301123	creation of
+0.0246761075	tools for
+0.0246416992	such high
+0.0246213017	to handle
+0.0246122572	the center of mass
+0.0245910669	the experimental
+0.0245899883	a new approach to
+0.0245559309	an alternative to
+0.0245397356	method to
+0.0245094646	one order of
+0.0244094071	changes in
+0.0244067429	the frame of
+0.0243330807	$ 100
+0.0243106308	a systematic
+0.0242452592	the future
+0.0241645301	construction of
+0.0241632668	response to
+0.0241609487	to operate at
+0.0241316009	the value of
+0.0241262191	a consequence of
+0.0241091121	a staged
+0.0240558357	a full
+0.0240266085	$ t
+0.0239895390	validity of
+0.0239497780	a new method for
+0.0239484890	an order of
+0.0238962143	frequency of
+0.0238919588	the horizontal and vertical
+0.0238763502	generalized to
+0.0237553018	the next generation
+0.0236694553	a possibility
+0.0236592487	the wake
+0.0236546957	measured with
+0.0235812304	preservation of
+0.0235646131	new approach to
+0.0234861714	new design
+0.0234469255	enough to
+0.0234315962	to compensate for
+0.0234311968	motion of
+0.0234216346	built in
+0.0233106308	a total
+0.0233106308	in principle
+0.0233020557	technology for
+0.0231996898	in analogy
+0.0231856308	the literature
+0.0230986547	discussion of
+0.0230897875	reduction in
+0.0230803675	made by
+0.0230558357	to allow
+0.0230268019	the primary
+0.0229869918	means of
+0.0229631270	the possibility of using
+0.0229390202	crucial to
+0.0229376429	alignment of
+0.0229237500	type of
+0.0228867133	the frequency of
+0.0228678821	the development and
+0.0228440754	the time dependent
+0.0228397875	change of
+0.0227853341	a particle in cell
+0.0227229359	a table
+0.0226771920	this application
+0.0226592544	sum of
+0.0226564698	question of
+0.0226290087	goal of
+0.0226249055	this field
+0.0225751196	depth of
+0.0225364728	light on
+0.0225028685	to serve as
+0.0224882801	introduction of
+0.0224818537	condition for
+0.0224355543	system consists of
+0.0223561896	an analysis of
+0.0223270557	length of
+0.0223063778	to control
+0.0222845025	stability of
+0.0222283145	expression of
+0.0222168666	the construction and
+0.0222099767	the inner
+0.0221895301	thickness of
+0.0221323407	estimate of
+0.0221177110	the existing
+0.0220973903	the upgrade of
+0.0220646672	studied for
+0.0220061896	in comparison with
+0.0219780620	coupled with
+0.0219677384	integration of
+0.0219466085	as much
+0.0219126429	formalism of
+0.0219092487	the classical
+0.0219092487	the vertical
+0.0219037919	a rectangular
+0.0218721779	the proof of
+0.0218552893	preparation of
+0.0217433282	a beam power of
+0.0217334497	origin of
+0.0217232485	achieved with
+0.0217210537	the path
+0.0216765222	calibration of
+0.0216592487	the critical
+0.0216590452	preparation for
+0.0216311806	1 \
+0.0216251490	the corresponding
+0.0216147826	interest for
+0.0216137353	generation from
+0.0215534520	of charged particles in
+0.0215323324	to run
+0.0215265222	modelling of
+0.0214451282	obtained at
+0.0214296784	a critical
+0.0214067429	the conversion of
+0.0213678821	the potential to
+0.0213152847	the shape of
+0.0213152847	the behavior of
+0.0213135059	a sequence
+0.0212867133	a method of
+0.0212867133	the acceleration of
+0.0212844883	a conceptual
+0.0212669922	adopted to
+0.0212507823	for studying
+0.0212320833	accuracy of
+0.0212265341	field at
+0.0212168666	the requirement of
+0.0211807658	a proposal
+0.0211224599	correlated with
+0.0211087867	employed for
+0.0210973903	a possibility of
+0.0210411519	attention to
+0.0210216346	basis of
+0.0209481160	to get
+0.0209397875	ratio of
+0.0209395301	radius of
+0.0209395301	excitation of
+0.0209179000	front end of
+0.0208867133	in case of
+0.0208565139	obtained for
+0.0208359381	spectrum from
+0.0208152847	a system of
+0.0207438299	the second order
+0.0207414358	constructed at
+0.0206960998	passage of
+0.0206618225	lattice with
+0.0205995008	procedure for
+0.0205625608	involved in
+0.0204585132	$ i
+0.0204525299	a second
+0.0204137353	investigated by
+0.0204030578	an approximation
+0.0203865139	coupled to
+0.0203483813	the arrival
+0.0203423850	of interest
+0.0203246898	to fit
+0.0203152847	the phase of
+0.0202929085	spectrum of
+0.0202725476	change in
+0.0202114140	$ 3
+0.0201873656	circumference of
+0.0201860627	structure with
+0.0201065139	technique for
+0.0201034754	circulating in
+0.0200737500	generated in
+0.0200666215	a test
+0.0200618541	excess of
+0.0200302900	absorption of
+0.0200188876	an extension of
+0.0199951551	array of
+0.0199597348	operation with
+0.0199574436	new generation of
+0.0199518019	the central
+0.0199487500	modeling of
+0.0199451558	calculated for
+0.0199297232	discussed in
+0.0199110903	impedance of
+0.0198922241	accumulation of
+0.0198764290	potential for
+0.0198655659	contribution of
+0.0198628045	the conceptual design of
+0.0198525087	approach for
+0.0198280571	upstream of
+0.0197996898	an impact
+0.0197287720	predicted to
+0.0196661663	c +
+0.0196137353	studied as
+0.0195142816	importance of
+0.0194451670	presented at
+0.0194431895	waveguide with
+0.0194362355	occurs in
+0.0194347610	in agreement with
+0.0193578776	a global
+0.0192645474	the fifth
+0.0192229264	expressed in
+0.0192070833	factor of
+0.0191567429	the same as
+0.0191079263	tested with
+0.0190748297	independent of
+0.0189619152	a primary
+0.0189092487	the output
+0.0189085206	made of
+0.0189067429	a method to
+0.0189067429	a bunch of
+0.0189058689	a numerical
+0.0188237265	reconstruction of
+0.0188197185	shift of
+0.0188153391	stabilization of
+0.0187532634	beginning of
+0.0187466756	edge of
+0.0187273290	the former
+0.0186992434	included in
+0.0186811968	efficiency of
+0.0186721779	an example of
+0.0186473443	a generic
+0.0186221779	the e +
+0.0186177405	value of
+0.0186148785	proposal for
+0.0186074436	an experiment to
+0.0185774812	considered to
+0.0185679085	correction of
+0.0185492488	electron self
+0.0185429085	gradient of
+0.0185355555	progress in
+0.0185296973	a custom
+0.0185252034	uncertainty of
+0.0184908366	the upcoming
+0.0184605041	essential to
+0.0184481759	the well known
+0.0184347610	the basis for
+0.0183969330	chain of
+0.0183558380	to derive
+0.0183455810	feasible to
+0.0183152847	the surface of
+0.0182966901	importance in
+0.0182929085	resolution of
+0.0182775331	work on
+0.0182701785	achieved in
+0.0182637291	an active
+0.0182014109	the projectile
+0.0181855145	determined with
+0.0181537919	a hybrid
+0.0181449711	installation of
+0.0181057904	operating with
+0.0180839902	2 \
+0.0180313729	an e +
+0.0180268019	the general
+0.0180122154	the apt
+0.0179730831	a metallic
+0.0179522539	to correct
+0.0179462191	the exploration of
+0.0179376429	gain in
+0.0179355145	driver for
+0.0179126429	frame of
+0.0179067429	a resolution of
+0.0179058689	a realistic
+0.0178702842	limitation of
+0.0178307356	published in
+0.0178021049	consideration of
+0.0177615139	important to
+0.0177466756	half of
+0.0175831347	spread of
+0.0175777377	property of
+0.0175767047	a helical
+0.0175742814	to probe
+0.0175645301	solution of
+0.0175429085	instability in
+0.0175369768	potential of
+0.0175142816	emitted in
+0.0175070384	due to beam
+0.0174633157	a circular
+0.0174221779	the capability of
+0.0173831630	concept of
+0.0173561736	in contrast
+0.0173380566	demonstrated in
+0.0173152847	the spectrum of
+0.0172929085	increase of
+0.0171816817	a centre of mass
+0.0171416280	obtained in
+0.0171057904	region with
+0.0170768949	connection with
+0.0170365920	a bent
+0.0169237500	size of
+0.0169210058	stack of
+0.0169114530	to guide
+0.0169092487	the cathode
+0.0168867133	the radiation from
+0.0168685552	two new
+0.0168257434	scope of
+0.0168166215	a dielectric
+0.0168053288	order of
+0.0167515554	an electromagnetic
+0.0167371252	a planar
+0.0167190763	system based on
+0.0167179229	collision with
+0.0167130566	considered in
+0.0166968814	the energy spread of
+0.0166776253	duration of
+0.0166711474	generated at
+0.0166668156	a certain
+0.0166597007	the particle's
+0.0166567795	rate of
+0.0166282081	performed in
+0.0166017111	increases with
+0.0165973903	the project and
+0.0165590022	this mode
+0.0165534636	a relativistic
+0.0165429085	gain of
+0.0165239229	trapped in
+0.0165189206	to illustrate
+0.0164678674	studied with
+0.0164525299	example of
+0.0164525087	theory for
+0.0164525087	achieved for
+0.0164395301	behavior of
+0.0164067429	in presence of
+0.0164067429	the detection of
+0.0164061896	a description of
+0.0163961938	1.5 \
+0.0163865139	considered for
+0.0163496927	considerations for
+0.0163383426	used in particle
+0.0162865004	order to
+0.0162826913	measured as
+0.0162060307	treated in
+0.0161996898	in excess
+0.0161345928	3 \
+0.0161032081	applied for
+0.0161007242	along with
+0.0160845699	brilliance of
+0.0160604023	the longitudinal and transverse
+0.0160150350	the time of
+0.0160036435	developed in
+0.0159402845	a fundamental
+0.0159092487	the fundamental
+0.0159092487	the horizontal
+0.0159092487	the effective
+0.0159067429	a beam with
+0.0158867133	the combination of
+0.0158867133	the length of
+0.0158702842	operate in
+0.0158534548	even at
+0.0157242565	mechanism for
+0.0157050804	a sharp
+0.0156625730	validation of
+0.0156427215	flexibility of
+0.0156235204	different from
+0.0156222269	100 \
+0.0155973903	the increase of
+0.0155854617	interaction of
+0.0155692050	demonstrated with
+0.0155548837	uniformity of
+0.0155262191	an upgrade of
+0.0154900537	a double
+0.0154865103	completed in
+0.0154732761	stored in
+0.0154451670	developed to
+0.0154267677	detection of
+0.0154237265	manipulation of
+0.0154148434	deflection of
+0.0154067429	the lifetime of
+0.0154067429	the core of
+0.0153865139	observed for
+0.0153839765	a dual
+0.0153685221	to end
+0.0153473903	the radiation of
+0.0153461750	calculated with
+0.0153408956	algorithm for
+0.0153323811	one such
+0.0153202247	chosen to
+0.0153152847	the rate of
+0.0153152847	the solution of
+0.0153100816	violation in
+0.0153100816	deviation of
+0.0152883251	to take
+0.0152867133	the analysis of
+0.0152461158	key to
+0.0152460168	a potential
+0.0152400537	the bubble
+0.0152354617	process of
+0.0152082754	amplification of
+0.0151876429	lifetime of
+0.0151843125	employed in
+0.0151721573	computation of
+0.0151533140	a half
+0.0151518019	the optimal
+0.0151282634	challenge of
+0.0151282634	decomposition of
+0.0150820922	prediction of
+0.0150529384	hole in
+0.0150512049	in combination
+0.0150466901	probability of
+0.0149700268	mitigation of
+0.0149578716	optimisation of
+0.0149298837	arrangement of
+0.0149092487	the local
+0.0148879674	a prototype of
+0.0148867133	the measurement of
+0.0148689206	the electron's
+0.0148607393	the nature of
+0.0148332754	selection of
+0.0147971573	concentration of
+0.0147929085	profile of
+0.0147557411	requirement of
+0.0147467181	broadening of
+0.0147014109	the optimum
+0.0146784599	content of
+0.0146367543	\ mu \
+0.0146365414	bandwidth of
+0.0146365414	tested in
+0.0146365414	applied in
+0.0146178821	the excitation of
+0.0145859656	run at
+0.0145800804	a quantitative
+0.0145626429	problem of
+0.0145371082	issue of
+0.0145247567	a dense
+0.0145239229	capability of
+0.0145198245	these new
+0.0144839765	a rapid
+0.0144604617	area of
+0.0144604617	width of
+0.0144604617	mechanism of
+0.0144555112	as well as for
+0.0144269740	framework for
+0.0144137628	analyzed for
+0.0144114860	formalism for
+0.0144104353	a part of
+0.0143496927	plan for
+0.0143364728	shown by
+0.0143282634	context of
+0.0143152847	a model of
+0.0143152847	the determination of
+0.0142687434	calculated in
+0.0141751543	used at
+0.0141537919	a flat
+0.0141537919	a solid
+0.0141466346	speed of
+0.0141371024	the middle
+0.0141257823	a substantial
+0.0141224066	the basis
+0.0141208141	line at
+0.0141195143	the apex
+0.0141178821	the emittance of
+0.0141047723	a straight
+0.0140651128	shape of
+0.0140521283	case of
+0.0139744343	commissioned in
+0.0139669229	role of
+0.0138879674	the case for
+0.0138604617	compensation of
+0.0138553391	strength of
+0.0138354617	modulation of
+0.0138179085	propagation of
+0.0137710895	deformation of
+0.0137203448	the world's
+0.0137143021	deposition in
+0.0136541199	observed at
+0.0136414314	to introduce
+0.0136365414	progress of
+0.0136317282	the origin
+0.0136146425	activation of
+0.0135967923	a minimum
+0.0135756313	to include
+0.0135749875	as well as to
+0.0134765617	investigated in
+0.0134656284	principle of
+0.0134170528	p \
+0.0134115414	configuration of
+0.0134067429	the behaviour of
+0.0133966346	growth in
+0.0133724066	a prototype
+0.0133724066	the incident
+0.0133404653	to zero
+0.0133302069	to capture
+0.0133152847	a range of
+0.0133052148	the full
+0.0133034599	complexity of
+0.0132765720	approximation of
+0.0132536435	studied in
+0.0132485191	reliability of
+0.0132082754	introduced in
+0.0131762009	the asymptotic
+0.0131721779	the period of
+0.0131637628	approximation for
+0.0131510738	described in
+0.0131468926	the dominant
+0.0131024776	second part of
+0.0130723757	the upper
+0.0130651128	accelerated in
+0.0130327189	tool to
+0.0130321957	formation in
+0.0130274593	decrease in
+0.0129654166	strategy for
+0.0129647327	conducted in
+0.0129403597	the magnetic field in
+0.0129221779	a scheme for
+0.0129067429	the extraction of
+0.0128941998	conversion of
+0.0128734527	a 2d
+0.0128719954	yield of
+0.0128068348	distance of
+0.0127618612	optimization for
+0.0127252285	a versatile
+0.0126456671	evaluated for
+0.0126368469	created in
+0.0125971965	a cold
+0.0125765554	an accelerating
+0.0125701558	reported in
+0.0125626429	heating of
+0.0125237843	a heavy
+0.0124780677	estimated to
+0.0124758779	the interplay
+0.0124428858	as compared to
+0.0124372758	a new generation
+0.0124221779	the estimation of
+0.0124221779	a particle in
+0.0124155390	system with
+0.0124041474	built for
+0.0123724066	the gun
+0.0123470961	investigated with
+0.0123467923	a reference
+0.0123374808	investigated for
+0.0123267429	the history of
+0.0123106308	the idea
+0.0122633012	resistance of
+0.0122400537	a typical
+0.0122400537	the cylinder
+0.0121615727	$ ^ \
+0.0121518019	the physical
+0.0121433042	dissipation in
+0.0120414314	to compare
+0.0120388061	this novel
+0.0119326069	a practical
+0.0119232415	a round
+0.0119076148	a natural
+0.0119042391	a drift
+0.0118974751	the state of
+0.0118810802	period of
+0.0118551961	result of
+0.0118282634	aim to
+0.0118149598	a basic
+0.0118149598	a constant
+0.0118144135	derived in
+0.0118048901	well as to
+0.0117897497	a continuous
+0.0117606163	train of
+0.0117568348	aim of
+0.0117482291	given at
+0.0116041474	determined to
+0.0115973903	the collision of
+0.0115973903	the polarization of
+0.0115800804	a clear
+0.0115144330	the paraxial
+0.0114900537	a uniform
+0.0114221779	the reconstruction of
+0.0114102069	a real
+0.0113710294	a flexible
+0.0113387693	a similar
+0.0112796474	a closed
+0.0112279969	allows to
+0.0112098473	direction of
+0.0112024943	separation of
+0.0112006100	available at
+0.0111721779	and operation of
+0.0110906284	review of
+0.0110238544	~ \
+0.0110001490	especially for
+0.0109714607	asymmetry in
+0.0109462191	a fraction of
+0.0109058689	a stable
+0.0108947344	derived by
+0.0108625598	to gain
+0.0108149598	a factor
+0.0108149598	a standard
+0.0107897497	a specific
+0.0107312311	the head
+0.0107252285	a record
+0.0107120251	the modal
+0.0106721027	a solution
+0.0105983684	the bunch by
+0.0105973903	the sensitivity of
+0.0105568348	location of
+0.0105326069	the bulk
+0.0105052148	the mean
+0.0104149598	a maximum
+0.0103897497	the natural
+0.0103724066	the angular
+0.0103710294	a separate
+0.0103467923	a weak
+0.0103282634	mapping of
+0.0103152847	the reduction of
+0.0103120251	the capillary
+0.0102876537	a nominal
+0.0102708141	increased to
+0.0102708141	construction at
+0.0102692579	a common
+0.0102687209	to consider
+0.0101909534	the evaluation of
+0.0101909534	the distribution of
+0.0101780711	= \
+0.0101721779	the structure of
+0.0101221779	for optimization of
+0.0101178821	the potential for
+0.0101178821	the understanding of
+0.0100327189	allowing to
+0.0100262191	the interaction between
+0.0100262191	for production of
+0.0099780677	input for
+0.0099403597	the electron beam in
+0.0099329145	spectra for
+0.0099326069	a preliminary
+0.0099326069	the ultimate
+0.0099221779	the width of
+0.0099104353	the search for
+0.0099067429	a reduction of
+0.0098879674	the coupling of
+0.0098332168	of twisted photons in
+0.0098149598	a periodic
+0.0096520927	the description of
+0.0096098360	the angular distribution of
+0.0095948866	a tunable
+0.0095791224	done with
+0.0095786104	a proper
+0.0095416541	the degree of
+0.0095326069	a cylindrical
+0.0094956103	symmetry of
+0.0094067429	the mechanism of
+0.0093721779	the characterization of
+0.0093310423	help to
+0.0093152847	the calculation of
+0.0092916541	an electron in
+0.0092650350	the beam from
+0.0092279969	given to
+0.0092138912	to become
+0.0091909534	the observation of
+0.0091721779	the bandwidth of
+0.0091510738	well with
+0.0091221779	a measurement of
+0.0091109534	the variation of
+0.0090414314	a downstream
+0.0090001490	placed in
+0.0089042391	the square
+0.0088874397	the action
+0.0088448866	the selection
+0.0088149598	the minimum
+0.0087914314	a hollow
+0.0087304297	for generation of
+0.0086654151	available for
+0.0086374397	the entrance
+0.0086045536	a comparison
+0.0085973042	useful to
+0.0085967923	a crucial
+0.0085477680	the necessary
+0.0085477680	way of
+0.0084956103	excited in
+0.0084678446	new technology and
+0.0083721779	the treatment of
+0.0083721779	the type of
+0.0083222006	a hard
+0.0083137470	same as
+0.0081967923	the orientation
+0.0081737843	a series
+0.0081721779	the suppression of
+0.0081617226	side of
+0.0081510738	made to
+0.0081510738	given for
+0.0080865004	performed to
+0.0077347230	the top
+0.0076789576	5 \
+0.0076355003	allow to
+0.0075973903	the implementation of
+0.0075639153	to show
+0.0075555339	the rest
+0.0075477680	the third
+0.0075477680	a particular
+0.0074830066	allow for
+0.0074542758	even with
+0.0073891690	known to
+0.0073721779	the control of
+0.0073721779	the horizontal and
+0.0073721779	the modeling of
+0.0072568348	centre of
+0.0072386530	analog to
+0.0072144347	found in
+0.0071909534	the investigation of
+0.0071909534	the optimization of
+0.0071721779	the simulation of
+0.0071721779	the resolution of
+0.0071721779	the advantage of
+0.0071510738	found for
+0.0071449233	made with
+0.0071247653	seen in
+0.0071221779	the model of
+0.0071177960	useful in
+0.0070995812	implemented to
+0.0070983684	a scheme to
+0.0069775816	found by
+0.0069035103	even for
+0.0068523701	a thick
+0.0068488782	a liquid
+0.0067772762	made in
+0.0067737843	to propose
+0.0066855003	done to
+0.0066123710	taken to
+0.0065555339	a proof
+0.0064542758	done in
+0.0064173185	the old
+0.0063721779	the increase in
+0.0062045536	to focus
+0.0061109534	the luminosity of
+0.0060947989	to serve
+0.0060866287	available to
+0.0060604297	the realization of
+0.0060262191	and characterization of
+0.0056850816	aid of
+0.0055747653	+ \
+0.0055178532	to work
+0.0054355003	work at
+0.0050678532	top of
+0.0046923710	need for
+0.0044355003	to give
+0.0042222006	to change

@@ -1,0 +1,2040 @@
+0.9891229666	general relativity
+0.9847016186	statistical mechanics
+0.9845309075	string theory
+0.9825447022	niels bohr
+0.9803990714	special relativity
+0.9797232442	quantum mechanics
+0.9792072366	measurement problem
+0.9790734727	julian schwinger
+0.9786761938	oral traditions
+0.9785185676	classical mechanics
+0.9760002789	copenhagen interpretation
+0.9748247617	bronze age
+0.9747803918	enrico fermi
+0.9747485138	aboriginal australians
+0.9742444473	variable stars
+0.9739017002	maxwell's demon
+0.9735760150	equivalence principle
+0.9732965235	albert einstein
+0.9732207776	la laguna
+0.9729096823	bell's theorem
+0.9726099471	standard model
+0.9716448345	general covariance
+0.9710918080	feynman diagrams
+0.9710488699	ettore majorana
+0.9710397419	loop quantum gravity
+0.9706858727	cosmic rays
+0.9705096129	hydrogen atom
+0.9701591342	quantum gravity
+0.9699661646	higgs boson
+0.9699540654	theoretical physics
+0.9697283412	cosmological constant
+0.9697239355	werner heisenberg
+0.9696693226	dark energy
+0.9692169042	anthropic principle
+0.9690399530	variable star
+0.9690149971	born rule
+0.9687788486	symmetry breaking
+0.9686378376	max planck
+0.9685775394	nobel prize
+0.9679346045	gravitational lensing
+0.9669520672	gravitational wave
+0.9668410181	max born
+0.9664554108	quantum field theory
+0.9663138452	gauge symmetry
+0.9656134464	unified field theory
+0.9655832373	giovanni battista riccioli
+0.9655328980	quantum entanglement
+0.9653368708	particle physics
+0.9650397602	angular momentum
+0.9649510393	spontaneous symmetry breaking
+0.9644258699	quantum electrodynamics
+0.9642197025	phase transitions
+0.9638071472	dark matter
+0.9637907866	wave function
+0.9635310218	wolfgang pauli
+0.9632749987	world war
+0.9622608054	wave mechanics
+0.9622482029	tycho brahe
+0.9615084688	effective field theory
+0.9600883425	classical physics
+0.9596656175	quantum theory
+0.9596345972	field equations
+0.9595700784	uncertainty principle
+0.9589620612	georges lemaitre
+0.9588926371	hubble's law
+0.9588738762	high energy physics
+0.9588593781	doppler effect
+0.9588003811	cosmic ray
+0.9586728558	von neumann
+0.9584844894	field theory
+0.9581780569	australian aboriginal
+0.9580066685	world war ii
+0.9571127070	soviet union
+0.9564700644	elementary particle physics
+0.9557652138	solar activity
+0.9555249016	differential equations
+0.9541747548	john bell
+0.9541170690	maunder minimum
+0.9540590398	condensed matter physics
+0.9532006264	black hole
+0.9524300623	big bang
+0.9521340293	monte carlo
+0.9521240248	bruno touschek
+0.9508982554	buenos aires
+0.9504555052	hilbert space
+0.9500327358	mach's principle
+0.9499304431	statistical physics
+0.9497057565	natural sciences
+0.9486958577	ads cft
+0.9480054955	wave function collapse
+0.9474638005	higgs mechanism
+0.9473937197	path integral
+0.9470930411	special issue
+0.9467692916	gravitational field
+0.9466503107	superstring theory
+0.9457831715	gravitational waves
+0.9456521261	isaac newton
+0.9455790254	differential geometry
+0.9451255169	scientific realism
+0.9443141584	density matrix
+0.9441836066	newtonian mechanics
+0.9430595002	phase space
+0.9422296848	energy conservation
+0.9421165805	torres strait
+0.9417343750	fluid dynamics
+0.9415362484	expanding universe
+0.9414830383	von neumann's
+0.9414257117	natural philosophy
+0.9402864704	reference frame
+0.9402219507	easter island
+0.9393575812	modern physics
+0.9388839175	thought experiment
+0.9385553600	wigner's friend
+0.9378258015	winter solstice
+0.9373854347	maxwell's equations
+0.9373663031	meridian line
+0.9368367549	naked eye
+0.9364968739	kinetic energy
+0.9363536074	gauge symmetries
+0.9351929176	newtonian gravitation
+0.9350585337	brownian motion
+0.9345819539	science fiction
+0.9344612632	relativity theory
+0.9341432532	fifty years
+0.9339354152	quantum information
+0.9322289577	quantum physics
+0.9318636282	bell inequalities
+0.9315409105	quantum chromodynamics
+0.9314755992	mathematical physics
+0.9313270461	gauge invariance
+0.9303668823	transactional interpretation
+0.9300670076	united states
+0.9297245027	modern cosmology
+0.9294566584	black holes
+0.9293823536	experimental tests
+0.9291359525	vector potential
+0.9287542353	editorial note
+0.9284647677	configuration space
+0.9280039378	solar eclipses
+0.9272389020	heisenberg's uncertainty
+0.9267062433	minkowski spacetime
+0.9265650395	time's arrow
+0.9265032671	electromagnetic waves
+0.9263826131	quantum field theories
+0.9263702495	paradigm shift
+0.9261651929	historical context
+0.9252020238	asymptotic freedom
+0.9249769468	hole argument
+0.9249019099	theoretical physicist
+0.9247090639	conservation laws
+0.9246866911	lorentz transformations
+0.9245948613	identical particles
+0.9245040047	space weather
+0.9235521896	planck's constant
+0.9226943283	phase transition
+0.9226749206	local causality
+0.9225964806	condensed matter
+0.9224469617	nuclear physics
+0.9215868586	bohmian mechanics
+0.9215560474	free fall
+0.9214794107	van vleck
+0.9213283259	quantum optics
+0.9212301090	early universe
+0.9211343538	santa maria
+0.9210459564	albert einstein's
+0.9186998093	past hypothesis
+0.9186242904	molecular biology
+0.9183060715	wave functions
+0.9181370068	epr paradox
+0.9181099718	high precision
+0.9181059792	hidden variable
+0.9175643293	real numbers
+0.9168883246	twentieth century
+0.9154721903	english translation
+0.9147635960	quantum superpositions
+0.9146606920	delayed choice
+0.9137238059	field strength
+0.9125918751	scientific method
+0.9125090305	lorentz group
+0.9124364092	conserved quantities
+0.9121050354	night sky
+0.9120542025	structural realism
+0.9114756540	cosmological principle
+0.9112157365	hubble constant
+0.9110025515	case study
+0.9109654647	effective field theories
+0.9107276242	almagestum novum
+0.9099272707	predictive power
+0.9097942216	quantum logic
+0.9095021275	electromagnetic field
+0.9094649607	state vector
+0.9093293132	high school
+0.9092442455	gauge theories
+0.9090254560	natural science
+0.9089039928	quantum mechanical
+0.9088506821	widely accepted
+0.9084942714	quantum state
+0.9071948568	state space
+0.9059199950	quantum nonlocality
+0.9057915814	interpretations of quantum mechanics
+0.9056058089	wave equation
+0.9055835830	standard quantum mechanics
+0.9055021271	ideal gas
+0.9054339806	scientific knowledge
+0.9050087266	high energy
+0.9048894897	special theory of relativity
+0.9045496935	everett interpretation
+0.9038407491	heliacal rising
+0.9036494314	block universe
+0.9033417791	uncertainty relations
+0.9032684159	physical reality
+0.9032524376	primitive ontology
+0.9030332995	anthropic reasoning
+0.9019845674	indigenous astronomy
+0.9015314145	amateur astronomer
+0.9014206837	quantum speedup
+0.9009577223	fine tuning
+0.9005461562	probability distributions
+0.9002161134	boundary conditions
+0.8995242915	neutrino physics
+0.8995175248	nobel prize in physics
+0.8994328293	strong interactions
+0.8985681768	maxwell theory
+0.8985405656	born's rule
+0.8973618398	initial conditions
+0.8973040627	universal coupling
+0.8966524696	theoretical equivalence
+0.8958010537	yang mills
+0.8953238634	giovanni battista
+0.8952746174	class constraints
+0.8952387856	closely related
+0.8949267601	electric field
+0.8946859775	biggest blunder
+0.8941926480	observational equivalence
+0.8934735387	analemmatic sundial
+0.8932517044	quantum probability
+0.8927343421	solar eclipse
+0.8923061862	klein gordon
+0.8922011008	personal perspective
+0.8905714453	pure states
+0.8902070644	gauge theory
+0.8901851648	magnetic fields
+0.8899555319	hidden variables
+0.8898708751	electromagnetic theory
+0.8898577702	classical logic
+0.8897462542	early 1970s
+0.8897365241	quantum objects
+0.8892098743	gravitational fields
+0.8886245351	scientific revolution
+0.8863390762	absolute space
+0.8846635733	practical applications
+0.8843376550	physical theories
+0.8842909836	landauer's principle
+0.8842230673	steady state
+0.8828861799	measurement outcomes
+0.8823872307	quantum states
+0.8823324412	space dimensionality
+0.8821464633	` `
+0.8820911175	gauge field
+0.8818831216	electron spin
+0.8817661463	seventeenth century
+0.8816498777	cosmic expansion
+0.8815866309	stern gerlach
+0.8813052586	einstein equations
+0.8812618905	wave particle duality
+0.8794717112	van der
+0.8777870624	astronomical traditions
+0.8775845586	gamma ray
+0.8768721983	general theory of relativity
+0.8766767821	celestial bodies
+0.8764543840	kinetic theory
+0.8760823776	physical systems
+0.8757689364	classical electrodynamics
+0.8752887052	black hole entropy
+0.8740002707	higgs particle
+0.8733877803	physical sciences
+0.8730436492	black body
+0.8718621069	xx century
+0.8713886000	interpretation of quantum mechanics
+0.8711989399	low latitude
+0.8691760127	quantum darwinism
+0.8690705360	spacetime geometry
+0.8684380054	gauge gravity
+0.8673219039	conscious state
+0.8667416598	standard model of particle physics
+0.8665280684	aharonov bohm effect
+0.8656746944	conceptual problems
+0.8653059936	gauge transformations
+0.8631001706	years ago
+0.8628458625	kochen specker
+0.8625222825	long range
+0.8607151514	solar physics
+0.8600563583	early years
+0.8590680114	special emphasis
+0.8587380144	nineteenth century
+0.8583240898	quantum formalism
+0.8575176484	dynamical systems
+0.8571149627	hamilton jacobi
+0.8559684051	gauge invariant
+0.8546941926	scientific research
+0.8545992507	causal set theory
+0.8526311802	stress energy
+0.8524493266	electron positron
+0.8512910615	starting point
+0.8509879457	hard problem
+0.8506210498	quantum cosmology
+0.8501119329	article presents
+0.8493985510	detailed analysis
+0.8490902275	quantum world
+0.8477817375	pilot wave
+0.8468259123	bose einstein
+0.8467223794	single world
+0.8462299933	minkowski space
+0.8462283908	double slit
+0.8461411865	quantum field
+0.8440996896	world view
+0.8437544950	quantum measurement
+0.8428407587	aharonov bohm
+0.8427357296	20th century
+0.8418049368	physical laws
+0.8415928011	long standing
+0.8412505406	lorentz covariant
+0.8411597873	foundations of quantum mechanics
+0.8409817001	energy momentum tensor
+0.8406148395	probability theory
+0.8395601542	elementary particles
+0.8391295843	17th century
+0.8390779680	quantum information theory
+0.8384037920	microwave background
+0.8382481803	einstein podolsky rosen
+0.8381996602	quantum systems
+0.8366461990	michelson morley experiment
+0.8362720598	fine tuned
+0.8348909343	yang mills theory
+0.8345490508	probability distribution
+0.8343055944	19th century
+0.8340062966	quantum computation
+0.8336387406	cosmological model
+0.8325688121	single particle
+0.8319593350	information theoretic
+0.8317176859	hadron collider
+0.8295772568	quantum jumps
+0.8265556361	mass energy equivalence
+0.8227552357	quantum particles
+0.8220803221	low energy
+0.8206097606	18th century
+0.8195640695	cosmological models
+0.8185666130	group theory
+0.8177366220	michelson morley
+0.8176754520	gauge fields
+0.8159358042	large number
+0.8128349424	odinger equation
+0.8125760150	quantum foundations
+0.8116147184	energy momentum
+0.8104899931	key role
+0.8100900925	star knowledge
+0.8095285538	fundamental theory
+0.8094607272	early history
+0.8091799026	broglie bohm
+0.8073649955	loop quantum
+0.8071554921	physical state
+0.8069691241	coarse graining
+0.8067358456	modern science
+0.8065522333	telescopic observations
+0.8060009103	large scale
+0.8055080412	open questions
+0.8051065049	field theories
+0.8045069660	collapse models
+0.8034676809	sunspot observations
+0.8033770739	fundamental physics
+0.8027625815	physical science
+0.8020145944	central role
+0.8018236260	low entropy
+0.8016919142	historical review
+0.8007010253	entangled states
+0.7996755501	information theory
+0.7970711316	philosophical issues
+0.7969882133	quant ph
+0.7962775225	einstein's equations
+0.7952908570	physics community
+0.7936483201	physical space
+0.7924518211	mathematical structure
+0.7919442081	scientific community
+0.7919029379	external world
+0.7889167937	physical meaning
+0.7889014906	bell type
+0.7879014906	long term
+0.7873521277	historical perspective
+0.7851676697	quantum phenomena
+0.7824170469	magnetic field
+0.7822949477	physical world
+0.7800450068	gell mann
+0.7711179963	briefly review
+0.7704817008	general relativistic
+0.7704184154	physical theory
+0.7681865469	pilot wave theory
+0.7678615208	scientific practice
+0.7597603069	newtonian gravity
+0.7562464490	scientific theories
+0.7552261579	cosmic microwave
+0.7532207191	thought experiments
+0.7516504803	many worlds interpretation
+0.7503076519	physical phenomena
+0.7494217126	inertial mass
+0.7493984702	physical processes
+0.7483091829	theory of quantum gravity
+0.7478130494	feynman path
+0.7475414159	gravitational energy
+0.7450814483	semi classical
+0.7404168885	einstein's field equations
+0.7398213088	fundamental laws
+0.7381943723	astronomical knowledge
+0.7358672430	relativistic cosmology
+0.7351933131	physical objects
+0.7319483151	philosophy of science
+0.7316730394	physical properties
+0.7274125358	massive spin 2
+0.7264060259	deterministic systems
+0.7248939047	x ray
+0.7248584429	case studies
+0.7239980224	important contributions
+0.7236976041	s matrix
+0.7222228247	physical concepts
+0.7201778160	quantum theories
+0.7199775280	northern black
+0.7197976782	orthodox interpretation
+0.7179541869	real world
+0.7142886317	field equation
+0.7142438124	electromagnetic fields
+0.7130978945	classical theory
+0.7099511866	statistical interpretation
+0.7090724802	quantum statistics
+0.7089485788	bell's inequality
+0.7065110373	sn 1006
+0.7048966020	principle of relativity
+0.7046708517	maxwell's theory
+0.7023944560	philosophers of science
+0.7000498244	einstein's theory
+0.6988495562	foundations of quantum physics
+0.6985809933	century ago
+0.6983107283	briefly discuss
+0.6956932911	h theorem
+0.6941742334	degrees of freedom
+0.6937978716	taking into account
+0.6925069089	wave particle
+0.6914102092	recent developments
+0.6910567292	experimental evidence
+0.6904598059	de broglie bohm
+0.6875442943	effective field
+0.6858093515	interpretation of quantum theory
+0.6855636514	theory of gravitation
+0.6805707730	recent paper
+0.6767689871	short review
+0.6743248645	speed of light
+0.6713856460	theoretical framework
+0.6698797111	velocity of light
+0.6639622830	violation of bell
+0.6638757087	observational data
+0.6632785910	point of view
+0.6609651043	briefly discussed
+0.6598700769	physical quantities
+0.6558590910	dimensional space
+0.6514767366	years earlier
+0.6491181139	theory of relativity
+0.6488874709	series of papers
+0.6482655885	paper argues
+0.6475811488	crucial role
+0.6438039169	formalism of quantum mechanics
+0.6409764514	scientific theory
+0.6405254895	initial state
+0.6388713533	natural world
+0.6337835847	recently proposed
+0.6240694027	physical interpretation
+0.6237380488	no go theorems
+0.6232777369	elementary particle
+0.6182694593	experimental data
+0.6080036926	experimental results
+0.6070774770	interpretations of quantum
+0.6061034247	law of thermodynamics
+0.5975633439	paper presents
+0.5927205592	freedom of choice
+0.5903470535	relativistic quantum
+0.5894904687	concept of fact
+0.5875970333	theoretical physicists
+0.5868384669	einstein wrote
+0.5867831591	quantum to classical
+0.5865241917	main results
+0.5826459217	physics and philosophy
+0.5823148258	conservation of energy
+0.5805403805	relational quantum
+0.5794897196	non euclidean
+0.5791414885	john von
+0.5790828051	mathematical formalism
+0.5767678158	fundamental level
+0.5761368810	equations of motion
+0.5745604543	philosophical literature
+0.5735386280	non abelian
+0.5735032356	set theory
+0.5706525411	quantum non locality
+0.5690430219	academy of sciences
+0.5671649926	classical and quantum
+0.5651977829	quantum and classical
+0.5641108397	line of research
+0.5627650777	paper discusses
+0.5613278340	results obtained
+0.5602509233	ad 774
+0.5578951142	science and technology
+0.5578419697	\ ~ ao
+0.5576018741	theory and experiment
+0.5561019376	standard model of particle
+0.5542019425	science and philosophy
+0.5540859619	important role
+0.5539503906	theory of gravity
+0.5512025353	spontaneous symmetry
+0.5511552296	laws of physics
+0.5479353918	quantum theory of gravity
+0.5446034484	special case
+0.5416774724	theory of general relativity
+0.5397772608	many worlds
+0.5390653265	matter physics
+0.5385015889	unified field
+0.5380188624	recent years
+0.5363482772	causal set
+0.5353784261	november 1915
+0.5348472188	hundred years
+0.5342086245	massive spin
+0.5331995145	physics and mathematics
+0.5331413092	m theory
+0.5330643061	present and future
+0.5311242768	philosophy of physics
+0.5309981584	modern scientific
+0.5306480506	relativity and gravitation
+0.5289166115	theoretical and experimental
+0.5260113715	first class
+0.5233529157	part ii
+0.5232788570	de broglie
+0.5218141390	laws of nature
+0.5185327630	interpretation of quantum
+0.5173596147	role played
+0.5103176242	present paper
+0.5085794270	mc ^ 2
+0.5082947910	complete description
+0.5078284768	lema \ ^ itre
+0.5059839007	non existence
+0.5039480678	mass energy
+0.5038057771	classical field
+0.5023816826	century physics
+0.5022674710	relativity and quantum
+0.5013234262	foundations of physics
+0.4931864424	time travel
+0.4904937773	a historical perspective
+0.4880052678	common cause
+0.4827032735	milky way
+0.4818226189	formulation of quantum
+0.4796799810	standard quantum
+0.4769202995	paper examines
+0.4755876439	second law
+0.4743092337	theory of light
+0.4696162829	sheds light on
+0.4685215682	top down
+0.4679774995	far reaching
+0.4677804940	general public
+0.4628270858	wide range of
+0.4553307212	local quantum
+0.4539265338	foundations of quantum
+0.4493789203	ontology of quantum
+0.4462207615	history of science
+0.4453345947	wave theory
+0.4428519019	free will
+0.4415209429	old quantum theory
+0.4414021619	paper describes
+0.4399256089	paper reviews
+0.4343106196	mean field
+0.4342212968	an important role
+0.4315755227	five years
+0.4279244532	de sitter
+0.4140801780	five dimensional
+0.4130144188	4 dimensional
+0.4119950363	this paper examines
+0.4111489593	non locality
+0.4110792868	general theory
+0.4083107560	the large hadron
+0.4068792178	infinitely many
+0.4043570842	unified theory
+0.4039498530	non technical
+0.3996815901	formalism of quantum
+0.3988956744	a case study
+0.3922204189	version of quantum
+0.3918464645	early development
+0.3904922801	et al
+0.3886421215	simple model
+0.3804813696	present article
+0.3803127243	making sense
+0.3802582488	the human mind
+0.3797267491	the special theory
+0.3791187693	structure of quantum
+0.3780613060	non trivial
+0.3772521456	time reversal
+0.3752513757	put forward
+0.3730411359	four dimensional
+0.3723608199	well defined
+0.3713685621	non local
+0.3695916234	self consistent
+0.3639671990	non spatiotemporal
+0.3608952431	= 0
+0.3559319346	took place
+0.3548438531	energy equivalence
+0.3483954618	so called
+0.3472982569	an appendix
+0.3433168643	early development of
+0.3399104527	spin 1
+0.3377533351	three dimensional
+0.3357034211	fundamental physical
+0.3355307336	einstein's general
+0.3330398091	+ 1
+0.3317091125	shed light
+0.3308069079	de broglie's
+0.3300643838	role played by
+0.3283153882	approaches to quantum
+0.3278122634	energy physics
+0.3247853170	this paper discusses
+0.3245138068	e = mc ^ 2
+0.3183143993	100 years
+0.3177874543	this paper presents
+0.3171613514	general theory of
+0.3161948310	of easter island
+0.3132742396	take place
+0.3126632994	de la
+0.3105334737	non relativistic
+0.3096999565	50 years
+0.3095224760	arguments against
+0.3090052253	40 years
+0.3072763278	\ nu
+0.3068703569	no longer
+0.3064416486	\ sigma
+0.3061820333	space time
+0.3061702168	this paper argues
+0.3054554945	\ deg
+0.3053906933	\ omega
+0.3050763278	\ sim
+0.3050499498	spin 2
+0.3044103873	twenty years
+0.3012763278	\ rangle
+0.2982688244	$ dimensional
+0.2979678418	complete description of
+0.2973598274	approach to quantum
+0.2961265714	$ t_
+0.2959111065	well established
+0.2952763278	\ theta
+0.2943665734	two dimensional
+0.2940988549	theory of quantum
+0.2912763278	\ rightarrow
+0.2899702982	aboriginal people
+0.2892675452	english translation of
+0.2883387529	\ emph
+0.2864916352	^ 2
+0.2864859314	\ chi
+0.2855936506	making sense of
+0.2850793092	\ mu
+0.2843607259	by ettore majorana
+0.2842350185	\ cite
+0.2832874992	non equilibrium
+0.2832818857	modern quantum
+0.2826246805	unified theory of
+0.2810688253	\ textit
+0.2809117061	brief history
+0.2809079067	\ pm
+0.2799079067	\ bar
+0.2798889805	the anthropic principle
+0.2781894225	insight into
+0.2775739155	argument against
+0.2772962907	\ delta
+0.2742453244	most famous
+0.2735683115	$ \ lambda
+0.2729204922	einstein's field
+0.2708229435	important contributions to
+0.2695789360	of bell's inequality
+0.2681543294	special theory of
+0.2655915116	development of quantum
+0.2648405508	= mc ^ 2
+0.2643775776	non classical
+0.2641155769	fine tuning of
+0.2631098977	schr \
+0.2622203599	a simple model
+0.2595699031	\ psi
+0.2568715027	the physical world
+0.2568713390	solar time
+0.2561705426	$ \ gamma
+0.2537760562	faster than
+0.2520815882	lema \ ^
+0.2517459838	the many worlds interpretation
+0.2513174452	the wave function
+0.2502493100	einstein field
+0.2500734585	time dilation
+0.2498948041	\ lambda
+0.2496047153	the present paper
+0.2484451677	taken into account
+0.2481792895	in quantum field theory
+0.2478942841	\ em
+0.2465331018	second law of thermodynamics
+0.2458554247	distinction between
+0.2447212522	\ gamma
+0.2444118524	the natural world
+0.2400985296	a century ago
+0.2396141612	model of particle
+0.2390657665	most prominent
+0.2384453764	non standard
+0.2375535355	physical meaning of
+0.2357161398	$ \ psi
+0.2350916855	the general public
+0.2350198942	many body
+0.2343458058	774 5
+0.2334132000	= 1
+0.2328232645	theory of general
+0.2324904598	one way
+0.2296516166	the present article
+0.2286123881	translated into
+0.2273382122	a special case
+0.2265181217	solar eclipse of
+0.2217967905	of quantum mechanics
+0.2214437363	the 18th century
+0.2209224547	in recent years
+0.2202556006	poincar \
+0.2200807115	an english translation
+0.2197521098	connection between
+0.2197468707	history of physics
+0.2192649489	invariant under
+0.2162032758	most important
+0.2156753271	theory of everything
+0.2148033782	at odds
+0.2137318494	the 19th century
+0.2113476432	the measurement problem
+0.2102843291	the 20th century
+0.2101902269	the new quantum
+0.2099008137	first order
+0.2098395223	the real world
+0.2097915626	\ `
+0.2096762159	the most fundamental
+0.2071309543	absolute time
+0.2065874019	into account
+0.2063952415	nordstr \
+0.2061541339	10 ^
+0.2027209395	mathematical structure of
+0.2025896767	this paper
+0.2024515018	arrow of time
+0.2019884589	the cosmological constant
+0.2010605314	the old quantum
+0.2010484011	traced back to
+0.2004365374	system of units
+0.2002563214	this article
+0.1996913642	in quantum mechanics
+0.1984783063	based on
+0.1982907338	important role in
+0.1977514990	one hand
+0.1936294500	goes beyond
+0.1933718935	similarities between
+0.1924262493	a quantum theory of gravity
+0.1906465035	of quantum field theory
+0.1899684130	30 years
+0.1898833162	pioneering work
+0.1898672003	in other words
+0.1894535277	the gravitational field
+0.1875935765	more precisely
+0.1835196355	flow of time
+0.1830968917	the other hand
+0.1829723720	little known
+0.1828005082	space and time
+0.1816569196	note on
+0.1812005441	solar system
+0.1790752949	the reception
+0.1790367758	some philosophical
+0.1782051583	the quantum state
+0.1778764869	history of quantum
+0.1772168368	direction of time
+0.1768937317	an english
+0.1759426811	a critical
+0.1742576949	measurement problem in
+0.1736099154	an infinite
+0.1727696689	conflict between
+0.1715905544	for instance
+0.1703059996	doing so
+0.1702735267	the twentieth century
+0.1696423085	question of whether
+0.1695768088	the general theory
+0.1695495445	in spite
+0.1688765736	a physical theory
+0.1688686283	a preliminary
+0.1683863828	g ^
+0.1664732506	the big bang
+0.1664098740	early history of
+0.1649036040	some aspects
+0.1647986195	years later
+0.1646322733	of quantum theory
+0.1643840480	distinguish between
+0.1641230938	the scientific community
+0.1639098480	relationship between
+0.1638078331	new light
+0.1634339795	the primitive ontology
+0.1632343456	\ ~
+0.1627073963	relationships between
+0.1623387281	a black hole
+0.1621811513	in quantum gravity
+0.1620349284	in india
+0.1614893127	dealing with
+0.1604560298	gives rise
+0.1584607609	more specifically
+0.1562508243	even though
+0.1552766635	link between
+0.1552349524	of quantum physics
+0.1552150514	the many worlds
+0.1551767136	at cern
+0.1550008588	life and work
+0.1548805653	a crucial role
+0.1541286362	the scientific method
+0.1533722836	the nineteenth century
+0.1528959577	einstein's theory of
+0.1523045986	the quantum world
+0.1512979374	this essay
+0.1512000397	well known
+0.1501614231	the physical sciences
+0.1496258598	present day
+0.1484621570	the state vector
+0.1480258478	some historical
+0.1479364145	new physics
+0.1475629828	the quantum mechanical
+0.1465152248	in particle physics
+0.1458179811	the 17th century
+0.1448771918	for many years
+0.1447095455	differences between
+0.1446457650	the energy momentum
+0.1446112881	more generally
+0.1445770127	particular attention
+0.1439888879	no go
+0.1430894598	to understand
+0.1425341898	both cases
+0.1425055159	in italy
+0.1417186902	a lot
+0.1413242248	from bit
+0.1406867798	the standard model
+0.1406195685	relation between
+0.1394772193	agrees with
+0.1376377423	the hole argument
+0.1375169780	quantum theory of
+0.1368658517	traced back
+0.1368617261	an observer
+0.1368175102	difference between
+0.1364691853	arrived at
+0.1364426791	relying on
+0.1364284349	the past hypothesis
+0.1362064765	a priori
+0.1357008371	the italian
+0.1351001167	reflections on
+0.1350654939	in accordance
+0.1346279909	only if
+0.1344812329	aimed at
+0.1342737035	to detect
+0.1340846841	in europe
+0.1340209343	of quantum mechanical
+0.1336682111	a historical
+0.1322133493	the chinese
+0.1320940321	depending on
+0.1311359081	gap between
+0.1294469312	problem of time
+0.1294072258	of quantum phenomena
+0.1293576809	proper time
+0.1287297937	this note
+0.1278164618	the electromagnetic field
+0.1269500514	comment on
+0.1263110270	the physical laws
+0.1249350137	an historical
+0.1246115734	the field equations
+0.1243937077	attempt to
+0.1242625749	a short
+0.1239224134	the quantum formalism
+0.1238868507	so far
+0.1233444096	an object
+0.1227516116	related to
+0.1224615848	replaced by
+0.1219774068	different ways
+0.1217116767	the transactional interpretation
+0.1216719298	into english
+0.1213786581	focus on
+0.1208713628	deals with
+0.1195577764	regarded as
+0.1190441878	an external
+0.1189116512	time evolution
+0.1184921723	an alternative
+0.1182690833	an important
+0.1182264594	consistent with
+0.1180513323	the early history
+0.1179766150	years before
+0.1174311324	$ z
+0.1165060179	in quantum physics
+0.1163751562	most significant
+0.1159664934	among others
+0.1158200031	rather than
+0.1145530104	of quantum systems
+0.1138349450	led to
+0.1124374915	time symmetry
+0.1123469576	the transactional
+0.1120521923	quantum state of
+0.1117250577	referred to as
+0.1099023710	two decades
+0.1098662401	these questions
+0.1096615199	first place
+0.1091882812	availability of
+0.1090546164	last century
+0.1078682222	compatible with
+0.1073528376	depends on
+0.1072410629	two main
+0.1068292933	spite of
+0.1065530104	of quantum gravity
+0.1058502667	z \
+0.1057657365	the grw
+0.1056024412	interactions between
+0.1054971450	there exist
+0.1053562238	m \
+0.1051650174	a view
+0.1046763901	rely on
+0.1045877542	give rise to
+0.1045162458	leads to
+0.1042113972	gives rise to
+0.1038043533	guided by
+0.1036804796	the german
+0.1035812872	referring to
+0.1031444365	a personal
+0.1028019578	did not
+0.1025351231	insights into
+0.1020496973	a single
+0.1019884257	lot of
+0.1018020672	focuses on
+0.1015823310	an essential
+0.1010714200	of quantum states
+0.1007731268	an argument
+0.1006571354	depend on
+0.1002973783	the old quantum theory
+0.0998650558	g \
+0.0995362111	to deduce
+0.0995191942	seeks to
+0.0994251189	more fundamental
+0.0989504115	at least
+0.0989091625	an arbitrary
+0.0982546262	all possible
+0.0981588965	a comparison
+0.0981426309	approach to
+0.0979030104	the general theory of relativity
+0.0976403520	edited by
+0.0974640320	b \
+0.0971342318	more than
+0.0970922086	correlations between
+0.0968730934	focusing on
+0.0964697280	starting from
+0.0964504311	d \
+0.0960228180	comments on
+0.0957601260	responsible for
+0.0957117807	$ n
+0.0951958748	k \
+0.0950403682	the conservation of
+0.0949549746	very early
+0.0947892608	refer to
+0.0946485019	to obtain
+0.0946119140	derived from
+0.0945898551	the american
+0.0942376325	these issues
+0.0939970989	does not
+0.0939831727	c ^
+0.0938391572	this respect
+0.0938063746	an abstract
+0.0936238609	whether or not
+0.0933514004	ranging from
+0.0926102867	also discussed
+0.0923418870	relies on
+0.0921734810	the standard model of particle
+0.0919782129	referred to
+0.0919120941	the fourth
+0.0919073601	relations between
+0.0915745684	between physics and
+0.0914309879	search for
+0.0914288329	second half of
+0.0914029930	r \
+0.0913991949	to realize
+0.0913510817	the speed of light
+0.0913323632	arising from
+0.0913082324	phenomena such as
+0.0910768572	caused by
+0.0906642733	f \
+0.0901731714	this question
+0.0896207086	$ \
+0.0895652313	presented here
+0.0894598560	focused on
+0.0892967680	the standard model of particle physics
+0.0892268592	recent work
+0.0891482485	the interpretation of quantum mechanics
+0.0880815869	governed by
+0.0879916090	other hand
+0.0878871367	tend to
+0.0877597902	the last century
+0.0876306403	to solve
+0.0874250563	the main
+0.0872634951	to reconcile
+0.0869211164	less than
+0.0865570683	a true
+0.0860030692	aspects of
+0.0853897635	in order to
+0.0850439657	connections between
+0.0847673627	tribute to
+0.0845663570	to do with
+0.0844891668	with respect to
+0.0844313534	serves as
+0.0843962257	understanding of
+0.0843907399	inspired by
+0.0843066456	do not
+0.0840148174	in addition
+0.0840140634	second part
+0.0834902251	quantum system
+0.0831824720	as far as
+0.0830982221	an intuitive
+0.0830372652	as opposed to
+0.0828183395	proportional to
+0.0826721477	remarks on
+0.0826511765	e =
+0.0824522635	in terms of
+0.0822960062	to bring
+0.0822160006	to create
+0.0818162357	to quantify
+0.0815846247	to build
+0.0815318648	an additional
+0.0810158721	a metaphysical
+0.0808162357	to speak
+0.0807507650	expressions for
+0.0807197542	a century
+0.0806808635	emerge from
+0.0806695089	able to
+0.0804399791	to explain
+0.0802155657	the universe
+0.0800236422	action at
+0.0795992248	assumptions about
+0.0793527410	contributions to
+0.0792804498	\ ^
+0.0790155005	applied to
+0.0787418870	serve as
+0.0782493582	understood as
+0.0782160006	to establish
+0.0780158751	not so
+0.0778049122	new light on
+0.0776670977	$ c
+0.0776300412	by means of
+0.0772685456	interested in
+0.0770524081	treated as
+0.0770005845	interaction between
+0.0767679298	coming from
+0.0766996562	reasons for
+0.0766251433	characterized by
+0.0763800003	taking into
+0.0761679581	a century after
+0.0761617691	the beginning
+0.0759797709	this contribution
+0.0755247683	searching for
+0.0753216451	over time
+0.0752621657	years after
+0.0747310786	interpreted as
+0.0746995519	the time of
+0.0740474736	new perspective
+0.0737099076	these include
+0.0736269836	the history of physics
+0.0733953144	correspondence between
+0.0732551079	the second law of thermodynamics
+0.0730527019	new ideas
+0.0730384897	interpretation of
+0.0721299634	desire to
+0.0720403682	of space and
+0.0719675080	contribution to
+0.0719271857	argue against
+0.0719232915	the art
+0.0718639349	due to
+0.0716403682	the science of
+0.0716403682	the direction of
+0.0715539987	in fact
+0.0714140829	analysis of
+0.0713112593	according to
+0.0712252999	an experiment
+0.0709009196	n \
+0.0706403682	the expansion of
+0.0705280947	the centenary of
+0.0705053969	considered as
+0.0703681327	an objective
+0.0703431070	devoted to
+0.0703175366	debate between
+0.0702588847	also discuss
+0.0702121616	an effective
+0.0701866963	description of
+0.0701834456	number of
+0.0700320874	apart from
+0.0699995519	of time in
+0.0699879548	to overcome
+0.0699583495	earlier work
+0.0697580814	this paper deals with
+0.0697403682	the ontology of
+0.0697403682	the physics of
+0.0696403682	the size of
+0.0696403682	the relativity of
+0.0696403682	the mass of
+0.0694849602	but rather
+0.0693898827	\ mu \
+0.0693181460	between science and
+0.0690875200	the concept
+0.0690423076	represented by
+0.0689028324	interplay between
+0.0687403682	the motion of
+0.0687375298	then discuss
+0.0686403682	the choice of
+0.0686128466	as well as
+0.0684234083	try to
+0.0683917324	knowledge about
+0.0680287321	l \
+0.0680107011	a more general
+0.0679967826	theory of
+0.0679813957	leading to
+0.0679256602	to contribute
+0.0676784629	$ p
+0.0676403682	the unification of
+0.0674929190	this chapter
+0.0674235839	concerned with
+0.0674171360	physical system
+0.0673055238	an application
+0.0672215830	a case
+0.0671153682	the result of
+0.0670513121	several years
+0.0668451295	$ m
+0.0668035618	attempting to
+0.0666403682	the rise of
+0.0665871117	to determine
+0.0665149532	more general
+0.0664295969	an explanation
+0.0663275836	an early
+0.0662157045	information about
+0.0661996055	$ ^
+0.0661268926	institute for
+0.0660153682	the observation of
+0.0659989514	in part
+0.0655558724	in spite of
+0.0655466853	supported by
+0.0653547359	collider at
+0.0651678981	the history of science
+0.0651653682	the accuracy of
+0.0651153682	the light of
+0.0650153682	the goal of
+0.0650153682	the quantization of
+0.0650153682	the identification of
+0.0649745519	the day of
+0.0647123321	a simple
+0.0646807268	incompatible with
+0.0641653682	the formalism of
+0.0640153682	the reality of
+0.0639878345	to resolve
+0.0639848393	evidence for
+0.0639745519	the value of
+0.0637653682	the collapse of
+0.0636729953	most likely
+0.0634629219	attempts to
+0.0634236927	an overview
+0.0633654855	an ontological
+0.0631153682	in light of
+0.0631153682	the sense of
+0.0629745519	the way to
+0.0628762838	proposed by
+0.0628320349	the key to
+0.0628289204	early work
+0.0627592105	agreement with
+0.0625749359	an english translation of
+0.0625524847	some important
+0.0623780947	the relevance of
+0.0623589587	basis for
+0.0622268630	foundations of
+0.0621153682	the process of
+0.0621153682	the framework of
+0.0620745519	the use of
+0.0620153682	the subject of
+0.0620153682	the hypothesis of
+0.0619671644	an assumption
+0.0617653682	the core of
+0.0617653682	the growth of
+0.0617649055	impact on
+0.0616915847	questions about
+0.0616885866	ideas about
+0.0615899501	an attempt
+0.0614759276	first half of
+0.0613791618	notion of
+0.0613412442	written by
+0.0613072481	to formulate
+0.0611153682	the method of
+0.0611153682	the field of
+0.0611153682	the perspective of
+0.0611153682	the story of
+0.0610745519	the course of
+0.0610713118	this study
+0.0610153682	the length of
+0.0610153682	the contribution of
+0.0610153682	the solution of
+0.0610153682	the relation of
+0.0610153682	the source of
+0.0610153682	the level of
+0.0610153682	the fall of
+0.0609675080	lead to
+0.0607653682	the creation of
+0.0607653682	the logic of
+0.0607102259	constraints on
+0.0606853473	a distance
+0.0606699503	implied by
+0.0606583148	such as
+0.0605313493	even if
+0.0604242156	anniversary of
+0.0603066456	associated with
+0.0602532377	corresponds to
+0.0601931460	the essence of
+0.0601852844	a member of
+0.0601153682	the introduction of
+0.0601153682	the issue of
+0.0601153682	the phenomenon of
+0.0599547988	served as
+0.0598653682	the assumption of
+0.0597219874	with regard to
+0.0594229243	to avoid
+0.0594227280	many years
+0.0591973290	together with
+0.0591618035	correspond to
+0.0591153682	a matter of
+0.0589256857	a new interpretation
+0.0588653682	a function of
+0.0588121706	the existence of
+0.0587971725	present here
+0.0587653682	the attention of
+0.0585444568	a direct
+0.0582705738	\ c
+0.0582236570	each other
+0.0582071057	scientific work
+0.0581304302	the word
+0.0581174280	deal with
+0.0580627615	attributed to
+0.0580610742	the world
+0.0577653682	the failure of
+0.0576669777	not only
+0.0575735318	contrary to
+0.0575435007	in favor of
+0.0574320349	the prediction of
+0.0571423743	reply to
+0.0571186177	in memory of
+0.0570153682	the content of
+0.0570153682	the rest of
+0.0568444471	the sky
+0.0567746796	the late
+0.0567594597	better understanding of
+0.0567442895	the singing
+0.0565925616	many others
+0.0563600020	determination of
+0.0562829599	this topic
+0.0562523297	so as to
+0.0561195471	this short
+0.0561153682	the formation of
+0.0561153682	the significance of
+0.0560950810	the past
+0.0560745519	the work of
+0.0559745519	the cause of
+0.0559174280	contact with
+0.0558170623	$ s
+0.0557653682	the influence of
+0.0557653682	the calculation of
+0.0557183581	begin by
+0.0553858612	compared with
+0.0553277804	emphasis on
+0.0551674935	the first half
+0.0550745519	the help of
+0.0550583733	to achieve
+0.0549954049	discussed here
+0.0548653682	a period of
+0.0547653682	the age of
+0.0546578947	built in
+0.0538245519	a way to
+0.0538206726	in space time
+0.0537873681	the principle of relativity
+0.0530436070	look at
+0.0529591727	the same
+0.0524666902	the name of
+0.0524171056	to develop
+0.0519666487	$ g
+0.0518166779	similar to
+0.0517190198	account of
+0.0516134322	taken into
+0.0514646918	variety of
+0.0514506157	the early
+0.0513365772	occurrence of
+0.0507422393	an interesting
+0.0505711156	kind of
+0.0504860190	an electron
+0.0502439556	paper by
+0.0499789004	by contrast
+0.0499738783	the moon
+0.0497973469	the second half of
+0.0497464040	conventionality of
+0.0496604486	to relate
+0.0493571406	account for
+0.0488807840	connected with
+0.0484571682	to clarify
+0.0484340541	thanks to
+0.0483982997	any other
+0.0483673832	discovery of
+0.0482369055	tends to
+0.0482327356	conjunction with
+0.0481190198	version of
+0.0479950789	concept of
+0.0478777137	a crucial role in
+0.0475096611	the original
+0.0472335098	to write
+0.0472291651	the scope of
+0.0471990076	capable of
+0.0471185751	framework for
+0.0470893244	starting with
+0.0469211566	back to
+0.0469142914	a wide
+0.0467559327	the end of
+0.0466858149	dedicated to
+0.0466314944	contribute to
+0.0466099282	the impact of
+0.0465462607	modification of
+0.0464692224	provided by
+0.0464225470	conception of
+0.0464191763	begin with
+0.0463533500	degree of
+0.0462537240	rise to
+0.0460754539	formula for
+0.0459279082	as well
+0.0458897269	development of
+0.0457695691	the occasion of
+0.0457371303	the philosophy of science
+0.0455846291	want to
+0.0455822243	reconstruction of
+0.0453046368	the advent of
+0.0450844197	an epistemic
+0.0450245917	an extension
+0.0447463657	treatment of
+0.0444532321	an ontology
+0.0444191859	analogous to
+0.0443728186	a brief review of
+0.0443446444	not rely
+0.0443214252	aims at
+0.0441559327	a series of
+0.0439660168	the context of
+0.0439558816	the history of
+0.0435615351	motivation for
+0.0435433640	this context
+0.0433833446	reference to
+0.0433508166	a comprehensive
+0.0432070858	two years
+0.0431277137	an extension of
+0.0430251660	a theory
+0.0429996180	a detailed
+0.0428879701	in favour of
+0.0424662609	an absolute
+0.0422596088	to derive
+0.0422532540	intended to
+0.0422188278	inconsistent with
+0.0421230354	to compute
+0.0420502655	a long time
+0.0419188278	arise from
+0.0418093602	appeal to
+0.0416492661	produced by
+0.0416479027	quite different
+0.0416376844	transition from
+0.0416283240	developed by
+0.0415910168	the problem of
+0.0414838852	an extended
+0.0414807840	influenced by
+0.0413774858	arises from
+0.0413499076	resulting from
+0.0412625541	published in
+0.0412609869	work on
+0.0412448182	an account
+0.0411811707	feasibility of
+0.0411513190	conference on
+0.0410628352	motivated by
+0.0410359065	establishment of
+0.0410199264	this idea
+0.0409660168	the role of
+0.0409660168	the basis of
+0.0409374607	explanation for
+0.0408980215	the earth
+0.0408763946	tool for
+0.0408129022	this talk
+0.0407559327	the beginning of
+0.0406858149	prior to
+0.0406746518	the reader
+0.0406492359	professor at
+0.0405898204	this approach
+0.0405573488	set of
+0.0404922888	this result
+0.0403600653	to explore
+0.0402856190	formulation of
+0.0401540198	the well known
+0.0401195257	reception of
+0.0400508580	corrections to
+0.0400379926	discussion of
+0.0400043253	a clear
+0.0399557749	an experimental
+0.0398854945	posed by
+0.0398778897	known as
+0.0397768343	failure to
+0.0397149742	a brief history
+0.0396498798	to define
+0.0396280996	the first
+0.0395937600	the same time
+0.0395741041	an elementary
+0.0395209757	quest for
+0.0395097216	the second law
+0.0394675047	role in
+0.0393250793	a new
+0.0391896176	difficult to
+0.0390626665	refers to
+0.0389660168	the origin of
+0.0389481883	the idea
+0.0389356579	critique of
+0.0389106546	to interpret
+0.0387769864	to observe
+0.0386483075	a brief review
+0.0385904236	the concept of
+0.0385551915	justification for
+0.0385285789	collaboration with
+0.0384907091	this assumption
+0.0384172716	but also
+0.0384154003	the ratio
+0.0383795710	role of
+0.0383342998	compared to
+0.0382234440	idea of
+0.0381706093	objections to
+0.0381379922	used to
+0.0381144790	an introduction to
+0.0380709920	a finite
+0.0379656780	consisting of
+0.0379533692	consequences for
+0.0379188278	comparison with
+0.0378846017	reformulation of
+0.0378049633	an ancient
+0.0377166143	implications for
+0.0377040555	wish to
+0.0376979361	introduction to
+0.0376630071	between quantum mechanics and
+0.0375996225	observatory at
+0.0375904236	the development of
+0.0375700018	rooted in
+0.0375066239	seems to
+0.0372188278	viewed as
+0.0371312406	part of
+0.0371245814	the author
+0.0370929849	trying to
+0.0370652071	tries to
+0.0368868937	much more
+0.0366784030	recognized as
+0.0366429433	definition of
+0.0365991565	on earth
+0.0365937302	aims to
+0.0365554123	foundation for
+0.0365400532	a generalization
+0.0365354945	thoughts on
+0.0364785415	most fundamental
+0.0364139294	relates to
+0.0363447833	perspective on
+0.0363206519	considered by
+0.0361741457	expression for
+0.0360663559	the standard
+0.0360197381	published by
+0.0360180705	point of view of
+0.0359281364	of science
+0.0358860502	conflict with
+0.0358294997	hard to
+0.0357438795	history of
+0.0356518342	approaches to
+0.0354895862	ability to
+0.0354259716	change in
+0.0354126282	return to
+0.0354021612	suitable for
+0.0353972418	the discovery of
+0.0353493716	a nonlinear
+0.0352321678	seen as
+0.0352134846	determined by
+0.0352127814	relevance to
+0.0351561879	state of
+0.0351195257	uniqueness of
+0.0349957238	implemented in
+0.0348846017	absence of
+0.0348272129	view of
+0.0348064954	majority of
+0.0347093308	to provide
+0.0346144790	a lot of
+0.0345975128	some recent
+0.0345875315	literature on
+0.0345688278	combined with
+0.0345650149	the development of quantum
+0.0345503637	biography of
+0.0345478350	the possibility of
+0.0344904059	continues to
+0.0344662462	some basic
+0.0344473207	appears to
+0.0344392982	began to
+0.0343404059	relating to
+0.0343297066	lack of
+0.0341496034	this conclusion
+0.0341291651	in contrast to
+0.0340488978	achieved by
+0.0340488774	seem to
+0.0337404059	supposed to
+0.0337015379	the first time
+0.0336664392	or even
+0.0335577167	follow from
+0.0335573488	derivation of
+0.0335503637	centre of
+0.0334684705	tried to
+0.0333879701	a brief history of
+0.0333710066	obtained from
+0.0333456710	needs to
+0.0332999461	illustrated by
+0.0332527836	branch of
+0.0332419123	not yet
+0.0331935526	edition of
+0.0331413267	shown to
+0.0331410925	notes on
+0.0330708356	increase in
+0.0329582585	deflection of
+0.0329422613	survey of
+0.0328368041	a complete
+0.0328242145	a few
+0.0327769864	to construct
+0.0327471692	a coherent
+0.0327447833	introduced by
+0.0327097479	evolution of
+0.0326518342	attention to
+0.0326317474	a number of
+0.0325126998	the emergence of
+0.0325060152	center of
+0.0324626676	to make
+0.0324325519	to measure
+0.0324254206	the last
+0.0324068830	continued to
+0.0323459615	paid to
+0.0323459615	attempted to
+0.0322971414	references to
+0.0322716049	defense of
+0.0322602073	assumed to
+0.0322289981	followed by
+0.0321343926	defined as
+0.0321311159	class of
+0.0320883487	the need for
+0.0320107470	raised by
+0.0320103475	a great
+0.0319760733	an emergent
+0.0319625251	some aspects of
+0.0319056950	an international
+0.0318616956	the legacy of
+0.0317924030	the copernican
+0.0317722418	the nature of
+0.0317452932	even more
+0.0317324047	revision of
+0.0317063891	shown by
+0.0315866093	some detail
+0.0313725078	fraction of
+0.0313667270	q \
+0.0312447857	the second part
+0.0311158319	study of
+0.0310380487	overview of
+0.0309842953	impossibility of
+0.0308586326	equation for
+0.0308547763	an approach
+0.0308387448	this issue
+0.0307794589	the first part
+0.0307469309	order to
+0.0307328620	combination of
+0.0307326611	emergent from
+0.0307162462	more recent
+0.0306579235	violation of
+0.0305675296	a brief
+0.0304984297	principle for
+0.0304704653	this situation
+0.0304201099	generated by
+0.0303272281	rejection of
+0.0301427822	founder of
+0.0301231838	expected to
+0.0300887448	this reason
+0.0300681820	this end
+0.0300282500	context of
+0.0300020077	status of
+0.0299382514	the question
+0.0298586493	view on
+0.0297447833	conclude with
+0.0296991699	now known
+0.0296975482	impact of
+0.0296296763	ratio of
+0.0296136243	the stability of
+0.0295795704	described by
+0.0295474759	possibilities for
+0.0294579951	article by
+0.0294126626	proof of
+0.0293570863	presented by
+0.0292774204	degrees of
+0.0292657515	this work
+0.0292602073	phenomenology of
+0.0291339195	played by
+0.0290243337	an overview of
+0.0288911918	the notion of
+0.0287622753	in favour
+0.0287527659	views on
+0.0286812202	to deal with
+0.0286493337	the present work
+0.0285292639	to contribute to
+0.0285100232	orientation of
+0.0284628188	not just
+0.0284579951	period from
+0.0284325249	presented as
+0.0283806311	defined by
+0.0283570863	argue for
+0.0283475864	accounts for
+0.0282576236	other words
+0.0282074670	respect to
+0.0280761983	light on
+0.0280645182	the relation between
+0.0280523594	equivalent to
+0.0280379288	fail to
+0.0280347473	the validity of
+0.0280257915	answer to
+0.0280134240	structure of
+0.0279737393	encoded in
+0.0279307396	the first part of
+0.0278668566	close to
+0.0278175306	contributed to
+0.0278050128	a pedagogical
+0.0278050128	a satisfactory
+0.0277229639	genesis of
+0.0277207227	research on
+0.0277059463	response to
+0.0276713400	information on
+0.0276308674	occasion of
+0.0276016160	suggested by
+0.0275899034	performed by
+0.0275102073	favor of
+0.0274505887	relative to
+0.0274224332	emergence of
+0.0274135425	the latter
+0.0272639087	long time
+0.0272406150	behavior of
+0.0272018946	model for
+0.0271897136	a suitable
+0.0271840176	the observer
+0.0271803047	a realist
+0.0271761254	not require
+0.0271586026	predicted by
+0.0271284532	involved in
+0.0271206761	recognition of
+0.0269894698	to introduce
+0.0269625251	an account of
+0.0268121864	connection with
+0.0267990524	road to
+0.0267250636	force on
+0.0267141291	s \
+0.0267104431	range of
+0.0267062629	solution to
+0.0266243491	in detail
+0.0266167765	model of
+0.0265356919	obtained by
+0.0264494017	explained by
+0.0264439669	neglect of
+0.0264132226	the birth of
+0.0264087434	a specific
+0.0263514140	an analysis of
+0.0263501323	nature of
+0.0263488910	law of
+0.0263125646	manifestation of
+0.0263057450	sufficient to
+0.0261794003	derived by
+0.0261781235	visit to
+0.0261621013	succeeded in
+0.0261267736	an open
+0.0260938090	criterion for
+0.0260860082	universe as
+0.0260699836	of inertia
+0.0260699836	a conscious
+0.0260387736	identical to
+0.0260263112	needed to
+0.0259694879	took place in
+0.0259154242	to analyze
+0.0258891138	this claim
+0.0258861516	accessible to
+0.0258846571	opposed to
+0.0258813579	two different
+0.0258310751	relation to
+0.0257731148	relationship with
+0.0257700209	a multiverse
+0.0257605735	appears as
+0.0257594178	an attempt to
+0.0257250636	conclude by
+0.0257135917	characterization of
+0.0257067960	influence on
+0.0257023149	grounds for
+0.0256769864	to illustrate
+0.0255991565	to offer
+0.0255914289	made by
+0.0255914289	given by
+0.0255685419	case for
+0.0255356919	discussion on
+0.0255328714	a physical system
+0.0255098777	to evaluate
+0.0254983067	a discussion of
+0.0254861516	linked to
+0.0254861516	applies to
+0.0254427431	working on
+0.0254188640	spirit of
+0.0253567960	reason for
+0.0253478292	for example
+0.0252991699	do so
+0.0252735564	resulted in
+0.0252334613	aspect of
+0.0252274141	principle of
+0.0252127880	present work
+0.0251924839	representation of
+0.0251688640	contained in
+0.0251569548	to identify
+0.0251257326	equal to
+0.0251212152	both classical and
+0.0251162324	universality of
+0.0250979548	letter to
+0.0250479031	debate on
+0.0250006653	regard to
+0.0249931028	to produce
+0.0249327345	amount of
+0.0249216359	second part of
+0.0248743868	reported by
+0.0248514242	an article
+0.0248500467	method for
+0.0248093313	a broad
+0.0247469309	beginning of
+0.0247191615	a unified
+0.0247067960	identified as
+0.0246617608	to investigate
+0.0245914289	used by
+0.0245291918	in addition to
+0.0245123630	aim of
+0.0245004825	foundation of
+0.0244565396	evaluation of
+0.0244001108	acceptance of
+0.0243940547	the early history of
+0.0243841140	application of
+0.0243329104	to answer
+0.0243112090	contrast to
+0.0243077595	condition for
+0.0243057450	realized in
+0.0242823362	connected to
+0.0242779672	validity of
+0.0242602073	impossible to
+0.0242567102	the interplay between
+0.0241422866	of light
+0.0240060898	the fate
+0.0239832446	whether or
+0.0239586493	argument for
+0.0239437024	form of
+0.0239383443	first part
+0.0239295845	place in
+0.0239013342	failed to
+0.0238977363	a survey of
+0.0238566904	realm of
+0.0237642835	exploration of
+0.0237165799	domain of
+0.0237162789	a set of
+0.0236756809	discovered by
+0.0236048833	created by
+0.0235973860	apply to
+0.0235809567	a large
+0.0235370997	designed to
+0.0235328714	a quantum system
+0.0235220452	report on
+0.0235123630	philosophy of
+0.0235004825	construction of
+0.0234168966	translation of
+0.0233693106	purpose of
+0.0233215049	the importance of
+0.0233170803	to represent
+0.0232602073	pioneer of
+0.0231794003	established by
+0.0231688640	behaviour of
+0.0231187082	ground for
+0.0230717447	catalogue of
+0.0230347473	a translation of
+0.0229629595	expressed in
+0.0228910105	a modification
+0.0228353901	the measurement
+0.0228279319	by ettore
+0.0227907253	of astrobiology
+0.0227607348	three different
+0.0227484465	list of
+0.0226655902	heart of
+0.0226642503	in turn
+0.0226233067	the case of
+0.0225985590	first part of
+0.0225816400	a review of
+0.0225211788	away from
+0.0225211788	follows from
+0.0225170593	need to
+0.0225070943	an appropriate
+0.0222125251	a consequence of
+0.0221810468	the idea of
+0.0221802107	extension of
+0.0221543337	a consequence
+0.0221344178	a variety of
+0.0221089127	this case
+0.0220407253	the advent
+0.0220067019	possibility of
+0.0220044785	existence of
+0.0219658939	other than
+0.0219581433	the possibility to
+0.0219254718	aim to
+0.0219093220	director of
+0.0218930586	consequence of
+0.0218610558	a part of
+0.0218366095	quality of
+0.0218317344	the role played by
+0.0218286644	required to
+0.0217615296	character of
+0.0217607348	several other
+0.0217504825	basis of
+0.0216162075	invention of
+0.0213631288	this connection
+0.0213277867	the occasion
+0.0212932707	a concrete
+0.0212887736	implementation of
+0.0212796837	relate to
+0.0212602073	collection of
+0.0212261947	the problem
+0.0212127079	a careful
+0.0211710412	a straightforward
+0.0211624422	a range of
+0.0211301170	planning of
+0.0211194812	presence of
+0.0210877878	this subject
+0.0210865384	the transition from
+0.0210854868	effort to
+0.0210688139	this kind
+0.0210628373	problem of
+0.0209814070	the scope
+0.0209625251	in connection with
+0.0209625251	this kind of
+0.0209503831	a unique
+0.0209008464	a list of
+0.0208172262	restricted to
+0.0207966417	appearance of
+0.0206958523	a rich
+0.0206875473	to reproduce
+0.0205805323	along with
+0.0204466417	addition to
+0.0204207006	an astronomical
+0.0203264857	not always
+0.0203033236	a heuristic
+0.0202734019	meaning of
+0.0202635340	the development
+0.0202433178	an independent
+0.0202353582	importance of
+0.0202260921	as opposed
+0.0202223228	the birth
+0.0201813221	some other
+0.0199695638	the sun
+0.0199332929	an introduction
+0.0199036092	an example
+0.0198877028	the speed of
+0.0197996122	the construction of
+0.0197586575	a solution to
+0.0197469309	end of
+0.0197035684	to reveal
+0.0196979327	this fact
+0.0196928502	to test
+0.0196617290	brief history of
+0.0196063320	origin of
+0.0195607838	seemed to
+0.0195433388	the end
+0.0195143212	inherent in
+0.0194967384	this process
+0.0194457509	advent of
+0.0194347473	the presence of
+0.0194347473	the appearance of
+0.0194124422	a lack of
+0.0193790339	this book
+0.0192778410	series of
+0.0191820327	the search
+0.0191788801	an example of
+0.0191026324	the evolution of
+0.0190461211	this phenomenon
+0.0190407253	the occurrence
+0.0189730687	the necessity of
+0.0189626358	the role
+0.0189465049	the aim of
+0.0188245729	the discovery
+0.0188026150	appear to
+0.0187595484	to prove
+0.0187049503	a deep
+0.0186617148	a major
+0.0185670803	the heart
+0.0185484982	the occurrence of
+0.0184382924	a quantitative
+0.0184347473	the purpose of
+0.0183659341	subset of
+0.0182847473	a source of
+0.0181026324	the status of
+0.0181026324	the question of
+0.0178176194	used for
+0.0177356395	a significant
+0.0177125723	side of
+0.0176261835	to highlight
+0.0175991565	the road
+0.0173928779	a rigorous
+0.0171681797	a result
+0.0171182574	the principle of
+0.0171182574	the study of
+0.0170718325	the impossibility of
+0.0170718325	a collection of
+0.0170228482	possible to
+0.0169795005	the absence of
+0.0169040005	taken as
+0.0167752249	this framework
+0.0166331039	not even
+0.0165835416	the second part of
+0.0165724975	as much
+0.0165328714	in response to
+0.0164660702	to predict
+0.0164589444	a discussion
+0.0164473897	just as
+0.0164075087	the possibility
+0.0163988760	at present
+0.0163821853	favour of
+0.0163266537	an interpretation
+0.0162491155	the period from
+0.0162369320	the relationship between
+0.0161787290	value for
+0.0160419186	in relation to
+0.0159324331	a common
+0.0158016092	come from
+0.0158016092	allow for
+0.0157807415	the derivation of
+0.0157496147	a small
+0.0157469309	means of
+0.0157346644	the center of
+0.0156664968	to address
+0.0156658232	a translation
+0.0155691531	point of
+0.0154676481	the wave
+0.0154539423	new approach
+0.0153562959	found in
+0.0153168401	to demonstrate
+0.0153153992	to justify
+0.0152053506	the second
+0.0151039998	a derivation of
+0.0150376846	the philosophy of
+0.0150328714	the spirit of
+0.0149942064	a result of
+0.0149351139	the standard model of
+0.0149324331	a long
+0.0148485683	to try
+0.0148353969	a kind of
+0.0148325792	the existence
+0.0148264006	scope of
+0.0148145962	far from
+0.0146261835	a crucial
+0.0146163815	the search for
+0.0143418401	a series
+0.0143153992	to distinguish
+0.0143054718	the difference between
+0.0141836825	in contrast
+0.0141511337	to think
+0.0140834696	different from
+0.0140682350	the orientation of
+0.0140526100	the behavior of
+0.0140091318	the domain of
+0.0139795005	the foundation of
+0.0139611427	an interpretation of
+0.0139434374	the point of view of
+0.0139018721	the answer to
+0.0137727816	same time
+0.0137511820	the theory of
+0.0135712129	the quantum theory of
+0.0134524029	well as
+0.0133246534	to know
+0.0133135284	in view of
+0.0131965410	a number
+0.0130200468	second law of
+0.0128653661	the origin
+0.0128282689	the need to
+0.0128015243	taken from
+0.0127661074	a theory of
+0.0127511820	the form of
+0.0127245729	the case
+0.0126854118	the first to
+0.0124025859	as far
+0.0122876922	the british
+0.0121227858	came to
+0.0120773319	a source
+0.0120682350	the lack of
+0.0120277741	an analysis
+0.0120155502	enough to
+0.0119207297	arrow of
+0.0118653661	the notion
+0.0118015243	useful for
+0.0117807415	the structure of
+0.0108690853	the conception of
+0.0108690853	the law of
+0.0108197025	the state of
+0.0107590150	the universe as
+0.0105712129	the collection of
+0.0104434921	interest for
+0.0104018721	a form of
+0.0103135284	the definition of
+0.0103107062	interest in
+0.0102809150	allows for
+0.0101039998	the behaviour of
+0.0100709340	to date
+0.0100229788	the meaning of
+0.0099844906	with regard
+0.0099018721	the violation of
+0.0098876465	taken by
+0.0098690853	the formulation of
+0.0098690853	the application of
+0.0097333657	the genesis of
+0.0093856730	need for
+0.0092618255	likely to
+0.0091128917	the second law of
+0.0089783488	a survey
+0.0089018721	a description of
+0.0088690853	a study of
+0.0086969699	a quantum theory of
+0.0084969002	corresponding to
+0.0084397612	to find
+0.0079023270	the sun in
+0.0079003917	the arrow of
+0.0078690853	a model of
+0.0078690853	the measurement of
+0.0072173082	to shed
+0.0067802192	to take
+0.0063246534	to become
+0.0059023270	the point of

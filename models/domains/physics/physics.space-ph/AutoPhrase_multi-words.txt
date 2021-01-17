@@ -1,0 +1,5561 @@
+0.9637020362	kuiper belt
+0.9568057446	equivalence principle
+0.9509798945	space weather
+0.9495298254	supermassive black hole
+0.9493349727	lisa pathfinder
+0.9491490410	black hole
+0.9491123667	maunder minimum
+0.9484974959	south pole
+0.9481902302	forbush decreases
+0.9479413655	white dwarf
+0.9470816357	random walk
+0.9468527089	venus express
+0.9468489956	neutron star
+0.9467375068	general relativity
+0.9461302898	artificial intelligence
+0.9459647449	northern hemisphere
+0.9457973991	monte carlo
+0.9454180667	southern hemisphere
+0.9437644020	crab nebula
+0.9432623464	laser ranging
+0.9424410454	machine learning
+0.9415541434	dark matter
+0.9404746371	neutron monitor
+0.9396379882	cosmic ray
+0.9391259073	brown dwarfs
+0.9376996086	united nations
+0.9372517016	sea level
+0.9359615322	incoherent scatter
+0.9358416839	european space agency
+0.9356436190	pioneer anomaly
+0.9352613303	coronal mass ejections
+0.9349893405	wavelet transform
+0.9334579974	solar flares
+0.9332302172	instrument suite
+0.9320592318	cosmic rays
+0.9307721030	black holes
+0.9301900123	electric field
+0.9287282344	cosmological constant
+0.9284744348	astronomical unit
+0.9281607192	coronal mass ejection
+0.9276055855	van allen
+0.9275214906	harris sheet
+0.9273777707	solar maximum
+0.9269158382	solar activity
+0.9264943056	planetary nebulae
+0.9264322403	sdo aia
+0.9260225505	cyclotron maser
+0.9259534436	international space station
+0.9255765402	number density
+0.9247613018	magnetic fields
+0.9240675329	advanced composition explorer
+0.9235575379	leaky box
+0.9230349812	extreme ultraviolet
+0.9228343893	geomagnetic storm
+0.9227150376	ab initio
+0.9226082154	taylor's hypothesis
+0.9224603172	lorentz force
+0.9218149927	newtonian einsteinian
+0.9215752950	galactic cosmic rays
+0.9215337497	field strength
+0.9214654324	dispersion relation
+0.9213354282	sdo hmi
+0.9212310286	main sequence
+0.9212131704	magnetic reconnection
+0.9198651515	magnetospheric multiscale
+0.9197195511	oort cloud
+0.9190254071	dispersion relations
+0.9189975231	cross section
+0.9186087360	dynamo action
+0.9185887641	solar cycle
+0.9168826255	soho lasco
+0.9168580180	neutron monitors
+0.9167445810	parker solar probe
+0.9166662329	gamma ray
+0.9160178967	general circulation
+0.9157752629	heliospheric imagers
+0.9155939656	solar corona
+0.9148368406	space elevator
+0.9147176828	prandtl number
+0.9141837306	current sheet
+0.9140555699	forbush decrease
+0.9136592323	neural network
+0.9134941184	solar dynamics observatory
+0.9128321488	landau damping
+0.9126481598	ohm's law
+0.9125110206	white paper
+0.9125023950	leading edge
+0.9123608639	charged particle
+0.9117445591	dy cen
+0.9114510623	mach number
+0.9110637848	geomagnetic field
+0.9109278085	space debris
+0.9108154996	space environment
+0.9105471919	atmospheric imaging assembly
+0.9104764138	neutron stars
+0.9104388499	solar flare
+0.9100256736	cross sections
+0.9091357087	earth's magnetotail
+0.9084415050	marginal stability
+0.9083460857	dark energy
+0.9077357146	flux rope
+0.9075802200	istp sb ras
+0.9075778870	polar cap
+0.9068992108	aerodynamic drag
+0.9064546015	reynolds number
+0.9057652402	alpha particle
+0.9056692944	correlation coefficient
+0.9055541152	water ice
+0.9054774480	remote sensing
+0.9053892670	astronomical units
+0.9052701833	light sails
+0.9050217814	solar wind
+0.9047271831	radiative transfer
+0.9046763312	free fall
+0.9045337838	solar orbiter
+0.9043808554	langmuir probe
+0.9040056275	current sheets
+0.9039184189	type iii radio bursts
+0.9038117126	asteroid mining
+0.9031934815	dynamic pressure
+0.9023293050	dipole moment
+0.9019763559	magnetic moment
+0.9017789573	gamma ray bursts
+0.9016172675	parker spiral
+0.9013882143	partially ionized
+0.9010796024	thermal conduction
+0.9008593493	gev nuc
+0.9008413873	boundary layer
+0.9005590273	radiation belt
+0.9004498539	mach numbers
+0.8998316836	kinetic theory
+0.8995975468	dust grains
+0.8993278148	charge exchange
+0.8991487385	stellar wind
+0.8990517923	power law
+0.8986339310	semimajor axis
+0.8985152407	pair production
+0.8984165824	solar minimum
+0.8981219462	angular momentum
+0.8980319172	solar sail
+0.8978578217	noaa poes
+0.8978269563	dipole tilt
+0.8972647920	thermal energy
+0.8972344514	ground level enhancements
+0.8970907208	alpha particles
+0.8969240465	climate change
+0.8968983317	steady state
+0.8965599683	ca ii
+0.8963920559	interplanetary scintillation
+0.8961941876	scaling laws
+0.8955804379	interstellar boundary explorer
+0.8951656582	ray tracing
+0.8948975544	circularly polarized
+0.8947299230	debris removal
+0.8939641066	vlasov equation
+0.8934391766	radiation dose
+0.8930295591	interstellar medium
+0.8923480500	critically balanced
+0.8921419627	north south
+0.8920679881	outer space
+0.8920625371	hall effect
+0.8919734579	data assimilation
+0.8918554779	radiation pressure
+0.8916214476	mev nuc
+0.8910265990	geomagnetically induced currents
+0.8910034023	space physics
+0.8904842885	linearly polarized
+0.8903179599	sweet parker
+0.8903177365	mirror instability
+0.8902960296	vlasov maxwell
+0.8900905740	cameron band
+0.8899958273	flux ropes
+0.8898262151	electron density
+0.8896804691	principal component analysis
+0.8895559935	expanding box
+0.8895000690	vlf lf
+0.8894810753	magnetic storms
+0.8893548227	parametric decay
+0.8888487499	free energy
+0.8885636784	current density
+0.8885036738	standard deviation
+0.8884833261	whistler waves
+0.8883998276	total electron content
+0.8881918587	magnetic clouds
+0.8880538684	shock waves
+0.8876052228	guide field
+0.8868469512	interplanetary medium
+0.8867382723	differential rotation
+0.8865984121	space technology initiative
+0.8864033731	magnetic storm
+0.8863762579	ionizing radiation
+0.8859891008	electric current
+0.8859434688	frame dragging
+0.8857898764	electromagnetic field
+0.8852094434	gravitational wave
+0.8851484042	earth orbit
+0.8851323491	energy dissipation
+0.8846040217	larmor radius
+0.8842214001	flyby anomalies
+0.8841166431	plasma sheet
+0.8840529401	bow shock
+0.8838574705	solar eruptions
+0.8835805358	distribution function
+0.8833314217	coronal hole
+0.8832922981	magnetohydrodynamic turbulence
+0.8831333697	lundquist number
+0.8830329490	reference frame
+0.8829559868	solar modulation
+0.8829162010	particle acceleration
+0.8828918505	pitch angle
+0.8826852882	heat flux
+0.8819655022	doppler shift
+0.8818727991	ground level enhancement
+0.8816262864	neutral gas
+0.8815187970	wave propagation
+0.8814327202	ionosphere thermosphere
+0.8812465783	atom interferometry
+0.8811313156	kelvin helmholtz
+0.8810733690	solar irradiance
+0.8809682285	systematic errors
+0.8809622688	null points
+0.8808503688	geomagnetic activity
+0.8806540474	artificial satellite
+0.8804783236	tearing instability
+0.8804135464	heat conduction
+0.8802615192	mhd turbulence
+0.8800243055	spectral slope
+0.8799231052	frequency range
+0.8798199510	collisionless magnetic reconnection
+0.8788973565	lageos satellites
+0.8787884903	solar terrestrial relations observatory
+0.8786119218	field lines
+0.8783778808	interplanetary magnetic field
+0.8783191483	northward imf
+0.8782149458	lageos ii
+0.8779566905	pickup ion
+0.8779232219	magnetic field
+0.8778451069	electric potential
+0.8775118066	van allen probes
+0.8772817308	slow solar wind
+0.8769968048	geomagnetic storms
+0.8767573970	sunspot numbers
+0.8767413998	geomagnetic disturbances
+0.8765946016	electric propulsion
+0.8764683862	artificial satellites
+0.8763893207	energetic neutral atom
+0.8763801424	foreshock transients
+0.8763007099	electric fields
+0.8757928529	upper limit
+0.8757400385	coronal heating
+0.8755234785	geosynchronous orbit
+0.8755103865	correlation function
+0.8754589047	electromagnetic waves
+0.8752983030	energetic particles
+0.8748988964	heavy ions
+0.8748262267	solar physics
+0.8747687936	comet 67p
+0.8747363547	lower hybrid
+0.8747291176	phase mixing
+0.8746992362	narrow band
+0.8746409478	magnetic flux
+0.8743948726	electron heating
+0.8742396086	topside ionosphere
+0.8742110759	electron fluxes
+0.8741654031	magnetic cloud
+0.8741622389	energetic neutral atoms
+0.8740243404	neutral atoms
+0.8739674661	aspect ratio
+0.8737324163	ion heating
+0.8734917853	critical balance
+0.8734654858	solar cycles
+0.8731034418	termination shock
+0.8729552828	east west
+0.8728817575	heliocentric distance
+0.8728040133	electron beam
+0.8727519690	synoptic maps
+0.8726803570	spherically symmetric
+0.8725019119	carrington event
+0.8721655547	weakly collisional
+0.8720762392	gravitational field
+0.8720093985	sunspot number
+0.8718206140	diffusion region
+0.8716392886	inverse cascade
+0.8716296938	supernova remnants
+0.8715369961	bi maxwellian
+0.8714652069	atom interferometer
+0.8712416145	pickup ions
+0.8712294624	superposed epoch
+0.8711970781	type ii radio burst
+0.8711514878	planetary ephemerides
+0.8710019681	thermodynamic equilibrium
+0.8708400105	solar radii
+0.8706608025	supermassive black
+0.8703096473	perpendicular diffusion
+0.8700828107	hydrogen atoms
+0.8698094634	galactic cosmic ray
+0.8697367592	structure functions
+0.8696530357	particle transport
+0.8691257885	drag force
+0.8688449714	whistler wave
+0.8688255346	spectral resolution
+0.8684795572	guiding center
+0.8683963497	shock wave
+0.8681432439	heliocentric distances
+0.8680469381	hybrid simulations
+0.8678992584	landau resonance
+0.8678695884	reconnection rate
+0.8677541274	phase velocity
+0.8675086900	collisionless reconnection
+0.8673507797	post newtonian
+0.8670634631	astrophysical environments
+0.8668938794	ionospheric disturbances
+0.8667923988	sunspot cycle
+0.8665799543	tearing mode
+0.8664510742	galactic center
+0.8661979774	radiation belts
+0.8660787431	lunar wake
+0.8658925350	kilometric radiation
+0.8658452186	magnetic helicity
+0.8657524564	kinetic instabilities
+0.8655509251	maxwell equations
+0.8655412637	instrument onboard
+0.8654775322	vlasov poisson
+0.8653414538	energy spectrum
+0.8651937133	oppositely directed
+0.8651485719	double pulsar
+0.8648316779	polar cap patches
+0.8641603121	transport equation
+0.8641469837	sound speed
+0.8641299804	atmospheric drag
+0.8640415998	prominence eruptions
+0.8640410674	planetary atmospheres
+0.8640146293	orbit determination
+0.8637274877	current layer
+0.8636138003	magnetic field lines
+0.8636114931	corotating interaction regions
+0.8634914261	hall magnetohydrodynamics
+0.8634261871	general relativistic
+0.8632820783	null point
+0.8632405215	high fidelity
+0.8628701154	gravity field
+0.8628684962	solar energetic
+0.8628258271	cyclotron frequency
+0.8623368660	solar probe's
+0.8618636691	gravitational potential
+0.8618129736	modified gravity
+0.8617978735	white light
+0.8616474084	electric currents
+0.8609492813	occurrence rates
+0.8607126855	circular orbit
+0.8606257457	takes place
+0.8605209568	cyclotron resonance
+0.8605048463	ion beam
+0.8604724310	` `
+0.8604510382	convection zone
+0.8602978945	magnetic holes
+0.8602832947	ip shocks
+0.8602233070	magnetized plasma
+0.8600590203	flyby anomaly
+0.8600037099	accretion disks
+0.8599712977	lense thirring
+0.8598559320	atomic oxygen
+0.8597696397	solar energetic particle
+0.8595563555	post keplerian
+0.8594178609	neutral hydrogen
+0.8583499703	field line
+0.8580093127	plasma beta
+0.8577530435	highly eccentric
+0.8577436777	interplanetary shock
+0.8576112198	heating rate
+0.8573038478	hall mhd
+0.8567501619	celestial bodies
+0.8566554495	heliospheric imager
+0.8563360633	particle energization
+0.8562393533	alfven wave
+0.8561140252	electron beams
+0.8559997173	gamma rays
+0.8559737032	ice cores
+0.8559718937	orbital elements
+0.8558260010	active regions
+0.8558014718	opposite polarity
+0.8554648572	collisionless damping
+0.8554287804	kinetic energy
+0.8554243788	phase space
+0.8553259385	radiation environment
+0.8553029781	pressure balance
+0.8552975876	periodic orbits
+0.8552769688	mirror modes
+0.8552030709	ocean tides
+0.8550940479	reuven ramaty high energy
+0.8550341051	magnetic flux ropes
+0.8550310556	strongly magnetized
+0.8547188940	cross helicity
+0.8546110208	grad shafranov
+0.8544998582	parameter space
+0.8539130179	type ii
+0.8538205121	closely related
+0.8534863514	vantage points
+0.8534079755	radio bursts
+0.8533459620	weak turbulence
+0.8531135497	density gradient
+0.8529788443	magnetic field strength
+0.8527817429	thermal desorption
+0.8527261519	alfven waves
+0.8525765410	fully kinetic
+0.8523824740	residual energy
+0.8523479610	energy spectra
+0.8521891723	transition region
+0.8521681417	mass spectrometer
+0.8520744726	parametric instability
+0.8519211313	coulomb collisions
+0.8517919818	spatial resolution
+0.8513106206	basic space science
+0.8512531819	filament eruption
+0.8511528359	hall term
+0.8510882638	air showers
+0.8508539316	kinetic scales
+0.8508327104	hybrid vlasov maxwell
+0.8508051930	solar probe
+0.8507292506	orbital angular momentum
+0.8505881832	reconnection site
+0.8504611083	equatorial plane
+0.8503957471	rest frame
+0.8503411877	fokker planck
+0.8503222356	solar energetic particles
+0.8497355467	solar terrestrial
+0.8496236628	type ii radio bursts
+0.8495940612	dusty plasmas
+0.8494906939	loss cone
+0.8494576059	en waves
+0.8494450618	systematic error
+0.8493297858	solar atmosphere
+0.8492105671	collisionless plasma
+0.8491976897	electron acceleration
+0.8491289362	terrestrial gamma ray flashes
+0.8490819445	electron holes
+0.8487486941	coronagraph images
+0.8487181363	perihelion precessions
+0.8486110303	solar sails
+0.8485832021	energy transfer
+0.8483503820	left handed
+0.8482787941	mirror mode
+0.8481927852	radio burst
+0.8480488443	velocity distribution
+0.8480027750	coronal holes
+0.8479937881	high beta
+0.8479392258	martian atmosphere
+0.8478946580	lightning location
+0.8476518150	charged particles
+0.8476294168	energetic particle
+0.8473739595	minor ions
+0.8472966418	coronal mass
+0.8470063020	fast reconnection
+0.8465709605	wind spacecraft
+0.8464626228	path lengths
+0.8462903776	inertial range
+0.8462695426	f2 layer
+0.8462402251	upper atmosphere
+0.8458095888	tilt angle
+0.8458054113	spectroscopic imager
+0.8456204027	spectral indices
+0.8455382727	scaling relations
+0.8454839362	path length
+0.8453658403	low earth orbit
+0.8452269080	interplanetary coronal mass ejections
+0.8452012802	collisionless shocks
+0.8452010141	wave number
+0.8450912762	density fluctuations
+0.8447324767	kinetic simulations
+0.8443661682	diffusion coefficient
+0.8440801821	numerical simulation
+0.8440464524	firehose instability
+0.8440295336	gcr intensity
+0.8437326995	poynting flux
+0.8434059915	stochastic heating
+0.8431161731	fundamental physics
+0.8430565425	aa index
+0.8430214568	scaling exponents
+0.8429327883	plasma heating
+0.8428921400	radio emissions
+0.8426691918	type iii
+0.8423494547	shear flows
+0.8422866919	high energies
+0.8422551421	euv wave
+0.8421898794	preferential heating
+0.8411952653	electron temperature
+0.8411764208	spectral break
+0.8409657099	quadrupole moment
+0.8408466228	deep space
+0.8408232315	sep events
+0.8406242829	skin depth
+0.8401802001	velocity distributions
+0.8401449726	spin axis
+0.8400869258	statistically significant
+0.8400400263	shock ramp
+0.8399561028	earth's magnetosheath
+0.8398745847	energetic electrons
+0.8396758252	earth's bow shock
+0.8396691549	magnetic structures
+0.8395705384	current status
+0.8395605557	keplerian orbital elements
+0.8395370335	background magnetic field
+0.8393098801	long term
+0.8391425578	planetary magnetospheres
+0.8389976167	dynamic range
+0.8387179533	yield function
+0.8383940768	dst index
+0.8379983685	charge states
+0.8379673365	analytical expressions
+0.8379264031	dose rate
+0.8377718238	differential emission measure
+0.8375151086	relativistic electrons
+0.8374474498	mass loss
+0.8374382656	probability distribution
+0.8371470952	semi major axis
+0.8371247670	collisionless plasmas
+0.8369381029	electromagnetic wave
+0.8369150918	gravitationally bound
+0.8367955669	proton temperature
+0.8363205169	bulk flow
+0.8361108383	higher order
+0.8360193661	kinetic turbulence
+0.8359951571	polar orbit
+0.8359311335	mode conversion
+0.8356288946	interplanetary space
+0.8355028166	langmuir waves
+0.8352112092	magnetosphere ionosphere coupling
+0.8351528879	orbital period
+0.8347291516	heavy ion
+0.8346599042	test masses
+0.8343335352	kinematic properties
+0.8341987123	acceleration process
+0.8340921970	recent progress
+0.8340752473	finite larmor radius
+0.8337844468	laser ranged
+0.8336993684	ste quest
+0.8336703508	laplace surface
+0.8336266843	super alfvenic
+0.8335471377	magnetically dominated
+0.8334896839	dawn dusk
+0.8333499099	energy range
+0.8330576668	allen probes
+0.8329763543	wave packets
+0.8329148461	electromagnetic fields
+0.8328099299	ionization rates
+0.8327945786	pressure tensor
+0.8327298438	taking place
+0.8327075624	active region
+0.8326191834	cosmic radiation
+0.8324794252	solar terrestrial relations
+0.8322511704	frozen orbits
+0.8322378795	relations observatory
+0.8319960490	astrophysical plasmas
+0.8318206145	mass ejection
+0.8317970516	mass ratio
+0.8317917151	complex ejecta
+0.8317433940	orbital debris
+0.8315358113	semi empirical
+0.8313374687	higher energies
+0.8312036256	solar proton events
+0.8311479124	birkeland currents
+0.8311475466	upper limits
+0.8311040604	radio emission
+0.8310558130	low frequency
+0.8309691087	interstellar dust
+0.8308256604	left hand
+0.8306632073	foreshock transient
+0.8302224585	3he rich
+0.8299762230	polarity inversion
+0.8299123119	root mean square
+0.8296894819	data analysis
+0.8296420860	flux emergence
+0.8295774583	dust grain
+0.8294626742	circular orbits
+0.8292352872	curvature drift
+0.8290142627	power spectra
+0.8289417638	mass density
+0.8289284086	energy flux
+0.8287888375	southward imf
+0.8287530539	space plasmas
+0.8286125050	anomalous resistivity
+0.8281871289	outer heliosphere
+0.8280129196	corotating interaction region
+0.8278016712	long duration
+0.8276646198	compressive fluctuations
+0.8274859731	data set
+0.8273606355	ground stations
+0.8270752864	kinetic scale
+0.8270497692	arrival times
+0.8269347533	energy release
+0.8269108928	interplanetary shocks
+0.8264423875	charge sign
+0.8262398092	power laws
+0.8261607976	solar wind streams
+0.8261519867	cosmic dust
+0.8259117145	quiet sun
+0.8257222096	solar wind speed
+0.8255584326	recoil force
+0.8253659890	cascade rate
+0.8253251468	magnetic flux rope
+0.8252719282	closest approach
+0.8252437763	pickup protons
+0.8250432777	occurrence rate
+0.8248106230	electron precipitation
+0.8246968320	proton temperature anisotropy
+0.8246838222	ground based
+0.8245989526	long lived
+0.8245025974	low beta
+0.8243728957	hot electrons
+0.8243207422	charge state
+0.8241695540	hot flow anomalies
+0.8241247092	ion cyclotron
+0.8239278383	strongly affected
+0.8233319143	high speed stream
+0.8233215664	quadrupole mass moment
+0.8232691609	host star
+0.8230152149	linear theory
+0.8230138802	high energy
+0.8227502984	small scale
+0.8225300825	geo effectiveness
+0.8216497232	long baseline
+0.8216411151	energy density
+0.8216276266	statistical analysis
+0.8215704948	poorly understood
+0.8214107520	turbulent fluctuations
+0.8214002453	collisionless shock
+0.8213453321	outer boundary
+0.8209722869	weibel instability
+0.8208264970	bi directional
+0.8207516255	solar energetic particle events
+0.8206994508	dissipation region
+0.8206291988	gyro radius
+0.8205832136	energetic ions
+0.8205774914	mass ejections
+0.8204456401	large scale
+0.8203905285	kinetic effects
+0.8202478587	acceleration mechanism
+0.8196293508	spatial scales
+0.8194581521	plasma turbulence
+0.8192172837	magnetized plasmas
+0.8185418344	semi analytical
+0.8182809239	simulation results
+0.8177703639	ulf waves
+0.8175924123	solitary waves
+0.8172493428	fast solar wind
+0.8172050666	frequency band
+0.8171521502	gcr flux
+0.8170922434	plasma physics
+0.8170209917	instability thresholds
+0.8169363360	velocity space
+0.8169034817	plasma flows
+0.8168578295	mhd simulations
+0.8165784866	adiabatic invariants
+0.8162084502	m_i m_e
+0.8161514996	energy conversion
+0.8158356453	suprathermal electron
+0.8157217275	dayside magnetopause
+0.8155226353	linear combination
+0.8154348442	electron diffusion region
+0.8154217373	numerical models
+0.8150293141	proton fluxes
+0.8148823546	magnetosonic whistler
+0.8148527957	log normal
+0.8147028467	laboratory experiments
+0.8146124163	previously reported
+0.8142979444	ulf wave
+0.8142639474	anti sunward
+0.8141239955	frequency shift
+0.8140283365	auroral oval
+0.8138953434	stream interaction
+0.8138495723	spectral index
+0.8137567902	sheath region
+0.8137145109	wave vector
+0.8135762254	bi kappa
+0.8135382587	high frequency
+0.8134963094	long wavelength
+0.8132775609	dynamic spectra
+0.8132647166	kappa distribution
+0.8131832112	analytical model
+0.8129628234	radio signals
+0.8129452234	relative drifts
+0.8129127675	radio science
+0.8127794800	growth rates
+0.8127719699	chemical composition
+0.8122600055	planetary bodies
+0.8122285791	low altitude
+0.8120180406	extreme space weather
+0.8117917343	geomagnetic indices
+0.8113436236	fast magnetosonic
+0.8112668121	magnetic islands
+0.8111313149	comet 67p churyumov gerasimenko
+0.8111251129	alfvenic turbulence
+0.8108356666	velocity fluctuations
+0.8105425793	euv images
+0.8104501216	earth's magnetosphere
+0.8102667018	monte carlo simulation
+0.8102426295	large amplitude
+0.8101615400	spectral analysis
+0.8100847264	long lasting
+0.8100025718	particle scattering
+0.8096721624	high resolution
+0.8094425804	stereo spacecraft
+0.8093560121	modulation potential
+0.8093499174	theoretical predictions
+0.8091762553	order unity
+0.8090020005	lower bound
+0.8089110609	suprathermal electrons
+0.8085964065	orbiting satellites
+0.8085162292	coronal shocks
+0.8084404987	earth gravity
+0.8083445610	numerical simulations
+0.8081286637	quantitative agreement
+0.8080010695	ion cyclotron waves
+0.8079167134	low earth orbits
+0.8077918819	dayside magnetosphere
+0.8077486234	churyumov gerasimenko
+0.8075458981	polar regions
+0.8074662012	small scales
+0.8071203182	pic simulations
+0.8070126803	diffusive shock acceleration
+0.8069982357	electron scales
+0.8067303982	length scale
+0.8065324323	electron inertia
+0.8065084225	high altitude
+0.8063981340	electron positron
+0.8063493468	coronal loops
+0.8059683357	fine structure
+0.8057894400	direct comparison
+0.8057355558	radial distance
+0.8057292308	power spectrum
+0.8053975045	astrophysical plasma
+0.8053468120	mhd equations
+0.8053153358	restricted three body problem
+0.8050394307	kinetic alfven
+0.8049983033	radial distances
+0.8049725388	astrophysical systems
+0.8048552365	temperature anisotropy
+0.8048403284	fine structures
+0.8046142381	light curves
+0.8046009203	heliospheric current sheet
+0.8045522279	hard x ray
+0.8044787965	counter propagating
+0.8043409569	outer heliosheath
+0.8042383261	exact solutions
+0.8039639227	type ii burst
+0.8039083803	turbulent cascade
+0.8038447610	magnetic fluctuations
+0.8037878274	power network
+0.8035133212	satellite laser ranging
+0.8034054751	thermal equilibrium
+0.8031856110	energy input
+0.8031727095	relativistic effects
+0.8030498036	fitting method
+0.8029111125	space missions
+0.8024908879	secondary islands
+0.8024831504	pressure balanced
+0.8024643685	dominant role
+0.8021759987	orbital effects
+0.8021092014	main phase
+0.8020420407	density profiles
+0.8017163570	extreme events
+0.8015772510	focused transport equation
+0.8015359670	whistler mode
+0.8014325403	current layers
+0.8013016344	cold plasma
+0.8011762094	fluctuation spectrum
+0.8011096948	anomalous acceleration
+0.8010921887	outer scale
+0.8010181947	short term
+0.8009313349	relative importance
+0.8008852333	solar eclipse
+0.8007808764	corotating interaction
+0.8007622432	gravitational waves
+0.8007519297	radio telescopes
+0.8004855756	mhd waves
+0.8003990787	emission measure
+0.8001102029	kp index
+0.7995680878	low cost
+0.7993920912	local interstellar medium
+0.7993420816	solar zenith angle
+0.7991044165	numerical methods
+0.7990761477	sensitivity analysis
+0.7990053071	rotation period
+0.7986920276	angular width
+0.7984219242	temperature anisotropies
+0.7982832063	provide valuable
+0.7982395947	wave modes
+0.7982393444	ion species
+0.7982265945	force free
+0.7981601823	field aligned
+0.7981102260	initial conditions
+0.7981015402	earth moon
+0.7980486362	ionospheric convection
+0.7980475949	total solar irradiance
+0.7977580967	ground level
+0.7975320794	shock drift acceleration
+0.7973979633	reconnection sites
+0.7973472163	high speed streams
+0.7973280242	physics based
+0.7972678975	velocity distribution function
+0.7970615817	flux cancellation
+0.7968625879	growth rate
+0.7967714581	counter streaming
+0.7966944842	resistive magnetohydrodynamic
+0.7966381674	crescent shaped
+0.7966284150	guide fields
+0.7963834734	ultra low frequency
+0.7962083928	superposed epoch analysis
+0.7961094892	ground state
+0.7960048185	composition explorer
+0.7959765590	pressure anisotropy
+0.7959663868	differential flow
+0.7958701884	cluster spacecraft
+0.7953601654	plasma environment
+0.7953151310	physical mechanism
+0.7952322855	buneman instability
+0.7951271487	energy loss
+0.7950273764	enic turbulence
+0.7949967382	observational data
+0.7948814906	inertial length
+0.7948175686	environmental satellites
+0.7947863641	enic fluctuations
+0.7947420872	order statistics
+0.7947267625	relative drift
+0.7946687621	diamagnetic drift
+0.7946091254	en speed
+0.7943032634	outward propagating
+0.7943001910	energetic protons
+0.7942702365	weather forecasting
+0.7942390609	ring current
+0.7941614796	accelerated electrons
+0.7941197189	pic simulation
+0.7937182968	magneto poincare
+0.7935637341	differential equations
+0.7929807317	istp sb
+0.7928397442	alfven speed
+0.7927107731	whistler mode waves
+0.7925306063	central body
+0.7923139438	generation mechanism
+0.7922531794	radial velocity
+0.7922511430	earth's magnetic field
+0.7922376229	interplanetary coronal mass ejection
+0.7919767415	high speed
+0.7919110179	earth's ionosphere
+0.7917380073	ion sound
+0.7917225076	ion beams
+0.7916332202	space exploration
+0.7913683110	shear flow
+0.7912323944	source region
+0.7911978748	ecliptic plane
+0.7910553705	slow wind
+0.7907062259	solar wind protons
+0.7906723107	obtained results
+0.7906494881	escape rates
+0.7905905466	results suggest
+0.7905731050	solar wind turbulence
+0.7905565427	boundary conditions
+0.7905261271	clock effect
+0.7904726668	acoustic wave
+0.7899813573	length scales
+0.7896705266	high temperature
+0.7894709264	dust particles
+0.7891950160	distribution functions
+0.7890207273	long period
+0.7890099827	shock fronts
+0.7889667469	numerical modeling
+0.7887426131	flux tube
+0.7886641009	numerical results
+0.7886197738	space weather forecasting
+0.7885903361	quasi parallel
+0.7884995180	dusty plasma
+0.7882325825	solar wind dynamic pressure
+0.7880840255	mirror matter
+0.7874791529	low density
+0.7874768095	test particle
+0.7873175211	flux tubes
+0.7871861465	short wavelength
+0.7871176858	reuven ramaty high
+0.7869185352	sufficiently large
+0.7868727684	sep event
+0.7868335593	plasma flow
+0.7867213666	pressure gradient
+0.7865660576	bulk velocity
+0.7865523730	monte carlo simulations
+0.7863293436	peak intensities
+0.7861685518	momentum transfer
+0.7860835938	analysis shows
+0.7858240369	quasi perpendicular
+0.7858031493	ultra high energy
+0.7857577294	cross correlation
+0.7856196183	solar radiation pressure
+0.7849106298	kinetic processes
+0.7847909413	earth's orbit
+0.7847056264	wavelet analysis
+0.7845811613	super hot
+0.7845450938	spectral anisotropy
+0.7840914748	mid latitude
+0.7836288550	charge changing
+0.7833283054	magnetic flux tube
+0.7832847566	earth's atmosphere
+0.7831775602	67p churyumov gerasimenko
+0.7830205550	coronal plasma
+0.7829855805	sun earth
+0.7827023224	solar system's
+0.7826351146	flare forecasting
+0.7825535368	reconnection outflow
+0.7823131953	coherent structures
+0.7819350503	recent studies
+0.7812104918	angular velocity
+0.7811200845	case study
+0.7807532605	diffusion coefficients
+0.7806591721	type ii bursts
+0.7806532431	orbital motions
+0.7806196059	recently proposed
+0.7804732667	observational evidence
+0.7801127206	low mass
+0.7796547510	magnetic pressure
+0.7796357416	experimental data
+0.7796216811	solar minima
+0.7791552089	temperature ratio
+0.7791194446	high mach number
+0.7790666643	shock acceleration
+0.7788766349	velocity shear
+0.7787233936	neutral helium
+0.7786305112	euv flux
+0.7784537365	high precision
+0.7784369458	numerical solutions
+0.7784277405	jovian magnetosphere
+0.7783979856	intense geomagnetic storm
+0.7780232001	ion acoustic
+0.7778733906	solar cells
+0.7778428555	mini magnetosphere
+0.7773875565	multi scale
+0.7773322909	lower hybrid drift
+0.7772452488	spectral range
+0.7771613554	wave particle interactions
+0.7768946541	spectral features
+0.7768825672	laboratory plasmas
+0.7766017952	electric power
+0.7760807939	fully developed
+0.7759508164	electron gyroradius
+0.7757636890	electron distributions
+0.7756048231	numerical experiments
+0.7754301755	simulation domain
+0.7754098277	previous studies
+0.7753085084	quasi stationary
+0.7751910697	analytical solutions
+0.7745328933	declining phase
+0.7744713423	lower thermosphere
+0.7744547497	impulsive phase
+0.7743814879	compressible magnetohydrodynamic
+0.7743706471	lower altitude
+0.7742738975	white light images
+0.7741143916	critical inclination
+0.7740303723	en wave
+0.7738602882	recently developed
+0.7736929013	field aligned currents
+0.7728108064	secular increase
+0.7727594537	collision frequency
+0.7726007836	pamela experiment
+0.7724241363	high speed solar wind streams
+0.7722484222	low latitude
+0.7721151686	coronal jets
+0.7718608106	analytical theory
+0.7718499737	kelvin helmholtz instability
+0.7718469966	solar activity cycle
+0.7717528854	commonly observed
+0.7713646277	cyclotron waves
+0.7713357406	interplanetary coronal mass
+0.7711679455	higher energy
+0.7709589674	scaling law
+0.7707790738	cosmic ray intensity
+0.7703227658	linear stability
+0.7700843245	magnetic nulls
+0.7698394623	space based
+0.7696579322	electrostatic waves
+0.7695930970	interchange reconnection
+0.7694476838	electron flux
+0.7693902799	terrestrial relations observatory
+0.7689213624	electromagnetic radiation
+0.7686567845	fast mode
+0.7684490740	test particles
+0.7684360915	general relativistic gravitomagnetic
+0.7684209019	data processing
+0.7684052580	graduated cylindrical
+0.7683960820	resistive mhd
+0.7682471098	quasi static
+0.7679937657	ion inertial length
+0.7677050428	accelerated particles
+0.7673896713	orbital parameters
+0.7672080436	theory predicts
+0.7671400607	meandering field lines
+0.7671338712	wind speed
+0.7669997725	asymmetric magnetic reconnection
+0.7666910585	imf bz
+0.7665783611	fast rotating
+0.7664538269	interaction regions
+0.7661213565	thermal pressure
+0.7654211455	maxwellian distribution
+0.7653388772	magnetic configuration
+0.7652182498	high latitude
+0.7652084831	recovery phase
+0.7649222839	pitch angle scattering
+0.7648951956	small satellites
+0.7640894241	space weather events
+0.7638581487	numerical code
+0.7637245057	low latitudes
+0.7635661725	perpendicular shocks
+0.7632132030	simple analytical
+0.7631269011	electron cyclotron
+0.7630464000	important implications
+0.7629988013	electron temperature anisotropy
+0.7629019990	direct numerical simulations
+0.7628772722	numerical analysis
+0.7621805764	scr flux
+0.7621518682	transient structures
+0.7621202588	eruptive events
+0.7621076963	plasma parameters
+0.7619720918	low energy
+0.7619708242	pair plasmas
+0.7619224098	wave vectors
+0.7618697158	type stars
+0.7618394859	zenith angle
+0.7615136864	scale dependent
+0.7608367756	highly oblique
+0.7607910498	solar radiation
+0.7604032024	electron populations
+0.7603728517	electron dynamics
+0.7603346222	external field
+0.7602983437	hybrid kinetic
+0.7602811006	emission lines
+0.7600811924	transport coefficients
+0.7598521517	magnetosphere interaction
+0.7598399294	physical processes
+0.7597666510	slow magnetosonic waves
+0.7596302850	response function
+0.7590088759	column density
+0.7589881633	cme arrival
+0.7588531464	power spectral density
+0.7587839740	hall current
+0.7587278445	fast magnetic reconnection
+0.7587125225	important factor
+0.7586267764	alfven mach number
+0.7585846697	langmuir wave
+0.7583061937	ion scale
+0.7578738598	current systems
+0.7574902429	direct evidence
+0.7574750028	quasi periodic
+0.7573575538	electron spectrum
+0.7567226856	multi fluid
+0.7566801384	halo cmes
+0.7565730326	cross field
+0.7563313067	parallel electric fields
+0.7556819772	reconnection exhausts
+0.7555163297	physical mechanisms
+0.7551922088	higher frequencies
+0.7549236456	energy cascade
+0.7547465618	orbital dynamics
+0.7546777960	point collapse
+0.7545413105	production rate
+0.7538944113	outer magnetosphere
+0.7536722060	large scales
+0.7535070511	compression regions
+0.7534096027	multi point
+0.7534075277	ion scales
+0.7533492501	mhd simulation
+0.7532930151	fermi acceleration
+0.7530907260	kinetic plasma turbulence
+0.7530203650	high quality
+0.7529831345	data sets
+0.7529605090	magnetohydrodynamic simulations
+0.7527250759	stochastic differential
+0.7526721801	magnetic field configuration
+0.7526073196	high accuracy
+0.7525255845	proton spectra
+0.7524775441	nonlinear interactions
+0.7523352158	radio waves
+0.7523348891	neutral density
+0.7522583444	analytic model
+0.7521541765	multi spacecraft
+0.7521175717	plasma solver
+0.7520565184	shock formation
+0.7518992531	turbulent heating
+0.7518450037	flow speed
+0.7517834118	energy distribution
+0.7516747318	navigation satellite
+0.7514695643	input parameters
+0.7513156302	numerical solution
+0.7505413166	hot plasma
+0.7504674752	reconnection rates
+0.7504226004	mass flux
+0.7500559465	magnetic connectivity
+0.7498900173	bow shocks
+0.7496879336	orbital plane
+0.7494567165	multi wavelength
+0.7493906889	slow cmes
+0.7491512325	total mass
+0.7488733672	coronal structures
+0.7483413401	lower limit
+0.7476279197	ambient solar wind
+0.7475419657	general case
+0.7471740637	relativistic energies
+0.7471222769	geomagnetically induced
+0.7470962828	magnetic hole
+0.7469028262	remote sensing observations
+0.7467298385	spectral transfer
+0.7466749967	large distances
+0.7463013822	positive correlation
+0.7459134135	turbulent dissipation
+0.7457828368	kappa distributions
+0.7457217613	reconnection outflows
+0.7454755290	probability density
+0.7454691752	density profile
+0.7454501762	magnetic turbulence
+0.7452068507	magnetohydrodynamic simulation
+0.7451367877	intermittent turbulence
+0.7449809246	anomalous transport
+0.7446920131	slow mode
+0.7446198562	type iii radio
+0.7444484384	long standing
+0.7438194692	anti parallel
+0.7433540560	paper presents
+0.7433283928	earth's surface
+0.7426929705	magnetic ejecta
+0.7424057916	magnetospheric multiscale mission
+0.7423571009	strahl electrons
+0.7420509222	pre existing
+0.7418155142	anti correlated
+0.7418068255	paper describes
+0.7414432120	acceleration efficiency
+0.7414179374	signal to noise ratio
+0.7412846984	single spacecraft
+0.7410778785	structure function
+0.7410719107	space borne
+0.7409363766	energetic particle event
+0.7406875259	correlation length
+0.7406605593	ion kinetic scales
+0.7405046531	perpendicular heating
+0.7403617617	langmuir turbulence
+0.7403309324	energy gain
+0.7400701835	spatial variations
+0.7397120339	solar eruption
+0.7395675134	ionospheric currents
+0.7394183731	ion acoustic waves
+0.7393406259	emission line
+0.7391410872	quasi linear
+0.7389594856	extreme space weather events
+0.7387814847	scale length
+0.7386811624	energetic particle transport
+0.7386654361	field strengths
+0.7385439197	turbulent spectra
+0.7380786486	reduced order
+0.7379913574	mode coupling
+0.7377524422	velocity distribution functions
+0.7376719306	electromagnetic fluctuations
+0.7370555471	quasi trapped
+0.7369289096	parallel propagating
+0.7366291723	magnetic field fluctuations
+0.7366078961	density enhancements
+0.7362271567	orbital configuration
+0.7361859750	thermospheric density
+0.7354552208	orbital perturbations
+0.7353265510	single fluid
+0.7352766898	voyager 1
+0.7352541059	future missions
+0.7350826103	kinetic alfven waves
+0.7350643859	total pressure
+0.7337287969	single point
+0.7336892128	theoretical models
+0.7336561512	magnetic field amplification
+0.7335371111	cosmic ray flux
+0.7331730075	plasma instabilities
+0.7327662407	proton beams
+0.7327509177	anti correlation
+0.7326172118	slow modes
+0.7323612094	thermal speed
+0.7323287850	particle in cell
+0.7320719894	zonal harmonics
+0.7319243990	solar cycle dependence
+0.7317629739	earth's gravity
+0.7314977140	standard model
+0.7312097488	drag based model
+0.7311346675	spectral shape
+0.7310551246	lense thirring effect
+0.7306746360	ultra relativistic
+0.7305120906	ideal mhd
+0.7300167436	ion cyclotron frequency
+0.7295524903	case studies
+0.7294657397	rosetta mission
+0.7291120405	mev protons
+0.7290942419	climate model
+0.7289764954	km altitude
+0.7287762236	dayside reconnection
+0.7287532039	collisionless regime
+0.7287506082	reconnection layer
+0.7286868649	guide field reconnection
+0.7284931853	whistler instability
+0.7283722543	power law index
+0.7282840183	magnetic dipole
+0.7282384574	lower energies
+0.7276425322	kinetic range
+0.7276156546	thermal emission
+0.7274805043	long range
+0.7273870251	weakly collisional plasmas
+0.7273863236	solar and heliospheric observatory
+0.7269720705	gamma ray flashes
+0.7269102461	cassini spacecraft
+0.7267980920	en ion cyclotron
+0.7266913917	perihelion precession
+0.7266394108	frequency drift
+0.7260139847	electrostatic potential
+0.7255692341	lageos and lageos ii
+0.7253575797	cme kinematics
+0.7250544932	sheath regions
+0.7247288042	smaller scales
+0.7246009028	reconnection process
+0.7245749646	recent observations
+0.7245186025	cosmic ray transport
+0.7244530052	source regions
+0.7238932279	radio sources
+0.7238253103	high sensitivity
+0.7234504847	multi dimensional
+0.7230035613	solar winds
+0.7226702029	earth directed cmes
+0.7225450665	magnetic activity
+0.7225327817	kinetic alfven wave
+0.7220981910	ion inertial
+0.7220138582	diffusion regions
+0.7219584657	magnetic energy
+0.7216501777	differential equation
+0.7215714979	field source surface
+0.7215214238	chandrayaan 1
+0.7210832507	recovery phases
+0.7210004569	order fermi
+0.7209492854	interstellar spectra
+0.7207506862	rigidity dependence
+0.7202788280	turbulent plasmas
+0.7201035410	sun earth line
+0.7199480856	damping rate
+0.7199286846	wave amplitudes
+0.7199225834	nonlinear wave
+0.7196729492	particle drifts
+0.7196335586	sb ras
+0.7196324233	keplerian orbital
+0.7185533691	graduated cylindrical shell
+0.7181652168	potential field source
+0.7180131361	cycle minimum
+0.7178112668	mass ratios
+0.7177877555	soft x ray
+0.7176159896	inverse square
+0.7170062010	hybrid simulation
+0.7169910757	magnetosphere coupling
+0.7167091397	accelerate particles
+0.7166349702	plasmoid instability
+0.7163928283	parallel electric field
+0.7162408617	phase speed
+0.7161802325	omni data
+0.7158249343	photospheric magnetic field
+0.7158011022	quasi neutral
+0.7156759656	cloud formation
+0.7155125901	en cyclotron waves
+0.7155099814	linear growth
+0.7147857594	drag free
+0.7144756120	ion temperature
+0.7143229771	electron cyclotron maser
+0.7139634734	fokker planck equation
+0.7136028443	physical parameters
+0.7135194041	enic slow
+0.7134231679	energy deposition
+0.7131249323	stochastic acceleration
+0.7125023663	large area
+0.7120620705	proton intensities
+0.7115456996	slow shocks
+0.7111531869	test mass
+0.7109448828	propagation direction
+0.7108325909	temporal evolution
+0.7106676318	alfven wave turbulence
+0.7104905205	high lundquist number
+0.7103775777	planetary systems
+0.7100439957	energy conservation
+0.7092817151	statistical study
+0.7089456580	cme driven shock
+0.7080830669	weather prediction
+0.7080370748	rotation rate
+0.7080265700	shock sheath
+0.7077512884	magnetic null points
+0.7077285824	ramaty high energy
+0.7077063490	expansion rate
+0.7074386017	dependent modulation
+0.7071613755	phase space holes
+0.7064218657	turbulent spectrum
+0.7061578787	hybrid vlasov
+0.7050961512	proton beam
+0.7044097576	global scale
+0.7039220115	source spectra
+0.7038069743	interstellar space
+0.7027875033	solar radio bursts
+0.7027702631	future space missions
+0.7025020167	solar coronal
+0.7019206520	particle propagation
+0.7018916420	instability growth rate
+0.7017123772	electron acoustic
+0.7015914928	particle trajectories
+0.7012501486	space applications
+0.7012274837	ambient magnetic field
+0.7008419978	energy dependence
+0.7008080560	ramaty high energy solar
+0.7007256456	quasi steady
+0.7004484057	magnetic shear
+0.7001749318	proton differential flow
+0.6998061730	solar sources
+0.6997509834	solar spectroscopic imager
+0.6995592258	energy exchange
+0.6993385257	earth directed
+0.6990440087	imaging assembly
+0.6989131940	radio wave
+0.6984812456	human space technology
+0.6980553269	high speed solar wind
+0.6979785486	class flares
+0.6978571745	type instabilities
+0.6976679940	cross shock
+0.6971807559	zonal harmonic
+0.6968248216	larmor scale
+0.6966342698	interplanetary magnetic
+0.6965587126	parker solar
+0.6965139407	arcseconds per century
+0.6965007561	whistler heat flux instability
+0.6959540493	cme speed
+0.6958221601	range rate
+0.6954582836	quasi perpendicular shocks
+0.6949846663	drag based
+0.6948309235	southern hemispheres
+0.6945796050	numerical studies
+0.6942001574	current understanding
+0.6941456041	preliminary results
+0.6939337149	magnetic connection
+0.6933295817	electron distribution function
+0.6914173861	electron inertial length
+0.6911538677	frequently observed
+0.6909660046	neutral fluid
+0.6905920581	fast cmes
+0.6904870181	gravity waves
+0.6899799176	key role
+0.6899675807	simulation code
+0.6893286436	test particle simulations
+0.6885087503	power spectral
+0.6875938455	energy balance
+0.6874954237	expanding solar wind
+0.6873231403	solar cycle 23
+0.6867786661	wide field
+0.6867327033	wave activity
+0.6863443750	space technology
+0.6861530981	mhd model
+0.6861296082	crucial role
+0.6861209293	electron acoustic waves
+0.6860541538	instrument on board
+0.6859731460	solar wind plasma
+0.6852261709	gravitomagnetic field
+0.6850833149	dust acoustic waves
+0.6841448272	earth based
+0.6839872422	diffusive shock
+0.6832486309	heliospheric magnetic field
+0.6823874680	lares mission
+0.6823781987	gyrokinetic simulations
+0.6818961934	voyager 2
+0.6816396379	line of sight
+0.6815583806	galactic cosmic
+0.6811823184	mms observations
+0.6808175859	taking into account
+0.6800472109	flow velocity
+0.6799274906	global surface temperature
+0.6785668026	force field
+0.6783287511	energetic electron
+0.6783015406	long term evolution
+0.6781757682	wind streams
+0.6781402500	high level
+0.6780876534	electron proton
+0.6777177780	flux density
+0.6776342875	particle energy
+0.6767972640	earth orbiting
+0.6763865675	parallel temperature
+0.6755533774	electron temperatures
+0.6752307921	plasma density
+0.6750254846	takes into account
+0.6747435739	ion neutral
+0.6746246691	sym h
+0.6746241849	long term variations
+0.6741842097	lunar surface
+0.6735549789	magnetosphere ionosphere
+0.6735305453	electric and magnetic fields
+0.6733042564	solar wind conditions
+0.6732992374	wave numbers
+0.6728605582	cme driven shocks
+0.6728594713	fast wind
+0.6727812209	hydrodynamic turbulence
+0.6724436121	pioneer 10
+0.6722628024	electron impact
+0.6717720092	inhomogeneous plasma
+0.6715828893	wave particle interaction
+0.6710796740	high energy particles
+0.6709101491	solar origin
+0.6707833201	magnetic field topology
+0.6706298014	proton heating
+0.6694476458	turbulent reconnection
+0.6693675109	space radiation
+0.6693494655	turbulent energy cascade
+0.6684230770	plasma wake
+0.6681887115	magnetopause reconnection
+0.6679767521	solar power
+0.6676394263	power law distributions
+0.6676032102	strong guide field
+0.6674210890	surface temperature
+0.6673436109	parallel direction
+0.6669960345	september 2017
+0.6668193707	magnetic flux tubes
+0.6667793136	ranging data
+0.6659454027	magnetic null
+0.6657798109	results confirm
+0.6649491484	semi major
+0.6647233906	velocity field
+0.6645797603	magnetometer data
+0.6642610231	whistler turbulence
+0.6636045740	magnetic topology
+0.6633815311	space and astrophysical plasmas
+0.6632493095	equatorial region
+0.6631945106	plasma properties
+0.6623906880	ip shock
+0.6622035901	magnetic latitude
+0.6620560083	magnetic prandtl
+0.6619836358	downstream region
+0.6615761133	high latitudes
+0.6613588084	orders of magnitude
+0.6607044187	total electron
+0.6606923094	perpendicular ion
+0.6605315448	magnetic field line
+0.6604403571	momentum flux
+0.6598642393	coronagraph observations
+0.6596594768	cosmic ray propagation
+0.6594501889	scale size
+0.6586843148	model predicts
+0.6585923886	r_ \ odot
+0.6584864417	cross field diffusion
+0.6583516710	background field
+0.6575549885	solar euv
+0.6574600018	spatial diffusion
+0.6570145565	imaging observations
+0.6569244376	fast and slow
+0.6567102345	solar cycle 24
+0.6563197803	plasma conditions
+0.6562146706	wave amplitude
+0.6561935873	ion gyro
+0.6556776554	reconnecting field
+0.6555285363	magnetic equator
+0.6542434323	flux rope structure
+0.6540006890	multi ion
+0.6537312721	ion acceleration
+0.6530311628	particle in cell simulations
+0.6526851769	orbital motion
+0.6521499056	kinetic plasma
+0.6514164905	radio source
+0.6514103490	cme propagation
+0.6513569840	dynamical effects
+0.6508243154	stability analysis
+0.6506077659	low energies
+0.6504213821	protons and alpha particles
+0.6502163481	fluid models
+0.6501807276	wave energy
+0.6500946443	l_ \ perp
+0.6499470521	v_ \ mathrm
+0.6498006633	july 23
+0.6492632115	particle heating
+0.6490638093	trapped electrons
+0.6485436959	magnetic polarity
+0.6485190955	magnetized turbulence
+0.6484689240	sep propagation
+0.6480561555	recent results
+0.6471329253	beam driven
+0.6470664782	dominated regime
+0.6463245387	highest energy
+0.6459730501	dense plasma
+0.6452114394	low earth
+0.6451732696	external magnetic field
+0.6449767880	quasi linear theory
+0.6440205894	k_ \ perp
+0.6435174881	earth gravity field
+0.6426789442	neutral atom
+0.6421934542	coronal shock
+0.6419103345	driven shock
+0.6418837823	acoustic waves
+0.6415591718	range and range rate
+0.6414350446	interaction region
+0.6414286977	en velocity
+0.6412220450	diffusion model
+0.6402938162	ion diffusion
+0.6400993489	turbulent energy
+0.6397584635	density structures
+0.6395980353	hot flow
+0.6392722467	shock accelerated
+0.6392281656	collisionless magnetic
+0.6386575547	low plasma beta
+0.6385359882	proton cyclotron
+0.6383860980	magnetic field and plasma
+0.6382024594	wave properties
+0.6378641460	space mission
+0.6373751070	particle orbits
+0.6361913092	energetic neutral
+0.6358995592	low beta plasmas
+0.6357895197	low velocity
+0.6355402942	turbulent magnetic fields
+0.6354100146	point of view
+0.6351876867	temperature profile
+0.6349934361	energy densities
+0.6349526758	turbulence levels
+0.6346047695	electron mass
+0.6346018294	ams 02
+0.6340563698	activity cycle
+0.6328933436	wave turbulence
+0.6328743219	wind dynamic pressure
+0.6325159240	power law spectrum
+0.6321518732	solar wind interaction
+0.6316842134	plasma waves
+0.6311561625	solar events
+0.6311555144	_ \ rm
+0.6310894659	field fluctuations
+0.6309771203	ulysses spacecraft
+0.6306840391	fm w
+0.6304671569	turbulent plasma
+0.6295280336	self similarity
+0.6293355339	direct observations
+0.6292144872	frequency waves
+0.6290848539	transfer rate
+0.6280718102	strong turbulence
+0.6273986974	particle events
+0.6271105528	instability driven
+0.6270909160	harmonic coefficients
+0.6268434313	ion larmor
+0.6265024032	solar rotation
+0.6261660918	local interstellar
+0.6256974687	space telescope
+0.6256461589	cme cme
+0.6252743977	power law spectra
+0.6247870125	solar uv
+0.6247634864	propagation angle
+0.6243432973	proton scales
+0.6242957443	dust acoustic
+0.6241397329	plasma dynamics
+0.6239362628	gravity wave
+0.6236313680	energy cascade rate
+0.6231838681	cycle 24
+0.6229573722	t_ \ mathrm
+0.6228592387	magnetic perturbations
+0.6226651425	space station
+0.6222325578	plasma wave
+0.6220802858	background plasma
+0.6220161975	fluid model
+0.6214412951	electron mass ratio
+0.6211647250	magnetospheric plasma
+0.6207174645	field aligned current
+0.6204810463	ion dynamics
+0.6200259867	solar wind velocity
+0.6198318196	magnetohydrodynamic model
+0.6189662534	solar wind ions
+0.6188662137	interplanetary cmes
+0.6187857203	large amplitude magnetic
+0.6184972475	ec \ parallel
+0.6179850312	dissipation rate
+0.6178521750	electron pressure
+0.6164101342	en wave turbulence
+0.6163434041	stochastic model
+0.6162882663	empirical model
+0.6162039647	electron injection
+0.6157192779	reconnection driven
+0.6156271597	order of magnitude
+0.6149805679	plasma pressure
+0.6143056758	solar coronal mass ejections
+0.6138876735	kinetic equations
+0.6125760698	phenomenological model
+0.6123537095	tracking data
+0.6120972667	spread f
+0.6114617452	field of view
+0.6114080143	cycles 21
+0.6101343513	electron heat flux
+0.6098897756	mode instability
+0.6097107572	electron drift
+0.6095319251	v1 and v2
+0.6092151371	omega_ \ mathrm
+0.6089586096	x ray
+0.6087892655	solar wind parameters
+0.6079019391	solar radio
+0.6078581563	december 2006
+0.6077228515	propagation velocity
+0.6072080728	high power
+0.6067660121	right handed
+0.6066438723	solar polar
+0.6064533069	k_ \ parallel
+0.6057337752	frequency spectrum
+0.6051969446	lower energy
+0.6051051965	neutral wind
+0.6051030731	plasma dispersion
+0.6045901865	potential energy
+0.6045412390	interstellar magnetic field
+0.6044752583	electron energy
+0.6041915175	open flux
+0.6033690789	magnetic field and velocity
+0.6033588244	milky way
+0.6031283447	jupiter and saturn
+0.6028104511	frozen in condition
+0.6027080692	propagating waves
+0.6026386758	high order
+0.6025543666	electron population
+0.6023746170	plasma jet
+0.6018624202	northern and southern
+0.6015017669	magnetic field components
+0.6009137972	compressible mhd
+0.6005080826	cycle 23
+0.6003032627	scale turbulence
+0.5998389342	electron velocity distribution
+0.5996227656	drift instability
+0.5994499528	high density
+0.5993171216	propagation model
+0.5992847544	energy cosmic rays
+0.5992118524	electromagnetic energy
+0.5990323141	shock speed
+0.5990037833	interstellar neutral
+0.5987982702	r_ \ mathrm
+0.5986093663	spacecraft measurements
+0.5980581728	results demonstrate
+0.5976360547	international space
+0.5972685438	low mach
+0.5967910632	parallel shock
+0.5963053067	wave particle
+0.5958885605	multipolar expansion
+0.5958188256	experimental results
+0.5957998050	magnetic field magnitude
+0.5954109013	flux rope model
+0.5946833759	high energy electrons
+0.5945892816	magnetosonic waves
+0.5942124651	proton velocity
+0.5933632641	ion mass
+0.5928648381	electron fluid
+0.5927918835	quasi parallel shock
+0.5924915639	low corona
+0.5922087576	particle velocity
+0.5917726782	electron scale
+0.5915478912	cty ^ 1
+0.5911357023	fluid equations
+0.5910409477	de sitter
+0.5903700615	solar wind flow
+0.5903690470	general relativistic lense thirring effect
+0.5902221168	boundary explorer
+0.5901326582	signal to noise
+0.5900324694	energy dependent
+0.5895675957	focused transport
+0.5881440933	fast coronal mass
+0.5877875476	heating mechanism
+0.5873328337	model independent
+0.5862954869	field particle
+0.5860448509	magnetic elements
+0.5857863973	plasma frequency
+0.5856931412	proton electron
+0.5856102328	mars global
+0.5853958287	asymmetric magnetic
+0.5853615716	ion kinetic
+0.5852879675	surrounding plasma
+0.5850942124	electron energies
+0.5841559616	general relativistic lense thirring
+0.5840631138	alfven mach
+0.5837643434	~ \ textrm
+0.5828984142	upstream region
+0.5827448663	sun to earth
+0.5825576729	previous results
+0.5820705017	maser instability
+0.5820490385	relativistic electron
+0.5817073482	magnetic field structure
+0.5815007956	plasma and magnetic field
+0.5812155061	velocity and magnetic field
+0.5811670557	perpendicular shock
+0.5808084421	high velocity
+0.5801091343	fluid electrons
+0.5800483851	perpendicular temperature
+0.5798917624	equation of state
+0.5791491656	magnetic disturbances
+0.5790618338	magnetic loops
+0.5789340016	cosmic ray protons
+0.5789072181	upstream magnetic field
+0.5786123658	magnetosheath plasma
+0.5785607798	spacecraft trajectory
+0.5784286061	electron current
+0.5777526947	delta v
+0.5777345752	solar dynamo
+0.5775685004	solar wind termination shock
+0.5774604756	field theory
+0.5768541624	wind velocity
+0.5768481408	density and magnetic field
+0.5768342456	electron distribution
+0.5763344397	t_ \ perp t_ \ parallel
+0.5753099749	spatial and temporal
+0.5751356023	t_ \ perp
+0.5743755342	very large array
+0.5741526236	closed field
+0.5740512462	opportunity to study
+0.5736073116	situ measurements
+0.5734562145	weak magnetic
+0.5734042597	wave frequency
+0.5732606083	cme expansion
+0.5729485750	reconnection onset
+0.5724465547	kinetic simulation
+0.5724112061	mhd scales
+0.5723403437	reconnection occurs
+0.5721012909	fully kinetic particle in cell
+0.5719844235	spectra measured
+0.5715556834	lunar laser
+0.5710885528	parallel and perpendicular
+0.5710152336	sun like stars
+0.5709687156	electrons and ions
+0.5704052627	statistical results
+0.5696787156	atmospheric imaging
+0.5694902712	total energy
+0.5693627597	electron ion
+0.5692132762	earth magnetosphere
+0.5686885784	interstellar boundary
+0.5680638656	sun to earth propagation
+0.5675478634	turbulence cascade
+0.5659663452	magnetic reynolds
+0.5657269854	results provide
+0.5657162963	spatial structure
+0.5656986198	electrostatic field
+0.5656427203	wind turbulence
+0.5654657480	satellite data
+0.5653932640	current region
+0.5653464653	simultaneous observations
+0.5652086545	linear wave
+0.5646348276	anomalous cosmic
+0.5645735187	particle drift
+0.5639366562	electrons and protons
+0.5639290267	earth atmosphere
+0.5638870886	plasma densities
+0.5636115274	open field
+0.5630650194	expanding plasma
+0.5630386169	larger scale
+0.5628976356	solar wind stream
+0.5619894628	fluid theory
+0.5616839509	modulation of cosmic rays
+0.5613521584	proton flux
+0.5612786402	rates of change
+0.5610534522	ion flow
+0.5609635055	mev electrons
+0.5607392288	type ii radio
+0.5604274385	present results
+0.5604000043	waves propagating
+0.5600484815	equations of motion
+0.5599228130	t_ \ perp t_
+0.5595136268	three dimensional
+0.5594204955	numerical model
+0.5594115215	free parameters
+0.5590018728	solar wind speeds
+0.5583910885	wind ion
+0.5578651488	inertial scale
+0.5574078840	particle simulations
+0.5567334475	european space
+0.5567195754	temporal variations
+0.5566994929	similar results
+0.5562861847	ten moment
+0.5562042138	ion gyroradius
+0.5560195442	ion to electron
+0.5559647392	protons and electrons
+0.5549659607	mode waves
+0.5548036610	turbulence driven
+0.5546152346	proton scale
+0.5537570278	driven turbulence
+0.5531048918	large scale magnetic
+0.5529964975	turbulence transport
+0.5529634229	whistler heat flux
+0.5526749008	local plasma
+0.5526705115	proposed method
+0.5522320571	slow and fast
+0.5515802964	ion electron
+0.5514381399	cut off
+0.5508157928	simple model
+0.5507869940	earth orbits
+0.5505600172	proton intensity
+0.5505008460	m_ \ mathrm
+0.5499520334	modulation of galactic
+0.5498092935	magnetic field measurements
+0.5496200921	ionized plasma
+0.5494168169	particle in cell simulation
+0.5494114452	cme body
+0.5492193120	spacecraft data
+0.5491177940	proton density
+0.5489455382	electron phase space
+0.5488438371	yr ^ 1
+0.5488342052	level of accuracy
+0.5482805859	turbulent magnetic field
+0.5479895530	dissipation process
+0.5477656464	~ km
+0.5476816397	solar distance
+0.5473277062	wave power
+0.5473116462	high energy cosmic
+0.5471451835	transport model
+0.5468450811	ions and electrons
+0.5467219621	important role
+0.5463355569	amplitude and phase
+0.5458724752	magnetic field component
+0.5456278531	spacecraft potential
+0.5455255012	multiple spacecraft
+0.5449570526	arrival time
+0.5446854361	self similar expansion
+0.5438126848	resonant wave
+0.5433784810	beam plasma
+0.5426807074	reconnection electric field
+0.5425563457	space agency
+0.5420347035	reconnection events
+0.5420042825	empirical models
+0.5419750423	measured in situ
+0.5419318291	stereo b
+0.5418791558	ion production
+0.5417145154	wind speeds
+0.5416545359	inner heliosphere
+0.5414689328	density and temperature
+0.5413157519	reconnection regions
+0.5411181726	cyclotron wave
+0.5402320044	restricted three body
+0.5400481545	dimensional particle in cell
+0.5398974411	solar eruptive
+0.5398822391	ray fluxes
+0.5395847877	level enhancements
+0.5395602416	heliospheric plasma
+0.5395259636	fast solar
+0.5382434910	hybrid plasma
+0.5381653614	acceleration and transport
+0.5374837611	scale dynamics
+0.5372345168	near earth asteroid
+0.5372218473	scale fluctuations
+0.5371165809	earth and mars
+0.5369214850	range of scales
+0.5367886384	_ \ mathrm
+0.5366232431	electron and ion
+0.5364089429	t_ \ parallel
+0.5362477518	solar cycle 25
+0.5360053729	mean free path
+0.5355200173	solar wind density
+0.5351517810	ionospheric electron
+0.5340897043	solar disk
+0.5340645811	acceleration processes
+0.5333735448	proton events
+0.5331060060	ion and electron
+0.5330622640	_ \ odot
+0.5330053627	radial magnetic field
+0.5328813899	relativistic lense thirring effect
+0.5323527626	ray intensity
+0.5315517150	photospheric magnetic
+0.5307229062	cme driven
+0.5303460187	source of systematic
+0.5302230865	parallel diffusion
+0.5298969580	even zonal harmonic
+0.5297774405	maser emission
+0.5295372928	ionospheric effects
+0.5293921714	solar wind fluctuations
+0.5287473975	band emission
+0.5281397361	fluid simulations
+0.5270592903	model parameters
+0.5257784055	shock normal
+0.5257276074	particle event
+0.5252971019	heating and acceleration
+0.5252242294	space plasma
+0.5251877754	wind and ace
+0.5250625649	particle distribution
+0.5250543439	solar wind expansion
+0.5247847094	even zonal harmonics
+0.5242912243	new horizons
+0.5240571888	ion velocity
+0.5240202934	plasma emission
+0.5238659412	solar active
+0.5233662105	fire hose
+0.5231744714	background solar wind
+0.5231288077	lageos and lageos
+0.5229125033	plasma velocity
+0.5225913145	loop top
+0.5224825921	turbulent magnetic
+0.5223445712	propagation models
+0.5223114787	shock drift
+0.5217241492	electromagnetic particle in cell
+0.5215624250	space and astrophysical
+0.5215069917	linear kinetic
+0.5214117236	wind density
+0.5213705640	wind stream
+0.5212353489	strong correlation
+0.5208808798	ionospheric plasma
+0.5202755402	ion energy
+0.5196722298	radial evolution
+0.5194394018	wind measurements
+0.5194387224	electron diffusion
+0.5193136268	field component
+0.5189631700	transport of energetic
+0.5176528594	electron content
+0.5174300468	plasma and magnetic
+0.5173686150	iii radio bursts
+0.5173162485	high and low
+0.5170052848	space science
+0.5169822564	cluster observations
+0.5167310981	self consistently
+0.5164877380	charged dust
+0.5159242970	global magnetic
+0.5159232681	field configuration
+0.5155245803	satellite laser
+0.5154169582	ace spacecraft
+0.5150691388	recently observed
+0.5138574336	open magnetic field
+0.5136579865	results support
+0.5134540492	analytical models
+0.5127382849	alpha proton
+0.5124821702	heliospheric observatory
+0.5124054441	pick up
+0.5119102862	perpendicular and parallel
+0.5113202917	solar and heliospheric
+0.5111904560	gravitational perturbations
+0.5111273774	hubble space
+0.5105130011	dimensional magnetohydrodynamic
+0.5103032849	electron and proton
+0.5100750836	large array
+0.5100229874	spectral density
+0.5099335051	theoretical model
+0.5098369186	potential field
+0.5095972352	directly observed
+0.5093447254	solar source
+0.5093054561	field direction
+0.5083158510	cm ^ 3
+0.5078677610	high energy electron
+0.5078400191	transfer of energy
+0.5074859961	energetic particle events
+0.5074225917	electron heat
+0.5068504718	solar wind proton
+0.5067034384	kinetic alfv
+0.5065926338	two stream instability
+0.5064757918	plasma and field
+0.5062646299	ionosphere coupling
+0.5053431423	particle spectra
+0.5049901936	solar wind dynamic
+0.5049313603	electron dissipation
+0.5047536927	thermal electrons
+0.5037314384	model predictions
+0.5035544494	linear phase
+0.5034987067	low and high
+0.5033211755	wind termination shock
+0.5030909096	spacecraft observations
+0.5027438970	magnetic and velocity
+0.5019254131	recent solar
+0.5016605741	electron inertial
+0.5013205512	right hand
+0.5006984765	stand off
+0.5006820758	self consistent
+0.5006494847	wave growth
+0.4994570458	trappist 1
+0.4993408592	proton and electron
+0.4991762037	field parallel
+0.4991558629	fast cme
+0.4991220986	self correlation level
+0.4989799067	turbulence theory
+0.4982852489	direct numerical
+0.4982292917	planetary orbital
+0.4981733524	cascade of energy
+0.4979807899	\ textcolor black
+0.4970882333	field structure
+0.4956875633	statistical properties
+0.4951312372	earth's bow
+0.4944117405	solar wind electrons
+0.4942683015	electron emission
+0.4935007375	carlo simulations
+0.4925797467	global navigation
+0.4925418418	differential emission
+0.4922481018	giving rise to
+0.4900593570	electron velocity
+0.4891464536	non gaussian
+0.4890452354	pioneer 10 and 11
+0.4886268385	small scale magnetic
+0.4885708079	particle fluxes
+0.4883153303	solar dynamics
+0.4875075683	electron thermal
+0.4874561509	solar wind ion
+0.4874090980	gravity models
+0.4872360668	non maxwellian
+0.4865216277	thermal plasma
+0.4862206794	perpendicular direction
+0.4860999861	weather research
+0.4859715581	model results
+0.4855678046	solar cycles 23 and 24
+0.4852975361	future space
+0.4848726179	weak field
+0.4846444660	so called
+0.4845080873	electric and magnetic
+0.4844844917	internal magnetic
+0.4840958152	acceleration region
+0.4834923743	coronal magnetic field
+0.4832982423	agreement with previous
+0.4829941712	cme shock
+0.4824611457	accelerated particle
+0.4822432784	angle scattering
+0.4797671171	solar protons
+0.4790513020	source surface
+0.4783409849	multiscale mission
+0.4779117519	ams 2
+0.4775707557	self generated
+0.4773957198	heat flux instability
+0.4769006213	positioning system
+0.4766276476	ray emission
+0.4765008884	human space
+0.4762831926	ms 2
+0.4758909257	major axis
+0.4758389587	beta plasma
+0.4758334474	density distribution
+0.4758225026	closed magnetic
+0.4757047704	proposed model
+0.4755018322	~ 20
+0.4744880827	advanced composition
+0.4744767524	kinetic particle in cell
+0.4739882274	night side
+0.4739238562	measured by voyager
+0.4737725823	time dependent
+0.4734428748	nonlinear alfven
+0.4733653919	scale structures
+0.4728951808	ultra high
+0.4714792371	kinetic alfv \
+0.4707696695	energy source
+0.4705399393	three body problem
+0.4701186794	results obtained
+0.4700080332	all sky
+0.4699941262	velocity and magnetic
+0.4698629899	mv m
+0.4695505972	relativistic gravitomagnetic
+0.4693721676	body problem
+0.4689981632	spectral properties
+0.4676539786	_ 0
+0.4667247400	flare energy
+0.4664297960	x point collapse
+0.4662420555	turbulent solar wind
+0.4657925685	electron spectra
+0.4656507417	principal component
+0.4656211458	wind observations
+0.4641891368	thin current sheets
+0.4639554120	solar coronal mass
+0.4633914361	strong magnetic
+0.4633883480	~ 100
+0.4632792848	wave structures
+0.4630580625	spectral energy
+0.4630422686	inner radiation belt
+0.4629798514	plasma processes
+0.4626710639	ray flux
+0.4617738077	situ evidence
+0.4612179712	plasma measurements
+0.4605945506	global solar
+0.4595893184	solar magnetic fields
+0.4594160898	particle populations
+0.4591220007	coordinate system
+0.4590979171	magnetic structure
+0.4589043216	~ 10
+0.4585056183	time series
+0.4577151238	density measurements
+0.4576816786	x class flares
+0.4573342516	belt objects
+0.4572945919	solar particle
+0.4571285110	super alfv \
+0.4558517984	observations suggest
+0.4558074735	energy electrons
+0.4554805718	dissipation range
+0.4551989392	large number
+0.4549332392	solar wind measurements
+0.4548484630	this paper presents
+0.4548244520	field components
+0.4544700838	milliarcseconds per
+0.4543951752	magnetic field direction
+0.4536360020	x line
+0.4536013218	particle interactions
+0.4532746718	solar system
+0.4518269344	proton differential
+0.4510375034	scaling properties
+0.4505102697	third order
+0.4501327805	parallel electric
+0.4498819763	300 kev
+0.4493163265	quiet solar
+0.4490708786	b _0
+0.4489819276	1 tev nuc
+0.4479176765	terrestrial gamma ray
+0.4473008389	solar flux
+0.4472420301	reconnection region
+0.4462068614	solar cycles 23
+0.4453122499	real time
+0.4453072330	very low frequency
+0.4450170434	\ omega_ pe
+0.4447196150	ray background
+0.4445802564	j shaped
+0.4441710609	~ \ rm
+0.4440169199	km ~ s
+0.4439246515	simulation data
+0.4437571288	wind protons
+0.4433538607	sub alfvenic
+0.4429848484	consistent with previous
+0.4428501237	spacecraft missions
+0.4427542475	interplanetary coronal
+0.4425013668	kinetic regime
+0.4424877429	scale structure
+0.4424137768	non gyrotropic
+0.4420436692	recent years
+0.4417160302	non gravitational perturbations
+0.4415355727	present paper
+0.4412190031	plasma temperature
+0.4407872026	reconnection processes
+0.4405187324	near earth
+0.4398453521	kolmogorov like
+0.4396525016	electron plasma
+0.4394222629	x rays
+0.4382625455	en cyclotron
+0.4380036792	large scale magnetic field
+0.4373778428	based models
+0.4370212668	interstellar magnetic
+0.4367019415	speed of light
+0.4357581551	sun to 1 au
+0.4352641434	study shows
+0.4338426260	carried out
+0.4325436752	delta \ dot
+0.4314968757	field magnitude
+0.4310729346	solar proton
+0.4307023112	widely used
+0.4297832418	present study
+0.4294349153	acceleration of electrons
+0.4293725250	hybrid waves
+0.4283900155	near earth space
+0.4280544062	high speed solar
+0.4272133850	ii burst
+0.4264509666	solar wind model
+0.4262516599	collisional plasma
+0.4256988200	km s
+0.4255485495	field and plasma
+0.4253958634	turbulence model
+0.4253537815	basic space
+0.4253045463	based upon
+0.4249589228	radial direction
+0.4238627108	two dimensional
+0.4238365037	nonlinear dynamics
+0.4235849765	~ 1
+0.4233368827	global surface
+0.4227474403	present observations
+0.4219966693	second order
+0.4208724335	non trivial
+0.4208591681	energetic ion
+0.4207681132	ion escape
+0.4202619308	converted into
+0.4200392674	ii radio bursts
+0.4196523932	on board
+0.4193770031	finite larmor
+0.4187800143	insight into
+0.4187650334	take place
+0.4184899149	maximum of solar
+0.4183310429	analytically work
+0.4181096801	third body
+0.4174132355	o7 + o6 +
+0.4171150816	next generation
+0.4151543740	field structures
+0.4150088853	particle simulation
+0.4147736205	sub ion scales
+0.4146717827	cm ^ 2
+0.4144035955	events observed
+0.4143818795	solar spectroscopic
+0.4141321526	in situ measurements
+0.4129231057	high mach
+0.4127462437	solar magnetic field
+0.4126034094	physical properties
+0.4124243541	solar surface
+0.4116845083	anisotropy driven
+0.4116131213	observed in situ
+0.4109026365	decay instability
+0.4104505574	sign dependent
+0.4093698083	extreme space
+0.4085765117	field parameters
+0.4080209467	wind data
+0.4076750545	low magnetic
+0.4071083414	plasma fluctuations
+0.4070509033	particles accelerated
+0.4070014810	modulation of cosmic
+0.4069417779	time lag
+0.4067199365	acceleration of particles
+0.4065300922	level contours
+0.4059880895	alfven turbulence
+0.4057808804	broad range of
+0.4044265729	b c ratio
+0.4029834717	free path
+0.4024999217	binary system
+0.4015398645	primary cosmic
+0.4012839283	electron larmor
+0.4008641574	jet like
+0.4002646860	particle orbiting
+0.4000272647	faster than
+0.3998753214	times larger than
+0.3997694747	storms induced by
+0.3994819651	good agreement
+0.3991771002	field vector
+0.3990882311	circulation model
+0.3987885109	effects induced
+0.3985608846	s_z =
+0.3979973580	current state
+0.3978249282	nonlinear evolution
+0.3976022153	induced currents
+0.3973728145	detailed analysis
+0.3967354995	greater than
+0.3965701106	data obtained
+0.3942144825	law spectra
+0.3933664674	solar wind observations
+0.3932299539	in situ observations
+0.3929106483	plasma particles
+0.3928432461	significant role
+0.3922397267	an important role
+0.3918864703	upstream solar wind
+0.3913920030	1s ^
+0.3909887950	solar magnetic
+0.3902160047	self similar
+0.3897480875	instability growth
+0.3882044311	smaller than
+0.3881683974	outer corona
+0.3875273370	twisted magnetic
+0.3873498576	epoch analysis
+0.3867911690	phase of solar cycle
+0.3858244986	~ 5
+0.3849513748	commonly used
+0.3845623590	best fit
+0.3843833161	solar zenith
+0.3843216111	high degree
+0.3839641031	mechanisms responsible
+0.3838399708	et al
+0.3835508094	g cm2
+0.3832632475	driven shocks
+0.3827242682	three dimensional simulations
+0.3811683501	non linear
+0.3806780111	well defined
+0.3798933367	intense geomagnetic
+0.3784459299	ambient plasma
+0.3783510733	the reconnection plane
+0.3781479274	first principles
+0.3771428875	in situ
+0.3762532442	storm intensity
+0.3761293232	rm d
+0.3760899730	average magnetic
+0.3760215044	radial dependence
+0.3749086477	perturbations induced
+0.3746465537	box model
+0.3746398441	magnetic field energy
+0.3733302066	non thermal
+0.3715089050	km s ^ 1
+0.3711156612	cylindrical shell
+0.3705938411	field data
+0.3705316677	kinetic model
+0.3687040591	other things
+0.3686544213	self organized
+0.3680550841	steeper than
+0.3676117929	this paper describes
+0.3666361502	solar type
+0.3663179584	times larger
+0.3661945295	\ textit
+0.3660869256	x ray emission
+0.3660040017	2017 september
+0.3650349040	mass moment
+0.3645811458	extreme solar
+0.3643518474	wind parameters
+0.3637859574	one dimensional
+0.3634304486	a recent paper
+0.3619351551	alfv \
+0.3607566067	cycles 23 and 24
+0.3605807844	shear alfv \
+0.3598918701	very local interstellar
+0.3590934299	x point
+0.3589390325	solar wind data
+0.3586302003	two fluid
+0.3581411352	els \
+0.3577820774	radial evolution of
+0.3575168083	magnetic field data
+0.3573856033	scales smaller
+0.3570418340	wide range of
+0.3556566527	to earth propagation
+0.3554962735	shorter than
+0.3544690680	lense thirring effect with
+0.3542197206	two dimensional hybrid
+0.3541624596	sgr a *
+0.3531676901	solar wind turbulent
+0.3525411235	divided into
+0.3522458597	electromagnetic ion
+0.3506661963	mean square
+0.3494972049	90 degrees
+0.3478552665	three dimensional magnetohydrodynamic
+0.3475322465	multipolar expansion of
+0.3474000027	dynamics observatory
+0.3464471064	100 kev
+0.3463553293	relativistic lense thirring
+0.3458377741	spatial distribution
+0.3455487593	observed properties
+0.3453400877	in situ evidence
+0.3451560049	this letter
+0.3435274993	anti correlated with
+0.3420610767	mechanisms responsible for
+0.3408715807	non vanishing
+0.3407070377	400 km
+0.3404106566	~ 30
+0.3399469516	temporal variations of
+0.3397562292	scales smaller than
+0.3391276812	~ 50
+0.3383602124	larger than
+0.3375206262	inner boundary
+0.3372939146	11 year
+0.3366822511	well established
+0.3358474869	earth's magnetic
+0.3353512451	magnetic field model
+0.3350199437	consistent with
+0.3346310923	this paper
+0.3345552980	ii bursts
+0.3345477427	observational evidence for
+0.3344315824	mean magnetic field
+0.3343046895	cycle 25
+0.3340563857	cycle dependence
+0.3334110100	d region
+0.3327560449	\ emph
+0.3324448833	10 ^ 9
+0.3320378556	no longer
+0.3319906466	\ citep
+0.3314476904	caused by
+0.3313649937	\ delta b_
+0.3307247895	out of plane
+0.3299580593	the whistler heat
+0.3297843864	statistical properties of
+0.3296846310	plasma kinetic
+0.3291255824	solar x ray
+0.3291072666	few hours
+0.3287079272	longer than
+0.3275282166	10 ^ 6
+0.3274559527	information about
+0.3272097238	weather events
+0.3271982222	1 au
+0.3270278388	statistical analysis of
+0.3269247582	field variations
+0.3267784007	declining phase of
+0.3258459000	high lundquist
+0.3258212529	time delay
+0.3245252826	based on
+0.3242750212	non uniform
+0.3230912033	total solar
+0.3230765143	\ approx
+0.3226641685	maxwell simulations
+0.3222682934	the ecliptic plane
+0.3213956279	at low energies
+0.3205585543	four dimensional
+0.3198085192	\ perp t_
+0.3198047318	10 ^ 4
+0.3197933582	previous work
+0.3181621936	take into account
+0.3170511328	\ rm
+0.3160882092	first step
+0.3150159083	\ textrm
+0.3149042724	x ray flare
+0.3143403463	orbital angular
+0.3139911974	rm p
+0.3137805965	depending on
+0.3131632908	major source of
+0.3129498994	field model
+0.3114699900	field topology
+0.3113030937	physical properties of
+0.3111149859	bf b
+0.3102980791	the direction perpendicular
+0.3095732635	taken into account
+0.3092812243	terrestrial gravitational
+0.3088615499	10 ^ 8
+0.3088432207	secondary cosmic
+0.3088226046	solar quadrupole
+0.3082543453	27 day
+0.3072720516	near term
+0.3069603527	\ perp
+0.3061181810	\ pm
+0.3053285556	gravity model
+0.3052498283	~ 6
+0.3046021987	\ gtrsim
+0.3045570950	higher than
+0.3044366629	heliospheric magnetic
+0.3041400647	^ 1
+0.3031448172	\ rangle
+0.3028322375	comparative study of
+0.3025243161	space time
+0.3024185254	10 mev nuc
+0.3022525492	at small scales
+0.3022314948	lead to
+0.3004918287	axial magnetic
+0.2998195006	leads to
+0.2994706779	at high latitudes
+0.2990230734	few tens
+0.2989109345	the outer planets
+0.2981577330	$ \ theta_ bn
+0.2973795861	spatial distribution of
+0.2973420419	\ sim
+0.2971913174	agree well with
+0.2950021987	\ simeq
+0.2948831025	insights into
+0.2948582035	\ deg
+0.2936995885	^ 2
+0.2932298428	external magnetic
+0.2926069280	hard x
+0.2925328150	plane perpendicular
+0.2921323833	10 ^ 7
+0.2921248944	100 mev
+0.2917302935	large enough
+0.2915611553	~ 3
+0.2910491068	interplay between
+0.2909799415	non relativistic
+0.2908142077	nonlinear evolution of
+0.2905196961	\ mu
+0.2902749260	\ lesssim
+0.2900916028	characterized by
+0.2898664144	the local magnetic field
+0.2894021987	\ leq
+0.2893414358	passing through
+0.2891484272	\ alpha
+0.2889702012	\ delta
+0.2888434839	\ mathrm
+0.2888125170	days after
+0.2885638324	at mhd scales
+0.2885218868	temporal evolution of
+0.2881309332	injected into
+0.2877574882	high solar
+0.2871380651	10 ^ 5
+0.2865092336	1000 km
+0.2860611865	\ aa
+0.2857294423	instabilities driven by
+0.2854246175	scale magnetic
+0.2845707959	~ 2
+0.2843616497	the general relativistic lense thirring effect
+0.2838419047	scaling properties of
+0.2834190547	critical value
+0.2833814575	depends on
+0.2821286088	produced by
+0.2818443310	typical solar
+0.2809076811	\ ell
+0.2806321340	\ theta
+0.2805394651	non equilibrium
+0.2804441588	transit time
+0.2801464782	wind electrons
+0.2798187855	30 kev
+0.2790830138	several tens
+0.2786668734	the ion gyroscale
+0.2784045542	major geomagnetic
+0.2775905339	accompanied by
+0.2768380873	responsible for
+0.2766440055	slow solar
+0.2762659534	k_ \ perp ^
+0.2761374151	two fluid model
+0.2760532736	relation between
+0.2757254711	high degree of
+0.2756875212	simulation study of
+0.2750627843	= 0
+0.2749088842	storm time
+0.2748957299	in situ spacecraft
+0.2747827244	ion gyroscale
+0.2746222632	local magnetic field
+0.2740837982	\ infty
+0.2739291659	rigidity dependence of
+0.2738853734	situ plasma
+0.2736672595	27 day variation
+0.2728156451	making use
+0.2726810450	plane perpendicular to
+0.2723806964	a power law
+0.2718549753	a test particle
+0.2718449125	$ a_ \ mathrm
+0.2717470042	\ scriptstyle_
+0.2712197938	\ propto
+0.2711976251	much smaller
+0.2711844258	x ray solar
+0.2710616173	23 24
+0.2708517727	\ gg
+0.2703323211	10 ^ 13
+0.2702360243	^ 3
+0.2700436468	present results from
+0.2697100622	correlation between
+0.2696498139	spacecraft frame
+0.2694072096	detailed analysis of
+0.2693032422	3 d
+0.2690065030	these results suggest
+0.2689152350	shock driven by
+0.2687255110	s ^ 1
+0.2684871942	10 ^ 12
+0.2683272010	\ neq 0
+0.2682682463	a case study
+0.2677504848	perihelion precession of
+0.2675952895	comparative study
+0.2675420114	driven by
+0.2672948255	in space plasmas
+0.2671431810	\ omega
+0.2671170020	near real time
+0.2668702619	radial dependence of
+0.2665424498	field evolution
+0.2662163934	depend on
+0.2654334104	important role in
+0.2653021047	\ bf
+0.2643285413	10 ^ 3
+0.2637290197	low plasma
+0.2633610870	\ phi
+0.2620636683	23 and 24
+0.2619516039	mean free
+0.2619310574	a level
+0.2613990355	\ equiv
+0.2613844335	focus on
+0.2607723081	close to
+0.2604396752	large scale solar wind
+0.2603140367	10 ^ 11
+0.2596943702	results indicate
+0.2585410566	field intensity
+0.2579783462	\ cdot
+0.2578940175	10 ^ 15
+0.2570537911	three body
+0.2568490351	~ 4
+0.2567971309	rope structure
+0.2564334897	more pronounced
+0.2562337665	first encounter
+0.2559734446	even zonal
+0.2557819747	types of solar
+0.2553957812	^ \ circ
+0.2550444740	structures observed
+0.2550056333	root mean
+0.2545801876	compared to
+0.2539253608	speed streams
+0.2538268850	most probable
+0.2537990499	m s ^ 2
+0.2537131604	non stationary
+0.2532370011	interpreted as
+0.2530809074	shock front
+0.2528446207	solar wind magnetic field
+0.2523312008	very low
+0.2520749648	wind model
+0.2518477035	at 1 au
+0.2518190933	$ _2
+0.2512338316	referred to as
+0.2503255577	lense thirring effect in
+0.2503050401	propagate along
+0.2501288729	o7 +
+0.2498659606	so far
+0.2495285273	1 and 2
+0.2491538988	propagating alfv \
+0.2490615363	quadrupole mass
+0.2488732824	reconnection electric
+0.2480177187	upstream magnetic
+0.2479874606	$ b_y
+0.2477919726	time varying
+0.2476816404	mode wave
+0.2476094862	serve as
+0.2475767349	x class
+0.2471171965	\ mathbf
+0.2471017106	orbits around
+0.2467642769	\ lambda
+0.2465538193	stronger than
+0.2460434682	e region
+0.2456639632	cme flux
+0.2454353908	spectral properties of
+0.2454336673	induced by
+0.2453905661	out of plane magnetic field
+0.2452972655	$ \ beta_
+0.2444025470	wind plasma
+0.2442922140	$ \ beta
+0.2441016859	non ideal
+0.2440187220	$ \ mathit b _
+0.2439248497	\ pi
+0.2436543075	the solar wind
+0.2431460609	averaged over
+0.2427312564	scale energy
+0.2424955973	10 ^ 2
+0.2423283936	earth objects
+0.2423116558	\ rho
+0.2422569383	\ psi
+0.2417014362	lower than
+0.2416249910	more accurate
+0.2408881957	new technique
+0.2408425176	differences between
+0.2402138483	the solar corona
+0.2398721275	focuses on
+0.2397366568	| \ lesssim
+0.2391838438	statistical study of
+0.2390719450	solar wind electron
+0.2386332930	s bursts
+0.2384621773	not well understood
+0.2381271942	about half
+0.2380996366	inner heliosheath
+0.2379659932	plasmoid instability in
+0.2378483070	km ~
+0.2375629299	\ sigma
+0.2373572308	22 year
+0.2371188044	\ omega_
+0.2368286501	sensing observations
+0.2357931639	into account
+0.2354442252	per century
+0.2353992409	the general relativistic lense thirring
+0.2353698276	two step
+0.2345709655	10 ^ 10
+0.2342324257	\ lambda_
+0.2337436174	generated by
+0.2332167712	owing to
+0.2331334937	compared with
+0.2325736699	simulation study
+0.2321521756	highly alfv \
+0.2319487461	dominated by
+0.2317271365	\ odot
+0.2315429749	\ geq
+0.2312430453	$ v_d
+0.2309923410	at ion scales
+0.2306781260	\ boldsymbol
+0.2306174103	mean motion
+0.2288358370	quiet time
+0.2285798679	t \ scriptstyle_
+0.2285266278	2012 july
+0.2284565189	at smaller scales
+0.2280668609	300 km
+0.2274478122	even though
+0.2271563692	ray observations
+0.2270510291	derived from
+0.2269592105	wind dynamic
+0.2265754687	relationship between
+0.2265503701	\ epsilon_
+0.2264781260	\ vec
+0.2258456378	inner and outer
+0.2257996900	competition between
+0.2257651613	observed at 1 au
+0.2255299262	2 d
+0.2253154201	magnitude larger than
+0.2252899091	magnetic local
+0.2251705027	x points
+0.2251382444	the present paper
+0.2245298241	mev nuc to
+0.2244629431	first order
+0.2244476408	angle distributions
+0.2243500700	space and time
+0.2235669494	field vectors
+0.2234901777	numerical simulations of
+0.2233695538	emanating from
+0.2230261026	amplitude alfv \
+0.2226996126	time domain
+0.2226862313	a simple model
+0.2225734488	this article
+0.2222771037	large number of
+0.2222721044	time and space
+0.2222168584	$ \ sim
+0.2219909594	future work
+0.2219484209	applied to
+0.2217979282	an explanation
+0.2216487557	at kinetic scales
+0.2209783494	september 10
+0.2209267737	f region
+0.2208940568	very large
+0.2208876841	ii satellites
+0.2203633708	100 km
+0.2202000962	comment on
+0.2200236765	recovery phase of
+0.2196911204	plasma observations
+0.2188576007	a strong guide
+0.2187623933	to understand
+0.2186883450	k _
+0.2186755773	propagating through
+0.2181628566	a wide range
+0.2181318573	relies on
+0.2180656392	\ beta_p
+0.2180524345	\ dot \ varpi
+0.2177560999	governed by
+0.2175140428	related to
+0.2174821104	\ sqrt
+0.2173709407	attributed to
+0.2173514833	0.3 au
+0.2173224691	new insights
+0.2170145521	10 gev
+0.2169456573	correspond to
+0.2166109847	propagate through
+0.2163877766	ranging from
+0.2162497978	sub ion
+0.2160541254	recent work
+0.2158200063	accounting for
+0.2157239144	this study
+0.2154201398	measured by
+0.2153066903	a coronal mass ejection
+0.2152864815	the outer corona
+0.2151389015	reasonably well
+0.2148450952	plasma electrons
+0.2141729459	local magnetic
+0.2141710656	other hand
+0.2141123084	current state of
+0.2137040550	5 3
+0.2134439102	| |
+0.2134060943	at proton scales
+0.2133778327	j \ cdot
+0.2133748330	weaker than
+0.2133330083	magnetic reconnection in
+0.2130019760	\ cdot \ vec
+0.2119704806	\ left
+0.2117048155	\ delta \ tau_ \ textrm
+0.2115711221	x lines
+0.2114676086	explained by
+0.2113088659	the magnetic field
+0.2112374872	proportional to
+0.2098393971	at electron scales
+0.2087119842	the terrestrial gravitational
+0.2081689890	\ textbf
+0.2081641133	plasma data
+0.2079985200	an order of magnitude
+0.2079814729	regarded as
+0.2077579908	near infrared
+0.2075894619	non resonant
+0.2073810200	well known
+0.2073069928	\ delta b_ \ perp
+0.2072202108	most important
+0.2070439175	wind flows
+0.2069211715	does not
+0.2069211715	do not
+0.2068787506	200 km
+0.2067094021	^ \ mathrm
+0.2066768210	constraints on
+0.2066250807	time scales
+0.2064417163	\ langle
+0.2061621983	observed by
+0.2060805141	crucial role in
+0.2055418676	contribute to
+0.2054417881	\ dot \ rho
+0.2053228352	\ theta_
+0.2052765182	wind expansion
+0.2051084633	collisional plasmas
+0.2048033069	difference between
+0.2044398053	sgr a
+0.2042195932	energy containing
+0.2041311543	did not
+0.2040876914	most common
+0.2039913058	in situ data
+0.2036397813	aspect ratio of
+0.2035075839	\ hat
+0.2033306999	high enough
+0.2031948567	nonlinear dynamics of
+0.2030464767	unable to
+0.2027258738	dimensional magnetic
+0.2027089991	\ mathit
+0.2026974563	new method
+0.2026577685	\ gamma
+0.2025604768	\ psi_0
+0.2025473218	\ bot
+0.2024937960	per second
+0.2023838239	like structures
+0.2023786574	an important
+0.2022957904	well understood
+0.2018433241	field energy
+0.2018183559	dependence on
+0.2017227626	radial magnetic
+0.2016357061	\ beta_ \ parallel
+0.2014624361	direction perpendicular to
+0.2014377828	interactions between
+0.2013037435	energy transfer from
+0.2011712841	the solar wind speed
+0.2006038517	affected by
+0.2004118764	one hand
+0.2003726966	^ 7
+0.1993925287	significant role in
+0.1992953139	\ beta_e
+0.1990881434	subjected to
+0.1988233594	\ times 10 ^ 4
+0.1986952441	near 1 au
+0.1983576242	\ beta
+0.1982476866	less than
+0.1977546219	3 dimensional
+0.1977365058	mean field
+0.1976101840	supported by
+0.1974931965	$ \ mathcal
+0.1974517367	\ varpi
+0.1973243581	$ d_
+0.1970963261	the low corona
+0.1969744203	a priori
+0.1969143533	rather than
+0.1968816069	\ dot
+0.1966659678	90 \ deg
+0.1964134841	the spacecraft frame
+0.1963300428	= 1
+0.1959222279	numerical solutions of
+0.1959012851	zonal harmonics of
+0.1957516543	leading to
+0.1955061065	connection between
+0.1951426465	particularly important
+0.1948898682	two distinct
+0.1945341662	omega_ \
+0.1945212062	emphasis on
+0.1944754245	compatible with
+0.1944727626	background magnetic
+0.1944065043	in recent years
+0.1941485440	$ \ kappa
+0.1941149358	during solar minimum
+0.1939632269	fine structure of
+0.1938608414	two orders of magnitude
+0.1930605095	link between
+0.1929069181	comparison between
+0.1929002315	time period
+0.1926153026	the electron cyclotron maser
+0.1919704247	southward magnetic
+0.1918522329	c ^ 2
+0.1914439471	100 years
+0.1913980425	respect to
+0.1912590782	accounted for
+0.1911912587	\ text
+0.1911897118	and recovery phases
+0.1909731173	arising from
+0.1906079253	\ rho_e
+0.1901320504	several orders
+0.1898270678	$ ^ 1
+0.1896424852	s c
+0.1887019181	\ rho_i
+0.1886148871	some cases
+0.1883909964	results show
+0.1883418465	90 ^ \ circ
+0.1882467637	l =
+0.1882241552	controlled by
+0.1880975587	the magnetic field direction
+0.1877972971	simple model of
+0.1871450935	$ p_
+0.1869160943	influenced by
+0.1869111533	observational evidence of
+0.1862863460	two line
+0.1858312208	\ tau
+0.1855932771	\ right
+0.1854643327	energy particles
+0.1854440439	stereo a
+0.1848021816	$ \ beta_ \ mathrm
+0.1847399856	general relativity with
+0.1847102331	these results
+0.1846227387	^ 4
+0.1846136659	very long
+0.1844303457	day period
+0.1844045989	key role in
+0.1843440453	$ _3
+0.1839417353	the solar wind magnetosphere
+0.1838378244	numerical simulation of
+0.1837401752	gives rise to
+0.1836612460	first results
+0.1835690365	\ rho_
+0.1829210559	coincides with
+0.1829022749	method allows
+0.1821497104	electron phase
+0.1819122942	few years
+0.1815131527	m ^ 2
+0.1814751018	\ beta_ \ mathrm
+0.1813162534	order of 10
+0.1810303891	10 ev
+0.1808052962	alfven waves in
+0.1806269064	due to
+0.1802676935	solar plasma
+0.1802613157	moving along
+0.1802269543	the background magnetic field
+0.1802101482	short time
+0.1801800013	originating from
+0.1797617260	inferred from
+0.1797490836	the present study
+0.1794762142	a steady state
+0.1793557286	electron acceleration at
+0.1789841364	properties of
+0.1789215313	per orbit
+0.1788837110	in low earth orbit
+0.1788172773	well correlated
+0.1787442322	local time
+0.1787376293	occurrence rate of
+0.1787060460	non gravitational
+0.1785720105	too small
+0.1785458090	lambda =
+0.1785232321	$ \ textbf
+0.1784390718	field reconnection
+0.1783357818	tend to
+0.1774718654	in addition
+0.1772018603	a broad range
+0.1768282471	^ \ alpha
+0.1767864665	\ rho_s
+0.1766863294	model based on
+0.1762166400	particle in cell simulations of
+0.1760673067	the auroral oval
+0.1760258529	spectral analysis of
+0.1754569546	particle in cell simulation of
+0.1753789739	\ times10
+0.1745250003	method based on
+0.1744818773	j \ cdot \ vec e
+0.1744218661	inner magnetosphere
+0.1743799094	agreement with
+0.1742777289	\ langle \ delta
+0.1742395939	10 and 11
+0.1741506252	accounts for
+0.1740209946	devoted to
+0.1739711061	\ ll 1
+0.1738881908	kinetic simulations of
+0.1737386058	\ sigma_ \ dot
+0.1736806307	500 km s
+0.1734541463	10 20
+0.1733338847	time dependence
+0.1729997852	the interplanetary magnetic field
+0.1728064110	data from
+0.1727908385	each station
+0.1726650438	fluid like
+0.1725274485	subject to
+0.1724568435	\ nu
+0.1723685596	corresponds to
+0.1723280032	$ \ left
+0.1720994751	27 day variation of
+0.1716900677	more efficient
+0.1716353001	observed electron
+0.1714495146	very weak
+0.1710596049	$ \ mathbf
+0.1707817487	orbital dynamics of
+0.1706864082	the solar wind proton
+0.1704989090	the slow solar wind
+0.1703151211	coupling between
+0.1695424326	of magnitude
+0.1694499115	both hemispheres
+0.1692246080	several hours
+0.1689605452	presented here
+0.1689379515	the outer heliosphere
+0.1689335240	comparable to
+0.1689184934	energies above
+0.1688333580	the fast solar wind
+0.1686417739	wind models
+0.1685262899	$ \ beta_e
+0.1679116771	turbulent solar
+0.1678793008	a crucial role
+0.1678237473	two body system
+0.1675711930	$ \ delta
+0.1672759212	\ mathcal
+0.1671943693	coronal mass ejections in
+0.1670417767	the art
+0.1670098550	the heliospheric current sheet
+0.1669422550	the basis
+0.1664545186	determined by
+0.1663842894	year cycle
+0.1663838312	\ circ
+0.1661946081	a perpendicular
+0.1660901274	landau damping of
+0.1657277841	a case
+0.1655730295	interaction between
+0.1651982613	charged particles in
+0.1650540153	the cross section
+0.1649045092	this result
+0.1648612487	closer to
+0.1648547435	travel time
+0.1647160001	very similar
+0.1645946093	^ *
+0.1643256844	give rise to
+0.1642111710	subset of
+0.1641030278	dispersion relation of
+0.1640249168	spite of
+0.1638870775	w m ^
+0.1637750406	the long term
+0.1637064720	\ sim 1
+0.1636321723	able to
+0.1635317684	$ \ delta \ dot
+0.1634598450	the shock normal
+0.1633704896	multiple magnetic
+0.1628375960	time interval
+0.1625096533	\ omega_ \ mathrm
+0.1621886601	3 4
+0.1621096558	variety of
+0.1620807301	these findings
+0.1619406992	non mc
+0.1618217544	500 km
+0.1614078849	spectral index of
+0.1612801959	three dimensions
+0.1611778765	\ nabla
+0.1611617838	\ ll
+0.1611118000	a subset
+0.1610204464	non zero
+0.1608009553	to suggest
+0.1606561777	growth rates of
+0.1606311447	$ \ beta_ \ rm
+0.1606043672	orbit around
+0.1604788476	under certain
+0.1601873515	implications for
+0.1599992900	a single
+0.1598828999	sensitive to
+0.1598009926	at sub ion scales
+0.1595987702	analysis based on
+0.1595213901	an extended
+0.1593909219	\ le
+0.1593261738	component analysis
+0.1591193064	orbital motion of
+0.1590384984	near sun
+0.1585021635	whether or not
+0.1582299630	time resolution
+0.1581617153	most likely
+0.1579835370	the semimajor axis
+0.1578814858	new approach
+0.1577087327	very little
+0.1576922550	the focus
+0.1576332094	as well as
+0.1575169251	the ambient magnetic
+0.1572393875	the interstellar medium
+0.1567315001	time span
+0.1565920742	solar wind magnetosphere
+0.1565453554	situ measurements from
+0.1564503199	to determine
+0.1563814994	the heliospheric current
+0.1563777621	sub proton
+0.1561168312	the dissipation range
+0.1560476695	obtained by
+0.1559356346	the inertial range
+0.1556727141	to explain
+0.1555293971	time intervals
+0.1554294468	\ beta_
+0.1554225100	$ \ vec
+0.1552508424	correlated with
+0.1550860439	$ \ mathit b _ y
+0.1545026969	heliocentric distance of
+0.1544305835	a statistical study
+0.1542206026	the equivalence principle
+0.1541104891	one order of magnitude
+0.1540860439	\ times10 ^
+0.1539097281	the radial direction
+0.1536545832	\ epsilon
+0.1534439379	the lunar surface
+0.1533514434	much larger than
+0.1531136253	electric fields in
+0.1529480697	| \ delta
+0.1524567897	$ k_ \ perp
+0.1523967492	observations made by
+0.1523570558	$ \ alpha
+0.1522835011	much greater
+0.1522076828	near sun solar
+0.1522018610	~ p
+0.1520606197	with respect to
+0.1519100556	model based
+0.1518478257	n waves
+0.1518472021	the source regions
+0.1517651501	present day
+0.1516767188	equipped with
+0.1515352594	separation between
+0.1512823645	the results obtained
+0.1512530450	cosmic rays in
+0.1510541496	the local interstellar medium
+0.1508450046	particle acceleration in
+0.1506990692	situ observations of
+0.1506054386	the ion gyroradius
+0.1505013871	dimensional model
+0.1504327201	possible mechanism
+0.1503819162	the energy cascade rate
+0.1502658717	evidence for
+0.1502022127	the other hand
+0.1497756875	particle acceleration at
+0.1497195869	density fluctuations in
+0.1494021076	solar wind at 1 au
+0.1492196959	planetary magnetic
+0.1491511349	more than
+0.1490234457	the time of
+0.1486985433	this note
+0.1485242861	separated by
+0.1484916975	$ \ vec j \ cdot
+0.1484653081	an additional
+0.1481727043	the current sheet
+0.1479469075	* 10 ^
+0.1478300643	the electron heat flux
+0.1476484776	capable of
+0.1474218788	the ambient solar wind
+0.1473412669	a long term
+0.1473340719	much smaller than
+0.1473139779	\ tau_
+0.1472076859	$ _ \ odot
+0.1471011287	a possible explanation
+0.1469258173	\ eta
+0.1467595072	drift acceleration
+0.1467360865	particle interaction
+0.1467241170	phase of solar
+0.1465959982	to study
+0.1465125973	an alternative
+0.1464243236	$ \ gamma
+0.1463207336	\ beta_i
+0.1460548670	the northern hemisphere
+0.1458583672	the solar wind plasma
+0.1457919665	the flux rope
+0.1456697061	more complex
+0.1456361810	two and three
+0.1454095187	a collisionless plasma
+0.1453870939	this work
+0.1452475466	coming from
+0.1451498065	10 ^
+0.1451244606	mediated by
+0.1449754223	$ \ approx
+0.1448398014	en waves in
+0.1446997310	similar to
+0.1445082941	by means of
+0.1443998668	at least
+0.1443883287	the bow shock
+0.1443567790	the plane of
+0.1442331257	the solar wind parameters
+0.1442329045	associated with
+0.1441212154	a prediction
+0.1439977808	of change of
+0.1437174031	\ tau_ \ textrm p
+0.1430692896	in order to
+0.1430406655	\ parallel
+0.1429896522	the post newtonian
+0.1429825305	$ \ boldsymbol
+0.1427155210	an empirical
+0.1424287706	in situ plasma
+0.1423825341	inner corona
+0.1423120712	the galactic cosmic ray
+0.1422401670	obtained from
+0.1422139879	the large scale
+0.1420759308	a spectral index
+0.1419725109	\ sigma_
+0.1419407834	by comparing
+0.1417647219	s ^ 2
+0.1417524455	much larger
+0.1415181091	\ lambda _ \
+0.1413909805	full range
+0.1412881706	the ion larmor
+0.1412204216	observed at 1
+0.1409765980	$ \ beta_p
+0.1405853605	j_ \
+0.1405804300	magnetic field fluctuations in
+0.1402867680	the brightness
+0.1401669638	balance between
+0.1399635678	very small
+0.1397680995	a matter
+0.1396921208	designed to
+0.1396878718	3 part
+0.1394406229	\ times 10 ^
+0.1394227616	the solar surface
+0.1393783086	earth like
+0.1390861237	time averaged
+0.1389662611	represented by
+0.1387897052	$ \ epsilon
+0.1386788385	q_ \
+0.1385566945	a significant role
+0.1385558972	2 3
+0.1385294353	whistler waves in
+0.1385235439	before and after
+0.1384760328	source region of
+0.1383976959	current sheets in
+0.1381151974	magnetic reconnection at
+0.1380460148	at earth
+0.1379947086	flux instability
+0.1377315045	a high speed
+0.1375030841	motivated by
+0.1372995631	time scale
+0.1372673903	the solar atmosphere
+0.1370561740	the white light
+0.1368687848	$ \ dot
+0.1363832135	$ \ simeq
+0.1361321966	kev electrons
+0.1360031806	open magnetic
+0.1358118350	^ +
+0.1356862059	b ^ 2
+0.1352841966	as large as
+0.1352439549	portion of
+0.1350853690	impact on
+0.1350434254	5 10
+0.1349529340	focused on
+0.1347860657	suggestive of
+0.1347654463	k_ \
+0.1345409798	also discuss
+0.1343424132	growth rate of
+0.1342380651	the coronal magnetic field
+0.1342091963	most recent
+0.1340083435	$ \ lambda_
+0.1338798724	the magnetic field line
+0.1335546315	much less
+0.1333529104	$ \ omega
+0.1333361276	in most cases
+0.1333112690	such as
+0.1330411007	according to
+0.1327386774	the ambient solar
+0.1327166014	inertial range of
+0.1327004621	a magnetohydrodynamic
+0.1323429653	treated as
+0.1322295244	scale turbulent
+0.1322248081	a statistical analysis
+0.1322059002	$ m_ \ mathrm
+0.1321617580	the steady state
+0.1321538646	the dayside magnetopause
+0.1319604306	the equations of
+0.1318405278	triggered by
+0.1317789863	wind conditions
+0.1315746436	the magnetic field strength
+0.1312042000	two types
+0.1311460367	$ f_
+0.1310023613	refer to
+0.1309896576	these particles
+0.1309157989	proton kinetic
+0.1308532414	much higher
+0.1307076553	for instance
+0.1307067917	p_ \
+0.1306933415	hybrid simulations of
+0.1306395918	one year
+0.1304668305	this purpose
+0.1304409697	parallel magnetic
+0.1303303949	the inner heliosphere
+0.1302820694	provided by
+0.1300373746	m_e =
+0.1299551468	applicable to
+0.1297860657	versions of
+0.1295340665	m s
+0.1294674055	the whistler heat flux
+0.1293835265	case study of
+0.1292890139	cyclotron waves in
+0.1290643262	the results of
+0.1288556320	the polar cap
+0.1287856340	a high resolution
+0.1287511894	the flyby anomaly
+0.1286014042	cm s
+0.1285949639	o +
+0.1285761187	in order to obtain
+0.1285234457	the physics of
+0.1283666389	a flow
+0.1282408707	the stationary
+0.1282253402	not yet
+0.1280208008	plane magnetic
+0.1279912526	magnetic reconnection with
+0.1274685074	system size
+0.1274064837	to date
+0.1273931035	the main
+0.1273691637	the east
+0.1273489207	proof of
+0.1271201410	a simple
+0.1269236255	the magnetic field lines
+0.1268553273	coronal magnetic
+0.1267229433	extracted from
+0.1267050721	the reconnection rate
+0.1266521425	in order
+0.1265234457	the intensity of
+0.1264285067	the european space agency
+0.1263270925	\ times 10
+0.1263115945	the solar magnetic field
+0.1262505705	better than
+0.1262500416	away from
+0.1261234738	superimposed on
+0.1261227224	main phase of
+0.1260860138	much faster
+0.1260685361	kinetic energy of
+0.1260615871	the solar disk
+0.1260415373	20 au
+0.1259228892	^ 5
+0.1257089925	\ em
+0.1256858994	the ion acoustic
+0.1256770731	two main
+0.1256520345	sun like
+0.1254977808	the statistics of
+0.1254977808	the intensities of
+0.1254323859	a planetary
+0.1253729193	an initial
+0.1252357572	account for
+0.1252002562	so as to
+0.1250687643	distribution function in
+0.1249994308	thought to
+0.1248073644	the charge exchange
+0.1247840108	the solar wind velocity
+0.1247728071	$ \ mu
+0.1245436920	presence of
+0.1244749662	even if
+0.1244700031	and heating of
+0.1242395900	$ \ bf
+0.1240905505	the kinetic regime
+0.1238900159	search for
+0.1238567790	the orbit of
+0.1236515196	more realistic
+0.1236514281	each other
+0.1235234457	the dissipation of
+0.1233552749	situ measurements of
+0.1231914375	located at
+0.1231451843	used to
+0.1230644446	$ \ sigma_
+0.1229797370	different solar wind
+0.1229790094	gravitational field of
+0.1227823763	the heliospheric magnetic field
+0.1226670130	magnetic field in
+0.1224051964	b c
+0.1221969292	ion distribution
+0.1220901205	kinetic scales in
+0.1220065099	the weak field
+0.1219727742	as much as
+0.1215446559	deviations from
+0.1215205234	out of plane magnetic
+0.1214745332	the shear
+0.1213004380	energy dissipation in
+0.1212079664	the central body
+0.1211674203	used to calculate
+0.1210748176	a flux rope
+0.1209159359	relatively low
+0.1209150006	differs from
+0.1209096442	spacecraft observations of
+0.1208567790	the problem of
+0.1206879949	conditions under
+0.1206273474	^ 6 +
+0.1205523069	the upstream solar wind
+0.1205427938	the empirical
+0.1205234457	the strength of
+0.1205234457	the transport of
+0.1204977808	the implications of
+0.1202840721	to investigate
+0.1202382937	a concept
+0.1201298322	this effect
+0.1201089485	$ s_
+0.1200707215	to obtain
+0.1200200926	the ambient magnetic field
+0.1199229241	searching for
+0.1199103094	distribution function of
+0.1198659128	$ \ pm
+0.1197832622	benefit from
+0.1197700392	long time
+0.1197472165	the background solar wind
+0.1197030798	the electric field
+0.1196927284	effect on
+0.1195234457	the amplitude of
+0.1195234457	the process of
+0.1195234457	the limit of
+0.1194977808	the point of
+0.1194977808	the core of
+0.1193259977	used to study
+0.1192865006	the ion cyclotron
+0.1192095248	the solar wind dynamic pressure
+0.1190971752	used to determine
+0.1189867797	the issue
+0.1189133443	the proton cyclotron
+0.1188213048	these waves
+0.1187377607	shown to
+0.1187276862	a large scale
+0.1186241414	a few hundred
+0.1185829493	simulations show
+0.1185442186	a guide field
+0.1184977808	the eruption of
+0.1184977808	the precision of
+0.1184724830	the electron pressure
+0.1183064979	correlations between
+0.1182666200	solar modulation of
+0.1182589596	$ r_ \ odot
+0.1182584983	using cluster
+0.1181046991	the turbulent cascade
+0.1180530224	\ kappa
+0.1180504380	energy spectrum of
+0.1178973788	$ r_
+0.1178825318	application to
+0.1178696739	$ t_ \ perp
+0.1178567790	the magnitude of
+0.1177410882	the total solar
+0.1176753794	classified as
+0.1176227417	h +
+0.1175232632	observations from
+0.1174977808	the release of
+0.1174977808	the area of
+0.1173244464	believed to
+0.1172811191	thin current
+0.1170766505	the cold plasma
+0.1170240229	the reference frame
+0.1168651611	the upper atmosphere
+0.1168567790	the flux of
+0.1166841509	electron heating in
+0.1165234457	the production of
+0.1165234457	a distance of
+0.1164977808	the predictions of
+0.1164977808	the regions of
+0.1164082724	characterised by
+0.1163618126	interact with
+0.1163151988	approximated by
+0.1162002171	focusing on
+0.1161483370	not sufficient
+0.1161437144	the electron diffusion
+0.1161325317	plasma turbulence in
+0.1161044794	the high latitude
+0.1160507169	\ zeta
+0.1159306518	$ l_
+0.1159068054	a method
+0.1158946069	the background magnetic
+0.1158541613	3d mhd
+0.1158081961	detected by
+0.1157809942	10 mev
+0.1157783043	considered as
+0.1157615278	starting from
+0.1156183303	the onset
+0.1155234457	a measure of
+0.1155234457	the mass of
+0.1155126692	the spectral break
+0.1154293347	the cosmic ray
+0.1154191171	$ n_
+0.1153317721	energies up to
+0.1152937225	energy spectra of
+0.1152924635	$ \ eta
+0.1149372340	initial magnetic
+0.1148719305	the cause of
+0.1147593674	mhd model of
+0.1147091751	of protons in
+0.1146651116	most intense
+0.1145234457	the energy of
+0.1145234457	the trajectory of
+0.1145234457	the scaling of
+0.1144977808	the type of
+0.1144977808	the geometry of
+0.1144798585	the power law
+0.1143988017	for space weather
+0.1141348207	these structures
+0.1140960394	$ \ sigma
+0.1139878127	the gamma ray
+0.1139845477	energy transfer in
+0.1139045263	$ ^ \ circ
+0.1137719264	on average
+0.1137310201	very good
+0.1135446500	new model
+0.1135234457	the design of
+0.1135202818	$ \ theta
+0.1135161131	attempt to
+0.1134977808	a cascade of
+0.1133936046	acting on
+0.1133078395	to improve
+0.1132753261	^ 9
+0.1131694996	$ _
+0.1131533751	on orbit
+0.1130802604	the physical processes
+0.1130301495	large magnetic
+0.1130198636	\ vec e
+0.1128720131	deduced from
+0.1128508508	more effective
+0.1128311142	with and without
+0.1127620979	a geomagnetic storm
+0.1125931657	the spectral index
+0.1125790350	the mirror mode
+0.1125450345	few hundred
+0.1125344602	energetic particles in
+0.1125234457	the position of
+0.1124822072	$ \
+0.1122796081	a thermal
+0.1122114687	of electrons in
+0.1121817912	the plasmoid instability
+0.1120915015	a light
+0.1120610485	$ v_
+0.1120602415	a comparison
+0.1119375653	a problem
+0.1118239600	$ q_
+0.1118222810	the broad
+0.1117703273	in space physics
+0.1116990786	the plasma sheet
+0.1115997726	the general relativistic
+0.1115234457	the region of
+0.1115234457	the sensitivity of
+0.1115113010	an oblate
+0.1115107882	the dark matter
+0.1114977808	the decay of
+0.1113055091	current system
+0.1111718199	in terms of
+0.1110584712	the low latitude
+0.1110345650	magnetic fluctuations in
+0.1110278537	very strong
+0.1109856499	of view
+0.1109656163	analysis of
+0.1109499361	the individual
+0.1108346472	high magnetic
+0.1108311142	the rates of
+0.1108311142	in front of
+0.1107864714	wind fluctuations
+0.1106291761	in space plasma
+0.1106084739	up to 100
+0.1106044866	the radiation belts
+0.1105140204	measurements from
+0.1104688537	the parallel and
+0.1103464879	\ left |
+0.1103156891	$ \ beta_ \ parallel
+0.1102595498	a secular
+0.1100174717	the supermassive black
+0.1099269981	electric field in
+0.1098905261	an average
+0.1098311142	the heating of
+0.1097742239	= 10
+0.1097500073	of space debris
+0.1096821636	the asteroid
+0.1096751189	orbital motions of
+0.1095696589	the type ii
+0.1095230607	to measure
+0.1094977808	the equation of
+0.1094383268	to identify
+0.1094238878	not only
+0.1093145620	evolution of
+0.1092435986	relative to
+0.1092415730	the upstream solar
+0.1091556289	originated from
+0.1091447535	a q
+0.1090488616	frozen in
+0.1090040628	kinetic particle
+0.1089701050	consists of two
+0.1089152567	the parallel electric
+0.1088482947	predicted by
+0.1085799169	the spatial distribution
+0.1085234457	the field of
+0.1084977808	the method of
+0.1082920314	to estimate
+0.1081619539	accelerated by
+0.1080231762	$ j_
+0.1078995422	the isotropic
+0.1078878139	combined with
+0.1078719305	the rotation of
+0.1078567790	the anisotropy of
+0.1078567790	the scale of
+0.1078567790	the arrival of
+0.1078567790	the orbits of
+0.1078311142	the linear and
+0.1076321678	time profiles
+0.1075774501	the reconnection site
+0.1074977808	the atmosphere of
+0.1074916093	the solar magnetic
+0.1073964527	the angular momentum
+0.1073933130	x 10 ^
+0.1073878387	the local interstellar
+0.1073259221	considered here
+0.1073159042	transition between
+0.1073136374	a 2d
+0.1072158146	\ delta b_ \
+0.1072059936	energy range of
+0.1070113701	the heliocentric distance
+0.1068695097	a parameter
+0.1067982029	the parallel electric field
+0.1067970958	1 2
+0.1066415423	occurred on
+0.1064335360	a function
+0.1063766939	effects on
+0.1062396697	consisting of
+0.1062240208	the geomagnetic field
+0.1058311142	the increase of
+0.1055881502	propagation through
+0.1055234457	the density of
+0.1054979521	the solar sail
+0.1054977808	the flow of
+0.1054977808	a region of
+0.1054034865	the sun
+0.1053790394	the ion inertial
+0.1053248659	observations during
+0.1053083229	plasma system
+0.1051349909	a new method
+0.1049764418	a strong
+0.1049655554	this process
+0.1048730063	\ xi
+0.1048384302	magnetic field at
+0.1048311142	the system of
+0.1048311142	the boundaries of
+0.1045402766	the solar cycle
+0.1045090330	the outer solar
+0.1040939039	tens of
+0.1040742625	a key role
+0.1040468762	two body
+0.1040465052	a deep
+0.1040399014	a main
+0.1039653564	coincident with
+0.1039398429	$ swift
+0.1038735671	a current sheet
+0.1038311142	the length of
+0.1038311142	the frame of
+0.1038311142	a system of
+0.1037225830	an extension
+0.1037137233	a scenario
+0.1036795411	a significant
+0.1036406055	dependence of
+0.1035567424	interaction with
+0.1035505849	$ \ lambda
+0.1035502121	\ mathbf b
+0.1035440904	played by
+0.1034772030	the line of
+0.1034286385	observations of
+0.1034247819	\ delta \ dot \
+0.1033986190	the source region
+0.1031822492	used to derive
+0.1030164006	$ _2 ^ +
+0.1029924580	contributing to
+0.1029686998	$ t_ \ parallel
+0.1029326491	the active region
+0.1028759354	the simulation results
+0.1028573436	to forecast
+0.1026846558	act as
+0.1026334398	as high as
+0.1026214527	described by
+0.1026042423	a few
+0.1025870792	plane magnetic field
+0.1024977808	the temperature of
+0.1024977808	the velocity of
+0.1024740105	constraint on
+0.1023964915	the solar terrestrial relations
+0.1023880904	$ \ epsilon_
+0.1021871844	10 ^ 1
+0.1021848892	$ \ theta_
+0.1019992160	$ ^ 2
+0.1018211884	consists of
+0.1016471253	needed to
+0.1016344835	a tool
+0.1015137408	$ t_
+0.1014654100	different phases
+0.1014429983	appears to
+0.1014343717	the effect
+0.1012260485	the sunspot number
+0.1010649687	background solar
+0.1010326625	the reconnection electric field
+0.1009241048	relatively high
+0.1009049498	to vary
+0.1008388876	m_ \
+0.1006851954	the development
+0.1005079716	the coronal hole
+0.1002780777	the total energy
+0.1002606571	influence on
+0.1002602904	at energies
+0.1002465055	a solar sail
+0.1001356592	the last few
+0.1001273094	the observed
+0.1000727005	the electromagnetic fields
+0.1000567171	e_ \
+0.0999332338	this end
+0.0999160135	$ j_2
+0.0999095511	the first order
+0.0999008489	together with
+0.0998806256	up to
+0.0998448693	formed by
+0.0997776283	a particle in cell
+0.0997679025	created by
+0.0997443176	+ 10
+0.0997145108	aspects of
+0.0995356029	^ 0
+0.0995137228	the plasma beta
+0.0995031220	observed in
+0.0994916807	agreement between
+0.0992815515	electron only
+0.0992519499	a new approach
+0.0992118562	each event
+0.0991975446	also discussed
+0.0990887956	\ bf b
+0.0990660490	possible explanation
+0.0989870635	^ 8
+0.0989333388	the termination shock
+0.0988868650	followed by
+0.0988670045	\ mathrm p
+0.0985638193	the perpendicular direction
+0.0985306478	defined as
+0.0984828051	$ component
+0.0984663098	a dynamical
+0.0982905613	results from
+0.0982865022	more general
+0.0981886958	the standard model
+0.0981761134	\ times
+0.0981212339	to simulate
+0.0980853944	the ambient plasma
+0.0980325097	the heat flux
+0.0979791813	the low energy
+0.0978792871	experienced by
+0.0978493411	to confirm
+0.0977804586	contribution to
+0.0975183281	a wide range of
+0.0974735814	wind turbulence at
+0.0971248627	come from
+0.0971143738	the reconnection region
+0.0971101999	the formation
+0.0970895454	magnetic field with
+0.0969493719	the diffusion coefficient
+0.0968286979	these events
+0.0967703104	the growth rate
+0.0967629722	the radio emission
+0.0967626122	a localized
+0.0967575990	using data
+0.0967142572	the first time
+0.0967071711	information on
+0.0964919589	~ 10 ^
+0.0964902548	three cases
+0.0963818880	$ \ tau
+0.0963494252	the same
+0.0963082537	using in situ
+0.0961737384	two stream
+0.0961624454	the existing
+0.0961539731	limits on
+0.0960225457	1 tev
+0.0957205525	the origin
+0.0956862156	these features
+0.0956613887	a key role in
+0.0955955129	the common
+0.0954839571	the heliosphere
+0.0954834176	the flux tube
+0.0953281989	a collisionless
+0.0952674556	the dispersion relation
+0.0951184265	dependent on
+0.0950281541	the physical mechanisms
+0.0949713110	the moon
+0.0949174151	field strength in
+0.0948499752	this issue
+0.0948157018	equal to
+0.0947449476	used to estimate
+0.0946446572	the recovery phase
+0.0946021218	better understanding
+0.0945586055	$ b_
+0.0944640686	but not
+0.0943301261	deal with
+0.0942532002	a detailed analysis
+0.0942321069	the order of
+0.0939982075	the solar
+0.0939759029	covered by
+0.0938803029	the self consistent
+0.0937963695	report on
+0.0937623080	$ ^ 3
+0.0937577885	to detect
+0.0936894160	concept for
+0.0936853200	bounds on
+0.0935628313	in space
+0.0934051129	the magnetic structure
+0.0932576197	an energy
+0.0931581671	carried by
+0.0931353028	accordance with
+0.0930640448	the sample
+0.0930437702	to predict
+0.0929121213	contributes to
+0.0928162275	the mean anomaly
+0.0927442509	1 mev
+0.0926440789	\ neq
+0.0926037469	3 \ times
+0.0925489190	mean anomaly
+0.0924389088	the electron velocity
+0.0923414121	an accurate
+0.0923114330	to follow
+0.0922595101	in three dimensions
+0.0922316724	$ k_
+0.0922284571	a circular
+0.0921642208	a large
+0.0920578130	z ^
+0.0916585814	the orbital
+0.0916068693	a dominant
+0.0914803844	connected with
+0.0914259764	most extreme
+0.0913672687	the existence
+0.0912756697	of alpha particles
+0.0912473644	the plasma pressure
+0.0911404855	the total
+0.0910464321	the separatrix
+0.0910300725	a long
+0.0910189171	the evolution
+0.0909603953	understanding of
+0.0908604551	much more
+0.0908489651	an arbitrary
+0.0907018452	resulted in
+0.0906365764	to quantify
+0.0906348760	two point
+0.0905980225	agree with
+0.0905740266	a flare
+0.0905216687	an excellent
+0.0902815462	the plasma
+0.0901234772	a solar cycle
+0.0900780073	two component
+0.0900360128	+ 1
+0.0899676682	the electron beam
+0.0898236993	kinds of
+0.0897427623	the interplanetary medium
+0.0897008863	the current layer
+0.0896070338	studied using
+0.0895767289	confirmation of
+0.0895446572	to calculate
+0.0894942438	excited by
+0.0893035466	of type ii
+0.0892649842	resulting from
+0.0891879972	field regions
+0.0891546346	\ delta v
+0.0890559270	~ \
+0.0890495735	\ mu m
+0.0889948843	characteristics of
+0.0888684265	comparison with
+0.0887186745	this approach
+0.0886799802	the near earth
+0.0886796628	originate from
+0.0886567953	different types of
+0.0885880944	investigated using
+0.0885043345	linked to
+0.0883588972	different energy
+0.0882780126	by means
+0.0882582553	constrained by
+0.0881567646	to discuss
+0.0881049894	in agreement
+0.0880167971	the halo
+0.0879454851	a solar flare
+0.0879378836	exposure to
+0.0878145277	first direct
+0.0877530734	the magnetospheric
+0.0876354949	two decades
+0.0875623201	perpendicular to
+0.0874172855	point to
+0.0873774183	+ 2
+0.0873047114	at sub ion
+0.0871803485	occurred during
+0.0870860573	^ 6
+0.0870270900	c ratio
+0.0870154827	a survey
+0.0869527240	found to
+0.0869113604	the hot plasma
+0.0868530613	observed at
+0.0867764621	three types
+0.0866767903	the low solar
+0.0865621276	a better understanding of
+0.0864077066	description of
+0.0863910071	the impact
+0.0863729818	the near sun
+0.0861833830	the solar wind dynamic
+0.0861657835	the inner corona
+0.0860879485	the initial conditions
+0.0860619402	initiated by
+0.0859918105	the driver
+0.0859811343	the parameter space
+0.0859547248	$ 10
+0.0857989470	the intermittent
+0.0856903206	captured by
+0.0855685198	the electron cyclotron
+0.0855455528	well correlated with
+0.0854897401	the fast
+0.0853349717	in presence
+0.0852602987	the turbulent energy
+0.0852401090	= 8
+0.0852291075	the same order
+0.0851866369	in contrast
+0.0851291257	10 11
+0.0850683988	the ribbon
+0.0850187236	$ \ mathit
+0.0850121244	$ \ lesssim
+0.0849924611	the case
+0.0849247167	a semi
+0.0847792532	acceleration during
+0.0847455399	2 hours
+0.0845967684	the energy cascade
+0.0844115160	the upstream
+0.0843199383	parameters such as
+0.0842871679	this model
+0.0841660491	good agreement with
+0.0840685237	these observations
+0.0840019480	obtained using
+0.0839621998	\ ge
+0.0839528077	to decrease
+0.0839331621	prior to
+0.0839188229	a close
+0.0839001259	\ textrm x
+0.0838582902	$ \ omega_
+0.0837455399	more intense
+0.0837348650	per year
+0.0835645389	the earth
+0.0833773345	the transition region
+0.0833516638	the equivalent
+0.0832092667	very important
+0.0831935743	$ l_ \
+0.0830575679	proximity to
+0.0830311279	the entire
+0.0830258611	a recent
+0.0829088963	recorded by
+0.0828187336	measurements of
+0.0826990351	difficult to
+0.0826853239	the electron temperature
+0.0825301846	all cases
+0.0824755522	more important
+0.0824339739	the magnetic
+0.0824162186	2 \ times 10
+0.0823543103	a set
+0.0822875922	observations made
+0.0822822597	filled with
+0.0822706275	one way
+0.0820935272	f ^
+0.0816874726	the interstellar
+0.0816688193	determination of
+0.0816358376	deviation from
+0.0816217389	the experimental data
+0.0815658603	the interaction
+0.0814305526	the magnetic pressure
+0.0813953335	the lunar
+0.0813898702	3d simulations
+0.0813771293	opportunity to
+0.0813519502	escape from
+0.0813491009	to occur
+0.0813236485	the ratio
+0.0813036368	the geomagnetic storm
+0.0813017521	bounded by
+0.0812655601	the solar radiation
+0.0812434151	an exact
+0.0811852588	a quantum
+0.0810881253	an analytical
+0.0810303838	agrees with
+0.0809192183	the electron
+0.0809160637	p ^
+0.0809064392	collisions between
+0.0808253555	$ 1
+0.0807479516	model for
+0.0807171040	observed near
+0.0806804778	b |
+0.0805710694	a comprehensive
+0.0804092266	result from
+0.0803498288	contrary to
+0.0803083465	various types of
+0.0802421951	\ \ textrm
+0.0801966074	$ 20
+0.0801058954	an effective
+0.0798819256	the plasma flow
+0.0798567594	the interplanetary
+0.0798317275	interacting with
+0.0797385002	the heliospheric
+0.0797268606	d ^
+0.0796320007	also present
+0.0795660558	\ rm d
+0.0795079374	made in
+0.0794635673	with respect
+0.0793815224	composed of
+0.0793314800	an expression
+0.0791847560	the sub ion
+0.0791257365	arises from
+0.0791137496	to assess
+0.0790959764	about 30
+0.0790051263	the line of sight
+0.0786627389	the shock
+0.0785388932	a hot
+0.0785368971	both cases
+0.0785031755	$ 10 ^ 4
+0.0784092261	as well
+0.0783818347	a galactic
+0.0783498288	connected to
+0.0781979753	a new
+0.0781805690	the surface
+0.0781400657	from mhd to
+0.0780935919	different regimes
+0.0780431084	z =
+0.0780390904	number of
+0.0780037089	and ams 2
+0.0779151944	the proton temperature
+0.0777746914	the high speed
+0.0777586437	use data
+0.0777258590	the temperature anisotropy
+0.0777160500	r ^
+0.0776623204	the quasilinear
+0.0776579591	an analysis
+0.0776264721	the wave particle
+0.0776110867	1 f
+0.0775773744	= 3
+0.0775742176	this phenomenon
+0.0775541793	s 1
+0.0774839949	such systems
+0.0773864921	in fact
+0.0772463086	$ \ hat
+0.0771087367	to heat
+0.0770975395	to produce
+0.0770575179	this method
+0.0770326267	the time period
+0.0770245392	the ensemble
+0.0768574735	different initial
+0.0768289231	than previously
+0.0768110932	in conjunction with
+0.0767555883	like fluctuations
+0.0766409012	dominance of
+0.0766329382	between 0.3
+0.0766268658	near future
+0.0766093617	the time series
+0.0765670747	an analytic
+0.0765097675	to provide
+0.0764837006	electrons into
+0.0764503473	into heat
+0.0763964867	during periods
+0.0763220620	such events
+0.0762632295	below ~
+0.0762611686	the combination
+0.0761715920	part of
+0.0761407575	nature of
+0.0760930185	an approximate
+0.0760317334	component of
+0.0759612854	a phenomenological
+0.0758823633	the plasma density
+0.0758781494	the radial dependence
+0.0758071303	thousands of
+0.0757746914	the high frequency
+0.0756845173	calculated using
+0.0756158266	but also
+0.0756152764	a small
+0.0755538300	very high
+0.0755477048	the diffusion region
+0.0755269529	the absence
+0.0754307189	the x line
+0.0753924396	10 september
+0.0753320126	the plane perpendicular
+0.0752231086	the current density
+0.0751568881	a vacuum
+0.0750537341	to propagate
+0.0750052999	at 1au
+0.0750041375	paper provides
+0.0749682521	k ^
+0.0748731357	the object
+0.0748659768	ejected from
+0.0748634020	10 years
+0.0748504911	an important role in
+0.0748459308	to reduce
+0.0748140287	a spherical
+0.0747799783	the physical
+0.0747619153	angle between
+0.0746830985	\ aa \
+0.0746539075	this event
+0.0745883477	the dayside
+0.0743645586	the fast wind
+0.0741549957	boundary between
+0.0740995842	these effects
+0.0740906344	the magnetic cloud
+0.0740077102	expected to
+0.0739905816	the end
+0.0739545803	heating during
+0.0739489120	the fact
+0.0738096915	$ 2
+0.0737578723	two way
+0.0737417445	measurements made
+0.0737371052	the electron inertial
+0.0737000761	the local magnetic
+0.0736987885	to track
+0.0736980056	different methods
+0.0736599272	taking into
+0.0735848992	a detailed
+0.0735793507	response to
+0.0735265320	the classical
+0.0734376106	corresponding to
+0.0734201905	the time dependent
+0.0733655809	3 10
+0.0732981092	the solar modulation
+0.0732860490	a pair of
+0.0732160706	a special
+0.0732079288	the average
+0.0730526945	the primary
+0.0730317334	values of
+0.0729721558	consist of
+0.0729710444	these processes
+0.0728984692	the outer
+0.0727498563	the slow solar
+0.0726975726	two types of
+0.0726874127	region during
+0.0724827444	field of view of
+0.0724399120	the energy spectrum
+0.0723894210	a wide
+0.0721659502	$ au
+0.0721067245	these quantities
+0.0720991905	the usual
+0.0720932629	the galaxy
+0.0720757913	different locations
+0.0720417259	a self consistent
+0.0720376912	to create
+0.0720027859	the general
+0.0718586015	the non linear
+0.0718440621	modulated by
+0.0718007790	well below
+0.0717967976	a density
+0.0717908267	the magnetopause
+0.0715335062	10 au
+0.0715096851	an essential
+0.0714399356	evaluation of
+0.0712468728	the heliopause
+0.0710293525	examination of
+0.0710127235	a time dependent
+0.0709278716	two orders
+0.0709107107	the turbulent fluctuations
+0.0707980688	in spite of
+0.0707410363	$ k_ \ parallel
+0.0707183378	to capture
+0.0707125749	\ perp ^
+0.0706939510	first study
+0.0706779748	$ m_
+0.0706504682	the framework
+0.0704528410	the heliosheath
+0.0704527991	local mean
+0.0703751882	1 kev
+0.0703567437	the solar maximum
+0.0703218335	the spectral
+0.0702935190	other astrophysical
+0.0702675221	in phase space
+0.0702189695	inner planets
+0.0701886537	a result
+0.0701881549	the fine structure
+0.0701420350	a function of
+0.0700040502	a gravitational
+0.0699932566	to address
+0.0699603801	the magnetic energy
+0.0699313810	the european
+0.0699121861	independent of
+0.0698404284	the growth rates
+0.0698149937	equations for
+0.0698025957	the energy range
+0.0697853592	the drag based
+0.0697198765	a pair
+0.0697046628	the particle distribution
+0.0696789534	the universe
+0.0696593473	t_ \
+0.0695924032	arise from
+0.0695910756	the selected
+0.0695368971	two components
+0.0695065566	the orbital motion
+0.0694064395	$ 3
+0.0693455072	the possibility
+0.0692504049	the background
+0.0692350645	the power spectral
+0.0692046366	the \ emph
+0.0691469660	the turbulent
+0.0690491243	collected by
+0.0690319577	the vicinity
+0.0690297101	= 5
+0.0689911233	$ \ textit
+0.0689727320	mechanism for
+0.0689380800	the validity
+0.0689059542	10 kev
+0.0688722436	a consistent
+0.0688720837	a major
+0.0688326144	the speed of light
+0.0688235563	occur during
+0.0687569285	~ s
+0.0686280179	to match
+0.0685716905	the current state
+0.0684802191	these models
+0.0683539637	the dominant
+0.0682841344	expressions for
+0.0682762071	$ | \ delta
+0.0682171267	the ambient
+0.0682009565	the present
+0.0681420350	the presence of
+0.0680674753	different models
+0.0680378203	all scales
+0.0680034071	than expected
+0.0678531395	hierarchy of
+0.0678317334	distribution of
+0.0677637865	observed during
+0.0677588389	hundreds of
+0.0677239038	very local
+0.0676476336	$ ~
+0.0675209564	the main phase
+0.0673889650	the background solar
+0.0673871505	the past
+0.0673496783	version of
+0.0672862633	$ \ mathrm
+0.0671723352	combination of
+0.0670145778	types of
+0.0670115375	the ion
+0.0668491164	beta =
+0.0668028261	often observed
+0.0667651791	the literature
+0.0667404941	the interplanetary magnetic
+0.0666430088	the energetic particle
+0.0666313330	^ 11
+0.0665071962	differ from
+0.0664727392	$ ^ o
+0.0663218335	the source
+0.0662696039	the relation between
+0.0661961273	seems to
+0.0661897716	the galactic center
+0.0661401041	the occurrence
+0.0661154483	the vortex
+0.0659439413	a linear
+0.0659230002	the third body
+0.0658593935	two cmes
+0.0658121162	new results
+0.0658021598	various types
+0.0657879650	the role
+0.0656999955	the upper
+0.0656601401	$ kev
+0.0656061045	$ \ rm
+0.0655673112	these phenomena
+0.0655461809	performed using
+0.0655235109	deg s
+0.0654977760	$ q_ \
+0.0654606162	$ \ leq
+0.0652594942	an optimal
+0.0652555292	to perform
+0.0652187507	stereo a and
+0.0651251694	one or more
+0.0650930191	a clear
+0.0650733197	the binary
+0.0650403292	\ rm p
+0.0648175251	$ 4
+0.0647463527	region between
+0.0647226397	the gravitational field
+0.0645653525	energy into
+0.0644745483	a weak
+0.0644445622	an electron
+0.0644181406	to avoid
+0.0643987662	set of
+0.0643637729	then compared
+0.0641841458	suited for
+0.0639654800	an example
+0.0639525504	to consider
+0.0639239880	this analysis
+0.0639081155	$ \ langle
+0.0638083605	these instabilities
+0.0635607029	different sources
+0.0635432272	ionosphere system
+0.0635101839	an optical
+0.0635068700	the northern and southern
+0.0634887530	role in
+0.0634555895	used as
+0.0634352710	the space environment
+0.0633849983	the local
+0.0633589324	a test
+0.0632204047	a total
+0.0631656482	the reconnection electric
+0.0631382757	in combination with
+0.0631379336	$ \ times
+0.0631121761	the \ textit
+0.0630407297	the european space
+0.0629168805	the assumption
+0.0628549905	confirmed by
+0.0628401790	turbulence at
+0.0628075875	parallel to
+0.0627999513	acceleration due
+0.0627912522	a statistical
+0.0625766976	to gain
+0.0625352368	the plasmoid
+0.0625310887	important for
+0.0623371268	an exponential
+0.0622735854	the initial
+0.0621753797	a first order
+0.0621718343	ahead of
+0.0621274831	employed to
+0.0621246649	the slow wind
+0.0621045387	an enhancement
+0.0621023099	an intense
+0.0619757912	an application
+0.0619730851	to characterize
+0.0618598082	ropes with
+0.0618434774	the inner planets
+0.0618120400	the global
+0.0617779905	to reach
+0.0617478181	different values
+0.0616385367	suitable for
+0.0615838110	this case
+0.0614555852	known as
+0.0614411055	in accordance
+0.0613082175	solar cycles 23 and
+0.0612864721	this problem
+0.0612239026	a power
+0.0612093472	a proxy
+0.0611206931	like stars
+0.0610511210	a general
+0.0609832564	derivation of
+0.0609749998	observations show
+0.0609604557	relevant to
+0.0609193236	a fast
+0.0608851334	to explore
+0.0608617344	an interplanetary
+0.0608283137	apart from
+0.0607220833	exposed to
+0.0605952316	= 2
+0.0605867549	time evolution
+0.0605588305	a series of
+0.0605246693	assumed to
+0.0605246176	a global
+0.0604850206	a distinct
+0.0604255541	also shown
+0.0604046969	an order
+0.0603012754	an overview
+0.0602953822	the martian
+0.0602654738	$ v_a
+0.0602589665	of sight
+0.0601596276	an event
+0.0601450440	measured with
+0.0600262390	to demonstrate
+0.0599730851	to evaluate
+0.0599729019	presented by
+0.0599579888	to establish
+0.0599540866	very well
+0.0599387604	to derive
+0.0599117164	of freedom
+0.0598810418	two populations
+0.0598548467	same order
+0.0598271431	$ 90
+0.0597443294	$ s ^ 1
+0.0596650061	or not
+0.0595680223	an increase
+0.0595589701	available data
+0.0595149407	in depth
+0.0595092868	in particular
+0.0594924049	an upper
+0.0594553678	the temporal evolution
+0.0594073288	present work
+0.0593785883	valid for
+0.0593201075	a similar
+0.0592924144	the out of plane
+0.0592882827	$ a_
+0.0592704727	an external
+0.0592491346	$ h
+0.0592329416	the well known
+0.0592021665	the solar wind at 1 au
+0.0591890302	an inhomogeneous
+0.0591809060	about 10
+0.0590735593	= \
+0.0590556904	also presented
+0.0589503928	the f region
+0.0589431382	the effects of solar
+0.0589334923	3 2
+0.0589299704	$ | \
+0.0589219162	the rapid
+0.0588755110	the electron distribution
+0.0588660735	to mitigate
+0.0588531467	identified as
+0.0587903834	the present day
+0.0587543739	reduction of
+0.0587067495	made to
+0.0586835684	two cases
+0.0586561421	a factor
+0.0586393409	the standard
+0.0586196960	emitted by
+0.0586162787	characterization of
+0.0585344784	the latter
+0.0583948891	approach to
+0.0583424054	an interesting
+0.0582989017	this instability
+0.0582882380	disappearance of
+0.0581596865	$ 60
+0.0581591099	observed between
+0.0581476006	the nightside
+0.0581327185	to enhance
+0.0580419181	the influence
+0.0580097384	time variation
+0.0578737378	mean magnetic
+0.0578256833	a unique
+0.0577165396	in space and astrophysical
+0.0576893213	an electric
+0.0576763622	this mechanism
+0.0575156060	\ approx 1
+0.0575130119	the relative
+0.0575127879	found at
+0.0574877536	$ 100
+0.0574751136	superposition of
+0.0574339949	seem to
+0.0574339164	1 d
+0.0573963096	an asteroid
+0.0573320112	the current
+0.0573221050	a comparative
+0.0572609489	an isotropic
+0.0572319803	manifestations of
+0.0572289703	the northern
+0.0571744000	this type
+0.0571613102	determinations of
+0.0571609489	an efficient
+0.0571207441	added to
+0.0571179934	performed to
+0.0571078672	range between
+0.0569924698	the mean magnetic field
+0.0569898395	\ delta b
+0.0566561963	the near future
+0.0565597770	launched on
+0.0565261701	different types
+0.0564906830	the temporal variations
+0.0564808369	design for
+0.0564634275	in turn
+0.0563441825	these objects
+0.0563385009	extension of
+0.0562002141	$ ^ +
+0.0561123699	this kind
+0.0560689926	a limited
+0.0560021386	the magnetosphere
+0.0558663702	a factor of
+0.0557931656	an ensemble
+0.0556928220	quantification of
+0.0556746784	developed to
+0.0556159463	a smooth
+0.0555733716	a steady
+0.0555539894	led to
+0.0554710431	a direct
+0.0554138248	$ ^
+0.0553902191	the central
+0.0553832318	a constant
+0.0552640240	satellite to
+0.0552069808	spacecraft during
+0.0551988255	a maximum
+0.0551660164	a slight
+0.0551377998	$ 0
+0.0551198601	the galactic cosmic
+0.0551049494	this review
+0.0550930775	a crucial role in
+0.0550727304	the inner magnetosphere
+0.0549937804	modification of
+0.0549641697	an active
+0.0549063816	the ecliptic
+0.0548352768	as soon
+0.0548158617	comes from
+0.0548142936	a variety
+0.0548024290	to maintain
+0.0546729061	the equations of motion
+0.0545538285	distinct from
+0.0545214862	emission from
+0.0544961657	analogous to
+0.0544479077	order of
+0.0544365969	$ _2 ^
+0.0544315206	found by
+0.0544130194	plasma into
+0.0543296234	nuc to
+0.0543170580	adapted to
+0.0542989260	^ 13
+0.0542502788	a consequence
+0.0542300992	= 10 ^
+0.0541154876	a fundamental
+0.0540727189	arrival time of
+0.0540310297	the international space
+0.0538888118	to accelerate
+0.0538806715	$ 5
+0.0538326359	subject of
+0.0538038080	existence of
+0.0538013922	the maximum
+0.0537837164	tends to
+0.0537495342	a complex
+0.0537411154	an enhanced
+0.0537392086	the presence
+0.0537021457	as input
+0.0536286835	differences in
+0.0534797596	the turbulent magnetic
+0.0534677788	a 3d
+0.0534432032	edge of
+0.0534419013	this finding
+0.0533736625	\ textrm s
+0.0532695105	measured at
+0.0532232373	the first encounter
+0.0531746837	to reconstruct
+0.0531547492	contribution from
+0.0530902011	$ e ^
+0.0530056876	contrast with
+0.0529945373	a broad
+0.0529711372	to achieve
+0.0528969920	$ \ gtrsim
+0.0528922790	the relationship between
+0.0528912189	to test
+0.0528115569	effects of
+0.0528013922	the radial
+0.0526779960	variations in
+0.0526447395	at comet
+0.0526024769	limit on
+0.0525555516	an ideal
+0.0525230224	to fit
+0.0524307279	this regime
+0.0523093155	the photosphere
+0.0522401626	factor of
+0.0521919881	the heliospheric magnetic
+0.0521374908	reduction in
+0.0521166718	the inner heliosheath
+0.0521015276	the interplay
+0.0520566435	the eccentricity
+0.0519525457	a constellation
+0.0518730415	look at
+0.0517337330	to analyze
+0.0515957891	\ right |
+0.0515825729	the aforementioned
+0.0514775760	explanation for
+0.0514640168	2 \ times
+0.0514250947	this conclusion
+0.0513831244	use in
+0.0513829848	the nonlinear evolution
+0.0513776996	tool for
+0.0513410518	$ 30
+0.0512639014	an open
+0.0512599358	$ \ sim 10
+0.0512376573	to infer
+0.0512256254	revealed by
+0.0511958424	very close to
+0.0511734374	$ hz
+0.0510902011	2 \ times 10 ^
+0.0509611655	combination with
+0.0508982619	regardless of
+0.0507964858	$ nt
+0.0507718965	a high
+0.0507620787	more likely
+0.0506863948	x 10
+0.0505849244	an anomalous
+0.0504647017	$ b_0
+0.0503980723	outcome of
+0.0503724714	ratio between
+0.0503228682	a prolonged
+0.0502963071	formula for
+0.0502464240	access to
+0.0502282046	decreases with
+0.0500629360	a finite
+0.0499358881	equivalent to
+0.0498668415	availability of
+0.0498525461	the pitch
+0.0498310919	advantage of
+0.0498048357	an anisotropic
+0.0498036941	a rapid
+0.0496463160	a key
+0.0496428054	using data from
+0.0496341607	expected from
+0.0496191250	electrons at
+0.0495806678	occurring at
+0.0494603980	to verify
+0.0494591334	an inertial
+0.0494126789	v =
+0.0494008374	a narrow
+0.0493937179	$ 2.5
+0.0493887819	modeled as
+0.0493607381	an artificial
+0.0492873374	appears as
+0.0492471431	$ 40
+0.0492387411	a suitable
+0.0492244046	imposed by
+0.0491456155	^ 10
+0.0491361357	primarily by
+0.0490031272	analyzed in
+0.0490005449	indication of
+0.0489822051	referred to
+0.0489601158	a common
+0.0488390537	a sharp
+0.0487480751	function of time
+0.0486321184	$ dst
+0.0485937356	$ | \ delta \
+0.0485728989	simulations of
+0.0485268221	a huge
+0.0485244801	to validate
+0.0484842940	grains in
+0.0484717747	sequence of
+0.0484694405	| \ delta \
+0.0484286276	to overcome
+0.0483256218	a critical
+0.0483023685	the nose
+0.0482778981	at altitudes
+0.0482767270	continue to
+0.0482549801	a typical
+0.0482516408	increases with
+0.0482410009	structure of
+0.0482190925	classes of
+0.0482187239	measurements at
+0.0481893702	a large number of
+0.0481662243	a combination
+0.0480696914	the frozen in
+0.0480055144	the abundance of
+0.0480027798	both types
+0.0479987650	$ 12
+0.0479492735	$ 70
+0.0478736779	far from
+0.0478243153	a generic
+0.0478201250	absence of
+0.0478090425	passage of
+0.0478050903	universality of
+0.0478012172	use data from
+0.0477651480	the same time
+0.0476490373	picture of
+0.0476177610	investigated by
+0.0474743412	the original
+0.0474402339	takes into
+0.0474195123	the beginning
+0.0473319768	features of
+0.0473099602	kind of
+0.0472124942	the solar wind at
+0.0472086816	proxies for
+0.0471979751	two stereo
+0.0471121969	fraction of
+0.0470991238	majority of
+0.0470846872	$ \ mathbf b
+0.0470580416	the coronal magnetic
+0.0470408485	$ yr
+0.0470324566	as seen by
+0.0469506386	taken into
+0.0468086950	manifestation of
+0.0467747030	interplay of
+0.0466776761	a modified
+0.0466763013	as expected
+0.0466678488	a moderate
+0.0466170598	to develop
+0.0466099078	to resolve
+0.0465552793	$ s
+0.0465529970	\ mathrm e
+0.0465510501	\ delta t
+0.0465167804	center of
+0.0464740195	a new model
+0.0463660445	to generate
+0.0463438100	to interpret
+0.0463341453	the mesosphere
+0.0462503373	on climate
+0.0462258493	range of
+0.0462048357	an estimate
+0.0461716344	more than one
+0.0461666006	spacecraft at
+0.0461424553	the vast
+0.0460634842	ability to
+0.0460548303	a powerful
+0.0459149164	the flyby
+0.0458801484	distance from
+0.0458284125	involved in
+0.0458210253	a homogeneous
+0.0456810612	$ level
+0.0456625596	the case of
+0.0455359228	estimation of
+0.0454578195	effect of
+0.0454546720	the idea
+0.0454447769	$ r =
+0.0454400744	the satellite's
+0.0453866649	$ k_ \
+0.0453733080	violation of
+0.0453595982	a better understanding
+0.0453459410	aligned with
+0.0453241662	similar in
+0.0453130920	experiment on
+0.0452853003	an extreme
+0.0452808848	a thorough
+0.0452386869	to reproduce
+0.0451551601	| =
+0.0451373842	a remarkable
+0.0451186374	spectrum at
+0.0451026852	to extract
+0.0450937732	to form
+0.0450807256	percentage of
+0.0450093385	to construct
+0.0450024619	acceleration due to
+0.0449288920	$ 0.1
+0.0448476366	the solar wind at 1
+0.0448291918	activity during
+0.0448173748	a static
+0.0447936641	this scenario
+0.0447667915	a continuous
+0.0447390349	a complete
+0.0445449507	a preliminary
+0.0444847332	the majority
+0.0444644939	distributed in
+0.0444387507	variation of
+0.0444348450	interpretation of
+0.0442480995	the first
+0.0442440980	resulting in
+0.0442018690	the ion to
+0.0441963241	turbulence in
+0.0441835883	few tens of
+0.0441674553	the planet's
+0.0441298217	interpreted in
+0.0441056216	proposed as
+0.0440941275	$ \ delta b
+0.0440826578	model of
+0.0440417305	to solve
+0.0440110865	mhd to
+0.0439899959	increase with
+0.0439660157	deformation of
+0.0439531615	consequences for
+0.0439080186	rate of
+0.0438971266	$ \ dot \
+0.0438847149	a reference
+0.0438289115	in situ measurements of
+0.0437482497	the random
+0.0437226387	the multipolar
+0.0437066626	uncertainty of
+0.0436838553	a dedicated
+0.0436404525	a sequence
+0.0436336255	role of
+0.0436301011	to compute
+0.0436204479	for example
+0.0436012368	$ g
+0.0433547214	this report
+0.0433463664	m s ^
+0.0431900254	in accordance with
+0.0431808560	the final
+0.0431170832	the sum
+0.0430806050	model allows
+0.0429783754	time variation of
+0.0429760228	exchange between
+0.0429605130	fluctuations in
+0.0429525677	a variety of
+0.0428920987	a super
+0.0428703596	a fraction
+0.0428634515	an altitude
+0.0427855054	only to
+0.0427235924	identified by
+0.0427044402	time series of
+0.0426774408	longitude of
+0.0426402951	lies in
+0.0425961850	very close
+0.0425488499	a significant role in
+0.0425241477	the ability of
+0.0424436674	two different
+0.0424153101	signatures of
+0.0423944493	h =
+0.0423813446	proximity of
+0.0423269252	the acceleration of electrons
+0.0422805874	the purpose
+0.0422131428	models for
+0.0421836706	instrument on
+0.0421625481	required for
+0.0420392769	fluxes at
+0.0419819795	in contrast to
+0.0419690401	made with
+0.0418926802	the inner solar
+0.0418858091	the eastern
+0.0418739598	proxy for
+0.0418736841	the inner and outer
+0.0418096442	3 \
+0.0417611382	the fast solar
+0.0417206587	alternative to
+0.0416867950	contributed to
+0.0416402951	aimed to
+0.0416232157	acceleration at
+0.0416101435	the context of
+0.0416066074	a substantial
+0.0415816247	excitation of
+0.0415323966	a realistic
+0.0415114668	need to
+0.0414996740	correlation with
+0.0414977687	introduced by
+0.0414968433	estimated by
+0.0414356603	an appropriate
+0.0413592419	e \
+0.0413425340	the mean field
+0.0413127691	an inverse
+0.0412991658	this technique
+0.0412879033	obtained with
+0.0412844518	limited by
+0.0412485466	to constrain
+0.0412010708	this type of
+0.0411806927	the actual
+0.0411609937	mass to
+0.0411149396	defined by
+0.0410929275	values for
+0.0410421239	goals of
+0.0410347818	useful for
+0.0410088153	in situ measurements from
+0.0409827608	institute of
+0.0408852382	t ^
+0.0408465473	study of
+0.0407611528	the subsolar
+0.0407353329	the effect of
+0.0407218523	nodes of
+0.0406751648	a robust
+0.0406718918	action of
+0.0406699698	the ability
+0.0406482712	state of
+0.0406321745	at frequencies
+0.0406307085	reconnection at
+0.0406244862	dynamics of
+0.0404974415	\ delta e
+0.0404821993	inclusion of
+0.0404496055	8 \
+0.0404441162	to include
+0.0404282024	the cumulative
+0.0404253418	both types of
+0.0403757988	reason for
+0.0403598805	amplitude in
+0.0402684273	concept of
+0.0402381541	to account
+0.0400033685	a reasonable
+0.0399465696	period from
+0.0399359135	the new model
+0.0399188387	much of
+0.0399170980	character of
+0.0399073279	the order of 10
+0.0398114128	impacts on
+0.0397786564	better understanding of
+0.0397365232	^ 1 \
+0.0397247296	$ k_ \ perp ^
+0.0396416355	generalization of
+0.0396402000	determined from
+0.0396356731	down to
+0.0395978341	50 \
+0.0395599488	knowledge of
+0.0393942332	a broad range of
+0.0393775746	exchange with
+0.0393569839	the respective
+0.0393563548	a crucial
+0.0392568550	edges of
+0.0391625908	heated by
+0.0391216024	durations of
+0.0390462454	t =
+0.0389846617	a natural
+0.0389525677	a combination of
+0.0389023408	a reliable
+0.0387353329	the formation of
+0.0387170980	indicative of
+0.0386682027	requirements for
+0.0386202752	evidence of
+0.0386145375	candidates for
+0.0385616294	a guide
+0.0385522329	at sub
+0.0385329284	used for
+0.0385192344	the basis of
+0.0385118426	to build
+0.0383928705	observed with
+0.0383765366	identification of
+0.0383721855	out of
+0.0382866893	fluctuations at
+0.0382771733	computation of
+0.0382182840	equation for
+0.0382034822	a mixture of
+0.0381202752	tests of
+0.0380911019	spectra from
+0.0380819097	r =
+0.0380193665	suggested to
+0.0379841509	asymmetries in
+0.0379619116	a specific
+0.0379184039	$ d
+0.0378598783	the solar dynamics
+0.0378095257	range from
+0.0377985134	uncertainties in
+0.0377923400	during periods of
+0.0377175678	contained in
+0.0376907543	basis of
+0.0376471444	the principle of
+0.0376332213	14 \
+0.0375645375	designed for
+0.0375563548	to exist
+0.0375416434	proposed to
+0.0374634902	in association with
+0.0373401871	or less
+0.0372848897	expression for
+0.0371578776	applicability of
+0.0371363514	approximation for
+0.0371194132	indicator of
+0.0371194132	implication of
+0.0370644160	the current state of
+0.0370558722	aim of
+0.0370434768	a number of
+0.0369943882	in situ observations of
+0.0369819795	in addition to
+0.0368554506	three different
+0.0367831047	embedded in
+0.0367801408	orders of
+0.0367474200	to move
+0.0367443324	d \
+0.0366958498	a series
+0.0365501210	becomes more
+0.0364713854	computed from
+0.0364680248	this kind of
+0.0364654631	crucial for
+0.0363976747	to examine
+0.0363778790	to support
+0.0363154468	c ^
+0.0363137998	a brief
+0.0363106375	w m
+0.0362955515	ensemble of
+0.0362841317	family of
+0.0362065183	algorithm for
+0.0361994145	$ \ omega_ \
+0.0361755477	a great
+0.0361551704	the shock front
+0.0360968387	acceleration by
+0.0360786195	indicated by
+0.0360780054	an overview of
+0.0360645375	distortion of
+0.0360472396	not well
+0.0360277717	required to
+0.0359919438	the beginning of
+0.0359341325	likely to
+0.0359062015	framework of
+0.0359012368	$ w
+0.0358984182	appear to
+0.0358851081	transition from
+0.0358362759	a sample
+0.0357467723	^ \
+0.0357459242	achieved by
+0.0357356731	a novel
+0.0357180729	creation of
+0.0356812856	the enhancement of
+0.0356809528	comparisons with
+0.0356348208	b ^
+0.0356255382	a central
+0.0356051983	consequence of
+0.0355681497	variance of
+0.0355357718	a systematic
+0.0355192344	the framework of
+0.0354958944	tested by
+0.0354925241	possibility to
+0.0354777632	of space time
+0.0354756486	dedicated to
+0.0354057325	a detailed analysis of
+0.0353775746	capability to
+0.0353585574	recorded at
+0.0352828488	to observe
+0.0352731129	needs to
+0.0352598699	parts of
+0.0352416434	spectra for
+0.0352114444	a gradual
+0.0351413803	take into
+0.0350815727	occurs at
+0.0350369598	light on
+0.0350334910	in agreement with
+0.0350120206	i =
+0.0349957747	method for
+0.0349895735	the very large
+0.0349828420	formation of
+0.0348623546	allowing for
+0.0348474293	a uniform
+0.0348443149	possibility of
+0.0348047894	end of
+0.0348015442	relevant for
+0.0347915936	conditions for
+0.0347534424	allow to
+0.0347526223	in detail
+0.0346761151	\ textrm p
+0.0346745881	m \
+0.0346703505	amplification of
+0.0346043662	to contribute
+0.0345980372	asymmetry in
+0.0344926373	application of
+0.0343682209	j \
+0.0342561421	a quantitative
+0.0342180694	proposed by
+0.0342018093	to describe
+0.0341636667	collisions with
+0.0340853517	obtained for
+0.0340110444	a set of
+0.0339725143	representation of
+0.0339368880	^ o
+0.0338636237	then used
+0.0338559266	perigee of
+0.0338229849	demonstration of
+0.0338009606	question of
+0.0337993800	look for
+0.0337401626	result of
+0.0337341638	a ^
+0.0336428975	located on
+0.0336380864	instability in
+0.0336106548	enhanced by
+0.0335901007	thickness of
+0.0335610015	unstable to
+0.0335503966	the connection between
+0.0335443576	a compact
+0.0335424654	fitted to
+0.0335230399	reconnection in
+0.0333878108	needed for
+0.0333808263	changes in
+0.0333700881	occur at
+0.0332316624	soon as
+0.0331314926	to play
+0.0330722934	considered to
+0.0330667288	as measured by
+0.0330030772	the magnetic field in
+0.0329340960	combinations of
+0.0329195156	view of
+0.0328645033	z \
+0.0328555693	generation of
+0.0328545430	validity of
+0.0327548191	relation to
+0.0327199425	to drive
+0.0326394563	the center of
+0.0326348208	m ^
+0.0326025677	the aim of
+0.0325911019	speed at
+0.0325622508	details of
+0.0324952689	mixture of
+0.0324820014	discussed in
+0.0324387034	$ f
+0.0323830732	b =
+0.0323390941	2 \
+0.0323165071	to take
+0.0322743267	predictions for
+0.0322719608	investigation of
+0.0321780597	event on
+0.0321011070	sense of
+0.0320933865	the last
+0.0320784805	significance of
+0.0320596157	the mean magnetic
+0.0320558465	\ textrm m
+0.0320524082	detected at
+0.0319674291	the inner solar system
+0.0319372530	amount of
+0.0319360625	$ =
+0.0318841510	waves in
+0.0318521719	comparable with
+0.0317659681	aim to
+0.0317650849	enough to
+0.0317503273	connection with
+0.0316381721	$ j
+0.0316016642	km from
+0.0315969336	\ sim 10 ^
+0.0315837697	lack of
+0.0315604032	degree of
+0.0314725496	varies with
+0.0314716895	attempts to
+0.0314642236	four different
+0.0314265344	\ alpha \
+0.0314065845	60 \
+0.0313414518	importance for
+0.0313141146	useful to
+0.0313094870	effectiveness of
+0.0312470184	calculated from
+0.0312028649	\ omega \
+0.0310300275	series of
+0.0310171031	vicinity of
+0.0310059769	product of
+0.0309209810	examples of
+0.0309008074	observation of
+0.0308652430	x =
+0.0308313556	to account for
+0.0308251325	reported by
+0.0308196847	generated at
+0.0308144160	the direction perpendicular to
+0.0308082994	also found
+0.0307780331	measured in
+0.0307591351	studied by
+0.0307308902	m =
+0.0307119497	advances in
+0.0307070699	appearance of
+0.0306850264	stability of
+0.0306731132	influence of
+0.0306471910	emergence of
+0.0306455783	some other
+0.0306229019	heliosphere from
+0.0305527187	one such
+0.0305019020	show here
+0.0304917942	or more
+0.0304640940	threshold for
+0.0304202229	magnitudes of
+0.0304146648	directly from
+0.0303874137	\ delta \
+0.0303817703	aims to
+0.0303591837	onset of
+0.0303057900	developed for
+0.0302028649	\ right \
+0.0301813975	\ dot \
+0.0301580186	phase of
+0.0301242691	variations of
+0.0301113193	addition to
+0.0300937471	suggested by
+0.0300674176	an overall
+0.0300074889	treatment of
+0.0299819795	a consequence of
+0.0299813340	operate in
+0.0299546840	an increase of
+0.0299259060	sides of
+0.0298895348	context of
+0.0298491825	an ensemble of
+0.0298442498	verification of
+0.0297454900	performance of
+0.0297142466	of electrons at
+0.0296778936	methods for
+0.0296683161	motion of
+0.0296645632	the state of
+0.0296475489	vary with
+0.0296246673	association with
+0.0296184296	developed by
+0.0295819698	essential for
+0.0294995778	the main phase of
+0.0294510816	seen in
+0.0294350018	proposed for
+0.0294330069	the solar wind with
+0.0293712562	k \
+0.0293621786	ring with
+0.0293338178	the role of
+0.0293093364	technique to
+0.0292952428	constructed for
+0.0292833056	rise to
+0.0292637709	$ \ delta \
+0.0292598788	expressed in
+0.0291424354	uncertainty in
+0.0290967923	the difference between
+0.0290583384	status of
+0.0289886415	sum of
+0.0289819718	pattern of
+0.0289718997	$ p_ \
+0.0289599930	representative of
+0.0289536730	the kinematics of
+0.0289154111	performed by
+0.0289008074	result in
+0.0288402359	back to
+0.0287575610	a statistical study of
+0.0287202661	the comparison of
+0.0287011478	intermittency in
+0.0286527187	but only
+0.0286062645	crucial to
+0.0285883467	the magnetic structure of
+0.0285788453	scheme for
+0.0285699386	periods of
+0.0285415462	studied with
+0.0285306214	instruments on
+0.0285287807	an analysis of
+0.0284896873	consideration of
+0.0284651020	spectra at
+0.0284648319	contrast to
+0.0284141268	the out of
+0.0284092067	derived for
+0.0283740877	predicted to
+0.0283679661	beginning of
+0.0283530117	$ e
+0.0283448142	approach for
+0.0283328158	allowed to
+0.0283189350	contribution of
+0.0282873983	an increase in
+0.0282309050	reduced to
+0.0281863820	strongly on
+0.0281715054	$ k
+0.0281321438	coupled with
+0.0281027185	two orders of
+0.0280817914	as part
+0.0280784065	the effects of
+0.0280781488	confinement of
+0.0280699386	detection of
+0.0280005819	location of
+0.0279246791	improvement of
+0.0278886985	explanation of
+0.0278719125	$ \ omega \
+0.0278574326	signature of
+0.0278519698	implementation of
+0.0278474128	coupled to
+0.0277598376	10 m
+0.0277356543	the right
+0.0277320507	method to
+0.0277194079	$ r
+0.0276766596	confined to
+0.0276675737	purpose of
+0.0276623229	tool to
+0.0276546313	derived by
+0.0276486248	$ x
+0.0275977496	increase in
+0.0275714574	a state of
+0.0275541970	feasibility of
+0.0275407659	estimates of
+0.0275317976	\ sim \
+0.0275212692	t \
+0.0275161494	calculated for
+0.0273610240	4 10 ^
+0.0273338178	the existence of
+0.0272966137	size of
+0.0272930829	half of
+0.0272762198	\ mathrm i
+0.0271933370	distances from
+0.0271555813	performed with
+0.0271424354	survey of
+0.0271339282	the plane perpendicular to
+0.0271162004	a result of
+0.0270856579	response of
+0.0270707459	the possibility of
+0.0270707459	the importance of
+0.0270461954	$ \ delta b_ \
+0.0270378832	e ^
+0.0270110444	the vicinity of
+0.0269832530	predictions from
+0.0267998994	time evolution of
+0.0267983301	performed in
+0.0267917852	relation for
+0.0267785836	$ s ^
+0.0267623652	height of
+0.0267082129	studied for
+0.0266989767	propagation of
+0.0266941683	development of
+0.0266857784	essential to
+0.0266645632	the knowledge of
+0.0266277307	a review of
+0.0265585940	downstream of
+0.0265459390	the end of
+0.0265364211	computed for
+0.0265292761	1 +
+0.0265015360	habitability of
+0.0264892599	coma of
+0.0264788931	$ \ beta \
+0.0264425499	$ c
+0.0264305038	included in
+0.0263972881	reduced by
+0.0263955925	especially during
+0.0263810678	framework for
+0.0263437813	modeling of
+0.0263199863	amounts to
+0.0262988926	signals from
+0.0262851115	terms of
+0.0262754549	well as
+0.0262262586	amount to
+0.0262247105	overview of
+0.0262082129	rates for
+0.0261818046	the values of
+0.0261533196	conjunction with
+0.0261229794	$ t_ \
+0.0261209964	body system
+0.0261019020	not possible
+0.0260838178	the impact of
+0.0260396461	$ k_ \ perp \
+0.0260281236	this new
+0.0260248712	an alternative to
+0.0260014396	calibration of
+0.0259560046	the fine structure of
+0.0259228797	measurement of
+0.0258733640	interactions with
+0.0258510277	theory of
+0.0258495255	of charged particles in
+0.0258380577	along with
+0.0258293113	estimated from
+0.0257630580	condition for
+0.0257554502	basis for
+0.0257496933	placed at
+0.0256615360	flattening of
+0.0256264162	errors in
+0.0256096007	calculated by
+0.0255924451	concentrated in
+0.0255135561	very different
+0.0255112750	definition of
+0.0254777532	used in
+0.0253972184	presented for
+0.0253861507	history of
+0.0253839141	both protons and
+0.0253380059	important to
+0.0253362296	lifetime of
+0.0252510446	over time
+0.0252030877	techniques for
+0.0251967095	width of
+0.0251887639	these new
+0.0251603417	sufficient to
+0.0251007984	oblateness of
+0.0251001736	$ \ beta_ \
+0.0250838178	the ratio of
+0.0250667825	technique for
+0.0250528174	objective of
+0.0250086971	$ m_ \
+0.0249640751	the solar system
+0.0249407054	images from
+0.0248881794	origin of
+0.0248866137	modulation of
+0.0248799187	spectra of
+0.0248685716	form of
+0.0248555191	$ r \
+0.0248404249	integration of
+0.0247865488	a value of
+0.0247760555	launched in
+0.0247270698	decrease in
+0.0246131715	a long time
+0.0246009105	different from
+0.0245753599	suppression of
+0.0245702229	divergence of
+0.0245194417	the inner
+0.0244896873	topic of
+0.0244728168	extended to
+0.0244541339	source of
+0.0244431803	morphology of
+0.0244221945	reliability of
+0.0243994407	period of
+0.0243596771	$ \ beta =
+0.0241942471	the local mean
+0.0241645632	the investigation of
+0.0241549435	to help
+0.0241292723	the origin of
+0.0241175338	a factor of two
+0.0240797548	in view of
+0.0240613403	accelerated at
+0.0240587876	related with
+0.0240490117	footpoint of
+0.0240459390	the onset of
+0.0240281488	relevance of
+0.0239912076	not to
+0.0239833405	studied in
+0.0239829716	orientation of
+0.0239349576	support for
+0.0238953926	sensitivity to
+0.0238861519	appeared in
+0.0238423487	disruption of
+0.0237801613	fit to
+0.0237602132	capabilities of
+0.0237285950	$ n
+0.0236995621	conversion of
+0.0236899790	consequences of
+0.0236808109	solution of
+0.0236645632	the differences in
+0.0236639297	list of
+0.0236514598	the former
+0.0236481032	as well as for
+0.0236283004	processes in
+0.0236248370	expected for
+0.0235960559	saturation of
+0.0235730206	collection of
+0.0235559805	choice of
+0.0235097655	one order of
+0.0234456223	acceleration of
+0.0234427986	the next
+0.0234310974	base of
+0.0233930634	duration of
+0.0233825640	comparing with
+0.0233792723	the influence of
+0.0233312557	means of
+0.0232938766	limitations of
+0.0232841906	the other
+0.0232663550	precession of
+0.0232478597	set by
+0.0231942876	inner solar system
+0.0231645632	the variations of
+0.0231645632	the description of
+0.0231645632	the observation of
+0.0231405819	decrease of
+0.0231291914	occurrence of
+0.0231023120	$ z
+0.0230599244	$ o
+0.0230339282	the orbital motion of
+0.0230275750	solution for
+0.0229959390	the evolution of
+0.0229896873	property of
+0.0229827740	speed of
+0.0229792723	a range of
+0.0229748243	generated in
+0.0228953926	limited to
+0.0228651496	ubiquitous in
+0.0228608994	branch of
+0.0228510277	spectrum of
+0.0228078589	the orbital motions of
+0.0227796615	assessment of
+0.0227129242	occurring in
+0.0226645632	the estimation of
+0.0226353793	solutions for
+0.0224631662	simulation of
+0.0224595465	key to
+0.0224225869	first time
+0.0224223185	course of
+0.0224195564	driver of
+0.0223792723	the use of
+0.0223103931	pairs of
+0.0223032320	place in
+0.0222604963	formulation of
+0.0222300040	feature of
+0.0221611320	construction of
+0.0220550903	function of
+0.0220444226	90 \
+0.0219873775	the sun at
+0.0219816634	of magnitude larger than
+0.0219668023	a *
+0.0219484870	of motion of
+0.0219441862	efficiency of
+0.0218771658	$ |
+0.0218495600	the mean
+0.0218474776	population of
+0.0218337295	made by
+0.0217781488	operating in
+0.0217383210	occurred in
+0.0216837708	or even
+0.0216299470	case of
+0.0216237689	a subset of
+0.0215735117	geoeffectiveness of
+0.0215444198	value of
+0.0214837951	instead of
+0.0214607753	l \
+0.0214592487	behaviour of
+0.0214332800	same time
+0.0213792723	the development of
+0.0213782598	reconstruction of
+0.0213691232	to search for
+0.0213415140	the magnetic field of
+0.0213326153	calculation of
+0.0212941086	| \
+0.0212666924	performed for
+0.0212281488	correction to
+0.0212029125	detected in
+0.0211519925	discovery of
+0.0211190579	progress in
+0.0210744213	described as
+0.0210484845	the interpretation of
+0.0210444084	in situ by
+0.0210441086	\ |
+0.0210107868	$ 2 \
+0.0209827740	test of
+0.0209807561	$ \ delta \ dot \
+0.0209590586	behavior of
+0.0209272658	in good agreement with
+0.0208245342	$ l
+0.0208235378	the nonlinear evolution of
+0.0208135024	steepening of
+0.0208040136	0 \
+0.0207959390	the dynamics of
+0.0207605432	goal of
+0.0207096914	shift of
+0.0206819804	change in
+0.0206808109	prediction of
+0.0206645632	the need to
+0.0206543834	of interest
+0.0205675635	associated to
+0.0205666892	the rate of
+0.0205666892	the dependence of
+0.0205614822	penetration of
+0.0205548461	level of
+0.0205544217	importance of
+0.0204850328	order to
+0.0204272099	exploration of
+0.0204049877	located in
+0.0203712479	the second
+0.0203643772	$ k ^
+0.0203293723	direction of
+0.0203269250	as well as to
+0.0201874691	assumption of
+0.0201645632	the spectrum of
+0.0201645632	the increase in
+0.0201645632	the variation of
+0.0201494407	expansion of
+0.0201157971	the implementation of
+0.0200564989	the purpose of
+0.0200418278	a statistical analysis of
+0.0200156867	the whole
+0.0199792723	the absence of
+0.0199762923	this way
+0.0199739637	allows to
+0.0198892425	the overall
+0.0198588119	the analysis of
+0.0198510220	help to
+0.0198005819	produced in
+0.0197959390	the surface of
+0.0197959390	the interaction of
+0.0197930791	necessary to
+0.0197814557	occur in
+0.0197550278	$ 1 \
+0.0197516930	shape of
+0.0196850019	a comparison between
+0.0196494407	ratio of
+0.0196405819	enhancement of
+0.0196214554	a function of time
+0.0196157971	the capabilities of
+0.0196114342	conservation of
+0.0195761719	inner planets of
+0.0195512482	estimated to
+0.0195437261	interest in
+0.0195363368	thanks to
+0.0195121631	the value of
+0.0194502952	\ beta \
+0.0194305987	a possible
+0.0192570273	transverse to
+0.0192462448	comparison of
+0.0192206643	\ alpha =
+0.0191884940	s \
+0.0191774263	extent of
+0.0191428241	the calculation of
+0.0191157971	the difference in
+0.0191096914	normal to
+0.0190588062	the sun as
+0.0189763000	loss of
+0.0188733198	\ perp \
+0.0188541358	capability of
+0.0188370728	the distribution of
+0.0187813582	potential to
+0.0187631941	in contrast with
+0.0187169883	$ ^ \
+0.0187048461	accuracy of
+0.0186041896	none of
+0.0185966197	a good
+0.0185133700	formed in
+0.0184919296	of view of
+0.0184909309	$ 10 ^
+0.0184161922	the base of
+0.0183647076	the gravitational field of
+0.0183542791	reported in
+0.0182994407	impact of
+0.0182852325	difference in
+0.0182761542	of reconnection in
+0.0182061324	a comparison with
+0.0181494407	interaction of
+0.0180797548	a comparison of
+0.0180484845	the change in
+0.0179724514	taken by
+0.0179271387	complexity of
+0.0179034791	the growth rate of
+0.0178858992	allow for
+0.0177418278	the statistical properties of
+0.0177347401	the sun in
+0.0176147926	allows for
+0.0175792301	exist in
+0.0174600104	found in
+0.0174557817	the first one
+0.0174151549	the interplay of
+0.0173581495	growth of
+0.0173363368	same as
+0.0172459390	the nature of
+0.0172154512	the propagation of
+0.0171428241	the combination of
+0.0171116762	p \
+0.0170418278	the radial dependence of
+0.0169490954	the corresponding
+0.0169126578	the edges of
+0.0167828671	the concept of
+0.0166264303	as part of
+0.0165449500	the determination of
+0.0165283795	necessary for
+0.0165121631	the theory of
+0.0164756738	done by
+0.0164687920	accelerated to
+0.0164654512	the number of
+0.0164169038	the first two
+0.0163432238	the model of
+0.0162714574	but not in
+0.0162347401	the sun to
+0.0161194876	possible to
+0.0161157971	the height of
+0.0160676338	to get
+0.0160484845	the maximum of
+0.0160484845	the behavior of
+0.0157929791	yet to
+0.0157878289	way to
+0.0157714574	the capability of
+0.0157659353	a particle in
+0.0157220403	the majority of
+0.0157125179	first time in
+0.0156294769	well as in
+0.0155870728	the structure of
+0.0155449500	the fraction of
+0.0154654512	the form of
+0.0153917553	the present work
+0.0151692738	the earth with
+0.0151428241	the behaviour of
+0.0151226713	the ratio between
+0.0150484845	the expansion of
+0.0150418278	the kinetic energy of
+0.0150339501	seen by
+0.0150226713	the course of
+0.0149781960	need for
+0.0149116205	the need for
+0.0147714574	the extent of
+0.0146666349	the detection of
+0.0146387208	of sunspots and
+0.0146357432	the feasibility of
+0.0145600458	the study of
+0.0145179230	the spectra of
+0.0145179230	the orientation of
+0.0144151549	in relation to
+0.0143994218	the acceleration of
+0.0143967763	given by
+0.0143917553	the validity of
+0.0143857432	the significance of
+0.0143857432	the applicability of
+0.0143720403	the location of
+0.0143650163	a full
+0.0143648407	the potential to
+0.0142761542	of turbulence in
+0.0142264489	the range of
+0.0142154512	the motion of
+0.0140504490	the inner planets of
+0.0140484845	the duration of
+0.0140214574	the contribution of
+0.0139475478	use of
+0.0138127569	an order of
+0.0137876141	the sum of
+0.0137822087	a total of
+0.0137494218	the size of
+0.0137494218	the interaction between
+0.0136994218	the accuracy of
+0.0136994218	the measurement of
+0.0136548272	the angle between
+0.0136343236	especially at
+0.0135714574	the effectiveness of
+0.0135357432	the inclusion of
+0.0135322087	the discovery of
+0.0135179230	the solution of
+0.0135179230	the growth of
+0.0134648407	a method to
+0.0134423460	to make
+0.0134261042	especially for
+0.0132654512	the occurrence of
+0.0131994218	the amount of
+0.0131994218	the period of
+0.0131537476	a model for
+0.0131125416	the longitude of
+0.0130459390	the result of
+0.0130154512	the response of
+0.0129166349	the speed of
+0.0128546850	a model of
+0.0127714574	the width of
+0.0127494218	the shape of
+0.0127494218	a fraction of
+0.0126548272	the action of
+0.0126548272	a period of
+0.0126342572	a certain
+0.0125714574	the transition from
+0.0125714574	the sense of
+0.0125357432	the nodes of
+0.0124994218	a study of
+0.0123650547	known to
+0.0123511915	to put
+0.0123100458	the generation of
+0.0122857432	the question of
+0.0122679230	the prediction of
+0.0122322087	the stability of
+0.0122322087	the application of
+0.0121994218	the level of
+0.0121822087	the efficiency of
+0.0120214574	the decrease of
+0.0120154512	the direction of
+0.0120071287	side of
+0.0119822087	the lack of
+0.0119414960	the same as
+0.0118116205	in comparison with
+0.0117822087	the appearance of
+0.0117822087	the goal of
+0.0117714574	the uncertainty in
+0.0117494218	the performance of
+0.0115714574	the ability to
+0.0115714574	a measurement of
+0.0115714574	the reliability of
+0.0115714574	the thickness of
+0.0112857432	the possibility to
+0.0112857432	the passage of
+0.0111994218	the source of
+0.0107822087	in response to
+0.0107494218	the degree of
+0.0105714574	the idea of
+0.0105714574	a test of
+0.0105714574	the choice of
+0.0103050238	a thin
+0.0097822087	a source of
+0.0097822087	a role in
+0.0097714574	the time evolution of
+0.0095714574	the assumption of
+0.0094857432	in case of
+0.0087822087	a method for

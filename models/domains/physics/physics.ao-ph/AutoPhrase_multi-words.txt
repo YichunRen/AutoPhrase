@@ -1,0 +1,4267 @@
+0.9657521786	tropical cyclone
+0.9628243482	storm surge
+0.9617001068	south america
+0.9610486777	thermohaline circulation
+0.9609471977	black sea
+0.9601761170	primitive equations
+0.9587683057	remote sensing
+0.9587578793	deep learning
+0.9587097984	habitable zone
+0.9584122011	neural network
+0.9579962030	fourier transform
+0.9578774865	north atlantic
+0.9569429418	southern hemisphere
+0.9568051295	united states
+0.9561834185	greenhouse effect
+0.9550917768	latent heat
+0.9548820160	statistical mechanics
+0.9543586969	north america
+0.9541191509	stably stratified
+0.9520378375	aspect ratio
+0.9519446090	kalman filter
+0.9515039024	radiative transfer
+0.9512030901	hadley cell
+0.9509246894	black carbon
+0.9498635814	exoplanetary atmospheres
+0.9497986557	adaptive optics
+0.9487160447	north pacific
+0.9485247634	bering sea
+0.9484854577	carbon dioxide
+0.9477773406	lyapunov exponent
+0.9476297453	ozone depletion
+0.9472047570	water vapor
+0.9465578791	water vapour
+0.9463096661	machine learning
+0.9442472482	extrasolar planets
+0.9442392769	south pole
+0.9439997860	boundary layer
+0.9438773315	neural networks
+0.9438679285	greenhouse gases
+0.9433069342	reynolds number
+0.9429974252	hot jupiter
+0.9424200333	ozone hole
+0.9422463343	solar irradiance
+0.9415885982	great plains
+0.9415723291	ensemble kalman
+0.9415468917	finite element
+0.9412700401	monte carlo
+0.9407558312	cosmic ray
+0.9405261254	electric field
+0.9403619042	nitrogen dioxide
+0.9402029505	tropical cyclones
+0.9387711185	relative humidity
+0.9378180527	convolutional neural network
+0.9374949980	convolutional neural networks
+0.9374759646	refractive index
+0.9373875053	rogue wave
+0.9368468220	west africa
+0.9366808570	skeletal structures
+0.9365240344	richardson number
+0.9364233949	ice ages
+0.9363196032	north american
+0.9356808735	gamma rays
+0.9356247693	continental shelf
+0.9355492684	tide gauge
+0.9353397812	data assimilation
+0.9353224522	ball lightning
+0.9346132157	twilight sky
+0.9344138125	air quality
+0.9342307610	early warning
+0.9337976127	el nino
+0.9334530479	ionizing radiation
+0.9331529143	tidally locked
+0.9326926669	sunspot number
+0.9324292704	hot jupiters
+0.9322743021	angular momentum
+0.9318936410	global warming
+0.9316911257	cosmic rays
+0.9315390906	ice sheet
+0.9315171915	southern oscillation
+0.9305387987	ray tracing
+0.9304383107	solar activity
+0.9299969583	secondary organic
+0.9292746779	sea level
+0.9290369387	air pollution
+0.9288238580	antarctic ice sheet
+0.9286403646	wind speed
+0.9285048327	21st century
+0.9282819768	sudden stratospheric
+0.9281590493	indian ocean
+0.9281259876	rogue waves
+0.9279947245	greenhouse gas
+0.9277378096	prandtl number
+0.9276955118	cloud cover
+0.9267259287	zonal jets
+0.9264765103	mediterranean sea
+0.9263311155	numerical weather prediction
+0.9260834156	antarctic plateau
+0.9257760152	soil moisture
+0.9252552846	precipitable water vapor
+0.9247488280	cerro paranal
+0.9246068250	river basins
+0.9244961781	nitric acid
+0.9244759526	kinetic energy
+0.9242868650	conservation laws
+0.9240772297	yangtze river
+0.9238016773	climate change
+0.9233483709	ice core
+0.9226054386	hadley circulation
+0.9225926840	runaway greenhouse
+0.9223388492	arctic sea ice
+0.9221926709	ice crystals
+0.9215395139	oil spill
+0.9208990914	nuclear power plant
+0.9205905059	lyapunov exponents
+0.9204827672	eastern pacific
+0.9202387891	adriatic sea
+0.9200463898	artificial neural networks
+0.9198518312	galactic cosmic rays
+0.9194816946	surf zone
+0.9190602288	coherent structures
+0.9187953564	geometrical optics
+0.9181731444	microburst windspeed
+0.9181727587	euler equations
+0.9179142854	sea ice
+0.9174527263	fossil fuel
+0.9170582691	volcanic ash
+0.9168076923	potential vorticity
+0.9164821695	line lists
+0.9162090331	electric fields
+0.9160502333	sediment transport
+0.9159366508	brown dwarfs
+0.9157803420	mixed layer
+0.9150749298	laser guide
+0.9135408729	entropy production
+0.9129375774	sea level rise
+0.9111353295	northern hemisphere
+0.9110886348	southeast asia
+0.9110764338	southern ocean
+0.9108470322	square root
+0.9107334389	cold pool
+0.9103423381	ice sheets
+0.9096934274	younger dryas
+0.9096068537	` `
+0.9095308601	stochastically forced
+0.9090295061	space weather
+0.9089644772	fuel moisture
+0.9089573527	power law
+0.9087791353	wave packets
+0.9081809809	fractional brownian motion
+0.9081612175	west coast
+0.9079734883	la nina
+0.9077298316	finite volume
+0.9076798187	discrete ordinates
+0.9075639107	glacial cycles
+0.9073544728	shallow water
+0.9066472476	geopotential height
+0.9066282605	20th century
+0.9064545825	co2 emissions
+0.9063404399	uncertainty quantification
+0.9061709368	lapse rate
+0.9055568194	artificial neural
+0.9054905848	cloud condensation nuclei
+0.9052499798	surface tension
+0.9052486877	cross sections
+0.9045815696	crystal growth
+0.9042181126	passive scalar
+0.9039820339	white noise
+0.9039694841	western europe
+0.9037151660	standard deviation
+0.9036808080	detrended fluctuation analysis
+0.9032421903	passive scalars
+0.9031807765	empirical orthogonal
+0.9030798304	heat engine
+0.9030558788	heat flux
+0.9030075838	ice cores
+0.9027944855	ice age
+0.9026223950	artificial neural network
+0.9020366962	magnetic field
+0.9018970911	north sea
+0.9013709309	ensemble members
+0.9010430958	rossby number
+0.9010109618	random forest
+0.9003794325	maunder minimum
+0.9003427375	wind speeds
+0.9002759776	convective storm
+0.9002416003	takes place
+0.8999635200	coriolis force
+0.8995099708	dipole moment
+0.8979427537	stokes drift
+0.8975732312	baroclinic instability
+0.8974975231	climate sensitivity
+0.8973897034	gamma ray bursts
+0.8973444389	scaling laws
+0.8971285000	rossby waves
+0.8970237197	particle filter
+0.8967398192	boundary condition
+0.8963534899	boundary layers
+0.8962481335	sunspot cycle
+0.8961026984	blue jets
+0.8961025366	stochastically perturbed
+0.8957874188	lagrangian coherent structures
+0.8956247565	night sky brightness
+0.8954766951	gamma ray
+0.8954324773	weather forecasting
+0.8947454236	principal component analysis
+0.8946667701	covariant lyapunov vectors
+0.8945463510	biomass burning
+0.8945149343	million years
+0.8944535780	covariance matrix
+0.8943054553	meridional overturning circulation
+0.8943036788	cross correlation
+0.8941319304	radiative forcing
+0.8940765219	mach number
+0.8939943203	drag coefficient
+0.8933214274	optical thickness
+0.8928223858	young sun
+0.8927599487	fractal dimension
+0.8927202590	dust storms
+0.8925018995	mass extinction
+0.8923112544	boundary conditions
+0.8922845221	snowball earth
+0.8921233623	modulational instability
+0.8921024021	sea surface temperature
+0.8919563077	light pollution
+0.8919398679	global electric circuit
+0.8918253721	hurst exponent
+0.8917391607	quasi geostrophic
+0.8916853829	telescope array
+0.8914996495	particulate matter
+0.8912349184	organic carbon
+0.8906419355	liquid water
+0.8904625501	leading order
+0.8903658519	passive tracer
+0.8900093803	steady state
+0.8895097879	random walk
+0.8892943033	wavewatch iii
+0.8890204716	overturning circulation
+0.8888646195	wind farm
+0.8887744420	solar eclipse
+0.8885054338	optical depth
+0.8883923179	large eddy simulation
+0.8880835498	ideal fluid
+0.8877642411	fourth order
+0.8870374184	reynolds numbers
+0.8868958330	cold pools
+0.8867030473	markov chain
+0.8866447119	latent heating
+0.8865674788	globally averaged
+0.8863536308	residual nudging
+0.8862650115	gravity waves
+0.8862151294	correlation coefficient
+0.8862014229	fresh water
+0.8861959132	gravity wave
+0.8859051551	diurnal cycle
+0.8857546944	ad hoc
+0.8856250691	planetary atmospheres
+0.8855875849	terrestrial exoplanets
+0.8853295001	rossby wave
+0.8853066084	carbon cycle
+0.8850389290	navier stokes
+0.8850034393	planetary boundary layer
+0.8846941786	bayesian inference
+0.8842507185	giant planets
+0.8837433857	shear stress
+0.8837412772	free surface
+0.8836807774	potential energy
+0.8828479918	melt ponds
+0.8822415656	generalized scidar
+0.8821523125	laboratory experiments
+0.8821136232	slowly rotating
+0.8819728993	dispersion relation
+0.8818513519	sunspot numbers
+0.8815581151	bred vectors
+0.8814352363	reynolds stress
+0.8812755241	wind turbine
+0.8811817577	dust storm
+0.8809986625	cubed sphere
+0.8808256590	differential equations
+0.8807012340	oil spills
+0.8806527469	sb ras
+0.8805999593	high resolution
+0.8804793469	tangling clustering
+0.8801868577	hurricane genesis
+0.8795978444	indian monsoon
+0.8794819007	landfalling hurricane numbers
+0.8794574213	heat transport
+0.8794447322	clear sky
+0.8793594992	internal wave
+0.8792108032	spherically symmetric
+0.8792007059	upper troposphere
+0.8790533359	deep water
+0.8788804011	wind power
+0.8780217490	atlantic ocean
+0.8779681569	sea state
+0.8778313927	optical depths
+0.8777990575	convective storms
+0.8776331454	thermal conductivity
+0.8776152777	multiple scattering
+0.8774032666	ensemble kalman filter
+0.8773262314	wave propagation
+0.8772313452	rapidly rotating
+0.8770786183	dynamical systems
+0.8768627025	linear regression
+0.8765021332	ion mobility
+0.8760717912	air showers
+0.8760361251	internal waves
+0.8760164311	climate science
+0.8757068717	finite difference
+0.8754364702	polar vortex
+0.8754021341	cross section
+0.8748155023	probability distributions
+0.8748109404	pacific ocean
+0.8741420347	shallow water equations
+0.8740204653	computational fluid dynamics
+0.8740164875	false alarm
+0.8738074146	variational data assimilation
+0.8737249004	ice shelf
+0.8734571601	energy balance
+0.8733438399	temperature gradient
+0.8733153137	short term memory
+0.8732852313	chemical elements
+0.8732817287	interannual variability
+0.8732355585	coarse graining
+0.8731998933	general circulation
+0.8731891549	internal gravity waves
+0.8731743776	post processing
+0.8731457919	statistical significance
+0.8728500434	atmospheric circulation
+0.8724807115	probability density functions
+0.8724560135	laser beam
+0.8723196293	froude number
+0.8722965614	recent advances
+0.8720322169	primary production
+0.8719509823	indian summer monsoon
+0.8717447314	rayleigh number
+0.8717260590	gaussian process
+0.8715506195	eddy viscosity
+0.8710191875	static stability
+0.8708557577	sls environments
+0.8707812308	atmospheric co2
+0.8707549554	monsoon season
+0.8707355364	ncep ncar
+0.8705767399	exponential growth
+0.8704709304	aerosol optical depth
+0.8704612570	parameterization schemes
+0.8704068430	south atlantic
+0.8703589980	high obliquity
+0.8701739096	dissipation rate
+0.8701200046	spherical geometry
+0.8700090780	sound speed
+0.8697770872	differential equation
+0.8694926822	great circle
+0.8691171902	length scale
+0.8691036816	satellite images
+0.8690867755	eddy diffusivity
+0.8690032891	precipitation extremes
+0.8684625165	infra red
+0.8682555609	surface roughness
+0.8681127718	spatio temporal
+0.8678595524	periodic orbits
+0.8676591449	computational cost
+0.8676472203	polar regions
+0.8675300862	zonal flows
+0.8675170381	solar cycle
+0.8674995123	hurricane numbers
+0.8673746906	fully developed
+0.8673468030	heat transfer
+0.8671904856	equatorial pacific
+0.8671513418	large deviation
+0.8671469748	aspect ratios
+0.8670030967	laser beams
+0.8670028540	polarized radiative transfer
+0.8669448023	ground level
+0.8669359419	kolmogorov complexity
+0.8667630164	microburst products
+0.8667459693	electron density
+0.8667232439	computationally expensive
+0.8666785311	radiative cooling
+0.8663466303	ab initio
+0.8657659820	small dispersive coal
+0.8657348604	generative adversarial network
+0.8656597600	deformation radius
+0.8656407470	lorenz energy cycle
+0.8655024204	african dust
+0.8653163690	closed form
+0.8650492411	wave groups
+0.8649981125	el nino southern oscillation
+0.8644080091	energy transfer
+0.8637241155	transport barriers
+0.8636687454	positively correlated
+0.8632728793	mediterranean basin
+0.8628572360	rotation rate
+0.8622161329	zonostrophic instability
+0.8620779927	significant wave height
+0.8616239474	decision making
+0.8613917372	ocean circulation
+0.8611000539	wave heights
+0.8610303221	wave breaking
+0.8609836360	satellite imagery
+0.8608428914	transit radius
+0.8607037426	intermediate complexity
+0.8606610739	remotely sensed
+0.8605583644	kelvin wave
+0.8603285945	iodine air filter
+0.8602058022	kelvin waves
+0.8598814306	kelvin helmholtz
+0.8598703876	recent developments
+0.8596770534	hamiltonian distributed chaos
+0.8596174779	level set method
+0.8595797395	wind tunnel
+0.8593007388	small scales
+0.8584675880	moist air
+0.8582379706	trace gas
+0.8581376901	energy cascade
+0.8580215565	atmospheric chemistry
+0.8578991840	lead times
+0.8578000599	standardized precipitation
+0.8577853240	renewable energy
+0.8576451174	finite size lyapunov
+0.8576016474	arctic ocean
+0.8575502067	mixing ratio
+0.8572863162	nearby supernovae
+0.8572833630	rotating sphere
+0.8570625897	power laws
+0.8570508404	weather stations
+0.8570111107	long lived
+0.8565683571	source function
+0.8565642245	terrestrial planets
+0.8564780615	wave trains
+0.8563904307	greenhouse gas emissions
+0.8563705378	direct numerical simulation
+0.8561442657	return values
+0.8560742878	era interim
+0.8560596167	radiative heating
+0.8556701282	extreme events
+0.8553264366	ultra high energy
+0.8552514903	principal components
+0.8552103198	geomagnetic activity
+0.8550355087	stratified turbulence
+0.8548573696	internal tides
+0.8545947576	mid latitude
+0.8545203392	poorly understood
+0.8544239394	homogeneous isotropic turbulence
+0.8543853228	geophysical flows
+0.8543501124	wave height
+0.8541304710	energy transfers
+0.8539715350	statistically significant
+0.8537980726	optical turbulence
+0.8537680371	cloud base
+0.8533437300	ice thickness
+0.8532904644	model intercomparison project
+0.8531051195	initial conditions
+0.8530101141	geomagnetic field
+0.8524844045	cirrus clouds
+0.8523948268	solar proton events
+0.8523228797	growth rates
+0.8520245280	human activity
+0.8519831471	magnetic fields
+0.8519423745	velocity field
+0.8518276522	weather forecasts
+0.8517226052	real world
+0.8513038889	ice floes
+0.8512352611	optical properties
+0.8511616286	initial condition
+0.8511378144	numerical experiments
+0.8508254504	maximal lie invariance algebra
+0.8507638640	tropopause height
+0.8507072550	random matrix theory
+0.8502655469	zonally symmetric
+0.8502492898	monin obukhov
+0.8499748241	beta plane
+0.8499317187	radio emission
+0.8499013957	direct numerical simulations
+0.8497276934	short term
+0.8494237291	exoplanet atmospheres
+0.8494073731	pattern formation
+0.8491128789	analytical solutions
+0.8490694527	case studies
+0.8489940453	maximum entropy production
+0.8489136281	solar radiation
+0.8487014009	mutual information
+0.8486406931	normal distribution
+0.8484780063	heat fluxes
+0.8481861211	forecast skill
+0.8480341222	parabolic equation
+0.8477539449	computationally efficient
+0.8474567377	solar minimum
+0.8473373113	semi implicit
+0.8472711859	large telescope
+0.8472697943	data set
+0.8467260701	stratospheric ozone
+0.8467061780	internal tide
+0.8466567393	governing equations
+0.8464635930	satellite altimetry
+0.8463974445	partial differential equations
+0.8463707513	seasonally varying
+0.8463015367	inverse cascade
+0.8462821511	moist convection
+0.8457851980	wrf chem
+0.8453573099	phase transitions
+0.8451874554	slowly varying
+0.8446487337	green naghdi
+0.8444836304	probability density function
+0.8442486507	fully nonlinear
+0.8439268871	downburst generation
+0.8438595166	collisional growth
+0.8437416493	wrf sfire
+0.8437282989	closely related
+0.8434765464	multifractal detrended
+0.8432116414	zonal flow
+0.8431506394	adiabatic lapse rate
+0.8429003542	subgrid scale
+0.8428663993	previously published
+0.8426295124	general circulation models
+0.8425833301	iodine air
+0.8423252688	earth's atmosphere
+0.8420223607	test cases
+0.8418637090	distributed chaos
+0.8417902721	scalar field
+0.8417730161	meso nh
+0.8414327819	extreme weather
+0.8412492898	maxey riley
+0.8411396997	root mean square
+0.8409149064	mori zwanzig
+0.8407024100	mode decomposition
+0.8405182961	coarse grained
+0.8403031894	thermal emission
+0.8401929146	reduced order
+0.8400362449	structural stability theory
+0.8398606068	boussinesq equations
+0.8396433661	finite elements
+0.8395375388	summer monsoon
+0.8394389104	rotation axis
+0.8394203445	zonal wind
+0.8391753790	external forcing
+0.8389048916	snow cover
+0.8386964093	weather prediction
+0.8384852296	mesoscale eddies
+0.8384444455	inverse problem
+0.8383984683	western boundary
+0.8383467417	seasonal variation
+0.8381764496	stratospheric aerosol
+0.8381719257	material entropy production
+0.8376186372	sea surface
+0.8374663003	external forcings
+0.8373699618	era interim reanalysis
+0.8369563508	probabilistic forecasts
+0.8368637086	billion years
+0.8361300762	long term
+0.8358028781	relative dispersion
+0.8353979081	response theory
+0.8353606630	tipping points
+0.8352749334	particle size
+0.8352586120	climate networks
+0.8351085300	shear flow
+0.8350137473	lv wsoc
+0.8348838970	probability distribution
+0.8347278751	moisture content
+0.8347262981	tipping point
+0.8342372821	total solar irradiance
+0.8338135952	cloud formation
+0.8331993125	atmospherical parameters
+0.8331150927	lower thermosphere
+0.8326391499	quality control
+0.8326291780	odinger equation
+0.8325634154	eastward propagating
+0.8323889168	gcr flux
+0.8317924473	terrestrial gamma ray flashes
+0.8313054023	heat capacity
+0.8312973861	ice covered
+0.8311022980	finite amplitude
+0.8311020091	nino southern oscillation
+0.8302257325	general circulation model
+0.8297132080	sensitivity analysis
+0.8289578775	nucleation rate
+0.8288257666	low mach number
+0.8287242863	temporal resolution
+0.8287045935	kinetic equation
+0.8285818936	similarity theory
+0.8285815731	dansgaard oeschger
+0.8283051301	pm2.5 concentration
+0.8282704961	coriolis parameter
+0.8280821353	phase space
+0.8277356686	marginal ice zone
+0.8276457762	coarse resolution
+0.8276025289	growth rate
+0.8271704578	astronomical sites
+0.8271624930	york city
+0.8271517509	ice cover
+0.8262988733	turbulent flows
+0.8261363411	correlation function
+0.8259104965	human activities
+0.8252562872	ionospheric scintillation
+0.8252227248	generative adversarial
+0.8252164072	ensemble forecasts
+0.8251863335	semi lagrangian
+0.8243779175	large eddy simulations
+0.8243702821	urban areas
+0.8242291437	main result
+0.8241305418	climate variability
+0.8240953413	fokker planck
+0.8240710761	low cost
+0.8238746415	stratified medium
+0.8234893839	long wave
+0.8229481587	breaking waves
+0.8227168917	equilibrium climate sensitivity
+0.8222397232	numerical weather
+0.8215504278	low frequency
+0.8213570144	starting point
+0.8206489742	high frequency
+0.8204729626	semi empirical
+0.8204613349	large scale
+0.8204610830	sea surface height
+0.8204040854	astroclimatic parameters
+0.8202650203	obliquity planets
+0.8201416949	life cycle
+0.8199269218	deep sea
+0.8198976869	atmospheric flows
+0.8198160882	navier stokes equations
+0.8196691708	briefly discussed
+0.8196384715	open source
+0.8192835406	reanalysis data
+0.8192478252	previous studies
+0.8189739813	equilibrium statistical mechanics
+0.8189543181	sea bed
+0.8188898754	length scales
+0.8187819040	rotating stratified
+0.8182443482	high altitude
+0.8173757443	direct cascade
+0.8173195239	potential enstrophy
+0.8169957649	observational evidence
+0.8164412489	pre industrial
+0.8164079619	turbulent fluxes
+0.8162265717	wind shear
+0.8162201499	statistical physics
+0.8161695543	hasegawa mima
+0.8151751737	incoming solar radiation
+0.8149913956	wind energy
+0.8148795856	limited area
+0.8146966925	maximum likelihood
+0.8146404027	total ozone
+0.8144276097	energy budget
+0.8143822638	positive feedback
+0.8143762984	highly variable
+0.8143178344	monte carlo simulation
+0.8139057296	hasselmann equation
+0.8138331390	ensemble forecasting
+0.8137124426	pleistocene transition
+0.8136721854	sea surface temperatures
+0.8136052488	light scattering
+0.8133361930	wave energy
+0.8131679219	ground based
+0.8131093012	upper layer
+0.8124894044	semi geostrophic
+0.8122170949	scale separation
+0.8119966186	radiative effect
+0.8119316766	data sets
+0.8116514284	statistical state dynamics
+0.8116188968	data driven
+0.8110730074	cloud droplets
+0.8091579347	partial differential
+0.8090486147	small scale
+0.8090044935	water waves
+0.8089929258	weakly nonlinear
+0.8089100948	eddy saturation
+0.8086034148	closed loop
+0.8084022316	years ago
+0.8082527736	upper tropospheric
+0.8081653569	basis functions
+0.8080438882	long standing
+0.8079846370	earth's climate
+0.8079281844	air pollutants
+0.8077664474	water content
+0.8077601144	ion concentrations
+0.8071710765	size distribution
+0.8070635327	madden julian oscillation
+0.8067665614	normal mode
+0.8066684101	line intensities
+0.8064475759	warm clouds
+0.8062394597	stochastic parameterization
+0.8055908631	wind waves
+0.8052757317	high dimensional
+0.8047289087	physics based
+0.8045093232	double diffusive convection
+0.8041956223	coastal areas
+0.8038291357	spatial patterns
+0.8037088774	specific humidity
+0.8035612225	cn2 profiles
+0.8035064571	atmospheric pressure
+0.8032022903	inter annual
+0.8029309428	physical processes
+0.8028482981	particle inertia
+0.8026829052	eddy kinetic energy
+0.8024910579	shear layer
+0.8024142646	lans alpha
+0.8021439237	glacial interglacial cycles
+0.8020850860	deep ocean
+0.8020839512	land surface
+0.8013688174	cold season
+0.8013623146	coherent lagrangian
+0.8013124481	state space
+0.8012077789	monte carlo simulations
+0.8011455210	meridional circulation
+0.8010781517	climate projections
+0.8009426383	higher order
+0.8007474251	spatial resolution
+0.8003335152	martian atmosphere
+0.8000464469	cumulus clouds
+0.7999847166	ocean waves
+0.7996622083	chaotic advection
+0.7994936956	south china
+0.7994761700	site testing
+0.7994207745	seasonal cycle
+0.7993207033	deep convolutional
+0.7988732827	climate model
+0.7988222572	turbulent mixing
+0.7985135155	barotropic vorticity
+0.7984454391	high energy
+0.7980423336	convolutional neural
+0.7979985346	moist static
+0.7979074680	linear stability
+0.7978417912	climate models
+0.7976425605	momentum flux
+0.7972199595	turbulent flow
+0.7970492238	ice albedo feedback
+0.7968468814	transmission spectra
+0.7966807523	droplet size distribution
+0.7966272149	cross validation
+0.7964674531	experimental data
+0.7961793614	fluid dynamics
+0.7960917593	mid latitudes
+0.7960640609	correlation functions
+0.7959999177	medium range
+0.7956642252	neutral surfaces
+0.7954673061	free energy
+0.7954490593	beta effect
+0.7950005950	turbulent thermal diffusion
+0.7949958691	cosmic ray flux
+0.7948753422	rare event
+0.7948703574	stable stratification
+0.7948370991	free space
+0.7948360929	geophysical fluid dynamics
+0.7945606681	charged particles
+0.7943064585	physical principles
+0.7942933716	north atlantic oscillation
+0.7941905679	water vapor content
+0.7938445862	solar wind
+0.7935908426	surface temperature
+0.7934926704	fluid flow
+0.7934806243	test case
+0.7934043378	single column
+0.7929716657	significant role
+0.7928685808	atmospheric boundary layer
+0.7926447635	mixing ratios
+0.7921982146	water quality
+0.7921940163	wind stress
+0.7921569303	spatial discretization
+0.7919550511	buoyancy driven
+0.7919424590	intercomparison project
+0.7919115672	maximum entropy
+0.7918922114	adiabatic lapse
+0.7918487727	sky brightness
+0.7918447265	particle size distribution
+0.7917693786	steady states
+0.7917170293	isotropic turbulence
+0.7915994050	recently developed
+0.7908649160	atmospheric convection
+0.7900541069	coupled ocean atmosphere
+0.7897125675	mass flux
+0.7897103294	incompressible fluid
+0.7895215964	molecular diffusion
+0.7890322546	long distance
+0.7890010858	short crested
+0.7889764105	source term
+0.7878343103	passive particles
+0.7875690707	observational data
+0.7875057728	complex network
+0.7872978023	brightness temperature
+0.7871800467	wide angle
+0.7870299721	solar irradiation
+0.7870107245	tsunami generation
+0.7866894172	decay rate
+0.7866411467	convective cells
+0.7857920063	case study
+0.7855165717	principal component
+0.7853844040	distribution function
+0.7851504476	dynamical core
+0.7843673960	stokes wave
+0.7840383404	temperature fluctuations
+0.7838561214	night sky
+0.7834293558	equivalent potential
+0.7831903863	turbulent diffusion
+0.7831124956	power spectrum
+0.7831007888	number density
+0.7828328246	surface water
+0.7827768091	global climate
+0.7827159058	wind direction
+0.7824872150	inertial waves
+0.7823285792	high latitudes
+0.7818203336	ocean current
+0.7813721049	electromagnetic fields
+0.7811268683	air sea interface
+0.7810677377	log normal
+0.7810674548	parameter space
+0.7807898180	size distributions
+0.7807263661	potential temperature
+0.7806594053	high quality
+0.7804497054	geostrophic balance
+0.7802839174	water masses
+0.7800449261	stratified fluid
+0.7796729789	numerical simulations
+0.7795052954	water droplets
+0.7794764612	meteorological parameters
+0.7791021862	water ice
+0.7789593592	drop size
+0.7788996517	annular mode
+0.7786186649	rayleigh benard
+0.7785960372	solar cycles
+0.7785506074	cloud droplet
+0.7773397522	satellite observations
+0.7773358966	surface gravity waves
+0.7772261416	circulation patterns
+0.7771013478	solitary waves
+0.7768957875	radiative transfer equation
+0.7761883988	temperature anomalies
+0.7761400879	ozone layer
+0.7761046224	shear flows
+0.7756564712	high order
+0.7754256661	transition frequencies
+0.7749993828	lyapunov vectors
+0.7732656736	temperature forecasts
+0.7732124686	physically based
+0.7729585107	finite time lyapunov
+0.7729569569	special case
+0.7728038822	climate states
+0.7727701848	fokker planck equation
+0.7727323838	spectral lines
+0.7725688922	exact solutions
+0.7720331242	radiative balance
+0.7718613693	inertial particles
+0.7718155569	scintillation index
+0.7716834887	surface air temperature
+0.7713391683	hydrological cycle
+0.7712793449	co2 concentration
+0.7712725026	significant improvement
+0.7710153443	wind wave
+0.7709855114	wave field
+0.7708834446	primitive equation
+0.7707772737	initial data
+0.7706745930	turbulence closure
+0.7704855756	excellent agreement
+0.7702020276	moist air entropy
+0.7694935855	detrended fluctuation
+0.7694263031	meteorological factors
+0.7689865298	fractional brownian
+0.7689816601	energy balance model
+0.7688254315	ensemble spread
+0.7687933287	vertical velocities
+0.7681967216	natural gas
+0.7681459682	long range
+0.7681180297	river basin
+0.7677778476	flow reversals
+0.7674369566	significant impact
+0.7671953234	tropical pacific
+0.7671873600	power spectra
+0.7670184645	rotating turbulence
+0.7669559949	analytical solution
+0.7669016916	kelt 9b
+0.7666748788	finite time lyapunov exponents
+0.7663242983	wind velocity
+0.7651121243	upper atmosphere
+0.7650626094	lagrangian coherent
+0.7648410424	negative correlation
+0.7648293291	conceptual model
+0.7646214131	velocity fields
+0.7644884027	regional climate
+0.7641236837	earth's surface
+0.7640057829	homogeneous turbulence
+0.7634316553	cross shelf
+0.7634256899	antarctic circumpolar
+0.7633721382	monochromatic waves
+0.7631473719	seasonal variability
+0.7630587244	la ni
+0.7627397045	numerical simulation
+0.7621934142	extreme precipitation
+0.7619425604	ocean surface
+0.7618431297	madden julian
+0.7618140016	energy conservation
+0.7609908441	wind driven
+0.7608480571	incident wave
+0.7608214007	atmospheric dynamics
+0.7600140328	annual cycle
+0.7597477592	ocean swell
+0.7593006774	free slip
+0.7589737410	inertia gravity waves
+0.7584269820	potential flow
+0.7579172871	ensemble prediction
+0.7579029324	future climate
+0.7578799444	experimental results
+0.7572665762	vertical velocity
+0.7567314099	low altitude
+0.7566627852	mass transfer
+0.7565228807	stokes waves
+0.7564793471	coherent eddies
+0.7562774951	wave generation
+0.7560109247	recently proposed
+0.7558370326	free space quantum
+0.7557637211	potential index
+0.7551119582	turbulent kinetic energy
+0.7547685986	el ni
+0.7547391539	sea ice cover
+0.7546943141	climate network
+0.7545876430	north south
+0.7545471584	droplet size
+0.7543081773	periodic forcing
+0.7543067557	layer thickness
+0.7537114313	radiative flux
+0.7534136080	solar energy
+0.7531611350	wave spectra
+0.7524339959	phase function
+0.7523247304	wave turbulence
+0.7521419059	wave fields
+0.7518656804	satellite tracked
+0.7518582069	mid tropospheric
+0.7518177616	scaling exponents
+0.7512701084	global climate models
+0.7510988734	climate predictions
+0.7510240403	wave train
+0.7510201863	eddy fluxes
+0.7509096920	co2 emission
+0.7501060315	water cycle
+0.7499599642	rayleigh benard convection
+0.7496257937	medium range weather forecasts
+0.7493541521	dansgaard oeschger events
+0.7493289131	multi moment
+0.7489679791	parameter values
+0.7489346022	search and rescue
+0.7488673347	wind blown sand
+0.7485567682	dry air
+0.7481521803	network theory
+0.7479841534	low resolution
+0.7479133546	fluid motion
+0.7474803085	wind generated waves
+0.7473329667	condensation nuclei
+0.7472635267	plane parallel
+0.7469531013	transport barrier
+0.7469400167	pure water
+0.7463212524	taking into account
+0.7456140875	scale dependent
+0.7456135888	air temperature
+0.7451160921	solitary wave
+0.7450681011	sea states
+0.7441228797	satellite data
+0.7440926850	la ni \ ~ na
+0.7440623153	coal dust
+0.7437966269	momentum fluxes
+0.7435809609	pressure gradient
+0.7433652952	climate state
+0.7421926690	geostationary operational
+0.7420800916	climate forecasts
+0.7418764796	surface pressure
+0.7416485604	wind forcing
+0.7415589821	ground level pm2.5
+0.7415485251	takes into account
+0.7413304742	spatial scales
+0.7408876884	low dimensional
+0.7406772871	advection diffusion
+0.7405676365	pressure gradients
+0.7398017790	global climate change
+0.7388131241	long term trends
+0.7384339051	sound propagation
+0.7383535529	spectral slope
+0.7383496494	quasi stationary
+0.7382872667	fluctuation analysis
+0.7381487666	dispersive coal dust
+0.7378124812	turbulent flux
+0.7372220206	numerical models
+0.7368933545	stellar flux
+0.7364450326	theoretical predictions
+0.7358420728	temperature records
+0.7357469539	brownian motion
+0.7355363400	phase velocity
+0.7354609535	pressure fluctuations
+0.7354095227	offshore wind
+0.7352956845	electric circuit
+0.7352131859	water levels
+0.7345465067	wave spectrum
+0.7345081683	quasi biennial
+0.7337091098	cloud resolving
+0.7335659800	surface layer
+0.7328554424	upper level
+0.7326441299	root mean square error
+0.7316159792	self organized criticality
+0.7313802032	deep neural
+0.7313551362	multi decadal
+0.7307895150	sea level pressure
+0.7306526829	radiative convective equilibrium
+0.7305101828	sea levels
+0.7302126363	land sea
+0.7299748578	terrestrial gamma ray
+0.7292737039	paper presents
+0.7289545404	coupled atmosphere ocean
+0.7287117690	dust aerosols
+0.7280526611	biennial oscillation
+0.7277555840	covid 19 pandemic
+0.7273805679	wave attenuation
+0.7268241641	complex systems
+0.7267045876	error covariance
+0.7266037118	multi scale
+0.7264708726	meteorological data
+0.7258505067	surface temperatures
+0.7258454811	power plant
+0.7256388198	atmospheric conditions
+0.7254600700	quasi biennial oscillation
+0.7253942716	wave amplitude
+0.7250087782	gamma ray flashes
+0.7230832013	aerosol particles
+0.7227742669	air sea
+0.7222666250	surface elevation
+0.7218599599	field measurements
+0.7218409905	climate forcing
+0.7216081701	degrees of freedom
+0.7208859595	low level
+0.7207626243	acoustic gravity
+0.7207555717	radiative effects
+0.7198419108	mechanical energy
+0.7197260600	short wave
+0.7192926132	air sea interaction
+0.7191995596	wind field
+0.7188331092	rotating shallow water
+0.7188112899	atmospheric turbulence
+0.7185401393	decadal oscillation
+0.7179699263	atmospheric carbon dioxide
+0.7179561155	korteweg de vries
+0.7173622008	probabilistic forecast
+0.7171850462	water column
+0.7168506190	clustering instability
+0.7168481040	wave induced
+0.7164032282	water resources
+0.7162339814	vertical resolution
+0.7157226448	open ocean
+0.7153535906	numerical methods
+0.7148432471	state variables
+0.7144951058	upper ocean
+0.7143989146	atmospheric aerosols
+0.7140253431	results suggest
+0.7134367526	wave period
+0.7133133441	model output
+0.7131188904	energy input
+0.7129997700	perturbation theory
+0.7127020515	energy dissipation
+0.7126705208	energy flux
+0.7126472214	satellite based
+0.7125818427	numerical solution
+0.7123421210	energy dissipation rate
+0.7122878590	synoptic scale
+0.7122440541	finite size
+0.7115870612	physical mechanisms
+0.7115831702	dust particles
+0.7107223647	surface waves
+0.7103489528	covid 19 lockdown
+0.7100290003	wind input
+0.7100169929	energy conserving
+0.7099363842	temporal variability
+0.7097986090	spectral method
+0.7095193725	results demonstrate
+0.7094732945	sea waves
+0.7091044357	precipitable water
+0.7089227922	seasonal precipitation
+0.7087041010	strong winds
+0.7083445662	entropy potential temperature
+0.7081725540	linear response
+0.7074511970	glacial interglacial
+0.7065253058	vertical shear
+0.7064202423	convective boundary layer
+0.7063965363	internal gravity wave
+0.7060360293	linear approximation
+0.7058823905	dust aerosol
+0.7056377118	model error
+0.7053381606	air density
+0.7053275670	data processing
+0.7048656721	scale invariant
+0.7043395288	structure function
+0.7042575024	wave dissipation
+0.7040601939	temperature lapse rate
+0.7037314748	horizontal resolution
+0.7034931975	meridional overturning
+0.7033937995	phase transition
+0.7031388211	high altitudes
+0.7030788984	turbulent convection
+0.7028251659	orders of magnitude
+0.7027614308	solar constant
+0.7026350438	signal to noise ratio
+0.7025158356	linear theory
+0.7023200738	future research
+0.7023185602	ice clouds
+0.7022563664	adversarial network
+0.7021651078	european centre
+0.7019651023	atlantic oscillation
+0.7011741472	el nino southern
+0.7006842467	data analysis
+0.7006716685	paper describes
+0.7001978686	shallow water model
+0.7000196469	coal dust particles
+0.6998991937	wind profile
+0.6998055281	numerical method
+0.6995402127	heat release
+0.6994661721	global surface temperature
+0.6992640352	global temperature
+0.6989613899	spectral properties
+0.6985900488	ensemble forecast
+0.6984033510	boundary layer turbulence
+0.6983096325	vertical mixing
+0.6980739728	spectral analysis
+0.6978427998	numerical results
+0.6977042845	atlantic meridional
+0.6970362357	double diffusive
+0.6967765142	paper reviews
+0.6963459712	ozone concentrations
+0.6963002014	polarized radiative
+0.6962455460	critical layer
+0.6960061997	extensive air
+0.6956978158	direct numerical
+0.6955975993	large scales
+0.6955827630	single scattering
+0.6941602314	ozone profiles
+0.6940889537	nuclear power
+0.6935417522	high accuracy
+0.6934211456	chaotic mixing
+0.6931924872	wave scattering
+0.6930112367	weather research and forecasting
+0.6928703718	random matrix
+0.6926595590	wave kinetic equation
+0.6926526591	water level
+0.6921246880	important role
+0.6916200965	shear driven
+0.6910435439	julian oscillation
+0.6905399266	high speed
+0.6904173937	thermal structure
+0.6898651196	planetary waves
+0.6892535898	benard convection
+0.6887877851	mars climate
+0.6887725690	lower layer
+0.6887469326	new york city
+0.6886771934	spectral density
+0.6883867428	number concentration
+0.6883793742	ocean atmosphere
+0.6883432863	fluid layer
+0.6882321391	mesoscale eddy
+0.6881554722	lyapunov analysis
+0.6881366953	sea water
+0.6872161811	mixing length
+0.6871999993	ice free
+0.6867092848	low order
+0.6866735175	vorticity field
+0.6866287025	wave modes
+0.6865795146	medium range weather
+0.6861665372	turbulent transport
+0.6860261577	horizontal velocity
+0.6857686983	climate variables
+0.6852701558	modeling approach
+0.6840806800	atmosphere ocean
+0.6838861701	numerical study
+0.6838671241	organic aerosol
+0.6834998564	albedo feedback
+0.6829985679	frequency band
+0.6828237094	climate dynamics
+0.6827515865	friction velocity
+0.6819963669	data assimilation algorithm
+0.6819455393	rain events
+0.6817207391	internal energy
+0.6816693439	statistically steady
+0.6812880319	atmospheric ionization
+0.6807680059	vorticity equation
+0.6804288889	covariant lyapunov
+0.6803828167	earth atmosphere
+0.6801074066	astronomical forcing
+0.6800477848	structural stability
+0.6800385705	climate modeling
+0.6797543620	equilibrium state
+0.6788944786	low mach
+0.6788377648	cloud properties
+0.6784420378	feedback processes
+0.6783876465	element method
+0.6778780280	climate response
+0.6778311032	conceptual models
+0.6777386817	gas phase
+0.6774025641	high sensitivity
+0.6771303833	circulation model
+0.6770269194	box model
+0.6769370920	hurricane conditions
+0.6767183907	solar forcing
+0.6765346839	air filters
+0.6764136854	flow regimes
+0.6763854517	stability properties
+0.6762492676	ocean heat
+0.6760858286	rossby deformation
+0.6760288531	temperature variations
+0.6757329249	point of view
+0.6757011780	ozone concentration
+0.6754325804	global scale
+0.6752028013	equator to pole
+0.6750447132	global super rotation
+0.6746339717	multi model
+0.6741792809	water wave
+0.6738727859	satellite derived
+0.6737748048	natural variability
+0.6735825447	lightning activity
+0.6730560952	weather conditions
+0.6728740633	free atmosphere
+0.6727596376	daily rainfall
+0.6727406955	stratified flows
+0.6726516154	surrogate models
+0.6725276614	long waves
+0.6723996065	results provide
+0.6723942507	turbulent transition
+0.6723332947	acoustic waves
+0.6722583068	surface currents
+0.6721562210	strongly nonlinear
+0.6721399106	recent results
+0.6719648736	hasegawa mima model
+0.6718172109	air pressure
+0.6715222574	inertia gravity
+0.6712055340	gulf of mexico
+0.6711391655	recent studies
+0.6709920836	circumpolar current
+0.6707878956	large eddy
+0.6706278448	statistical analysis
+0.6705638030	climate simulations
+0.6705262959	large amplitude
+0.6704299812	coastal regions
+0.6702667675	atmospheric aerosol
+0.6702397842	environmental conditions
+0.6694482104	turbulent fluctuations
+0.6693098061	density stratification
+0.6692926524	coherent structure
+0.6691164771	rate coefficients
+0.6689108960	velocity profile
+0.6686111364	lagrangian transport
+0.6684495697	wave equation
+0.6683473596	wavelet analysis
+0.6682664716	inertial particle
+0.6681402061	significant increase
+0.6676745212	vertical profiles
+0.6676402188	ice area
+0.6675166791	based approach
+0.6674969451	homogeneous isotropic
+0.6674726317	numerical schemes
+0.6673463145	physical mechanism
+0.6671662181	error growth
+0.6669673912	density function
+0.6669376461	analysis shows
+0.6667080647	wall turbulence
+0.6663715167	moist entropy
+0.6657972424	learning algorithms
+0.6657183490	wave solutions
+0.6655643379	wave mode
+0.6653454896	surface air
+0.6650885700	theoretical framework
+0.6649347231	heat waves
+0.6639658421	energy spectra
+0.6633948472	noise induced
+0.6630522213	ocean model
+0.6626387022	global mean surface temperature
+0.6625998640	global temperatures
+0.6623258206	inertial range
+0.6618517112	previous results
+0.6618223345	ice extent
+0.6616476925	atmospheric processes
+0.6614891124	energy spectrum
+0.6613865806	atmospheric surface layer
+0.6609451896	spectral peak
+0.6598829864	times larger
+0.6595815992	temperature profiles
+0.6595468786	jupiter and saturn
+0.6588720594	weather events
+0.6587125688	production rate
+0.6585025791	high latitude
+0.6584489438	self similarity
+0.6584115116	high performance
+0.6584114166	velocity gradient
+0.6583809960	temperature anomaly
+0.6583125952	linear trend
+0.6579097888	prediction models
+0.6578999383	material entropy
+0.6578055579	phase speed
+0.6576803579	order of magnitude
+0.6575915166	analysis reveals
+0.6575149845	quantum key
+0.6573405653	channel flow
+0.6570734324	deep convection
+0.6564624308	transport processes
+0.6563406471	simulation results
+0.6557951151	statistical method
+0.6552140225	nonlinear dynamics
+0.6551958397	numerical model
+0.6549371610	small amplitude
+0.6545540958	sea ice extent
+0.6541471838	wave action
+0.6539556686	seasonal variations
+0.6537570633	internal gravity
+0.6536027328	breaking wave
+0.6535860368	water depth
+0.6533028534	physical parameters
+0.6529264774	data collected
+0.6529225342	key role
+0.6528590219	high level
+0.6527502446	chemical transport
+0.6525548023	average temperature
+0.6524034366	evolution equations
+0.6523895261	numerical solutions
+0.6523538251	vertical direction
+0.6522749448	expressed in terms
+0.6521990670	solar proton
+0.6521163331	analytical model
+0.6520999331	energy levels
+0.6520038001	geostrophic turbulence
+0.6517929176	preliminary results
+0.6514959008	atmospheric variability
+0.6511960687	wave growth
+0.6510504332	quasi periodic
+0.6509028294	surface level
+0.6508451157	ice nucleation
+0.6496532903	beta plane turbulence
+0.6496156953	relative error
+0.6492762544	km resolution
+0.6487519668	planetary atmosphere
+0.6481815926	stability theory
+0.6481110447	long duration
+0.6479632893	stability analysis
+0.6479325354	boundary layer flow
+0.6476539522	nonlinear shallow water
+0.6469925537	low latitude
+0.6468248222	aerosol optical
+0.6466125849	gcm simulations
+0.6463735175	solar variability
+0.6462098388	analytical models
+0.6460072610	vertical motion
+0.6455168318	sufficiently large
+0.6455027679	environmental satellite
+0.6447470411	energy generation
+0.6439359735	grid scale
+0.6436567684	weather forecast
+0.6435819570	life on earth
+0.6434452919	simple statistical
+0.6430849980	signal to noise
+0.6428894662	antarctic ice
+0.6428460951	frequency range
+0.6428092003	spatial scale
+0.6428045875	cloud particles
+0.6427988393	small number
+0.6426606663	temperature inversion
+0.6425976456	short range
+0.6421159086	statistical modelling
+0.6419904576	empirical models
+0.6418724004	results support
+0.6414293231	energy transport
+0.6414110298	wave forcing
+0.6411596876	quasi steady
+0.6410609571	monsoon rainfall
+0.6410564256	gauge records
+0.6406750617	warm climate
+0.6406385704	velocity fluctuations
+0.6395385902	ocean wave
+0.6392699867	planetary scale
+0.6392366173	earth surface
+0.6392060494	probability density
+0.6385934200	coupled atmosphere
+0.6385016945	convective activity
+0.6382856467	training data
+0.6380884097	scaling properties
+0.6378600665	weather research
+0.6376474087	laboratory measurements
+0.6375034811	cloud layer
+0.6374471053	air water
+0.6369485039	wave wave interactions
+0.6368537066	meteorological conditions
+0.6362210961	wind blown
+0.6354181132	atmospheric research
+0.6350992756	low frequency variability
+0.6350036600	ocean dynamics
+0.6348943329	radiative transfer model
+0.6348149693	global climate model
+0.6348103206	fluid particles
+0.6347804354	local weather
+0.6344476410	astronomical observations
+0.6342425221	background flow
+0.6338243833	thermal diffusion
+0.6332524255	numerical modeling
+0.6332310288	small parameter
+0.6331158636	planetary boundary
+0.6330423174	energy fluxes
+0.6329078539	density functions
+0.6324924781	polar ice
+0.6321613643	spatial structure
+0.6313265855	dynamical equations
+0.6309065371	surface wind speed
+0.6306940778	arctic sea
+0.6305106641	circulation models
+0.6300665544	diffusion equation
+0.6300569354	present results
+0.6299509763	ice concentration
+0.6298882663	wave interaction
+0.6294637524	higher resolution
+0.6293393854	surrogate model
+0.6291057498	geophysical fluid
+0.6290823179	changing climate
+0.6287779987	nonlinear interaction
+0.6286225848	low pressure
+0.6285306664	el ni \ ~
+0.6277781254	cloud radiative
+0.6273503061	correlation analysis
+0.6272390364	climate oscillations
+0.6272043602	global dust
+0.6258387421	small particles
+0.6255972391	mathematical model
+0.6254546977	radar data
+0.6251281598	remote sensing data
+0.6250889998	shallow water theory
+0.6248326104	temporal evolution
+0.6248224321	inverse energy
+0.6246729169	ocean currents
+0.6245093194	statistical properties
+0.6242508589	extreme wave
+0.6241976106	statistical model
+0.6241739194	oscillation index
+0.6236548944	total energy
+0.6231121608	ensemble weather
+0.6229338570	rotating planets
+0.6229292971	flux variability
+0.6218322937	planetary rotation
+0.6216726980	transfer equation
+0.6216430067	temperature variation
+0.6215723790	temperature gradients
+0.6208748794	eddy energy
+0.6202920369	quasi geostrophic model
+0.6202227148	surface area
+0.6200136064	surface fluxes
+0.6197910445	oceanic heat
+0.6196534811	results confirm
+0.6190796113	super rotation
+0.6182468769	turbulent state
+0.6174795397	weak turbulence
+0.6173286859	temperature rise
+0.6170695703	atmospheric composition
+0.6159041765	stratified flow
+0.6154003451	earth like planets
+0.6153988952	observation data
+0.6148530633	statistical state
+0.6148005137	response function
+0.6145466343	forecasting systems
+0.6144914415	stochastic models
+0.6144088030	incoming solar
+0.6138554577	eta model
+0.6136393493	large scale flow
+0.6136147337	high energy cosmic
+0.6128512649	cloud free
+0.6122926345	temporal scales
+0.6117841632	small scale turbulence
+0.6115862573	proton events
+0.6115673970	wide range
+0.6113883595	atmospheric layer
+0.6105262635	northern and southern
+0.6103221741	global average
+0.6101272708	computational fluid
+0.6100594715	natural and anthropogenic
+0.6097036591	spatial and temporal scales
+0.6092682179	fluid flows
+0.6091688420	long period
+0.6088514344	ensemble based
+0.6087253499	theoretical results
+0.6073103906	layer depth
+0.6072064472	lorenz 96
+0.6067541358	climate conditions
+0.6060515048	surface albedo
+0.6059523299	self aggregation
+0.6058542018	strong solutions
+0.6052124493	vertical distribution
+0.6039619830	energy density
+0.6032007463	wave interactions
+0.6021262634	satellite measurements
+0.6020938427	high reynolds
+0.6018634887	ice albedo
+0.6017054289	law of thermodynamics
+0.6015897256	study area
+0.6007984783	dispersive wave
+0.6006340605	main objective
+0.6004014733	wind induced
+0.6000772380	flow patterns
+0.5997206940	energy and enstrophy
+0.5989406516	flow structures
+0.5988224764	temporal and spatial
+0.5985821602	precipitation events
+0.5981096287	space based
+0.5979585161	radiative convective
+0.5975831041	turbulent thermal
+0.5970890745	ocean atmosphere model
+0.5967265118	large scale structures
+0.5949571897	multi layer
+0.5943814606	weather prediction models
+0.5940300013	coupled model
+0.5938753063	carlo simulation
+0.5938640306	self organization
+0.5936916296	covid 19
+0.5935377236	landfalling hurricane
+0.5932723834	validation results
+0.5921877343	coupled atmosphere fire
+0.5921125209	forecast models
+0.5921028784	ultra hot
+0.5887024802	turbulent kinetic
+0.5882352666	vertical structure
+0.5880639065	recent years
+0.5876048305	waves propagating
+0.5869250321	tsunami wave
+0.5867593287	least squares
+0.5867281725	detailed analysis
+0.5860309908	network based
+0.5853751056	geostrophic flow
+0.5852409687	temperature increase
+0.5847604528	energy cycle
+0.5841834239	large scale circulation
+0.5839567362	atmospheric effects
+0.5835067391	analytical results
+0.5827416828	decadal time scales
+0.5826151139	long and short
+0.5810743560	square error
+0.5806928863	model outputs
+0.5805433070	available potential energy
+0.5799472108	tropical atmosphere
+0.5798106481	nonlinear dynamical
+0.5797102154	model predicts
+0.5788257617	atmospheric parameters
+0.5786284258	stratified shear
+0.5777372828	strong turbulence
+0.5769634365	research and forecasting
+0.5763241979	wave dynamics
+0.5744988480	temperature profile
+0.5733513471	mesoscale model
+0.5730175312	climate prediction
+0.5719483044	results obtained
+0.5704620238	temperature data
+0.5704538019	results showed
+0.5704270376	equation of state
+0.5696612751	marginal ice
+0.5695417905	static energy
+0.5693863389	network approach
+0.5692615325	wrf model
+0.5689648075	important implications
+0.5684586979	temperature and salinity
+0.5679681695	cloud to ground
+0.5677699208	meso nh model
+0.5663919923	large scale coherent
+0.5656492869	number of hurricanes
+0.5649491344	temperature difference
+0.5649152142	spatial and temporal
+0.5643074934	atmospheric model
+0.5641537210	cloud condensation
+0.5637554815	transport and mixing
+0.5633430346	surface ocean
+0.5632450807	surface gravity
+0.5629083489	lorenz 96 model
+0.5627840215	rotating shallow
+0.5625028266	global carbon
+0.5617706106	coupled climate
+0.5606945889	air flow
+0.5604853267	nonlinear equations
+0.5586290287	nonlinear schr \
+0.5570249841	layer quasi geostrophic
+0.5560100377	water equations
+0.5559288575	field observations
+0.5553640388	horizontal and vertical
+0.5549879043	component analysis
+0.5544551750	term trends
+0.5543937973	energy gradient
+0.5542054199	el ni \ ~ no
+0.5533513041	spatial distribution
+0.5511460488	large scale atmospheric
+0.5505011656	4d var
+0.5495949216	oceanic and atmospheric
+0.5493619360	gradient richardson
+0.5478911198	learning methods
+0.5478508683	measured data
+0.5471189219	study investigates
+0.5461207471	earth system model
+0.5450265770	mixing and transport
+0.5448544372	terrestrial gamma
+0.5444162664	gnss r
+0.5428280419	well posedness of strong solutions
+0.5416893790	atmosphere and ocean
+0.5411568319	equations of motion
+0.5398071012	e pi
+0.5386928877	ground based observations
+0.5379912475	local and global
+0.5354197868	weather and climate
+0.5351568319	linear and nonlinear
+0.5347123623	temperature and pressure
+0.5342589181	learning method
+0.5342482784	temperature and precipitation
+0.5339602235	atmospheric models
+0.5332459833	global ocean
+0.5323738335	inter model
+0.5321760345	nonlinear wave
+0.5312043712	pressure and temperature
+0.5311132243	moist atmospheric
+0.5302249163	surface wave
+0.5301339818	regional model
+0.5299908626	level set
+0.5283366148	atmospheric forcing
+0.5273119603	dome c
+0.5260411573	x ray
+0.5241201336	wave ice
+0.5227651174	wildland fire
+0.5193673582	ocean and atmosphere
+0.5178187089	trajectory model
+0.5161865303	forecast model
+0.5160448161	ocean general circulation
+0.5157520882	global well posedness
+0.5155533549	turbulent velocity
+0.5155207163	ahead prediction
+0.5146706241	earth climate
+0.5136625069	spectral wave
+0.5130148087	global atmospheric
+0.5123686769	wave kinetic
+0.5116569175	air filter
+0.5112098165	era 40
+0.5110687083	statistical models
+0.5109516553	wave events
+0.5101901267	so called
+0.5098835876	climate data
+0.5083827011	global weather
+0.5081864414	current climate
+0.5063583871	relative importance
+0.5061671701	model intercomparison
+0.5061658624	temperature field
+0.5060814881	carlo simulations
+0.5040002312	surface height
+0.5039657899	z burst
+0.5037430076	wave model
+0.5032304732	c_n ^ 2
+0.5010218295	wm 2
+0.4980573742	set of equations
+0.4950758884	level rise
+0.4942735772	the maximal lie invariance
+0.4907810111	vertical turbulent
+0.4907485146	model performance
+0.4905792176	the pierre auger
+0.4897092326	weather and climate models
+0.4895575725	eddy kinetic
+0.4881818619	surface current
+0.4868201335	sea ice model
+0.4845702679	surface heat
+0.4842091247	wave models
+0.4831439974	theoretical model
+0.4818048014	daily temperature
+0.4776192539	stable boundary
+0.4775314192	forecasting models
+0.4769571092	sensible heat
+0.4763437371	non trivial
+0.4759328357	obtained results
+0.4758582048	ocean models
+0.4753742318	part ii
+0.4752269838	w m2
+0.4749063751	convective boundary
+0.4734411389	atmospheric boundary
+0.4723662504	surface wind
+0.4722608672	regression model
+0.4720486962	situ measurements
+0.4687678253	current global
+0.4687306491	jason 1
+0.4667120380	available enthalpy
+0.4659223389	model describing
+0.4654097141	ocean general
+0.4652056777	this paper presents
+0.4618608616	wind generated
+0.4613391732	wave climate
+0.4613347378	gas emissions
+0.4581570371	weather data
+0.4575425488	model errors
+0.4569844224	high spatial
+0.4569262330	self similar
+0.4562681948	cut off
+0.4548257208	wrf fire
+0.4538569674	learning approach
+0.4526088947	non gaussian
+0.4516850651	present paper
+0.4510161588	agreement with previous
+0.4509589701	temperature variability
+0.4505128200	level pressure
+0.4497225931	empirical model
+0.4497073424	atmosphere model
+0.4490436527	atmospheric state
+0.4487449390	trade off
+0.4483779733	data obtained
+0.4478012181	precipitation data
+0.4463734657	atmospheric electric
+0.4444399510	flow field
+0.4411534422	global circulation
+0.4393076328	third order
+0.4382708521	cloud model
+0.4381414097	three dimensional
+0.4378672301	ray flux
+0.4373204942	lower atmosphere
+0.4358598085	vertical temperature
+0.4333523449	non normality
+0.4325999313	ultra high
+0.4316649449	moisture model
+0.4292629420	high degree
+0.4276494001	physical model
+0.4267484152	vertical wind
+0.4264985468	self consistent
+0.4262058876	transport model
+0.4256149495	sub grid
+0.4235251182	second order
+0.4219126887	per unit
+0.4206234159	good agreement
+0.4200929161	near inertial waves
+0.4198773154	per cent
+0.4185525073	non hydrostatic
+0.4148706477	temperature trends
+0.4147487277	carried out
+0.4131367046	stochastic model
+0.4129357596	geostrophic model
+0.4128544169	atmospheric greenhouse
+0.4126164544	turbulence theory
+0.4115633356	dynamic model
+0.4108749547	small dispersive
+0.4107387354	induced atmospheric
+0.4090902763	et al
+0.4088882555	two dimensional
+0.4076592123	publicly available
+0.4063388610	balance model
+0.4043719384	fire spread
+0.4043470920	run up
+0.4027244326	data shows
+0.4013770971	non monotonic
+0.4012550562	developed turbulence
+0.4012472918	model parameters
+0.4011427536	l band
+0.4000134790	round off
+0.3975262111	atmospheric temperature
+0.3973412074	break up
+0.3971225136	surface flow
+0.3965328059	important implications for
+0.3961622653	this study investigates
+0.3961575154	extreme value
+0.3949810995	global mean surface
+0.3942769296	w_ r
+0.3926234632	atmospheric flow
+0.3916422535	european centre for
+0.3914525327	best fit
+0.3912340129	temperature fields
+0.3893020134	eddy simulations
+0.3883121292	third law
+0.3882749553	model predictions
+0.3875872922	times larger than
+0.3868740250	validated against
+0.3857405893	range of scales
+0.3855683432	model resolution
+0.3854304460	widely used
+0.3851974212	total number of
+0.3843879005	temperature stratified
+0.3841359296	excellent agreement with
+0.3837078008	this paper reviews
+0.3833998943	new york
+0.3833123306	significant wave
+0.3829022611	observed data
+0.3826526165	fluid model
+0.3820449301	low cloud
+0.3816318154	near infrared
+0.3811387485	rayleigh b \
+0.3795973723	bottom topography
+0.3795358268	water path
+0.3770982633	model equations
+0.3751856737	wave run up
+0.3743113703	el ni \ ~ n o
+0.3736642583	model simulations
+0.3725830235	simple model
+0.3724524078	not necessarily
+0.3719190515	an important role
+0.3718297807	linear model
+0.3717924122	faster than
+0.3716371387	\ cite
+0.3669803891	wind data
+0.3664864828	human made
+0.3663493254	the madden julian oscillation
+0.3663263689	time series
+0.3650036502	taken into account
+0.3637012764	commonly used
+0.3621138838	non linear
+0.3617439606	surface flows
+0.3617320857	speed data
+0.3616830049	ice zone
+0.3611041306	\ text
+0.3610545259	= 0
+0.3605625305	cloud top
+0.3600798715	global energy
+0.3595713991	100 kyr
+0.3573019000	\ emph
+0.3569756992	an open source
+0.3567748458	influence of solar
+0.3563398690	set method
+0.3542356166	scale coherent
+0.3541268513	well posedness
+0.3533553499	turbulent boundary
+0.3519512026	global cloud
+0.3516599080	eddy simulation
+0.3514415878	layer flow
+0.3508779893	layer model
+0.3502396642	present study
+0.3489949470	\ approx
+0.3480870841	2d euler
+0.3467888051	the northern hemisphere
+0.3466285895	insights into
+0.3464925649	spin up
+0.3457296245	maximum wind
+0.3451151696	\ textrm
+0.3444694986	insight into
+0.3440361848	convective equilibrium
+0.3437201402	wave formation
+0.3433398137	this paper describes
+0.3428911134	scale climate
+0.3424166901	equilibrium statistical
+0.3400135275	self organized
+0.3390461647	variational data
+0.3388976270	the nonlinear shallow
+0.3387033162	proposed method
+0.3384439369	\ le
+0.3382393449	day night
+0.3380641820	few decades
+0.3376552704	non stationary
+0.3374034100	water surface
+0.3370787355	\ leq
+0.3351637654	\ mathbf
+0.3346576774	sensing data
+0.3345304101	this paper introduces
+0.3343644984	poincar \
+0.3340999405	wave instability
+0.3335084808	\ sqrt
+0.3332809697	real time
+0.3323540037	rate of change
+0.3323292644	sea wave
+0.3315593988	\ textit
+0.3310246113	global model
+0.3309774315	k ^ 5
+0.3308724797	global surface
+0.3301759030	\ rm
+0.3293677754	atmospheric water
+0.3292493951	^ 2
+0.3288127989	numerical wave
+0.3284852590	\ omega
+0.3274632838	root mean
+0.3271927235	prediction model
+0.3270791477	field data
+0.3269702521	arm \
+0.3256574411	total solar
+0.3244151696	\ infty
+0.3217767758	previous work
+0.3216754335	using deep learning
+0.3216604479	earth system
+0.3214647979	in recent years
+0.3209550602	stratified atmospheric
+0.3205797242	model based
+0.3204995823	nonlinear model
+0.3196743947	atmospheric data
+0.3189933497	wave problem
+0.3181487024	the quasi biennial oscillation
+0.3177761172	$ _3
+0.3177400299	model data
+0.3166151696	\ rho
+0.3155964602	one dimensional
+0.3149024985	proposed approach
+0.3146343680	\ deg
+0.3146151696	\ propto
+0.3140970603	\ bf
+0.3140581669	flow model
+0.3139382600	take into account
+0.3129272526	dimensional model
+0.3127644233	\ boldsymbol
+0.3126151696	\ rangle
+0.3123983084	non stationarity
+0.3119748082	model results
+0.3108468069	\ varepsilon
+0.3106151696	\ nabla
+0.3104409886	km away
+0.3103054280	10 ^ 6
+0.3102742797	based observations
+0.3097982350	so far
+0.3096207022	non uniform
+0.3093362375	\ aa
+0.3084180503	de vries
+0.3081512021	atmospheric carbon
+0.3080115906	observed global
+0.3065940129	mode 2
+0.3059201052	the present study
+0.3058937523	greater than
+0.3049921798	\ sigma
+0.3043939568	surface velocity
+0.3028732633	time dependent
+0.3023686531	$ rn
+0.3023085288	wave data
+0.3020314812	agree well
+0.3013686531	$ _x
+0.3011343903	well defined
+0.3010589041	deg c
+0.3003686531	$ _4
+0.2983684676	on board
+0.2977834372	relative importance of
+0.2975286699	^ 1
+0.2959845839	first principles
+0.2954935900	\ overline
+0.2939248825	\ xi
+0.2938582655	\ mathrm
+0.2936276496	interplay between
+0.2929109109	^ 3
+0.2923610698	\ langle
+0.2903803069	$ \ alpha
+0.2902599132	balance models
+0.2896656455	well mixed
+0.2884100508	well balanced
+0.2873369620	critical value
+0.2870478040	\ tau_
+0.2866325646	all sky
+0.2860957982	high degree of
+0.2851172800	1.5 \ deg
+0.2849109455	ni \ ~ no
+0.2842688326	time scales
+0.2840103022	\ pm
+0.2838306791	two kinds
+0.2831707944	did not
+0.2822083459	decomposed into
+0.2812469183	non equilibrium
+0.2811531436	waves generated by
+0.2803659252	wave wave
+0.2789383761	80 km
+0.2772457515	100 km
+0.2768514676	\ sim
+0.2757543024	statistical analysis of
+0.2738502313	smaller than
+0.2737647001	power spectrum of
+0.2728468892	network model
+0.2723584751	larger than
+0.2715753251	lyapunov analysis of
+0.2709764617	relationship between
+0.2704828529	^ \ circ
+0.2699475199	forecasting model
+0.2688450770	\ theta _ s
+0.2683312246	caused by
+0.2681823697	schr \
+0.2681295232	numerical simulation of
+0.2680940506	\ lambda
+0.2675200963	\ lesssim
+0.2674653860	solar system
+0.2673112540	$ \ nu_
+0.2671258210	statistical properties of
+0.2665281379	series analysis
+0.2659991019	mean square error
+0.2654396533	10 ^ 4
+0.2651574711	ni \ ~ n
+0.2649174605	referred to as
+0.2648386785	better understand
+0.2639693129	in situ measurements
+0.2636240450	detailed analysis of
+0.2631312246	characterized by
+0.2612681013	time series analysis
+0.2600516078	regarded as
+0.2597128032	~ 10
+0.2596791403	$ _2
+0.2594708012	this paper
+0.2593513351	equilibrium climate
+0.2592593542	governed by
+0.2592359421	10 ^ 7
+0.2586020933	11 year
+0.2580924610	volume method
+0.2580823550	serve as
+0.2576839047	coupled ocean
+0.2572290564	well known
+0.2569950224	two dimensional turbulence
+0.2551899321	a simple model
+0.2550624864	lead time
+0.2542969714	cloud amount
+0.2537319045	forecast system
+0.2537192450	s ^ 1
+0.2534570114	\ bar n
+0.2529916259	initial value
+0.2522799570	\ tau
+0.2522519642	\ mathcal
+0.2522281219	depending on
+0.2519172453	\ kappa
+0.2512269517	~ 1
+0.2506425506	probability density function of
+0.2500573271	the madden julian
+0.2493374092	60 year
+0.2492630736	the north atlantic oscillation
+0.2486889557	an howarth
+0.2471216657	last glacial
+0.2469434590	shorter than
+0.2458804524	wide range of
+0.2458215732	two stream
+0.2457360924	well established
+0.2452144856	\ mu
+0.2446164210	10 ^ 5
+0.2441514377	slower than
+0.2437309306	mean square
+0.2426851006	first order
+0.2422080002	the hydrological cycle
+0.2414935215	a case study
+0.2407934335	temporal evolution of
+0.2395611758	~ 2
+0.2390138094	information about
+0.2363993966	approach based on
+0.2363770264	atmospheric optical
+0.2362934236	near surface air
+0.2361590719	year ahead prediction of
+0.2357439820	internal gravity waves in
+0.2356039684	$ \ delta
+0.2355529199	very large
+0.2352146864	even though
+0.2349772107	under consideration
+0.2349055960	leads to
+0.2342369034	multi year
+0.2341696589	this article
+0.2332826674	depends on
+0.2328365681	remote sensing of
+0.2327231948	time series data
+0.2320040545	$ _
+0.2308559760	climate response to
+0.2307995755	spatial distribution of
+0.2306086214	based on
+0.2303868726	27 day
+0.2302706351	$ \ mu
+0.2297649802	large number of
+0.2295085046	statistical modelling of
+0.2293020661	numerical simulations of
+0.2289244101	particular attention
+0.2285094251	deg n
+0.2284086320	near inertial
+0.2283547412	nonlinear dynamics of
+0.2275509892	the lower atmosphere
+0.2264490085	not well understood
+0.2256093222	size distribution of
+0.2253833198	$ \ sim
+0.2252521991	finite time
+0.2252450061	the upper atmosphere
+0.2250112198	higher than
+0.2245569288	resolution model
+0.2233219254	responsible for
+0.2228103348	results indicate
+0.2224200912	$ \ pm
+0.2221937700	influenced by
+0.2218701373	algorithm based on
+0.2218004552	based upon
+0.2215398526	future changes
+0.2203600681	\ mu m
+0.2200593553	co2 +
+0.2200547068	give rise to
+0.2199716969	time interval
+0.2190400504	a broad range
+0.2188414337	learning models
+0.2183481775	water model
+0.2182499315	using direct numerical
+0.2181778827	\ alpha
+0.2175528577	time delay
+0.2174123083	vertical profiles of
+0.2173022293	non kolmogorov
+0.2171189093	focuses on
+0.2170866248	a power law
+0.2170637648	seasonal cycle of
+0.2159139732	scale processes
+0.2156729206	in situ
+0.2145864808	does not
+0.2135800120	owing to
+0.2135087304	night time
+0.2133509411	non dimensional
+0.2133171361	non parametric
+0.2130790247	$ ^ 1
+0.2129764016	ranging from
+0.2123444623	w m ^
+0.2119648245	60 years
+0.2114877764	\ theta
+0.2106410966	internal waves in
+0.2105300064	top of atmosphere
+0.2104935744	refers to
+0.2101526939	the present paper
+0.2096488906	rather than
+0.2094408263	an idealized
+0.2091487851	differences between
+0.2080300459	accounted for
+0.2076752272	relies on
+0.2070540935	more realistic
+0.2069157388	global sea
+0.2067346767	space time
+0.2066225496	near surface
+0.2065308057	\ deg c
+0.2063904457	the proposed model
+0.2062428951	a key role
+0.2061249486	strong solutions to
+0.2059760522	rely on
+0.2058090514	one hand
+0.2048406705	important role in
+0.2047590927	subjected to
+0.2047493956	^ 4
+0.2043809450	\ epsilon
+0.2042328268	replaced by
+0.2041438829	vertical structure of
+0.2040740507	more sophisticated
+0.2039664444	lead to
+0.2037525124	the proposed approach
+0.2033758335	ni \ ~ n o
+0.2032994125	$ \ epsilon
+0.2032024868	waves propagating in
+0.2030302254	numerical experiments with
+0.2026479048	re analysis
+0.2026209556	method based on
+0.2025050461	= 1
+0.2015795630	length scale of
+0.2013950950	state dynamics
+0.2010218017	neural networks for
+0.2007258078	earth like
+0.2005976222	l ^
+0.2004598794	correspond to
+0.2004061642	into account
+0.2003036525	do not
+0.2002604530	unable to
+0.1999598794	tend to
+0.1999549546	connection between
+0.1995089254	no longer
+0.1993815264	space and time
+0.1989570239	cosmic rays on
+0.1980851800	gravity waves on
+0.1979219715	link between
+0.1978287413	of wind generated
+0.1975362872	able to reproduce
+0.1974962766	gives rise to
+0.1972868554	more pronounced
+0.1972719441	in conjunction
+0.1971273255	a low order
+0.1967202469	m s
+0.1962914885	\ delta
+0.1959394272	direct numerical simulations of
+0.1958684040	a wide range
+0.1956321156	recent work
+0.1951675145	affected by
+0.1951410651	produced by
+0.1949121419	time scale
+0.1947967243	non zonal
+0.1946930583	the proposed method
+0.1945148951	habitable zone of
+0.1944408077	same period
+0.1942096049	10 ^
+0.1942006461	system of equations
+0.1940249199	consistent with
+0.1936992335	$ \ mathcal
+0.1931488323	more accurate
+0.1927979189	the annular mode
+0.1927751033	suffer from
+0.1921321903	$ \ gamma
+0.1918853050	well understood
+0.1913220495	attributed to
+0.1899589945	time step
+0.1890157068	lower than
+0.1889365535	compared to
+0.1879460828	phase changes
+0.1876032279	the total solar
+0.1875937045	^ 7
+0.1872395049	value problem
+0.1870004146	too small
+0.1869377046	per year
+0.1860085177	zonal mean
+0.1858678933	this study
+0.1856996468	relationships between
+0.1855050791	derived from
+0.1850926751	led to
+0.1848014594	whether or not
+0.1846644356	the 20th century
+0.1845515153	boundary conditions on
+0.1843910614	dominated by
+0.1843318935	weather research and
+0.1843037162	characterised by
+0.1841517679	time varying
+0.1840321556	related to
+0.1838654678	10 ^ 3
+0.1835589854	corresponds to
+0.1834320275	insensitive to
+0.1832433643	the free surface
+0.1830917538	ice model
+0.1830034900	correlation between
+0.1821649684	the twilight sky
+0.1821597766	frequently used
+0.1817666014	a numerical model
+0.1814091320	mean eddy
+0.1814042966	wind speed at
+0.1810292682	a beta plane
+0.1809876125	numerical solutions of
+0.1806245759	mean flow
+0.1801496034	applied to
+0.1790896754	growth rate of
+0.1788287376	the large scale
+0.1781476792	m ^ 2
+0.1775546891	compared with
+0.1775187432	generated by
+0.1772855246	a global scale
+0.1770555200	focus on
+0.1767240190	the open ocean
+0.1766826864	proportional to
+0.1761208752	seasonal variability of
+0.1752710601	comparison between
+0.1748782180	acts as
+0.1745677156	very low
+0.1744729717	good approximation
+0.1743820341	for medium range weather
+0.1743581204	the main objective
+0.1742884858	$ ^ \ circ
+0.1736556768	the other hand
+0.1736346832	conjunction with
+0.1735814425	spectral analysis of
+0.1732849976	$ \ beta
+0.1729399001	model based on
+0.1722155628	less than
+0.1711178838	this chapter
+0.1706955462	arising from
+0.1703640895	much less
+0.1703449076	gravity waves in
+0.1701880172	climate change on
+0.1701491818	\ times 10 ^
+0.1699452752	one hour
+0.1685598688	stronger than
+0.1684319151	interaction between
+0.1680656869	$ \ theta
+0.1674863135	interpreted as
+0.1674571507	the results obtained
+0.1671921742	relation between
+0.1670872263	scale waves
+0.1661635817	the nonlinear shallow water
+0.1660800465	relatively small
+0.1659119205	supported by
+0.1658689764	energy budget of
+0.1655652926	much smaller
+0.1654740429	two layer
+0.1654407467	coherence time
+0.1654011075	paid to
+0.1653661732	\ tau_ \
+0.1648780220	first step
+0.1646837231	depend on
+0.1645695354	comments on
+0.1644717563	the sea surface
+0.1635239532	$ \ varepsilon
+0.1632834367	determined by
+0.1631311680	longer than
+0.1631198883	new framework
+0.1630035186	driven by
+0.1629384854	$ co_2
+0.1623860699	refer to
+0.1622223559	act as
+0.1620082349	\ left
+0.1617909077	an important
+0.1614568105	^ 5
+0.1613746528	a high degree
+0.1613374812	in spite
+0.1608191660	$ \ kappa
+0.1605461192	annual mean
+0.1599687913	spatial resolution of
+0.1597631341	$ \ sigma
+0.1596553488	close to
+0.1587612954	leading to
+0.1585243617	much larger than
+0.1583708732	present day
+0.1582810239	\ delta t
+0.1577428655	the ensemble kalman filter
+0.1577167490	the ocean surface
+0.1576166621	global mean
+0.1574252184	much smaller than
+0.1563608113	non local
+0.1563466051	a machine learning
+0.1560982733	one year
+0.1560529377	+ 1
+0.1559771252	prediction system
+0.1556740562	of water vapor
+0.1552630047	\ beta
+0.1536963935	numerical models of
+0.1536047925	atmospheric co
+0.1534831201	discrepancies between
+0.1531619390	induced by
+0.1531104875	the wind stress
+0.1526395914	operational use
+0.1525348852	$ \ overline
+0.1523831270	more efficient
+0.1521570591	20 km
+0.1518017087	the long term
+0.1514906237	rogue waves in
+0.1509221169	the tropical atmosphere
+0.1507358803	the era interim
+0.1504253721	3 d
+0.1503627206	coincide with
+0.1502505199	a finite element
+0.1502036077	capable of
+0.1501682119	\ times 10
+0.1499520923	\ gamma
+0.1498526933	the inverse cascade
+0.1493703906	much faster
+0.1489026397	the habitable zone
+0.1481448423	the water surface
+0.1480552296	5 km
+0.1480110584	short time
+0.1475816684	a priori
+0.1475359404	focused on
+0.1472818278	most probable
+0.1471197743	$ \ xi
+0.1468039872	emphasis on
+0.1465657531	\ right
+0.1464140783	dynamical system
+0.1463072240	$ ^ 2
+0.1462230546	spite of
+0.1459367365	accounting for
+0.1457545898	very small
+0.1455937514	obtained from
+0.1454657684	\ gamma_
+0.1453460039	modeling system
+0.1449616855	bar n
+0.1447483770	viewed as
+0.1444100321	the cloud base
+0.1442383791	and climate prediction
+0.1441843821	deals with
+0.1439310877	key role in
+0.1437145608	the wind speed
+0.1436057725	large enough
+0.1431270258	radiative transfer in
+0.1429350032	making use of
+0.1426505063	more complex
+0.1426232632	the mid latitudes
+0.1419266907	the upper ocean
+0.1412914929	an analytical
+0.1410791485	the wave field
+0.1409358452	accounts for
+0.1409010935	inferred from
+0.1408869675	mean squared
+0.1408788149	controlled by
+0.1404087879	new formulation
+0.1401607739	these results
+0.1399898828	ensemble mean
+0.1399898769	transfer model
+0.1398706498	reply to
+0.1398032347	$ \ tau
+0.1397645713	^ +
+0.1395637064	the velocity field
+0.1394630077	long time
+0.1388222096	the runaway greenhouse
+0.1388166441	a large number
+0.1387598323	$ \ delta ^
+0.1386359280	the antarctic circumpolar
+0.1386296976	consistency between
+0.1383719788	$ h_
+0.1383685643	kinds of
+0.1379787531	devoted to
+0.1377897136	correlations between
+0.1374970611	impact on
+0.1373520094	motivated by
+0.1373146805	to take into account
+0.1371325377	to better understand
+0.1366122727	of carbon dioxide
+0.1363019216	do so
+0.1361277528	$ \ lambda
+0.1358909689	water vapor in
+0.1353520094	starting from
+0.1353253105	the atmospheric boundary layer
+0.1350509090	dealing with
+0.1350395798	represented by
+0.1347819625	dependence on
+0.1346209646	due to
+0.1346058244	relying on
+0.1345745803	there exist
+0.1345472842	w m
+0.1343682810	the energy gradient
+0.1340049899	$ h ^
+0.1339481441	sensitive to
+0.1334545283	the gamma ray
+0.1331727614	simple model of
+0.1330634781	mean temperature
+0.1324627349	comment on
+0.1324049972	$ c_n ^ 2
+0.1315592554	v =
+0.1314900122	as well as
+0.1313230469	interactions between
+0.1311841380	an alternative
+0.1311577030	time steps
+0.1310584529	used to estimate
+0.1304755238	contribute to
+0.1301943518	extracted from
+0.1301033239	the vertical distribution of
+0.1297132392	taking into
+0.1295533239	with respect to
+0.1295455466	$ \ beta =
+0.1293563288	at least
+0.1293271454	tends to
+0.1290272680	an initial
+0.1290136396	a simple
+0.1285901269	deduced from
+0.1285510872	this result
+0.1284978920	mean surface temperature
+0.1282997958	different regions
+0.1280280093	transitions between
+0.1279364268	complex system
+0.1276896748	the shallow water equations
+0.1276454260	\ nu
+0.1275850101	a high resolution
+0.1274452561	monthly mean
+0.1272240669	results show
+0.1270086071	a general circulation model
+0.1265801162	$ \ mathrm
+0.1265360071	the results showed
+0.1264709129	a statistical analysis
+0.1262005447	accompanied by
+0.1261876789	an efficient
+0.1261045860	examination of
+0.1258977882	an active
+0.1254017557	\ psi
+0.1248615797	presented here
+0.1247279303	the adriatic sea
+0.1245034067	the internal gravity waves
+0.1243703215	to understand
+0.1243216424	\ pi
+0.1242057799	the optical turbulence
+0.1238396619	the seasonal cycle
+0.1237529739	provided by
+0.1234841914	able to
+0.1231885253	more than
+0.1229769973	relatively low
+0.1224914191	by means of
+0.1223533239	the city of
+0.1220700303	3 4
+0.1218942022	10 km
+0.1218584123	non rotating
+0.1218534220	the spatio temporal
+0.1217858622	a deep learning
+0.1214763255	first and second
+0.1211414420	the probability density function
+0.1210478188	^ 6
+0.1209914958	\ deg s
+0.1209835564	the probability distribution
+0.1207605951	very high
+0.1207597809	density function of
+0.1206500149	the southern hemisphere
+0.1204749828	^ o
+0.1203560508	the art
+0.1202369385	of cloud droplets
+0.1202336537	3 km
+0.1201858829	focusing on
+0.1198204733	according to
+0.1195124930	case study of
+0.1193576684	more general
+0.1191246568	obtained by
+0.1189268354	shown to
+0.1188042334	one layer
+0.1183394432	about 50
+0.1182869476	used to determine
+0.1182661598	associated with
+0.1180223756	the dispersion relation
+0.1179020693	climate system
+0.1177942321	criteria for
+0.1177246944	a free surface
+0.1176735402	equal to
+0.1176425908	in order to
+0.1176351156	of ice crystals
+0.1176105981	this purpose
+0.1175188073	this letter
+0.1174026391	non zero
+0.1173533239	the gulf of
+0.1172546159	of surface gravity waves
+0.1164408869	two distinct
+0.1163767680	m z
+0.1163497991	coming from
+0.1162670233	the cosmic ray flux
+0.1162326098	a neural network
+0.1162303892	approximated by
+0.1160857295	the kinetic equation
+0.1158849200	a turbulent flow
+0.1156584217	this work
+0.1153680116	effect on
+0.1150960116	convective available
+0.1149106322	much higher
+0.1147635457	control system
+0.1145503651	two way
+0.1144753565	conditioned on
+0.1143972832	very good
+0.1143803839	data from
+0.1142861394	less than 1
+0.1142839734	$ \ textit
+0.1142528707	a novel approach
+0.1138827136	the deep ocean
+0.1138125258	deg s
+0.1135262789	\ bar
+0.1134969152	other hand
+0.1134544023	explained by
+0.1134011381	followed by
+0.1133027125	very similar
+0.1131283894	these findings
+0.1130561162	those obtained
+0.1128260172	the water column
+0.1126579033	maintained by
+0.1126476763	much larger
+0.1126244768	global well posedness of
+0.1124757349	a data driven
+0.1123013989	such as
+0.1121083665	difference between
+0.1121033239	the issue of
+0.1117127288	correlate with
+0.1117086973	linked to
+0.1115687382	a data assimilation
+0.1115179845	part 2
+0.1114483474	most relevant
+0.1113925718	\ eta
+0.1113533239	the implications of
+0.1111900909	the neural network
+0.1106717568	period of time
+0.1106694517	even if
+0.1106068139	atmosphere fire
+0.1103785455	treated as
+0.1103533239	the rise of
+0.1103533239	the question of
+0.1102677172	a long term
+0.1101433218	triggered by
+0.1100474337	$ ^ 3
+0.1100400122	with and without
+0.1099732277	also discussed
+0.1098498447	amplified by
+0.1097639300	the obtained results
+0.1097578174	10 years
+0.1093474024	2 d
+0.1091809379	mean state
+0.1091033239	the probability of
+0.1090400122	so as to
+0.1089974642	this approach
+0.1088176096	the potential of
+0.1084962490	the thermohaline circulation
+0.1082106490	all cases
+0.1080112129	agreement with
+0.1079323690	expressions for
+0.1078176096	the uncertainty of
+0.1077115304	a large scale
+0.1077022446	compatible with
+0.1076515550	properties of
+0.1075652363	relations between
+0.1072001074	in addition
+0.1069282459	an order of magnitude
+0.1065949357	not only
+0.1065191248	two orders of magnitude
+0.1063795969	to date
+0.1062183420	the equations of
+0.1061033239	a review of
+0.1060676096	the persistence of
+0.1057297929	the steady state
+0.1055545886	the energy spectrum
+0.1054758857	not sufficient
+0.1053759403	similar to
+0.1052658636	used to investigate
+0.1048586649	very important
+0.1048498355	the response of
+0.1048389806	the mixed layer
+0.1045029227	one or more
+0.1042886252	more detailed
+0.1042604720	different time scales
+0.1042152096	the solar wind
+0.1042115141	the phase space
+0.1040982059	originating from
+0.1038176096	the physics of
+0.1038176096	the impacts of
+0.1037626943	$ plane
+0.1034525199	the ground based
+0.1033675595	1 2
+0.1033059212	consisting of
+0.1031182650	an additional
+0.1031049168	the air sea
+0.1031015277	hundreds of
+0.1028641212	a height of
+0.1027728854	dome a
+0.1027441722	year ahead
+0.1027390033	the wave spectrum
+0.1024932763	the wind wave
+0.1024425908	in terms of
+0.1023538873	response to
+0.1022358863	averaged over
+0.1021578682	available potential
+0.1019203084	time intervals
+0.1019041844	the potential energy
+0.1018641212	in light of
+0.1018308220	a self consistent
+0.1017500546	make use of
+0.1017019045	measurements made
+0.1016930822	implications for
+0.1015636189	r =
+0.1013276692	resulting from
+0.1011837736	much lower
+0.1010508096	one and two
+0.1008510331	rate of change of
+0.1008112213	the rogue wave
+0.1007468331	the zonal flow
+0.1005558049	and temporal scales
+0.1005069784	the amplitude of
+0.1005069784	the size of
+0.1005069784	the problem of
+0.1005069784	the mechanism of
+0.1003933395	of change of
+0.1003522000	analysis of
+0.1002314951	aims at
+0.1001046399	the total energy
+0.1001020804	t =
+0.0998899301	the moist air
+0.0998635027	agreement between
+0.0998498355	the quality of
+0.0998498355	the framework of
+0.0998498355	the propagation of
+0.0997069784	the method of
+0.0997069784	the motion of
+0.0996156642	one third
+0.0995069784	the base of
+0.0994327131	the solar cycle
+0.0993807358	1 d
+0.0993163492	other planets
+0.0993022793	of ocean waves
+0.0987569784	the phase of
+0.0987542979	for use in
+0.0987365076	$ \ omega
+0.0986899793	the primitive equations
+0.0985106208	near future
+0.0985077032	used to identify
+0.0985069784	the product of
+0.0985069784	the results of
+0.0983968898	a two layer
+0.0983525049	time constant
+0.0981371448	the frame of
+0.0981345930	composed of
+0.0979550909	account for
+0.0978498355	the phenomenon of
+0.0978498355	the modeling of
+0.0978305018	the ice cover
+0.0977161749	these ideas
+0.0975427919	new approach
+0.0975069784	the fluctuations of
+0.0975069784	the variations of
+0.0975069784	the area of
+0.0974208494	= 2
+0.0973555931	different locations
+0.0972759087	part 1
+0.0970998355	the center of
+0.0970637042	100 m
+0.0967569784	the model in
+0.0967569784	the power of
+0.0967174505	easy to
+0.0967069784	the transport of
+0.0967069784	the resolution of
+0.0967069784	the retrieval of
+0.0965738610	better than
+0.0965069784	the complexity of
+0.0965069784	the interaction of
+0.0965069784	the field of
+0.0965069784	the predictions of
+0.0965069784	the process of
+0.0965069784	a model of
+0.0964436667	a system of
+0.0963850371	expressed as
+0.0963271844	tens of
+0.0962819402	paper provides
+0.0962711551	the electric field
+0.0961059114	to avoid
+0.0960096275	both cases
+0.0959569784	and transport in
+0.0959569784	the diffusion of
+0.0959113566	over land
+0.0958680943	designed to
+0.0958498355	the intensity of
+0.0957569784	of turbulence in
+0.0957069784	the equation of
+0.0957069784	the surface of
+0.0956400505	like planets
+0.0955069784	the length of
+0.0955069784	the level of
+0.0955069784	the frequency of
+0.0955069784	the height of
+0.0955069784	the skill of
+0.0954918479	the surface layer
+0.0952610270	an overview
+0.0951702183	+ +
+0.0949467808	the wind direction
+0.0949408537	a single
+0.0949255555	a one dimensional
+0.0949152427	variety of
+0.0948482093	much more
+0.0947806476	inspired by
+0.0947069784	the atmospheres of
+0.0945367214	the boundary layer
+0.0945069784	the energy of
+0.0944977522	consist of
+0.0944775084	separated from
+0.0944119916	the tropical cyclone
+0.0942670762	novel method
+0.0939820993	$ \ delta t
+0.0939641301	present here
+0.0938498355	the growth of
+0.0937781614	bounds on
+0.0937451776	difficult to
+0.0937069784	the increase of
+0.0935069784	the region of
+0.0935069784	the concentration of
+0.0934985975	then applied
+0.0934465118	exchange between
+0.0933444265	deal with
+0.0933240447	presence of
+0.0932557669	the high frequency
+0.0932515950	the wind field
+0.0931534974	created by
+0.0928498355	the geometry of
+0.0928498355	the production of
+0.0927924573	30 m
+0.0927625527	some cases
+0.0927069784	the depth of
+0.0925137647	2 3
+0.0925069784	the speed of
+0.0924434178	accurate than
+0.0924021086	to predict
+0.0923958693	mean annual
+0.0921775492	coupling between
+0.0917994166	opportunity to
+0.0917865238	the help of
+0.0917218535	a wide range of
+0.0917069784	the climate of
+0.0917069784	the model of
+0.0914815181	under conditions
+0.0913578537	rainfall over
+0.0913498696	very close
+0.0912316690	for instance
+0.0909514963	results from
+0.0904938104	used to quantify
+0.0904937105	during winter
+0.0904540957	needed to
+0.0904436667	the time of
+0.0902475695	balance between
+0.0902252778	n =
+0.0899580984	differs from
+0.0895926736	by comparing
+0.0892447051	mean velocity
+0.0890656988	the energy flux
+0.0888294057	used to
+0.0888017850	new technique
+0.0887740897	in most cases
+0.0886436667	the system of
+0.0886061316	to improve
+0.0884569370	consists of
+0.0884064719	the solar irradiance
+0.0883623215	an underwater
+0.0883302304	time period
+0.0883252365	the main
+0.0881966734	mean values
+0.0881386908	excited by
+0.0873420044	year cycle
+0.0871894672	$ \ bf
+0.0870609632	each layer
+0.0870595958	analysis provides
+0.0870521497	comparison with
+0.0868239416	an updated
+0.0867846256	located at
+0.0866552613	two phase
+0.0866189664	a new method
+0.0865783598	the climate network
+0.0864823748	of ocean wave
+0.0861659768	to achieve
+0.0860790950	lidar system
+0.0859963531	1 km
+0.0859691149	those observed
+0.0857015405	to obtain
+0.0856910834	an arbitrary
+0.0856808790	$ ^
+0.0856507176	retrieved from
+0.0856292674	1 \ deg
+0.0854315582	to study
+0.0854049549	_ \
+0.0853004591	an ideal
+0.0851316081	$ k ^
+0.0850173987	s ^
+0.0849687818	to assess
+0.0846541158	these models
+0.0843285441	re =
+0.0842627690	attempt to
+0.0841007331	suitable for
+0.0840479043	away from
+0.0838121056	the greenhouse effect
+0.0837927766	this case
+0.0837847063	about 10
+0.0835283795	better understanding
+0.0835091224	about 2
+0.0834130759	to estimate
+0.0833870550	not yet
+0.0832383897	to determine
+0.0826488928	model for
+0.0824631663	more sensitive
+0.0824449732	interface between
+0.0824313181	m ^
+0.0823569322	separated by
+0.0822840206	the wave energy
+0.0821191016	the model parameters
+0.0820688382	observed during
+0.0820573707	the global surface
+0.0818334603	distance between
+0.0817002622	$ 10
+0.0816740536	the wave height
+0.0816276055	contributes to
+0.0816244391	most important
+0.0814592290	an indicator
+0.0814475823	by applying
+0.0813586448	an average
+0.0813039955	captured by
+0.0812744661	fail to
+0.0812307815	most cases
+0.0810168348	representation of
+0.0806341142	defined as
+0.0806082653	under certain
+0.0806035765	the atmospheric boundary
+0.0804499428	agrees with
+0.0804182950	tool for
+0.0803855760	thought to
+0.0803614827	considered as
+0.0803195574	the spatial distribution
+0.0803156748	used to study
+0.0802459759	used to analyze
+0.0801639567	the results suggest
+0.0799838387	examined using
+0.0796156585	measured by
+0.0796100201	the norwegian
+0.0794972924	the atmosphere
+0.0793007057	description of
+0.0791206052	differ from
+0.0790837961	time evolution
+0.0790143527	in conjunction with
+0.0788844388	a broad range of
+0.0788652786	$ \
+0.0787719895	one way
+0.0787529296	the climate response
+0.0786632618	new method
+0.0784869014	most likely
+0.0784130759	to investigate
+0.0782083572	an explanation
+0.0780797554	contributing to
+0.0779382273	an excellent
+0.0779031562	filled with
+0.0777559600	discussion on
+0.0774957740	good agreement with
+0.0771465945	5 3
+0.0771307837	two fluid
+0.0771010556	than previously
+0.0770115681	novel approach
+0.0768649155	the model results
+0.0767412056	deviations from
+0.0766967759	aspects of
+0.0766181007	at dome c
+0.0765946587	10 m
+0.0764332645	investigated using
+0.0764331062	or quasi
+0.0763668589	emitted by
+0.0762199304	acting on
+0.0762078383	b \
+0.0761348436	distance from
+0.0760926066	different types
+0.0759972706	parameters such as
+0.0759250985	confirmed by
+0.0758092162	this context
+0.0758007751	the most important
+0.0757539818	the first time
+0.0757347478	the numerical results
+0.0754776231	different regimes
+0.0752220376	an explicit
+0.0752153070	described by
+0.0752006523	to evaluate
+0.0752006523	to generate
+0.0749303763	96 model
+0.0749123098	present work
+0.0748482405	the most unstable
+0.0747642627	the internal gravity
+0.0746174111	characteristic time
+0.0746145286	this note
+0.0745717465	making use
+0.0744931514	achieved by
+0.0743844388	in spite of
+0.0742886591	arises from
+0.0740649409	flow through
+0.0740154896	expected to
+0.0738139119	\ times
+0.0737582248	the size distribution
+0.0737533390	known as
+0.0737239961	two point
+0.0736997747	time periods
+0.0736925874	these effects
+0.0735398616	effects on
+0.0735146900	climate changes
+0.0734606750	different levels
+0.0734096559	an analytic
+0.0733579636	significant changes
+0.0733538789	to identify
+0.0733522451	different scales
+0.0733413976	the power spectrum
+0.0732506523	to simulate
+0.0732093302	by introducing
+0.0731648578	mean wind
+0.0730374041	thousands of
+0.0729506523	to calculate
+0.0729366587	expression for
+0.0728747494	subject to
+0.0728289922	this phenomenon
+0.0726957112	the antarctic
+0.0724821196	combined with
+0.0723524245	by examining
+0.0722668915	takes into
+0.0722621408	simulations show
+0.0722324660	contrary to
+0.0722210453	the particle size
+0.0722109860	this method
+0.0721773733	relatively large
+0.0721498708	the global temperature
+0.0721169871	search for
+0.0720057501	2 m
+0.0719947424	time resolution
+0.0718674884	version of
+0.0718582814	a new approach
+0.0716466220	each other
+0.0716263497	$ n
+0.0715899199	constructed using
+0.0714779266	an objective
+0.0714546736	at night
+0.0713618621	resulted in
+0.0712361350	an improved
+0.0710272580	by incorporating
+0.0707902799	up to
+0.0706095816	~ n
+0.0706051266	the significant wave
+0.0704348550	an approximate
+0.0703939473	modeled by
+0.0703563413	the earth's surface
+0.0703049085	recorded at
+0.0700543786	the vertical structure
+0.0698913602	an iterative
+0.0697749944	exposed to
+0.0697215427	calculated using
+0.0696155944	the entire
+0.0693770669	role in
+0.0693584078	measurements of
+0.0693361350	an exact
+0.0692398696	contribution to
+0.0692271624	performed using
+0.0690363334	reduction in
+0.0690362123	the probability density
+0.0689210145	values of
+0.0689144119	together with
+0.0688975263	the surface air
+0.0687321431	the most probable
+0.0686238199	an effective
+0.0684528447	transition between
+0.0684264096	an infinite
+0.0683811218	an extensive
+0.0683188953	influence on
+0.0683186271	1 3
+0.0682864437	quantified by
+0.0682150243	interact with
+0.0681024431	this issue
+0.0677865692	as input
+0.0677833021	estimated from
+0.0677776661	an accurate
+0.0676452662	dependence of
+0.0676361136	an experimental
+0.0675726181	a new model
+0.0674814687	atmosphere system
+0.0672513109	a second order
+0.0671820190	dependent on
+0.0671462615	constrained by
+0.0668499903	state of
+0.0667776245	relative to
+0.0667496814	impacts on
+0.0666794184	different types of
+0.0665572050	an essential
+0.0664969697	a first step
+0.0664274742	analyzed using
+0.0663775029	differences in
+0.0662129403	precipitation over
+0.0661573739	number of
+0.0660610154	perpendicular to
+0.0659764216	evolution of
+0.0659560349	this problem
+0.0659331166	valid for
+0.0657576880	$ 1
+0.0657017454	a multi
+0.0656948945	an inverse
+0.0656160893	v \
+0.0655268550	this model
+0.0655055243	forced by
+0.0654128686	to quantify
+0.0653686729	this property
+0.0650341550	types of
+0.0649704627	the most common
+0.0649692545	introduced by
+0.0648313422	a well defined
+0.0648041570	more likely
+0.0647713813	an open
+0.0647544464	$ km
+0.0646433195	at cerro
+0.0645894014	to retrieve
+0.0645666702	a large
+0.0644486043	the weather research
+0.0643013143	an equivalent
+0.0642734209	transfer between
+0.0641430882	effect of
+0.0639027720	a three dimensional
+0.0637208397	distribution of
+0.0637151953	by combining
+0.0636357601	manifestation of
+0.0636348436	correlated with
+0.0635724897	parts of
+0.0633940330	to provide
+0.0633339035	predicted by
+0.0632338034	this finding
+0.0631618432	l \
+0.0630960939	this end
+0.0630930324	a function of
+0.0630724897	characterization of
+0.0630564263	agree with
+0.0629091098	advected by
+0.0628099859	information on
+0.0626870871	by employing
+0.0626351895	self organization in
+0.0624654431	a first order
+0.0624648988	p \
+0.0624405317	an array
+0.0622989140	identified as
+0.0621061690	aims to
+0.0620467530	applicable to
+0.0620283911	modeled as
+0.0619667408	influence of
+0.0619382858	an empirical
+0.0615691294	the earth
+0.0615481819	to detect
+0.0615391716	a good agreement
+0.0615300379	collected at
+0.0614434397	to establish
+0.0613679692	an increase in
+0.0613198769	to overcome
+0.0612956517	in turn
+0.0612650363	an algorithm
+0.0612594224	occurs at
+0.0611797739	two approaches
+0.0610294726	these structures
+0.0609131510	directly from
+0.0608872681	the three dimensional
+0.0608864875	processes such as
+0.0608313139	k \
+0.0607626011	portion of
+0.0607471480	5 m
+0.0606843052	records from
+0.0605433488	these waves
+0.0605335496	m above
+0.0605328820	k ^
+0.0603726923	an intermediate
+0.0603144341	these features
+0.0600716556	intended to
+0.0600398209	application to
+0.0597616321	an equatorial
+0.0597024074	the presence of
+0.0596552395	framework for
+0.0596465442	to extract
+0.0593946501	reductions in
+0.0593058880	expected from
+0.0591912568	evidence for
+0.0590901709	proportion of
+0.0590682656	this technique
+0.0590430243	well posedness of
+0.0589468476	increase in
+0.0589044368	an earlier
+0.0588544851	this report
+0.0587286488	to mitigate
+0.0586220325	longer time
+0.0586018551	formed by
+0.0585874484	in fact
+0.0584231644	the new model
+0.0583584405	an eddy
+0.0582679234	an optimal
+0.0579710469	an extension
+0.0579335900	emissions from
+0.0579166971	suggested by
+0.0578580303	a simplified
+0.0577244213	two years
+0.0576649183	determined from
+0.0575970922	a strong
+0.0575353051	equations for
+0.0574762122	to characterize
+0.0574711720	variations in
+0.0573282674	these methods
+0.0573196802	output from
+0.0573027704	proven to
+0.0572907222	to develop
+0.0572061363	these planets
+0.0571937967	kind of
+0.0571081839	covered by
+0.0569878593	a factor of
+0.0569756967	the two layer
+0.0569639459	by identifying
+0.0569518333	to derive
+0.0569434397	to monitor
+0.0568767280	a comprehensive
+0.0567596588	a two dimensional
+0.0567562145	nature of
+0.0567316420	dominance of
+0.0566835649	comparison of
+0.0566680150	proof of
+0.0566429436	treatment of
+0.0566119821	to emulate
+0.0565957754	computed using
+0.0565865001	comparable to
+0.0564335995	appears to
+0.0564099225	versions of
+0.0563333550	to solve
+0.0562663521	this process
+0.0562025878	constraints on
+0.0561722509	analogous to
+0.0561103461	adapted to
+0.0560867490	the original
+0.0557572122	studied using
+0.0557122125	effects of
+0.0556623283	the same order
+0.0553534324	scattering by
+0.0552067337	restricted to
+0.0551140559	rate of
+0.0550654624	an operational
+0.0550254590	an extended
+0.0550252684	reminiscent of
+0.0549074211	characteristics of
+0.0548541572	symmetries of
+0.0547909857	assumed to
+0.0547888349	to build
+0.0546795089	to address
+0.0546066865	^ \
+0.0545552589	the same
+0.0544970132	found to
+0.0544956008	changes in
+0.0543957902	to explore
+0.0543377701	an exponential
+0.0543163012	the third law
+0.0542934970	the total
+0.0542510749	majority of
+0.0542358491	to reduce
+0.0540782264	observations from
+0.0540631141	report on
+0.0540519847	a qualitative
+0.0539973742	component of
+0.0538222791	$ 10 ^
+0.0538088370	but also
+0.0537984489	this contribution
+0.0537274245	set of
+0.0537039677	understanding of
+0.0536661218	ability to
+0.0532809032	proposed by
+0.0531773962	this question
+0.0530203502	an important role in
+0.0530121955	$ l
+0.0529897187	uniqueness of
+0.0528790432	an application
+0.0528397367	tested on
+0.0527639220	take into
+0.0526681768	different spatial
+0.0526122728	emergence of
+0.0525346138	crucial for
+0.0523778942	an ensemble
+0.0523735778	allowing for
+0.0523701347	an incompressible
+0.0522594760	range of
+0.0522472985	but not
+0.0522044699	influences on
+0.0521520948	quantification of
+0.0520361173	to infer
+0.0518009725	a rigorous
+0.0517703738	absence of
+0.0517255774	to reproduce
+0.0516537303	different phases of
+0.0515241486	detected by
+0.0514440258	variation in
+0.0513878654	study of
+0.0513549335	investigation of
+0.0513380187	contributions from
+0.0512862736	a new
+0.0512462307	an example
+0.0510760070	m \
+0.0510425680	limited by
+0.0510223526	trained on
+0.0509258988	a detailed
+0.0509135761	coupled with
+0.0508243921	to reconstruct
+0.0507882402	continue to
+0.0507229991	computed from
+0.0506396812	mean zonal
+0.0506291160	1 \
+0.0505996814	required for
+0.0505859333	looking at
+0.0505713772	estimated using
+0.0504708029	different methods
+0.0504235115	to resolve
+0.0503627413	computed by
+0.0503385144	$ o
+0.0502489457	reconstructions of
+0.0501659092	advances in
+0.0501226023	0 \
+0.0500938892	temperatures over
+0.0500609535	h \
+0.0500560553	to constrain
+0.0499308472	two stable
+0.0498446797	\ sim \
+0.0498176230	h ^
+0.0497710309	limited to
+0.0497066218	polarization of
+0.0496701995	a wide
+0.0494587615	this effect
+0.0493672600	models for
+0.0492569617	the fact
+0.0492457203	defined by
+0.0488688642	1 m
+0.0488074127	a major
+0.0486895653	= \
+0.0486649324	these regions
+0.0485975332	result from
+0.0485763041	constraint on
+0.0485357700	measurements from
+0.0485208082	these solutions
+0.0485055717	methods for
+0.0484365435	to optimize
+0.0484316530	reasons for
+0.0483893377	picture of
+0.0483449929	by analyzing
+0.0483106126	also shown
+0.0482574465	obtained using
+0.0480682241	limits on
+0.0480546522	role of
+0.0480415381	taken into
+0.0479882402	confined to
+0.0479710603	model with
+0.0478186431	most common
+0.0477812449	the non linear
+0.0476049915	a uniform
+0.0475970922	a general
+0.0475422032	to compute
+0.0475311977	also presented
+0.0474584426	sensitivity to
+0.0474450760	to classify
+0.0473587657	to ensure
+0.0473247619	extended to
+0.0473011174	constructed from
+0.0472566210	in contrast
+0.0472261104	helps to
+0.0471395886	organization of
+0.0470292145	suited for
+0.0469389249	vary with
+0.0469113015	$ concentration
+0.0468120974	method for
+0.0467865081	waves in
+0.0466835649	application of
+0.0466679620	developed for
+0.0466245536	interactions with
+0.0465794453	discussion of
+0.0464707286	advantage of
+0.0464354634	fate of
+0.0464182513	a variety
+0.0463489994	velocity at
+0.0461705783	basis for
+0.0461071094	all three
+0.0460049584	absorption by
+0.0459364254	\ ~
+0.0458910162	developed by
+0.0458025975	formation of
+0.0457777037	with increasing
+0.0457162403	information from
+0.0456718477	$ s
+0.0456230634	to interpret
+0.0455713687	nonlinear system
+0.0454964921	three different
+0.0454427226	reduced by
+0.0454048796	^ 2 \
+0.0452829938	the context of
+0.0452659699	the near surface
+0.0452335986	enhanced by
+0.0452231057	formula for
+0.0450809415	fire model
+0.0450085506	a small
+0.0449436199	demonstrated by
+0.0449388250	contributed to
+0.0448904831	to construct
+0.0448859788	very well
+0.0448424910	$ e
+0.0448169745	observed in
+0.0447472795	in addition to
+0.0447379979	the time dependent
+0.0446893059	signals from
+0.0446655122	linearly with
+0.0446399481	5 \
+0.0446152068	proxy for
+0.0445340209	to explain
+0.0445022164	a few
+0.0443981132	a specific
+0.0443629612	1 +
+0.0443523283	interested in
+0.0443300209	to incorporate
+0.0442929528	consists in
+0.0442300576	lack of
+0.0442094921	the past
+0.0441941116	to enhance
+0.0441182145	obtained with
+0.0440216699	simulated by
+0.0440115868	to measure
+0.0440085506	a significant
+0.0439696821	the same time
+0.0439293278	the tropics
+0.0437489894	derived using
+0.0436942441	approach to
+0.0436899556	$ j
+0.0436875326	the final
+0.0436860492	$ u
+0.0436550210	the use of
+0.0436434116	to prevent
+0.0436040023	variation of
+0.0435340209	to produce
+0.0434459688	occur at
+0.0433981132	a constant
+0.0433915058	$ p
+0.0433320026	an early
+0.0433095186	in advance
+0.0432725818	required to
+0.0432500333	degree of
+0.0432067514	a powerful
+0.0431866756	the globe
+0.0431624160	range from
+0.0430909030	to stabilize
+0.0430329938	a set of
+0.0430222306	this type
+0.0429546101	contrast with
+0.0428654219	but only
+0.0428285788	inhomogeneities in
+0.0427183326	the impact of
+0.0426889209	the case of
+0.0426539126	class of
+0.0426169178	any other
+0.0425832237	evaluated by
+0.0425553399	respect to
+0.0425393107	to train
+0.0425340209	to analyze
+0.0425275709	a common
+0.0425275709	a clear
+0.0424584031	used as
+0.0424529412	relevant for
+0.0424310553	to create
+0.0423946560	4 \
+0.0423818324	for studying
+0.0423244070	but rather
+0.0423230877	validated by
+0.0422829938	a variety of
+0.0422829938	a series of
+0.0422338855	considered here
+0.0422094921	the classical
+0.0420394451	employed to
+0.0420102612	increases with
+0.0420044011	achieved with
+0.0419732715	to distinguish
+0.0419709052	a similar
+0.0419617651	referred to
+0.0419036835	in contrast to
+0.0418920143	derived by
+0.0417675164	$ g
+0.0417648495	estimate of
+0.0417183326	the role of
+0.0416595389	the potential to
+0.0416463395	equation for
+0.0415352284	approach for
+0.0415141133	formulations for
+0.0415117244	new type of
+0.0414103860	a unified
+0.0413850563	centre for
+0.0413343128	regardless of
+0.0412789787	to capture
+0.0411971540	$ h
+0.0410565053	convection in
+0.0410263683	uncertainties in
+0.0409954879	transition from
+0.0409824798	variability over
+0.0409546410	performed on
+0.0409048511	end of
+0.0408820474	this behavior
+0.0408425197	studied by
+0.0408318038	calculated by
+0.0408302691	a prototype
+0.0406533215	a key
+0.0406072689	a result
+0.0405811581	combinations of
+0.0405736649	$ b
+0.0405715195	the aforementioned
+0.0405631500	experiments with
+0.0403915058	$ t
+0.0403682949	decreases with
+0.0403256670	observed at
+0.0403223789	an optical
+0.0401213076	investigated by
+0.0400764891	equilibration of
+0.0400571683	mean value
+0.0400496255	$ f
+0.0400404389	the equator
+0.0400069703	most unstable
+0.0398811246	comparisons with
+0.0398325759	suppression of
+0.0398180444	a promising
+0.0398063662	$ d
+0.0397251834	20 \
+0.0396539126	evaluation of
+0.0395255655	prior to
+0.0395103752	estimated by
+0.0395053627	needed for
+0.0394878734	this paper provides
+0.0394727220	to implement
+0.0393821912	to represent
+0.0393666374	$ m
+0.0393386330	simulations with
+0.0393329251	a sudden
+0.0392728811	explanation for
+0.0391059072	trends in
+0.0389548401	the mean flow
+0.0389386797	to learn
+0.0389300893	reduces to
+0.0388793481	as well
+0.0388588619	seem to
+0.0388180444	a substantial
+0.0388006754	law for
+0.0387722582	proved to
+0.0387345921	sequence of
+0.0387145496	a finite
+0.0387003078	variability in
+0.0386760251	a hierarchy
+0.0386629270	incorporation of
+0.0386587893	resolved by
+0.0386186611	for example
+0.0385491327	flow over
+0.0385366288	a minor
+0.0385258634	a stochastic
+0.0385235176	coupled to
+0.0385212678	changes in surface
+0.0384925457	a generic
+0.0384622125	dynamics of
+0.0383734060	trend in
+0.0383329251	and temporally
+0.0382892393	percent of
+0.0382886164	field at
+0.0382507603	aim to
+0.0382174645	criterion for
+0.0381860207	a systematic
+0.0381858091	in practice
+0.0381610337	existence of
+0.0381512391	suite of
+0.0381343533	four different
+0.0381280093	development of
+0.0380378972	different phases
+0.0380014541	two orders of
+0.0379925457	a wider
+0.0379814020	consequences for
+0.0378898958	stages of
+0.0378845233	tools for
+0.0378587318	appeared in
+0.0378071336	a complete
+0.0377781987	this limit
+0.0377539758	enough to
+0.0377032066	the existence of
+0.0376905053	a number of
+0.0375978929	the time scale
+0.0375796958	the upper
+0.0375659308	measured at
+0.0375638228	the literature
+0.0375521487	planets with
+0.0375484870	all time
+0.0374606066	an impact
+0.0374319809	this region
+0.0373993356	dimension of
+0.0373788792	structure of
+0.0373657546	10 \
+0.0373650022	to match
+0.0373419836	these parameters
+0.0373416681	the absence of
+0.0371361925	a consequence
+0.0371142583	better understanding of
+0.0369541580	scattering from
+0.0368872666	written in
+0.0368420605	$ k
+0.0367462218	fraction of
+0.0367338350	important for
+0.0367086924	periodicity in
+0.0366629270	superposition of
+0.0366523459	a large number of
+0.0366507614	the possibility to
+0.0365865202	t \
+0.0365473892	statistics of
+0.0365411323	basis of
+0.0364463395	theory for
+0.0364238626	the effect of
+0.0363902912	redistribution of
+0.0363509465	the system's
+0.0363447796	with respect
+0.0363396802	amounts of
+0.0363385144	$ c
+0.0363060069	the vicinity of
+0.0361646805	involved in
+0.0361007535	the first order
+0.0360949752	derivative of
+0.0359700578	the main objective of
+0.0359455545	the mesosphere
+0.0358554406	hierarchy of
+0.0358247790	the equations of motion
+0.0358094299	sets of
+0.0357198973	$ w
+0.0356371244	this area
+0.0356108924	selection of
+0.0356009465	the author
+0.0355509643	allowed to
+0.0355256885	fit to
+0.0355202926	to account for
+0.0355098748	measure of
+0.0354815611	efficacy of
+0.0354814465	a critical
+0.0354767467	equivalent to
+0.0354625973	a linear
+0.0354559475	used for
+0.0354328495	conditions at
+0.0354311118	these observations
+0.0354206611	theory of
+0.0353192544	relevant to
+0.0352801515	to test
+0.0352468418	mechanism for
+0.0352285323	classes of
+0.0351763644	embedded in
+0.0351105110	robustness of
+0.0351040775	condition for
+0.0350777723	to deal with
+0.0350680540	implementation of
+0.0350168312	need to
+0.0349927928	algorithm for
+0.0346767289	the virial
+0.0346739615	a considerable
+0.0346429222	concentrated in
+0.0345946236	inclusion of
+0.0345809217	life on
+0.0345788205	hard to
+0.0345117244	an extension of
+0.0343385134	ratio between
+0.0342181679	technique for
+0.0341564097	a robust
+0.0341533328	solutions for
+0.0341239543	the well known
+0.0340844874	approximation for
+0.0340673748	measurements at
+0.0340388404	analyzed by
+0.0340196381	this framework
+0.0339930143	attempts to
+0.0339793407	list of
+0.0339690204	generation of
+0.0339389677	on average
+0.0339250084	this research
+0.0339033485	outcome of
+0.0338964968	tested with
+0.0338802424	change in
+0.0338608714	percentage of
+0.0338322351	light on
+0.0338135182	spectrum of
+0.0338116749	prediction of
+0.0337241173	obtained for
+0.0336974372	capabilities of
+0.0336723957	a suitable
+0.0336601400	related with
+0.0336430666	stage of
+0.0336011486	behavior of
+0.0335954759	increase with
+0.0335953707	determination of
+0.0335912243	$ 2 \
+0.0335565401	notion of
+0.0334915849	the zonal mean
+0.0334721863	impact of
+0.0334643753	maximum at
+0.0333908100	half of
+0.0333769742	modification of
+0.0333666181	biases in
+0.0333646240	period from
+0.0333033485	driver of
+0.0332426402	sufficient to
+0.0332072084	essential for
+0.0331568644	located in
+0.0331521391	these two
+0.0331366204	forecasts from
+0.0331329256	modulation of
+0.0331265889	discovery of
+0.0330992245	a broad
+0.0330866779	family of
+0.0330677528	the middle
+0.0330503105	decrease in
+0.0330299557	the climate system
+0.0330222743	realizations of
+0.0329653924	to demonstrate
+0.0329620512	to include
+0.0329363047	this mechanism
+0.0328895904	the interplay
+0.0328758877	property of
+0.0328445846	a crucial
+0.0328379742	appearance of
+0.0328235586	knowledge of
+0.0328147821	to increase
+0.0328120307	the first and second
+0.0327815162	type of
+0.0327626367	definition of
+0.0327378589	onset of
+0.0327138303	research on
+0.0327023239	importance for
+0.0325616749	variability of
+0.0325442733	long as
+0.0325300601	a universal
+0.0324214554	a combination of
+0.0323921129	computation of
+0.0323807853	to extend
+0.0322566318	signal from
+0.0322124367	algorithms for
+0.0321510041	two different
+0.0320652154	interaction with
+0.0320515244	subset of
+0.0320478401	designed for
+0.0320222743	capability of
+0.0320019129	only one
+0.0319994352	stability of
+0.0319690204	accuracy of
+0.0319178427	proposed for
+0.0318116749	uncertainty in
+0.0317524758	a baseline
+0.0317473975	over time
+0.0317270975	developments in
+0.0317057824	very different
+0.0317056314	the importance of
+0.0316955720	used in
+0.0316939706	try to
+0.0316846814	an increase
+0.0316762196	the basis of
+0.0316199170	relation to
+0.0315981117	a natural
+0.0315458019	function of
+0.0314687513	consideration of
+0.0314611438	a reference
+0.0313719073	change on
+0.0313492216	a sphere
+0.0313473319	shown by
+0.0313107309	presented for
+0.0310840069	emission from
+0.0310299557	the performance of
+0.0310240003	construction of
+0.0309989124	forced with
+0.0309227860	source of
+0.0309127705	the last
+0.0308710463	generalization of
+0.0308512196	the strength of
+0.0308454992	decay of
+0.0308278039	solution of
+0.0308116749	form of
+0.0308092886	for calculating
+0.0308068000	vicinity of
+0.0308033485	contained in
+0.0307847776	the distance between
+0.0307844210	passage of
+0.0307630150	extraction of
+0.0307509103	occur in
+0.0307265436	solution for
+0.0306239515	to define
+0.0305928343	to illustrate
+0.0305845094	proposed to
+0.0305479722	derived for
+0.0305250147	an energy
+0.0305250147	an analysis
+0.0304890556	formulation of
+0.0304786345	$ r
+0.0304676769	resulting in
+0.0303084919	an approach
+0.0302686981	the influence of
+0.0302152752	2 \
+0.0301763644	recovery of
+0.0301713768	the mean temperature
+0.0301460073	availability of
+0.0301427846	other than
+0.0300867244	two types of
+0.0300793419	the notion
+0.0300566493	estimation of
+0.0300544393	extension of
+0.0300087846	overview of
+0.0299391301	included in
+0.0299209215	detection of
+0.0299028298	a unique
+0.0299028298	a sharp
+0.0298919361	important to
+0.0298670526	view of
+0.0298665534	timing of
+0.0298458854	case of
+0.0298210884	formalism for
+0.0298191125	the canopy
+0.0298116749	studied in
+0.0298037040	applicability of
+0.0297818876	a flat
+0.0297630150	success of
+0.0296258895	a high
+0.0296199170	rise to
+0.0295650067	the case
+0.0294992497	amount of
+0.0294899714	interpretation of
+0.0294849802	corresponding to
+0.0294157494	a novel
+0.0293377231	potential for
+0.0292961439	medium with
+0.0292630150	collection of
+0.0292459450	a thorough
+0.0292329609	an artificial
+0.0292240984	reduction of
+0.0291747611	increased by
+0.0291578280	reconstruction of
+0.0290949883	investigated with
+0.0290682088	the authors
+0.0289978907	assessment of
+0.0289943128	+ \
+0.0289700578	an altitude of
+0.0288544945	part of
+0.0288442522	a fundamental
+0.0288389431	a realistic
+0.0288233211	obtained in
+0.0288224408	spectra from
+0.0286621898	combination with
+0.0285953707	diversity of
+0.0285869796	the first
+0.0285616749	simulation of
+0.0285510630	a rigid
+0.0285045103	estimated to
+0.0284477013	performed with
+0.0284428432	relationship with
+0.0284244282	well as
+0.0283832981	posedness of
+0.0283546486	this information
+0.0282976883	addition to
+0.0282941525	the relationship between
+0.0282686981	the effects of
+0.0282544910	the ensemble mean
+0.0281737131	character of
+0.0281090091	drivers of
+0.0280772546	feasibility of
+0.0280335157	radiation from
+0.0280277959	the respective
+0.0280175930	to highlight
+0.0279994352	performance of
+0.0279848754	the world
+0.0278931746	to examine
+0.0278655053	an analysis of
+0.0278512196	the emergence of
+0.0278512196	the order of
+0.0278434615	consequence of
+0.0277798264	series from
+0.0277600208	correlation with
+0.0277457824	or even
+0.0277319199	creation of
+0.0277070941	$ =
+0.0276653423	a key role in
+0.0276351114	choice of
+0.0275938581	explanation of
+0.0275772546	effectiveness of
+0.0275519518	developed to
+0.0275286168	seems to
+0.0275202926	an ensemble of
+0.0275060069	the ability of
+0.0274233938	available from
+0.0273808353	time evolution of
+0.0273610050	the time evolution
+0.0273169014	validity of
+0.0272939483	simulated with
+0.0272849444	unlikely to
+0.0272270575	in good agreement with
+0.0272267283	pair of
+0.0271844271	independent of
+0.0271732877	all other
+0.0271427981	a well known
+0.0270995951	represented in
+0.0270819347	to observe
+0.0270687243	a weak
+0.0270380408	improvement in
+0.0269428752	to support
+0.0269413702	coast of
+0.0269366078	a modified
+0.0268973859	the latter
+0.0268655053	a result of
+0.0268455890	monitoring of
+0.0268058970	representations of
+0.0267689391	edge of
+0.0267017941	signature of
+0.0266850034	a theoretical
+0.0266512196	the end of
+0.0265519518	propose to
+0.0265041506	proposed as
+0.0264713484	representative of
+0.0264373406	an appropriate
+0.0263867366	methodology for
+0.0263192145	expression of
+0.0262927707	discussed in
+0.0262856965	method to
+0.0262405590	a positive
+0.0262120307	likelihood of
+0.0262120307	consistency of
+0.0261934493	a coarse
+0.0261710018	input for
+0.0261502154	the time evolution of
+0.0260972104	introduced to
+0.0260819587	valid in
+0.0260766367	beginning of
+0.0260665963	as compared to
+0.0259819207	or more
+0.0259762979	conservation of
+0.0259566899	removal of
+0.0259249546	measured in
+0.0259010566	the timing of
+0.0258621603	the ratio between
+0.0258466724	scattering on
+0.0257582474	orders of
+0.0257256220	aim of
+0.0256270266	order to
+0.0255519518	presented to
+0.0255437651	time scale of
+0.0254843917	to validate
+0.0254345679	purpose of
+0.0254246981	feature of
+0.0254226960	as part of
+0.0253874594	a benchmark
+0.0253736167	derivation of
+0.0252962031	performed in
+0.0252059647	obtained at
+0.0251778166	a reasonable
+0.0251578912	sum of
+0.0251222801	a comparison between
+0.0251138214	contrast to
+0.0250998606	expressed in
+0.0249853308	robust to
+0.0249642042	assumption of
+0.0249594374	period of
+0.0249592656	to separate
+0.0249153423	in relation to
+0.0249153423	a pair of
+0.0248621603	an estimate of
+0.0248404252	collected in
+0.0248170783	back to
+0.0248139587	a statistical
+0.0248135870	magnitude of
+0.0248051261	chosen to
+0.0247962227	to track
+0.0247478561	attenuation of
+0.0247161076	generation by
+0.0246866362	suggested to
+0.0246850034	a random
+0.0246831467	calculation of
+0.0246732201	laws for
+0.0246582412	a special
+0.0246437013	implemented in
+0.0246346607	loss of
+0.0246205367	origin of
+0.0246053258	shift in
+0.0246048233	flux from
+0.0245796298	a conceptual
+0.0245637155	combination of
+0.0245228042	to perform
+0.0244091330	charging of
+0.0243697322	behaviour of
+0.0243679866	scheme for
+0.0243503075	a specified
+0.0243352851	reduced to
+0.0242918382	occurrence of
+0.0242672112	the finite time
+0.0242433995	to reach
+0.0242412264	importance of
+0.0242392863	the dynamics of
+0.0242110569	the state of
+0.0241790995	performed for
+0.0241314379	then used
+0.0240765810	expansion of
+0.0240756844	to forecast
+0.0239447541	a statistical analysis of
+0.0239408271	sensitivity of
+0.0239142863	the evolution of
+0.0239059142	measured with
+0.0238806314	the possibility of
+0.0238512196	the aim of
+0.0238329621	a delay
+0.0238299618	accumulation of
+0.0237692341	explored in
+0.0237683220	a reliable
+0.0237675863	excitation of
+0.0237675863	goal of
+0.0237574716	to apply
+0.0237422253	a hierarchy of
+0.0236906798	done by
+0.0236775678	terms of
+0.0236719709	to confirm
+0.0236035916	a state of
+0.0235805138	advantages of
+0.0235595072	discretization of
+0.0235572077	a challenge
+0.0234767064	far from
+0.0234353673	needs to
+0.0234231931	lifetime of
+0.0234200880	efficiency of
+0.0234042150	means of
+0.0233773424	enhancement of
+0.0233772006	in combination with
+0.0233697322	strength of
+0.0233612654	possibility of
+0.0233479306	limitations of
+0.0233036631	to correct
+0.0232962031	series of
+0.0232853269	sign of
+0.0232668169	progress in
+0.0232612316	tool to
+0.0232414706	a suite of
+0.0232168460	processing of
+0.0232109717	doubling of
+0.0232086986	displacement of
+0.0231887118	abundance of
+0.0231854592	improvements in
+0.0231802317	orientation of
+0.0230690434	indicator of
+0.0230058805	limit of
+0.0229682405	identification of
+0.0228970711	the formation of
+0.0228950938	a subset
+0.0228165496	the action of
+0.0228121025	history of
+0.0227192414	in agreement with
+0.0227048745	also found
+0.0227011480	the present work
+0.0226721191	action of
+0.0226460345	computed for
+0.0225319043	time series of
+0.0224221424	shape of
+0.0223882935	initiation of
+0.0223564767	occurs for
+0.0222729649	verification of
+0.0222267078	formulation for
+0.0221985753	a proxy
+0.0221653423	a subset of
+0.0221144641	to use
+0.0220803896	variance of
+0.0220234307	published in
+0.0220200578	a better understanding of
+0.0219840119	methodology to
+0.0219213957	width of
+0.0218676593	the number of
+0.0218671567	the top of
+0.0218534934	reported in
+0.0218459613	a decrease in
+0.0217582649	to keep
+0.0216697600	not possible
+0.0216178409	interpreted in
+0.0214717220	a period of
+0.0214415097	likely to
+0.0214362170	contribution of
+0.0214153423	a family of
+0.0214051156	result in
+0.0213729347	crucial to
+0.0213578014	the first one
+0.0213310193	seasonality of
+0.0213166729	predictability of
+0.0213137681	ratio of
+0.0213116835	conducted in
+0.0213096003	degrees of
+0.0212854289	predicted to
+0.0211976458	an overview of
+0.0211956851	the sum of
+0.0211813994	the result of
+0.0211611504	essential to
+0.0211404630	collapse of
+0.0210794568	to fit
+0.0210760900	concept of
+0.0210032379	the course of
+0.0209865094	possibility to
+0.0209579838	a range of
+0.0209340561	3 \
+0.0208676593	the study of
+0.0208473864	modified to
+0.0208308353	a measure of
+0.0208308353	the reliability of
+0.0208165496	the variance of
+0.0208165496	the objective of
+0.0207286816	place in
+0.0207066562	a consequence of
+0.0206838557	same time
+0.0206630629	key to
+0.0206432480	significance of
+0.0205887708	a minimum
+0.0205747292	an order of
+0.0204887220	context of
+0.0204680776	a deep
+0.0204566252	extent of
+0.0204320700	each time
+0.0204221424	order of
+0.0204221424	calibration of
+0.0203839447	allows for
+0.0203669809	a comparison
+0.0203620442	the role
+0.0203512196	the onset of
+0.0203431009	demonstrated for
+0.0203383426	details of
+0.0202501787	not well
+0.0202392381	to run
+0.0201387817	a quantitative
+0.0200772650	transformation of
+0.0200372043	utility of
+0.0198970711	the form of
+0.0198886419	result of
+0.0198813885	energetics of
+0.0198459613	the relevance of
+0.0198308353	the effectiveness of
+0.0198308353	the wake of
+0.0197219742	detected in
+0.0196332888	this way
+0.0196236402	relevance of
+0.0195131281	the idea
+0.0194066707	direction of
+0.0193778126	the leeway
+0.0193409383	to occur
+0.0193394299	made at
+0.0193031671	to reveal
+0.0192678788	possible to
+0.0192531116	schemes for
+0.0191875672	the first two
+0.0191755440	the ratio of
+0.0191686437	persistence in
+0.0191178409	organization in
+0.0190942026	the third
+0.0189806051	a comparison of
+0.0189731592	to compare
+0.0189162209	tested in
+0.0189062825	location of
+0.0188676593	the statistics of
+0.0188165496	the notion of
+0.0187998470	the direction of
+0.0187482562	the absence
+0.0186399830	a semi
+0.0186283699	given by
+0.0184787689	or not
+0.0184717220	the location of
+0.0183878219	the presence
+0.0183099599	attention to
+0.0182816397	reliability of
+0.0182378657	objective of
+0.0181813994	the calculation of
+0.0181446746	the appearance of
+0.0180403547	a factor
+0.0179968991	a certain
+0.0179939344	the beginning of
+0.0179864166	an order
+0.0179663194	the contribution of
+0.0179436981	the accuracy of
+0.0178602471	the feasibility of
+0.0178473864	eclipse of
+0.0178308353	the utility of
+0.0178268695	different from
+0.0178165496	an increase of
+0.0178012325	frame of
+0.0176512777	employed in
+0.0175292425	this new
+0.0174873073	factor of
+0.0174717220	the purpose of
+0.0172955523	the possibility
+0.0171409355	the validity
+0.0171341221	appear to
+0.0171155731	the origin of
+0.0170175236	the second one
+0.0169231247	ability of
+0.0168970711	the development of
+0.0168435445	a method for
+0.0168308353	a sequence of
+0.0168143130	calculated for
+0.0167891828	a hybrid
+0.0167192414	the concept of
+0.0166625925	useful for
+0.0165095244	the shape of
+0.0165043388	the emergence
+0.0163818819	allow for
+0.0163676593	the theory of
+0.0163553990	instead of
+0.0163280987	in comparison with
+0.0162801329	the wake
+0.0161782823	the relation between
+0.0161782823	in response to
+0.0161615786	to describe
+0.0161568269	of climate change on
+0.0161069703	an altitude
+0.0160880071	chaos in
+0.0160355417	a suite
+0.0160100635	the significance of
+0.0159447541	a lack of
+0.0159329687	the analysis of
+0.0159142863	the magnitude of
+0.0158676593	the stability of
+0.0158667477	to get
+0.0158602471	the validity of
+0.0158292210	a brief
+0.0157998470	a study of
+0.0157768877	a decrease
+0.0157613481	an estimate
+0.0155492125	the purpose
+0.0155389362	the choice of
+0.0155350252	performed to
+0.0154507472	a method to
+0.0153676593	the generation of
+0.0153381885	the majority of
+0.0153245331	a good
+0.0153185023	approaches to
+0.0152915615	the spatial distribution of
+0.0152105007	a discussion
+0.0150761262	the advantages of
+0.0150244218	need for
+0.0150166103	the most likely
+0.0149973611	first time
+0.0149902113	necessary for
+0.0148884468	the aim
+0.0148488686	a combination
+0.0148259436	to find
+0.0148192699	the vertical structure of
+0.0147491685	down to
+0.0146298588	the occurrence of
+0.0145532219	the combination of
+0.0144113568	the interaction between
+0.0143735767	thanks to
+0.0143719651	the atmosphere of
+0.0143693498	points to
+0.0143381885	the details of
+0.0142677578	value of
+0.0142566406	the connection between
+0.0142060884	the efficiency of
+0.0141837651	the period of
+0.0141692875	found in
+0.0141639966	the lack of
+0.0141578741	the difference between
+0.0140368420	appropriate for
+0.0139436981	the sensitivity of
+0.0139132001	the distribution of
+0.0138017586	in detail
+0.0137029394	to account
+0.0136299110	necessary to
+0.0136264258	well with
+0.0135858726	point to
+0.0135444956	to make
+0.0134274858	the application of
+0.0134274858	the results show
+0.0134142863	the degree of
+0.0133239028	the width of
+0.0133106200	the history of
+0.0132748768	the need for
+0.0132435916	the ability to
+0.0132250707	associated to
+0.0132045011	the transition from
+0.0131998942	the structure of
+0.0131998942	the nature of
+0.0131536636	way to
+0.0130238383	well as to
+0.0129654494	a thin
+0.0129214677	as well as to
+0.0128849258	a fraction of
+0.0128050376	the amount of
+0.0127987608	the limit of
+0.0127816873	the set of
+0.0127754260	course of
+0.0127729661	allows to
+0.0127720873	but also to
+0.0127373006	to help
+0.0126929011	the annual mean
+0.0126501037	found at
+0.0125402946	especially for
+0.0125282068	the range of
+0.0125282068	the rate of
+0.0125093075	made by
+0.0124666455	a theory of
+0.0123571939	time mean
+0.0123280987	the construction of
+0.0123280987	the coupling between
+0.0123237453	along with
+0.0123138130	the predictability of
+0.0122844012	the change in
+0.0122454735	known to
+0.0122045011	the inclusion of
+0.0122045011	the identification of
+0.0121998942	the variability of
+0.0121676311	to zero
+0.0120564968	this approach to
+0.0119876222	seen to
+0.0118021898	available at
+0.0117887720	a change in
+0.0115564968	the determination of
+0.0114222236	a reduction of
+0.0114102905	the potential for
+0.0113960047	the calibration of
+0.0113400318	a class of
+0.0113280987	a framework for
+0.0113280987	the derivation of
+0.0113185160	the link between
+0.0113138130	the applicability of
+0.0113076905	a comparison with
+0.0113076400	as much
+0.0112372598	use of
+0.0111687226	as well as for
+0.0108722523	the value of
+0.0108380950	to take
+0.0107816873	the fraction of
+0.0107681258	a full
+0.0107652936	the need
+0.0107604107	the model with
+0.0106974147	the comparison of
+0.0104960572	the goal of
+0.0104666455	the decay of
+0.0104604946	the former
+0.0104334016	cause for
+0.0103899204	the extent of
+0.0103462229	the conservation of
+0.0103280987	the definition of
+0.0103138130	the loss of
+0.0102844012	the behaviour of
+0.0102293059	the behavior of
+0.0102293059	the dependence of
+0.0100303193	a whole
+0.0099792615	a model for
+0.0099355640	the interpretation of
+0.0098875467	to better
+0.0098804687	the representation of
+0.0098423339	the variation of
+0.0098210574	the differences in
+0.0098206491	in particular
+0.0097998691	the understanding of
+0.0097869750	especially in
+0.0096974147	the spectrum of
+0.0096949949	seen in
+0.0095984800	measurement of
+0.0095564968	the advantage of
+0.0094666455	the computation of
+0.0094603429	the limitations of
+0.0094603429	a form of
+0.0093041082	the global mean
+0.0093041082	the implementation of
+0.0092658686	useful to
+0.0092268265	the evaluation of
+0.0092268265	the formulation of
+0.0091974147	the assessment of
+0.0091974147	the reduction of
+0.0091974147	the investigation of
+0.0091694863	described in
+0.0090177558	the estimation of
+0.0090177558	the prediction of
+0.0090103429	the method to
+0.0089649758	the description of
+0.0089427210	interest in
+0.0089355640	the solution of
+0.0088292809	the source of
+0.0084603429	the correlation between
+0.0084460572	the characteristics of
+0.0084166455	the simulation of
+0.0083970312	the need to
+0.0083756347	the detection of
+0.0083665154	top of
+0.0080598447	the inner
+0.0076533089	to give
+0.0075630573	allow to
+0.0070452789	taken to
+0.0059118945	help to
