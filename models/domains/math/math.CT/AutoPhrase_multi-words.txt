@@ -1,0 +1,4720 @@
+0.9526777601	partially ordered
+0.9522175118	linear logic
+0.9455140099	type theory
+0.9448542552	differential geometry
+0.9445829411	locally compact
+0.9400522399	natural number
+0.9399958987	algebraic topology
+0.9399568726	algebraic geometry
+0.9379644372	galois theory
+0.9378085829	noetherian ring
+0.9377012154	propositional logic
+0.9368567524	adjoint functors
+0.9336568128	quantum mechanics
+0.9334111439	homological algebra
+0.9333341157	operational semantics
+0.9331524963	game semantics
+0.9328323526	programming language
+0.9320549504	quantum computation
+0.9319887145	homotopy theory
+0.9307098583	programming languages
+0.9293071629	lambda calculus
+0.9287338543	yoneda lemma
+0.9285899116	representation theory
+0.9285292458	probability theory
+0.9283484612	metric spaces
+0.9282170966	frobenius algebras
+0.9281119778	serre duality
+0.9269822013	topos theory
+0.9262144113	denotational semantics
+0.9257532507	natural language
+0.9255017736	modal logic
+0.9254199030	vector space
+0.9244983955	bousfield localizations
+0.9223605613	feynman diagrams
+0.9217019508	quantum theory
+0.9212183315	vector fields
+0.9204695662	conformal field theory
+0.9202199558	triangular matrix
+0.9198405835	lie group
+0.9194911601	cubical sets
+0.9191559122	set theory
+0.9187970978	simplicial sets
+0.9182344233	topological quantum field theory
+0.9181691706	configuration space
+0.9181142335	deformation theory
+0.9180857456	stone duality
+0.9179933502	category theory
+0.9179302120	hilbert space
+0.9179181920	lie groupoids
+0.9178107736	field theory
+0.9162356332	lie algebras
+0.9157952459	dynamical systems
+0.9157312590	hopf algebra
+0.9147017851	rewriting systems
+0.9144997404	functional analysis
+0.9143544907	crossed modules
+0.9140944197	topological spaces
+0.9140164227	hopf algebras
+0.9136449177	algebraic theories
+0.9135795236	quantum field theory
+0.9134757167	banach spaces
+0.9129983852	torsion pairs
+0.9122357440	fusion categories
+0.9119708308	complete segal spaces
+0.9117789537	matrix factorizations
+0.9114313845	loop space
+0.9112992387	string diagrams
+0.9110253250	pasting diagrams
+0.9102061071	homotopy colimit
+0.9088266663	natural numbers
+0.9086900028	spectral sequence
+0.9086150214	open systems
+0.9086011566	bousfield localization
+0.9084267236	group actions
+0.9081225718	tannaka duality
+0.9072024442	lie algebra
+0.9068844881	grothendieck construction
+0.9064641044	data analysis
+0.9064001486	commutative ring
+0.9058609957	proof assistant
+0.9056082371	bundle gerbes
+0.9053564249	differential calculus
+0.9044418922	stable homotopy theory
+0.9043030936	dependent type theory
+0.9039373029	von neumann
+0.9037880598	tensor product
+0.9033387588	homotopy colimits
+0.9032551937	abelian groups
+0.9030069599	lie groups
+0.9022511107	symmetric monoidal closed
+0.9021888742	simply connected
+0.9020444524	vertex operator
+0.9018573214	spectral sequences
+0.9011926437	braid groups
+0.9010447387	quantum groups
+0.9009514857	topological space
+0.9006081935	vector bundle
+0.9003559942	gelfand duality
+0.8999261863	simplicial set
+0.8997419766	vector spaces
+0.8994074097	kan extensions
+0.8982153582	monoidal categories
+0.8980444600	euler characteristic
+0.8970275497	quantum gravity
+0.8968906251	modular tensor categories
+0.8964544468	abelian categories
+0.8960775899	compact closed
+0.8960153211	crossed module
+0.8957656820	differential forms
+0.8954997846	state sum
+0.8952719535	hochschild cohomology
+0.8952327194	field theories
+0.8951979097	topological quantum field theories
+0.8949967288	derived functors
+0.8947695598	classifying space
+0.8947116462	quantum field theories
+0.8943277471	koszul duality
+0.8936744057	closure operators
+0.8931956391	realizability toposes
+0.8929680030	wreath product
+0.8926695347	topological field theories
+0.8922156436	metric space
+0.8921400054	categorical quantum mechanics
+0.8918147873	tensor products
+0.8912950448	natural transformation
+0.8911368336	identity types
+0.8907505243	wreath products
+0.8905637946	fixed points
+0.8903712071	exact sequence
+0.8903682541	grothendieck group
+0.8900663016	distributive lattices
+0.8895882085	tensor categories
+0.8894779933	real numbers
+0.8892451196	information flow
+0.8892435696	differential graded
+0.8890800427	bundle gerbe
+0.8889451309	chain complex
+0.8888756454	locally cartesian closed
+0.8886439933	monoidal category
+0.8880660090	markov processes
+0.8878733381	direct limit
+0.8877893739	algebraic structures
+0.8876234504	global dimension
+0.8875062866	cross product
+0.8872954126	fock space
+0.8872492525	giry monad
+0.8867556421	homotopy type theory
+0.8866881299	hopf modules
+0.8859491823	distributive laws
+0.8857415304	abelian category
+0.8851785999	algebraic varieties
+0.8851629732	associative algebras
+0.8851392096	stacky lie
+0.8845773332	precubical sets
+0.8843988925	factorization systems
+0.8840543568	petri nets
+0.8835267599	principal bundles
+0.8832751991	exact sequences
+0.8831445874	polynomial functors
+0.8830862864	wiring diagrams
+0.8823400647	parallel transport
+0.8822811053	morita equivalence
+0.8820466795	categorical logic
+0.8820160432	weak equivalences
+0.8819753683	decomposition spaces
+0.8818885736	homotopy types
+0.8816778794	higher order
+0.8814222809	universal properties
+0.8814111279	cotorsion pairs
+0.8811868089	commutative monoids
+0.8805533294	double categories
+0.8804194581	mixed hodge
+0.8803262542	cohomology group
+0.8800165204	stability conditions
+0.8797827785	derived category
+0.8797530241	projective covers
+0.8795285938	classifying spaces
+0.8794574188	brown representability
+0.8789226769	complicial sets
+0.8788074456	brauer group
+0.8787432916	grothendieck topology
+0.8787098813	noetherian rings
+0.8784500232	mathematical physics
+0.8778882003	higher dimensional automata
+0.8778852027	model structure
+0.8778105011	symmetric monoidal
+0.8777982823	lawvere theories
+0.8776580085	morita type
+0.8776131038	fundamental group
+0.8774364551	partially ordered set
+0.8773888956	hall algebras
+0.8773295939	finite group
+0.8770443917	quantum physics
+0.8768727036	set theoretic
+0.8767710457	heyting algebra
+0.8766854038	triangulated categories
+0.8763622184	natural transformations
+0.8763573060	main theorem
+0.8759874121	quantum computing
+0.8749608073	etale groupoids
+0.8744018663	exact categories
+0.8742870088	vector bundles
+0.8740831419	smooth manifolds
+0.8738200825	final coalgebra
+0.8737711560	cartesian closed
+0.8737690709	homotopy theories
+0.8735665459	model structures
+0.8735476896	quillen model structure
+0.8734984616	physical systems
+0.8732361588	smash products
+0.8731215331	quantum logic
+0.8729717024	central extensions
+0.8728897353	locally finite
+0.8728516665	intensional type theory
+0.8728451546	homotopical algebra
+0.8726693531	braid group
+0.8725848426	model categories
+0.8724350584	colored operads
+0.8722812986	stable homotopy
+0.8721305040	braided tensor categories
+0.8720192859	differentiable stacks
+0.8719745060	distributive law
+0.8718262600	torsion theories
+0.8716078743	persistence modules
+0.8714939612	bar construction
+0.8714636303	weakly globular
+0.8714206587	univalence axiom
+0.8710777805	closure operator
+0.8709040194	positive integer
+0.8708384849	associative algebra
+0.8699471564	homological dimensions
+0.8698855795	power series
+0.8698000417	direct product
+0.8694504969	mapping spaces
+0.8681782658	euclidean space
+0.8681278332	simplicial presheaves
+0.8678872406	homotopy type
+0.8678368858	direct sum
+0.8677244963	approximation theory
+0.8676817694	opetopic sets
+0.8676423752	univalent foundations
+0.8674167950	commutative algebras
+0.8671730444	complex numbers
+0.8670739737	locally noetherian
+0.8667787807	type theories
+0.8665897256	hopf monads
+0.8660687344	braided monoidal categories
+0.8654492620	inverse semigroups
+0.8654071052	segal spaces
+0.8653727871	` `
+0.8653276693	main result
+0.8652579792	homotopy coherent
+0.8651834075	fibrant objects
+0.8651644939	extra structure
+0.8648901100	tilting modules
+0.8643606616	braided monoidal
+0.8637709367	graphical language
+0.8637162422	drinfeld centre
+0.8635809239	frobenius algebra
+0.8635066697	fixed point
+0.8634956354	boundary conditions
+0.8631106295	differential equations
+0.8629562467	relative singularity
+0.8627428781	connected component
+0.8627305199	quillen's theorem
+0.8626484537	higher dimensional
+0.8624286512	quantum group
+0.8622802304	distributional semantics
+0.8621699807	number theory
+0.8620515946	obstruction theory
+0.8619444995	extended haagerup
+0.8616627193	universal algebra
+0.8613973906	topological orders
+0.8611299719	linear algebra
+0.8607987659	chain rule
+0.8605709906	cyclic homology
+0.8602570398	direct sums
+0.8600840508	locally presentable
+0.8599741436	derived algebraic geometry
+0.8599071306	left adjoint
+0.8598848515	yoneda embedding
+0.8598039987	real line
+0.8596862056	lie groupoid
+0.8595651055	cyclic cohomology
+0.8595419921	weight structures
+0.8594318704	homotopy hypothesis
+0.8590989012	transition systems
+0.8590413421	cotorsion pair
+0.8588978764	topological order
+0.8585810245	universal property
+0.8584639323	string diagram
+0.8584357874	derived equivalences
+0.8579726982	ring spectra
+0.8578080326	higher category theory
+0.8575737548	group action
+0.8575411155	biset functors
+0.8573008824	drinfeld center
+0.8572736226	abelian group
+0.8572018477	hochschild homology
+0.8571704417	finite sets
+0.8570351860	categorical semantics
+0.8568543690	sufficient conditions
+0.8568121043	topos theoretic
+0.8564284683	noncommutative geometry
+0.8561037747	synthetic differential geometry
+0.8560689208	dagger compact
+0.8559502657	inverse monoids
+0.8558863867	dendroidal sets
+0.8556303779	tangent bundle
+0.8556221032	kan complexes
+0.8550303847	convex spaces
+0.8549325051	petri net
+0.8549308442	markov process
+0.8548071200	scalar extension
+0.8547956165	direct limits
+0.8545302588	main results
+0.8543411413	open dynamical systems
+0.8542753596	mirror symmetry
+0.8542675722	hilbert spaces
+0.8538249509	base change
+0.8535272738	regular cardinal
+0.8532399875	sheaf theoretic
+0.8530199049	abstract elementary classes
+0.8529726552	commutative algebra
+0.8521717332	smash product
+0.8521127721	projective variety
+0.8518862090	tensor triangular
+0.8517110745	triangulated category
+0.8515460133	classifying topos
+0.8514623414	type theoretic
+0.8512811438	strong complementarity
+0.8512045456	commutative rings
+0.8508529361	multiplier hopf
+0.8504719259	simple objects
+0.8503450447	torsion free
+0.8502417924	finitely presented
+0.8497234303	lax monoidal
+0.8494757382	proof nets
+0.8491302685	crossed squares
+0.8489897624	finiteness conditions
+0.8488688191	open markov processes
+0.8486920582	low dimensional
+0.8484978896	exact completion
+0.8484390877	local ring
+0.8484374946	chain complexes
+0.8480818690	left properness
+0.8479239879	bijective correspondence
+0.8476091721	tilting theory
+0.8475098593	cohomology theory
+0.8472682770	quillen equivalences
+0.8472295465	compositional distributional
+0.8471762189	fusion rules
+0.8467387162	higher gauge theory
+0.8467237486	lie algebroids
+0.8465308923	finitely presentable
+0.8464020316	cocommutative hopf algebras
+0.8462939918	locally small
+0.8461821709	enriched categories
+0.8459512812	large cardinal
+0.8458853133	separated scheme
+0.8455825975	categorical structures
+0.8445825675	monoidal functors
+0.8442184540	localizing subcategories
+0.8438902995	quantum information
+0.8438693903	monoidal structures
+0.8437614610	geometric morphisms
+0.8437482755	lecture notes
+0.8435750584	density matrices
+0.8432704520	projective objects
+0.8430969855	global sections
+0.8427269035	codensity monad
+0.8426632389	state space
+0.8424743012	equivalence relations
+0.8423727178	equivalence relation
+0.8422021669	homotopy limit
+0.8421703604	left adjoints
+0.8416752988	complete intersection
+0.8415329707	simple transitive
+0.8411402246	quillen equivalence
+0.8410578667	algebraic structure
+0.8410268130	central extension
+0.8408467505	mackey functors
+0.8400714879	hall algebra
+0.8397628980	hochschild complex
+0.8396416165	fully faithful
+0.8394690045	tambara functors
+0.8394118626	simplicial complex
+0.8393328539	monoidal structure
+0.8390306984	phd thesis
+0.8388721007	finitely complete
+0.8388528736	interleaving distance
+0.8388421839	equivalence class
+0.8387262234	cw complexes
+0.8384646137	continuous map
+0.8382849029	higher inductive
+0.8377441427	compact hausdorff spaces
+0.8372831054	perfect complexes
+0.8370027249	infinite loop
+0.8369686832	skew monoidales
+0.8367332949	model category
+0.8365882413	internal homs
+0.8364519603	dependent type theories
+0.8364453610	locally constant
+0.8363720493	grothendieck category
+0.8363483853	rooted trees
+0.8360928500	left bousfield localization
+0.8358374890	group theoretical
+0.8356915442	tensor ideals
+0.8355024602	finite products
+0.8354937014	crossed complexes
+0.8353609493	category theoretic
+0.8352150870	betti numbers
+0.8350299149	group extensions
+0.8347883218	descent theory
+0.8346887157	endomorphism ring
+0.8346160623	ad hoc
+0.8346057662	proof theory
+0.8345660344	cohomology theories
+0.8342887776	strictly associative
+0.8338853099	derived equivalence
+0.8337903202	regular epimorphisms
+0.8333863684	gray tensor product
+0.8331110438	characteristic classes
+0.8330097625	algebraically closed field
+0.8327236779	decomposition space
+0.8326651522	drinfeld double
+0.8325056220	main contribution
+0.8316493340	skew monoidal categories
+0.8311652448	direct image
+0.8304034181	noetherian schemes
+0.8302163725	spectral triples
+0.8297211804	morita equivalent
+0.8293919444	dg categories
+0.8290764702	iterated loop
+0.8290443634	von neumann algebras
+0.8288966580	cauchy completion
+0.8286060244	disjoint union
+0.8284891006	fusion category
+0.8283597527	infinite dimensional
+0.8280804648	line bundles
+0.8277825080	telescope conjecture
+0.8277317253	complete lattice
+0.8275463780	biset functor
+0.8273629598	probability measures
+0.8272286805	grothendieck toposes
+0.8270797508	weak units
+0.8269068602	coloured operads
+0.8266437005	linear maps
+0.8264225477	tambara functor
+0.8263382835	inverse image
+0.8261604556	graphical calculus
+0.8260031166	distributive lattice
+0.8254957294	boolean algebra
+0.8254231573	von neumann regular
+0.8251667374	filtered colimits
+0.8246117868	cofibrantly generated
+0.8245270102	cluster tilting subcategory
+0.8245128743	forgetful functor
+0.8242267918	factorisation systems
+0.8241571874	cartesian product
+0.8236016953	previous papers
+0.8235293030	measure theory
+0.8233933867	sheaf cohomology
+0.8232514923	crossed product
+0.8229766386	open subsets
+0.8228470747	weighted colimits
+0.8226162590	conformal nets
+0.8225932401	discrete group
+0.8224541218	wide subcategories
+0.8223619518	positive characteristic
+0.8222887637	abstract elementary
+0.8222872437	van kampen
+0.8222384013	compositional distributional semantics
+0.8215769439	purely algebraic
+0.8214324959	coherent sheaves
+0.8213613996	finitely generated
+0.8211038104	prime ideals
+0.8210120864	monoidal bicategory
+0.8209018386	derived categories
+0.8206078596	character theory
+0.8204694354	main application
+0.8204297417	chern character
+0.8203839660	hopf monad
+0.8202386840	natural isomorphism
+0.8202190983	etale groupoid
+0.8198592870	homotopy equivalence
+0.8195433643	group cohomology
+0.8193353893	homology theories
+0.8192044958	compact closed categories
+0.8190910037	main aim
+0.8189789895	cut elimination
+0.8187643404	modular categories
+0.8187512425	rational conformal field
+0.8187471781	universal measuring
+0.8185999230	strict monoidal
+0.8184090880	coherence results
+0.8184055586	recent years
+0.8182860590	special case
+0.8181131671	terminal object
+0.8179532695	symmetric groups
+0.8174476704	semi abelian
+0.8173748368	concrete examples
+0.8170567107	hausdorff space
+0.8166805740	gauge theory
+0.8162268279	explicit examples
+0.8161565103	conformal field
+0.8160048829	suitably defined
+0.8159213681	additional assumptions
+0.8157604699	automorphism group
+0.8147866721	torsion classes
+0.8147640413	finite dimensional
+0.8147230598	double groupoid
+0.8146602902	structured cospans
+0.8146172782	algebraic group
+0.8145891095	di bruno
+0.8143029058	open sets
+0.8142764520	landau ginzburg models
+0.8142658881	pure injective
+0.8140672525	geometric realization
+0.8138082777	general setting
+0.8133721040	model theory
+0.8132523599	algebraic variety
+0.8132238167	linear operators
+0.8128456634	complete lattices
+0.8126914195	bousfield kan
+0.8126757734	obius inversion
+0.8126143523	open problem
+0.8123632505	cluster tilting
+0.8123474768	cluster tilting subcategories
+0.8122939555	hybrid systems
+0.8121839751	van den bergh
+0.8121157028	completely positive
+0.8118352236	extended abstract
+0.8116024345	torsion pair
+0.8115297443	crossed interval
+0.8115041365	final section
+0.8113872841	classifying toposes
+0.8110862486	essentially surjective
+0.8110151928	domain walls
+0.8109648989	module spectra
+0.8108869291	cobordism hypothesis
+0.8105055640	companion paper
+0.8102989244	topological groupoids
+0.8100440569	commutative monoid
+0.8099684841	algebraic quantum field theory
+0.8099282886	special kind
+0.8099033146	mapping class group
+0.8098418786	compactly generated
+0.8097350787	coherence result
+0.8096070645	restriction species
+0.8095272205	higher categorical
+0.8094530119	fold loop
+0.8094195035	universal enveloping
+0.8093668504	magnitude homology
+0.8091088340	examples include
+0.8088896085	stratified space
+0.8082929262	decorated cospans
+0.8082746309	starting point
+0.8082717895	zx calculus
+0.8081866892	extriangulated categories
+0.8080145658	groupoid actions
+0.8079313822	mac lane
+0.8076555967	persistent homology
+0.8075660966	graph theory
+0.8073280925	skew monoidal
+0.8072910413	monoidal closed
+0.8070024234	constructive set
+0.8068384864	topological quantum field
+0.8066815656	descent data
+0.8066403571	segal space
+0.8060441217	grothendieck topologies
+0.8057685202	result extends
+0.8057206741	unit interval
+0.8055643476	enriched category theory
+0.8052431689	modular data
+0.8050129205	karoubi envelope
+0.8049066988	steady states
+0.8047014639	derived functor
+0.8046969575	smooth manifold
+0.8037171107	yang baxter equation
+0.8035301598	structure sheaf
+0.8035204101	strictly unital
+0.8031771001	noetherian scheme
+0.8030116251	interesting examples
+0.8027918546	triple vector
+0.8024272625	quantum foundations
+0.8022376008	boolean algebras
+0.8022170054	elementary topos
+0.8019453501	univalent universe
+0.8017643526	hopf algebroids
+0.8017551292	unbounded derived
+0.8014933112	word problem
+0.8013230648	verlinde formula
+0.8009530664	finite groups
+0.8008798061	makes sense
+0.8008604560	automorphism groups
+0.8006694405	associative ring
+0.8006103676	left proper
+0.8005140138	special cases
+0.8000917295	double groupoids
+0.7999198760	symmetric monoidal categories
+0.7993753327	local rings
+0.7991226488	galois group
+0.7990669950	closely related
+0.7989003895	module categories
+0.7982983731	reflective subcategory
+0.7981829526	recent results
+0.7981667412	homotopy groups
+0.7973471250	differentiable stack
+0.7971547450	epireflective subcategories
+0.7968604773	chow groups
+0.7963054309	modified trace
+0.7962054360	burnside ring
+0.7961953271	closed subsets
+0.7960390030	homotopy invariant
+0.7959224446	invertible object
+0.7958966590	zeta function
+0.7958183683	conformal field theories
+0.7957246003	finite field
+0.7956808493	quillen equivalent
+0.7954173818	frobenius schur
+0.7953897980	picard group
+0.7951564570	weight structure
+0.7949765095	cohomology class
+0.7949088438	fundamental groupoid
+0.7949056296	directed colimits
+0.7945471574	mild conditions
+0.7944897613	subfactor planar
+0.7942283941	star autonomous
+0.7940738323	highest weight
+0.7938795342	spherical fusion
+0.7938327526	witt vectors
+0.7937573106	burnside rings
+0.7936808209	additional structure
+0.7936591632	inverse semigroup
+0.7936470890	categorical perspective
+0.7932823528	left quillen
+0.7932605385	schreier split
+0.7931345852	hopf monoid
+0.7931080329	polynomial monads
+0.7927102888	lie theory
+0.7926313741	symmetric monoidal structure
+0.7925043556	analogous result
+0.7924620722	linearly ordered
+0.7922872526	process theories
+0.7922310854	model theoretic
+0.7921036973	hecke algebras
+0.7920971781	categorical compositional distributional
+0.7919923027	main tool
+0.7918331161	snake lemma
+0.7911945411	topological group
+0.7908584753	algebraic theory
+0.7908049564	geometric theories
+0.7907930365	synthetic differential
+0.7907718635	similar results
+0.7905725410	arise naturally
+0.7905407633	lambda terms
+0.7905024751	long exact sequence
+0.7897583027	initial algebra
+0.7896783920	tensor category
+0.7895864179	leibniz algebras
+0.7895674248	heyting algebras
+0.7895212002	hausdorff spaces
+0.7893096236	mac lane's
+0.7892364374	nka's principle
+0.7892100811	network models
+0.7891533972	operator algebras
+0.7891491305	algebraic stacks
+0.7889899075	exact mal'tsev
+0.7887306282	coherence theorems
+0.7884952144	algebraic set theory
+0.7883859774	lie algebroid
+0.7879249566	grothendieck fibration
+0.7878951528	simplicial spaces
+0.7876497023	mild assumptions
+0.7876418317	normal form
+0.7875416018	quasi categories
+0.7874495590	weighted limit
+0.7873329811	categorical formulation
+0.7869839046	moduli spaces
+0.7869444926	chu spaces
+0.7869153318	electrical circuits
+0.7868272667	cartesian fibrations
+0.7866975745	mixed distributive laws
+0.7865754211	signal flow diagrams
+0.7860642800	strong monoidal
+0.7858820341	elementary proof
+0.7857643257	categorical framework
+0.7856643717	grothendieck topos
+0.7855857819	homology theory
+0.7855844537	projective dimension
+0.7851898564	derived stacks
+0.7850925714	infinite loop space
+0.7848600810	gorenstein projective
+0.7848482691	mackey functor
+0.7846897251	dwyer kan
+0.7846319872	indecomposable objects
+0.7841046124	compact hausdorff
+0.7840212825	fiber functors
+0.7839308474	coherence conditions
+0.7838913471	left kan extensions
+0.7837798231	high level
+0.7837100104	quantum systems
+0.7834254745	categorical galois theory
+0.7833421875	frobenius monoids
+0.7833210956	computational effects
+0.7833006899	homotopy equivalences
+0.7829630462	locally connected
+0.7828786641	frobenius schur indicators
+0.7827274829	roughly speaking
+0.7827162075	spherical twists
+0.7826004007	geometric morphism
+0.7824706081	perverse sheaves
+0.7823847481	quasi coherent sheaves
+0.7821867166	tate cohomology
+0.7821497549	linear relations
+0.7817163872	complete segal space
+0.7815804089	quillen model
+0.7815730061	identity type
+0.7814151588	pt _ xy
+0.7812383788	weak omega
+0.7809845169	term rewriting
+0.7809519202	previous paper
+0.7808191070	colored operad
+0.7807748882	bar constructions
+0.7805029211	atom spectrum
+0.7803792322	linear exponential
+0.7803432662	additive categories
+0.7802341099	basic results
+0.7802135373	commutative frobenius
+0.7801536594	categorical setting
+0.7800997437	tilting pairs
+0.7800366770	grothendieck fibrations
+0.7799658807	braided tensor
+0.7796886204	partially defined
+0.7795958772	cofibrant objects
+0.7794972185	cartesian differential
+0.7791822338	directed complexes
+0.7790470958	freely generated
+0.7788681474	fold monoidal
+0.7788247972	initial object
+0.7788092364	exact structures
+0.7787855586	higher categories
+0.7785146633	differential exponential
+0.7784043781	smooth projective
+0.7781488877	van den
+0.7774633631	algebraic formulation
+0.7774058994	separable frobenius
+0.7772647619	tensor triangular geometry
+0.7771687998	internal language
+0.7771000626	combinatorial model
+0.7768977573	finite limits
+0.7767653505	locally finitely presentable
+0.7763816313	quasi abelian
+0.7763724327	higher dimensions
+0.7763550052	extension groups
+0.7761977932	abstract setting
+0.7759140621	hecke algebra
+0.7758810198	cobar construction
+0.7756595783	cyclic operads
+0.7756248083	general results
+0.7754262538	weakly equivalent
+0.7753050332	mv algebras
+0.7752764063	lawvere theory
+0.7751400138	soergel bimodules
+0.7749706865	globularily generated
+0.7748847677	closed symmetric monoidal
+0.7745587088	analytic functors
+0.7744167346	closure spaces
+0.7740899880	general method
+0.7739690853	differential operators
+0.7739318327	eilenberg moore
+0.7737286651	coherence theorem
+0.7735348252	recent developments
+0.7733571756	topological field theory
+0.7731788798	vertex operator algebra
+0.7729902450	additive functors
+0.7728701538	planar algebras
+0.7726064874	globular sets
+0.7720666139	left determined
+0.7717490336	higher homotopy
+0.7715834181	monoidal bicategories
+0.7715383811	segal conditions
+0.7714306998	projective schemes
+0.7714243803	augmented directed complexes
+0.7713170392	algebraically closed
+0.7707058835	higher topos
+0.7707057387	kan fibrations
+0.7705523517	special commutative
+0.7705268887	injective modules
+0.7703019374	classification result
+0.7702020130	continuous maps
+0.7700334959	brauer picard
+0.7697915567	quantal frames
+0.7696449457	classification theorem
+0.7693434424	simple proof
+0.7691561474	state spaces
+0.7690888065	nonsymmetric operads
+0.7689122043	hereditary torsion
+0.7682696452	frobenius perron
+0.7682209453	categorical groups
+0.7681589801	homotopy theoretic
+0.7681093577	basic properties
+0.7678182140	coherent nerve
+0.7678117341	strict omega
+0.7678092643	barr exact
+0.7677971459	morita equivalences
+0.7674868651	equivariant stable homotopy
+0.7671173221	completely distributive
+0.7669111715	equivalent conditions
+0.7664961607	weak equivalence
+0.7662702333	mapping class
+0.7662429838	uniquely determined
+0.7661395595	non standard analysis
+0.7660010416	quantum programming
+0.7655257564	balmer spectrum
+0.7653414121	free products
+0.7651381296	finite length
+0.7650532331	general result
+0.7645039850	categorical aspects
+0.7642280109	k3 surfaces
+0.7641174839	endomorphism rings
+0.7640351126	categorical sense
+0.7640314933	cartesian closed category
+0.7639933592	tate motives
+0.7637374913	internal groupoids
+0.7635968277	complete boolean
+0.7632846672	idempotent complete
+0.7630737019	short exact sequence
+0.7630416547	cofibrantly generated model
+0.7630186876	surface defects
+0.7629728607	yetter drinfeld
+0.7629102800	injective objects
+0.7629083057	crucial role
+0.7628020247	auslander reiten
+0.7623784309	local po
+0.7622818774	reedy model
+0.7622215556	bounded derived
+0.7621569186	cartesian differential categories
+0.7614355533	simplicial nerve
+0.7612481226	measurable spaces
+0.7607040385	pointed sets
+0.7606251425	tambara yamagami categories
+0.7602407956	algebraic models
+0.7602228078	duality theorem
+0.7597910380	linear differential
+0.7596642067	fibrant replacement
+0.7592043382	key ingredient
+0.7591281174	exact structure
+0.7591260022	higher algebra
+0.7590768178	construction yields
+0.7589870767	compact objects
+0.7589304246	compact quantum
+0.7587357040	dold kan correspondence
+0.7586012731	algebraic k theory
+0.7584859756	artin algebra
+0.7582156081	central charge
+0.7581589497	compact spaces
+0.7579103031	inductive types
+0.7578769726	quantaloid enriched categories
+0.7578516277	tilting object
+0.7577429521	yoneda structure
+0.7576287997	dynkin quivers
+0.7575764655	abelian model structures
+0.7575520425	algebraic weak factorisation systems
+0.7575341548	general context
+0.7573584979	symmetric spectra
+0.7573458726	cofibrant replacement
+0.7571940716	lifting property
+0.7570647819	derived manifolds
+0.7567018634	rickart objects
+0.7567003834	picard groups
+0.7563989626	continuous functions
+0.7563912298	configuration spaces
+0.7562829226	first order logic
+0.7562408557	quantum processes
+0.7561565396	homotopy equivalent
+0.7561090791	homological dimension
+0.7559043183	geometric theory
+0.7552932752	generated triangulated
+0.7551795280	anti yetter drinfeld
+0.7550389034	fiber functor
+0.7549191898	augmented virtual
+0.7549175953	local cohomology
+0.7547812118	loop spaces
+0.7547245235	locally trivial
+0.7544682659	structure preserving
+0.7543927669	valued functors
+0.7542557270	planar algebra
+0.7540088213	equational theories
+0.7539578707	symmetric monoidal bicategory
+0.7539397115	discrete fibrations
+0.7537292736	homotopy invariance
+0.7536611415	higher dimensional transition
+0.7534452215	categorical algebra
+0.7533854124	sheaf theory
+0.7530649234	graded rings
+0.7529685912	homotopy pullbacks
+0.7529052418	mathematical objects
+0.7528444505	classical results
+0.7527384704	strongly compact
+0.7525084037	dold kan
+0.7524335076	unitary fusion
+0.7524054565	signal flow
+0.7523860918	quillen model category
+0.7523031691	strong homotopy
+0.7522976167	valued functions
+0.7520626924	minimal model
+0.7517663992	quantum double
+0.7515870981	theorem states
+0.7515193166	stratified spaces
+0.7514798186	left exact
+0.7511261555	common framework
+0.7509993523	left kan
+0.7506009331	abstract framework
+0.7504975411	symmetric sequences
+0.7501282767	open markov
+0.7498979208	tensor functor
+0.7498126035	measure theoretic
+0.7497570939	modular operads
+0.7497431007	internal logic
+0.7497170763	topological groups
+0.7495361584	ordered set
+0.7495053507	explicitly compute
+0.7493413783	kan extension
+0.7492258192	path object
+0.7491428831	parameterization process
+0.7486582691	dependent type
+0.7484171301	flat modules
+0.7477403787	s_ ij
+0.7474096945	finite dimensional vector spaces
+0.7474074605	fp _n
+0.7470305921	group theory
+0.7470026201	quasi hopf algebras
+0.7469707382	general form
+0.7469665904	small categories
+0.7468016686	type theorems
+0.7467852258	deligne mumford stacks
+0.7464600416	semi infinite
+0.7463628393	preserving functors
+0.7462973025	vertex algebras
+0.7462711123	partial order
+0.7455939776	partially traced
+0.7455794821	calabi yau
+0.7455327335	twin cotorsion
+0.7452850715	standard model
+0.7451143104	braided fusion categories
+0.7450941167	triangulated subcategories
+0.7447415420	diagrammatic calculus
+0.7446431976	tensor triangulated
+0.7444098039	path algebra
+0.7443045772	lax functors
+0.7442123186	derived equivalent
+0.7441048030	endomorphism algebra
+0.7439113180	pseudo double
+0.7439039944	tensor functors
+0.7438564819	monoidal functor
+0.7437395158	binary products
+0.7436966591	double category
+0.7435122109	data types
+0.7433877250	topological rings
+0.7433567233	segal condition
+0.7432883349	differential graded algebras
+0.7431444225	small object argument
+0.7429206247	sl _2
+0.7428356358	direct products
+0.7427523667	exact category
+0.7422511678	higher categorical structures
+0.7421682762	silting objects
+0.7415572077	dg algebras
+0.7414025816	yang baxter
+0.7413251306	dimensional hopf algebra
+0.7412714274	serre functor
+0.7411041256	lawvere tierney
+0.7410191199	categorical model
+0.7409580531	simplicial groupoids
+0.7407867221	additive category
+0.7407583178	monoidal model categories
+0.7407554132	cohomology groups
+0.7407112625	left kan extension
+0.7406934260	singularity categories
+0.7406578889	rewriting theory
+0.7406312155	morita theory
+0.7403457650	adjoint functor
+0.7401993378	exact functors
+0.7401708459	grothendieck categories
+0.7399691145	finite tensor categories
+0.7394223200	crossed braided
+0.7393901512	tilting subcategory
+0.7393268542	commutative unital
+0.7389869436	galois extensions
+0.7389172341	frobenius exact
+0.7385889951	rota baxter
+0.7383305449	internal hom
+0.7381993961	triangulated subcategory
+0.7380364730	symmetric operads
+0.7378134413	group algebra
+0.7376992408	important examples
+0.7374731015	representation theorem
+0.7371641972	noncommutative schemes
+0.7370726959	general definition
+0.7369378068	fundamental groups
+0.7368452935	crossed products
+0.7367628359	gabriel zisman
+0.7366860416	omega categories
+0.7363714152	morphism spaces
+0.7361797342	vice versa
+0.7361236914	group representations
+0.7361093954	finite type
+0.7360467410	partial functions
+0.7356118950	direct proof
+0.7355640100	general linear
+0.7352638699	open games
+0.7350497689	classical structures
+0.7349049091	mittag leffler
+0.7347439459	nerve functor
+0.7344244263	diagrammatic language
+0.7342291388	linear abelian
+0.7339096975	baez dolan
+0.7338415698	point set
+0.7335849577	structure called
+0.7334962823	compact closed category
+0.7333952391	higher dimensional algebra
+0.7332770611	contravariant functors
+0.7331457633	mathematical structures
+0.7330516134	simplicial monoids
+0.7329169156	directed graphs
+0.7328838934	homotopy limits
+0.7325939278	segal objects
+0.7323672857	connectivity spaces
+0.7319411430	quasi coherent
+0.7318435566	lifting theorem
+0.7312526302	weak hopf
+0.7311984340	cohen macaulay
+0.7309038395	symmetric monoidal category
+0.7308158003	rigid objects
+0.7306860992	semiorthogonal decompositions
+0.7305999379	pseudo functors
+0.7305840407	homology groups
+0.7304094652	acyclic complexes
+0.7302753187	directed homotopy
+0.7301976375	bounded derived categories
+0.7297388200	completeness theorem
+0.7296351577	simplicial model
+0.7296246890	stable derivators
+0.7293135873	gelfand naimark
+0.7292878531	previous results
+0.7292862493	locally coherent
+0.7289349643	path algebras
+0.7288534028	harder narasimhan
+0.7285209348	symmetric monoidal closed category
+0.7283595839	eilenberg watts
+0.7280441226	functor calculus
+0.7280063043	grothendieck rings
+0.7279077384	split extensions
+0.7277635388	multiplier bimonoids
+0.7277088458	presheaf topos
+0.7276432816	hopf galois
+0.7273721259	torsion theory
+0.7272894181	stable module
+0.7270398079	group schemes
+0.7261010560	generalized operads
+0.7259972198	dg category
+0.7259042004	main result states
+0.7257198865	categorical group
+0.7256821059	representation theoretic
+0.7255241794	eilenberg mac lane
+0.7255108743	temperley lieb
+0.7252315586	finitary monads
+0.7251461377	projective modules
+0.7249485498	symmetric group
+0.7248871656	complete segal
+0.7248861443	donaldson thomas
+0.7246986212	symmetric multicategories
+0.7245476959	hereditary abelian
+0.7245406416	orbit category
+0.7244679109	cartesian closed categories
+0.7238789727	artin algebras
+0.7238299540	quantale enriched categories
+0.7237131928	representable functors
+0.7230766407	topological groupoid
+0.7230192356	theoretic framework
+0.7227596354	cofibrantly generated model structure
+0.7225988620	unital dg
+0.7222436622	finite index
+0.7222035569	tensor triangulated categories
+0.7221816476	birkhoff witt
+0.7221568500	monad theory
+0.7220158457	truth values
+0.7218238965	auslander buchweitz
+0.7217016999	maurer cartan
+0.7215360653	fourier mukai
+0.7213730826	theoretic characterization
+0.7213484607	exactness conditions
+0.7213226859	symmetric monoidal functor
+0.7212889482	categorical models
+0.7212099240	weak omega categories
+0.7211556231	krull schmidt
+0.7210114464	open question
+0.7209048888	graded modules
+0.7207083386	embedding theorem
+0.7204329343	hopf monoids
+0.7192099948	pseudo algebras
+0.7189221297	` weak
+0.7189005441	braided fusion
+0.7182878858	cofibrantly generated model category
+0.7178836947	homotopy relation
+0.7175127260	linear spaces
+0.7174518987	simplicial operads
+0.7169585194	graded commutative
+0.7162607368	braided monoidal category
+0.7160880497	deligne mumford
+0.7159330418	boardman vogt
+0.7157092191	extension closed
+0.7149602411	monotone light
+0.7148067410	dijkgraaf witten theory
+0.7147373907	open closed
+0.7146540808	kac moody
+0.7144447034	yetter drinfeld modules
+0.7143115852	internal groupoid
+0.7142567133	theoretic interpretation
+0.7140248419	comparison functor
+0.7137377173	stone type
+0.7135879818	categorical equivalence
+0.7135641604	recent result
+0.7135254667	quillen model categories
+0.7133241261	categorical notions
+0.7132896713	algebra object
+0.7132804652	categorical rings
+0.7129110377	connes kreimer
+0.7127780120	tilting subcategories
+0.7127472651	localization functors
+0.7125329885	free groups
+0.7124941078	weak factorization systems
+0.7119032010	ann categories
+0.7118017834	categorical properties
+0.7116971528	lusternik schnirelmann
+0.7116290519	symmetric monoidal double
+0.7116133278	wide range
+0.7115780740	finite dimensional algebra
+0.7113512643	dg algebra
+0.7110016320	equivariant spectra
+0.7109640889	quillen adjunctions
+0.7108749980	enriched category
+0.7107669341	dijkgraaf witten
+0.7104321335	binary relations
+0.7100533970	operator algebra
+0.7100095646	cocommutative hopf
+0.7089437610	eilenberg mac
+0.7088992620	fixed point theorem
+0.7084155727	categorical structure
+0.7081909861	combinatorial model categories
+0.7081705450	gray categories
+0.7080090503	baues wirsching
+0.7079840140	twisted tensor product
+0.7076763735	modular tensor category
+0.7076262524	stability condition
+0.7075220626	algebraic groups
+0.7070627526	recently introduced
+0.7068536147	gerstenhaber schack
+0.7068432831	gorenstein flat
+0.7068388324	algebraic properties
+0.7066552056	thomason model
+0.7060009900	set valued
+0.7059725864	group operads
+0.7059599390	simplicial homotopy
+0.7056291472	short exact
+0.7054387293	module structures
+0.7050799925	gapped domain
+0.7050454557	landau ginzburg
+0.7043134137	results extend
+0.7042276556	finite dimensional hilbert spaces
+0.7042271685	determinant functors
+0.7037891674	poisson algebra
+0.7030919938	quasi abelian categories
+0.7030293321	functorially finite
+0.7027496691	virtual double
+0.7026811333	left adjoint functor
+0.7016659645	ann category
+0.7012968947	unit object
+0.7004168381	quantum algorithms
+0.7001114160	general framework
+0.6997136424	finite tensor
+0.6996794459	rm ver
+0.6990722582	simplicial groups
+0.6986873881	lax orthogonal
+0.6984999029	free algebras
+0.6981111403	ring spectrum
+0.6980575854	boolean inverse
+0.6980314765	symmetric tensor categories
+0.6976141661	quasi compact
+0.6975894235	fully faithful functor
+0.6974136355	pro objects
+0.6972891044	entwining structures
+0.6962205674	fundamental theorem
+0.6960359117	cpm construction
+0.6947531013	faithful functor
+0.6942636067	inductive groupoids
+0.6939398015	point free
+0.6934583536	simplicial objects
+0.6913318959	combinatorial model category
+0.6901697700	homological mirror
+0.6895847222	monoidal equivalence
+0.6890569108	dimensional algebra
+0.6885286207	bimodule categories
+0.6879558789	hom finite
+0.6878598049	effective topos
+0.6877877371	strict lie
+0.6873815271	relative homological
+0.6867862847	dimensional topological field
+0.6866649348	a_ \ infty
+0.6849030916	semi abelian categories
+0.6846106251	symmetric strict
+0.6843464617	quasi isomorphisms
+0.6842530553	semi abelian category
+0.6841623098	finitely presented functors
+0.6835884436	lie 2 algebra
+0.6828356797	special frobenius
+0.6825556442	transitive lie
+0.6824243253	braided tensor category
+0.6805496505	presentable objects
+0.6803294551	groupoid structure
+0.6800980915	linear category
+0.6799158749	quasi hopf algebra
+0.6798428310	weakly enriched
+0.6795293020	abelian extensions
+0.6793587344	rational conformal
+0.6789869293	lattice valued
+0.6789101256	closed model
+0.6781835808	classical result
+0.6778284095	hopf cyclic
+0.6778177120	dagger frobenius
+0.6777566600	mathsf cat
+0.6771949819	self similarity
+0.6769145941	projective model structure
+0.6759923303	idempotent completion
+0.6755176435	skew monoidal category
+0.6748459548	extriangulated category
+0.6744953216	neumann regular
+0.6744709013	dualizable objects
+0.6740775607	base category
+0.6729493481	symmetric monoidal model
+0.6727888250	categorical compositional
+0.6724333674	small functors
+0.6717844224	abelian case
+0.6714831822	dimensional vector spaces
+0.6713057842	isomorphism classes
+0.6706928578	tilting objects
+0.6703081663	model category structures
+0.6701782190	inverse quantal
+0.6701592686	_ \ bullet
+0.6700311066	equivalence classes
+0.6698721388	dg modules
+0.6697985510	monoidal model category
+0.6696990984	semi model
+0.6689337911	tensor triangulated category
+0.6689216628	hypergraph categories
+0.6682765181	adjoint pair
+0.6682748882	enveloping algebra
+0.6679891344	cluster algebras
+0.6678056921	double functors
+0.6675753669	semi simple
+0.6667331899	path connected
+0.6664900821	higher structures
+0.6651027932	natural generalization
+0.6634355851	higher frobenius schur
+0.6631401048	categorical construction
+0.6628248779	dagger limits
+0.6624948037	group scheme
+0.6623219685	functor category
+0.6620673352	l_ \ infty
+0.6619060733	deligne's category
+0.6611664722	graded algebras
+0.6607195533	homotopy category
+0.6595851673	finite tensor category
+0.6595494051	gorenstein projective modules
+0.6595362729	categorical quantum
+0.6593937779	category theoretical
+0.6593573587	algebra structures
+0.6574667314	feynman categories
+0.6573170429	rota baxter algebras
+0.6563677917	frobenius structures
+0.6563490647	quasi category
+0.6553764538	eilenberg moore category
+0.6550955877	duoidal categories
+0.6550581699	model category structure
+0.6550101133	eilenberg moore algebras
+0.6545939093	hom spaces
+0.6542315974	pre lie algebras
+0.6542007070	module category
+0.6540897061	symmetric monoidal model category
+0.6540579575	dimensional topological quantum field
+0.6539495830	algebraic objects
+0.6533997892	cluster category
+0.6529634343	self contained
+0.6528922858	target category
+0.6526572299	underlying category
+0.6514776868	cofibration category
+0.6511713557	module maps
+0.6511655428	systematic study
+0.6503165303	cluster tilting objects
+0.6502918495	algebraic weak factorisation
+0.6501961527	ordered sets
+0.6498676977	categorical proof
+0.6497522773	frobenius objects
+0.6486551736	monoidal closed categories
+0.6481246434	non locality
+0.6480840169	universal algebras
+0.6476278229	general construction
+0.6474470138	gorenstein homological
+0.6466318313	left bousfield
+0.6458543543	finite dimensional algebras
+0.6449766321	closed model category
+0.6446578912	algebraic model
+0.6444143654	locally presentable categories
+0.6443313564	autonomous category
+0.6443219645	commutative noetherian
+0.6442132244	commutative noetherian ring
+0.6437150439	racks and quandles
+0.6432336781	angulated categories
+0.6424455604	kleisli category
+0.6422321705	presheaf category
+0.6409194605	s_ \ bullet
+0.6406659473	bounded derived category
+0.6399664624	general theorem
+0.6390804278	differential categories
+0.6385941808	tannakian categories
+0.6377342456	restriction categories
+0.6374860265	quotient category
+0.6373373789	duality theory
+0.6367665263	tangent category
+0.6366036400	inputs and outputs
+0.6358048156	algebraic quantum field
+0.6357376263	mal'tsev categories
+0.6355860022	goursat categories
+0.6343470072	markov categories
+0.6333194194	symmetric fusion
+0.6330364804	dimensional topological
+0.6327572297	categorical generalization
+0.6326229381	exangulated categories
+0.6318863696	elementary classes
+0.6318662288	reedy category
+0.6311356682	presheaf categories
+0.6311024191	orbit categories
+0.6292413928	angulated category
+0.6290523330	pre lie
+0.6288718858	product bialgebras
+0.6281365132	closed monoidal
+0.6274594242	lie 2 algebras
+0.6272943237	precise sense
+0.6264284271	contextual categories
+0.6258536107	short note
+0.6250035116	quantale enriched
+0.6247019902	autonomous categories
+0.6244767114	pointed categories
+0.6240527974	free symmetric
+0.6237435062	track categories
+0.6236414986	lax algebras
+0.6230562349	restriction category
+0.6224905049	fa \ `
+0.6221737984	locally cartesian
+0.6219627526	grothendieck ring
+0.6217657290	modular category
+0.6214809791	bimodule category
+0.6213878099	simplicial category
+0.6213241437	explicit description
+0.6210443690	differential category
+0.6208438564	order theory
+0.6205382971	suitable monoidal
+0.6203878960	grothendieck abelian
+0.6203316758	naturally isomorphic
+0.6201854788	weak factorization
+0.6200904463	proper class
+0.6198127942	finite dimensional hilbert
+0.6192864725	witten theory
+0.6188652901	differential algebras
+0.6179639174	compact lie
+0.6174220334	homotopy classes
+0.6172750159	classical notion
+0.6172105278	large class
+0.6167406187	e_ \ infty
+0.6163885302	derived morita
+0.6163166994	calabi yau categories
+0.6158838053	iterated monoidal
+0.6153090928	neumann algebras
+0.6148485772	cluster categories
+0.6148302847	segal categories
+0.6143723687	protomodular categories
+0.6141168532	accessible categories
+0.6139028801	regular category
+0.6138157827	weak factorisation systems
+0.6134682810	linear categories
+0.6133314917	joyal model
+0.6124522851	algebraic approach
+0.6123439848	stable module category
+0.6122622058	categorical resolution
+0.6119761354	operadic categories
+0.6115226377	point of view
+0.6112315327	_ \ infty
+0.6107221773	category of topological spaces
+0.6100591543	fibration category
+0.6100150186	moduli space
+0.6097057657	local to global
+0.6085186636	usual notion
+0.6084942410	mixed distributive
+0.6082493289	diagram categories
+0.6079491264	notions of algebraic theory
+0.6075153104	tangent categories
+0.6068074639	reedy categories
+0.6066217016	quasi hopf
+0.6064418366	inverse categories
+0.6063803311	right bousfield localization
+0.6061194436	weak omega category
+0.6054842315	hereditary categories
+0.6047843150	locally finitely
+0.6046568458	resolution of singularities
+0.6039967037	internal categories
+0.6038227586	finite set
+0.6029732176	sound and complete
+0.6024821619	higher central
+0.6022871806	homotopy 3 types
+0.6022123106	monoidal closed category
+0.6018643606	augmented directed
+0.6017596655	groups with operations
+0.6017389619	semi direct
+0.6014540147	category valued
+0.6009078848	limits and colimits
+0.6007860694	ordinary categories
+0.6001595913	closed structure
+0.5992416318	simplicial categories
+0.5991956484	finite dimensional hopf
+0.5987809718	modular representation
+0.5985487515	functor categories
+0.5984171243	regular categories
+0.5983457036	small object
+0.5981519632	basic theory
+0.5981017619	open dynamical
+0.5968778978	homotopy algebras
+0.5960973155	topological quantum
+0.5958779624	unital 2 segal
+0.5955515862	small category
+0.5954604198	principal 2 bundles
+0.5952930333	dagger categories
+0.5952823324	change of base
+0.5952589555	modular tensor
+0.5952402013	many sorted
+0.5949932925	mal'tsev category
+0.5948333227	free cocompletion
+0.5946537245	called `
+0.5945505213	result holds
+0.5941488899	triangular geometry
+0.5938958871	small quantaloid
+0.5923285144	cocomplete categories
+0.5907731105	categorical galois
+0.5907647294	cartesian category
+0.5905768489	differential linear
+0.5904433759	categorical point of view
+0.5902376544	fibration categories
+0.5896420723	theory developed
+0.5892519766	important role
+0.5891776865	indexed categories
+0.5868261187	hodge structures
+0.5866430531	weak complicial
+0.5856939916	differential algebraic
+0.5847031728	stable model
+0.5844363407	first order
+0.5843401023	category admits
+0.5842978759	series of papers
+0.5842233398	derived hall
+0.5840951078	monoidal abelian
+0.5834945180	complete cotorsion
+0.5832872864	_ \ mathcal
+0.5832560638	c * algebra
+0.5832362234	gray tensor
+0.5831273073	central role
+0.5819709881	monads and comonads
+0.5818258239	theoretic approach
+0.5818000260	complete and cocomplete
+0.5817222139	homotopy categories
+0.5816726549	generators and relations
+0.5816162266	stable derived
+0.5815204926	group objects
+0.5806302062	bicategory of fractions
+0.5806162753	exact functor
+0.5806003765	one sided exact
+0.5805912788	suitable sense
+0.5801488499	cartesian categories
+0.5799134156	gray category
+0.5787802121	k theory
+0.5780536096	equivariant homotopy
+0.5755714109	well founded
+0.5747316673	relative categories
+0.5742347166	positive maps
+0.5735883335	paper studies
+0.5720514826	dimensional algebras
+0.5713621777	\ mathcal pt _ xy
+0.5707221476	algebra structure
+0.5690290904	sufficient condition
+0.5689953632	calabi yau triangulated
+0.5683225051	general categorical
+0.5679949156	frobenius monoidal
+0.5664937107	dimensional transition
+0.5661104000	ordinary category
+0.5659987534	path categories
+0.5656032374	usual sense
+0.5653539575	weak model
+0.5644232748	generated modules
+0.5643917801	long exact
+0.5636733924	computer science
+0.5634139395	stable categories
+0.5629143714	arbitrary categories
+0.5627123845	finite categories
+0.5625470222	dimensional automata
+0.5619047405	topological categories
+0.5617830560	functor formalism
+0.5616804993	paper develops
+0.5611287537	present paper
+0.5609076646	applied category
+0.5605927349	paper presents
+0.5602349540	weak factorisation
+0.5601516238	intensional type
+0.5596387130	general case
+0.5591116706	distributional model
+0.5587203805	higher gauge
+0.5586901173	varieties of algebras
+0.5571447694	paper introduces
+0.5570907280	objects and morphisms
+0.5564501365	self adjoint
+0.5563883368	varieties of universal
+0.5556594585	dimensional representations
+0.5556247627	symmetric tensor
+0.5550856265	group groupoid
+0.5550712718	categorical approach
+0.5550372493	pro categories
+0.5548214053	existence and uniqueness
+0.5539888102	_ \ mathbb
+0.5538097494	algebra objects
+0.5533444709	categorical version
+0.5514798887	state and prove
+0.5512405454	higher category
+0.5496742753	abstract homotopy
+0.5496296445	group of automorphisms
+0.5488889184	similar result
+0.5481330823	complete classification
+0.5480066181	self dual
+0.5478920801	category structure
+0.5467727755	well behaved
+0.5467148326	present article
+0.5464073609	non archimedean
+0.5462528588	free modules
+0.5455386010	second order
+0.5449070833	non degenerate
+0.5447593556	object argument
+0.5441084869	de rham
+0.5432953353	natural notion
+0.5412939401	natural structure
+0.5408777175	category rep
+0.5400086721	quantaloid enriched
+0.5400005688	braided categories
+0.5390520516	generated double
+0.5374824885	group algebras
+0.5363982594	presentable category
+0.5359230428	closed field
+0.5352515684	categories and functors
+0.5351869774	topos of sheaves
+0.5335633908	finite dimensional modules
+0.5332036165	classical and quantum
+0.5324529222	field of characteristic
+0.5315381974	quantum field
+0.5313078914	representation theory of finite
+0.5308560322	generated model category
+0.5301105929	text set _ \ delta
+0.5286234784	order logic
+0.5276341761	linear groups
+0.5264714923	finite algebras
+0.5263337141	closed categories
+0.5256702651	general theory
+0.5242305482	classical theory
+0.5235910831	result states
+0.5223303732	categories and prove
+0.5222670646	quantum categories
+0.5220907612	hom lie
+0.5219035266	categorical theory
+0.5217601812	de vries
+0.5217405698	category of perfect complexes
+0.5214965738	baxter algebras
+0.5201304122	c * algebras
+0.5187865124	dimensional quantum
+0.5179278745	introduce and study
+0.5176913632	define and study
+0.5174873457	result generalizes
+0.5158966469	hopf categories
+0.5155899032	open petri
+0.5145536394	operatorname \ mathsf
+0.5143524684	sets and relations
+0.5134244806	set of generators
+0.5124787122	presentable categories
+0.5120243410	categories of comodules
+0.5090120392	categories satisfying
+0.5080859537	stable infinity
+0.5078118033	a powerful tool
+0.5052268938	weak n categories
+0.5048211004	an algebraically closed field
+0.5015152514	group structure
+0.5004475510	non abelian
+0.5003265851	non commutative geometry
+0.4996713497	self similar
+0.4977775718	derived category of coherent sheaves
+0.4973876290	closed category
+0.4973305729	this short note
+0.4964315022	and vice versa
+0.4961261598	quillen functor
+0.4958289473	mathbb z _
+0.4952489243	_ \ mathrm
+0.4935331774	double lie
+0.4923672879	weak homotopy
+0.4914499751	so called
+0.4890890391	3 dimensional
+0.4888714460	structure theorem
+0.4885631558	yamagami categories
+0.4877347684	omega category
+0.4869849182	rigid c * tensor
+0.4862050960	dimensional category theory
+0.4861078796	graded categories
+0.4841238637	category of small
+0.4832991765	non commutative
+0.4825386884	spaces and continuous
+0.4821020966	two sided
+0.4816237300	model structure on simplicial
+0.4812220334	weak factorization system
+0.4804894924	basic category
+0.4803719922	algebras over operads
+0.4792519230	projective model
+0.4783149348	derived categories of dg
+0.4776489394	well established
+0.4774087157	one sided
+0.4767840402	dual category
+0.4720661706	categories equipped
+0.4704596196	_ \ mathbf
+0.4699633331	abelian cohomology
+0.4687321627	category of flows
+0.4666947476	representation category
+0.4664949166	lie 2 groups
+0.4648620641	et al
+0.4638443131	day convolution
+0.4632336578	non trivial
+0.4620730940	a unified framework
+0.4616948025	d branes
+0.4614098365	algebraic weak
+0.4613457476	type theorem
+0.4601067708	lie 2 group
+0.4596244291	category of comodules
+0.4590238559	weak n category
+0.4575170570	a relative version
+0.4571989903	stable category
+0.4566356817	category of spans
+0.4557297920	non abelian cohomology
+0.4554903648	set of objects
+0.4513563689	_ \ mathsf
+0.4508224829	s_ ij ^
+0.4497055634	an adjoint pair
+0.4492948215	compact categories
+0.4486195574	* autonomous
+0.4479212771	moore category
+0.4463937269	homotopy theory of homotopy
+0.4458328907	singularity category
+0.4447661235	4 manifolds
+0.4428309671	abelian tensor
+0.4426430423	equivariant stable
+0.4388468993	derived algebraic
+0.4388444990	categories of coherent sheaves
+0.4380816443	models of type
+0.4379308604	some mild conditions
+0.4375510868	model category structure on
+0.4355732145	2 vector spaces
+0.4352242678	induced model
+0.4343423567	well pointed
+0.4326584397	quillen equivalence between
+0.4320430338	n fold
+0.4316839955	non deterministic
+0.4316721547	ver _ p
+0.4312581250	among other things
+0.4307367724	v cat
+0.4305582276	homotopy theory of simplicial
+0.4303303600	category of small categories
+0.4282263318	$ \ rm fp _n
+0.4275876072	freely generated by
+0.4259427431	taking values in
+0.4258101866	non symmetric operads
+0.4241168006	closely related to
+0.4237162225	two dimensional
+0.4226920855	4 dimensional
+0.4214369050	infinity operads
+0.4208048688	ext ^ 1
+0.4206425776	well understood
+0.4188932692	categories of representations
+0.4181092860	closed symmetric
+0.4178163463	0 cells
+0.4177704943	bounded derived category of coherent
+0.4155473252	categories of modules
+0.4153254462	three dimensional
+0.4143701454	2 crossed module
+0.4139851202	category of finite dimensional
+0.4139563962	definition of weak
+0.4106637865	giving rise to
+0.4087036178	_ \ mathscr
+0.4072215155	algebraic quantum
+0.4063824375	an abelian category
+0.4057739381	more generally
+0.4052749135	category with finite
+0.4051290185	this paper presents
+0.4048766916	class of examples
+0.4044833885	fold categories
+0.4038578959	model structure on
+0.4025229194	zero dimensional
+0.4016171178	inner automorphisms
+0.3995167452	most important
+0.3987309796	inner product
+0.3985380133	categories of models
+0.3979310984	classes of maps
+0.3971797658	representation categories
+0.3957997620	class of morphisms
+0.3955181849	formal category
+0.3951336167	no longer
+0.3949372768	derived category of coherent
+0.3939129180	non connective
+0.3938337421	isomorphism classes of
+0.3929117035	_ \ delta
+0.3923964304	pair of functors
+0.3918774952	monoidal 2 category
+0.3904321429	coherent sheaves on
+0.3901054152	six functor
+0.3897744979	category of coherent sheaves
+0.3891462966	categories enriched
+0.3890281647	\ mathsf alg
+0.3889680354	notion of weak
+0.3889617888	2 cells
+0.3884020981	class group
+0.3875619288	the present paper
+0.3820064725	notion of homotopy
+0.3815084816	well defined
+0.3799152004	^ op
+0.3798049212	there exists
+0.3795503176	sufficient conditions for
+0.3788618295	category of hilbert spaces
+0.3786019648	category of finite sets
+0.3775770233	non negative
+0.3769429366	representations of finite
+0.3763543821	right adjoints
+0.3761871228	an exact category
+0.3756422319	dimensional categories
+0.3749411403	module categories over
+0.3741025182	this paper introduces
+0.3731020208	n angulated
+0.3717285129	derived categories of coherent
+0.3713504150	an additive category
+0.3707235961	class of objects
+0.3706983736	not necessarily
+0.3705109976	category of quasi coherent
+0.3697177644	more precisely
+0.3691215437	1 cells
+0.3690720991	part ii
+0.3685407830	2 calabi yau
+0.3672728756	a special case
+0.3663667592	categories of sheaves
+0.3613447441	class of functors
+0.3599578701	enough injectives
+0.3593787250	1 and 2
+0.3582955938	quillen model structure on
+0.3580444609	dually equivalent to
+0.3578624297	theory of monads
+0.3577029082	2 dimensional
+0.3569146335	a finite group
+0.3556461096	category of modules
+0.3544510548	category of chain complexes
+0.3541301478	2 group
+0.3532293889	a commutative noetherian ring
+0.3530455022	enough projectives
+0.3528130304	graded category
+0.3514865475	c * tensor category
+0.3512116299	gives rise
+0.3507197669	an inverse semigroup
+0.3474216395	equivalence of categories
+0.3473661221	an open problem
+0.3460034304	factorization system
+0.3447046269	categories of algebras
+0.3442262512	+ 1d
+0.3434324549	quillen equivalent to
+0.3429709472	commutative c * algebras
+0.3425919520	morita theory for
+0.3422159737	in other words
+0.3412728157	2 calabi yau categories
+0.3412316186	a similar result
+0.3409802916	categories ii
+0.3397952188	bijective correspondence between
+0.3397752232	category of sets
+0.3397463185	theoretic approach to
+0.3383196404	an extriangulated category
+0.3376073089	necessary and sufficient
+0.3375636048	category of simplicial sets
+0.3362748063	quasi coherent sheaves on
+0.3358741539	independent interest
+0.3353410836	^ \ perp
+0.3350581614	class groups
+0.3349264444	this paper studies
+0.3348942311	under certain conditions
+0.3347125967	model structures on
+0.3345312503	^ 1
+0.3340557799	category of graphs
+0.3337518032	weak factorisation system
+0.3309874191	categories with finite
+0.3305142323	the bounded derived category
+0.3304101879	sufficient condition for
+0.3302725474	1 dimensional
+0.3287895499	2 vector space
+0.3286882172	derived category of
+0.3286539846	right adjoint
+0.3285640950	category of fibrant
+0.3281635414	this result generalizes
+0.3281613496	category of quasi coherent sheaves
+0.3279639633	category of hilbert
+0.3276358314	a suitable sense
+0.3273613482	category of sheaves
+0.3259234218	give sufficient conditions
+0.3244951759	full and faithful
+0.3239952801	category of vector spaces
+0.3237879539	does not hold
+0.3233782858	category structures
+0.3228594132	as special cases
+0.3227138304	^ \ text op
+0.3217867327	n + 1
+0.3199989276	almost split
+0.3199851465	number of examples
+0.3199068035	n \ geq
+0.3194364301	well generated
+0.3189312395	into account
+0.3184686036	a finite tensor category
+0.3175273642	^ \ mathrm op
+0.3158939106	theoretical computer
+0.3155602769	a small quantaloid
+0.3145856062	t structures
+0.3139179231	categories of weak
+0.3131645581	under mild
+0.3111154171	an equivalence relation
+0.3110361122	two fold
+0.3093344007	bounded derived categories of
+0.3085803422	naturally isomorphic to
+0.3073566205	simultaneous generalization of
+0.3071112194	categories enriched in
+0.3069531013	lie 2
+0.3067183716	jordan h \
+0.3067129791	theory of quantum
+0.3060890271	more general
+0.3058982887	non standard
+0.3047308501	reasoning about
+0.3034470958	a central role
+0.3024782884	the usual sense
+0.3013128150	wide range of
+0.3011894184	\ mathfrak gl
+0.3011634038	weaker than
+0.3010188587	factorisation system
+0.3005926142	2 categories
+0.3001755887	characteristic zero
+0.2999139885	category of coherent
+0.2995324810	\ mathrm mod
+0.2995000394	s ^ 1
+0.2992848556	c * categories
+0.2988169188	2 + 1d
+0.2986300366	functors between categories
+0.2984124607	non unital
+0.2979408409	characteristic 0
+0.2977117618	equivalence classes of
+0.2974832962	reason about
+0.2974234021	non semisimple
+0.2967721028	\ mathfrak sl
+0.2937219847	non associative
+0.2927393147	very general
+0.2922703289	\ infty
+0.2918612395	an application
+0.2915847574	faithful functor from
+0.2908116628	an important role
+0.2907653353	\ emph
+0.2906845006	up to isomorphism
+0.2906189753	embedding theorem for
+0.2903573432	derived categories of
+0.2886621258	category of coalgebras
+0.2881440619	2 hilbert space
+0.2874724890	mentioned above
+0.2874042106	v_ *
+0.2873054896	a precise sense
+0.2868112874	\ mathsf mod
+0.2859192924	the projective model structure
+0.2858873304	with finite limits
+0.2858381474	distributive laws between
+0.2849898226	necessary and sufficient conditions
+0.2848018148	factors through
+0.2846138278	infinity categories
+0.2843024811	\ cite
+0.2840366554	$ \ x \ mid
+0.2837953807	martin l \
+0.2832724991	singularity category of
+0.2831979098	category of finite
+0.2828832754	crossed modules over
+0.2824393366	category with respect
+0.2824093981	weakly equivalent to
+0.2817344081	co frobenius
+0.2812784661	one to one correspondence
+0.2811107086	earlier work
+0.2808727691	\ em
+0.2808312637	this article
+0.2803564623	2 groups
+0.2801748412	= 0
+0.2798966630	vector bundles over
+0.2797707888	2 category
+0.2795982599	the identity functor
+0.2793018457	\ mathrm rep
+0.2792833720	a proper class
+0.2786938851	formal theory of
+0.2786354639	^ \ vee
+0.2783103440	$ f \ colon
+0.2782044637	model structure for
+0.2777454993	behave like
+0.2768967340	the free cocompletion
+0.2767962235	an abelian group
+0.2767893711	dimensional analogue of
+0.2766444812	\ mathrm dg
+0.2762113529	dynamical system
+0.2748500544	formal theory
+0.2744797546	more specifically
+0.2743374017	\ rightarrow
+0.2740167549	bounded derived category of
+0.2738943289	classifying space of
+0.2732992873	f_ *
+0.2721440675	\ infty groupoids
+0.2718752387	category of chain
+0.2714771416	+ 1
+0.2713773306	well known
+0.2713485448	wdl ^
+0.2713300303	order to prove
+0.2705270234	previous work
+0.2691330644	an algebraically closed
+0.2690196103	c * tensor categories
+0.2687338446	projective modules over
+0.2684129821	a symmetric monoidal category
+0.2678054056	monoidal model
+0.2676757956	a small category
+0.2674894584	perfect complexes on
+0.2672745219	the present article
+0.2670446643	infinitely many
+0.2667691311	enriched infinity
+0.2662825977	picard group of
+0.2662355054	representation categories of
+0.2658325140	\ times
+0.2656630011	this note
+0.2649502974	a modular tensor category
+0.2647266755	t structure
+0.2646804833	co t structures
+0.2643942905	b ^ \ times
+0.2640337046	with enough projectives
+0.2637080611	\ mathbf mod
+0.2633605132	this paper
+0.2633129731	\ textit
+0.2630213972	the other hand
+0.2623875648	arbitrary category
+0.2620864345	picard 2
+0.2618609447	monoidal structure on
+0.2615374017	\ otimes
+0.2598016581	stability conditions on
+0.2593637672	aimed at
+0.2593637261	forgetful functor from
+0.2590202957	a braided monoidal category
+0.2585375683	categories enriched over
+0.2583846057	a direct proof
+0.2578527367	category of simplicial
+0.2574146132	coherence theorem for
+0.2569632334	these notes
+0.2567984077	category of internal
+0.2564732210	grothendieck ring of
+0.2564427377	categorical framework for
+0.2563707449	non linear
+0.2561886611	finitely many
+0.2556381891	group actions on
+0.2553866823	categorical models of
+0.2553155220	idempotent completion of
+0.2549008523	\ bf cat
+0.2538243007	result holds for
+0.2536833017	information about
+0.2535569882	many valued
+0.2532399897	accessible categories with
+0.2531209013	set _ \ delta ^ +
+0.2522911135	explicit description of
+0.2520501500	representation theorem for
+0.2512251447	group like
+0.2511877175	general notion of
+0.2511488500	future work
+0.2508897874	finite group g
+0.2508733294	dimension at most
+0.2508442211	\ to \ mathcal
+0.2501577236	\ rm ver
+0.2500812510	hopf monads on
+0.2500262649	thick subcategories
+0.2494123070	\ sigma
+0.2490257026	with finite products
+0.2484686167	vop \ v
+0.2482814091	l ^ 2
+0.2481020113	2 crossed modules
+0.2479853359	an arbitrary
+0.2476908385	other hand
+0.2476664433	\ in \ mathbb
+0.2475724661	combinatorial model for
+0.2475548811	cotorsion pairs on
+0.2475262387	the unit interval
+0.2473329219	\ omega
+0.2473096935	coming from
+0.2465189440	vector spaces over
+0.2461006911	h ^ 0
+0.2458121467	\ mathrm
+0.2457431648	chain complexes over
+0.2450934415	category of convex
+0.2449666721	\ mathfrak
+0.2445175130	\ mathsf
+0.2441439585	cotorsion pairs in
+0.2439454125	make explicit
+0.2433607369	coherence conditions for
+0.2432150127	category of monads
+0.2432134991	\ mathbf set
+0.2431477590	these results
+0.2429929189	look at
+0.2429501389	^ \ circ
+0.2427481027	\ dots
+0.2427046420	\ geq 0
+0.2421137276	\ text op
+0.2415755894	category of presheaves
+0.2415706918	the effective topos
+0.2415499798	in semi abelian categories
+0.2414793677	category of relations
+0.2411223070	\ text
+0.2405175130	\ mathbf
+0.2404007604	\ simeq
+0.2399608888	\ lambda
+0.2399239634	kleisli category of
+0.2398710204	a monoidal model category
+0.2398129396	category of algebras
+0.2396921022	theory of weak
+0.2393341190	special cases of
+0.2387945587	categorical analogue of
+0.2384573110	exact structures on
+0.2382610083	\ delta
+0.2380931510	category of models
+0.2380695390	graphical calculus for
+0.2376466477	theory of finite
+0.2372497106	equivalence between
+0.2371691688	closed under
+0.2363618019	categorical approach to
+0.2361951934	non singular
+0.2361942084	\ rm fp
+0.2358831106	\ beta
+0.2350964674	rather than
+0.2349482630	\ subset
+0.2346747298	proof uses
+0.2345223005	homotopy classes of
+0.2342692697	\ mathsf pos
+0.2341309490	category of weak
+0.2339464238	a commutative ring
+0.2339412476	simplicial objects in
+0.2328641251	\ rm
+0.2327601042	e infinity
+0.2324145244	\ operatorname
+0.2321323035	non strict
+0.2320573202	morita equivalent to
+0.2317357961	drinfeld center of
+0.2312072051	explicit construction of
+0.2310612479	representation category of
+0.2308516047	up to homotopy
+0.2304525173	of finite type
+0.2302942211	\ in \ mathcal
+0.2300166477	equipped with
+0.2296978577	\ bf
+0.2295762399	\ cdot
+0.2295089073	necessary condition
+0.2293930398	mod r
+0.2292228417	2 cell
+0.2291864016	non symmetric
+0.2291687886	hopf monoids in
+0.2289618715	\ textrm
+0.2283516416	reflective subcategory of
+0.2276374263	other things
+0.2276305316	results about
+0.2274817515	category of matrix
+0.2274397716	every object
+0.2273921257	at least
+0.2269851084	a finite set
+0.2265760358	joint work with
+0.2261374567	rewriting system
+0.2256043371	the telescope conjecture
+0.2247639488	maps between
+0.2238060008	generated by
+0.2236818698	among others
+0.2235720212	geometric realization of
+0.2234937634	homotopy theory of
+0.2233815250	modules over
+0.2231740818	an abstract
+0.2231166245	euler characteristic of
+0.2226475031	duality theorem for
+0.2226053445	categories of finite
+0.2225696230	the small object argument
+0.2219127434	an explicit description
+0.2218230586	starting from
+0.2217430840	\ oplus
+0.2212568358	also discuss
+0.2212330629	fit into
+0.2211769889	category in terms
+0.2211393774	a monoidal category
+0.2210080319	2 fold
+0.2208692251	\ mathsf cat
+0.2206454041	internal groupoids in
+0.2206171668	based on
+0.2200298212	triangulated category t
+0.2198142524	\ hookrightarrow
+0.2198113177	an alternative
+0.2197907538	introduced by
+0.2195404983	categorical version of
+0.2194715682	\ overline \ mathcal
+0.2189404675	\ mathbf cat
+0.2186606027	\ mathrm cat
+0.2180240175	motivated by
+0.2180061295	\ to \ mathbf
+0.2178988915	an object
+0.2178278030	making use of
+0.2175525044	\ hspace
+0.2175180308	the first author
+0.2171736500	\ cong
+0.2171281053	relationship between
+0.2165844695	monoidal structures on
+0.2164941721	an explicit
+0.2160525044	\ leftarrow
+0.2159429569	^ \ bullet
+0.2159073292	tensor product of
+0.2158843175	\ textbf
+0.2158160772	interplay between
+0.2156868037	\ pi
+0.2155525044	\ hbox
+0.2151853343	category of complete
+0.2150112208	a torsion pair
+0.2145392933	wide class of
+0.2145267981	arising from
+0.2144676154	several examples
+0.2142240610	fundamental theorem of
+0.2140606544	replaced by
+0.2138983491	moduli space of
+0.2136161601	a natural transformation
+0.2135224964	\ cal
+0.2133611500	\ subseteq
+0.2128228727	referred to as
+0.2125407402	one to one
+0.2123945285	general theory of
+0.2117652734	n = 1
+0.2117441283	universal property for
+0.2116201084	torsion pairs in
+0.2116172464	inspired by
+0.2114473676	of such categories
+0.2111677397	\ mathsf set
+0.2110487704	this result
+0.2109488149	drinfeld double of
+0.2106598121	less than
+0.2106032943	\ to \ mathscr
+0.2104988198	under suitable
+0.2104019627	a tensor triangulated category
+0.2102021801	\ colon \ mathcal
+0.2099459706	an attempt
+0.2097915716	$ \ kappa
+0.2097449190	\ pi_0
+0.2093611500	\ longrightarrow
+0.2090686468	moduli spaces of
+0.2088754242	$ \ infty
+0.2088052367	\ to \ mathsf
+0.2087800130	n = 2
+0.2086886003	category of functors
+0.2086576513	$ \ mathbb
+0.2085888605	\ mathscr
+0.2083006961	category of spaces
+0.2074463730	defined by
+0.2072960441	$ \ mathscr
+0.2071224413	\ rtimes_
+0.2067817745	\ cap
+0.2063420311	field of characteristic zero
+0.2060554622	category of compact
+0.2058393745	\ mathcal
+0.2057710678	\ colon
+0.2057037204	2 category of monads
+0.2055617857	category of topological
+0.2050088871	doing so
+0.2048497328	direct sum of
+0.2048365745	\ widehat \ mathbb
+0.2048051829	distinction between
+0.2047274877	\ xrightarrow
+0.2045289725	so far
+0.2044760474	$ \ phi
+0.2040022488	determined by
+0.2038532943	\ to \ mathbb
+0.2038514013	$ \ mathcal
+0.2036098950	^ 2
+0.2035136213	induced by
+0.2035070281	left or right
+0.2034890428	\ mathbb z
+0.2033119635	a combinatorial model category
+0.2026436101	important role in
+0.2024498769	hopf algebras over
+0.2022295011	in homotopy type theory
+0.2021699103	category of finitely
+0.2021290665	category of smooth
+0.2020121316	fixed points of
+0.2019043174	basic properties of
+0.2018749712	relation between
+0.2018688330	tensor category c
+0.2013083045	correspondence between
+0.2012762403	this dissertation
+0.2006224413	\ rho
+0.2004412869	a wide class
+0.2003864470	an appendix
+0.2003408667	\ circ
+0.1998574694	\ alpha
+0.1998136250	\ boxtimes
+0.1993193021	large class of
+0.1992798033	endowed with
+0.1992375955	\ omega_1
+0.1986182783	obtained by
+0.1985293114	a smooth projective
+0.1982784766	full subcategory
+0.1981380077	particular cases
+0.1979546930	a model category
+0.1977644350	second author
+0.1973918293	category of locally
+0.1970156089	^ 0
+0.1969826660	the cobordism hypothesis
+0.1968834196	acting on
+0.1968805963	some basic
+0.1968416127	left and right
+0.1968364360	classified by
+0.1968233350	previously known
+0.1966443971	this thesis
+0.1963416585	homotopy type of
+0.1962398127	\ bbbk
+0.1959967130	distributional model of
+0.1959790829	general framework for
+0.1959165047	\ dashv
+0.1956399082	homotopy category of
+0.1951487692	left adjoint to
+0.1950837576	$ \ mathbf
+0.1946081101	\ mathsf lax
+0.1945783164	tensor product on
+0.1941099246	relationships between
+0.1936667608	$ \ mathsf
+0.1933890145	universal property of
+0.1932791448	non zero
+0.1929397493	\ widetilde \ mathcal
+0.1926629273	each object
+0.1925329414	^ \ ast
+0.1924629185	\ theta
+0.1923428127	the internal hom
+0.1919594181	embedded into
+0.1917842801	the second author
+0.1914282092	the algebraic structure
+0.1911923979	\ varphi
+0.1910645815	\ gamma
+0.1908093454	\ sqrt
+0.1906368017	a general construction
+0.1906044684	arises from
+0.1905783164	the snake lemma
+0.1904082674	equivalent to
+0.1901833865	the forgetful functor
+0.1900991634	well known result
+0.1900620183	this notion
+0.1899559125	\ kappa
+0.1898909986	\ mathbf w _ \ mathscr
+0.1897466143	one object
+0.1895796041	non invertible
+0.1895216676	viewed as
+0.1893559720	recent work
+0.1891853914	special case of
+0.1888916734	\ mathbb
+0.1886010436	homotopy categories of
+0.1883150474	for instance
+0.1881926841	a previous paper
+0.1878870738	special class of
+0.1876396969	thought of as
+0.1875643163	morphisms between
+0.1875246656	\ rtimes
+0.1874938815	very useful
+0.1872359970	infinity groupoids
+0.1867952961	new definition
+0.1866478806	this monograph
+0.1864170909	$ \ mathrm
+0.1862622321	the general case
+0.1860523254	the unit object
+0.1859800486	regarded as
+0.1857826890	n 1
+0.1856656847	\ sf
+0.1856030878	necessary and sufficient condition
+0.1851736296	d ^ b
+0.1850377514	does not
+0.1850048979	\ widetilde
+0.1845684492	deformation theory of
+0.1845410679	theory of categories
+0.1844674735	iss \
+0.1844550639	universal properties of
+0.1841946558	\ to \ mathrm
+0.1838668142	categories equipped with
+0.1835327649	not true
+0.1834023218	^ 4
+0.1833764146	central extensions of
+0.1827599047	triangulated category with
+0.1826536979	\ mbox
+0.1824229388	a model category structure
+0.1822000999	invariant under
+0.1821187513	$ \ mathfrak
+0.1818197673	classifying topos of
+0.1815339325	\ sim
+0.1812472143	exact sequences of
+0.1812383609	representation theory of
+0.1811550143	category of commutative
+0.1811544340	injective objects in
+0.1810512722	complete classification of
+0.1804313002	an explicit construction
+0.1800818120	grothendieck group of
+0.1797190390	homology groups of
+0.1792928864	a classical result
+0.1789837334	give rise
+0.1789288254	conditions under
+0.1789153489	serve as
+0.1788086200	coincides with
+0.1787306234	the final coalgebra
+0.1781687240	category equipped with
+0.1780139920	deals with
+0.1778706966	c ^ *
+0.1777561407	category of relative
+0.1777224377	z _2
+0.1775863305	arise from
+0.1775222152	passage from
+0.1772076149	c systems
+0.1771252692	fundamental group of
+0.1770590306	2 representations
+0.1770008704	go on to
+0.1769058238	derived category of coherent sheaves on
+0.1768934475	two element
+0.1762642103	fra \
+0.1760124581	the moduli space
+0.1758137418	\ wedge
+0.1753493682	the category of chain complexes
+0.1753354476	\ varepsilon
+0.1750195981	categorical semantics of
+0.1749915727	satisfying certain
+0.1749337750	there exist
+0.1749336791	gives rise to
+0.1749177796	slightly more
+0.1746329779	\ mis
+0.1744638005	a distributive law
+0.1742039522	\ cdots
+0.1741865193	make use of
+0.1737675395	up to equivalence
+0.1735375999	do not
+0.1734271288	$ \ sigma
+0.1733538964	$ \ omega
+0.1730835704	a topological space
+0.1727135086	a complete classification
+0.1726603104	\ leq
+0.1725788448	^ *
+0.1724566879	developed by
+0.1724342916	^ +
+0.1723372337	presented here
+0.1722583361	an important
+0.1722062572	with corners
+0.1718762565	type theory with
+0.1715795636	last section
+0.1715646958	$ \ underline
+0.1714347411	general class of
+0.1714047378	the category of simplicial sets
+0.1708436432	$ \ xi
+0.1707875078	exact sequence of
+0.1707630934	_ +
+0.1706805595	interpreted as
+0.1703831988	poincar \
+0.1697425551	by introducing
+0.1695168316	r modules
+0.1693941036	kan extensions in
+0.1693829156	relations between
+0.1693398541	three notions
+0.1691076860	enrichment over
+0.1690348793	give rise to
+0.1684478927	adjunction between
+0.1682930226	a universal property
+0.1682693617	2 term
+0.1682651041	the homotopy category
+0.1681271044	connections between
+0.1676696207	do so
+0.1676061127	posed by
+0.1674680759	$ \ widehat
+0.1674193845	in fact
+0.1671977130	deal with
+0.1669248801	interactions between
+0.1669101842	relies on
+0.1668097064	played by
+0.1664705444	quantaloid q
+0.1664433637	by showing
+0.1660973886	reconstructed from
+0.1660700167	crossed modules of
+0.1657951367	notion of
+0.1657894174	\ boldsymbol
+0.1657028972	represented by
+0.1656056632	the usual notion
+0.1655893126	the category of finite sets
+0.1655265040	the category of finite dimensional
+0.1655221083	stable under
+0.1653443734	on one hand
+0.1652811790	description of
+0.1651713718	also prove
+0.1651344690	a bijective correspondence
+0.1650538864	depend on
+0.1646093461	the absence
+0.1644640601	right exact
+0.1644015120	^ \ delta
+0.1643657452	\ ast
+0.1641116655	^ \ infty
+0.1636724969	a general framework
+0.1636432130	every morphism
+0.1632519077	results concerning
+0.1628507396	an algebraic
+0.1628189541	chain complexes of
+0.1626649106	the stable module
+0.1626370103	of perfect complexes
+0.1624756915	an equivalence
+0.1623641823	right bousfield
+0.1622094298	expressed in terms of
+0.1621823014	these notions
+0.1620658649	two ways
+0.1620240300	a weak equivalence
+0.1620087687	categories arising from
+0.1620062259	ext ^
+0.1618108028	category of coherent sheaves on
+0.1616870321	categorical point of
+0.1616689466	internal categories in
+0.1615796469	$ \ rm
+0.1614024638	one point
+0.1612942914	frobenius algebras in
+0.1608380887	$ \ mathbb z _2
+0.1607981040	n \ geq 1
+0.1606038054	homotopy theory for
+0.1605851567	^ \ alpha
+0.1604869945	\ phi
+0.1604713434	dimension at most one
+0.1603211956	of string diagrams
+0.1601657620	\ ell
+0.1600439171	functors between
+0.1598589446	only finitely many
+0.1597502456	agrees with
+0.1597439486	compatible with
+0.1594778639	\ tilde
+0.1593047171	this model structure
+0.1590967470	a finite field
+0.1590892919	infinity category
+0.1588925335	a sufficient condition
+0.1588368431	homological algebra in
+0.1585588772	\ tau
+0.1585083821	note on
+0.1581656149	$ \ overline
+0.1581386548	an operad
+0.1577506297	an elementary
+0.1574256228	unique up to
+0.1574012072	\ mathbb z _2
+0.1572767891	\ geq
+0.1572670514	full subcategories
+0.1570665337	link between
+0.1570083260	dealing with
+0.1568695779	and continuous maps
+0.1568506226	and vice
+0.1567380287	or more generally
+0.1564283222	a lot
+0.1562524795	indexed by
+0.1560185780	various types
+0.1560035572	or equivalently
+0.1560004295	a 2 category
+0.1559023194	the base change
+0.1558268245	the singularity category
+0.1558212808	various notions
+0.1557647110	constructed from
+0.1556489954	the univalence axiom
+0.1553423984	2 categorical
+0.1552445943	a module category
+0.1546389306	functor from
+0.1545105806	structure on
+0.1543175605	\ bullet
+0.1542504379	a topos theoretic
+0.1538152081	dg category of
+0.1534531158	c ^ \ infty
+0.1534266497	focuses on
+0.1534252794	c \ rtimes
+0.1530668022	rely on
+0.1530622631	right quillen
+0.1529012605	the loop space
+0.1528505184	^ \ mathrm
+0.1527949866	a category theoretic
+0.1526532849	version of
+0.1525128718	depending on
+0.1524480338	galois group of
+0.1520921489	correspond to
+0.1520587408	monoidal category c
+0.1517707184	some mild
+0.1517570044	one dimensional
+0.1517535755	comodules over
+0.1516509850	a large class
+0.1512107150	model structures for
+0.1510073054	built from
+0.1505491960	a cluster tilting
+0.1504962363	\ hat
+0.1504761279	a finite dimensional
+0.1503009118	of persistence modules
+0.1499968434	a symmetric monoidal closed
+0.1498947675	\ vee
+0.1498882679	algebraic theory of
+0.1497507508	bousfield localization of
+0.1496672476	two term
+0.1496223634	and sufficient condition
+0.1494938656	2 monads
+0.1493173802	\ xi
+0.1492161653	the zx calculus
+0.1487383981	theory of simplicial
+0.1486821590	many examples
+0.1485905293	used to define
+0.1484068691	focus on
+0.1483748280	several applications
+0.1483249903	approach to
+0.1481231943	this generalizes
+0.1480111042	introduced here
+0.1479916521	algebras over
+0.1476747529	^ \ mathbb
+0.1472058088	isomorphism between
+0.1471302347	the modular data
+0.1470888472	abelian categories with
+0.1470632018	\ mathcal e
+0.1470587389	\ underline
+0.1468226337	\ mathbb f
+0.1468207245	if and only if
+0.1467891847	the main result
+0.1466192724	various applications
+0.1465829944	equivalences between
+0.1464152601	the category of hilbert spaces
+0.1463676850	isomorphic to
+0.1463245240	\ overset
+0.1462169694	the last section
+0.1456010031	the catalan
+0.1456009292	an arbitrary category
+0.1451133996	most general
+0.1450045365	the weak equivalences
+0.1449254947	by defining
+0.1447135102	tensor products of
+0.1447069063	$ \ lambda
+0.1445982536	the calculus of
+0.1444416462	a monoidal model
+0.1442983171	sch \
+0.1441954125	2 connection
+0.1440982744	first step
+0.1438998529	joint work
+0.1437713720	category of groups
+0.1436855603	a semi abelian
+0.1435995092	theory of operads
+0.1433773150	zero object
+0.1433358813	a topological groupoid
+0.1431570590	at most
+0.1431478257	applied to
+0.1431162471	\ mathbb h
+0.1429606613	the one hand
+0.1429301685	unitary 2
+0.1428687902	category of complexes of
+0.1427052362	p groups
+0.1425903401	characterized by
+0.1425877948	adjunctions between
+0.1425645417	structures on
+0.1425552101	a lax monoidal
+0.1425500435	in addition
+0.1421169105	= 1
+0.1420079425	a one to one correspondence between
+0.1419735652	e_ n
+0.1418768844	in many cases
+0.1417255555	links between
+0.1417253964	the dimension of
+0.1417143983	preserved by
+0.1416696821	the meaning of
+0.1416345528	various kinds
+0.1415982536	the lattice of
+0.1415398926	infinity morphisms
+0.1412679985	enriched over
+0.1410811547	$ \ mathsf set
+0.1410606282	moore category of
+0.1409837947	a symmetric monoidal
+0.1406993453	the 2 category of
+0.1405795712	$ \ mu
+0.1404805450	the base category
+0.1403974445	\ mathbb t
+0.1402339483	op \ to \
+0.1401922503	a simplicial set
+0.1401069961	of matrix factorizations
+0.1401037362	ring r
+0.1400910284	new proofs
+0.1400728982	two parts
+0.1399262701	gr \
+0.1398735446	the groupoid of
+0.1397179013	omega ^
+0.1396981890	focusing on
+0.1395924495	the usual
+0.1395432496	the formal theory
+0.1394892838	crossed modules in
+0.1394280532	studied by
+0.1390954893	an error
+0.1389311974	the main results
+0.1387787403	double category of
+0.1386816800	an isomorphism
+0.1384308628	a tangent category
+0.1383365948	an abelian
+0.1377869645	the fundamental groupoid
+0.1377768364	known results
+0.1376577707	monoidal categories with
+0.1374932116	a method of
+0.1372164795	category theory to
+0.1371513224	the order of
+0.1371335474	a single
+0.1370203363	this construction
+0.1368735446	the dual of
+0.1368244840	\ ck
+0.1367543275	\ overline
+0.1367540837	\ theta_n
+0.1367132018	\ mathcal c
+0.1365653867	the category of small categories
+0.1364932116	the axioms of
+0.1364909796	\ mathbb c
+0.1360276729	triangulated categories with
+0.1360031321	module category of
+0.1358143203	v_ * \
+0.1357316849	theory of homotopy
+0.1355667354	\ textsf
+0.1354932116	the geometry of
+0.1354896874	homotopy types of
+0.1353495801	a regular category
+0.1353452112	with respect to
+0.1353333674	this fact
+0.1353301407	a left adjoint
+0.1352189606	followed by
+0.1350129545	abelian category with
+0.1349860356	basic theory of
+0.1348191375	the restriction of
+0.1347271110	the special case
+0.1347182536	a theorem of
+0.1344732106	each case
+0.1344117995	emphasis on
+0.1341709893	the end of
+0.1339267828	n \ leq
+0.1338735446	the poset of
+0.1338735446	the topology of
+0.1337402926	2 filtered
+0.1337242706	a vector space
+0.1337055911	leads to
+0.1336696821	the field of
+0.1335848519	a self contained
+0.1333318898	these constructions
+0.1331709893	this theory to
+0.1329647588	the main theorem
+0.1329508070	abelian category of
+0.1329145883	of isomorphism classes
+0.1328356761	then apply
+0.1327309288	\ mathit
+0.1327102385	3 groupoids
+0.1326513224	the axiom of
+0.1325448201	monoidal category with
+0.1324413763	new results
+0.1322490772	a first step
+0.1322042711	categories of coherent
+0.1320389871	$ c ^ \ ast
+0.1319443480	the category of vector spaces
+0.1318498962	2 functors
+0.1315300489	\ mathcal u
+0.1313080264	the spirit of
+0.1313018004	\ mathcal o
+0.1312633412	comes from
+0.1312106871	\ frac
+0.1311450493	categories associated with
+0.1310607140	bimodules over
+0.1309311047	c * category
+0.1309254100	also explain
+0.1307946652	\ psi
+0.1307938983	the basic theory
+0.1307724698	defined in terms of
+0.1306776741	\ varphi ^ \ co
+0.1305212437	category of
+0.1304812832	realized as
+0.1304396291	$ \ tau
+0.1303080264	the concepts of
+0.1301486676	category structure on
+0.1301407795	representations of
+0.1299536654	+ 2
+0.1296544602	_ \
+0.1296413597	the perspective of
+0.1293155224	coalgebras over
+0.1293090206	the author
+0.1292513224	the logic of
+0.1290662534	a way of
+0.1289285446	in order to
+0.1288266169	a finite category
+0.1286696821	the foundations of
+0.1286092741	some examples
+0.1284722088	morita equivalence of
+0.1284192324	two approaches
+0.1283894076	c * tensor
+0.1283024300	seen as
+0.1282740145	tensored over
+0.1282727404	the literature
+0.1280717567	some results
+0.1278735446	the operad of
+0.1276935287	\ calc
+0.1276413597	the formalism of
+0.1275646304	biequivalent to
+0.1274986681	\ mathscr c
+0.1274407472	functors from
+0.1273135682	\ widehat
+0.1271918453	the main
+0.1271025634	the original
+0.1270902160	lot of
+0.1270235179	and so on
+0.1268380251	a consequence
+0.1267200710	\ chi
+0.1266315770	hopf algebras in
+0.1262144016	of interest in
+0.1261121674	devoted to
+0.1260887410	obtained from
+0.1260489478	connection between
+0.1260291001	the ring of
+0.1256066537	weak equivalences of
+0.1253928614	the bounded derived category of
+0.1253570103	arise as
+0.1253124382	absence of
+0.1253049403	attached to
+0.1252232018	\ mathcal b
+0.1250566440	related to
+0.1248178303	the process of
+0.1247142569	rise to
+0.1245597684	restricts to
+0.1245463192	^ 3
+0.1245366239	a model structure
+0.1244368187	a monoidal bicategory
+0.1243036099	\ epsilon
+0.1242826037	defined via
+0.1242685620	result about
+0.1242200925	galois theory of
+0.1241879783	l _
+0.1240802540	lie algebra of
+0.1238885250	used to construct
+0.1236575004	* algebra
+0.1236551653	classical theory of
+0.1233503083	a well behaved
+0.1233279826	theorem for
+0.1231489092	morphism between
+0.1228059427	shown to
+0.1224650589	definition of
+0.1224465865	a system of
+0.1224094711	\ mu
+0.1223745327	the fundamental group
+0.1220283722	a modular tensor
+0.1220262927	also study
+0.1218753568	subclass of
+0.1218498962	2 functor
+0.1218430464	unique up
+0.1217006486	considered as
+0.1216306004	framework for
+0.1216000579	triangulated categories of
+0.1215713941	of presheaves of
+0.1215534148	a categorical
+0.1215424034	depends on
+0.1213940165	new examples
+0.1213093089	the symmetric group
+0.1211939977	proposed by
+0.1210816804	ideas from
+0.1210670967	some remarks
+0.1204323783	transformations between
+0.1201824713	the general theory
+0.1201670075	a double category
+0.1201169882	this framework
+0.1200229186	properties of
+0.1200054634	\ mathbb p ^
+0.1199059859	sheaves on
+0.1197919944	a homotopy coherent
+0.1195328892	monoidal category of
+0.1193947632	model categories of
+0.1193627240	the use of
+0.1192999231	also discussed
+0.1191125014	not only
+0.1191072960	_ \ mathcal c
+0.1191059264	2 character
+0.1190893638	an exact
+0.1190854079	the monoidal structure
+0.1186806906	1 morphisms
+0.1185867252	remarks on
+0.1184328794	rigid c *
+0.1183680269	introduction to
+0.1183627240	the work of
+0.1183619056	the fact
+0.1183467039	classes of
+0.1182542925	kinds of
+0.1180935819	a note on
+0.1180904325	this context
+0.1176357150	an equivalence of categories
+0.1175786265	2 monad
+0.1175588777	of finite sets
+0.1174704087	paper contains
+0.1173207851	model category of
+0.1173136687	of small categories
+0.1172905238	due to
+0.1171880255	a suitable
+0.1171463200	the category theoretic
+0.1170039729	^ n
+0.1168814407	characterization of
+0.1168460538	comparison between
+0.1167918313	concerned with
+0.1167370994	categories of
+0.1166017452	\ to \
+0.1165601080	2 groupoid
+0.1165281732	category of left
+0.1162497878	as well as
+0.1162347717	a new description
+0.1162077473	generalization of
+0.1160532966	this setting
+0.1156634511	also shown
+0.1156203055	a topological group
+0.1155766408	a natural
+0.1155312265	_ n
+0.1154964842	corresponds to
+0.1154243642	i \ in
+0.1153112450	consisting of
+0.1152288135	this approach
+0.1152232018	\ mathcal t
+0.1150602130	not just
+0.1148403131	also provide
+0.1148132484	this yields
+0.1147789371	with values in
+0.1146368035	more general than
+0.1143299780	used to model
+0.1143225728	$ \ operatorname
+0.1142261123	bijection between
+0.1140583413	an axiomatic
+0.1138529451	a number of examples
+0.1136962614	$ \ pi_1
+0.1136906007	homotopy 2
+0.1136845824	category theory for
+0.1136334146	a categorical framework
+0.1133509418	recovered from
+0.1131190491	k linear
+0.1129991762	a convenient
+0.1129516445	a large class of
+0.1129440387	category of representations
+0.1129102003	the tensor product
+0.1125158890	an infinite
+0.1124672667	aspects of
+0.1124413073	\ eta
+0.1123482018	\ mathcal d
+0.1123184181	the classical theory
+0.1120227439	isomorphisms between
+0.1118485842	category of closed
+0.1118051178	provided by
+0.1117826639	of singularities of
+0.1116024179	contramodules over
+0.1114502584	$ \ rm ver
+0.1112963440	triangulated category of
+0.1112360658	this end
+0.1110808726	in terms of
+0.1109434644	n dimensional
+0.1108397223	a infinity algebras
+0.1107414611	lead to
+0.1102999538	analogous to
+0.1102152491	all dimensions
+0.1101519153	^ \ times
+0.1101222046	but rather
+0.1100143747	a differential graded
+0.1099923450	new method
+0.1098412979	constructed by
+0.1096950378	infinity categorical
+0.1096810671	an additive
+0.1095300896	a braided monoidal
+0.1094457626	the stable category
+0.1093784435	formulated in terms of
+0.1093684370	two main
+0.1091065076	$ \ mathbf cat
+0.1090344696	a necessary and
+0.1089753704	with parameters
+0.1088544342	each other
+0.1087885495	an adjunction
+0.1086166596	known constructions
+0.1082840568	type theory in
+0.1082573371	_ r
+0.1081651762	the 2 category
+0.1080566848	the module category
+0.1080566848	the symmetric groups
+0.1080062805	an algebra
+0.1078834110	a series of papers
+0.1073393464	homotopy groups of
+0.1073336650	or not
+0.1072363998	field k
+0.1070420366	2 bundle
+0.1070239819	an intrinsic
+0.1069424137	a tensor product
+0.1069120740	by means of
+0.1068424996	controlled by
+0.1066495612	an explicit description of
+0.1066010539	$ \ bf
+0.1064316149	the first step
+0.1064185973	an intuitive
+0.1064137913	n stacks
+0.1062452400	\ cx
+0.1058535522	2 cat
+0.1058442261	n types
+0.1058411352	_ p ^
+0.1057609992	the category of sets
+0.1057303653	models for
+0.1054243642	\ in \
+0.1053496944	a general theory
+0.1051487857	versions of
+0.1050565050	foundation for
+0.1047729086	conditions on
+0.1047482603	main result of
+0.1047302637	analog of
+0.1045810075	fr \
+0.1043694762	a fusion category
+0.1042455702	notions of
+0.1040460561	theory of
+0.1037891560	\ mathbb s
+0.1037534282	presheaves over
+0.1036707234	r module
+0.1034339407	category theory in
+0.1034230578	an endofunctor
+0.1034005382	category of algebras for
+0.1033509246	the fibrant objects
+0.1033146822	a particular case
+0.1030935801	smallmatrix \
+0.1030820783	consists of
+0.1028246349	gerbes over
+0.1027160129	the one of
+0.1027027626	$ \ cc
+0.1026550724	but not
+0.1026053304	order to do
+0.1025880820	lectures on
+0.1024901381	if and only
+0.1024724582	canonical way
+0.1023389969	respect to
+0.1022914699	a coherence theorem
+0.1021866517	\ bar
+0.1020558638	in \ cite
+0.1020055804	interested in
+0.1017063746	a tensor category
+0.1015407484	able to
+0.1014924603	\ mathbf \ lambda
+0.1012635878	this implies
+0.1012135635	a corollary
+0.1011225728	$ \ gamma
+0.1010667486	identified with
+0.1010665537	analogue of
+0.1010337130	existence and uniqueness of
+0.1010083056	with respect
+0.1009090426	monoidal category in
+0.1008542124	\ mathbb z _
+0.1007895618	two classes
+0.1005487024	strict 2
+0.1005425732	categories with
+0.1005332361	class of
+0.1004902697	defined as
+0.1004566706	map between
+0.1003045712	commutative c *
+0.1001361698	\ x \
+0.1000477747	the projective model
+0.0999691326	coherent sheaves of
+0.0999469254	syntax for
+0.0998087195	foundations for
+0.0997347350	$ \ mathcal q
+0.0997235040	in turn
+0.0997211205	theorem b
+0.0996619803	achieved by
+0.0996294678	by constructing
+0.0996090542	categories of interest
+0.0994391499	the title
+0.0993181505	a right adjoint
+0.0993040410	starting with
+0.0992219932	second part
+0.0991575286	n categories
+0.0990193002	some remarks on
+0.0989352898	this leads
+0.0987929284	d ^
+0.0986554841	existence of
+0.0984586026	an important role in
+0.0983854363	commutes with
+0.0983041937	this case
+0.0977418055	transformation between
+0.0977269127	family of
+0.0976974533	a one to one correspondence
+0.0974408683	a field
+0.0974053446	\ mathcal m
+0.0973476912	previous work on
+0.0973317524	together with
+0.0971391903	a dg category
+0.0970351107	tools for
+0.0969801544	number of
+0.0968121682	the category
+0.0967253171	the sense of
+0.0966616169	notes on
+0.0965831143	presented by
+0.0964429314	by applying
+0.0964358924	as soon
+0.0963210176	the existence of
+0.0962385820	conjectured by
+0.0962264959	duality between
+0.0961792656	h_ \
+0.0956690117	a 2 monad
+0.0954273681	\ mathbb e
+0.0952986943	this idea
+0.0950922348	parametrized by
+0.0949666081	a field of characteristic
+0.0949001230	but also
+0.0947521879	^ \ otimes
+0.0946231534	$ \ theta_n
+0.0945502709	$ \ boldsymbol
+0.0945185549	axiomatization of
+0.0944319379	understood as
+0.0943631132	several results
+0.0943544587	by combining
+0.0943542896	monad on
+0.0942969284	recent work of
+0.0941318692	subcategory of
+0.0940321595	realized by
+0.0940064986	2 theories
+0.0939771954	begin by
+0.0938482018	\ mathcal v
+0.0938430079	the representation category
+0.0938249243	first author
+0.0936787932	used to study
+0.0934207286	under composition
+0.0933829229	refer to
+0.0930245890	the notion of
+0.0929932865	\ big
+0.0929860270	some assumptions
+0.0929747724	an equivalence between
+0.0928970903	classification of
+0.0926644803	2 groupoids
+0.0926048670	tools from
+0.0925994003	similar to
+0.0923930591	combined with
+0.0923516242	the aim of
+0.0923447903	functor between
+0.0923098118	coincide with
+0.0921831319	map from
+0.0920713588	directly from
+0.0920568948	a 2 categorical
+0.0918154304	product of two
+0.0918023187	a tensor triangulated
+0.0916672109	of characteristic 0
+0.0913927108	the coherence theorem
+0.0913537086	group g
+0.0912777875	copies of
+0.0910269959	2 morphisms
+0.0908996746	suggested by
+0.0908457992	a categorical approach
+0.0908388508	certain conditions
+0.0907104658	families of
+0.0906497020	= \ mathbb
+0.0906337648	a unified
+0.0904659651	generalizations of
+0.0903019145	specializes to
+0.0902029526	this answers
+0.0901860790	formation of
+0.0900451951	also give
+0.0900041776	this book
+0.0899572502	an idea
+0.0897780559	^ \ text
+0.0896743265	an algorithm
+0.0896673379	t homotopy
+0.0896628322	monads on
+0.0895726246	modeled by
+0.0894672075	a non trivial
+0.0894539828	an enrichment
+0.0891835621	extensions of
+0.0891694343	builds on
+0.0891140018	a category
+0.0890675819	conclude by
+0.0890500858	this generalises
+0.0890438252	$ \ widetilde
+0.0890157764	much more
+0.0888769711	a compositional
+0.0888426098	an interesting
+0.0887541520	an internal
+0.0887052987	this enables
+0.0885995407	action on
+0.0885269360	n \ in
+0.0885068629	\ mathcal m _
+0.0884883248	presentations of
+0.0881697730	defined on
+0.0881295614	\ mathfrak s
+0.0880698952	present work
+0.0878745867	formula for
+0.0875250068	n +
+0.0875021231	the category of
+0.0874897427	category with
+0.0874859924	a finite
+0.0874361260	$ \ cal
+0.0872845117	among other
+0.0871295096	$ \ mathcal c
+0.0870921295	\ rtimes s
+0.0869770968	holds for
+0.0868910397	bijection with
+0.0868861616	the model category
+0.0868319115	$ \ mathrm cat
+0.0867977693	x \ in
+0.0867159584	given by
+0.0867019671	a combinatorial model
+0.0863477523	in two ways
+0.0862749578	the universal properties
+0.0861072469	these ideas
+0.0860547492	a compact closed
+0.0860534883	$ \ sf
+0.0858955705	also extend
+0.0858821398	fa \
+0.0858821286	\ int_
+0.0856557597	$ \ square
+0.0855694502	criteria for
+0.0855644432	commute with
+0.0855591291	not hold
+0.0854052196	a monoidal structure
+0.0853334453	by considering
+0.0852734518	an analogous
+0.0852583878	$ \ ast
+0.0852311576	characterisation of
+0.0852164667	$ \ pi_0
+0.0851332677	relationship with
+0.0851227268	categories of modules over
+0.0850341973	some applications
+0.0849531444	$ \ mathrm mod
+0.0848638113	an additional
+0.0848615011	a wide class of
+0.0848212396	objects in
+0.0847240812	every finite
+0.0847024280	replaced with
+0.0846997891	\ mathcal f
+0.0845400533	an element
+0.0845294020	the role of
+0.0845279149	analogy with
+0.0844162557	the study of
+0.0843888405	the additivity
+0.0843181477	results on
+0.0842548302	the long
+0.0841291079	also introduce
+0.0841000309	necessary and sufficient condition for
+0.0840980876	remark on
+0.0840123710	this purpose
+0.0840077547	this situation
+0.0839117200	\ mathbb q
+0.0838631806	in particular
+0.0838404444	also known as
+0.0837718763	analogues of
+0.0837159584	such as
+0.0836679532	the help of
+0.0835123391	$ \ varepsilon
+0.0835117778	a detailed
+0.0834167897	$ \ mbox
+0.0833895457	a skew monoidal
+0.0833578882	measures on
+0.0832268617	s homotopy
+0.0832035326	3 lie
+0.0830435786	intended as
+0.0830314143	\ mathfrak h
+0.0829331522	characterised as
+0.0828125607	paper provides
+0.0827596013	construction of
+0.0827359932	a infinity categories
+0.0827217631	the purpose of
+0.0826970994	this means
+0.0826489746	extended to
+0.0825187331	an essential
+0.0822814051	constructed using
+0.0822611905	the cardinality
+0.0822558588	one hand
+0.0822121173	a non commutative
+0.0821467397	characterizations of
+0.0820772829	$ \ textit
+0.0819925022	certain natural
+0.0819799397	established by
+0.0819053222	mathfrak c
+0.0818355213	expressed as
+0.0817979880	module over
+0.0817052426	mathsf g
+0.0816959192	this direction
+0.0814831161	\ mathcal c _
+0.0814488985	kind of
+0.0814416132	reminiscent of
+0.0813300817	the ultimate
+0.0813263460	bounds for
+0.0813060463	obtained as
+0.0812805057	many cases
+0.0812651319	the context of
+0.0812093001	and more generally
+0.0810953584	\ mathcal d _
+0.0809270597	with duals
+0.0809015044	the iff
+0.0808483668	x \ times
+0.0807714484	the vector space
+0.0805775581	\ mathcal l
+0.0804214203	= 2
+0.0803483996	examples of
+0.0802533152	examples of such
+0.0801882248	\ rightarrow \ mathcal
+0.0801829531	contrast with
+0.0799511820	an overview
+0.0799470513	by adding
+0.0798650967	an integer
+0.0798588368	interpretation of
+0.0798528855	by proving
+0.0798351289	by replacing
+0.0798010176	by taking
+0.0796613560	some recent
+0.0796145847	some sense
+0.0795308788	light on
+0.0794867877	a slight
+0.0793113450	a t structure
+0.0792641437	derived from
+0.0791688654	theorems for
+0.0791195302	\ ge
+0.0790994586	\ mathbb a ^
+0.0790953394	2 stacks
+0.0790234778	\ mathscr f
+0.0789562071	denote by
+0.0789371765	arises as
+0.0788442081	with coefficients in
+0.0786410848	a canonical
+0.0786152906	$ \ mathcal v
+0.0784719226	the stable homotopy
+0.0784007082	the full subcategory
+0.0783807288	only finitely
+0.0783792549	subtoposes of
+0.0782597616	as well
+0.0782478248	the prop
+0.0781909711	an obstruction
+0.0781714577	* algebras
+0.0780732628	$ \ pi
+0.0780714412	working with
+0.0778579115	attempt to
+0.0776993415	these properties
+0.0776237231	by giving
+0.0775679728	in computer science
+0.0775328779	rigid c
+0.0774328004	the same
+0.0770917862	the universal property
+0.0770786763	a certain class
+0.0770757392	proved by
+0.0768343120	an orbifold
+0.0767605558	\ nu
+0.0766342313	$ \ ell
+0.0766143588	an endomorphism
+0.0765414598	come from
+0.0763866905	realm of
+0.0763355741	any object
+0.0763256027	equal to
+0.0762077067	the model structure
+0.0760715675	the theory of
+0.0760309829	associated to
+0.0758951421	three different
+0.0758951230	$ \ bbbk
+0.0758312529	only if
+0.0758210743	an involutive
+0.0758210176	the case of
+0.0758193640	defined over
+0.0757828773	3 types
+0.0756957270	known result
+0.0756791022	led to
+0.0756332266	new notion
+0.0755732628	$ \ theta
+0.0754113612	subcategories of
+0.0753358002	\ mathfrak gl ^ m
+0.0753131324	bimonoids in
+0.0753098046	account of
+0.0751513068	treatment of
+0.0750143960	\ box
+0.0749976295	an effective
+0.0749220113	\ mathcal g
+0.0748995723	satisfied by
+0.0748285310	the tensor category
+0.0747569366	powers of
+0.0746418276	deformations of
+0.0743750398	actions of
+0.0741412234	a new model
+0.0741348952	$ \ psi
+0.0740910866	two kinds
+0.0740017439	$ \ delta
+0.0739764008	some additional
+0.0739697660	also develop
+0.0738239142	formulae for
+0.0738228423	considered by
+0.0738208699	a rigorous
+0.0736360277	derivatives of
+0.0735806816	valid for
+0.0735637420	reformulation of
+0.0734693128	building on
+0.0734274087	new concept
+0.0732963294	conclude with
+0.0732434558	this problem
+0.0731925937	functor f
+0.0731614429	by studying
+0.0729628412	an extension
+0.0729151061	different types
+0.0728385863	also called
+0.0728183551	these methods
+0.0726486238	the homotopy category of
+0.0725518143	this work
+0.0725187996	a c * algebra
+0.0723932517	$ \ mathcal m _
+0.0723932517	$ \ mathcal d _
+0.0723842572	bundles over
+0.0723348103	* tensor
+0.0723126593	the generating
+0.0721451892	2 bundles
+0.0721401715	particular case
+0.0721348432	a general
+0.0720274405	general than
+0.0718771180	applicable to
+0.0716920979	assigns to
+0.0715613050	difficult to
+0.0715533635	one to one correspondence between
+0.0715278751	$ \ text
+0.0715148093	category of modules over
+0.0714385202	acts on
+0.0714231492	\ geq 1
+0.0713225660	associated with
+0.0712805997	the syntax
+0.0711956081	a necessary and sufficient condition
+0.0711780959	the representation theory
+0.0711691487	this text
+0.0711410333	also show
+0.0710864375	2 algebras
+0.0709869248	\ mathcal a
+0.0709764437	a_ \
+0.0709708835	a byproduct
+0.0707333344	then define
+0.0706739900	w *
+0.0704230127	presheaves on
+0.0703769911	criterion for
+0.0703497660	two applications
+0.0703187637	topologies on
+0.0703149263	perspective on
+0.0702971212	various kinds of
+0.0702107874	the classical
+0.0700613450	a 2 functor
+0.0700270960	\ pi_1
+0.0699931324	space x
+0.0699573137	characterized as
+0.0699474814	2 operad
+0.0699206787	duality for
+0.0699032999	maps from
+0.0698677807	in practice
+0.0698391399	two different
+0.0698181740	$ \ mathcal o
+0.0697977383	classifications of
+0.0697469874	used to
+0.0697131765	the free
+0.0696896650	also present
+0.0696700348	two new
+0.0696288484	represented as
+0.0696177385	fail to
+0.0695684459	mathsf c
+0.0695471747	applies to
+0.0694944206	the same time
+0.0694881875	contained in
+0.0694178820	rule for
+0.0693589155	reduces to
+0.0693131917	an action of
+0.0693056057	a broad
+0.0692988811	the representation categories
+0.0692365780	a new proof of
+0.0691998008	monad t
+0.0689503284	this observation
+0.0688969328	this survey
+0.0688695356	described by
+0.0686526524	3 category
+0.0685669304	papers on
+0.0685653243	an analog
+0.0685417398	the case
+0.0684789470	\ mathbb x
+0.0684678705	models of
+0.0682732628	$ \ alpha
+0.0682728000	automorphisms of
+0.0681684400	also define
+0.0681627147	a new proof
+0.0681429164	the 2 cells
+0.0680894287	a simple
+0.0679611671	up to
+0.0678200903	proof of
+0.0678087544	a functor
+0.0677954581	an introduction to
+0.0677919420	generalisation of
+0.0676983621	variation of
+0.0676800727	\ v s
+0.0673247124	\ ar
+0.0673131917	the goal of
+0.0672162737	a similar
+0.0671325671	n groupoids
+0.0670207343	some aspects
+0.0669802509	not satisfy
+0.0668876088	by describing
+0.0668391837	technique for
+0.0665159783	2 vector
+0.0663518137	this perspective
+0.0663216690	many different
+0.0662892651	\ mid
+0.0662391176	an extension of
+0.0661784122	a monoidal
+0.0661109089	appearing in
+0.0660673053	structure of
+0.0660626914	a companion
+0.0660522867	the infinity category
+0.0660142105	also obtain
+0.0660043438	\ mathbf c
+0.0659517084	basics of
+0.0658810943	the category of strict
+0.0658463070	complexes over
+0.0658323321	related by
+0.0657454457	an extriangulated
+0.0657024263	$ \ mathcal e
+0.0656599847	endofunctor on
+0.0656405572	consist of
+0.0656095941	\ mathbb g
+0.0655861910	subgroups of
+0.0654603595	several different
+0.0653179692	$ \ mathcal h
+0.0652874082	concept of
+0.0652156188	property in
+0.0652046744	\ mathscr v
+0.0651955732	category if and
+0.0649782243	$ \ hat
+0.0649448213	c *
+0.0649095118	adapted to
+0.0648491866	the concept of
+0.0647839779	the category of graphs
+0.0646098549	the canonical
+0.0645914823	new model
+0.0645601709	of n categories
+0.0645340822	functors on
+0.0644087274	this allows
+0.0643184190	\ overline \
+0.0643046317	uniqueness of
+0.0642954987	this procedure
+0.0641799477	the structure of
+0.0641663783	the standard
+0.0640047054	the category of small
+0.0639902574	connection with
+0.0639449981	a first order
+0.0639316810	necessary and sufficient conditions for
+0.0638115721	of r modules
+0.0637449610	these invariants
+0.0636931712	a 2 dimensional
+0.0636111444	the 3 category of
+0.0635486585	the aforementioned
+0.0635032199	a number of
+0.0634160002	an appropriate
+0.0632363555	morphism from
+0.0632069147	an example
+0.0630877870	instances of
+0.0630292785	weak n
+0.0628967805	restricted to
+0.0628567060	$ \
+0.0627941246	motivation for
+0.0627258683	$ \ rho
+0.0625709850	an associative
+0.0625620799	surjective on
+0.0625494839	this series
+0.0625449247	morphisms from
+0.0625216223	$ \ beta
+0.0624671552	category of algebras over
+0.0624056506	2 hilbert
+0.0623297146	2 segal
+0.0621781752	list of
+0.0621734074	developments in
+0.0620935535	explanation of
+0.0620885488	in contrast to
+0.0620397175	amounts to
+0.0619698374	roots of
+0.0619313283	dimension at
+0.0618422881	connections with
+0.0616858532	the set of
+0.0615936961	the heart of
+0.0615872451	all small
+0.0614372891	an instance of
+0.0614348287	a bijection between
+0.0613900642	category of representations of
+0.0613668378	two notions
+0.0613291118	allowing for
+0.0611173258	also construct
+0.0610841888	homeomorphic to
+0.0610323906	a complete
+0.0609959085	$ \ bar
+0.0609244293	\ mathbb r
+0.0608431839	this makes
+0.0607024263	$ \ mathcal m
+0.0606887267	contrast to
+0.0606548101	theory for
+0.0606385507	at most one
+0.0606184122	characterisations of
+0.0605811561	results from
+0.0605804037	such functors
+0.0605636310	$ \ mathcal d
+0.0604411056	a small
+0.0604241522	a constructive
+0.0603573261	$ \ tilde
+0.0602225717	2 crossed
+0.0601796494	two monads
+0.0601229062	not admit
+0.0600817696	this question
+0.0600209813	then prove
+0.0599469276	validity of
+0.0598050525	the classical theory of
+0.0597715784	these theorems
+0.0597086613	the presence of
+0.0596643117	a general framework for
+0.0595647909	$ \ wedge
+0.0594788689	such models
+0.0594371041	\ cc
+0.0594221044	associates to
+0.0592550486	$ \ varphi
+0.0592513296	understanding of
+0.0592492147	the tube
+0.0590657203	the two dimensional
+0.0589665043	the extended
+0.0589581643	an ideal
+0.0587973178	any regular
+0.0587938176	modification of
+0.0587841969	the 3 category
+0.0587819226	fields on
+0.0587735355	answer to
+0.0587611950	\ star
+0.0587465812	reference to
+0.0587243823	cat \
+0.0586739512	right derived
+0.0586398123	presence of
+0.0585227995	principle for
+0.0585070041	this extends
+0.0584500954	any finite
+0.0584097546	descriptions of
+0.0583711436	any functor
+0.0582777329	tool for
+0.0582210519	functor on
+0.0582196189	$ \ textbf
+0.0581882089	true for
+0.0580935397	aims to
+0.0580462630	an explicit construction of
+0.0579601617	unification of
+0.0579239032	an extended
+0.0578999742	bases for
+0.0578061180	h ^
+0.0577450872	basis for
+0.0576455946	follows from
+0.0574717755	variant of
+0.0573159601	new proof
+0.0572777329	subject to
+0.0572353895	2 category of
+0.0571896854	the base
+0.0571185432	representability for
+0.0570798263	techniques for
+0.0569876192	this includes
+0.0569033101	theory via
+0.0568896373	the homotopy theory of
+0.0568358165	axiomatisation of
+0.0567859320	investigation of
+0.0566956059	easy to
+0.0564659335	analogue to
+0.0563905162	the sense
+0.0562661338	corresponding to
+0.0562567094	compared to
+0.0562249468	analogs of
+0.0562126765	relative to
+0.0561646719	category associated to
+0.0560354533	sheaves over
+0.0559306562	an instance
+0.0558567961	equivalent if
+0.0558156567	developed in
+0.0557812067	extension of
+0.0556931712	a 2 group
+0.0556876120	the latter
+0.0556833581	algorithm for
+0.0556718016	attention to
+0.0556540141	a complete classification of
+0.0556397771	two theories
+0.0555643519	solution to
+0.0555611117	a infinity
+0.0554330084	subsets of
+0.0554125006	this characterization
+0.0553721401	the proof
+0.0552907507	same time
+0.0552635261	the opposite
+0.0552576474	a bijective correspondence between
+0.0552470304	aspect of
+0.0552465413	categories over
+0.0552179897	continuity of
+0.0551872624	more than
+0.0551729761	sort of
+0.0550594085	endomorphisms of
+0.0550135176	the category of groups
+0.0547854494	\ cal e
+0.0545378510	r ^ n
+0.0545045597	liftings of
+0.0543657452	shown by
+0.0543532651	\ cal c
+0.0543448295	condition on
+0.0543303702	an affine
+0.0543275668	a generalization of
+0.0543026552	comonad on
+0.0542823363	this statement
+0.0542783595	tower of
+0.0542118072	this correspondence
+0.0541207780	= \ mathcal
+0.0541135984	several other
+0.0540676440	the notion of weak
+0.0539970997	connections on
+0.0539378057	fragment of
+0.0538261534	operations on
+0.0537662732	works for
+0.0537289186	retract of
+0.0536944555	valid in
+0.0535936961	the setting of
+0.0535897337	described as
+0.0535519654	the reader
+0.0535345278	terms of
+0.0532684955	a full subcategory
+0.0532588825	hypothesis for
+0.0532339508	results in
+0.0531533092	a combinatorial
+0.0531052768	model for
+0.0530080345	some properties
+0.0529743519	required to
+0.0529660816	discussion of
+0.0529649849	by means
+0.0529643536	an initial
+0.0528915530	actions on
+0.0527428201	topology on
+0.0526960498	means for
+0.0526945866	one side
+0.0526698420	an analogue
+0.0526257255	categorifications of
+0.0525997933	sets over
+0.0524598308	a simultaneous generalization of
+0.0523603508	part of
+0.0523594786	for example
+0.0522741282	invariants of
+0.0521728049	a notion of
+0.0521470541	a series of
+0.0520881155	p ^ n
+0.0520855560	in order to do
+0.0520184212	a new approach
+0.0519707287	constructed as
+0.0518185651	advantage of
+0.0518139947	a common
+0.0517475147	a canonical way
+0.0517203227	e \ to
+0.0515975342	identity on
+0.0515923933	compactification of
+0.0515678578	the basic theory of
+0.0515636310	$ \ mathcal g
+0.0515533927	this leads to
+0.0515360330	completion of
+0.0515354738	union of
+0.0515005507	retracts of
+0.0514136500	an inverse
+0.0513358165	consists in
+0.0513318084	this method
+0.0513313620	$ \ mathbb k
+0.0513205082	* category
+0.0512108108	product of
+0.0512003658	thick subcategories of
+0.0511889273	hold for
+0.0511206035	any small
+0.0509382257	x \ to
+0.0508563521	the basic
+0.0507865617	bundles with
+0.0506994480	relation to
+0.0506491977	hearts of
+0.0505552437	occur in
+0.0505113113	algebra h
+0.0504454083	calculation of
+0.0503842242	the homotopy
+0.0503052873	\ mathfrak g
+0.0502831004	preservation of
+0.0502603558	assumptions on
+0.0502478510	examples from
+0.0502295318	an action
+0.0501419866	choices of
+0.0501156472	functors into
+0.0499278265	operators on
+0.0499278265	manifolds with
+0.0498643595	^ d
+0.0498061139	combination of
+0.0497797764	presented as
+0.0497698002	b _
+0.0497160115	coherence for
+0.0497031974	infinity algebras
+0.0496788571	embedded in
+0.0496373843	procedure for
+0.0495898343	category with respect to
+0.0494697018	rings with
+0.0494005366	an overview of
+0.0493926926	this concept
+0.0493533732	overview of
+0.0491854372	used in
+0.0491797764	homology of
+0.0491434412	an integral
+0.0491095791	cohomology of
+0.0489901817	centers of
+0.0489396854	a ring
+0.0488527589	a sequel
+0.0488316034	relations with
+0.0487918926	any symmetric
+0.0486341757	axioms for
+0.0486337341	representation of
+0.0486276287	a universal
+0.0486117108	view on
+0.0485583988	new type of
+0.0485577255	$ \ mathcal a
+0.0485306761	cocompletion of
+0.0485176059	this condition
+0.0485148081	hull of
+0.0484885635	an open
+0.0484136570	an example of
+0.0484080046	categorification of
+0.0483630770	centre of
+0.0483077255	$ \ mathcal t
+0.0481197326	by using
+0.0480906696	this classification
+0.0480892836	\ mathcal c ^ \ infty
+0.0480734177	internal to
+0.0480539300	an adjoint
+0.0480167120	$ \ mathcal x
+0.0479507699	result by
+0.0478821741	the key
+0.0478762415	relate to
+0.0478677244	two objects
+0.0478498394	object x
+0.0478244716	a special class of
+0.0478162908	schemes with
+0.0477829598	this property
+0.0477422188	with coefficients
+0.0476730706	\ end
+0.0476322846	given set
+0.0475936961	a result of
+0.0475636310	$ \ mathbb c
+0.0475575495	correspondence with
+0.0475409103	algebra over
+0.0475320647	definitions of
+0.0474692465	only up
+0.0474518874	arising in
+0.0473697823	all finite
+0.0473429510	the interplay
+0.0472416717	action of
+0.0471823950	only up to
+0.0471647359	an operator
+0.0471278632	appears in
+0.0470711298	functions on
+0.0470375630	collection of
+0.0469587784	results for
+0.0469538647	an operation
+0.0469438134	op \
+0.0468753119	operation on
+0.0467569853	with values
+0.0467513755	the category of finite
+0.0467375522	formulas for
+0.0467355294	a precise
+0.0466646954	$ \ mathcal z
+0.0466207484	axiom for
+0.0466183613	range of
+0.0466004099	an invariant
+0.0465724616	in contrast
+0.0465528569	\ mathcal x
+0.0465478561	refinement of
+0.0465122991	any abelian
+0.0464359244	\ mathscr e
+0.0463423037	obstruction to
+0.0463253688	an analogue of
+0.0462805568	collections of
+0.0462200869	interpreted in
+0.0462194959	the category of simplicial
+0.0461941455	with connections
+0.0461936106	algebra of
+0.0461416647	= \
+0.0461154769	the usual notion of
+0.0460702088	an idempotent
+0.0460629363	t structures on
+0.0460009573	k theory of
+0.0458145259	additivity of
+0.0457547071	tool to
+0.0457497320	recollement of
+0.0457462130	$ \ otimes
+0.0457268526	new construction
+0.0456619887	the telescope
+0.0456448802	\ cal r
+0.0455593304	category in terms of
+0.0455113120	characters of
+0.0454646395	\ mathscr x
+0.0454531897	a monad
+0.0454241725	construction for
+0.0453854346	the possibility
+0.0453853818	formalism for
+0.0453754547	method for
+0.0453119233	condition for
+0.0452421679	a new approach to
+0.0452176568	p ^
+0.0451649031	two kinds of
+0.0451622255	close to
+0.0451195892	envelope of
+0.0449901817	autoequivalences of
+0.0449595896	$ \ c
+0.0449308891	an introduction
+0.0449114449	involved in
+0.0448929175	also consider
+0.0448798644	reduced to
+0.0448432285	an artin
+0.0447021074	2 algebra
+0.0446666991	rules for
+0.0446148599	lifts to
+0.0446101421	\ bf k
+0.0446007730	generation of
+0.0445945635	complexes with
+0.0444997114	\ mathscr m
+0.0444951891	idea of
+0.0444626160	a rich
+0.0442939695	elements of
+0.0442726334	needed to
+0.0442452695	different types of
+0.0441896854	the fundamental
+0.0440814274	magnitude of
+0.0440762278	this definition
+0.0440583486	then applied to
+0.0439996088	the theory
+0.0439454054	identification of
+0.0438983165	generalisations of
+0.0437746787	an interpretation
+0.0437428184	area of
+0.0437294543	a necessary and sufficient
+0.0437077778	complexity of
+0.0437061010	expressed in
+0.0436909026	neighborhood of
+0.0435773213	lift to
+0.0435369545	this description
+0.0434926970	language for
+0.0434505660	this process
+0.0433509989	with additional
+0.0433243008	a topos
+0.0432462918	commutator of
+0.0431936106	group of
+0.0431382126	defects in
+0.0431190671	these two
+0.0430151528	a unique
+0.0428532942	a ^ 1
+0.0426699725	the category of relations
+0.0426646954	$ \ mathcal j
+0.0426202790	an infinity
+0.0426035782	behavior of
+0.0425834797	construction on
+0.0425797038	v categories
+0.0425453656	evaluation of
+0.0425453656	polynomials in
+0.0425348896	analysis of
+0.0425244720	this short
+0.0425127330	variants of
+0.0424825308	two examples
+0.0424339508	set of
+0.0424274946	the relationship between
+0.0424213591	a few
+0.0423652611	meanings of
+0.0423598880	\ mathbf b
+0.0422982016	this way
+0.0422423908	in detail
+0.0421705400	* *
+0.0421645039	any commutative
+0.0421460975	a new
+0.0420540261	extends to
+0.0420441034	new approach
+0.0420200987	the former
+0.0420154609	the relationship
+0.0419755012	a new notion of
+0.0419541655	hold in
+0.0418899974	review of
+0.0418516002	conjecture for
+0.0418486697	a lot of
+0.0417168676	derivation of
+0.0416459672	relation with
+0.0416273223	\ mathbf p
+0.0415655822	this shows
+0.0415590308	formulation of
+0.0415580734	traces in
+0.0415442493	not cartesian
+0.0414805562	the stable category of
+0.0414230465	many other
+0.0413769266	an adjunction between
+0.0413409941	for studying
+0.0412868367	join of
+0.0412786989	set with
+0.0411927509	sequence of
+0.0411857894	a comonad
+0.0411707070	\ mathfrak f
+0.0411561607	a unifying
+0.0411408682	associate to
+0.0411336106	space of
+0.0411104275	\ mod
+0.0411072454	a model
+0.0410035782	splitting of
+0.0409705382	spaces over
+0.0409577557	calculus with
+0.0409341209	suitable for
+0.0408686558	presentation of
+0.0407608279	a collection of
+0.0406756197	relationship to
+0.0406283012	formulated in
+0.0406125756	also describe
+0.0405905671	the presence
+0.0405657903	the author's
+0.0405557641	an injective
+0.0405483739	interpretations of
+0.0405005090	enrichment in
+0.0404695235	\ mathcal h
+0.0404377330	areas of
+0.0404334032	monomorphisms in
+0.0404081572	the corresponding
+0.0403588346	\ mathcal p
+0.0403084719	object in
+0.0402826451	d =
+0.0402818732	operads with
+0.0402567838	ideals in
+0.0402334797	sets with
+0.0402332535	k theory for
+0.0401542538	operad for
+0.0401514137	the realm
+0.0401493411	aim to
+0.0401308531	* categories
+0.0400954155	addition to
+0.0400766142	^ i
+0.0400502009	compatibility of
+0.0400467994	categories via
+0.0400140195	the present work
+0.0400031546	tool in
+0.0399904392	= d
+0.0399575785	the first part of
+0.0398769934	a new notion
+0.0397369378	the heart
+0.0397082997	invariant for
+0.0397008015	the class of
+0.0396636983	a simultaneous
+0.0396161270	relevant to
+0.0396044160	same way
+0.0395483739	localisation of
+0.0395381728	introduced as
+0.0395234328	root of
+0.0395162276	for constructing
+0.0395124132	calculus for
+0.0395045741	enhancement of
+0.0393853760	result for
+0.0393631596	restriction to
+0.0393567216	\ mathcal z
+0.0393539295	hierarchy of
+0.0393069706	1 +
+0.0392568796	the pentagon
+0.0392408675	the diagonal
+0.0392311703	cohomology for
+0.0391308780	variety of
+0.0391240289	a bicategory
+0.0390945124	the orbit
+0.0389376090	a remark
+0.0389180778	case of
+0.0388987348	different notions of
+0.0388149730	a tricategory
+0.0387747295	e _ \
+0.0387515055	type of
+0.0387297664	form of
+0.0386941332	diagrams for
+0.0386636983	the zeta
+0.0386468012	equivalence of
+0.0386315298	conditions for
+0.0385633181	some aspects of
+0.0385407133	consequences of
+0.0385383757	obtained for
+0.0384346625	series of
+0.0383501605	a class of
+0.0383482170	this kind
+0.0382714958	this formalism
+0.0382468322	an ordinary
+0.0382464336	pair of
+0.0381889743	intersection of
+0.0381611469	\ mathbf w
+0.0381584993	n =
+0.0381137038	working in
+0.0379508015	the construction of
+0.0379307332	seem to
+0.0379266706	j ^
+0.0378778455	the category of commutative
+0.0378511088	counterpart of
+0.0378407529	said to
+0.0378148513	structure for
+0.0378066212	world of
+0.0378000854	tricategory of
+0.0377841378	methods for
+0.0376952450	the circle
+0.0376930573	monoids in
+0.0376719744	\ mathfrak r
+0.0376425685	\ mathscr b
+0.0376135033	the category of finitely
+0.0376108137	the relation of
+0.0375585179	a one to one
+0.0375421199	goal of
+0.0374740040	change of
+0.0374393525	the moduli space of
+0.0373920172	a fragment
+0.0373799004	defined in
+0.0373326570	component of
+0.0372906226	result to
+0.0372857845	study of
+0.0372176568	s ^
+0.0371334909	first part
+0.0370734333	generalized to
+0.0370297645	\ leq n
+0.0370284951	a sound
+0.0369875853	arises in
+0.0369830071	the final
+0.0369558239	a clear
+0.0369530679	\ simeq \
+0.0368942499	opposite of
+0.0368614526	problem for
+0.0368501605	the space of
+0.0368437675	apply to
+0.0368057032	g =
+0.0367754641	exposition of
+0.0367535696	logic with
+0.0367143339	enriched in
+0.0366927467	a uniform
+0.0366531546	size of
+0.0366302974	dual to
+0.0365502009	behaviour of
+0.0365047057	purpose of
+0.0364767802	the category of presheaves
+0.0364623131	the category of compact
+0.0364310648	the notion
+0.0364152135	nerves of
+0.0364113735	a commutative
+0.0363073700	role in
+0.0363022164	a systematic
+0.0363000854	half of
+0.0362980303	a variant of
+0.0362871953	composition of
+0.0361013483	described in terms of
+0.0360362967	\ mathbf e
+0.0360075256	semantics for
+0.0359244329	\ partial
+0.0358015748	$ \ mathcal k
+0.0357806977	the inclusion
+0.0357788600	method to
+0.0357763571	the same category
+0.0357696254	a conceptual
+0.0357551048	the second part
+0.0357164938	^ p
+0.0357160711	arise in
+0.0357142114	sections of
+0.0357084040	valued in
+0.0356834797	result on
+0.0356657363	types with
+0.0356415677	the possibility of
+0.0355960180	to do so
+0.0355311209	groupoid with
+0.0355192041	corollary of
+0.0354418302	holds in
+0.0354338438	$ \ mathcal f
+0.0354311447	under certain
+0.0353581596	step in
+0.0353215258	studied in
+0.0353125090	paper by
+0.0352507796	introduced in
+0.0351593968	just as
+0.0351566417	f ^ *
+0.0351409838	a straightforward
+0.0351384022	invariance of
+0.0351023970	colimit of
+0.0350466467	solution of
+0.0349996088	a symmetric
+0.0349088312	reduction of
+0.0349087222	subgroup of
+0.0348750040	i =
+0.0348623532	machinery of
+0.0348605864	viewpoint of
+0.0348581048	development of
+0.0348501605	a set of
+0.0348436314	subject of
+0.0348433733	cardinality of
+0.0348375801	f =
+0.0348317539	a theory of
+0.0347787319	try to
+0.0347608279	the framework of
+0.0347531546	characterized in
+0.0347398686	foundation of
+0.0347157667	bicategory of
+0.0345425188	problem of
+0.0345163972	the point of view
+0.0345139474	nerve of
+0.0344444824	implementation of
+0.0344186551	\ mathbb d
+0.0343949273	categories in terms of
+0.0343906066	the classic
+0.0342585108	appear as
+0.0342370433	property of
+0.0342292090	lemma for
+0.0342250854	core of
+0.0341889743	functoriality of
+0.0341688417	discussed in
+0.0341622857	seems to
+0.0341609403	the atom
+0.0341530901	a range
+0.0341132705	sufficient to
+0.0340139474	spectrum of
+0.0339762999	enrichment of
+0.0339279634	a solution
+0.0339029891	then consider
+0.0338882918	^ t
+0.0338848554	\ mathcal c \ to
+0.0338528569	$ \ mathcal w
+0.0338470168	the past
+0.0338373498	context of
+0.0337968012	application of
+0.0337749606	m =
+0.0337543838	theory from
+0.0337338438	$ \ mathbb f
+0.0337190006	choice of
+0.0336878285	framework of
+0.0336341609	the current
+0.0335754494	center of
+0.0335603244	a recollement
+0.0335580119	values in
+0.0335103172	a variant
+0.0335044718	a braided
+0.0334226556	b =
+0.0333633286	law of
+0.0333352108	^ g
+0.0333322581	\ mathcal w
+0.0333266185	a direct
+0.0333233589	a basis
+0.0333090601	setting for
+0.0332902093	exist in
+0.0331016081	application to
+0.0330887825	a characterisation
+0.0330644822	^ b
+0.0330539170	the infinity category of
+0.0329613770	this gives
+0.0328883568	^ \
+0.0328785984	defined for
+0.0328204023	the construction
+0.0328142014	setting of
+0.0327608279	a variety of
+0.0327608279	the language of
+0.0327554049	\ mathscr g
+0.0327305870	done by
+0.0326994883	\ o
+0.0326795968	the point of view of
+0.0326758003	a _ \ infty
+0.0326287701	$ \ mod
+0.0326274571	p =
+0.0326092844	the forgetful
+0.0326029259	systems as
+0.0326001605	the problem of
+0.0325943394	transfer of
+0.0325593762	\ left
+0.0325481960	the identification
+0.0325347813	integration of
+0.0325050425	the well known
+0.0325003176	$ \ mathcal s
+0.0324858010	2 representations of
+0.0324717355	images of
+0.0324478141	resolution of
+0.0323560660	a pair of
+0.0323073373	means of
+0.0322705447	\ mathfrak t
+0.0322646157	property for
+0.0322448303	\ mathsf t
+0.0322279383	$ \ mathcal b
+0.0321728047	lift of
+0.0320069507	\ cap \
+0.0320049926	a 2 category of
+0.0319862967	\ mathsf s
+0.0319674879	the special case of
+0.0319431780	nature of
+0.0319248215	reconstruction of
+0.0319044442	\ mathcal s
+0.0318941584	realization of
+0.0318850080	theorem on
+0.0318845414	complexes on
+0.0318797425	lack of
+0.0317950969	considered in
+0.0317673124	the first part
+0.0316533320	then use
+0.0316264463	sense of
+0.0316190814	aim of
+0.0316043920	x =
+0.0315856813	knowledge of
+0.0315850253	^ \ co
+0.0315425976	a variation
+0.0315361700	used by
+0.0315139373	l ^
+0.0314997000	basis of
+0.0314438777	theorem by
+0.0314095405	a class
+0.0313758285	sum of
+0.0313365750	t =
+0.0312879224	t ^
+0.0312419892	a discussion
+0.0312192928	section of
+0.0312053248	in terms
+0.0311748215	^ x
+0.0311467599	product on
+0.0311143807	a wide
+0.0311132228	localization of
+0.0310779750	view of
+0.0310436116	^ c \
+0.0310261123	the main result of
+0.0309969216	given at
+0.0309946000	well as
+0.0309845601	survey of
+0.0309376820	level of
+0.0309305026	\ longrightarrow \
+0.0309284148	feature of
+0.0309234529	a certain class of
+0.0309184874	theory with
+0.0308938919	the magnitude
+0.0308464616	a prop
+0.0308237400	consequence of
+0.0308174904	a graph
+0.0307478753	coefficients in
+0.0307338438	$ \ mathscr c
+0.0307201875	\ mathbf d
+0.0307181086	endofunctor of
+0.0306701589	the level of
+0.0306581813	a functorial
+0.0306542881	or more
+0.0306108937	a proof
+0.0305977371	a sufficient condition for
+0.0305784294	the class
+0.0305730435	heart of
+0.0305472588	^ f
+0.0305155711	the converse
+0.0304339216	a tangent
+0.0304067940	language of
+0.0303949738	particular case of
+0.0303856299	quotient of
+0.0303673564	c ^
+0.0303492761	a locale
+0.0303246905	the first
+0.0302463869	\ v
+0.0302403874	some new
+0.0302353450	sequences for
+0.0302291377	$ \ mathsf q
+0.0302090305	\ mathfrak x
+0.0301821163	the passage
+0.0301539031	\ mathcal c ^ \
+0.0301463738	a large
+0.0301374205	the identity
+0.0301111469	\ mathfrak m
+0.0300829633	\ mathsf b
+0.0300615177	c * algebra of
+0.0300448934	naturally to
+0.0300387554	this point
+0.0300020986	full subcategories of
+0.0299892730	commutativity of
+0.0299380910	field with
+0.0299075971	the same way
+0.0298865412	the second
+0.0298166169	a series
+0.0297867653	a brief
+0.0297374207	cohomology with
+0.0297193754	the operadic
+0.0297146426	a certain
+0.0296740915	a crucial
+0.0296706212	representability of
+0.0296255919	image of
+0.0296205179	a geometric
+0.0295836267	style of
+0.0295468378	the question of
+0.0295248349	the machinery of
+0.0295198082	a special
+0.0294877441	the behaviour
+0.0294498421	proved to
+0.0293571535	a cohomological
+0.0293467937	known as
+0.0293196139	algebra with
+0.0292222774	a technique
+0.0292073090	the idea
+0.0292030770	the existence
+0.0291959658	the absence of
+0.0291835208	subset of
+0.0290063482	the unit
+0.0289564163	c =
+0.0289114987	inclusion of
+0.0288911469	back to
+0.0288498930	the forgetful functor from
+0.0287930285	the category of modules
+0.0287811597	f ^
+0.0287624142	this provides
+0.0287318605	a coherence theorem for
+0.0287221098	a bijection
+0.0286960811	\ cong \
+0.0286778101	presented in
+0.0286455386	instance of
+0.0286275618	possible to
+0.0286108937	the problem
+0.0285883466	approaches to
+0.0285572426	the category of smooth
+0.0285556056	space with
+0.0284665718	\ mathfrak c
+0.0284529472	functor with
+0.0284213052	a notion
+0.0283501569	construction as
+0.0283387825	a generalisation
+0.0283197496	author in
+0.0282949555	a bicategorical
+0.0282845928	a diagrammatic
+0.0280880955	the kernel of
+0.0280804613	cover of
+0.0280774010	kernel of
+0.0280571299	then there
+0.0280543890	a criterion
+0.0280138314	| \
+0.0279762999	element of
+0.0279128701	a refinement
+0.0278739605	a morphism
+0.0278216631	full subcategory of
+0.0277949555	the bulk
+0.0277613923	the definition
+0.0276787834	with enough
+0.0276744591	the notions of
+0.0276531825	the definition of
+0.0276454820	a survey
+0.0275791685	infinity category of
+0.0275755686	a left
+0.0275003176	$ \ mathcal p
+0.0274903710	proved for
+0.0274817863	^ \ mathcal c
+0.0274023893	the monoidal category of
+0.0273304633	or right
+0.0273181416	role of
+0.0273023812	the combinatorics of
+0.0273021816	a diagram
+0.0272785513	\ mathcal b ^
+0.0272280303	constructed in
+0.0271989670	\ mathbb b
+0.0271887181	a general theory of
+0.0271656751	\ mathbb k
+0.0268996426	the terminal
+0.0268750049	the category of perfect
+0.0268113661	the development
+0.0268035380	a survey of
+0.0267937568	the behaviour of
+0.0267485891	different from
+0.0266563482	a conjecture
+0.0265422418	the book
+0.0263760611	the target
+0.0263354825	a question of
+0.0262983373	group on
+0.0262921069	an approach
+0.0262799727	amount of
+0.0262624274	allows for
+0.0262406236	new notion of
+0.0260947297	interpretation in
+0.0259215891	a family of
+0.0259009901	$ \ cal c
+0.0258709497	\ mathcal m ^
+0.0258285129	a bijective
+0.0257504112	the center of
+0.0257324187	a presheaf
+0.0256545892	a new way
+0.0256480903	the representation category of
+0.0256448778	b ^
+0.0255587972	r ^
+0.0254657660	the purpose
+0.0253760611	a review
+0.0253674156	the composite
+0.0253674156	the machinery
+0.0253522936	equivalence on
+0.0253204037	the category of representations
+0.0252461773	the combinatorics
+0.0252311129	the action of
+0.0252274772	point of
+0.0251881242	a variety
+0.0251260611	the ground
+0.0251222893	k =
+0.0251220979	pairs in
+0.0251216678	2 category with
+0.0250484851	topos of
+0.0250345642	a \ to
+0.0250005293	ring with
+0.0249587004	\ mathcal j
+0.0249582561	^ m
+0.0248437211	$ \ mathfrak r
+0.0248435298	a graphical
+0.0248300656	the category of functors
+0.0248114269	equivalence if
+0.0246150438	shown in
+0.0246118013	e ^
+0.0245082791	order to
+0.0245019956	the slice
+0.0245005293	product with
+0.0244253124	\ colon \
+0.0243375355	\ mathbf t
+0.0242111444	an algebra over
+0.0242015633	a set
+0.0241871590	a powerful
+0.0241239574	the quiver
+0.0241170070	any other
+0.0241150438	connected to
+0.0240438240	one way
+0.0240052946	a characterization
+0.0238713603	x ^
+0.0238578139	combinatorics of
+0.0238281291	^ k
+0.0238240474	\ mathcal q
+0.0238114745	$ \ mathbf e
+0.0237510694	a presentation of
+0.0237483310	then used
+0.0237376275	$ \ mathcal c ^
+0.0236899351	the model category of
+0.0236473687	these three
+0.0236286587	and only if
+0.0236063744	\ mathbb n
+0.0235903417	an analog of
+0.0235109403	generalize to
+0.0234895448	new proof of
+0.0234866596	$ \ mathbb z
+0.0234649862	this paper provides
+0.0234617041	result of
+0.0234136452	proof for
+0.0234023893	a categorical approach to
+0.0233375355	\ mathbf k
+0.0233317863	$ \ mathbb a ^
+0.0233176747	\ underline \
+0.0232980303	a conjecture of
+0.0231966979	the center
+0.0231878465	\ bar \
+0.0231004112	a morphism of
+0.0230813132	a string
+0.0230804051	\ |
+0.0229911425	first part of
+0.0229615824	a special case of
+0.0227503916	$ \ mathsf d
+0.0227424747	the full subcategory of
+0.0227309857	a full
+0.0226220979	question of
+0.0226049462	equivalence for
+0.0225920248	homomorphism of
+0.0225579489	$ \ mathbf t
+0.0225132480	the role
+0.0224763830	a sort of
+0.0224012433	a definition
+0.0222732163	a database
+0.0222520843	new examples of
+0.0221696528	d \
+0.0221666465	$ \ mathbb p
+0.0221370991	certain categories of
+0.0220578091	v ^ \
+0.0220219438	a generalization
+0.0219325521	$ \ mathfrak g
+0.0218313132	the hom
+0.0218174323	a classification
+0.0218010311	a connection between
+0.0217270038	p ^ \
+0.0217083594	$ b \
+0.0216430496	the viewpoint of
+0.0216347824	a duality between
+0.0215644592	x ^ \
+0.0213722835	$ \ mathbb t
+0.0213413572	extend to
+0.0213244095	the aim
+0.0213211846	the development of
+0.0212980303	the image of
+0.0212935126	an interpretation of
+0.0212762772	$ \ mathbf d
+0.0211874336	work by
+0.0211700312	obtained in
+0.0211162553	$ \ d
+0.0211156551	a sort
+0.0210605293	object with
+0.0210502850	$ _
+0.0210414170	$ \ mathbf k
+0.0209595317	the group of
+0.0209524539	$ x \
+0.0209325521	$ \ mathscr m
+0.0209087472	a pair
+0.0209052601	the duality between
+0.0208640371	introduced to
+0.0208292269	the idea of
+0.0207111615	proved in
+0.0205630184	3 category of
+0.0205355437	$ \ p
+0.0204489253	a model structure on
+0.0203635579	a monad t
+0.0203593663	the behavior of
+0.0203364063	new approach to
+0.0203049985	h ^ \
+0.0203039875	also known
+0.0203022820	$ f ^
+0.0202427553	of view of
+0.0202305872	the name
+0.0201578044	g \ to
+0.0201257900	$ \ q
+0.0200963932	then give
+0.0200594760	the goal
+0.0199561504	a homomorphism of
+0.0197938703	\ otimes \
+0.0197912307	n \ to
+0.0197085284	the representation categories of
+0.0196998878	the first one
+0.0196679592	the homotopy type of
+0.0196669653	$ \ mathscr x
+0.0196347824	a recollement of
+0.0196108691	work on
+0.0195912213	$ r \
+0.0195864274	the category of representations of
+0.0195644592	m ^ \
+0.0195644592	c ^ \
+0.0194890700	a description
+0.0194481041	any such
+0.0194173679	$ \ mathsf s
+0.0194153186	a family
+0.0193893870	a ring with
+0.0193666671	\ mathcal r
+0.0192087914	a model of
+0.0192024539	t \ in \
+0.0192004104	the category of vector
+0.0191718447	a definition of
+0.0191350677	in addition to
+0.0191281890	$ \ mathbb g
+0.0191151406	the spectrum of
+0.0191056093	need to
+0.0189729494	second part of
+0.0188463498	used as
+0.0188351699	enough to
+0.0187912307	b \ to
+0.0187468378	$ \ mathfrak c
+0.0186614280	a version of
+0.0186338128	a novel
+0.0186222835	$ \ mathbf c
+0.0186067203	v \ to
+0.0186057434	a collection
+0.0185067669	c \ to \
+0.0184906959	\ mathcal c \ to \
+0.0184005681	a characterization of
+0.0183801997	some properties of
+0.0182727122	n \ in \
+0.0182642947	many examples of
+0.0182353895	the proof of
+0.0181704967	a diagram of
+0.0181451261	result in
+0.0181132459	$ \ bf k
+0.0180376485	\ mathcal k
+0.0179913108	the functoriality of
+0.0179714301	m \ to
+0.0179676402	c = \
+0.0179435404	\ right
+0.0179433858	a category c
+0.0178285978	$ x \ in
+0.0178074483	$ \ mathbb s
+0.0177507012	the magnitude of
+0.0176970821	$ \ g
+0.0176691343	$ \ mathsf x
+0.0176579774	a full subcategory of
+0.0176579774	some examples of
+0.0176348554	\ mathcal d ^
+0.0176248460	\ mathcal d \
+0.0176008251	an application to
+0.0175941240	system on
+0.0175443852	the last
+0.0175049926	$ \ mathbb h
+0.0174198398	\ cat
+0.0173046052	the tensor product of
+0.0172690886	the result of
+0.0171421044	the topos of
+0.0171107389	along with
+0.0170286785	the category of modules over
+0.0169789690	a number
+0.0169113679	$ d ^
+0.0167921422	a formula for
+0.0167180431	$ \ x
+0.0167152758	$ \ mathscr f
+0.0166624000	an algebra of
+0.0166560179	an approach to
+0.0166347824	$ \ mathbb r
+0.0165739389	the basic properties of
+0.0165127027	$ f \
+0.0165098391	d ^ \
+0.0164614375	the representation theory of
+0.0163699082	as part of
+0.0163306080	a method to
+0.0163105980	a part of
+0.0162517267	known to
+0.0162296403	as introduced by
+0.0161957070	a description of
+0.0161328666	and hence
+0.0160549926	this class of
+0.0160338898	\ mathcal b \
+0.0160244794	^ * \
+0.0160225391	a functor from
+0.0160222434	the connection between
+0.0159934235	$ ^ *
+0.0159680086	certain class of
+0.0159546044	a quotient of
+0.0158788769	the choice of
+0.0158470086	^ c
+0.0158424888	the concept
+0.0157921422	a study of
+0.0157912307	c \ to
+0.0157755096	a ^ g
+0.0157225322	$ \ mathbb d
+0.0156999912	$ \ t
+0.0156985175	the example of
+0.0156796409	a representation of
+0.0155738212	a kind of
+0.0155333385	new description of
+0.0154967643	useful to
+0.0154853895	a category with
+0.0154063275	$ \ mathcal d ^
+0.0153965852	$ \ overline \
+0.0153233214	a generalisation of
+0.0153115177	the extension of
+0.0152796409	a monad on
+0.0152726964	the cohomology of
+0.0152549926	the type of
+0.0152276174	the definitions of
+0.0151507454	appear in
+0.0151242784	a construction of
+0.0151010694	the equivalence of
+0.0150870483	the product of
+0.0150817870	necessary to
+0.0150633251	a framework for
+0.0150274967	as well as in
+0.0149883251	a correspondence between
+0.0149049242	$ \ mathcal a \
+0.0148889266	the same as
+0.0148389793	then show
+0.0147921422	a form of
+0.0147455944	the inclusion of
+0.0146796409	the composition of
+0.0146796409	the algebra of
+0.0146796409	the property of
+0.0146123685	the category of chain
+0.0145906533	$ \ mathfrak h
+0.0145723859	a consequence of
+0.0144853895	the bicategory of
+0.0144832535	a choice of
+0.0144255605	the nerve of
+0.0144073325	$ \ v
+0.0143692100	\ mathcal c \
+0.0143692100	$ \ mathcal e \
+0.0143264212	a localization of
+0.0143115177	a bicategory of
+0.0143029579	allows to
+0.0142911095	the homology of
+0.0142579932	found in
+0.0141664227	$ \ mathcal u
+0.0141275388	some applications of
+0.0140500417	$ \ mathcal c ^ \
+0.0140296409	the variety of
+0.0139324082	the second part of
+0.0139260089	used for
+0.0137921422	this construction to
+0.0137521426	several examples of
+0.0137507012	$ \ mathbb n
+0.0137135330	a criterion for
+0.0137004409	way to
+0.0136519235	the unit of
+0.0135780947	a proof of
+0.0134969890	a classification of
+0.0134844029	done in
+0.0134255605	the number of
+0.0133692100	a structure of
+0.0133355852	a c *
+0.0132233010	$ \ mathcal l
+0.0132233010	$ \ mathbb x
+0.0131865692	a categorification of
+0.0131677455	$ \ mathbb e
+0.0127136769	as defined by
+0.0125550425	in particular to
+0.0124969890	an object in
+0.0124268832	the quotient of
+0.0124111899	the point of
+0.0123829462	the interpretation of
+0.0123184847	of traces in
+0.0123115177	the representation of
+0.0123115177	the categorification of
+0.0121396403	$ f
+0.0121396403	$ d
+0.0120012625	this result to
+0.0120012625	the relation between
+0.0119063596	of endomorphisms of
+0.0118478087	a way to
+0.0118282591	the treatment of
+0.0118048028	a sequence of
+0.0115009573	the collection of
+0.0111687358	$ z
+0.0111603508	\ to
+0.0111242784	the classification of
+0.0109627101	an equivalence of
+0.0109063596	a field of
+0.0108502889	example of
+0.0105630745	work with
+0.0105568181	the form of
+0.0104255605	a characterisation of
+0.0102328336	described in
+0.0101474355	$ c
+0.0095973534	$ e
+0.0094969890	a model for
+0.0092164010	$ r
+0.0085011996	$ *
+0.0082764010	$ b
+0.0082764010	$ x
+0.0082074355	$ ^
