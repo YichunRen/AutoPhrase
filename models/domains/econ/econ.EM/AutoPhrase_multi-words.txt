@@ -1,0 +1,1390 @@
+0.9761965057	euro area
+0.9662546771	sea ice
+0.9614585897	central limit theorem
+0.9564509447	crude oil
+0.9539370045	neural networks
+0.9535895081	markov chain monte carlo
+0.9504566849	monte carlo
+0.9481459989	principal component analysis
+0.9436022661	granger causality
+0.9435501717	machine learning
+0.9432638862	transaction costs
+0.9423966630	rational expectations
+0.9423239140	random walk
+0.9421274465	program evaluation
+0.9410291829	nash equilibrium
+0.9410080788	central bank
+0.9406272429	service providers
+0.9405501310	markov chain
+0.9400422077	instrumental variable
+0.9361466935	deep learning
+0.9271911291	exchange rate
+0.9237270103	monetary policy
+0.9221076526	moving average
+0.9214147175	white noise
+0.9202259763	stochastic volatility
+0.9182411675	maximum likelihood
+0.9177311235	nuclear norm
+0.9173233667	systemic risk
+0.9143599429	big data
+0.9133503281	health care
+0.9126571240	thermodynamic limit
+0.9114075645	neural network
+0.9111499382	random forest
+0.9067962166	double debiased
+0.9063795635	cross country
+0.9052364622	hypothesis testing
+0.9022565284	exclusion restriction
+0.9020054456	confidence interval
+0.8986925728	covariance matrix
+0.8980534471	closed form
+0.8979220973	united states
+0.8952444725	confidence intervals
+0.8947446432	unit roots
+0.8945995276	revealed preference
+0.8933743695	panel data
+0.8921620647	bayesian inference
+0.8901593468	international trade
+0.8897844698	synthetic control
+0.8881917528	ev charging
+0.8878439497	expected shortfall
+0.8877590463	logistic regression
+0.8863802335	stylized facts
+0.8846659181	economic growth
+0.8823560295	stock market
+0.8808446003	test statistic
+0.8784563792	null hypothesis
+0.8772775138	partially identified
+0.8766070859	measurement error
+0.8757880472	state space
+0.8750998941	linear regression
+0.8747976725	instrumental variables
+0.8742074360	selection bias
+0.8739833828	conformal prediction
+0.8732522697	standard error
+0.8730314987	propensity score
+0.8723848102	maximum likelihood estimator
+0.8715067626	power law
+0.8710118051	charging infrastructure
+0.8705741698	empirical evidence
+0.8703492458	vector autoregressive
+0.8697194868	multinomial logit
+0.8682982878	central limit theorems
+0.8665082917	interactive fixed effects
+0.8649233943	nested logit
+0.8626655629	upper bound
+0.8610822757	optimization problem
+0.8610327707	statistical inference
+0.8595535471	matrix completion
+0.8586482829	moment inequalities
+0.8582649249	random forests
+0.8580157793	unobserved heterogeneity
+0.8554291379	red packets
+0.8547935980	likelihood ratio test
+0.8543531277	loss function
+0.8538740556	network formation
+0.8497691710	social interactions
+0.8488237450	shift share
+0.8485096840	local polynomial
+0.8483295518	regression discontinuity designs
+0.8478079040	exchangeable arrays
+0.8477725562	regime switching
+0.8471882077	unit root
+0.8459695717	deep neural
+0.8455983486	sensitivity analysis
+0.8453640804	parallel trends
+0.8440653509	socio economic
+0.8436756728	maximum likelihood estimation
+0.8419017422	markov switching
+0.8418356206	sharp bounds
+0.8388852010	mixed frequency
+0.8378670067	model selection
+0.8370421510	heavy tailed
+0.8368961870	asset pricing
+0.8361093563	shape restrictions
+0.8359958144	game theory
+0.8344580463	discrete choice
+0.8340495080	likelihood ratio
+0.8339009502	partial identification
+0.8337118674	financial markets
+0.8336109304	long memory
+0.8324124686	principal components
+0.8322531075	random coefficient
+0.8320671291	monte carlo simulation
+0.8315419701	confidence bands
+0.8313735154	dependent variable
+0.8311300111	spillover effects
+0.8309931242	electricity market
+0.8306507970	cross section
+0.8289633879	random variables
+0.8283889945	exchange rates
+0.8277604414	confidence sets
+0.8269588871	` `
+0.8264814205	recent developments
+0.8260009838	shrinkage priors
+0.8251414604	causal inference
+0.8249123203	standard errors
+0.8245989682	doubly robust
+0.8240034807	statistical properties
+0.8220352852	binary choice
+0.8216584649	experimental design
+0.8206293179	regression discontinuity
+0.8193107939	critical values
+0.8183794271	sample splitting
+0.8179776735	covariance matrices
+0.8140825010	quantile regression
+0.8137680704	moment condition
+0.8119570507	mixture model
+0.8112649805	step ahead
+0.8092357111	semiparametric efficiency bound
+0.8091897221	mixed integer
+0.8078559699	decision maker
+0.8045890594	conditional expectation
+0.8045011192	electricity prices
+0.8034389285	gdp growth
+0.8032372429	quantile function
+0.8024248011	decision making
+0.8010018757	average treatment effects
+0.7981358741	data set
+0.7980710079	normal distribution
+0.7978926185	moment conditions
+0.7976497745	wild bootstrap
+0.7968456051	limit theorems
+0.7953983989	treatment assignment
+0.7944485786	regression discontinuity design
+0.7943693583	density estimation
+0.7935634395	quantile regressions
+0.7934759647	test statistics
+0.7927495740	nuisance parameters
+0.7927411653	partially linear
+0.7912517315	functional form
+0.7903768053	locally stationary
+0.7870979312	dynamic pricing
+0.7859727803	randomized experiments
+0.7831333968	empirical research
+0.7831081737	data analysis
+0.7820230809	cross validation
+0.7804351577	predictive performance
+0.7803707827	asymptotic theory
+0.7797606848	objective function
+0.7795184641	point identified
+0.7784827260	asymptotic normality
+0.7783205893	treatment effect
+0.7773278108	house price
+0.7765710450	approximation error
+0.7756562911	high dimensional
+0.7756154338	worst case
+0.7750443505	incidental parameter
+0.7722444635	counterfactual analysis
+0.7721417242	bias corrected
+0.7719927854	synthetic controls
+0.7711283904	treatment effects
+0.7698777876	special cases
+0.7692040914	testing problem
+0.7687816274	multiplier bootstrap
+0.7673509209	moment restrictions
+0.7672421632	point estimates
+0.7661714187	tuning parameter
+0.7658855878	empirical likelihood
+0.7658044700	high frequency
+0.7651989080	long term
+0.7645783750	multinomial choice
+0.7640083663	real world
+0.7629536728	change point
+0.7628559012	choice sets
+0.7610747277	density functions
+0.7604471178	causal effects
+0.7581503269	reduced form
+0.7579921184	asymptotically normal
+0.7578395425	large scale
+0.7573728613	variable selection
+0.7570919149	structural parameters
+0.7569846446	factor models
+0.7568204054	potential outcome
+0.7548474653	labor market
+0.7545113603	uniformly valid
+0.7535588176	nuisance parameter
+0.7511812601	control units
+0.7497642886	randomized experiment
+0.7494542417	random coefficients
+0.7494477256	factor structures
+0.7492344514	predictive ability
+0.7486980254	principal component
+0.7481371597	group lasso
+0.7463808541	fixed effects
+0.7462241818	dynamic discrete choice
+0.7459909983	inference procedures
+0.7455802036	conditional independence
+0.7446436762	posterior distribution
+0.7444267166	prediction intervals
+0.7437439065	peer effects
+0.7435446490	choice probabilities
+0.7430920140	treated units
+0.7428355316	cross sectional
+0.7416558010	approximately sparse
+0.7375142818	asymptotically valid
+0.7373564685	discontinuity design
+0.7372489803	dynamic discrete choice models
+0.7367566598	statistical methods
+0.7362169871	e commerce
+0.7360837812	machine learning algorithms
+0.7356850628	coverage error
+0.7353861874	short term
+0.7351639286	heterogeneous treatment effects
+0.7345902981	identifying assumptions
+0.7343649585	higher order
+0.7335439526	predictive power
+0.7327406714	quantile functions
+0.7318525515	data generating processes
+0.7308786153	uniform inference
+0.7307334463	random utility
+0.7300435172	average treatment effect
+0.7289859078	factor augmented
+0.7283325845	monte carlo simulations
+0.7269769165	dynamic factor
+0.7265192710	computationally efficient
+0.7262093851	bias correction
+0.7251233002	randomized controlled
+0.7248039709	cluster robust
+0.7232542576	confidence regions
+0.7223455094	identified set
+0.7216156233	conditional moment
+0.7210721489	mild conditions
+0.7210227357	asset returns
+0.7207830334	endogenous variables
+0.7204233495	robust inference
+0.7202120634	recent years
+0.7195332837	long run
+0.7194810119	identified sets
+0.7191965393	potential outcomes
+0.7178612029	latent variables
+0.7173727264	weak identification
+0.7173461456	optimal bandwidth
+0.7160448678	finite sample
+0.7158509023	structural change
+0.7156691385	curse of dimensionality
+0.7146843358	random vectors
+0.7146754158	empirical applications
+0.7146015925	factor structure
+0.7141695930	target parameter
+0.7138144262	stock returns
+0.7134592302	distribution functions
+0.7134497822	observational data
+0.7134400999	treated unit
+0.7119644673	convergence rates
+0.7117297543	high dimensional sparse
+0.7110824520	small samples
+0.7106028066	control variables
+0.7103052456	tuning parameters
+0.7093060409	internet financial
+0.7068560941	approximate factor
+0.7066819820	monte carlo experiments
+0.7066109827	machine learning methods
+0.7065027208	observed covariates
+0.7060638444	agent based
+0.7059506473	control function
+0.7046393341	low rank
+0.7040747343	policy evaluation
+0.7031887724	debiased machine learning
+0.7023086647	causal effect
+0.7020787355	asymptotic variance
+0.7013827119	nonparametric identification
+0.7006295053	semi parametric
+0.7005369713	treatment allocation
+0.7003214753	semiparametric efficiency
+0.7002870348	data sets
+0.6999908262	explanatory variables
+0.6999159759	existing methods
+0.6986725147	individual level
+0.6985083070	finite samples
+0.6982855498	unobserved individual
+0.6981523873	forecast performance
+0.6981254419	large panel
+0.6978962096	missing data
+0.6976078728	double machine learning
+0.6963724051	error term
+0.6963328541	discrete choice models
+0.6962731640	linear model
+0.6962260950	parameter values
+0.6961115834	size control
+0.6945766526	delta method
+0.6931450230	pre treatment
+0.6926642825	expected utility
+0.6921600406	unit root tests
+0.6909608087	results suggest
+0.6906940145	average partial
+0.6897607411	logit model
+0.6895800595	valid inference
+0.6895269495	structural function
+0.6891174304	simulation study
+0.6880674683	theoretical results
+0.6866925453	markov chain monte
+0.6859504504	general framework
+0.6852453025	monotonicity assumption
+0.6846030042	simulation studies
+0.6844904208	small sample
+0.6839881703	econometric methods
+0.6830633187	fixed effect
+0.6825369949	asymptotic distribution
+0.6822892743	graphical models
+0.6815101243	weak assumptions
+0.6812223082	causal parameters
+0.6811589520	proposed tests
+0.6809794093	historical data
+0.6808615362	semiparametric estimation
+0.6807103075	kernel based
+0.6795428771	conditional quantile
+0.6772420213	partial effects
+0.6771369086	common factors
+0.6770970673	dependent data
+0.6766843628	mixture models
+0.6765717420	post selection
+0.6753709320	synthetic data
+0.6751680894	large dimensional
+0.6750129749	bias corrections
+0.6736497896	running variable
+0.6736441288	logit models
+0.6719420875	convergence rate
+0.6718233187	sample selection
+0.6717347404	heterogeneous effects
+0.6715458421	policy makers
+0.6709688221	central limit
+0.6709507469	special case
+0.6694954116	model averaging
+0.6694660285	linear models
+0.6680267638	dynamic panel
+0.6677745621	theoretical properties
+0.6677022502	point identification
+0.6677001984	low dimensional
+0.6676750815	asymptotic framework
+0.6666105340	distribution regression
+0.6657752471	regression coefficients
+0.6654024923	sample size
+0.6640601299	inference methods
+0.6628759441	identification result
+0.6627149729	bootstrap procedure
+0.6622317341	empirical application
+0.6602563183	random assignment
+0.6600915673	panel models
+0.6598275862	nonparametric instrumental
+0.6585288979	parameter space
+0.6583058760	local asymptotic
+0.6571329647	econometric models
+0.6570231177	iv regression
+0.6567619117	regularity conditions
+0.6563978710	binary treatment
+0.6554087939	high dimensional settings
+0.6552472395	electricity price
+0.6551621936	heterogeneous treatment
+0.6551020678	cross sectional dependence
+0.6528608499	asymptotic properties
+0.6522665113	empirical examples
+0.6506933361	paper proposes
+0.6505168523	general class
+0.6493341689	factor loadings
+0.6492237369	simulation results
+0.6491764962	structural breaks
+0.6491161932	paper presents
+0.6491074350	lower bound
+0.6487156782	policy learning
+0.6484235724	finite sample properties
+0.6478053122	tail index
+0.6476961002	conditional distribution
+0.6475558622	weighted average
+0.6472233119	panel data models
+0.6468047303	limiting distribution
+0.6455460392	choice model
+0.6447537432	discrete choice model
+0.6416684268	design based
+0.6406821084	macroeconomic variables
+0.6399890991	variance estimator
+0.6380466736	high level
+0.6380242582	likelihood estimation
+0.6372938043	bootstrap method
+0.6371999929	uniform confidence
+0.6320239881	covid 19 pandemic
+0.6261723268	consistently estimated
+0.6251523981	garch type
+0.6250481851	data driven
+0.6225529066	proposed procedure
+0.6224683625	sample sizes
+0.6221650379	consistent estimator
+0.6157943590	difference in differences
+0.6105692529	structural models
+0.6026682821	influence function
+0.6004669146	roy model
+0.5978658318	average treatment
+0.5971738260	estimating equations
+0.5961694804	linear instrumental
+0.5960980280	individual specific
+0.5954286413	off policy evaluation
+0.5947713207	local linear
+0.5940371961	dynamic discrete
+0.5928198954	simulated and real
+0.5927999341	finite sample performance
+0.5895273582	common practice
+0.5880637516	carlo experiments
+0.5880301510	choice models
+0.5879363617	proposed estimator
+0.5846285651	statistical decision
+0.5821103790	high dimensional data
+0.5809076219	estimation method
+0.5806394829	chain monte carlo
+0.5795127673	ill posedness
+0.5779200145	regression models
+0.5773117249	random effects
+0.5760486590	factor model
+0.5755717670	learning models
+0.5752963346	bootstrap based
+0.5746169892	data generating
+0.5734575477	estimation procedure
+0.5733977566	extensive simulation
+0.5719300327	estimation methods
+0.5719070095	squared error
+0.5711886200	easy to implement
+0.5697003735	empirical studies
+0.5696248884	consistent and asymptotically
+0.5643529701	learning approach
+0.5639950311	kernel density
+0.5616087410	growth model
+0.5596649538	linear regression model
+0.5590622629	treatment selection
+0.5587906327	empirical analysis
+0.5578886472	volatility models
+0.5576238936	large sample
+0.5560948317	inference procedure
+0.5554881682	simulated data
+0.5519420790	rate of convergence
+0.5506714232	inference method
+0.5498936680	difference in difference
+0.5475163212	generalized method of moments
+0.5472547247	multivariate time series
+0.5466940103	method of moments
+0.5421856138	simultaneous confidence
+0.5381279455	local average
+0.5369708887	consistency and asymptotic
+0.5348196576	sufficient conditions
+0.5347952879	survey data
+0.5334808420	regression model
+0.5282492140	proposed framework
+0.5273503429	rates of convergence
+0.5240616010	structural model
+0.5201784642	estimation and inference
+0.5199463307	autoregressive model
+0.5165903014	regression function
+0.5162927242	identification results
+0.5127551299	individual effects
+0.5112660175	day ahead
+0.5056438033	mean squared error
+0.5041840463	quasi maximum
+0.5038826294	autoregressive models
+0.5003405527	high dimensional linear
+0.4955056053	covid 19
+0.4937299862	learning algorithms
+0.4923350285	macroeconomic data
+0.4915074917	identification and estimation
+0.4902430549	paper develops
+0.4897302843	based tests
+0.4868703322	machine learning models
+0.4847721488	bootstrap inference
+0.4787607214	economic models
+0.4755642487	proposed method
+0.4671916020	inference based
+0.4660998782	network data
+0.4656492623	high dimensions
+0.4650779429	price forecasting
+0.4648634617	real data
+0.4643468637	linear panel
+0.4607884361	nonparametric estimation
+0.4604040823	efficiency bound
+0.4581957684	effect heterogeneity
+0.4574712944	empirical results
+0.4571404932	least squares
+0.4554799006	empirical illustration
+0.4541706580	carlo simulation
+0.4527311622	monte carlo study
+0.4494254779	valid confidence
+0.4430542060	parameter estimation
+0.4400622145	model specification
+0.4398552734	carlo simulations
+0.4287363373	two stage least squares
+0.4273699295	likelihood estimators
+0.4248348984	limit theorem
+0.4239779142	empirical study
+0.4226328632	varying parameter
+0.4224479105	interactive fixed
+0.4209475072	number of factors
+0.4187226898	sup norm
+0.4183302391	observed data
+0.4177485862	normally distributed
+0.4173719311	generating processes
+0.4120012788	ill posed
+0.3963977229	paper considers
+0.3955364060	paper introduces
+0.3943036289	r package
+0.3933597299	et al
+0.3869591297	estimation error
+0.3727924722	model parameters
+0.3689758492	time varying parameter
+0.3685331205	a case study
+0.3682131410	extreme value
+0.3668816743	correctly specified
+0.3663767668	& p 500
+0.3643605087	time series analysis
+0.3632753959	term memory
+0.3630808452	series analysis
+0.3624069754	\ texttt
+0.3621558194	proposed approach
+0.3582230480	tests based
+0.3574211712	parametric models
+0.3571754101	based estimators
+0.3535892741	this paper develops
+0.3514426926	time varying parameters
+0.3450155669	root n
+0.3414745773	an empirical illustration
+0.3403279155	the united states
+0.3298995550	this paper considers
+0.3295844927	\ emph
+0.3245102490	provide conditions
+0.3219450066	wide range of
+0.3216801274	time series
+0.3207083101	functional central
+0.3196512684	this paper proposes
+0.3171094910	in finite samples
+0.3154820420	sufficient conditions for
+0.3146149210	efficient estimation
+0.3095236152	effect estimation
+0.3073741823	trade off
+0.3071128486	in high dimensions
+0.3068750379	^ 2
+0.3056217108	paper shows
+0.3035872813	well suited
+0.3032482618	into account
+0.3030904034	a monte carlo study
+0.3025224171	this paper introduces
+0.3021051746	an empirical application
+0.3015172006	time series models
+0.3006826045	class of models
+0.2978076377	necessary and sufficient
+0.2938681474	this paper studies
+0.2922258540	value at risk
+0.2913678537	a wide range
+0.2908452420	continuous time
+0.2901926709	this paper investigates
+0.2898819397	$ \ ell_1
+0.2895621439	commonly used
+0.2884768375	time varying
+0.2858281385	widely used
+0.2845409346	$ \ lambda
+0.2802250097	sample properties
+0.2802094944	$ l_2
+0.2801027826	p values
+0.2765002618	non parametric
+0.2698463575	structural breaks in
+0.2689952001	this paper presents
+0.2689866214	small number of
+0.2682971839	case study
+0.2681109144	a monte carlo
+0.2663369818	model based
+0.2662739088	expected value
+0.2662707422	confidence bands for
+0.2649306144	sample performance
+0.2642798398	joint distribution of
+0.2620983205	joint distribution
+0.2579836342	the outcome variable
+0.2569243622	series models
+0.2522010565	convergence rates for
+0.2483426607	two sided
+0.2474613511	off policy
+0.2423012759	a binary treatment
+0.2411805128	proposed methods
+0.2402741965	\ sqrt
+0.2377118716	sample properties of
+0.2356508865	efficient estimation of
+0.2350649654	\ alpha
+0.2339923385	the null hypothesis
+0.2334148687	does not require
+0.2322114243	focuses on
+0.2312881836	first stage
+0.2307218556	asymptotic normality of
+0.2274767282	first price
+0.2265480367	$ \ beta
+0.2260959851	two stage least
+0.2256220305	critical value
+0.2252435574	so called
+0.2234009354	paper studies
+0.2229333022	\ textit
+0.2222796511	time periods
+0.2213366241	estimators based on
+0.2208691731	time series data
+0.2205076436	relies on
+0.2188432870	root tests
+0.2187362954	non stationary
+0.2180333315	non gaussian
+0.2168128740	mean squared
+0.2142899550	many instruments
+0.2138383693	measurement error in
+0.2129660810	sqrt n
+0.2127357391	a simulation study
+0.2122519149	mean square
+0.2121980108	the sample size
+0.2111897953	out of sample
+0.2109649204	proposed model
+0.2089087051	the proposed method
+0.2077587924	a weighted average
+0.2065588190	much larger than
+0.2027946368	time series model
+0.2018087900	this chapter
+0.2010462363	accounting for
+0.2008053704	panel data models with
+0.2006850489	n ^ 1
+0.1988819445	regression model with
+0.1968320470	relationship between
+0.1946451964	tests based on
+0.1930885508	asymptotic theory for
+0.1930869146	larger than
+0.1916487660	second order
+0.1909741883	this paper shows
+0.1900900547	tend to
+0.1895726523	two stage
+0.1892952330	the identified set
+0.1892292770	confidence intervals for
+0.1883418256	faster than
+0.1876478062	motivated by
+0.1874541152	interest rate
+0.1873607996	dealing with
+0.1869507615	performs well
+0.1861926467	causal effects of
+0.1861107353	time invariant
+0.1860421496	quantile treatment
+0.1845854965	rely on
+0.1838163314	two step
+0.1832257338	asymptotic properties of
+0.1831398476	$ n ^ 1
+0.1826657667	the proposed estimators
+0.1811486087	the test statistic
+0.1808579173	real time
+0.1797408783	second step
+0.1788295200	perform well
+0.1781497538	second stage
+0.1773243430	first order
+0.1770153049	interest rates
+0.1760414345	relation between
+0.1759848865	methods based on
+0.1749364751	capable of
+0.1738412177	rather than
+0.1737281894	this article
+0.1727663904	inference based on
+0.1719261329	first step
+0.1714986231	special case of
+0.1714941260	caused by
+0.1707393826	non linear
+0.1698421544	value function
+0.1697166355	likelihood estimator
+0.1692049147	large class of
+0.1690284535	interpreted as
+0.1688422823	conditional mean
+0.1687589506	an application
+0.1685561278	the long run
+0.1678513892	a real data
+0.1673666964	$ \ alpha
+0.1672475323	more accurate
+0.1670332378	a data driven
+0.1650435492	finite sample performance of
+0.1649977641	the proposed methods
+0.1646476781	dynamic model
+0.1639449351	depend on
+0.1638526875	learning methods
+0.1630924967	treatment effects in
+0.1617455116	depending on
+0.1609311417	find evidence
+0.1608987365	does not
+0.1598408089	the proposed approach
+0.1583245068	most important
+0.1577942255	the regression function
+0.1577250637	non asymptotic
+0.1576347579	well known
+0.1569640075	time variation
+0.1558185961	causal effects in
+0.1555757543	a high dimensional
+0.1552923294	robust bias
+0.1548892687	regression models with
+0.1547658864	results indicate
+0.1543404958	dimensional linear
+0.1511151678	suffer from
+0.1509299467	more generally
+0.1499136456	the proposed test
+0.1497701799	assumptions about
+0.1486166741	in many applications
+0.1485272686	heterogeneity across
+0.1480586882	large number of
+0.1477948829	the proposed estimator
+0.1473847916	based on
+0.1471762651	as long as
+0.1463255647	the average treatment effect
+0.1458897832	focusing on
+0.1458892620	depends on
+0.1443257452	uniformly over
+0.1438275277	effect parameters
+0.1428503391	control method
+0.1424317001	determined by
+0.1421964949	\ log
+0.1420111507	empirical example
+0.1410628087	characterized by
+0.1410254382	easy to
+0.1406419946	\ beta
+0.1402820733	empirical work
+0.1400340859	the proposed model
+0.1400157728	this paper
+0.1396948533	independent interest
+0.1385687906	a unified
+0.1381335874	generalized method
+0.1376097635	at random
+0.1374200360	compared to
+0.1350359831	the thermodynamic
+0.1341622510	deviations from
+0.1333665892	$ boosting
+0.1326128234	the asymptotic variance
+0.1320632841	an extensive
+0.1320539284	the synthetic control
+0.1320440056	not necessarily
+0.1317492150	the covariance matrix
+0.1313022692	one step
+0.1309721570	inference about
+0.1306198606	finite sample properties of
+0.1303470034	^ 1
+0.1285732067	focus on
+0.1284379425	effect models
+0.1282636070	$ norm
+0.1281524996	generated by
+0.1278255930	do so
+0.1277852557	a novel approach
+0.1277428208	combined with
+0.1272072779	do not
+0.1264809103	inference methods for
+0.1242325996	a large number
+0.1241369015	generalized method of
+0.1232416694	asymptotic distribution of
+0.1221071729	empirical application to
+0.1217343213	the model parameters
+0.1216556446	\ mathrm
+0.1215370638	series data
+0.1214198208	two way
+0.1210025017	number of
+0.1197811265	$ n
+0.1195703283	\ sqrt n
+0.1191873166	this issue
+0.1191175313	s &
+0.1187524966	focused on
+0.1184430754	the large sample
+0.1171919142	the model to
+0.1170934907	the assumption of
+0.1168378554	supported by
+0.1168378554	inspired by
+0.1165997212	$ \ sqrt
+0.1159878932	the treatment effect
+0.1159479043	proposed estimators
+0.1154263034	the size of
+0.1151919142	the variance of
+0.1151592559	a two step
+0.1149548857	at least
+0.1147596367	the application of
+0.1145667122	more general
+0.1144190416	treatment effect on
+0.1141919142	the value of
+0.1139863479	the merits of
+0.1135679316	derived from
+0.1135252476	the risk of
+0.1115786424	$ \ sqrt n
+0.1114511005	for panel data
+0.1103358944	this study
+0.1103019810	lead to
+0.1101169411	the finite sample
+0.1101081785	outcome of interest
+0.1098966405	bounds on
+0.1098693111	under mild
+0.1095027682	an important
+0.1085292214	this note
+0.1084730067	a model of
+0.1083527278	an adaptive
+0.1081510580	the former
+0.1071130811	the finite sample properties of
+0.1070319348	plug in
+0.1069207519	to calibrate
+0.1066768706	develop new
+0.1060847714	the order of
+0.1059058621	non zero
+0.1056595301	on observables
+0.1054730067	the potential of
+0.1054730067	the level of
+0.1053527844	a semiparametric
+0.1050847714	the choice of
+0.1050847714	the sensitivity of
+0.1048061068	used to estimate
+0.1043299452	defined by
+0.1039364474	identification and estimation of
+0.1038072320	with respect to
+0.1035079865	these results
+0.1031705764	the finite sample performance of
+0.1030991598	as well as
+0.1022878198	better than
+0.1021978076	obtained from
+0.1020316161	effects under
+0.1004978829	less than
+0.0988010760	the average treatment
+0.0985532580	volatility model
+0.0984895147	at most
+0.0983304176	$ \
+0.0982665142	impact on
+0.0981784618	driven by
+0.0979053553	the number of observations
+0.0973804886	a generalized
+0.0972710986	shown to
+0.0972098117	proposed test
+0.0967723524	r ^
+0.0967364738	conditions under
+0.0966521613	leads to
+0.0962780425	$ k
+0.0962277185	controlling for
+0.0960867168	$ p
+0.0960502627	accounts for
+0.0960060614	to assess
+0.0959183478	to pay
+0.0956767338	able to
+0.0955664694	to construct
+0.0943292818	\ delta
+0.0940727000	also discuss
+0.0935567308	data settings
+0.0934134244	a large class
+0.0929727420	to estimate
+0.0929166305	for instance
+0.0928280146	$ rate
+0.0928168730	to carry
+0.0927721476	to infinity
+0.0927174554	such as
+0.0923937042	parameters of interest
+0.0922726515	interested in
+0.0920801955	the incidental
+0.0918151738	the asymptotic distribution
+0.0918066574	deal with
+0.0917318516	causal effect of
+0.0909234645	light on
+0.0898588817	the finite sample performance
+0.0890116937	a simple
+0.0886422911	applied to
+0.0886389704	in terms of
+0.0880440415	n ^
+0.0876286315	a comparison
+0.0872253003	in order to
+0.0869170930	an alternative
+0.0862155572	these findings
+0.0859860147	the r package
+0.0858773039	in addition
+0.0857416573	an instrument
+0.0854927079	defined as
+0.0854332105	even if
+0.0853784365	treatment effects with
+0.0849513550	due to
+0.0846037075	$ d
+0.0843729358	estimated by
+0.0840562035	close to
+0.0837444547	led to
+0.0833930732	to ensure
+0.0833524580	the art
+0.0830669400	$ t
+0.0830629573	models with many
+0.0829642896	a priori
+0.0828671027	evidence from
+0.0827968474	a wide range of
+0.0826821526	by applying
+0.0818493726	inference on
+0.0815356544	not only
+0.0803096209	two applications
+0.0800177860	performs well in
+0.0797915572	aims to
+0.0793243930	correlated with
+0.0793042506	n \
+0.0791404044	to avoid
+0.0790269529	$ m
+0.0787700469	models with
+0.0785972151	$ l
+0.0772946228	an empirical example
+0.0771868271	this problem
+0.0767205114	compared with
+0.0764567531	to obtain
+0.0764561415	the first stage
+0.0763414715	difference between
+0.0760568678	new results
+0.0756796582	an unknown
+0.0749374679	these methods
+0.0745232263	also provide
+0.0741560981	fail to
+0.0740129976	a flexible
+0.0739573774	often used
+0.0736665796	to understand
+0.0736212175	relative to
+0.0732776349	obtained by
+0.0730511540	a bayesian
+0.0727317035	data models with
+0.0727150169	simulations show
+0.0714357622	this context
+0.0710560200	to predict
+0.0698998153	under general
+0.0696277477	equivalent to
+0.0690060440	data from
+0.0688851831	to identify
+0.0685812212	estimated from
+0.0684358811	subject to
+0.0680124439	estimation of
+0.0679334520	account for
+0.0677833767	to overcome
+0.0677683157	restrictions on
+0.0677120310	associated with
+0.0674550050	the causal effect
+0.0671102287	widely used in
+0.0670309187	conditional on
+0.0665657054	a single
+0.0661821253	proportion of
+0.0658651979	to quantify
+0.0654811502	$ o
+0.0649087346	financial time
+0.0640934040	testing for
+0.0638218196	literature on
+0.0637575360	majority of
+0.0633877415	related to
+0.0630385857	across different
+0.0630082297	access to
+0.0624198081	model based on
+0.0622122697	version of
+0.0619680283	test for
+0.0619304234	by means of
+0.0618168045	over time
+0.0617214867	degrees of
+0.0617099170	array of
+0.0613963980	consists of
+0.0613924793	to address
+0.0613076083	role in
+0.0610164911	allowed to
+0.0607223157	inference for
+0.0607069864	sources of
+0.0605492920	valid under
+0.0605251613	choice models with
+0.0604723646	an optimal
+0.0604060219	$ n ^
+0.0600232215	designed to
+0.0597801464	a general
+0.0597594592	illustrated by
+0.0596362242	in practice
+0.0594897485	variety of
+0.0593217133	a broad
+0.0590166692	advances in
+0.0589311926	much larger
+0.0587510669	these estimators
+0.0586257239	information on
+0.0585761406	complexity of
+0.0585629157	$ s
+0.0583723220	results show
+0.0582545092	model for
+0.0582342958	by combining
+0.0581547999	methods for
+0.0580868584	an empirical
+0.0577978502	$ r
+0.0577623203	a large class of
+0.0577055487	allowing for
+0.0573644464	tests for
+0.0565775379	multivariate time
+0.0565335518	the economy
+0.0564645982	fraction of
+0.0559403041	model with
+0.0558673926	properties of
+0.0550699424	a new method
+0.0547540675	the entire
+0.0547063516	effect on
+0.0546968476	distribution of
+0.0544304854	presence of
+0.0543601022	determinants of
+0.0537720383	this approach
+0.0536760509	an additional
+0.0536522923	1 \
+0.0535455020	an application to
+0.0533486998	to solve
+0.0528058314	a large number of
+0.0528013674	the original
+0.0526626681	absence of
+0.0526013990	aspects of
+0.0525347768	to deal
+0.0523353938	results from
+0.0517161773	but also
+0.0512684493	a large
+0.0510928868	the proposed
+0.0510651972	to deal with
+0.0510632439	to build
+0.0508618882	set of
+0.0505784723	an algorithm
+0.0505300999	the number of
+0.0502997598	effects on
+0.0502608822	illustrated with
+0.0502044465	cost of
+0.0500429796	approach to
+0.0496928951	new class of
+0.0493013839	robust to
+0.0490053644	implications for
+0.0481738373	content of
+0.0477718005	consistent with
+0.0477035951	collection of
+0.0476973152	this type
+0.0476777061	effects of
+0.0476282046	the presence of
+0.0474703640	notion of
+0.0474203894	difficult to
+0.0473739228	this setting
+0.0469560710	the use of
+0.0469533871	assumptions on
+0.0469022182	differences in
+0.0468219947	results for
+0.0466298929	a binary
+0.0465510463	a new
+0.0464011735	dimension of
+0.0463649166	lack of
+0.0460095851	along with
+0.0459233635	analysis of
+0.0459214004	to select
+0.0459214004	to generate
+0.0458787853	of independent interest
+0.0458630882	an appropriate
+0.0454720480	to handle
+0.0452214524	to determine
+0.0450140494	not require
+0.0448286613	allow for
+0.0446658947	estimates of
+0.0446188836	each other
+0.0446148549	changes in
+0.0443191328	inference in
+0.0442331999	to compute
+0.0439921877	more than
+0.0433867472	estimator for
+0.0432405699	versions of
+0.0430802459	to learn
+0.0426557157	information from
+0.0426196606	this result
+0.0426101324	framework for
+0.0425167649	elasticity of
+0.0424214004	to incorporate
+0.0423938546	family of
+0.0422345173	theory for
+0.0419885529	to achieve
+0.0417418732	under weak
+0.0416596691	identification of
+0.0416496517	rates for
+0.0414778405	to reduce
+0.0414266712	to conduct
+0.0410269995	sensitive to
+0.0409755419	to capture
+0.0408059349	conditions for
+0.0407905386	this framework
+0.0407864112	characterization of
+0.0406269716	the possibility of
+0.0405502393	implications of
+0.0405200828	at different
+0.0402967055	well as
+0.0402933352	a class of
+0.0401510439	algorithms for
+0.0400563164	source of
+0.0397255419	to detect
+0.0396322903	new approach
+0.0396209143	the end of
+0.0392490781	method for
+0.0389326000	improvements in
+0.0386573665	tool for
+0.0385502393	forms of
+0.0382840685	also propose
+0.0382602314	the effectiveness of
+0.0380932471	likely to
+0.0380853424	tools for
+0.0379560710	a set of
+0.0379303635	with respect
+0.0375628165	a dynamic
+0.0375587678	the true
+0.0374393292	classes of
+0.0373378602	to compare
+0.0371275841	suitable for
+0.0371018928	to evaluate
+0.0368735352	an instrumental
+0.0367876222	dynamics of
+0.0367558129	difference in
+0.0365947631	the same time
+0.0364540691	relevance of
+0.0363575639	as if
+0.0359695758	a generalization of
+0.0359265437	a novel
+0.0357398276	equal to
+0.0356848384	goal of
+0.0356567313	to illustrate
+0.0355104214	the analyst
+0.0354394137	theorems for
+0.0354183209	to improve
+0.0353159994	bounds for
+0.0353152968	as well
+0.0351474556	the main
+0.0350503952	extended to
+0.0346899806	a sequence of
+0.0346614131	application to
+0.0345327698	used to
+0.0343319795	types of
+0.0343029091	in contrast to
+0.0342881100	the null
+0.0341295887	class of
+0.0340442253	the same
+0.0339860856	method to
+0.0339458927	of interest
+0.0338142144	regressions with
+0.0331568823	in economics
+0.0331146918	the role
+0.0330851033	the effect of
+0.0329867983	allows for
+0.0329194730	effect of
+0.0326088022	the sense
+0.0325998761	breaks in
+0.0325739456	the number
+0.0324147705	a variety of
+0.0324025719	distributions of
+0.0323593451	a randomized
+0.0323374196	the time varying
+0.0321346408	implementation of
+0.0321317799	to implement
+0.0320729867	a weighted
+0.0318024854	advantages of
+0.0316072124	the usefulness of
+0.0314712311	a modified
+0.0313310621	concept of
+0.0313047204	the existence of
+0.0312952202	or not
+0.0312836293	this paper provides
+0.0312716444	pairs of
+0.0312438838	in econometrics
+0.0311198290	bound on
+0.0308648581	representation of
+0.0308645783	a natural
+0.0308333843	also find
+0.0308168816	inference under
+0.0306675593	a wide
+0.0304890812	techniques for
+0.0304723801	this work
+0.0303607095	regardless of
+0.0303160888	quality of
+0.0302766746	strength of
+0.0301751555	the out of sample
+0.0299988695	applicable to
+0.0299349355	range of
+0.0299217247	the treated
+0.0297350622	regression with
+0.0294745429	nature of
+0.0294380878	an empirical application to
+0.0294297132	the aim
+0.0293415980	in contrast
+0.0293350386	the difference between
+0.0293121000	but not
+0.0292516484	the latter
+0.0291840106	measure of
+0.0290095208	rate of
+0.0289436849	increase in
+0.0288471116	to produce
+0.0288386670	behavior of
+0.0287664974	to measure
+0.0285892208	to derive
+0.0285261875	a fundamental
+0.0284950019	arise in
+0.0284010439	sum of
+0.0283664155	the relationship between
+0.0282323969	a spatial
+0.0282215062	identified by
+0.0280730986	performance of
+0.0279564561	experiments with
+0.0276077312	also show
+0.0274284548	features of
+0.0273119834	a function of
+0.0272562566	a unique
+0.0272445184	to account for
+0.0271642818	the outcome
+0.0271535657	the distribution of
+0.0269108520	amount of
+0.0269001253	to analyze
+0.0267482888	applicability of
+0.0266886357	evolution of
+0.0263598705	curse of
+0.0262840667	purpose of
+0.0262433183	the impact of
+0.0260671211	an estimator
+0.0260578397	impact of
+0.0259512920	the usual
+0.0258631665	a subset of
+0.0258180670	respect to
+0.0256899632	selection on
+0.0254794883	the literature
+0.0254715062	research on
+0.0254395141	solution to
+0.0252631526	extension of
+0.0252415687	to investigate
+0.0252218211	to control for
+0.0251554617	to approximate
+0.0251497193	the role of
+0.0251022012	paper provides
+0.0250859826	combination of
+0.0249478453	these two
+0.0248816222	limitations of
+0.0248642693	a small
+0.0248606433	novel approach
+0.0248022524	functionals of
+0.0247720453	applies to
+0.0246508999	generalization of
+0.0246495083	heterogeneity in
+0.0244204681	accuracy of
+0.0243410715	settings with
+0.0243144520	the case of
+0.0241505799	the researcher
+0.0240528155	to perform
+0.0240286594	usefulness of
+0.0239725610	levels of
+0.0239383574	methodology for
+0.0236417903	degree of
+0.0236229642	using data from
+0.0235587999	to explain
+0.0235097859	procedures for
+0.0235037263	feature of
+0.0233283864	a multivariate
+0.0232727830	not rely on
+0.0230618445	contribution of
+0.0229796975	control for
+0.0228494787	strategy for
+0.0227249942	the effects of
+0.0226510439	computation of
+0.0226164112	support for
+0.0226096866	the importance of
+0.0225831326	advantage of
+0.0225498895	construction of
+0.0225376222	evaluation of
+0.0224725051	the asymptotic distribution of
+0.0224587185	problems with
+0.0223570038	new method
+0.0222721398	a comprehensive
+0.0222102188	methodology to
+0.0221769076	the dimension of
+0.0221623425	to hold
+0.0221424920	the notion of
+0.0220696629	the conditional mean
+0.0220113157	to make
+0.0218321182	a key
+0.0217507171	the causal effect of
+0.0216143376	addition to
+0.0215498895	subset of
+0.0214010439	understanding of
+0.0213694232	context of
+0.0212017393	the estimation of
+0.0211497193	the context of
+0.0210851033	the problem of
+0.0210749194	a popular
+0.0210682913	importance of
+0.0210333183	the performance of
+0.0209430199	the probability of
+0.0209383574	similar to
+0.0209287378	to use
+0.0208855417	problem of
+0.0208709555	means of
+0.0205827979	part of
+0.0205097859	condition for
+0.0204468905	development of
+0.0203715913	a method for
+0.0203437973	used for
+0.0203178506	framework to
+0.0203163426	the analysis of
+0.0202562977	new estimator
+0.0201941295	in settings with
+0.0199796975	procedure for
+0.0198270135	useful for
+0.0197617881	validity of
+0.0196270606	to develop
+0.0196096866	the dynamics of
+0.0196021158	in addition to
+0.0195701018	impacts of
+0.0194625214	reduction in
+0.0194468290	to demonstrate
+0.0193841703	to examine
+0.0192419378	the set of
+0.0192419378	a model with
+0.0189943340	benefits of
+0.0189796975	procedure to
+0.0189516975	the asymptotic properties of
+0.0187343013	a sequence
+0.0186916810	variation in
+0.0186450594	form of
+0.0185939338	to explore
+0.0184209072	developed for
+0.0183461160	used in
+0.0183267286	ability to
+0.0181148120	field of
+0.0180549186	normality of
+0.0178779975	the goal
+0.0178386670	structure of
+0.0178098951	need to
+0.0177482842	developments in
+0.0177424503	a special
+0.0177258253	the absence of
+0.0177249728	intervals for
+0.0176703676	magnitude of
+0.0176554467	to establish
+0.0174757137	the impact
+0.0174749595	the degree of
+0.0174632174	probability of
+0.0173802689	the validity of
+0.0172497970	implemented in
+0.0170612819	bands for
+0.0170211780	a number of
+0.0170130479	the literature on
+0.0168578600	the evolution of
+0.0168340504	the sum of
+0.0166303696	problem by
+0.0165399328	sequence of
+0.0163102409	a range of
+0.0160084323	the possibility
+0.0160007171	a result of
+0.0154040784	the evaluation of
+0.0153802689	the form of
+0.0153259264	a given
+0.0152419378	the rate of
+0.0151321947	existence of
+0.0150174171	the united
+0.0149997466	for example
+0.0147053711	function of
+0.0144697163	bound for
+0.0144109631	contrast to
+0.0144040784	the class of
+0.0143697647	a framework for
+0.0142474796	instead of
+0.0142419378	the identification of
+0.0142419378	for estimation of
+0.0142419378	the structure of
+0.0141317114	the absence
+0.0140796737	of interest in
+0.0140200241	role of
+0.0139245335	different from
+0.0137412543	interpretation of
+0.0135606625	a monte
+0.0132796737	the method to
+0.0129773292	to forecast
+0.0127146460	the notion
+0.0120084323	a family
+0.0117852035	the presence
+0.0115677767	a result
+0.0111607012	the last
+0.0110796737	the advantage of
+0.0110537353	effectiveness of
+0.0105366070	to zero
+0.0095943670	a method to
+0.0094706132	a few
+0.0091672324	use of
+0.0091581132	found to
+0.0085542142	and thus
+0.0066670418	to describe
+0.0065894732	to take
+0.0055609972	possible to
+0.0055366070	way to
