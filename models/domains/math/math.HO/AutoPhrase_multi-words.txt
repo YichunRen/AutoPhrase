@@ -1,0 +1,934 @@
+0.9906367571	knot theory
+0.9893469304	galois theory
+0.9861036048	vector spaces
+0.9860958899	differential geometry
+0.9858504930	probability theory
+0.9847569520	functional equation
+0.9846956035	real analysis
+0.9846215657	differential calculus
+0.9843129009	mathematical sciences
+0.9840056452	active learning
+0.9835744183	prime number theorem
+0.9831901474	mathematics education
+0.9831763672	power series
+0.9830442073	category theory
+0.9811190843	golden ratio
+0.9810210293	fibonacci numbers
+0.9806624564	bernoulli numbers
+0.9803952375	representation theory
+0.9793132699	open source
+0.9790091538	type theory
+0.9789599712	differential equations
+0.9789146306	hyperbolic plane
+0.9783038101	general relativity
+0.9774769304	measure theory
+0.9771370856	united states
+0.9771271798	fractional calculus
+0.9770150107	metric space
+0.9768473597	natural numbers
+0.9757571422	felix klein
+0.9756149743	hyperbolic geometry
+0.9755676190	dynamical systems
+0.9754684654	euclidean space
+0.9750145970	abstract algebra
+0.9739633971	infinitesimal calculus
+0.9738869855	group theory
+0.9734499503	riemann zeta function
+0.9733461869	quadratic reciprocity
+0.9731961403	linear algebra
+0.9730801736	graph theory
+0.9716714462	fourier transform
+0.9713907680	set theory
+0.9705711410	algebraic geometry
+0.9704455521	zeta function
+0.9702815201	world war
+0.9698879476	mathematical logic
+0.9688214891	euclidean geometry
+0.9678178333	leonhard euler
+0.9674967175	benford's law
+0.9670381427	rational numbers
+0.9670259494	virtual reality
+0.9659449569	theoretical physics
+0.9656115154	rational number
+0.9656059472	monty hall
+0.9647629573	trigonometric functions
+0.9641989834	number theory
+0.9631588183	cookie monster
+0.9610792346	complex plane
+0.9609115372	voice leading
+0.9608845559	problem solving
+0.9600967911	game theory
+0.9596822685	complex analysis
+0.9590942695	square root
+0.9586770740	differential equation
+0.9581626460	infinite product
+0.9561367358	information theory
+0.9554630521	magic square
+0.9532205291	real valued
+0.9467342424	affine plane
+0.9459978454	positive integer
+0.9459303658	pure mathematics
+0.9444760003	set theoretic
+0.9434864402	special functions
+0.9430489730	closed form
+0.9427606205	monty hall problem
+0.9409207969	applied mathematics
+0.9395904049	pascal's triangle
+0.9395690881	finite fields
+0.9378396950	english translation
+0.9368080059	functional analysis
+0.9318376709	mathematical physics
+0.9296424333	riemann hypothesis
+0.9289326403	quantum mechanics
+0.9265574931	real numbers
+0.9251599038	open problems
+0.9212971369	complex numbers
+0.9202012361	plane geometry
+0.9195103976	high school
+0.9194656847	mathematical proof
+0.9193172375	number theoretic
+0.9133710364	finite dimensional
+0.9107340943	quadratic forms
+0.9105351661	positive integers
+0.9077301304	infinite series
+0.9050227037	fixed point
+0.9048942829	real number
+0.9027624951	higher order
+0.9027527679	continued fraction
+0.9019426701	pythagorean triples
+0.8973119231	mathematical society
+0.8933834190	lecture notes
+0.8913339862	pentagonal number theorem
+0.8894038800	euler's latin
+0.8890162055	dirichlet forms
+0.8855020570	reciprocity law
+0.8795814544	prime numbers
+0.8794126228	bimagic squares
+0.8784044647	high school students
+0.8769373752	magic squares
+0.8751590509	fermat's last theorem
+0.8745839895	mathematical analysis
+0.8737997086	recent years
+0.8705480100	proof theory
+0.8700740966	special cases
+0.8694422242	` `
+0.8685852786	transcendental numbers
+0.8669224070	flipped classroom
+0.8655927452	nineteenth century
+0.8601268431	twentieth century
+0.8600926620	straight line
+0.8551203376	continued fractions
+0.8547245990	19th century
+0.8531446113	fundamental theorem of algebra
+0.8516591292	article discusses
+0.8509106377	quasiconformal mappings
+0.8506944411	hopf algebras
+0.8506303413	starting point
+0.8480949695	20th century
+0.8473014048	prime number
+0.8419115715	plimpton 322
+0.8415136314	special case
+0.8413805778	euclidean plane
+0.8401070404	moduli spaces
+0.8367236275	prime factors
+0.8311303253	17th century
+0.8289199109	interactive games
+0.8275564225	mathematical knowledge
+0.8261358912	historical context
+0.8225504659	years ago
+0.8200267623	upper bound
+0.8165884740	undergraduate students
+0.8110097215	pentagonal number
+0.8093105691	general theory
+0.8084832006	uber die
+0.8067473595	dimensional space
+0.8008346460	recent results
+0.7954998092	ibn al
+0.7906394273	large number
+0.7867350176	historical survey
+0.7770503066	expository paper
+0.7716611295	triangle abc
+0.7711818684	non euclidean geometry
+0.7645730978	elementary proofs
+0.7638125660	partial differential
+0.7624701091	modern mathematics
+0.7617869105	number systems
+0.7548826255	short note
+0.7488938986	algorithmic information
+0.7446093475	ordinary differential
+0.7325956182	mathematical objects
+0.7263350653	article presents
+0.7250333065	mathematical community
+0.7247860454	case study
+0.7189406976	matrix theory
+0.7116030817	mathematical practice
+0.6998090948	field theory
+0.6978910873	mathematical education
+0.6892514741	basic properties
+0.6888544935	elementary proof
+0.6873925808	elementary methods
+0.6742649245	3d printing
+0.6706171231	mathematical background
+0.6630951540	fundamental theorem
+0.6602349797	mathematics courses
+0.6593402489	mathematical proofs
+0.6506817855	academy of sciences
+0.6414529160	point of view
+0.6409158031	school students
+0.6343626563	problem of finding
+0.6244451474	philosophy of mathematics
+0.6243716390	mathematical theory
+0.6217210206	mathematical concepts
+0.6196862170	mathematical ideas
+0.6069248524	foundations of mathematics
+0.6038633246	paper presents
+0.6013558263	hall problem
+0.5968038280	teaching mathematics
+0.5937579888	paper describes
+0.5911434655	an elementary proof
+0.5850642671	teaching and learning
+0.5819311542	square of order
+0.5670937420	history of mathematics
+0.5538236344	paper euler
+0.5472105415	mathematical research
+0.5439986032	the monty hall problem
+0.5420383255	present paper
+0.5338785054	\ ` eme
+0.5268678269	paper introduces
+0.5266716953	self contained
+0.5236691075	number theorem
+0.5219183147	u ller
+0.5170814036	the enestrom index
+0.4983091964	simple proof
+0.4727264554	the cookie monster
+0.4610018143	the final version
+0.4530413488	this short note
+0.4459638475	final version of
+0.4390727358	latin original into
+0.4363385506	the riemann zeta
+0.4336784952	the riemann hypothesis
+0.4313070709	intermediate value
+0.4134439616	de vries
+0.4118856130	this short paper
+0.4057701520	the latin original
+0.3991550216	this paper discusses
+0.3917657960	the fundamental theorem
+0.3869063541	an english translation
+0.3853560757	the united states
+0.3823752568	the golden ratio
+0.3773456069	non euclidean
+0.3757284340	the riemann zeta function
+0.3678630788	so called
+0.3661675953	second half
+0.3660365030	the american mathematical
+0.3651089996	this paper presents
+0.3568315693	elementary proof of
+0.3484798285	this paper introduces
+0.3456643650	brief introduction
+0.3411534851	de bruijn
+0.3348814634	computer science
+0.3312745183	relationships between
+0.3258795240	computer algebra
+0.3242887495	non commutative
+0.3221052836	infinitely many
+0.3193719068	a positive integer
+0.3190868766	simple proof of
+0.3175130697	fermat's last
+0.3128653370	non standard
+0.3095781106	number system
+0.3086953104	the 20th century
+0.2979510640	square root of
+0.2970204596	the monty hall
+0.2947343922	computer based
+0.2942766815	the 19th century
+0.2924836122	greater than
+0.2912483407	three dimensional
+0.2910144633	english translation of
+0.2901268561	another proof
+0.2889744891	the present paper
+0.2871919937	the twentieth century
+0.2842180075	first order
+0.2842034255	a simple proof
+0.2727047017	right triangles
+0.2699024536	a case study
+0.2698602713	this paper euler
+0.2690495731	the pentagonal number
+0.2645316152	the zeta function
+0.2627825758	the square root
+0.2581219886	the fundamental theorem of algebra
+0.2510656392	distinction between
+0.2474530681	in number theory
+0.2424440665	k \ geq 1
+0.2407963461	into account
+0.2366660939	the natural numbers
+0.2362531580	there exist
+0.2349239982	more precisely
+0.2339843914	de la
+0.2329488628	an alternative
+0.2310709135	relation between
+0.2310288086	3 dimensional
+0.2303150820	years before
+0.2273809809	the real numbers
+0.2238948320	fundamental theorem of
+0.2226009835	the monty
+0.2211544976	poincar \
+0.2209411030	^ \ infty
+0.2180738989	\ emph
+0.2146033045	difference between
+0.2134773955	more generally
+0.2122840259	less than
+0.2090412975	value theorem
+0.2076735833	\ textit
+0.2063807316	& #
+0.2024438906	into english
+0.1988828299	2 dimensional
+0.1970626057	discrete time
+0.1964322283	= 0
+0.1933357955	\ frac
+0.1924413088	teichm \
+0.1923858154	based on
+0.1917413035	years after
+0.1902512357	the first half
+0.1889487997	space time
+0.1867665329	life and work
+0.1864568959	\ mathcal
+0.1854760311	\ rm
+0.1844448805	different ways
+0.1839662063	arrive at
+0.1834847777	kocha \
+0.1820498261	\ kappa
+0.1816147907	\ ge
+0.1799137252	matem \
+0.1790803400	this paper
+0.1788835141	3 space
+0.1780674008	more advanced
+0.1773023853	^ 3
+0.1768980871	\ ln
+0.1738221831	connection between
+0.1737043276	^ 1
+0.1731831595	\ rho
+0.1718425508	\ leq
+0.1713509829	gr \
+0.1702005014	relationship between
+0.1696560272	= \ frac
+0.1687650831	aimed at
+0.1674834564	connections between
+0.1668947177	this note
+0.1663136184	math \
+0.1662555965	a brief overview
+0.1658065376	^ 4
+0.1657981436	\ pi
+0.1653648637	\ mu
+0.1637173864	starting from
+0.1634667156	\ ell
+0.1632203093	\ sin
+0.1628920901	some interesting
+0.1616396168	\ `
+0.1611630189	this article
+0.1602423529	= 1
+0.1602135827	\ alpha
+0.1597414698	even though
+0.1595076038	^ 2
+0.1586066425	an overview
+0.1571635177	sum of two
+0.1560933169	\ cite
+0.1557480453	\ infty
+0.1550192266	\ ss
+0.1536419459	\ sqrt
+0.1533714775	\ prod_
+0.1530433621	\ geq
+0.1524282156	more general
+0.1521790324	+ 1
+0.1486826902	\ theta
+0.1485985800	\ sigma
+0.1484928482	the other hand
+0.1477741273	1 \ leq
+0.1459208964	translated from
+0.1443576301	from euler's
+0.1441462193	most important
+0.1440635769	mod p
+0.1440134402	an arbitrary
+0.1433716150	well known
+0.1431917888	among others
+0.1421023789	an extension
+0.1416348024	schr \
+0.1413495780	doing so
+0.1411821336	an interesting
+0.1409966199	presented here
+0.1405274770	divisible by
+0.1395735705	rather than
+0.1355418973	a lot
+0.1348326304	\ sum_
+0.1343963230	deals with
+0.1324074324	\ geq 1
+0.1322142268	second order
+0.1318932053	\ cos
+0.1315492092	$ \ pi
+0.1312412352	^ *
+0.1284466270	\ em
+0.1274330338	$ \ gamma
+0.1259387122	focus on
+0.1256329328	euler gives
+0.1248297481	recent work
+0.1244202795	an essay
+0.1243191187	an english
+0.1241318195	these notes
+0.1240729318	a brief historical
+0.1240055610	r ^ 2
+0.1237247865	a short
+0.1234957408	\ ~
+0.1231144966	an explicit
+0.1222661737	information about
+0.1216818880	\ log
+0.1205320373	focuses on
+0.1205245977	the cookie
+0.1204563950	the genesis
+0.1192109913	\ mathbb
+0.1191108150	infinitude of
+0.1189846830	life and work of
+0.1189673035	$ adic
+0.1189210830	comment on
+0.1183743221	motivated by
+0.1180767362	10 ^
+0.1174590790	three body
+0.1173786075	1 x ^
+0.1173155306	inspired by
+0.1171153789	a geometric
+0.1170319875	+ y
+0.1157024132	\ mathbb z
+0.1155040462	\ phi
+0.1152689908	two dimensional
+0.1149166866	an elementary
+0.1143651817	= 3
+0.1137432222	dealing with
+0.1126477340	generated by
+0.1126040307	this essay
+0.1103441995	deal with
+0.1102889381	did not
+0.1098042681	more or less
+0.1097659557	\ mathbb r ^
+0.1094309089	also discuss
+0.1092470993	+ 2
+0.1078951940	questions about
+0.1074632140	$ \ omega
+0.1070527113	does not
+0.1069306032	focusing on
+0.1067189476	depending on
+0.1058839200	p ^ k
+0.1044632140	$ \ phi
+0.1037578388	lot of
+0.1028940718	\ omega
+0.1022258709	devoted to
+0.1019314218	derived by
+0.1017321234	$ \ sqrt
+0.1008226540	formula for
+0.1003415114	= y
+0.0997780994	$ \ mathbb
+0.0991692507	an introduction
+0.0986852408	an important
+0.0980521652	emergence of
+0.0970233131	look at
+0.0967482926	p 1
+0.0962757481	serve as
+0.0955621391	y =
+0.0951544447	an application
+0.0949657366	\ sum_ n =
+0.0946232933	related to
+0.0943126763	derived from
+0.0939129128	focused on
+0.0938596658	n 1
+0.0935390130	at least
+0.0917597575	viewed as
+0.0917066633	determination of
+0.0902265323	an appendix
+0.0898087225	considered as
+0.0889923499	$ \ triangle
+0.0889555262	a personal
+0.0885698061	with respect to
+0.0882515556	\ mathbb r
+0.0878045974	new results
+0.0873767068	an ellipse
+0.0871992296	an algebraic
+0.0866727446	believed to
+0.0865220681	do not
+0.0864510344	compared to
+0.0861850486	the laws of
+0.0845580806	a novel
+0.0842977319	a survey
+0.0842821818	if and only if
+0.0839553922	brief historical
+0.0839409805	starts with
+0.0838878642	familiar with
+0.0817705179	more than
+0.0812602469	depends on
+0.0812087613	by applying
+0.0811350652	other hand
+0.0795826677	into german
+0.0794777627	^ 2 +
+0.0778875159	for instance
+0.0776269149	the one hand
+0.0774164536	x ^ n
+0.0766523612	= 2
+0.0761364281	some aspects of
+0.0760559023	comments on
+0.0756471626	emphasis on
+0.0753454859	x ^
+0.0743326507	$ \ mathbb r ^
+0.0741539239	^ k
+0.0735180876	\ gamma
+0.0732580729	+ x
+0.0723881453	light on
+0.0722752587	\ left
+0.0722504379	q ^
+0.0721377884	\ zeta
+0.0719467174	a brief
+0.0713673771	this problem
+0.0706578797	th \
+0.0700823018	an article
+0.0698677011	consists of
+0.0684610593	report on
+0.0678031073	$ \ sum_
+0.0677444984	one hand
+0.0669399452	probl \
+0.0664761041	g \
+0.0663838343	represented by
+0.0658482501	but rather
+0.0656590929	this study
+0.0646046205	introduction to
+0.0643392133	determined by
+0.0642659345	+ b
+0.0638102493	as well as
+0.0635838427	m \
+0.0634956199	^ n
+0.0621401936	a new
+0.0611851990	together with
+0.0610513873	interested in
+0.0600440497	also provide
+0.0598718845	first year
+0.0598407593	translation from
+0.0594870564	the history of mathematics
+0.0593642700	4 +
+0.0591416343	2 ^ n
+0.0578474696	description of
+0.0576727795	second part
+0.0571678807	a simple
+0.0564500148	a brief history of
+0.0563190499	\ sum_ n
+0.0561004785	formed by
+0.0557849925	by means of
+0.0554657039	$ \ mathbb z
+0.0547120716	this book
+0.0544726347	remarks on
+0.0540997893	at least one
+0.0539134560	consistent with
+0.0538912841	x +
+0.0534183258	the intersection of
+0.0534136302	followed by
+0.0532127813	+ c
+0.0530377666	proof of
+0.0518563045	dedicated to
+0.0518498326	the same time
+0.0516501384	connections with
+0.0514183258	the classification of
+0.0504183258	the sequence of
+0.0503507447	an expository
+0.0498789005	the reader
+0.0497183258	the goal of
+0.0494866217	starting with
+0.0494183258	the perspective of
+0.0494183258	a class of
+0.0493417889	the theorem of
+0.0492446982	for calculating
+0.0491926912	an infinite
+0.0490001372	the first time
+0.0489664677	the beginning of
+0.0484870700	introduced by
+0.0480202621	algorithm for
+0.0476732862	all possible
+0.0476210999	number of
+0.0474414062	b =
+0.0474183258	a function of
+0.0473987115	response to
+0.0471035388	not only
+0.0470481832	approach to
+0.0468246551	theorem on
+0.0467794957	account of
+0.0467079091	the issue of
+0.0467079091	the publication of
+0.0467079091	the result of
+0.0463638107	proved by
+0.0460739528	this survey
+0.0459836810	the author
+0.0459784188	proposed by
+0.0458585061	new proof
+0.0457882530	d =
+0.0457079091	the philosophy of
+0.0457026894	rise to
+0.0455697788	anniversary of
+0.0454430527	the birth of
+0.0453819479	provided by
+0.0452643460	this report
+0.0452156976	an english translation of
+0.0450641798	data from
+0.0450450242	genesis of
+0.0447835070	such as
+0.0447079091	the light of
+0.0447079091	the framework of
+0.0447079091	the application of
+0.0446067054	= c
+0.0445337962	= x
+0.0444183258	the subject of
+0.0443766076	published by
+0.0443498326	a system of
+0.0443417889	the teaching of
+0.0443006663	defined by
+0.0442047735	even if
+0.0440667054	some basic
+0.0438255510	range of
+0.0436561907	meant to
+0.0436141591	a series of
+0.0435673459	each other
+0.0432865309	an attempt to
+0.0432183258	a review of
+0.0429142220	impact on
+0.0427079091	the question of
+0.0427079091	the basis of
+0.0427079091	the life and
+0.0426141591	the university of
+0.0425684283	r ^
+0.0425483451	formulas for
+0.0423417889	the sense of
+0.0423220282	s ^
+0.0422894539	on line
+0.0422131893	method for
+0.0421911165	connection with
+0.0421498326	a way to
+0.0420447340	\ pi ^
+0.0417079091	the field of
+0.0417079091	the level of
+0.0416273210	solved by
+0.0415657168	version of
+0.0413417889	the law of
+0.0411971093	this expository
+0.0410075221	lack of
+0.0409498970	a new proof
+0.0407079091	a sequence of
+0.0407079091	the solution of
+0.0404172516	x =
+0.0403417889	the mathematics of
+0.0403156124	irrationality of
+0.0403102202	triangle with
+0.0402842662	1 +
+0.0402144955	model for
+0.0399391376	written by
+0.0399108704	known as
+0.0398982755	referred to
+0.0397849925	in order to
+0.0397079091	the form of
+0.0397079091	the process of
+0.0397079091	the idea of
+0.0396199711	an attempt
+0.0395692508	\ ^
+0.0393635503	developed by
+0.0392831173	published in
+0.0389807247	obtained from
+0.0387845172	analogue of
+0.0387004996	this text
+0.0386844569	possibility to
+0.0384476590	mathematical work
+0.0384271444	this question
+0.0383417889	the method of
+0.0383417889	the area of
+0.0383417889	the probability of
+0.0381878890	defined on
+0.0381087316	obtained by
+0.0380017624	a single
+0.0379018925	an open
+0.0378885672	an algorithm
+0.0377195918	first proof
+0.0377079091	the case of
+0.0377079091	the geometry of
+0.0376892282	this topic
+0.0376317663	defined as
+0.0375110004	characterization of
+0.0374441535	\ times
+0.0373801442	search for
+0.0373604145	visualization of
+0.0372085911	other than
+0.0371366694	criterion for
+0.0369826948	an approach
+0.0368373763	this chapter
+0.0366705808	development of
+0.0366394160	the course of
+0.0366379408	2 +
+0.0364647353	conception of
+0.0363745758	the problem of
+0.0363101102	an integer
+0.0362565662	a pair of
+0.0358476641	notion of
+0.0355943690	variation of
+0.0353863179	\ ` e
+0.0347604214	literature on
+0.0347212412	this result
+0.0346203090	kind of
+0.0344652100	overview of
+0.0342681237	theory of
+0.0341583362	a comprehensive
+0.0341193744	many other
+0.0341055302	an equation
+0.0338181038	designed to
+0.0337849925	in terms of
+0.0332732958	the work of
+0.0331048710	a unique
+0.0330429906	^ x
+0.0327075523	with respect
+0.0324086702	a systematic
+0.0323589110	intended to
+0.0323145760	combination of
+0.0321542019	a wide
+0.0319011988	creation of
+0.0318350071	$ n
+0.0317971040	problem from
+0.0317133977	respect to
+0.0313828932	basis for
+0.0313625527	led to
+0.0312989922	k +
+0.0312828764	memory of
+0.0312434057	\ right
+0.0311028642	\ =
+0.0309148998	b \
+0.0308444974	framework for
+0.0307109647	a simple proof of
+0.0306809974	definition of
+0.0305889372	inscribed in
+0.0303317260	first part
+0.0302933558	f \
+0.0302396848	k =
+0.0302359898	$ n =
+0.0300990137	needed to
+0.0299078689	history of
+0.0299015590	family of
+0.0292968012	a proof
+0.0291941538	a circle
+0.0288381785	subset of
+0.0288182436	attributed to
+0.0285570860	$ p
+0.0283156124	investigation of
+0.0282865430	l \
+0.0282098341	3 +
+0.0281181918	derivation of
+0.0281069713	involved in
+0.0279663621	using only
+0.0279367053	solution for
+0.0278862793	the infinitude of
+0.0277759311	theorem for
+0.0274647353	attempt to
+0.0273486449	the fundamental theorem of
+0.0272136397	this short
+0.0269506437	d \
+0.0269480477	$ 1 \
+0.0268476641	role in
+0.0268141189	interpretation of
+0.0266606436	r \
+0.0262788229	$ q
+0.0262274826	but also
+0.0261516053	the art
+0.0260532795	contribution to
+0.0256411424	list of
+0.0255651214	$ f
+0.0255277360	applied to
+0.0252656769	$ \ mathbb r
+0.0250676836	2 ^
+0.0249807856	understanding of
+0.0248635342	summary of
+0.0247880817	note on
+0.0245251363	explanation of
+0.0243486449	the final version of
+0.0243133778	^ \
+0.0241985357	appearance of
+0.0241724517	work on
+0.0240883408	$ \
+0.0240627023	effectiveness of
+0.0240120356	concept of
+0.0239091066	an introduction to
+0.0236930880	lead to
+0.0234578090	choice of
+0.0233604145	aspect of
+0.0233458356	variety of
+0.0229870330	seen as
+0.0229573418	only if
+0.0228834077	a talk
+0.0228164498	associated with
+0.0225515926	the possibility
+0.0225375649	$ x ^
+0.0224117503	n =
+0.0222430527	a lot of
+0.0221186527	1 x
+0.0218934326	presence of
+0.0217434974	representation of
+0.0216753088	this work
+0.0216732947	written in
+0.0215967654	survey on
+0.0214997724	equivalent to
+0.0214972202	$ p \
+0.0213565662	the presence of
+0.0210907196	generalization of
+0.0210824154	significance of
+0.0209872099	end of
+0.0209135563	as well
+0.0207778866	the history of
+0.0207509619	expressed in
+0.0204771896	extension of
+0.0203303030	translation of
+0.0201980725	b ^
+0.0201279479	treatment of
+0.0199553566	the end of
+0.0199236105	the aim of
+0.0194014189	collection of
+0.0193492652	a proof of
+0.0192321357	a pair
+0.0191669015	attention to
+0.0189807856	construction of
+0.0188236997	extended to
+0.0183065862	a translation of
+0.0182730252	state of
+0.0182535637	appeared in
+0.0181204528	a variety
+0.0179375219	the relationship between
+0.0179320454	analysis of
+0.0179236105	the purpose of
+0.0179105731	a few
+0.0177797356	k \
+0.0177726757	1 =
+0.0176942961	$ 2 ^
+0.0175628889	a translation
+0.0175447703	but not
+0.0173674183	point of
+0.0173257732	an overview of
+0.0173153566	a new proof of
+0.0172363319	set of
+0.0170896824	$ n \
+0.0169534303	appear in
+0.0168762390	evolution of
+0.0167124897	the number of
+0.0166892512	or not
+0.0165035941	aim of
+0.0164593977	origin of
+0.0163539407	the presence
+0.0163280696	distribution of
+0.0161391233	shown to
+0.0160884042	2 =
+0.0160699790	a number of
+0.0155218153	$ th
+0.0154973548	content of
+0.0152529986	sum of
+0.0151706735	the development of
+0.0151593430	$ |
+0.0150747946	the first part
+0.0150174715	the first part of
+0.0148931882	meaning of
+0.0148441764	the analysis of
+0.0148182436	contrary to
+0.0147535514	or less
+0.0147154090	the author's
+0.0146265215	purpose of
+0.0146194782	a brief overview of
+0.0145979501	discovery of
+0.0144817980	the life and work of
+0.0143903369	the point of
+0.0142693531	pair of
+0.0141706735	the concept of
+0.0141029090	a family
+0.0139651314	the existence of
+0.0139333853	the context of
+0.0139323445	the role of
+0.0138562199	a family of
+0.0137418018	or more
+0.0137373608	done by
+0.0137124897	the theory of
+0.0136163766	means of
+0.0135979501	importance of
+0.0135038763	nature of
+0.0134760746	a collection of
+0.0134361899	the emergence of
+0.0134332214	$ t
+0.0131696326	the sum of
+0.0130422980	$ y
+0.0130121962	n \
+0.0129863747	and only if
+0.0129609498	the second part
+0.0128606798	useful for
+0.0128310265	used to
+0.0127869845	the set of
+0.0127663261	a generalization
+0.0127565838	$ o
+0.0126910604	$ g
+0.0124593977	role of
+0.0122346695	$ v
+0.0121706735	the study of
+0.0121570356	used by
+0.0121369897	t \
+0.0119899195	the origin of
+0.0119620229	along with
+0.0119198794	$ r
+0.0119010282	| \
+0.0118277431	at most
+0.0118024913	the content of
+0.0117622921	$ x
+0.0116767835	the use of
+0.0115284595	$ m
+0.0115284595	$ k
+0.0114859647	an analysis of
+0.0114755480	the importance of
+0.0114295469	existence of
+0.0114101766	new proof of
+0.0112227786	s \
+0.0110174403	n ^
+0.0109859647	a survey of
+0.0109755480	a generalization of
+0.0108817980	the evolution of
+0.0108325542	a sum of
+0.0108024913	the meaning of
+0.0108024913	the art of
+0.0107378955	an example
+0.0107314869	a part of
+0.0107306429	the structure of
+0.0105859647	a note on
+0.0104755480	a variety of
+0.0104633197	course on
+0.0104593977	study of
+0.0103330765	used in
+0.0103319148	a method for
+0.0102128362	a set of
+0.0100913084	the notion of
+0.0100174403	n +
+0.0098929864	the construction of
+0.0098156050	the distribution of
+0.0097701293	the discovery of
+0.0097565838	$ c
+0.0097339981	an example of
+0.0096980821	$ b
+0.0091922112	$ e
+0.0091430135	context of
+0.0091235584	$ u
+0.0090706563	made by
+0.0089063659	$ d
+0.0088794729	the definition of
+0.0087870784	the nature of
+0.0087701293	a study of
+0.0086602560	used as
+0.0085144117	+ \
+0.0084700822	part of
+0.0083103343	amount of
+0.0082397278	need to
+0.0081131627	structure of
+0.0080416626	the search for
+0.0079159711	different from
+0.0076778758	given at
+0.0070757580	well as
+0.0068940900	given by
+0.0061264596	use of
+0.0051633760	1 \
+0.0047365976	= \
+0.0045693194	made to
+0.0043429540	found in
