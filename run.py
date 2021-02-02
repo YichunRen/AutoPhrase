@@ -243,7 +243,7 @@ def main():
     elif target == "test":
         runtime_status['testing'] = 1
         #run_report(runtime_status)
-        run_eda(runtime_status)
+        autophrase(runtime_status)
         runtime_status['testing'] = 0
         print(" => Done! See your test result in data directory.")
 
