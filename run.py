@@ -193,9 +193,9 @@ def run_eda(runtime_status):
     if runtime_status['testing'] == 1:
         eda_config['data_path'] = "test/testdata/test_raw.txt"
 
-    generate_stats(**eda_config)
+    #generate_stats(**eda_config)
     # execute notebook / convert to html
-    convert_notebook(**eda_config)
+    #convert_notebook(**eda_config)
 
     #save version data if testing
     if runtime_status['testing'] == 1:
@@ -243,7 +243,7 @@ def main():
     elif target == "test":
         runtime_status['testing'] = 1
         #run_report(runtime_status)
-        autophrase(runtime_status)
+        run_eda(runtime_status)
         runtime_status['testing'] = 0
         print(" => Done! See your test result in data directory.")
 
