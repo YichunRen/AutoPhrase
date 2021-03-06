@@ -249,9 +249,12 @@ def main():
 
     #reset the whole repo before starting a new run
     elif target == "reset":
-        for k in runtime_status.keys():
-            runtime_status[k] = 0
-        reset()
+        if runtime_status['initialzed'] == 0:
+            print('First Run!')
+        else:
+            for k in runtime_status.keys():
+                runtime_status[k] = 0
+            reset()
         
     # Saving runtime status
     with open("src/runtime.json", "w") as outfile:
