@@ -249,7 +249,7 @@ def main():
 
     #reset the whole repo before starting a new run
     elif target == "reset":
-        if runtime_status['initialzed'] == 0:
+        if runtime_status['data_prep'] == 0:
             print('First Run!')
         else:
             for k in runtime_status.keys():
